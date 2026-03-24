@@ -62,10 +62,33 @@ git clone https://github.com/[your-username]/Kaggle-Harmonizing-the-data-of-your
 cd Kaggle-Harmonizing-the-data-of-your-data
 
 # Install dependencies
-pip install numpy pandas scikit-learn
+python -m venv .venv
+.venv\\Scripts\\python.exe -m pip install -r requirements.txt
 ```
 
 ### Quick Start
+
+#### End-to-End Pipeline (Train → Infer → Score)
+
+Run the full workflow with one command:
+
+```bash
+.venv\Scripts\python.exe scripts/quickstart.py --device cpu
+```
+
+Useful variants:
+
+```bash
+# Reuse an existing model checkpoint
+.venv\Scripts\python.exe scripts/quickstart.py --skip-train --device cpu
+
+# Run train + infer only
+.venv\Scripts\python.exe scripts/quickstart.py --skip-score --device cpu
+```
+
+Default outputs:
+- `outputs/predictions/submission.csv`
+- `outputs/metrics/detailed_metrics.csv`
 
 The scoring function is located in [src/Scoring.py](src/Scoring.py).
 
