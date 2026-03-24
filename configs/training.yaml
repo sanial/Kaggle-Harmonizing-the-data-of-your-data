@@ -1,0 +1,27 @@
+# Transformer-based SDRF Extraction Training Config
+
+model:
+  model_name: "bert-base-uncased"
+  hidden_size: 768
+  num_labels: 20  # Adjust based on SDRF field count
+  dropout: 0.1
+
+training:
+  learning_rate: 0.00002
+  batch_size: 16
+  num_epochs: 3
+  warmup_steps: 500
+  weight_decay: 0.01
+  max_grad_norm: 1.0
+  seed: 42
+
+data:
+  max_length: 512
+  train_path: "data/TrainingSDRFs"
+  test_path: "data/TestPubText"
+  val_split: 0.1
+
+output:
+  model_path: "outputs/models/transformer_sdrf"
+  log_path: "outputs/logs"
+  predictions_path: "outputs/predictions"
