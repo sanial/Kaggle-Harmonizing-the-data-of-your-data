@@ -1,0 +1,4150 @@
+{
+  "20160308_Haura-SCC-PG-06S15101166-DIA.raw": {
+    "Source Name": [
+      "Haura-SCC-PG-06S15101166"
+    ],
+    "Assay Name": [
+      "20160308_Haura-SCC-PG-06S15101166-DIA.raw"
+    ],
+    "Raw Data File": [
+      "20160308_Haura-SCC-PG-06S15101166-DIA.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung"
+    ],
+    "Characteristics[Disease]": [
+      "lung squamous cell carcinoma"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "108 patients"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate3000 RSLC UPLC",
+      "an electrospray quadrupole-orbital ion trap mass spectrometer (Q Exactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation",
+      "nanoflow ultra-high performance liquid chromatograph (RSLC, Dionex, Sunnyvale, CA)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for each TMT experiment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.6\u2009ml/min",
+      "300\u2009nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Resolution was set at 70,000 for MS1 and 17,500 for MS/MS"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data independent acquisition (DIA)"
+    ]
+  },
+  "20160316_Haura-SCC-PG-06S15092276-DIA.raw": {
+    "Source Name": [
+      "Haura-SCC-PG-06S15092276"
+    ],
+    "Assay Name": [
+      "20160316_Haura-SCC-PG-06S15092276-DIA.raw"
+    ],
+    "Raw Data File": [
+      "20160316_Haura-SCC-PG-06S15092276-DIA.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung"
+    ],
+    "Characteristics[Disease]": [
+      "lung squamous cell carcinoma"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "108 patients"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate3000 RSLC UPLC",
+      "an electrospray quadrupole-orbital ion trap mass spectrometer (Q Exactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation",
+      "nanoflow ultra-high performance liquid chromatograph (RSLC, Dionex, Sunnyvale, CA)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for each TMT experiment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.6\u2009ml/min",
+      "300\u2009nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Resolution was set at 70,000 for MS1 and 17,500 for MS/MS"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data independent acquisition (DIA)"
+    ]
+  },
+  "20160311_Haura-SCC-PG-06S15092283-DIA.raw": {
+    "Source Name": [
+      "Haura-SCC-PG-06S15092283"
+    ],
+    "Assay Name": [
+      "20160311_Haura-SCC-PG-06S15092283-DIA.raw"
+    ],
+    "Raw Data File": [
+      "20160311_Haura-SCC-PG-06S15092283-DIA.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung"
+    ],
+    "Characteristics[Disease]": [
+      "lung squamous cell carcinoma"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "108 patients"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate3000 RSLC UPLC",
+      "an electrospray quadrupole-orbital ion trap mass spectrometer (Q Exactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation",
+      "nanoflow ultra-high performance liquid chromatograph (RSLC, Dionex, Sunnyvale, CA)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for each TMT experiment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.6\u2009ml/min",
+      "300\u2009nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Resolution was set at 70,000 for MS1 and 17,500 for MS/MS"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data independent acquisition (DIA)"
+    ]
+  },
+  "20160302_Haura-SCC-PG-06S15101136-DIA.raw": {
+    "Source Name": [
+      "Haura-SCC-PG-06S15101136"
+    ],
+    "Assay Name": [
+      "20160302_Haura-SCC-PG-06S15101136-DIA.raw"
+    ],
+    "Raw Data File": [
+      "20160302_Haura-SCC-PG-06S15101136-DIA.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung"
+    ],
+    "Characteristics[Disease]": [
+      "lung squamous cell carcinoma"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "108 patients"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate3000 RSLC UPLC",
+      "an electrospray quadrupole-orbital ion trap mass spectrometer (Q Exactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation",
+      "nanoflow ultra-high performance liquid chromatograph (RSLC, Dionex, Sunnyvale, CA)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for each TMT experiment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.6\u2009ml/min",
+      "300\u2009nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Resolution was set at 70,000 for MS1 and 17,500 for MS/MS"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data independent acquisition (DIA)"
+    ]
+  },
+  "20160308_Haura-SCC-PG-06S15101172-DIA.raw": {
+    "Source Name": [
+      "Haura-SCC-PG-06S15101172"
+    ],
+    "Assay Name": [
+      "20160308_Haura-SCC-PG-06S15101172-DIA.raw"
+    ],
+    "Raw Data File": [
+      "20160308_Haura-SCC-PG-06S15101172-DIA.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung"
+    ],
+    "Characteristics[Disease]": [
+      "lung squamous cell carcinoma"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "108 patients"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate3000 RSLC UPLC",
+      "an electrospray quadrupole-orbital ion trap mass spectrometer (Q Exactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation",
+      "nanoflow ultra-high performance liquid chromatograph (RSLC, Dionex, Sunnyvale, CA)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for each TMT experiment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.6\u2009ml/min",
+      "300\u2009nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Resolution was set at 70,000 for MS1 and 17,500 for MS/MS"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data independent acquisition (DIA)"
+    ]
+  },
+  "20160315_Haura-SCC-PG-06S15101130-DIA.raw": {
+    "Source Name": [
+      "Haura-SCC-PG-06S15101130"
+    ],
+    "Assay Name": [
+      "20160315_Haura-SCC-PG-06S15101130-DIA.raw"
+    ],
+    "Raw Data File": [
+      "20160315_Haura-SCC-PG-06S15101130-DIA.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung"
+    ],
+    "Characteristics[Disease]": [
+      "lung squamous cell carcinoma"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "108 patients"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate3000 RSLC UPLC",
+      "an electrospray quadrupole-orbital ion trap mass spectrometer (Q Exactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation",
+      "nanoflow ultra-high performance liquid chromatograph (RSLC, Dionex, Sunnyvale, CA)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for each TMT experiment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.6\u2009ml/min",
+      "300\u2009nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Resolution was set at 70,000 for MS1 and 17,500 for MS/MS"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data independent acquisition (DIA)"
+    ]
+  },
+  "20160303_Koomen-SCC-Pool-run06.raw": {
+    "Source Name": [
+      "Koomen-SCC-Pool-run06"
+    ],
+    "Assay Name": [
+      "20160303_Koomen-SCC-Pool-run06.raw"
+    ],
+    "Raw Data File": [
+      "20160303_Koomen-SCC-Pool-run06.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung"
+    ],
+    "Characteristics[Disease]": [
+      "lung squamous cell carcinoma"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "108 patients"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "run06"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate3000 RSLC UPLC",
+      "an electrospray quadrupole-orbital ion trap mass spectrometer (Q Exactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation",
+      "nanoflow ultra-high performance liquid chromatograph (RSLC, Dionex, Sunnyvale, CA)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for each TMT experiment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.6\u2009ml/min",
+      "300\u2009nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Resolution was set at 70,000 for MS1 and 17,500 for MS/MS"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner"
+    ]
+  },
+  "20160310_Koomen-SCC-Pool-run14.raw": {
+    "Source Name": [
+      "Koomen-SCC-Pool-run14"
+    ],
+    "Assay Name": [
+      "20160310_Koomen-SCC-Pool-run14.raw"
+    ],
+    "Raw Data File": [
+      "20160310_Koomen-SCC-Pool-run14.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung"
+    ],
+    "Characteristics[Disease]": [
+      "lung squamous cell carcinoma"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "108 patients"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "run14"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate3000 RSLC UPLC",
+      "an electrospray quadrupole-orbital ion trap mass spectrometer (Q Exactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation",
+      "nanoflow ultra-high performance liquid chromatograph (RSLC, Dionex, Sunnyvale, CA)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for each TMT experiment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.6\u2009ml/min",
+      "300\u2009nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Resolution was set at 70,000 for MS1 and 17,500 for MS/MS"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner"
+    ]
+  },
+  "20160316_Haura-SCC-PG-06S15101154-DIA.raw": {
+    "Source Name": [
+      "Haura-SCC-PG-06S15101154"
+    ],
+    "Assay Name": [
+      "20160316_Haura-SCC-PG-06S15101154-DIA.raw"
+    ],
+    "Raw Data File": [
+      "20160316_Haura-SCC-PG-06S15101154-DIA.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung"
+    ],
+    "Characteristics[Disease]": [
+      "lung squamous cell carcinoma"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "108 patients"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate3000 RSLC UPLC",
+      "an electrospray quadrupole-orbital ion trap mass spectrometer (Q Exactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation",
+      "nanoflow ultra-high performance liquid chromatograph (RSLC, Dionex, Sunnyvale, CA)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for each TMT experiment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.6\u2009ml/min",
+      "300\u2009nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Resolution was set at 70,000 for MS1 and 17,500 for MS/MS"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data independent acquisition (DIA)"
+    ]
+  },
+  "20160310_Haura-SCC-PG-06S15101157-DIA.raw": {
+    "Source Name": [
+      "Haura-SCC-PG-06S15101157"
+    ],
+    "Assay Name": [
+      "20160310_Haura-SCC-PG-06S15101157-DIA.raw"
+    ],
+    "Raw Data File": [
+      "20160310_Haura-SCC-PG-06S15101157-DIA.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung"
+    ],
+    "Characteristics[Disease]": [
+      "lung squamous cell carcinoma"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "108 patients"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate3000 RSLC UPLC",
+      "an electrospray quadrupole-orbital ion trap mass spectrometer (Q Exactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation",
+      "nanoflow ultra-high performance liquid chromatograph (RSLC, Dionex, Sunnyvale, CA)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for each TMT experiment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.6\u2009ml/min",
+      "300\u2009nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Resolution was set at 70,000 for MS1 and 17,500 for MS/MS"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data independent acquisition (DIA)"
+    ]
+  },
+  "20160316_Haura-SCC-PG-06S15101150-DIA.raw": {
+    "Source Name": [
+      "Haura-SCC-PG-06S15101150"
+    ],
+    "Assay Name": [
+      "20160316_Haura-SCC-PG-06S15101150-DIA.raw"
+    ],
+    "Raw Data File": [
+      "20160316_Haura-SCC-PG-06S15101150-DIA.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung"
+    ],
+    "Characteristics[Disease]": [
+      "lung squamous cell carcinoma"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "108 patients"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate3000 RSLC UPLC",
+      "an electrospray quadrupole-orbital ion trap mass spectrometer (Q Exactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation",
+      "nanoflow ultra-high performance liquid chromatograph (RSLC, Dionex, Sunnyvale, CA)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for each TMT experiment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.6\u2009ml/min",
+      "300\u2009nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Resolution was set at 70,000 for MS1 and 17,500 for MS/MS"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data independent acquisition (DIA)"
+    ]
+  },
+  "20160315_Koomen-SCC-Pool-run18.raw": {
+    "Source Name": [
+      "Koomen-SCC-Pool-run18"
+    ],
+    "Assay Name": [
+      "20160315_Koomen-SCC-Pool-run18.raw"
+    ],
+    "Raw Data File": [
+      "20160315_Koomen-SCC-Pool-run18.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung"
+    ],
+    "Characteristics[Disease]": [
+      "lung squamous cell carcinoma"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "108 patients"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "run18"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate3000 RSLC UPLC",
+      "an electrospray quadrupole-orbital ion trap mass spectrometer (Q Exactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation",
+      "nanoflow ultra-high performance liquid chromatograph (RSLC, Dionex, Sunnyvale, CA)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for each TMT experiment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.6\u2009ml/min",
+      "300\u2009nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Resolution was set at 70,000 for MS1 and 17,500 for MS/MS"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner"
+    ]
+  },
+  "20160302_Haura-SCC-PG-06S15101174-DIA.raw": {
+    "Source Name": [
+      "Haura-SCC-PG-06S15101174"
+    ],
+    "Assay Name": [
+      "20160302_Haura-SCC-PG-06S15101174-DIA.raw"
+    ],
+    "Raw Data File": [
+      "20160302_Haura-SCC-PG-06S15101174-DIA.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung"
+    ],
+    "Characteristics[Disease]": [
+      "lung squamous cell carcinoma"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "108 patients"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate3000 RSLC UPLC",
+      "an electrospray quadrupole-orbital ion trap mass spectrometer (Q Exactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation",
+      "nanoflow ultra-high performance liquid chromatograph (RSLC, Dionex, Sunnyvale, CA)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for each TMT experiment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.6\u2009ml/min",
+      "300\u2009nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Resolution was set at 70,000 for MS1 and 17,500 for MS/MS"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data independent acquisition (DIA)"
+    ]
+  },
+  "20160303_Haura-SCC-PG-06S15092273-DIA.raw": {
+    "Source Name": [
+      "Haura-SCC-PG-06S15092273"
+    ],
+    "Assay Name": [
+      "20160303_Haura-SCC-PG-06S15092273-DIA.raw"
+    ],
+    "Raw Data File": [
+      "20160303_Haura-SCC-PG-06S15092273-DIA.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung"
+    ],
+    "Characteristics[Disease]": [
+      "lung squamous cell carcinoma"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "108 patients"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate3000 RSLC UPLC",
+      "an electrospray quadrupole-orbital ion trap mass spectrometer (Q Exactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation",
+      "nanoflow ultra-high performance liquid chromatograph (RSLC, Dionex, Sunnyvale, CA)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for each TMT experiment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.6\u2009ml/min",
+      "300\u2009nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Resolution was set at 70,000 for MS1 and 17,500 for MS/MS"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data independent acquisition (DIA)"
+    ]
+  },
+  "20160315_Haura-SCC-PG-06S15092287-DIA.raw": {
+    "Source Name": [
+      "Haura-SCC-PG-06S15092287"
+    ],
+    "Assay Name": [
+      "20160315_Haura-SCC-PG-06S15092287-DIA.raw"
+    ],
+    "Raw Data File": [
+      "20160315_Haura-SCC-PG-06S15092287-DIA.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung"
+    ],
+    "Characteristics[Disease]": [
+      "lung squamous cell carcinoma"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "108 patients"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate3000 RSLC UPLC",
+      "an electrospray quadrupole-orbital ion trap mass spectrometer (Q Exactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation",
+      "nanoflow ultra-high performance liquid chromatograph (RSLC, Dionex, Sunnyvale, CA)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for each TMT experiment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.6\u2009ml/min",
+      "300\u2009nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Resolution was set at 70,000 for MS1 and 17,500 for MS/MS"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data independent acquisition (DIA)"
+    ]
+  },
+  "20160315_Haura-SCC-PG-06S15092303-DIA.raw": {
+    "Source Name": [
+      "Haura-SCC-PG-06S15092303"
+    ],
+    "Assay Name": [
+      "20160315_Haura-SCC-PG-06S15092303-DIA.raw"
+    ],
+    "Raw Data File": [
+      "20160315_Haura-SCC-PG-06S15092303-DIA.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung"
+    ],
+    "Characteristics[Disease]": [
+      "lung squamous cell carcinoma"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "108 patients"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate3000 RSLC UPLC",
+      "an electrospray quadrupole-orbital ion trap mass spectrometer (Q Exactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation",
+      "nanoflow ultra-high performance liquid chromatograph (RSLC, Dionex, Sunnyvale, CA)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for each TMT experiment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.6\u2009ml/min",
+      "300\u2009nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Resolution was set at 70,000 for MS1 and 17,500 for MS/MS"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data independent acquisition (DIA)"
+    ]
+  },
+  "20160311_Haura-SCC-PG-06S15101119-DIA.raw": {
+    "Source Name": [
+      "Haura-SCC-PG-06S15101119"
+    ],
+    "Assay Name": [
+      "20160311_Haura-SCC-PG-06S15101119-DIA.raw"
+    ],
+    "Raw Data File": [
+      "20160311_Haura-SCC-PG-06S15101119-DIA.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung"
+    ],
+    "Characteristics[Disease]": [
+      "lung squamous cell carcinoma"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "108 patients"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate3000 RSLC UPLC",
+      "an electrospray quadrupole-orbital ion trap mass spectrometer (Q Exactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation",
+      "nanoflow ultra-high performance liquid chromatograph (RSLC, Dionex, Sunnyvale, CA)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for each TMT experiment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.6\u2009ml/min",
+      "300\u2009nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Resolution was set at 70,000 for MS1 and 17,500 for MS/MS"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data independent acquisition (DIA)"
+    ]
+  },
+  "20160315_Haura-SCC-PG-06S15101185-DIA.raw": {
+    "Source Name": [
+      "Haura-SCC-PG-06S15101185"
+    ],
+    "Assay Name": [
+      "20160315_Haura-SCC-PG-06S15101185-DIA.raw"
+    ],
+    "Raw Data File": [
+      "20160315_Haura-SCC-PG-06S15101185-DIA.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung"
+    ],
+    "Characteristics[Disease]": [
+      "lung squamous cell carcinoma"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "108 patients"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate3000 RSLC UPLC",
+      "an electrospray quadrupole-orbital ion trap mass spectrometer (Q Exactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation",
+      "nanoflow ultra-high performance liquid chromatograph (RSLC, Dionex, Sunnyvale, CA)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for each TMT experiment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.6\u2009ml/min",
+      "300\u2009nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Resolution was set at 70,000 for MS1 and 17,500 for MS/MS"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data independent acquisition (DIA)"
+    ]
+  },
+  "20160310_Haura-SCC-PG-06S15101177-DIA.raw": {
+    "Source Name": [
+      "Haura-SCC-PG-06S15101177"
+    ],
+    "Assay Name": [
+      "20160310_Haura-SCC-PG-06S15101177-DIA.raw"
+    ],
+    "Raw Data File": [
+      "20160310_Haura-SCC-PG-06S15101177-DIA.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung"
+    ],
+    "Characteristics[Disease]": [
+      "lung squamous cell carcinoma"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "108 patients"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate3000 RSLC UPLC",
+      "an electrospray quadrupole-orbital ion trap mass spectrometer (Q Exactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation",
+      "nanoflow ultra-high performance liquid chromatograph (RSLC, Dionex, Sunnyvale, CA)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for each TMT experiment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.6\u2009ml/min",
+      "300\u2009nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Resolution was set at 70,000 for MS1 and 17,500 for MS/MS"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data independent acquisition (DIA)"
+    ]
+  },
+  "20160309_Haura-SCC-PG-06S15092278-DIA.raw": {
+    "Source Name": [
+      "Haura-SCC-PG-06S15092278"
+    ],
+    "Assay Name": [
+      "20160309_Haura-SCC-PG-06S15092278-DIA.raw"
+    ],
+    "Raw Data File": [
+      "20160309_Haura-SCC-PG-06S15092278-DIA.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung"
+    ],
+    "Characteristics[Disease]": [
+      "lung squamous cell carcinoma"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "108 patients"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate3000 RSLC UPLC",
+      "an electrospray quadrupole-orbital ion trap mass spectrometer (Q Exactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation",
+      "nanoflow ultra-high performance liquid chromatograph (RSLC, Dionex, Sunnyvale, CA)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for each TMT experiment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.6\u2009ml/min",
+      "300\u2009nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Resolution was set at 70,000 for MS1 and 17,500 for MS/MS"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data independent acquisition (DIA)"
+    ]
+  },
+  "20160308_Haura-SCC-PG-06S15092274-DIA.raw": {
+    "Source Name": [
+      "Haura-SCC-PG-06S15092274"
+    ],
+    "Assay Name": [
+      "20160308_Haura-SCC-PG-06S15092274-DIA.raw"
+    ],
+    "Raw Data File": [
+      "20160308_Haura-SCC-PG-06S15092274-DIA.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung"
+    ],
+    "Characteristics[Disease]": [
+      "lung squamous cell carcinoma"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "108 patients"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate3000 RSLC UPLC",
+      "an electrospray quadrupole-orbital ion trap mass spectrometer (Q Exactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation",
+      "nanoflow ultra-high performance liquid chromatograph (RSLC, Dionex, Sunnyvale, CA)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for each TMT experiment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.6\u2009ml/min",
+      "300\u2009nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Resolution was set at 70,000 for MS1 and 17,500 for MS/MS"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data independent acquisition (DIA)"
+    ]
+  },
+  "20160304_Haura-SCC-PG-06S15101121-DIA.raw": {
+    "Source Name": [
+      "Haura-SCC-PG-06S15101121"
+    ],
+    "Assay Name": [
+      "20160304_Haura-SCC-PG-06S15101121-DIA.raw"
+    ],
+    "Raw Data File": [
+      "20160304_Haura-SCC-PG-06S15101121-DIA.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung"
+    ],
+    "Characteristics[Disease]": [
+      "lung squamous cell carcinoma"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "108 patients"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate3000 RSLC UPLC",
+      "an electrospray quadrupole-orbital ion trap mass spectrometer (Q Exactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation",
+      "nanoflow ultra-high performance liquid chromatograph (RSLC, Dionex, Sunnyvale, CA)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for each TMT experiment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.6\u2009ml/min",
+      "300\u2009nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Resolution was set at 70,000 for MS1 and 17,500 for MS/MS"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data independent acquisition (DIA)"
+    ]
+  },
+  "20160302_Koomen-SCC-Pool-run04.raw": {
+    "Source Name": [
+      "Koomen-SCC-Pool-run04"
+    ],
+    "Assay Name": [
+      "20160302_Koomen-SCC-Pool-run04.raw"
+    ],
+    "Raw Data File": [
+      "20160302_Koomen-SCC-Pool-run04.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung"
+    ],
+    "Characteristics[Disease]": [
+      "lung squamous cell carcinoma"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "108 patients"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "run04"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate3000 RSLC UPLC",
+      "an electrospray quadrupole-orbital ion trap mass spectrometer (Q Exactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation",
+      "nanoflow ultra-high performance liquid chromatograph (RSLC, Dionex, Sunnyvale, CA)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for each TMT experiment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.6\u2009ml/min",
+      "300\u2009nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Resolution was set at 70,000 for MS1 and 17,500 for MS/MS"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner"
+    ]
+  },
+  "20160311_Haura-SCC-PG-06S15101176-DIA.raw": {
+    "Source Name": [
+      "Haura-SCC-PG-06S15101176"
+    ],
+    "Assay Name": [
+      "20160311_Haura-SCC-PG-06S15101176-DIA.raw"
+    ],
+    "Raw Data File": [
+      "20160311_Haura-SCC-PG-06S15101176-DIA.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung"
+    ],
+    "Characteristics[Disease]": [
+      "lung squamous cell carcinoma"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "108 patients"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate3000 RSLC UPLC",
+      "an electrospray quadrupole-orbital ion trap mass spectrometer (Q Exactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation",
+      "nanoflow ultra-high performance liquid chromatograph (RSLC, Dionex, Sunnyvale, CA)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for each TMT experiment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.6\u2009ml/min",
+      "300\u2009nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Resolution was set at 70,000 for MS1 and 17,500 for MS/MS"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data independent acquisition (DIA)"
+    ]
+  },
+  "20160308_Haura-SCC-PG-06S15101181-DIA.raw": {
+    "Source Name": [
+      "Haura-SCC-PG-06S15101181"
+    ],
+    "Assay Name": [
+      "20160308_Haura-SCC-PG-06S15101181-DIA.raw"
+    ],
+    "Raw Data File": [
+      "20160308_Haura-SCC-PG-06S15101181-DIA.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung"
+    ],
+    "Characteristics[Disease]": [
+      "lung squamous cell carcinoma"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "108 patients"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate3000 RSLC UPLC",
+      "an electrospray quadrupole-orbital ion trap mass spectrometer (Q Exactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation",
+      "nanoflow ultra-high performance liquid chromatograph (RSLC, Dionex, Sunnyvale, CA)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for each TMT experiment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.6\u2009ml/min",
+      "300\u2009nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Resolution was set at 70,000 for MS1 and 17,500 for MS/MS"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data independent acquisition (DIA)"
+    ]
+  },
+  "20160309_Haura-SCC-PG-06S15101137-DIA.raw": {
+    "Source Name": [
+      "Haura-SCC-PG-06S15101137"
+    ],
+    "Assay Name": [
+      "20160309_Haura-SCC-PG-06S15101137-DIA.raw"
+    ],
+    "Raw Data File": [
+      "20160309_Haura-SCC-PG-06S15101137-DIA.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung"
+    ],
+    "Characteristics[Disease]": [
+      "lung squamous cell carcinoma"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "108 patients"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate3000 RSLC UPLC",
+      "an electrospray quadrupole-orbital ion trap mass spectrometer (Q Exactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation",
+      "nanoflow ultra-high performance liquid chromatograph (RSLC, Dionex, Sunnyvale, CA)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for each TMT experiment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.6\u2009ml/min",
+      "300\u2009nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Resolution was set at 70,000 for MS1 and 17,500 for MS/MS"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data independent acquisition (DIA)"
+    ]
+  },
+  "20160316_Koomen-SCC-Pool-run20.raw": {
+    "Source Name": [
+      "Koomen-SCC-Pool-run20"
+    ],
+    "Assay Name": [
+      "20160316_Koomen-SCC-Pool-run20.raw"
+    ],
+    "Raw Data File": [
+      "20160316_Koomen-SCC-Pool-run20.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung"
+    ],
+    "Characteristics[Disease]": [
+      "lung squamous cell carcinoma"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "108 patients"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "run20"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate3000 RSLC UPLC",
+      "an electrospray quadrupole-orbital ion trap mass spectrometer (Q Exactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation",
+      "nanoflow ultra-high performance liquid chromatograph (RSLC, Dionex, Sunnyvale, CA)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for each TMT experiment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.6\u2009ml/min",
+      "300\u2009nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Resolution was set at 70,000 for MS1 and 17,500 for MS/MS"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner"
+    ]
+  },
+  "20160310_Haura-SCC-PG-06S15092298-DIA.raw": {
+    "Source Name": [
+      "Haura-SCC-PG-06S15092298"
+    ],
+    "Assay Name": [
+      "20160310_Haura-SCC-PG-06S15092298-DIA.raw"
+    ],
+    "Raw Data File": [
+      "20160310_Haura-SCC-PG-06S15092298-DIA.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+       "Characteristics[Specimen]": [
+      "tumor tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung"
+    ],
+    "Characteristics[Disease]": [
+      "lung squamous cell carcinoma"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "108 patients"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate3000 RSLC UPLC",
+      "an electrospray quadrupole-orbital ion trap mass spectrometer (Q Exactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation",
+      "nanoflow ultra-high performance liquid chromatograph (RSLC, Dionex, Sunnyvale, CA)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for each TMT experiment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.6\u2009ml/min",
+      "300\u2009nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Resolution was set at 70,000 for MS1 and 17,500 for MS/MS"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data independent acquisition (DIA)"
+    ]
+  },
+  "20160311_Haura-SCC-PG-06S15101173-DIA.raw": {
+    "Source Name": [
+      "Haura-SCC-PG-06S15101173"
+    ],
+    "Assay Name": [
+      "20160311_Haura-SCC-PG-06S15101173-DIA.raw"
+    ],
+    "Raw Data File": [
+      "20160311_Haura-SCC-PG-06S15101173-DIA.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung"
+    ],
+    "Characteristics[Disease]": [
+      "lung squamous cell carcinoma"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "108 patients"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate3000 RSLC UPLC",
+      "an electrospray quadrupole-orbital ion trap mass spectrometer (Q Exactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation",
+      "nanoflow ultra-high performance liquid chromatograph (RSLC, Dionex, Sunnyvale, CA)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for each TMT experiment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.6\u2009ml/min",
+      "300\u2009nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Resolution was set at 70,000 for MS1 and 17,500 for MS/MS"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data independent acquisition (DIA)"
+    ]
+  },
+  "20160302_Haura-SCC-PG-06S15101126-DIA.raw": {
+    "Source Name": [
+      "Haura-SCC-PG-06S15101126"
+    ],
+    "Assay Name": [
+      "20160302_Haura-SCC-PG-06S15101126-DIA.raw"
+    ],
+    "Raw Data File": [
+      "20160302_Haura-SCC-PG-06S15101126-DIA.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung"
+    ],
+    "Characteristics[Disease]": [
+      "lung squamous cell carcinoma"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "108 patients"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate3000 RSLC UPLC",
+      "an electrospray quadrupole-orbital ion trap mass spectrometer (Q Exactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation",
+      "nanoflow ultra-high performance liquid chromatograph (RSLC, Dionex, Sunnyvale, CA)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for each TMT experiment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.6\u2009ml/min",
+      "300\u2009nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Resolution was set at 70,000 for MS1 and 17,500 for MS/MS"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data independent acquisition (DIA)"
+    ]
+  },
+  "20160310_Haura-SCC-PG-06S15092290-DIA.raw": {
+    "Source Name": [
+      "Haura-SCC-PG-06S15092290"
+    ],
+    "Assay Name": [
+      "20160310_Haura-SCC-PG-06S15092290-DIA.raw"
+    ],
+    "Raw Data File": [
+      "20160310_Haura-SCC-PG-06S15092290-DIA.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung"
+    ],
+    "Characteristics[Disease]": [
+      "lung squamous cell carcinoma"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "108 patients"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate3000 RSLC UPLC",
+      "an electrospray quadrupole-orbital ion trap mass spectrometer (Q Exactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation",
+      "nanoflow ultra-high performance liquid chromatograph (RSLC, Dionex, Sunnyvale, CA)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for each TMT experiment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.6\u2009ml/min",
+      "300\u2009nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Resolution was set at 70,000 for MS1 and 17,500 for MS/MS"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data independent acquisition (DIA)"
+    ]
+  },
+  "20160315_Haura-SCC-PG-06S15101162-DIA.raw": {
+    "Source Name": [
+      "Haura-SCC-PG-06S15101162"
+    ],
+    "Assay Name": [
+      "20160315_Haura-SCC-PG-06S15101162-DIA.raw"
+    ],
+    "Raw Data File": [
+      "20160315_Haura-SCC-PG-06S15101162-DIA.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung"
+    ],
+    "Characteristics[Disease]": [
+      "lung squamous cell carcinoma"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "108 patients"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate3000 RSLC UPLC",
+      "an electrospray quadrupole-orbital ion trap mass spectrometer (Q Exactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation",
+      "nanoflow ultra-high performance liquid chromatograph (RSLC, Dionex, Sunnyvale, CA)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for each TMT experiment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.6\u2009ml/min",
+      "300\u2009nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Resolution was set at 70,000 for MS1 and 17,500 for MS/MS"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data independent acquisition (DIA)"
+    ]
+  },
+  "20160302_Haura-SCC-PG-06S15092306-DIA.raw": {
+    "Source Name": [
+      "Haura-SCC-PG-06S15092306"
+    ],
+    "Assay Name": [
+      "20160302_Haura-SCC-PG-06S15092306-DIA.raw"
+    ],
+    "Raw Data File": [
+      "20160302_Haura-SCC-PG-06S15092306-DIA.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung"
+    ],
+    "Characteristics[Disease]": [
+      "lung squamous cell carcinoma"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "108 patients"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate3000 RSLC UPLC",
+      "an electrospray quadrupole-orbital ion trap mass spectrometer (Q Exactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation",
+      "nanoflow ultra-high performance liquid chromatograph (RSLC, Dionex, Sunnyvale, CA)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for each TMT experiment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.6\u2009ml/min",
+      "300\u2009nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Resolution was set at 70,000 for MS1 and 17,500 for MS/MS"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data independent acquisition (DIA)"
+    ]
+  },
+  "20160309_Haura-SCC-PG-06S15101147-DIA.raw": {
+    "Source Name": [
+      "Haura-SCC-PG-06S15101147"
+    ],
+    "Assay Name": [
+      "20160309_Haura-SCC-PG-06S15101147-DIA.raw"
+    ],
+    "Raw Data File": [
+      "20160309_Haura-SCC-PG-06S15101147-DIA.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung"
+    ],
+    "Characteristics[Disease]": [
+      "lung squamous cell carcinoma"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "108 patients"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate3000 RSLC UPLC",
+      "an electrospray quadrupole-orbital ion trap mass spectrometer (Q Exactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation",
+      "nanoflow ultra-high performance liquid chromatograph (RSLC, Dionex, Sunnyvale, CA)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for each TMT experiment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.6\u2009ml/min",
+      "300\u2009nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Resolution was set at 70,000 for MS1 and 17,500 for MS/MS"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data independent acquisition (DIA)"
+    ]
+  },
+  "20160301_Haura-SCC-PG-06S15101175-DIA.raw": {
+    "Source Name": [
+      "Haura-SCC-PG-06S15101175"
+    ],
+    "Assay Name": [
+      "20160301_Haura-SCC-PG-06S15101175-DIA.raw"
+    ],
+    "Raw Data File": [
+      "20160301_Haura-SCC-PG-06S15101175-DIA.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung"
+    ],
+    "Characteristics[Disease]": [
+      "lung squamous cell carcinoma"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "108 patients"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate3000 RSLC UPLC",
+      "an electrospray quadrupole-orbital ion trap mass spectrometer (Q Exactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation",
+      "nanoflow ultra-high performance liquid chromatograph (RSLC, Dionex, Sunnyvale, CA)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for each TMT experiment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.6\u2009ml/min",
+      "300\u2009nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Resolution was set at 70,000 for MS1 and 17,500 for MS/MS"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data independent acquisition (DIA)"
+    ]
+  },
+  "20160309_Haura-SCC-PG-06S10347307-DIA.raw": {
+    "Source Name": [
+      "Haura-SCC-PG-06S10347307"
+    ],
+    "Assay Name": [
+      "20160309_Haura-SCC-PG-06S10347307-DIA.raw"
+    ],
+    "Raw Data File": [
+      "20160309_Haura-SCC-PG-06S10347307-DIA.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung"
+    ],
+    "Characteristics[Disease]": [
+      "lung squamous cell carcinoma"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "108 patients"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate3000 RSLC UPLC",
+      "an electrospray quadrupole-orbital ion trap mass spectrometer (Q Exactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation",
+      "nanoflow ultra-high performance liquid chromatograph (RSLC, Dionex, Sunnyvale, CA)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for each TMT experiment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.6\u2009ml/min",
+      "300\u2009nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Resolution was set at 70,000 for MS1 and 17,500 for MS/MS"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data independent acquisition (DIA)"
+    ]
+  },
+  "20160316_Haura-SCC-PG-06S15092304-DIA.raw": {
+    "Source Name": [
+      "Haura-SCC-PG-06S15092304"
+    ],
+    "Assay Name": [
+      "20160316_Haura-SCC-PG-06S15092304-DIA.raw"
+    ],
+    "Raw Data File": [
+      "20160316_Haura-SCC-PG-06S15092304-DIA.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung"
+    ],
+    "Characteristics[Disease]": [
+      "lung squamous cell carcinoma"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "108 patients"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate3000 RSLC UPLC",
+      "an electrospray quadrupole-orbital ion trap mass spectrometer (Q Exactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation",
+      "nanoflow ultra-high performance liquid chromatograph (RSLC, Dionex, Sunnyvale, CA)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for each TMT experiment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.6\u2009ml/min",
+      "300\u2009nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Resolution was set at 70,000 for MS1 and 17,500 for MS/MS"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data independent acquisition (DIA)"
+    ]
+  },
+  "20160310_Haura-SCC-PG-06S15101165-DIA.raw": {
+    "Source Name": [
+      "Haura-SCC-PG-06S15101165"
+    ],
+    "Assay Name": [
+      "20160310_Haura-SCC-PG-06S15101165-DIA.raw"
+    ],
+    "Raw Data File": [
+      "20160310_Haura-SCC-PG-06S15101165-DIA.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung"
+    ],
+    "Characteristics[Disease]": [
+      "lung squamous cell carcinoma"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "108 patients"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate3000 RSLC UPLC",
+      "an electrospray quadrupole-orbital ion trap mass spectrometer (Q Exactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation",
+      "nanoflow ultra-high performance liquid chromatograph (RSLC, Dionex, Sunnyvale, CA)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for each TMT experiment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.6\u2009ml/min",
+      "300\u2009nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Resolution was set at 70,000 for MS1 and 17,500 for MS/MS"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data independent acquisition (DIA)"
+    ]
+  },
+  "20160308_Haura-SCC-PG-06S15101151-DIA.raw": {
+    "Source Name": [
+      "Haura-SCC-PG-06S15101151"
+    ],
+    "Assay Name": [
+      "20160308_Haura-SCC-PG-06S15101151-DIA.raw"
+    ],
+    "Raw Data File": [
+      "20160308_Haura-SCC-PG-06S15101151-DIA.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung"
+    ],
+    "Characteristics[Disease]": [
+      "lung squamous cell carcinoma"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "108 patients"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate3000 RSLC UPLC",
+      "an electrospray quadrupole-orbital ion trap mass spectrometer (Q Exactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation",
+      "nanoflow ultra-high performance liquid chromatograph (RSLC, Dionex, Sunnyvale, CA)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for each TMT experiment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.6\u2009ml/min",
+      "300\u2009nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Resolution was set at 70,000 for MS1 and 17,500 for MS/MS"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data independent acquisition (DIA)"
+    ]
+  },
+  "20160309_Haura-SCC-PG-06S15101155-DIA.raw": {
+    "Source Name": [
+      "Haura-SCC-PG-06S15101155"
+    ],
+    "Assay Name": [
+      "20160309_Haura-SCC-PG-06S15101155-DIA.raw"
+    ],
+    "Raw Data File": [
+      "20160309_Haura-SCC-PG-06S15101155-DIA.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung"
+    ],
+    "Characteristics[Disease]": [
+      "lung squamous cell carcinoma"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "108 patients"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate3000 RSLC UPLC",
+      "an electrospray quadrupole-orbital ion trap mass spectrometer (Q Exactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation",
+      "nanoflow ultra-high performance liquid chromatograph (RSLC, Dionex, Sunnyvale, CA)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for each TMT experiment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.6\u2009ml/min",
+      "300\u2009nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Resolution was set at 70,000 for MS1 and 17,500 for MS/MS"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data independent acquisition (DIA)"
+    ]
+  },
+  "20160302_Haura-SCC-PG-06S15101188-DIA.raw": {
+    "Source Name": [
+      "Haura-SCC-PG-06S15101188"
+    ],
+    "Assay Name": [
+      "20160302_Haura-SCC-PG-06S15101188-DIA.raw"
+    ],
+    "Raw Data File": [
+      "20160302_Haura-SCC-PG-06S15101188-DIA.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung"
+    ],
+    "Characteristics[Disease]": [
+      "lung squamous cell carcinoma"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "108 patients"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate3000 RSLC UPLC",
+      "an electrospray quadrupole-orbital ion trap mass spectrometer (Q Exactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation",
+      "nanoflow ultra-high performance liquid chromatograph (RSLC, Dionex, Sunnyvale, CA)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for each TMT experiment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.6\u2009ml/min",
+      "300\u2009nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Resolution was set at 70,000 for MS1 and 17,500 for MS/MS"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data independent acquisition (DIA)"
+    ]
+  },
+  "20160303_Koomen-SCC-Pool-run05.raw": {
+    "Source Name": [
+      "Koomen-SCC-Pool-run05"
+    ],
+    "Assay Name": [
+      "20160303_Koomen-SCC-Pool-run05.raw"
+    ],
+    "Raw Data File": [
+      "20160303_Koomen-SCC-Pool-run05.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung"
+    ],
+    "Characteristics[Disease]": [
+      "lung squamous cell carcinoma"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "108 patients"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "run05"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate3000 RSLC UPLC",
+      "an electrospray quadrupole-orbital ion trap mass spectrometer (Q Exactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation",
+      "nanoflow ultra-high performance liquid chromatograph (RSLC, Dionex, Sunnyvale, CA)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for each TMT experiment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.6\u2009ml/min",
+      "300\u2009nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Resolution was set at 70,000 for MS1 and 17,500 for MS/MS"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner"
+    ]
+  },
+  "20160311_Koomen-SCC-Pool-run15.raw": {
+    "Source Name": [
+      "Koomen-SCC-Pool-run15"
+    ],
+    "Assay Name": [
+      "20160311_Koomen-SCC-Pool-run15.raw"
+    ],
+    "Raw Data File": [
+      "20160311_Koomen-SCC-Pool-run15.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung"
+    ],
+    "Characteristics[Disease]": [
+      "lung squamous cell carcinoma"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "108 patients"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "run15"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate3000 RSLC UPLC",
+      "an electrospray quadrupole-orbital ion trap mass spectrometer (Q Exactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation",
+      "nanoflow ultra-high performance liquid chromatograph (RSLC, Dionex, Sunnyvale, CA)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for each TMT experiment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.6\u2009ml/min",
+      "300\u2009nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Resolution was set at 70,000 for MS1 and 17,500 for MS/MS"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner"
+    ]
+  },
+  "20160303_Haura-SCC-PG-06S15101167-DIA.raw": {
+    "Source Name": [
+      "Haura-SCC-PG-06S15101167"
+    ],
+    "Assay Name": [
+      "20160303_Haura-SCC-PG-06S15101167-DIA.raw"
+    ],
+    "Raw Data File": [
+      "20160303_Haura-SCC-PG-06S15101167-DIA.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung"
+    ],
+    "Characteristics[Disease]": [
+      "lung squamous cell carcinoma"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "108 patients"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate3000 RSLC UPLC",
+      "an electrospray quadrupole-orbital ion trap mass spectrometer (Q Exactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation",
+      "nanoflow ultra-high performance liquid chromatograph (RSLC, Dionex, Sunnyvale, CA)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for each TMT experiment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.6\u2009ml/min",
+      "300\u2009nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Resolution was set at 70,000 for MS1 and 17,500 for MS/MS"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data independent acquisition (DIA)"
+    ]
+  },
+  "20160301_Koomen-SCC-Pool-run02.raw": {
+    "Source Name": [
+      "Koomen-SCC-Pool-run02"
+    ],
+    "Assay Name": [
+      "20160301_Koomen-SCC-Pool-run02.raw"
+    ],
+    "Raw Data File": [
+      "20160301_Koomen-SCC-Pool-run02.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung"
+    ],
+    "Characteristics[Disease]": [
+      "lung squamous cell carcinoma"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "108 patients"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "run02"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate3000 RSLC UPLC",
+      "an electrospray quadrupole-orbital ion trap mass spectrometer (Q Exactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation",
+      "nanoflow ultra-high performance liquid chromatograph (RSLC, Dionex, Sunnyvale, CA)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for each TMT experiment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.6\u2009ml/min",
+      "300\u2009nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Resolution was set at 70,000 for MS1 and 17,500 for MS/MS"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner"
+    ]
+  },
+  "20160302_Haura-SCC-PG-06S15092272-DIA.raw": {
+    "Source Name": [
+      "Haura-SCC-PG-06S15092272"
+    ],
+    "Assay Name": [
+      "20160302_Haura-SCC-PG-06S15092272-DIA.raw"
+    ],
+    "Raw Data File": [
+      "20160302_Haura-SCC-PG-06S15092272-DIA.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung"
+    ],
+    "Characteristics[Disease]": [
+      "lung squamous cell carcinoma"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "108 patients"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate3000 RSLC UPLC",
+      "an electrospray quadrupole-orbital ion trap mass spectrometer (Q Exactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation",
+      "nanoflow ultra-high performance liquid chromatograph (RSLC, Dionex, Sunnyvale, CA)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for each TMT experiment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.6\u2009ml/min",
+      "300\u2009nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Resolution was set at 70,000 for MS1 and 17,500 for MS/MS"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data independent acquisition (DIA)"
+    ]
+  },
+  "20160315_Haura-SCC-PG-06S15101143-DIA.raw": {
+    "Source Name": [
+      "Haura-SCC-PG-06S15101143"
+    ],
+    "Assay Name": [
+      "20160315_Haura-SCC-PG-06S15101143-DIA.raw"
+    ],
+    "Raw Data File": [
+      "20160315_Haura-SCC-PG-06S15101143-DIA.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung"
+    ],
+    "Characteristics[Disease]": [
+      "lung squamous cell carcinoma"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "108 patients"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate3000 RSLC UPLC",
+      "an electrospray quadrupole-orbital ion trap mass spectrometer (Q Exactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation",
+      "nanoflow ultra-high performance liquid chromatograph (RSLC, Dionex, Sunnyvale, CA)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for each TMT experiment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.6\u2009ml/min",
+      "300\u2009nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Resolution was set at 70,000 for MS1 and 17,500 for MS/MS"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data independent acquisition (DIA)"
+    ]
+  },
+  "20160310_Haura-SCC-PG-06S15101139-DIA.raw": {
+    "Source Name": [
+      "Haura-SCC-PG-06S15101139"
+    ],
+    "Assay Name": [
+      "20160310_Haura-SCC-PG-06S15101139-DIA.raw"
+    ],
+    "Raw Data File": [
+      "20160310_Haura-SCC-PG-06S15101139-DIA.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung"
+    ],
+    "Characteristics[Disease]": [
+      "lung squamous cell carcinoma"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "108 patients"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate3000 RSLC UPLC",
+      "an electrospray quadrupole-orbital ion trap mass spectrometer (Q Exactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation",
+      "nanoflow ultra-high performance liquid chromatograph (RSLC, Dionex, Sunnyvale, CA)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for each TMT experiment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.6\u2009ml/min",
+      "300\u2009nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Resolution was set at 70,000 for MS1 and 17,500 for MS/MS"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data independent acquisition (DIA)"
+    ]
+  },
+  "20160302_Haura-SCC-PG-06S15101203-DIA.raw": {
+    "Source Name": [
+      "Haura-SCC-PG-06S15101203"
+    ],
+    "Assay Name": [
+      "20160302_Haura-SCC-PG-06S15101203-DIA.raw"
+    ],
+    "Raw Data File": [
+      "20160302_Haura-SCC-PG-06S15101203-DIA.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung"
+    ],
+    "Characteristics[Disease]": [
+      "lung squamous cell carcinoma"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "108 patients"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate3000 RSLC UPLC",
+      "an electrospray quadrupole-orbital ion trap mass spectrometer (Q Exactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation",
+      "nanoflow ultra-high performance liquid chromatograph (RSLC, Dionex, Sunnyvale, CA)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for each TMT experiment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.6\u2009ml/min",
+      "300\u2009nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Resolution was set at 70,000 for MS1 and 17,500 for MS/MS"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data independent acquisition (DIA)"
+    ]
+  },
+  "20160309_Koomen-SCC-Pool-run12.raw": {
+    "Source Name": [
+      "Koomen-SCC-Pool-run12"
+    ],
+    "Assay Name": [
+      "20160309_Koomen-SCC-Pool-run12.raw"
+    ],
+    "Raw Data File": [
+      "20160309_Koomen-SCC-Pool-run12.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung"
+    ],
+    "Characteristics[Disease]": [
+      "lung squamous cell carcinoma"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "108 patients"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "run12"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate3000 RSLC UPLC",
+      "an electrospray quadrupole-orbital ion trap mass spectrometer (Q Exactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation",
+      "nanoflow ultra-high performance liquid chromatograph (RSLC, Dionex, Sunnyvale, CA)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for each TMT experiment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.6\u2009ml/min",
+      "300\u2009nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Resolution was set at 70,000 for MS1 and 17,500 for MS/MS"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner"
+    ]
+  },
+  "20160311_Haura-SCC-PG-06S15101140-DIA.raw": {
+    "Source Name": [
+      "Haura-SCC-PG-06S15101140"
+    ],
+    "Assay Name": [
+      "20160311_Haura-SCC-PG-06S15101140-DIA.raw"
+    ],
+    "Raw Data File": [
+      "20160311_Haura-SCC-PG-06S15101140-DIA.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung"
+    ],
+    "Characteristics[Disease]": [
+      "lung squamous cell carcinoma"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "108 patients"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate3000 RSLC UPLC",
+      "an electrospray quadrupole-orbital ion trap mass spectrometer (Q Exactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation",
+      "nanoflow ultra-high performance liquid chromatograph (RSLC, Dionex, Sunnyvale, CA)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for each TMT experiment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.6\u2009ml/min",
+      "300\u2009nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Resolution was set at 70,000 for MS1 and 17,500 for MS/MS"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data independent acquisition (DIA)"
+    ]
+  },
+  "20160301_Haura-SCC-PG-06S15101153-DIA.raw": {
+    "Source Name": [
+      "Haura-SCC-PG-06S15101153"
+    ],
+    "Assay Name": [
+      "20160301_Haura-SCC-PG-06S15101153-DIA.raw"
+    ],
+    "Raw Data File": [
+      "20160301_Haura-SCC-PG-06S15101153-DIA.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung"
+    ],
+    "Characteristics[Disease]": [
+      "lung squamous cell carcinoma"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "108 patients"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate3000 RSLC UPLC",
+      "an electrospray quadrupole-orbital ion trap mass spectrometer (Q Exactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation",
+      "nanoflow ultra-high performance liquid chromatograph (RSLC, Dionex, Sunnyvale, CA)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for each TMT experiment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.6\u2009ml/min",
+      "300\u2009nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Resolution was set at 70,000 for MS1 and 17,500 for MS/MS"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data independent acquisition (DIA)"
+    ]
+  },
+  "20160301_Koomen-SCC-Pool-run01.raw": {
+    "Source Name": [
+      "Koomen-SCC-Pool-run01"
+    ],
+    "Assay Name": [
+      "20160301_Koomen-SCC-Pool-run01.raw"
+    ],
+    "Raw Data File": [
+      "20160301_Koomen-SCC-Pool-run01.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung"
+    ],
+    "Characteristics[Disease]": [
+      "lung squamous cell carcinoma"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "108 patients"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "run01"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate3000 RSLC UPLC",
+      "an electrospray quadrupole-orbital ion trap mass spectrometer (Q Exactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation",
+      "nanoflow ultra-high performance liquid chromatograph (RSLC, Dionex, Sunnyvale, CA)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for each TMT experiment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.6\u2009ml/min",
+      "300\u2009nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Resolution was set at 70,000 for MS1 and 17,500 for MS/MS"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner"
+    ]
+  },
+  "20160301_Haura-SCC-PG-06S15101191-DIA.raw": {
+    "Source Name": [
+      "Haura-SCC-PG-06S15101191"
+    ],
+    "Assay Name": [
+      "20160301_Haura-SCC-PG-06S15101191-DIA.raw"
+    ],
+    "Raw Data File": [
+      "20160301_Haura-SCC-PG-06S15101191-DIA.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung"
+    ],
+    "Characteristics[Disease]": [
+      "lung squamous cell carcinoma"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "108 patients"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate3000 RSLC UPLC",
+      "an electrospray quadrupole-orbital ion trap mass spectrometer (Q Exactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation",
+      "nanoflow ultra-high performance liquid chromatograph (RSLC, Dionex, Sunnyvale, CA)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for each TMT experiment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.6\u2009ml/min",
+      "300\u2009nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Resolution was set at 70,000 for MS1 and 17,500 for MS/MS"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data independent acquisition (DIA)"
+    ]
+  },
+  "20160308_Haura-SCC-PG-06S15101142-DIA.raw": {
+    "Source Name": [
+      "Haura-SCC-PG-06S15101142"
+    ],
+    "Assay Name": [
+      "20160308_Haura-SCC-PG-06S15101142-DIA.raw"
+    ],
+    "Raw Data File": [
+      "20160308_Haura-SCC-PG-06S15101142-DIA.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung"
+    ],
+    "Characteristics[Disease]": [
+      "lung squamous cell carcinoma"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "108 patients"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate3000 RSLC UPLC",
+      "an electrospray quadrupole-orbital ion trap mass spectrometer (Q Exactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation",
+      "nanoflow ultra-high performance liquid chromatograph (RSLC, Dionex, Sunnyvale, CA)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for each TMT experiment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.6\u2009ml/min",
+      "300\u2009nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Resolution was set at 70,000 for MS1 and 17,500 for MS/MS"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data independent acquisition (DIA)"
+    ]
+  },
+  "20160303_Haura-SCC-PG-06S15101152-DIA.raw": {
+    "Source Name": [
+      "Haura-SCC-PG-06S15101152"
+    ],
+    "Assay Name": [
+      "20160303_Haura-SCC-PG-06S15101152-DIA.raw"
+    ],
+    "Raw Data File": [
+      "20160303_Haura-SCC-PG-06S15101152-DIA.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung"
+    ],
+    "Characteristics[Disease]": [
+      "lung squamous cell carcinoma"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "108 patients"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate3000 RSLC UPLC",
+      "an electrospray quadrupole-orbital ion trap mass spectrometer (Q Exactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation",
+      "nanoflow ultra-high performance liquid chromatograph (RSLC, Dionex, Sunnyvale, CA)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for each TMT experiment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.6\u2009ml/min",
+      "300\u2009nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Resolution was set at 70,000 for MS1 and 17,500 for MS/MS"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data independent acquisition (DIA)"
+    ]
+  },
+  "20160304_Haura-SCC-PG-06S15101190-DIA.raw": {
+    "Source Name": [
+      "Haura-SCC-PG-06S15101190"
+    ],
+    "Assay Name": [
+      "20160304_Haura-SCC-PG-06S15101190-DIA.raw"
+    ],
+    "Raw Data File": [
+      "20160304_Haura-SCC-PG-06S15101190-DIA.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung"
+    ],
+    "Characteristics[Disease]": [
+      "lung squamous cell carcinoma"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "108 patients"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate3000 RSLC UPLC",
+      "an electrospray quadrupole-orbital ion trap mass spectrometer (Q Exactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation",
+      "nanoflow ultra-high performance liquid chromatograph (RSLC, Dionex, Sunnyvale, CA)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for each TMT experiment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.6\u2009ml/min",
+      "300\u2009nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Resolution was set at 70,000 for MS1 and 17,500 for MS/MS"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data independent acquisition (DIA)"
+    ]
+  },
+  "20160316_Haura-SCC-PG-06S15101124-DIA.raw": {
+    "Source Name": [
+      "Haura-SCC-PG-06S15101124"
+    ],
+    "Assay Name": [
+      "20160316_Haura-SCC-PG-06S15101124-DIA.raw"
+    ],
+    "Raw Data File": [
+      "20160316_Haura-SCC-PG-06S15101124-DIA.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung"
+    ],
+    "Characteristics[Disease]": [
+      "lung squamous cell carcinoma"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "108 patients"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate3000 RSLC UPLC",
+      "an electrospray quadrupole-orbital ion trap mass spectrometer (Q Exactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation",
+      "nanoflow ultra-high performance liquid chromatograph (RSLC, Dionex, Sunnyvale, CA)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for each TMT experiment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.6\u2009ml/min",
+      "300\u2009nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Resolution was set at 70,000 for MS1 and 17,500 for MS/MS"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data independent acquisition (DIA)"
+    ]
+  }
+}

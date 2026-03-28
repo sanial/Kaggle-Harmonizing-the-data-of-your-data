@@ -1,0 +1,26 @@
+AssayName: LC-MS analysis  
+AssayName: label-free quantitative analysis  
+AssayName: nanoLC-MS/MS  
+SpikedCompound: UPS1 mixture of 48 recombinant proteins  
+ReductionReagent: DTT  
+AlkylationReagent: iodoacetamide  
+CleavageAgent: trypsin  
+NumberOfMissedCleavages: 2  
+IonizationType: ESI-TRAP  
+Instrument: LTQ-Velos Orbitrap  
+Instrument: LTQ-Orbitrap Velos mass spectrometer  
+Instrument: nanoRS UHPLC system (Dionex, Amsterdam, The Netherlands)  
+AcquisitionMethod: data-dependent acquisition mode  
+FlowRateChromatogram: 20 µL/min  
+FlowRateChromatogram: 300 nL/min  
+GradientTime: 5–25% gradient during 75 min; 25–50% during 30 min; 50–100% during 10 min  
+PrecursorMassTolerance: 5 ppm  
+PrecursorMassTolerance: 20 ppm  
+PrecursorMassTolerance: 6 ppm  
+FragmentMassTolerance: 0.8 Da  
+FragmentMassTolerance: 0.5 Da  
+MS2MassAnalyzer: linear trap (LTQ)  
+Time: overnight  
+OrganismPart: yeast cell lysate  
+ConcentrationOfCompound: 0.05–0.125–0.250–0.5–2.5–5–12.5–25–50 fmol of UPS1/µg of yeast lysate  
+NumberOfTechnicalReplicates: triplicate

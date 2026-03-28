@@ -1,0 +1,167 @@
+{
+  "qExPlus02_01602.raw": {
+    "Source Name": [
+      "highly pure mitochondria"
+    ],
+    "Assay Name": [
+      "qExPlus02_01602"
+    ],
+    "Raw Data File": [
+      "qExPlus02_01602.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Saccharomyces cerevisiae"
+    ],
+    "Characteristics[Specimen]": [
+      "highly pure mitochondria"
+    ],
+    "Characteristics[Label]": [
+      "stable isotope labeled yeast cultures (SILAC)",
+      "natural arginine and lysine (light)",
+      "[13C6/15N4]arginine and [13C6/15N2]lysine (heavy)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega, sequencing grade)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "30 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "In total four replicates (two biological replicates with each time one forward (e.g., SNheavy/PELlight) and one reverse experiment (e.g., SNlight/PELheavy) respecively; Fig. 1a) were used."
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus"
+    ],
+    "Comment[Separation]": [
+      "U3000 RSLC system"
+    ],
+    "Comment[GradientTime]": [
+      "2 h gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250 nL min−1"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30%"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "nano-LC-MS/MS"
+    ]
+  },
+  "qExPlus02_01603.raw": {
+    "Source Name": [
+      "highly pure mitochondria"
+    ],
+    "Assay Name": [
+      "qExPlus02_01603"
+    ],
+    "Raw Data File": [
+      "qExPlus02_01603.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Saccharomyces cerevisiae"
+    ],
+    "Characteristics[Specimen]": [
+      "highly pure mitochondria"
+    ],
+    "Characteristics[Label]": [
+      "stable isotope labeled yeast cultures (SILAC)",
+      "natural arginine and lysine (light)",
+      "[13C6/15N4]arginine and [13C6/15N2]lysine (heavy)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega, sequencing grade)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "30 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "In total four replicates (two biological replicates with each time one forward (e.g., SNheavy/PELlight) and one reverse experiment (e.g., SNlight/PELheavy) respecively; Fig. 1a) were used."
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus"
+    ],
+    "Comment[Separation]": [
+      "U3000 RSLC system"
+    ],
+    "Comment[GradientTime]": [
+      "2 h gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250 nL min−1"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30%"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "nano-LC-MS/MS"
+    ]
+  },
+  "qExPlus02_01604.raw": {
+    "Source Name": [
+      "highly pure mitochondria"
+    ],
+    "Assay Name": [
+      "qExPlus02_01604"
+    ],
+    "Raw Data File": [
+      "qExPlus02_01604.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Saccharomyces cerevisiae"
+    ],
+    "Characteristics[Specimen]": [
+      "highly pure mitochondria"
+    ],
+    "Characteristics[Label]": [
+      "stable isotope labeled yeast cultures (SILAC)",
+      "natural arginine and lysine (light)",
+      "[13C6/15N4]arginine and [13C6/15N2]lysine (heavy)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega, sequencing grade)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "30 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "In total four replicates (two biological replicates with each time one forward (e.g., SNheavy/PELlight) and one reverse experiment (e.g., SNlight/PELheavy) respecively; Fig. 1a) were used."
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus"
+    ],
+    "Comment[Separation]": [
+      "U3000 RSLC system"
+    ],
+    "Comment[GradientTime]": [
+      "2 h gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250 nL min−1"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30%"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "nano-LC-MS/MS"
+    ]
+  }
+}

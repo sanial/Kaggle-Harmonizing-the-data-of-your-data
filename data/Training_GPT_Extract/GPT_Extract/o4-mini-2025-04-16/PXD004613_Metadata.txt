@@ -1,0 +1,25 @@
+CellLine: HT1080  
+CellLine: HeLa cells  
+CellLine: DT40 cells carrying a single integration of the LacO array  
+Temperature: 37 °C  
+Temperature: 39 °C  
+ConcentrationOfCompound: 50 nM of siRNA oligonucleotides  
+CleavageAgent: trypsin  
+NumberOfMissedCleavages: two missed cleavages  
+PrecursorMassTolerance: 20 p.p.m.  
+Modification: Carbamidomethylation of cysteine  
+Modification: oxidation of methionine  
+Modification: acetylation  
+Modification: single, di- and tri-methylation of lysine  
+Modification: single and di-methylation of arginine  
+Bait: GST:Repo-ManCTerm  
+Bait: GST alone  
+Instrument: LTQ-Orbitrap mass spectrometer  
+Instrument: Q Exactive mass spectrometer  
+Instrument: Ultimate 3000 RSLCnano Systems  
+Separation: SDS–PAGE  
+BiologicalReplicate: two independent repeats  
+MaterialType: HeLa nucleosomes  
+EnrichmentMethod: histone peptide array screening  
+Experiment: TAG-Proteogenomic approach  
+Organism: Homo sapiens complete/reference proteome set of UniProt database (released on 14/05/2014)

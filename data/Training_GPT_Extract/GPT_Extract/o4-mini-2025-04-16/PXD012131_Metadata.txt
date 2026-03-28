@@ -1,0 +1,49 @@
+Disease: Alzheimer’s Disease
+SamplingTime: five hours
+SamplingTime: fifteen hours
+Temperature: −80° C
+Staining: α-phosphorylated tau protein antibody
+Staining: hematoxylin
+Compound: Guanadine HCl
+Compound: Tris
+Compound: methanol
+Compound: urea
+Compound: ammonium acetate
+Compound: formic acid
+ConcentrationOfCompound: 6M
+ConcentrationOfCompound: 100mM
+ConcentrationOfCompound: 90%
+ConcentrationOfCompound: 8M
+ConcentrationOfCompound: 10mM
+ConcentrationOfCompound: 80%
+ConcentrationOfCompound: 0.2%
+ReductionReagent: TCEP
+AlkylationReagent: CAA
+CleavageAgent: Trypsin
+Time: overnight
+Time: 12 min
+Time: 7 min
+Separation: Strata-X Polymeric Reverse Phase column (Phenomenex)
+Instrument: HPLC (Agilent, Infinity 2000)
+Instrument: Thermo Orbitrap Fusion Lumos
+FractionationMethod: C18 reverse-phase
+NumberOfFractions: 32
+NumberOfFractions: 16
+NumberOfFractions: 12
+FractionIdentifier: fractions 1–8
+FractionIdentifier: 18–25
+FractionIdentifier: fractions 9 −17
+FractionIdentifier: 26–32
+FractionIdentifier: 15 & 16
+FractionIdentifier: 13 & 14
+FractionIdentifier: 1 & 2
+FractionIdentifier: 3 & 4
+IonizationType: electrospray ionization
+CollisionEnergy: normalized collision energy level of 30
+PrecursorMassTolerance: 25ppm
+Temperature: 50°C
+FlowRateChromatogram: 0.35 ul/minute
+FlowRateChromatogram: 0.33 ul/minute
+GradientTime: 75 minutes
+GradientTime: 104 minutes
+SupplementaryFile: PXD010603

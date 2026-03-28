@@ -1,0 +1,40 @@
+ReductionReagent: 10 mM DTT  
+AlkylationReagent: 55 mM iodoacetamide  
+ConcentrationOfCompound: 4% SDS  
+ConcentrationOfCompound: 10 mM Hepes pH 8.0  
+CleavageAgent: LysC  
+CleavageAgent: trypsin  
+Modification: carbamidomethylation  
+Modification: acetylation (N terminus)  
+Modification: methionine oxidation  
+Separation: chromatographic separation using relatively long (4 h) HPLC gradients  
+GradientTime: 250 min gradient from 2% to 60%  
+FlowRateChromatogram: 200 nl min−1  
+IonizationType: nano electrospray source  
+Instrument: Q Exactive  
+Instrument: Q Exactive HF  
+FragmentationMethod: high-energy collisional dissociation fragmentation  
+AcquisitionMethod: A top-five method  
+CollisionEnergy: normalized collision energy of 25  
+CollisionEnergy: normalized collision energy of 27  
+AssayName: Label-free protein quantification (LFQ)  
+Temperature: 99 °C  
+Temperature: −80 °C  
+Temperature: 50 °C  
+Temperature: 95 °C  
+Time: 10 min  
+Time: 15 min  
+Time: 30 min  
+Time: overnight  
+NumberOfSamples: eight  
+NumberOfSamples: 30  
+NumberOfSamples: three  
+NumberOfBiologicalReplicates: n=3  
+Treatment: 7 μM ATRA daily for 7 days  
+SampleTreatment: Antigen retrieval in 0.01 M sodium citrate buffer with 0.05% Tween 20 (pH 6.0) for 30 min at 95 °C  
+MaterialType: Frozen tumour samples  
+MaterialType: Formalin-fixed paraffin-embedded HGSOC and normal tissue sections  
+Specimen: primary fallopian tube secretory epithelial cells (FTECs)  
+Organism: human  
+TumorStage: FIGO Stage IIIB/C  
+SupplementaryFile: PXD003668

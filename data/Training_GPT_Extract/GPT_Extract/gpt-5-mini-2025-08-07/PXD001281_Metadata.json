@@ -1,0 +1,657 @@
+{
+  "20130526_11_qEx_TT_T150_IP_II_A80.raw": {
+    "Source Name": [
+      "Generation of HEK293 N3S cells stably expressing 6His-SUMO2T90K"
+    ],
+    "Assay Name": [
+      "20130526_11_qEx_TT_T150_IP_II_A80.raw"
+    ],
+    "Raw Data File": [
+      "20130526_11_qEx_TT_T150_IP_II_A80.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293 N3S cells stably expressing 6His-SUMO2T90K"
+    ],
+    "Characteristics[GeneticModification]": [
+      "6His-SUMO2T90K"
+    ],
+    "Characteristics[Organism]": [
+      "human cells",
+      "human cell lysates"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell lysate"
+    ],
+    "Characteristics[Temperature]": [
+      "heat shocked at 43 °C for 30 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM chloroacetamide"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM β-mercaptoethanol"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 liquid chromatography system (Thermo Scientific) via an EASY-Spray ion source (Thermo Scientific)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "Flow rate was set to 250 nl/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data dependent acquisition"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "6 parts per million"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da for MS2 peaks"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "three or five missed cleavages"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Anti-K-ε-GG conjugated to protein A beads (20 μl of beads; PTMScan, Cell Signaling Technology)",
+      "Nickel affinity purification of 6His-SUMO2T90K conjugates"
+    ],
+    "Comment[GradientTime]": [
+      "various gradient lengths from 90 minutes to 150 minutes were used",
+      "T150"
+    ],
+    "Comment[FractionIdentifier]": [
+      "A80"
+    ]
+  },
+  "20130519_04_qEx_TT_T150_IP_II.raw": {
+    "Source Name": [
+      "Generation of HEK293 N3S cells stably expressing 6His-SUMO2T90K"
+    ],
+    "Assay Name": [
+      "20130519_04_qEx_TT_T150_IP_II.raw"
+    ],
+    "Raw Data File": [
+      "20130519_04_qEx_TT_T150_IP_II.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293 N3S cells stably expressing 6His-SUMO2T90K"
+    ],
+    "Characteristics[GeneticModification]": [
+      "6His-SUMO2T90K"
+    ],
+    "Characteristics[Organism]": [
+      "human cells",
+      "human cell lysates"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell lysate"
+    ],
+    "Characteristics[Temperature]": [
+      "heat shocked at 43 °C for 30 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM chloroacetamide"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM β-mercaptoethanol"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 liquid chromatography system (Thermo Scientific) via an EASY-Spray ion source (Thermo Scientific)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "Flow rate was set to 250 nl/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data dependent acquisition"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "6 parts per million"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da for MS2 peaks"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "three or five missed cleavages"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Anti-K-ε-GG conjugated to protein A beads (20 μl of beads; PTMScan, Cell Signaling Technology)",
+      "Nickel affinity purification of 6His-SUMO2T90K conjugates"
+    ],
+    "Comment[GradientTime]": [
+      "various gradient lengths from 90 minutes to 150 minutes were used",
+      "T150"
+    ]
+  },
+  "20130222_06_qEx_TT_T90_IP_S2.raw": {
+    "Source Name": [
+      "Generation of HEK293 N3S cells stably expressing 6His-SUMO2T90K"
+    ],
+    "Assay Name": [
+      "20130222_06_qEx_TT_T90_IP_S2.raw"
+    ],
+    "Raw Data File": [
+      "20130222_06_qEx_TT_T90_IP_S2.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293 N3S cells stably expressing 6His-SUMO2T90K"
+    ],
+    "Characteristics[GeneticModification]": [
+      "6His-SUMO2T90K"
+    ],
+    "Characteristics[Organism]": [
+      "human cells",
+      "human cell lysates"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell lysate"
+    ],
+    "Characteristics[Temperature]": [
+      "heat shocked at 43 °C for 30 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM chloroacetamide"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM β-mercaptoethanol"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 liquid chromatography system (Thermo Scientific) via an EASY-Spray ion source (Thermo Scientific)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "Flow rate was set to 250 nl/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data dependent acquisition"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "6 parts per million"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da for MS2 peaks"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "three or five missed cleavages"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Anti-K-ε-GG conjugated to protein A beads (20 μl of beads; PTMScan, Cell Signaling Technology)",
+      "Nickel affinity purification of 6His-SUMO2T90K conjugates"
+    ],
+    "Comment[GradientTime]": [
+      "various gradient lengths from 90 minutes to 150 minutes were used",
+      "T90"
+    ],
+    "Comment[FractionIdentifier]": [
+      "S2"
+    ]
+  },
+  "20130910_14_qEx_TT_T90_IP_gluC_IT1s.raw": {
+    "Source Name": [
+      "Generation of HEK293 N3S cells stably expressing 6His-SUMO2T90K"
+    ],
+    "Assay Name": [
+      "20130910_14_qEx_TT_T90_IP_gluC_IT1s.raw"
+    ],
+    "Raw Data File": [
+      "20130910_14_qEx_TT_T90_IP_gluC_IT1s.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293 N3S cells stably expressing 6His-SUMO2T90K"
+    ],
+    "Characteristics[GeneticModification]": [
+      "6His-SUMO2T90K"
+    ],
+    "Characteristics[Organism]": [
+      "human cells",
+      "human cell lysates"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell lysate"
+    ],
+    "Characteristics[Temperature]": [
+      "heat shocked at 43 °C for 30 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM chloroacetamide"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM β-mercaptoethanol"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 liquid chromatography system (Thermo Scientific) via an EASY-Spray ion source (Thermo Scientific)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "Flow rate was set to 250 nl/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data dependent acquisition"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "6 parts per million"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da for MS2 peaks"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "three or five missed cleavages"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Anti-K-ε-GG conjugated to protein A beads (20 μl of beads; PTMScan, Cell Signaling Technology)",
+      "Nickel affinity purification of 6His-SUMO2T90K conjugates"
+    ],
+    "Comment[GradientTime]": [
+      "various gradient lengths from 90 minutes to 150 minutes were used",
+      "T90"
+    ],
+    "Comment[FractionIdentifier]": [
+      "IP"
+    ],
+    "FactorValue[CleavageAgent]": [
+      "Lys-C and Glu-C",
+      "gluC"
+    ]
+  },
+  "20130912_04_qEx_TT_T150_IP_lysC_IT1s_T1.raw": {
+    "Source Name": [
+      "Generation of HEK293 N3S cells stably expressing 6His-SUMO2T90K"
+    ],
+    "Assay Name": [
+      "20130912_04_qEx_TT_T150_IP_lysC_IT1s_T1.raw"
+    ],
+    "Raw Data File": [
+      "20130912_04_qEx_TT_T150_IP_lysC_IT1s_T1.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293 N3S cells stably expressing 6His-SUMO2T90K"
+    ],
+    "Characteristics[GeneticModification]": [
+      "6His-SUMO2T90K"
+    ],
+    "Characteristics[Organism]": [
+      "human cells",
+      "human cell lysates"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell lysate"
+    ],
+    "Characteristics[Temperature]": [
+      "heat shocked at 43 °C for 30 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM chloroacetamide"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM β-mercaptoethanol"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 liquid chromatography system (Thermo Scientific) via an EASY-Spray ion source (Thermo Scientific)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "Flow rate was set to 250 nl/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data dependent acquisition"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "6 parts per million"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da for MS2 peaks"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "three or five missed cleavages"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Anti-K-ε-GG conjugated to protein A beads (20 μl of beads; PTMScan, Cell Signaling Technology)",
+      "Nickel affinity purification of 6His-SUMO2T90K conjugates"
+    ],
+    "Comment[GradientTime]": [
+      "various gradient lengths from 90 minutes to 150 minutes were used",
+      "T150"
+    ],
+    "Comment[FractionIdentifier]": [
+      "T1"
+    ],
+    "FactorValue[CleavageAgent]": [
+      "Lys-C",
+      "lysC"
+    ]
+  },
+  "20130912_09_qEx_TT_T150_IP_gluC_IT1s_T1.raw": {
+    "Source Name": [
+      "Generation of HEK293 N3S cells stably expressing 6His-SUMO2T90K"
+    ],
+    "Assay Name": [
+      "20130912_09_qEx_TT_T150_IP_gluC_IT1s_T1.raw"
+    ],
+    "Raw Data File": [
+      "20130912_09_qEx_TT_T150_IP_gluC_IT1s_T1.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293 N3S cells stably expressing 6His-SUMO2T90K"
+    ],
+    "Characteristics[GeneticModification]": [
+      "6His-SUMO2T90K"
+    ],
+    "Characteristics[Organism]": [
+      "human cells",
+      "human cell lysates"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell lysate"
+    ],
+    "Characteristics[Temperature]": [
+      "heat shocked at 43 °C for 30 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM chloroacetamide"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM β-mercaptoethanol"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 liquid chromatography system (Thermo Scientific) via an EASY-Spray ion source (Thermo Scientific)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "Flow rate was set to 250 nl/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data dependent acquisition"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "6 parts per million"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da for MS2 peaks"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "three or five missed cleavages"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Anti-K-ε-GG conjugated to protein A beads (20 μl of beads; PTMScan, Cell Signaling Technology)",
+      "Nickel affinity purification of 6His-SUMO2T90K conjugates"
+    ],
+    "Comment[GradientTime]": [
+      "various gradient lengths from 90 minutes to 150 minutes were used",
+      "T150"
+    ],
+    "FactorValue[CleavageAgent]": [
+      "Lys-C and Glu-C",
+      "gluC"
+    ]
+  },
+  "20130528_09_qEx_TT_T90_IP_I_II.raw": {
+    "Source Name": [
+      "Generation of HEK293 N3S cells stably expressing 6His-SUMO2T90K"
+    ],
+    "Assay Name": [
+      "20130528_09_qEx_TT_T90_IP_I_II.raw"
+    ],
+    "Raw Data File": [
+      "20130528_09_qEx_TT_T90_IP_I_II.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293 N3S cells stably expressing 6His-SUMO2T90K"
+    ],
+    "Characteristics[GeneticModification]": [
+      "6His-SUMO2T90K"
+    ],
+    "Characteristics[Organism]": [
+      "human cells",
+      "human cell lysates"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell lysate"
+    ],
+    "Characteristics[Temperature]": [
+      "heat shocked at 43 °C for 30 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM chloroacetamide"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM β-mercaptoethanol"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 liquid chromatography system (Thermo Scientific) via an EASY-Spray ion source (Thermo Scientific)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "Flow rate was set to 250 nl/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data dependent acquisition"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "6 parts per million"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da for MS2 peaks"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "three or five missed cleavages"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Anti-K-ε-GG conjugated to protein A beads (20 μl of beads; PTMScan, Cell Signaling Technology)",
+      "Nickel affinity purification of 6His-SUMO2T90K conjugates"
+    ],
+    "Comment[GradientTime]": [
+      "various gradient lengths from 90 minutes to 150 minutes were used",
+      "T90"
+    ]
+  },
+  "20130216_12_qEx_TT_T90_IP_S2.raw": {
+    "Source Name": [
+      "Generation of HEK293 N3S cells stably expressing 6His-SUMO2T90K"
+    ],
+    "Assay Name": [
+      "20130216_12_qEx_TT_T90_IP_S2.raw"
+    ],
+    "Raw Data File": [
+      "20130216_12_qEx_TT_T90_IP_S2.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293 N3S cells stably expressing 6His-SUMO2T90K"
+    ],
+    "Characteristics[GeneticModification]": [
+      "6His-SUMO2T90K"
+    ],
+    "Characteristics[Organism]": [
+      "human cells",
+      "human cell lysates"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell lysate"
+    ],
+    "Characteristics[Temperature]": [
+      "heat shocked at 43 °C for 30 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM chloroacetamide"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM β-mercaptoethanol"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 liquid chromatography system (Thermo Scientific) via an EASY-Spray ion source (Thermo Scientific)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "Flow rate was set to 250 nl/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data dependent acquisition"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "6 parts per million"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da for MS2 peaks"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "three or five missed cleavages"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Anti-K-ε-GG conjugated to protein A beads (20 μl of beads; PTMScan, Cell Signaling Technology)",
+      "Nickel affinity purification of 6His-SUMO2T90K conjugates"
+    ],
+    "Comment[GradientTime]": [
+      "various gradient lengths from 90 minutes to 150 minutes were used",
+      "T90"
+    ],
+    "Comment[FractionIdentifier]": [
+      "S2"
+    ]
+  },
+  "20130402_06_qEx_TT_T90_IPv2_S2_T5.raw": {
+    "Source Name": [
+      "Generation of HEK293 N3S cells stably expressing 6His-SUMO2T90K"
+    ],
+    "Assay Name": [
+      "20130402_06_qEx_TT_T90_IPv2_S2_T5.raw"
+    ],
+    "Raw Data File": [
+      "20130402_06_qEx_TT_T90_IPv2_S2_T5.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293 N3S cells stably expressing 6His-SUMO2T90K"
+    ],
+    "Characteristics[GeneticModification]": [
+      "6His-SUMO2T90K"
+    ],
+    "Characteristics[Organism]": [
+      "human cells",
+      "human cell lysates"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell lysate"
+    ],
+    "Characteristics[Temperature]": [
+      "heat shocked at 43 °C for 30 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM chloroacetamide"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM β-mercaptoethanol"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 liquid chromatography system (Thermo Scientific) via an EASY-Spray ion source (Thermo Scientific)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "Flow rate was set to 250 nl/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data dependent acquisition"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "6 parts per million"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da for MS2 peaks"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "three or five missed cleavages"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Anti-K-ε-GG conjugated to protein A beads (20 μl of beads; PTMScan, Cell Signaling Technology)",
+      "Nickel affinity purification of 6His-SUMO2T90K conjugates"
+    ],
+    "Comment[GradientTime]": [
+      "various gradient lengths from 90 minutes to 150 minutes were used",
+      "T90"
+    ],
+    "Comment[FractionIdentifier]": [
+      "S2",
+      "T5"
+    ]
+  },
+  "20130910_08_qEx_TT_T90_IP_lysC_IT1s.raw": {
+    "Source Name": [
+      "Generation of HEK293 N3S cells stably expressing 6His-SUMO2T90K"
+    ],
+    "Assay Name": [
+      "20130910_08_qEx_TT_T90_IP_lysC_IT1s.raw"
+    ],
+    "Raw Data File": [
+      "20130910_08_qEx_TT_T90_IP_lysC_IT1s.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293 N3S cells stably expressing 6His-SUMO2T90K"
+    ],
+    "Characteristics[GeneticModification]": [
+      "6His-SUMO2T90K"
+    ],
+    "Characteristics[Organism]": [
+      "human cells",
+      "human cell lysates"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell lysate"
+    ],
+    "Characteristics[Temperature]": [
+      "heat shocked at 43 °C for 30 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM chloroacetamide"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM β-mercaptoethanol"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 liquid chromatography system (Thermo Scientific) via an EASY-Spray ion source (Thermo Scientific)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "Flow rate was set to 250 nl/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data dependent acquisition"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "6 parts per million"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da for MS2 peaks"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "three or five missed cleavages"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Anti-K-ε-GG conjugated to protein A beads (20 μl of beads; PTMScan, Cell Signaling Technology)",
+      "Nickel affinity purification of 6His-SUMO2T90K conjugates"
+    ],
+    "Comment[GradientTime]": [
+      "various gradient lengths from 90 minutes to 150 minutes were used",
+      "T90"
+    ],
+    "FactorValue[CleavageAgent]": [
+      "Lys-C",
+      "lysC"
+    ]
+  }
+}

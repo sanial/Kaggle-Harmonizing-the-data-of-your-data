@@ -1,0 +1,3602 @@
+{
+  "20160609_Haura-SCC-PG_TMT02-2-Fx11-run1.raw": {
+    "Source Name": [
+      "20160609_Haura-SCC-PG_TMT02-2-Fx11-run1"
+    ],
+    "Assay Name": [
+      "20160609_Haura-SCC-PG_TMT02-2-Fx11-run1_assay"
+    ],
+    "Raw Data File": [
+      "20160609_Haura-SCC-PG_TMT02-2-Fx11-run1.raw"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments",
+      "TMT02"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "run1"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fx11"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "cohort of 108 squamous cell lung cancer (SCC) patients."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Disease]": [
+      "squamous cell lung cancer"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300\u2009nl/min"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC"
+    ],
+    "Comment[FractionationMethod]": [
+      "bRPLC separation"
+    ]
+  },
+  "20160609_Haura-SCC-PG_TMT04-2-Fx10-run2.raw": {
+    "Source Name": [
+      "20160609_Haura-SCC-PG_TMT04-2-Fx10-run2"
+    ],
+    "Assay Name": [
+      "20160609_Haura-SCC-PG_TMT04-2-Fx10-run2_assay"
+    ],
+    "Raw Data File": [
+      "20160609_Haura-SCC-PG_TMT04-2-Fx10-run2.raw"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments",
+      "TMT04"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "run2"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fx10"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "cohort of 108 squamous cell lung cancer (SCC) patients."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Disease]": [
+      "squamous cell lung cancer"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300\u2009nl/min"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC"
+    ],
+    "Comment[FractionationMethod]": [
+      "bRPLC separation"
+    ]
+  },
+  "20160609_Haura-SCC-PG_TMT19-2_fx07_Run2.raw": {
+    "Source Name": [
+      "20160609_Haura-SCC-PG_TMT19-2_fx07_Run2"
+    ],
+    "Assay Name": [
+      "20160609_Haura-SCC-PG_TMT19-2_fx07_Run2_assay"
+    ],
+    "Raw Data File": [
+      "20160609_Haura-SCC-PG_TMT19-2_fx07_Run2.raw"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments",
+      "TMT19"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Run2"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fx07"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "cohort of 108 squamous cell lung cancer (SCC) patients."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Disease]": [
+      "squamous cell lung cancer"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300\u2009nl/min"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC"
+    ],
+    "Comment[FractionationMethod]": [
+      "bRPLC separation"
+    ]
+  },
+  "20160609_Haura-SCC-PG_TMT19-2_fx08_Run1.raw": {
+    "Source Name": [
+      "20160609_Haura-SCC-PG_TMT19-2_fx08_Run1"
+    ],
+    "Assay Name": [
+      "20160609_Haura-SCC-PG_TMT19-2_fx08_Run1_assay"
+    ],
+    "Raw Data File": [
+      "20160609_Haura-SCC-PG_TMT19-2_fx08_Run1.raw"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments",
+      "TMT19"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Run1"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fx08"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "cohort of 108 squamous cell lung cancer (SCC) patients."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Disease]": [
+      "squamous cell lung cancer"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300\u2009nl/min"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC"
+    ],
+    "Comment[FractionationMethod]": [
+      "bRPLC separation"
+    ]
+  },
+  "20160609_Haura-SCC-PG_TMT11-fx09-run1.raw": {
+    "Source Name": [
+      "20160609_Haura-SCC-PG_TMT11-fx09-run1"
+    ],
+    "Assay Name": [
+      "20160609_Haura-SCC-PG_TMT11-fx09-run1_assay"
+    ],
+    "Raw Data File": [
+      "20160609_Haura-SCC-PG_TMT11-fx09-run1.raw"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments",
+      "TMT11"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "run1"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fx09"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "cohort of 108 squamous cell lung cancer (SCC) patients."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Disease]": [
+      "squamous cell lung cancer"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300\u2009nl/min"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC"
+    ],
+    "Comment[FractionationMethod]": [
+      "bRPLC separation"
+    ]
+  },
+  "20160609_Haura-SCC-PG_TMT14-2_fx04_Run1.raw": {
+    "Source Name": [
+      "20160609_Haura-SCC-PG_TMT14-2_fx04_Run1"
+    ],
+    "Assay Name": [
+      "20160609_Haura-SCC-PG_TMT14-2_fx04_Run1_assay"
+    ],
+    "Raw Data File": [
+      "20160609_Haura-SCC-PG_TMT14-2_fx04_Run1.raw"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments",
+      "TMT14"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Run1"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fx04"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "cohort of 108 squamous cell lung cancer (SCC) patients."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Disease]": [
+      "squamous cell lung cancer"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300\u2009nl/min"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC"
+    ],
+    "Comment[FractionationMethod]": [
+      "bRPLC separation"
+    ]
+  },
+  "20160609_Haura-SCC-PG_TMT13-2_fx08-Run2.raw": {
+    "Source Name": [
+      "20160609_Haura-SCC-PG_TMT13-2_fx08-Run2"
+    ],
+    "Assay Name": [
+      "20160609_Haura-SCC-PG_TMT13-2_fx08-Run2_assay"
+    ],
+    "Raw Data File": [
+      "20160609_Haura-SCC-PG_TMT13-2_fx08-Run2.raw"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments",
+      "TMT13"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Run2"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fx08"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "cohort of 108 squamous cell lung cancer (SCC) patients."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Disease]": [
+      "squamous cell lung cancer"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300\u2009nl/min"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC"
+    ],
+    "Comment[FractionationMethod]": [
+      "bRPLC separation"
+    ]
+  },
+  "20160609_Haura-SCC-PG_TMT10-fx06-run1.raw": {
+    "Source Name": [
+      "20160609_Haura-SCC-PG_TMT10-fx06-run1"
+    ],
+    "Assay Name": [
+      "20160609_Haura-SCC-PG_TMT10-fx06-run1_assay"
+    ],
+    "Raw Data File": [
+      "20160609_Haura-SCC-PG_TMT10-fx06-run1.raw"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments",
+      "TMT10"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "run1"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fx06"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "cohort of 108 squamous cell lung cancer (SCC) patients."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Disease]": [
+      "squamous cell lung cancer"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300\u2009nl/min"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC"
+    ],
+    "Comment[FractionationMethod]": [
+      "bRPLC separation"
+    ]
+  },
+  "20160609_Haura-SCC-PG_TMT26-fx09-run2.raw": {
+    "Source Name": [
+      "20160609_Haura-SCC-PG_TMT26-fx09-run2"
+    ],
+    "Assay Name": [
+      "20160609_Haura-SCC-PG_TMT26-fx09-run2_assay"
+    ],
+    "Raw Data File": [
+      "20160609_Haura-SCC-PG_TMT26-fx09-run2.raw"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments",
+      "TMT26"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "run2"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fx09"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "cohort of 108 squamous cell lung cancer (SCC) patients."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Disease]": [
+      "squamous cell lung cancer"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300\u2009nl/min"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC"
+    ],
+    "Comment[FractionationMethod]": [
+      "bRPLC separation"
+    ]
+  },
+  "20160609_Haura-SCC-PG_TMT27-fx06-run2.raw": {
+    "Source Name": [
+      "20160609_Haura-SCC-PG_TMT27-fx06-run2"
+    ],
+    "Assay Name": [
+      "20160609_Haura-SCC-PG_TMT27-fx06-run2_assay"
+    ],
+    "Raw Data File": [
+      "20160609_Haura-SCC-PG_TMT27-fx06-run2.raw"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments",
+      "TMT27"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "run2"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fx06"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "cohort of 108 squamous cell lung cancer (SCC) patients."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Disease]": [
+      "squamous cell lung cancer"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300\u2009nl/min"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC"
+    ],
+    "Comment[FractionationMethod]": [
+      "bRPLC separation"
+    ]
+  },
+  "20160609_Haura-SCC-PG_TMT05-2-Fx12-run2.raw": {
+    "Source Name": [
+      "20160609_Haura-SCC-PG_TMT05-2-Fx12-run2"
+    ],
+    "Assay Name": [
+      "20160609_Haura-SCC-PG_TMT05-2-Fx12-run2_assay"
+    ],
+    "Raw Data File": [
+      "20160609_Haura-SCC-PG_TMT05-2-Fx12-run2.raw"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments",
+      "TMT05"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "run2"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fx12"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "cohort of 108 squamous cell lung cancer (SCC) patients."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Disease]": [
+      "squamous cell lung cancer"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300\u2009nl/min"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC"
+    ],
+    "Comment[FractionationMethod]": [
+      "bRPLC separation"
+    ]
+  },
+  "20160609_Haura-SCC-PG_TMT23-2-fx11-run1.raw": {
+    "Source Name": [
+      "20160609_Haura-SCC-PG_TMT23-2-fx11-run1"
+    ],
+    "Assay Name": [
+      "20160609_Haura-SCC-PG_TMT23-2-fx11-run1_assay"
+    ],
+    "Raw Data File": [
+      "20160609_Haura-SCC-PG_TMT23-2-fx11-run1.raw"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments",
+      "TMT23"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "run1"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fx11"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "cohort of 108 squamous cell lung cancer (SCC) patients."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Disease]": [
+      "squamous cell lung cancer"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300\u2009nl/min"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC"
+    ],
+    "Comment[FractionationMethod]": [
+      "bRPLC separation"
+    ]
+  },
+  "20160609_Haura-SCC-PG_TMT11-fx12-run1.raw": {
+    "Source Name": [
+      "20160609_Haura-SCC-PG_TMT11-fx12-run1"
+    ],
+    "Assay Name": [
+      "20160609_Haura-SCC-PG_TMT11-fx12-run1_assay"
+    ],
+    "Raw Data File": [
+      "20160609_Haura-SCC-PG_TMT11-fx12-run1.raw"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments",
+      "TMT11"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "run1"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fx12"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "cohort of 108 squamous cell lung cancer (SCC) patients."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Disease]": [
+      "squamous cell lung cancer"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300\u2009nl/min"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC"
+    ],
+    "Comment[FractionationMethod]": [
+      "bRPLC separation"
+    ]
+  },
+  "20160609_Haura-SCC-PG_TMT15-2-Fx07-run2.raw": {
+    "Source Name": [
+      "20160609_Haura-SCC-PG_TMT15-2-Fx07-run2"
+    ],
+    "Assay Name": [
+      "20160609_Haura-SCC-PG_TMT15-2-Fx07-run2_assay"
+    ],
+    "Raw Data File": [
+      "20160609_Haura-SCC-PG_TMT15-2-Fx07-run2.raw"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments",
+      "TMT15"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "run2"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fx07"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "cohort of 108 squamous cell lung cancer (SCC) patients."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Disease]": [
+      "squamous cell lung cancer"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300\u2009nl/min"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC"
+    ],
+    "Comment[FractionationMethod]": [
+      "bRPLC separation"
+    ]
+  },
+  "20160609_Haura-SCC-PG_TMT07-2-Fx05-run2.raw": {
+    "Source Name": [
+      "20160609_Haura-SCC-PG_TMT07-2-Fx05-run2"
+    ],
+    "Assay Name": [
+      "20160609_Haura-SCC-PG_TMT07-2-Fx05-run2_assay"
+    ],
+    "Raw Data File": [
+      "20160609_Haura-SCC-PG_TMT07-2-Fx05-run2.raw"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments",
+      "TMT07"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "run2"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fx05"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "cohort of 108 squamous cell lung cancer (SCC) patients."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Disease]": [
+      "squamous cell lung cancer"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300\u2009nl/min"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC"
+    ],
+    "Comment[FractionationMethod]": [
+      "bRPLC separation"
+    ]
+  },
+  "20160609_Haura-SCC-PG_TMT12-2-Fx01-run2.raw": {
+    "Source Name": [
+      "20160609_Haura-SCC-PG_TMT12-2-Fx01-run2"
+    ],
+    "Assay Name": [
+      "20160609_Haura-SCC-PG_TMT12-2-Fx01-run2_assay"
+    ],
+    "Raw Data File": [
+      "20160609_Haura-SCC-PG_TMT12-2-Fx01-run2.raw"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments",
+      "TMT12"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "run2"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fx01"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "cohort of 108 squamous cell lung cancer (SCC) patients."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Disease]": [
+      "squamous cell lung cancer"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300\u2009nl/min"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC"
+    ],
+    "Comment[FractionationMethod]": [
+      "bRPLC separation"
+    ]
+  },
+  "20160609_Haura-SCC-PG_TMT26-fx02-run1.raw": {
+    "Source Name": [
+      "20160609_Haura-SCC-PG_TMT26-fx02-run1"
+    ],
+    "Assay Name": [
+      "20160609_Haura-SCC-PG_TMT26-fx02-run1_assay"
+    ],
+    "Raw Data File": [
+      "20160609_Haura-SCC-PG_TMT26-fx02-run1.raw"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments",
+      "TMT26"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "run1"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fx02"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "cohort of 108 squamous cell lung cancer (SCC) patients."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Disease]": [
+      "squamous cell lung cancer"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300\u2009nl/min"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC"
+    ],
+    "Comment[FractionationMethod]": [
+      "bRPLC separation"
+    ]
+  },
+  "20160609_Haura-SCC-PG_TMT26-fx01-run1.raw": {
+    "Source Name": [
+      "20160609_Haura-SCC-PG_TMT26-fx01-run1"
+    ],
+    "Assay Name": [
+      "20160609_Haura-SCC-PG_TMT26-fx01-run1_assay"
+    ],
+    "Raw Data File": [
+      "20160609_Haura-SCC-PG_TMT26-fx01-run1.raw"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments",
+      "TMT26"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "run1"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fx01"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "cohort of 108 squamous cell lung cancer (SCC) patients."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Disease]": [
+      "squamous cell lung cancer"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300\u2009nl/min"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC"
+    ],
+    "Comment[FractionationMethod]": [
+      "bRPLC separation"
+    ]
+  },
+  "20160609_Haura-SCC-PG_TMT22-2-fx10-run1.raw": {
+    "Source Name": [
+      "20160609_Haura-SCC-PG_TMT22-2-fx10-run1"
+    ],
+    "Assay Name": [
+      "20160609_Haura-SCC-PG_TMT22-2-fx10-run1_assay"
+    ],
+    "Raw Data File": [
+      "20160609_Haura-SCC-PG_TMT22-2-fx10-run1.raw"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments",
+      "TMT22"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "run1"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fx10"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "cohort of 108 squamous cell lung cancer (SCC) patients."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Disease]": [
+      "squamous cell lung cancer"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300\u2009nl/min"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC"
+    ],
+    "Comment[FractionationMethod]": [
+      "bRPLC separation"
+    ]
+  },
+  "20160609_Haura-SCC-PG_TMT26-fx04-run1.raw": {
+    "Source Name": [
+      "20160609_Haura-SCC-PG_TMT26-fx04-run1"
+    ],
+    "Assay Name": [
+      "20160609_Haura-SCC-PG_TMT26-fx04-run1_assay"
+    ],
+    "Raw Data File": [
+      "20160609_Haura-SCC-PG_TMT26-fx04-run1.raw"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments",
+      "TMT26"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "run1"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fx04"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "cohort of 108 squamous cell lung cancer (SCC) patients."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Disease]": [
+      "squamous cell lung cancer"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300\u2009nl/min"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC"
+    ],
+    "Comment[FractionationMethod]": [
+      "bRPLC separation"
+    ]
+  },
+  "20160609_Haura-SCC-PG_TMT12-2-Fx08-run2.raw": {
+    "Source Name": [
+      "20160609_Haura-SCC-PG_TMT12-2-Fx08-run2"
+    ],
+    "Assay Name": [
+      "20160609_Haura-SCC-PG_TMT12-2-Fx08-run2_assay"
+    ],
+    "Raw Data File": [
+      "20160609_Haura-SCC-PG_TMT12-2-Fx08-run2.raw"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments",
+      "TMT12"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "run2"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fx08"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "cohort of 108 squamous cell lung cancer (SCC) patients."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Disease]": [
+      "squamous cell lung cancer"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300\u2009nl/min"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC"
+    ],
+    "Comment[FractionationMethod]": [
+      "bRPLC separation"
+    ]
+  },
+  "20160609_Haura-SCC-PG_TMT09-2-Fx05-run2.raw": {
+    "Source Name": [
+      "20160609_Haura-SCC-PG_TMT09-2-Fx05-run2"
+    ],
+    "Assay Name": [
+      "20160609_Haura-SCC-PG_TMT09-2-Fx05-run2_assay"
+    ],
+    "Raw Data File": [
+      "20160609_Haura-SCC-PG_TMT09-2-Fx05-run2.raw"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments",
+      "TMT09"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "run2"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fx05"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "cohort of 108 squamous cell lung cancer (SCC) patients."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Disease]": [
+      "squamous cell lung cancer"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300\u2009nl/min"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC"
+    ],
+    "Comment[FractionationMethod]": [
+      "bRPLC separation"
+    ]
+  },
+  "20160609_Haura-SCC-PG_TMT01-2-Fx09-run1.raw": {
+    "Source Name": [
+      "20160609_Haura-SCC-PG_TMT01-2-Fx09-run1"
+    ],
+    "Assay Name": [
+      "20160609_Haura-SCC-PG_TMT01-2-Fx09-run1_assay"
+    ],
+    "Raw Data File": [
+      "20160609_Haura-SCC-PG_TMT01-2-Fx09-run1.raw"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments",
+      "TMT01"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "run1"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fx09"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "cohort of 108 squamous cell lung cancer (SCC) patients."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Disease]": [
+      "squamous cell lung cancer"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300\u2009nl/min"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC"
+    ],
+    "Comment[FractionationMethod]": [
+      "bRPLC separation"
+    ]
+  },
+  "20160609_Haura-SCC-PG_TMT14-2_fx04_Run2.raw": {
+    "Source Name": [
+      "20160609_Haura-SCC-PG_TMT14-2_fx04_Run2"
+    ],
+    "Assay Name": [
+      "20160609_Haura-SCC-PG_TMT14-2_fx04_Run2_assay"
+    ],
+    "Raw Data File": [
+      "20160609_Haura-SCC-PG_TMT14-2_fx04_Run2.raw"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments",
+      "TMT14"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Run2"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fx04"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "cohort of 108 squamous cell lung cancer (SCC) patients."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Disease]": [
+      "squamous cell lung cancer"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300\u2009nl/min"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC"
+    ],
+    "Comment[FractionationMethod]": [
+      "bRPLC separation"
+    ]
+  },
+  "20160609_Haura-SCC-PG_TMT29-fx02-run2.raw": {
+    "Source Name": [
+      "20160609_Haura-SCC-PG_TMT29-fx02-run2"
+    ],
+    "Assay Name": [
+      "20160609_Haura-SCC-PG_TMT29-fx02-run2_assay"
+    ],
+    "Raw Data File": [
+      "20160609_Haura-SCC-PG_TMT29-fx02-run2.raw"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments",
+      "TMT29"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "run2"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fx02"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "cohort of 108 squamous cell lung cancer (SCC) patients."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Disease]": [
+      "squamous cell lung cancer"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300\u2009nl/min"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC"
+    ],
+    "Comment[FractionationMethod]": [
+      "bRPLC separation"
+    ]
+  },
+  "20160609_Haura-SCC-PG_TMT21-2-fx03-run1.raw": {
+    "Source Name": [
+      "20160609_Haura-SCC-PG_TMT21-2-fx03-run1"
+    ],
+    "Assay Name": [
+      "20160609_Haura-SCC-PG_TMT21-2-fx03-run1_assay"
+    ],
+    "Raw Data File": [
+      "20160609_Haura-SCC-PG_TMT21-2-fx03-run1.raw"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments",
+      "TMT21"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "run1"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fx03"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "cohort of 108 squamous cell lung cancer (SCC) patients."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Disease]": [
+      "squamous cell lung cancer"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300\u2009nl/min"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC"
+    ],
+    "Comment[FractionationMethod]": [
+      "bRPLC separation"
+    ]
+  },
+  "20160609_Haura-SCC-PG_TMT06-2-Fx01-run2.raw": {
+    "Source Name": [
+      "20160609_Haura-SCC-PG_TMT06-2-Fx01-run2"
+    ],
+    "Assay Name": [
+      "20160609_Haura-SCC-PG_TMT06-2-Fx01-run2_assay"
+    ],
+    "Raw Data File": [
+      "20160609_Haura-SCC-PG_TMT06-2-Fx01-run2.raw"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments",
+      "TMT06"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "run2"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fx01"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "cohort of 108 squamous cell lung cancer (SCC) patients."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Disease]": [
+      "squamous cell lung cancer"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300\u2009nl/min"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC"
+    ],
+    "Comment[FractionationMethod]": [
+      "bRPLC separation"
+    ]
+  },
+  "20160609_Haura-SCC-PG_TMT03-2-Fx09-run1.raw": {
+    "Source Name": [
+      "20160609_Haura-SCC-PG_TMT03-2-Fx09-run1"
+    ],
+    "Assay Name": [
+      "20160609_Haura-SCC-PG_TMT03-2-Fx09-run1_assay"
+    ],
+    "Raw Data File": [
+      "20160609_Haura-SCC-PG_TMT03-2-Fx09-run1.raw"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments",
+      "TMT03"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "run1"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fx09"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "cohort of 108 squamous cell lung cancer (SCC) patients."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Disease]": [
+      "squamous cell lung cancer"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300\u2009nl/min"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC"
+    ],
+    "Comment[FractionationMethod]": [
+      "bRPLC separation"
+    ]
+  },
+  "20160609_Haura-SCC-PG_TMT05-2-Fx03-run1.raw": {
+    "Source Name": [
+      "20160609_Haura-SCC-PG_TMT05-2-Fx03-run1"
+    ],
+    "Assay Name": [
+      "20160609_Haura-SCC-PG_TMT05-2-Fx03-run1_assay"
+    ],
+    "Raw Data File": [
+      "20160609_Haura-SCC-PG_TMT05-2-Fx03-run1.raw"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments",
+      "TMT05"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "run1"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fx03"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "cohort of 108 squamous cell lung cancer (SCC) patients."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Disease]": [
+      "squamous cell lung cancer"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300\u2009nl/min"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC"
+    ],
+    "Comment[FractionationMethod]": [
+      "bRPLC separation"
+    ]
+  },
+  "20160609_Haura-SCC-PG_TMT06-2-Fx05-run1.raw": {
+    "Source Name": [
+      "20160609_Haura-SCC-PG_TMT06-2-Fx05-run1"
+    ],
+    "Assay Name": [
+      "20160609_Haura-SCC-PG_TMT06-2-Fx05-run1_assay"
+    ],
+    "Raw Data File": [
+      "20160609_Haura-SCC-PG_TMT06-2-Fx05-run1.raw"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments",
+      "TMT06"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "run1"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fx05"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "cohort of 108 squamous cell lung cancer (SCC) patients."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Disease]": [
+      "squamous cell lung cancer"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300\u2009nl/min"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC"
+    ],
+    "Comment[FractionationMethod]": [
+      "bRPLC separation"
+    ]
+  },
+  "20160609_Haura-SCC-PG_TMT11-fx04-run2.raw": {
+    "Source Name": [
+      "20160609_Haura-SCC-PG_TMT11-fx04-run2"
+    ],
+    "Assay Name": [
+      "20160609_Haura-SCC-PG_TMT11-fx04-run2_assay"
+    ],
+    "Raw Data File": [
+      "20160609_Haura-SCC-PG_TMT11-fx04-run2.raw"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments",
+      "TMT11"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "run2"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fx04"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "cohort of 108 squamous cell lung cancer (SCC) patients."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Disease]": [
+      "squamous cell lung cancer"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300\u2009nl/min"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC"
+    ],
+    "Comment[FractionationMethod]": [
+      "bRPLC separation"
+    ]
+  },
+  "20160609_Haura-SCC-PG_TMT18-2_fx03_Run2.raw": {
+    "Source Name": [
+      "20160609_Haura-SCC-PG_TMT18-2_fx03_Run2"
+    ],
+    "Assay Name": [
+      "20160609_Haura-SCC-PG_TMT18-2_fx03_Run2_assay"
+    ],
+    "Raw Data File": [
+      "20160609_Haura-SCC-PG_TMT18-2_fx03_Run2.raw"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments",
+      "TMT18"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Run2"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fx03"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "cohort of 108 squamous cell lung cancer (SCC) patients."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Disease]": [
+      "squamous cell lung cancer"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300\u2009nl/min"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC"
+    ],
+    "Comment[FractionationMethod]": [
+      "bRPLC separation"
+    ]
+  },
+  "20160609_Haura-SCC-PG_TMT18-2_fx03_Run1.raw": {
+    "Source Name": [
+      "20160609_Haura-SCC-PG_TMT18-2_fx03_Run1"
+    ],
+    "Assay Name": [
+      "20160609_Haura-SCC-PG_TMT18-2_fx03_Run1_assay"
+    ],
+    "Raw Data File": [
+      "20160609_Haura-SCC-PG_TMT18-2_fx03_Run1.raw"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments",
+      "TMT18"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Run1"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fx03"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "cohort of 108 squamous cell lung cancer (SCC) patients."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Disease]": [
+      "squamous cell lung cancer"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300\u2009nl/min"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC"
+    ],
+    "Comment[FractionationMethod]": [
+      "bRPLC separation"
+    ]
+  },
+  "20160609_Haura-SCC-PG_TMT17-2_fx12_Run1.raw": {
+    "Source Name": [
+      "20160609_Haura-SCC-PG_TMT17-2_fx12_Run1"
+    ],
+    "Assay Name": [
+      "20160609_Haura-SCC-PG_TMT17-2_fx12_Run1_assay"
+    ],
+    "Raw Data File": [
+      "20160609_Haura-SCC-PG_TMT17-2_fx12_Run1.raw"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments",
+      "TMT17"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Run1"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fx12"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "cohort of 108 squamous cell lung cancer (SCC) patients."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Disease]": [
+      "squamous cell lung cancer"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300\u2009nl/min"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC"
+    ],
+    "Comment[FractionationMethod]": [
+      "bRPLC separation"
+    ]
+  },
+  "20160609_Haura-SCC-PG_TMT07-2-Fx07-run1.raw": {
+    "Source Name": [
+      "20160609_Haura-SCC-PG_TMT07-2-Fx07-run1"
+    ],
+    "Assay Name": [
+      "20160609_Haura-SCC-PG_TMT07-2-Fx07-run1_assay"
+    ],
+    "Raw Data File": [
+      "20160609_Haura-SCC-PG_TMT07-2-Fx07-run1.raw"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments",
+      "TMT07"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "run1"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fx07"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "cohort of 108 squamous cell lung cancer (SCC) patients."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Disease]": [
+      "squamous cell lung cancer"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300\u2009nl/min"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC"
+    ],
+    "Comment[FractionationMethod]": [
+      "bRPLC separation"
+    ]
+  },
+  "20160609_Haura-SCC-PG_TMT08-2-Fx04-run1.raw": {
+    "Source Name": [
+      "20160609_Haura-SCC-PG_TMT08-2-Fx04-run1"
+    ],
+    "Assay Name": [
+      "20160609_Haura-SCC-PG_TMT08-2-Fx04-run1_assay"
+    ],
+    "Raw Data File": [
+      "20160609_Haura-SCC-PG_TMT08-2-Fx04-run1.raw"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments",
+      "TMT08"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "run1"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fx04"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "cohort of 108 squamous cell lung cancer (SCC) patients."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Disease]": [
+      "squamous cell lung cancer"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300\u2009nl/min"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC"
+    ],
+    "Comment[FractionationMethod]": [
+      "bRPLC separation"
+    ]
+  },
+  "20160609_Haura-SCC-PG_TMT14-2_fx09_Run1.raw": {
+    "Source Name": [
+      "20160609_Haura-SCC-PG_TMT14-2_fx09_Run1"
+    ],
+    "Assay Name": [
+      "20160609_Haura-SCC-PG_TMT14-2_fx09_Run1_assay"
+    ],
+    "Raw Data File": [
+      "20160609_Haura-SCC-PG_TMT14-2_fx09_Run1.raw"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments",
+      "TMT14"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Run1"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fx09"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "cohort of 108 squamous cell lung cancer (SCC) patients."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Disease]": [
+      "squamous cell lung cancer"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300\u2009nl/min"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC"
+    ],
+    "Comment[FractionationMethod]": [
+      "bRPLC separation"
+    ]
+  },
+  "20160609_Haura-SCC-PG_TMT08-2-Fx02-run2.raw": {
+    "Source Name": [
+      "20160609_Haura-SCC-PG_TMT08-2-Fx02-run2"
+    ],
+    "Assay Name": [
+      "20160609_Haura-SCC-PG_TMT08-2-Fx02-run2_assay"
+    ],
+    "Raw Data File": [
+      "20160609_Haura-SCC-PG_TMT08-2-Fx02-run2.raw"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments",
+      "TMT08"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "run2"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fx02"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "cohort of 108 squamous cell lung cancer (SCC) patients."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Disease]": [
+      "squamous cell lung cancer"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300\u2009nl/min"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC"
+    ],
+    "Comment[FractionationMethod]": [
+      "bRPLC separation"
+    ]
+  },
+  "20160609_Haura-SCC-PG_TMT13-2_fx01-Run2.raw": {
+    "Source Name": [
+      "20160609_Haura-SCC-PG_TMT13-2_fx01-Run2"
+    ],
+    "Assay Name": [
+      "20160609_Haura-SCC-PG_TMT13-2_fx01-Run2_assay"
+    ],
+    "Raw Data File": [
+      "20160609_Haura-SCC-PG_TMT13-2_fx01-Run2.raw"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments",
+      "TMT13"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Run2"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fx01"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "cohort of 108 squamous cell lung cancer (SCC) patients."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Disease]": [
+      "squamous cell lung cancer"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300\u2009nl/min"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC"
+    ],
+    "Comment[FractionationMethod]": [
+      "bRPLC separation"
+    ]
+  },
+  "20160609_Haura-SCC-PG_TMT02-2-Fx05-run2.raw": {
+    "Source Name": [
+      "20160609_Haura-SCC-PG_TMT02-2-Fx05-run2"
+    ],
+    "Assay Name": [
+      "20160609_Haura-SCC-PG_TMT02-2-Fx05-run2_assay"
+    ],
+    "Raw Data File": [
+      "20160609_Haura-SCC-PG_TMT02-2-Fx05-run2.raw"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments",
+      "TMT02"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "run2"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fx05"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "cohort of 108 squamous cell lung cancer (SCC) patients."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Disease]": [
+      "squamous cell lung cancer"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300\u2009nl/min"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC"
+    ],
+    "Comment[FractionationMethod]": [
+      "bRPLC separation"
+    ]
+  },
+  "20160609_Haura-SCC-PG_TMT20-fx03-run2.raw": {
+    "Source Name": [
+      "20160609_Haura-SCC-PG_TMT20-fx03-run2"
+    ],
+    "Assay Name": [
+      "20160609_Haura-SCC-PG_TMT20-fx03-run2_assay"
+    ],
+    "Raw Data File": [
+      "20160609_Haura-SCC-PG_TMT20-fx03-run2.raw"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments",
+      "TMT20"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "run2"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fx03"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "cohort of 108 squamous cell lung cancer (SCC) patients."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Disease]": [
+      "squamous cell lung cancer"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300\u2009nl/min"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC"
+    ],
+    "Comment[FractionationMethod]": [
+      "bRPLC separation"
+    ]
+  },
+  "20160609_Haura-SCC-PG_TMT18-2_fx12_Run2.raw": {
+    "Source Name": [
+      "20160609_Haura-SCC-PG_TMT18-2_fx12_Run2"
+    ],
+    "Assay Name": [
+      "20160609_Haura-SCC-PG_TMT18-2_fx12_Run2_assay"
+    ],
+    "Raw Data File": [
+      "20160609_Haura-SCC-PG_TMT18-2_fx12_Run2.raw"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments",
+      "TMT18"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Run2"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fx12"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "cohort of 108 squamous cell lung cancer (SCC) patients."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Disease]": [
+      "squamous cell lung cancer"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300\u2009nl/min"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC"
+    ],
+    "Comment[FractionationMethod]": [
+      "bRPLC separation"
+    ]
+  },
+  "20160609_Haura-SCC-PG_TMT11-fx03-run1.raw": {
+    "Source Name": [
+      "20160609_Haura-SCC-PG_TMT11-fx03-run1"
+    ],
+    "Assay Name": [
+      "20160609_Haura-SCC-PG_TMT11-fx03-run1_assay"
+    ],
+    "Raw Data File": [
+      "20160609_Haura-SCC-PG_TMT11-fx03-run1.raw"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments",
+      "TMT11"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "run1"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fx03"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "cohort of 108 squamous cell lung cancer (SCC) patients."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Disease]": [
+      "squamous cell lung cancer"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300\u2009nl/min"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC"
+    ],
+    "Comment[FractionationMethod]": [
+      "bRPLC separation"
+    ]
+  },
+  "20160609_Haura-SCC-PG_TMT08-2-Fx07-run2.raw": {
+    "Source Name": [
+      "20160609_Haura-SCC-PG_TMT08-2-Fx07-run2"
+    ],
+    "Assay Name": [
+      "20160609_Haura-SCC-PG_TMT08-2-Fx07-run2_assay"
+    ],
+    "Raw Data File": [
+      "20160609_Haura-SCC-PG_TMT08-2-Fx07-run2.raw"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments",
+      "TMT08"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "run2"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fx07"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "cohort of 108 squamous cell lung cancer (SCC) patients."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Disease]": [
+      "squamous cell lung cancer"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300\u2009nl/min"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC"
+    ],
+    "Comment[FractionationMethod]": [
+      "bRPLC separation"
+    ]
+  },
+  "20160609_Haura-SCC-PG_TMT01-2-Fx11-run2.raw": {
+    "Source Name": [
+      "20160609_Haura-SCC-PG_TMT01-2-Fx11-run2"
+    ],
+    "Assay Name": [
+      "20160609_Haura-SCC-PG_TMT01-2-Fx11-run2_assay"
+    ],
+    "Raw Data File": [
+      "20160609_Haura-SCC-PG_TMT01-2-Fx11-run2.raw"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments",
+      "TMT01"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "run2"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fx11"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "cohort of 108 squamous cell lung cancer (SCC) patients."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Disease]": [
+      "squamous cell lung cancer"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300\u2009nl/min"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC"
+    ],
+    "Comment[FractionationMethod]": [
+      "bRPLC separation"
+    ]
+  },
+  "20160609_Haura-SCC-PG_TMT11-fx01-run2.raw": {
+    "Source Name": [
+      "20160609_Haura-SCC-PG_TMT11-fx01-run2"
+    ],
+    "Assay Name": [
+      "20160609_Haura-SCC-PG_TMT11-fx01-run2_assay"
+    ],
+    "Raw Data File": [
+      "20160609_Haura-SCC-PG_TMT11-fx01-run2.raw"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments",
+      "TMT11"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "run2"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fx01"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "cohort of 108 squamous cell lung cancer (SCC) patients."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Disease]": [
+      "squamous cell lung cancer"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300\u2009nl/min"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC"
+    ],
+    "Comment[FractionationMethod]": [
+      "bRPLC separation"
+    ]
+  },
+  "20160609_Haura-SCC-PG_TMT01-2-Fx08-run1.raw": {
+    "Source Name": [
+      "20160609_Haura-SCC-PG_TMT01-2-Fx08-run1"
+    ],
+    "Assay Name": [
+      "20160609_Haura-SCC-PG_TMT01-2-Fx08-run1_assay"
+    ],
+    "Raw Data File": [
+      "20160609_Haura-SCC-PG_TMT01-2-Fx08-run1.raw"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments",
+      "TMT01"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "run1"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fx08"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "cohort of 108 squamous cell lung cancer (SCC) patients."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Disease]": [
+      "squamous cell lung cancer"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300\u2009nl/min"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC"
+    ],
+    "Comment[FractionationMethod]": [
+      "bRPLC separation"
+    ]
+  },
+  "20160609_Haura-SCC-PG_TMT01-2-Fx07-run2.raw": {
+    "Source Name": [
+      "20160609_Haura-SCC-PG_TMT01-2-Fx07-run2"
+    ],
+    "Assay Name": [
+      "20160609_Haura-SCC-PG_TMT01-2-Fx07-run2_assay"
+    ],
+    "Raw Data File": [
+      "20160609_Haura-SCC-PG_TMT01-2-Fx07-run2.raw"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments",
+      "TMT01"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "run2"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fx07"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "cohort of 108 squamous cell lung cancer (SCC) patients."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Disease]": [
+      "squamous cell lung cancer"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300\u2009nl/min"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC"
+    ],
+    "Comment[FractionationMethod]": [
+      "bRPLC separation"
+    ]
+  },
+  "20160609_Haura-SCC-PG_TMT25-fx02-run2.raw": {
+    "Source Name": [
+      "20160609_Haura-SCC-PG_TMT25-fx02-run2"
+    ],
+    "Assay Name": [
+      "20160609_Haura-SCC-PG_TMT25-fx02-run2_assay"
+    ],
+    "Raw Data File": [
+      "20160609_Haura-SCC-PG_TMT25-fx02-run2.raw"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments",
+      "TMT25"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "run2"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fx02"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "cohort of 108 squamous cell lung cancer (SCC) patients."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Disease]": [
+      "squamous cell lung cancer"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300\u2009nl/min"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC"
+    ],
+    "Comment[FractionationMethod]": [
+      "bRPLC separation"
+    ]
+  },
+  "20160609_Haura-SCC-PG_TMT19-2_fx11_Run2.raw": {
+    "Source Name": [
+      "20160609_Haura-SCC-PG_TMT19-2_fx11_Run2"
+    ],
+    "Assay Name": [
+      "20160609_Haura-SCC-PG_TMT19-2_fx11_Run2_assay"
+    ],
+    "Raw Data File": [
+      "20160609_Haura-SCC-PG_TMT19-2_fx11_Run2.raw"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) chemical labeling experiments",
+      "TMT19"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Run2"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fx11"
+    ],
+    "Characteristics[MaterialType]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "cohort of 108 squamous cell lung cancer (SCC) patients."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11\u2009mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "snap frozen tumor tissues"
+    ],
+    "Characteristics[Disease]": [
+      "squamous cell lung cancer"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner"
+    ],
+    "Comment[GradientTime]": [
+      "90\u2009min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300\u2009nl/min"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5\u2009m/z"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy 30"
+    ],
+    "Comment[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC"
+    ],
+    "Comment[FractionationMethod]": [
+      "bRPLC separation"
+    ]
+  }
+}

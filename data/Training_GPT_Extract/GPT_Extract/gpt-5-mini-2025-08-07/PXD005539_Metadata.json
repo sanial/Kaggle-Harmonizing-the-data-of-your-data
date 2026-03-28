@@ -1,0 +1,1811 @@
+{
+  "SKEML28_F4.raw": {
+    "Source Name": [
+      "SKEML28"
+    ],
+    "Assay Name": [
+      "SKEML28_F4"
+    ],
+    "Raw Data File": [
+      "SKEML28_F4.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Human melanoma cell lines SKMEL28 (HTB-72), A375 (CRL-1619), and C32TG (CRL-1579), and normal, primary adult epidermal melanocytes (PCS-200-013)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Human Melanoma-Derived Extracellular Vesicles"
+    ],
+    "Characteristics[Organism]": [
+      "human malignant melanocytes"
+    ],
+    "Characteristics[Specimen]": [
+      "cell culture supernatant"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested in 5 ng/µL trypsin overnight at 37°C."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "50 mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM idoacetamide"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Scientific Orbitrap Elite Hybrid Mass Spectrometer",
+      "QExactivePlus (Thermo Fisher Scientific, Bremen, Germany)",
+      "Thermo Ultimate 3000 RSLCnano HPLC systems"
+    ],
+    "Comment[Separation]": [
+      "both coupled to a Thermo Ultimate 3000 RSLCnano HPLC systems, using handpacked Magic C18 3 μm: 25 cm × 75-μm columns at ambient temperatures and Magic C18 5 μm trap at a flow rate of 325 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 325 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "FT full scan from 340–1,500 m/z with resolution set at 120,000 (at 400 m/z), followed by linear ion trap rapid CID MS/MS scans on the top 25 ions.",
+      "FT full scan from 340–1,500 m/z with resolution at 70,000 and HCD on the 20 ions at 17,500."
+    ],
+    "Comment[FragmentationMethod]": [
+      "linear ion trap rapid CID MS/MS scans on the top 25 ions.",
+      "HCD on the 20 ions at 17,500"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "parent ion tolerance of 10.0 PPM"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion mass tolerance of 0.60 Da for the Elite or 0.02 Da for the QXactive Plus raw files."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Total Exosome Isolation Reagent (ThermoFisher)",
+      "exoEasy maxi kit (Qiagen)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F4"
+    ]
+  },
+  "SKMEL28_F2.raw": {
+    "Source Name": [
+      "SKMEL28"
+    ],
+    "Assay Name": [
+      "SKMEL28_F2"
+    ],
+    "Raw Data File": [
+      "SKMEL28_F2.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Human melanoma cell lines SKMEL28 (HTB-72), A375 (CRL-1619), and C32TG (CRL-1579), and normal, primary adult epidermal melanocytes (PCS-200-013)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Human Melanoma-Derived Extracellular Vesicles"
+    ],
+    "Characteristics[Organism]": [
+      "human malignant melanocytes"
+    ],
+    "Characteristics[Specimen]": [
+      "cell culture supernatant"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested in 5 ng/µL trypsin overnight at 37°C."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "50 mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM idoacetamide"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Scientific Orbitrap Elite Hybrid Mass Spectrometer",
+      "QExactivePlus (Thermo Fisher Scientific, Bremen, Germany)",
+      "Thermo Ultimate 3000 RSLCnano HPLC systems"
+    ],
+    "Comment[Separation]": [
+      "both coupled to a Thermo Ultimate 3000 RSLCnano HPLC systems, using handpacked Magic C18 3 μm: 25 cm × 75-μm columns at ambient temperatures and Magic C18 5 μm trap at a flow rate of 325 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 325 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "FT full scan from 340–1,500 m/z with resolution set at 120,000 (at 400 m/z), followed by linear ion trap rapid CID MS/MS scans on the top 25 ions.",
+      "FT full scan from 340–1,500 m/z with resolution at 70,000 and HCD on the 20 ions at 17,500."
+    ],
+    "Comment[FragmentationMethod]": [
+      "linear ion trap rapid CID MS/MS scans on the top 25 ions.",
+      "HCD on the 20 ions at 17,500"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "parent ion tolerance of 10.0 PPM"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion mass tolerance of 0.60 Da for the Elite or 0.02 Da for the QXactive Plus raw files."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Total Exosome Isolation Reagent (ThermoFisher)",
+      "exoEasy maxi kit (Qiagen)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F2"
+    ]
+  },
+  "A375_F7.raw": {
+    "Source Name": [
+      "A375"
+    ],
+    "Assay Name": [
+      "A375_F7"
+    ],
+    "Raw Data File": [
+      "A375_F7.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Human melanoma cell lines SKMEL28 (HTB-72), A375 (CRL-1619), and C32TG (CRL-1579), and normal, primary adult epidermal melanocytes (PCS-200-013)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Human Melanoma-Derived Extracellular Vesicles"
+    ],
+    "Characteristics[Organism]": [
+      "human malignant melanocytes"
+    ],
+    "Characteristics[Specimen]": [
+      "cell culture supernatant"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested in 5 ng/µL trypsin overnight at 37°C."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "50 mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM idoacetamide"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Scientific Orbitrap Elite Hybrid Mass Spectrometer",
+      "QExactivePlus (Thermo Fisher Scientific, Bremen, Germany)",
+      "Thermo Ultimate 3000 RSLCnano HPLC systems"
+    ],
+    "Comment[Separation]": [
+      "both coupled to a Thermo Ultimate 3000 RSLCnano HPLC systems, using handpacked Magic C18 3 μm: 25 cm × 75-μm columns at ambient temperatures and Magic C18 5 μm trap at a flow rate of 325 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 325 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "FT full scan from 340–1,500 m/z with resolution set at 120,000 (at 400 m/z), followed by linear ion trap rapid CID MS/MS scans on the top 25 ions.",
+      "FT full scan from 340–1,500 m/z with resolution at 70,000 and HCD on the 20 ions at 17,500."
+    ],
+    "Comment[FragmentationMethod]": [
+      "linear ion trap rapid CID MS/MS scans on the top 25 ions.",
+      "HCD on the 20 ions at 17,500"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "parent ion tolerance of 10.0 PPM"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion mass tolerance of 0.60 Da for the Elite or 0.02 Da for the QXactive Plus raw files."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Total Exosome Isolation Reagent (ThermoFisher)",
+      "exoEasy maxi kit (Qiagen)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F7"
+    ]
+  },
+  "C32TG_F2.raw": {
+    "Source Name": [
+      "C32TG"
+    ],
+    "Assay Name": [
+      "C32TG_F2"
+    ],
+    "Raw Data File": [
+      "C32TG_F2.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Human melanoma cell lines SKMEL28 (HTB-72), A375 (CRL-1619), and C32TG (CRL-1579), and normal, primary adult epidermal melanocytes (PCS-200-013)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Human Melanoma-Derived Extracellular Vesicles"
+    ],
+    "Characteristics[Organism]": [
+      "human malignant melanocytes"
+    ],
+    "Characteristics[Specimen]": [
+      "cell culture supernatant"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested in 5 ng/µL trypsin overnight at 37°C."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "50 mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM idoacetamide"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Scientific Orbitrap Elite Hybrid Mass Spectrometer",
+      "QExactivePlus (Thermo Fisher Scientific, Bremen, Germany)",
+      "Thermo Ultimate 3000 RSLCnano HPLC systems"
+    ],
+    "Comment[Separation]": [
+      "both coupled to a Thermo Ultimate 3000 RSLCnano HPLC systems, using handpacked Magic C18 3 μm: 25 cm × 75-μm columns at ambient temperatures and Magic C18 5 μm trap at a flow rate of 325 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 325 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "FT full scan from 340–1,500 m/z with resolution set at 120,000 (at 400 m/z), followed by linear ion trap rapid CID MS/MS scans on the top 25 ions.",
+      "FT full scan from 340–1,500 m/z with resolution at 70,000 and HCD on the 20 ions at 17,500."
+    ],
+    "Comment[FragmentationMethod]": [
+      "linear ion trap rapid CID MS/MS scans on the top 25 ions.",
+      "HCD on the 20 ions at 17,500"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "parent ion tolerance of 10.0 PPM"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion mass tolerance of 0.60 Da for the Elite or 0.02 Da for the QXactive Plus raw files."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Total Exosome Isolation Reagent (ThermoFisher)",
+      "exoEasy maxi kit (Qiagen)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F2"
+    ]
+  },
+  "C32TG_F8.raw": {
+    "Source Name": [
+      "C32TG"
+    ],
+    "Assay Name": [
+      "C32TG_F8"
+    ],
+    "Raw Data File": [
+      "C32TG_F8.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Human melanoma cell lines SKMEL28 (HTB-72), A375 (CRL-1619), and C32TG (CRL-1579), and normal, primary adult epidermal melanocytes (PCS-200-013)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Human Melanoma-Derived Extracellular Vesicles"
+    ],
+    "Characteristics[Organism]": [
+      "human malignant melanocytes"
+    ],
+    "Characteristics[Specimen]": [
+      "cell culture supernatant"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested in 5 ng/µL trypsin overnight at 37°C."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "50 mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM idoacetamide"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Scientific Orbitrap Elite Hybrid Mass Spectrometer",
+      "QExactivePlus (Thermo Fisher Scientific, Bremen, Germany)",
+      "Thermo Ultimate 3000 RSLCnano HPLC systems"
+    ],
+    "Comment[Separation]": [
+      "both coupled to a Thermo Ultimate 3000 RSLCnano HPLC systems, using handpacked Magic C18 3 μm: 25 cm × 75-μm columns at ambient temperatures and Magic C18 5 μm trap at a flow rate of 325 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 325 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "FT full scan from 340–1,500 m/z with resolution set at 120,000 (at 400 m/z), followed by linear ion trap rapid CID MS/MS scans on the top 25 ions.",
+      "FT full scan from 340–1,500 m/z with resolution at 70,000 and HCD on the 20 ions at 17,500."
+    ],
+    "Comment[FragmentationMethod]": [
+      "linear ion trap rapid CID MS/MS scans on the top 25 ions.",
+      "HCD on the 20 ions at 17,500"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "parent ion tolerance of 10.0 PPM"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion mass tolerance of 0.60 Da for the Elite or 0.02 Da for the QXactive Plus raw files."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Total Exosome Isolation Reagent (ThermoFisher)",
+      "exoEasy maxi kit (Qiagen)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F8"
+    ]
+  },
+  "A375_F3.raw": {
+    "Source Name": [
+      "A375"
+    ],
+    "Assay Name": [
+      "A375_F3"
+    ],
+    "Raw Data File": [
+      "A375_F3.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Human melanoma cell lines SKMEL28 (HTB-72), A375 (CRL-1619), and C32TG (CRL-1579), and normal, primary adult epidermal melanocytes (PCS-200-013)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Human Melanoma-Derived Extracellular Vesicles"
+    ],
+    "Characteristics[Organism]": [
+      "human malignant melanocytes"
+    ],
+    "Characteristics[Specimen]": [
+      "cell culture supernatant"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested in 5 ng/µL trypsin overnight at 37°C."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "50 mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM idoacetamide"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Scientific Orbitrap Elite Hybrid Mass Spectrometer",
+      "QExactivePlus (Thermo Fisher Scientific, Bremen, Germany)",
+      "Thermo Ultimate 3000 RSLCnano HPLC systems"
+    ],
+    "Comment[Separation]": [
+      "both coupled to a Thermo Ultimate 3000 RSLCnano HPLC systems, using handpacked Magic C18 3 μm: 25 cm × 75-μm columns at ambient temperatures and Magic C18 5 μm trap at a flow rate of 325 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 325 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "FT full scan from 340–1,500 m/z with resolution set at 120,000 (at 400 m/z), followed by linear ion trap rapid CID MS/MS scans on the top 25 ions.",
+      "FT full scan from 340–1,500 m/z with resolution at 70,000 and HCD on the 20 ions at 17,500."
+    ],
+    "Comment[FragmentationMethod]": [
+      "linear ion trap rapid CID MS/MS scans on the top 25 ions.",
+      "HCD on the 20 ions at 17,500"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "parent ion tolerance of 10.0 PPM"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion mass tolerance of 0.60 Da for the Elite or 0.02 Da for the QXactive Plus raw files."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Total Exosome Isolation Reagent (ThermoFisher)",
+      "exoEasy maxi kit (Qiagen)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F3"
+    ]
+  },
+  "SKMEL28_F2a.raw": {
+    "Source Name": [
+      "SKMEL28"
+    ],
+    "Assay Name": [
+      "SKMEL28_F2a"
+    ],
+    "Raw Data File": [
+      "SKMEL28_F2a.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Human melanoma cell lines SKMEL28 (HTB-72), A375 (CRL-1619), and C32TG (CRL-1579), and normal, primary adult epidermal melanocytes (PCS-200-013)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Human Melanoma-Derived Extracellular Vesicles"
+    ],
+    "Characteristics[Organism]": [
+      "human malignant melanocytes"
+    ],
+    "Characteristics[Specimen]": [
+      "cell culture supernatant"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested in 5 ng/µL trypsin overnight at 37°C."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "50 mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM idoacetamide"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Scientific Orbitrap Elite Hybrid Mass Spectrometer",
+      "QExactivePlus (Thermo Fisher Scientific, Bremen, Germany)",
+      "Thermo Ultimate 3000 RSLCnano HPLC systems"
+    ],
+    "Comment[Separation]": [
+      "both coupled to a Thermo Ultimate 3000 RSLCnano HPLC systems, using handpacked Magic C18 3 μm: 25 cm × 75-μm columns at ambient temperatures and Magic C18 5 μm trap at a flow rate of 325 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 325 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "FT full scan from 340–1,500 m/z with resolution set at 120,000 (at 400 m/z), followed by linear ion trap rapid CID MS/MS scans on the top 25 ions.",
+      "FT full scan from 340–1,500 m/z with resolution at 70,000 and HCD on the 20 ions at 17,500."
+    ],
+    "Comment[FragmentationMethod]": [
+      "linear ion trap rapid CID MS/MS scans on the top 25 ions.",
+      "HCD on the 20 ions at 17,500"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "parent ion tolerance of 10.0 PPM"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion mass tolerance of 0.60 Da for the Elite or 0.02 Da for the QXactive Plus raw files."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Total Exosome Isolation Reagent (ThermoFisher)",
+      "exoEasy maxi kit (Qiagen)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F2a"
+    ]
+  },
+  "A375_F8.raw": {
+    "Source Name": [
+      "A375"
+    ],
+    "Assay Name": [
+      "A375_F8"
+    ],
+    "Raw Data File": [
+      "A375_F8.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Human melanoma cell lines SKMEL28 (HTB-72), A375 (CRL-1619), and C32TG (CRL-1579), and normal, primary adult epidermal melanocytes (PCS-200-013)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Human Melanoma-Derived Extracellular Vesicles"
+    ],
+    "Characteristics[Organism]": [
+      "human malignant melanocytes"
+    ],
+    "Characteristics[Specimen]": [
+      "cell culture supernatant"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested in 5 ng/µL trypsin overnight at 37°C."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "50 mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM idoacetamide"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Scientific Orbitrap Elite Hybrid Mass Spectrometer",
+      "QExactivePlus (Thermo Fisher Scientific, Bremen, Germany)",
+      "Thermo Ultimate 3000 RSLCnano HPLC systems"
+    ],
+    "Comment[Separation]": [
+      "both coupled to a Thermo Ultimate 3000 RSLCnano HPLC systems, using handpacked Magic C18 3 μm: 25 cm × 75-μm columns at ambient temperatures and Magic C18 5 μm trap at a flow rate of 325 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 325 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "FT full scan from 340–1,500 m/z with resolution set at 120,000 (at 400 m/z), followed by linear ion trap rapid CID MS/MS scans on the top 25 ions.",
+      "FT full scan from 340–1,500 m/z with resolution at 70,000 and HCD on the 20 ions at 17,500."
+    ],
+    "Comment[FragmentationMethod]": [
+      "linear ion trap rapid CID MS/MS scans on the top 25 ions.",
+      "HCD on the 20 ions at 17,500"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "parent ion tolerance of 10.0 PPM"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion mass tolerance of 0.60 Da for the Elite or 0.02 Da for the QXactive Plus raw files."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Total Exosome Isolation Reagent (ThermoFisher)",
+      "exoEasy maxi kit (Qiagen)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F8"
+    ]
+  },
+  "C32TG_F7.raw": {
+    "Source Name": [
+      "C32TG"
+    ],
+    "Assay Name": [
+      "C32TG_F7"
+    ],
+    "Raw Data File": [
+      "C32TG_F7.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Human melanoma cell lines SKMEL28 (HTB-72), A375 (CRL-1619), and C32TG (CRL-1579), and normal, primary adult epidermal melanocytes (PCS-200-013)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Human Melanoma-Derived Extracellular Vesicles"
+    ],
+    "Characteristics[Organism]": [
+      "human malignant melanocytes"
+    ],
+    "Characteristics[Specimen]": [
+      "cell culture supernatant"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested in 5 ng/µL trypsin overnight at 37°C."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "50 mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM idoacetamide"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Scientific Orbitrap Elite Hybrid Mass Spectrometer",
+      "QExactivePlus (Thermo Fisher Scientific, Bremen, Germany)",
+      "Thermo Ultimate 3000 RSLCnano HPLC systems"
+    ],
+    "Comment[Separation]": [
+      "both coupled to a Thermo Ultimate 3000 RSLCnano HPLC systems, using handpacked Magic C18 3 μm: 25 cm × 75-μm columns at ambient temperatures and Magic C18 5 μm trap at a flow rate of 325 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 325 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "FT full scan from 340–1,500 m/z with resolution set at 120,000 (at 400 m/z), followed by linear ion trap rapid CID MS/MS scans on the top 25 ions.",
+      "FT full scan from 340–1,500 m/z with resolution at 70,000 and HCD on the 20 ions at 17,500."
+    ],
+    "Comment[FragmentationMethod]": [
+      "linear ion trap rapid CID MS/MS scans on the top 25 ions.",
+      "HCD on the 20 ions at 17,500"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "parent ion tolerance of 10.0 PPM"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion mass tolerance of 0.60 Da for the Elite or 0.02 Da for the QXactive Plus raw files."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Total Exosome Isolation Reagent (ThermoFisher)",
+      "exoEasy maxi kit (Qiagen)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F7"
+    ]
+  },
+  "A375_F4.raw": {
+    "Source Name": [
+      "A375"
+    ],
+    "Assay Name": [
+      "A375_F4"
+    ],
+    "Raw Data File": [
+      "A375_F4.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Human melanoma cell lines SKMEL28 (HTB-72), A375 (CRL-1619), and C32TG (CRL-1579), and normal, primary adult epidermal melanocytes (PCS-200-013)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Human Melanoma-Derived Extracellular Vesicles"
+    ],
+    "Characteristics[Organism]": [
+      "human malignant melanocytes"
+    ],
+    "Characteristics[Specimen]": [
+      "cell culture supernatant"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested in 5 ng/µL trypsin overnight at 37°C."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "50 mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM idoacetamide"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Scientific Orbitrap Elite Hybrid Mass Spectrometer",
+      "QExactivePlus (Thermo Fisher Scientific, Bremen, Germany)",
+      "Thermo Ultimate 3000 RSLCnano HPLC systems"
+    ],
+    "Comment[Separation]": [
+      "both coupled to a Thermo Ultimate 3000 RSLCnano HPLC systems, using handpacked Magic C18 3 μm: 25 cm × 75-μm columns at ambient temperatures and Magic C18 5 μm trap at a flow rate of 325 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 325 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "FT full scan from 340–1,500 m/z with resolution set at 120,000 (at 400 m/z), followed by linear ion trap rapid CID MS/MS scans on the top 25 ions.",
+      "FT full scan from 340–1,500 m/z with resolution at 70,000 and HCD on the 20 ions at 17,500."
+    ],
+    "Comment[FragmentationMethod]": [
+      "linear ion trap rapid CID MS/MS scans on the top 25 ions.",
+      "HCD on the 20 ions at 17,500"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "parent ion tolerance of 10.0 PPM"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion mass tolerance of 0.60 Da for the Elite or 0.02 Da for the QXactive Plus raw files."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Total Exosome Isolation Reagent (ThermoFisher)",
+      "exoEasy maxi kit (Qiagen)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F4"
+    ]
+  },
+  "C32TG_F6.raw": {
+    "Source Name": [
+      "C32TG"
+    ],
+    "Assay Name": [
+      "C32TG_F6"
+    ],
+    "Raw Data File": [
+      "C32TG_F6.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Human melanoma cell lines SKMEL28 (HTB-72), A375 (CRL-1619), and C32TG (CRL-1579), and normal, primary adult epidermal melanocytes (PCS-200-013)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Human Melanoma-Derived Extracellular Vesicles"
+    ],
+    "Characteristics[Organism]": [
+      "human malignant melanocytes"
+    ],
+    "Characteristics[Specimen]": [
+      "cell culture supernatant"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested in 5 ng/µL trypsin overnight at 37°C."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "50 mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM idoacetamide"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Scientific Orbitrap Elite Hybrid Mass Spectrometer",
+      "QExactivePlus (Thermo Fisher Scientific, Bremen, Germany)",
+      "Thermo Ultimate 3000 RSLCnano HPLC systems"
+    ],
+    "Comment[Separation]": [
+      "both coupled to a Thermo Ultimate 3000 RSLCnano HPLC systems, using handpacked Magic C18 3 μm: 25 cm × 75-μm columns at ambient temperatures and Magic C18 5 μm trap at a flow rate of 325 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 325 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "FT full scan from 340–1,500 m/z with resolution set at 120,000 (at 400 m/z), followed by linear ion trap rapid CID MS/MS scans on the top 25 ions.",
+      "FT full scan from 340–1,500 m/z with resolution at 70,000 and HCD on the 20 ions at 17,500."
+    ],
+    "Comment[FragmentationMethod]": [
+      "linear ion trap rapid CID MS/MS scans on the top 25 ions.",
+      "HCD on the 20 ions at 17,500"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "parent ion tolerance of 10.0 PPM"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion mass tolerance of 0.60 Da for the Elite or 0.02 Da for the QXactive Plus raw files."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Total Exosome Isolation Reagent (ThermoFisher)",
+      "exoEasy maxi kit (Qiagen)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F6"
+    ]
+  },
+  "C32TG_F3.raw": {
+    "Source Name": [
+      "C32TG"
+    ],
+    "Assay Name": [
+      "C32TG_F3"
+    ],
+    "Raw Data File": [
+      "C32TG_F3.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Human melanoma cell lines SKMEL28 (HTB-72), A375 (CRL-1619), and C32TG (CRL-1579), and normal, primary adult epidermal melanocytes (PCS-200-013)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Human Melanoma-Derived Extracellular Vesicles"
+    ],
+    "Characteristics[Organism]": [
+      "human malignant melanocytes"
+    ],
+    "Characteristics[Specimen]": [
+      "cell culture supernatant"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested in 5 ng/µL trypsin overnight at 37°C."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "50 mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM idoacetamide"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Scientific Orbitrap Elite Hybrid Mass Spectrometer",
+      "QExactivePlus (Thermo Fisher Scientific, Bremen, Germany)",
+      "Thermo Ultimate 3000 RSLCnano HPLC systems"
+    ],
+    "Comment[Separation]": [
+      "both coupled to a Thermo Ultimate 3000 RSLCnano HPLC systems, using handpacked Magic C18 3 μm: 25 cm × 75-μm columns at ambient temperatures and Magic C18 5 μm trap at a flow rate of 325 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 325 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "FT full scan from 340–1,500 m/z with resolution set at 120,000 (at 400 m/z), followed by linear ion trap rapid CID MS/MS scans on the top 25 ions.",
+      "FT full scan from 340–1,500 m/z with resolution at 70,000 and HCD on the 20 ions at 17,500."
+    ],
+    "Comment[FragmentationMethod]": [
+      "linear ion trap rapid CID MS/MS scans on the top 25 ions.",
+      "HCD on the 20 ions at 17,500"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "parent ion tolerance of 10.0 PPM"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion mass tolerance of 0.60 Da for the Elite or 0.02 Da for the QXactive Plus raw files."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Total Exosome Isolation Reagent (ThermoFisher)",
+      "exoEasy maxi kit (Qiagen)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F3"
+    ]
+  },
+  "SKMEL28_F6.raw": {
+    "Source Name": [
+      "SKMEL28"
+    ],
+    "Assay Name": [
+      "SKMEL28_F6"
+    ],
+    "Raw Data File": [
+      "SKMEL28_F6.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Human melanoma cell lines SKMEL28 (HTB-72), A375 (CRL-1619), and C32TG (CRL-1579), and normal, primary adult epidermal melanocytes (PCS-200-013)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Human Melanoma-Derived Extracellular Vesicles"
+    ],
+    "Characteristics[Organism]": [
+      "human malignant melanocytes"
+    ],
+    "Characteristics[Specimen]": [
+      "cell culture supernatant"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested in 5 ng/µL trypsin overnight at 37°C."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "50 mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM idoacetamide"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Scientific Orbitrap Elite Hybrid Mass Spectrometer",
+      "QExactivePlus (Thermo Fisher Scientific, Bremen, Germany)",
+      "Thermo Ultimate 3000 RSLCnano HPLC systems"
+    ],
+    "Comment[Separation]": [
+      "both coupled to a Thermo Ultimate 3000 RSLCnano HPLC systems, using handpacked Magic C18 3 μm: 25 cm × 75-μm columns at ambient temperatures and Magic C18 5 μm trap at a flow rate of 325 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 325 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "FT full scan from 340–1,500 m/z with resolution set at 120,000 (at 400 m/z), followed by linear ion trap rapid CID MS/MS scans on the top 25 ions.",
+      "FT full scan from 340–1,500 m/z with resolution at 70,000 and HCD on the 20 ions at 17,500."
+    ],
+    "Comment[FragmentationMethod]": [
+      "linear ion trap rapid CID MS/MS scans on the top 25 ions.",
+      "HCD on the 20 ions at 17,500"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "parent ion tolerance of 10.0 PPM"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion mass tolerance of 0.60 Da for the Elite or 0.02 Da for the QXactive Plus raw files."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Total Exosome Isolation Reagent (ThermoFisher)",
+      "exoEasy maxi kit (Qiagen)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F6"
+    ]
+  },
+  "SKMEL28_F3.raw": {
+    "Source Name": [
+      "SKMEL28"
+    ],
+    "Assay Name": [
+      "SKMEL28_F3"
+    ],
+    "Raw Data File": [
+      "SKMEL28_F3.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Human melanoma cell lines SKMEL28 (HTB-72), A375 (CRL-1619), and C32TG (CRL-1579), and normal, primary adult epidermal melanocytes (PCS-200-013)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Human Melanoma-Derived Extracellular Vesicles"
+    ],
+    "Characteristics[Organism]": [
+      "human malignant melanocytes"
+    ],
+    "Characteristics[Specimen]": [
+      "cell culture supernatant"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested in 5 ng/µL trypsin overnight at 37°C."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "50 mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM idoacetamide"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Scientific Orbitrap Elite Hybrid Mass Spectrometer",
+      "QExactivePlus (Thermo Fisher Scientific, Bremen, Germany)",
+      "Thermo Ultimate 3000 RSLCnano HPLC systems"
+    ],
+    "Comment[Separation]": [
+      "both coupled to a Thermo Ultimate 3000 RSLCnano HPLC systems, using handpacked Magic C18 3 μm: 25 cm × 75-μm columns at ambient temperatures and Magic C18 5 μm trap at a flow rate of 325 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 325 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "FT full scan from 340–1,500 m/z with resolution set at 120,000 (at 400 m/z), followed by linear ion trap rapid CID MS/MS scans on the top 25 ions.",
+      "FT full scan from 340–1,500 m/z with resolution at 70,000 and HCD on the 20 ions at 17,500."
+    ],
+    "Comment[FragmentationMethod]": [
+      "linear ion trap rapid CID MS/MS scans on the top 25 ions.",
+      "HCD on the 20 ions at 17,500"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "parent ion tolerance of 10.0 PPM"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion mass tolerance of 0.60 Da for the Elite or 0.02 Da for the QXactive Plus raw files."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Total Exosome Isolation Reagent (ThermoFisher)",
+      "exoEasy maxi kit (Qiagen)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F3"
+    ]
+  },
+  "A375_F1.raw": {
+    "Source Name": [
+      "A375"
+    ],
+    "Assay Name": [
+      "A375_F1"
+    ],
+    "Raw Data File": [
+      "A375_F1.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Human melanoma cell lines SKMEL28 (HTB-72), A375 (CRL-1619), and C32TG (CRL-1579), and normal, primary adult epidermal melanocytes (PCS-200-013)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Human Melanoma-Derived Extracellular Vesicles"
+    ],
+    "Characteristics[Organism]": [
+      "human malignant melanocytes"
+    ],
+    "Characteristics[Specimen]": [
+      "cell culture supernatant"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested in 5 ng/µL trypsin overnight at 37°C."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "50 mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM idoacetamide"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Scientific Orbitrap Elite Hybrid Mass Spectrometer",
+      "QExactivePlus (Thermo Fisher Scientific, Bremen, Germany)",
+      "Thermo Ultimate 3000 RSLCnano HPLC systems"
+    ],
+    "Comment[Separation]": [
+      "both coupled to a Thermo Ultimate 3000 RSLCnano HPLC systems, using handpacked Magic C18 3 μm: 25 cm × 75-μm columns at ambient temperatures and Magic C18 5 μm trap at a flow rate of 325 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 325 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "FT full scan from 340–1,500 m/z with resolution set at 120,000 (at 400 m/z), followed by linear ion trap rapid CID MS/MS scans on the top 25 ions.",
+      "FT full scan from 340–1,500 m/z with resolution at 70,000 and HCD on the 20 ions at 17,500."
+    ],
+    "Comment[FragmentationMethod]": [
+      "linear ion trap rapid CID MS/MS scans on the top 25 ions.",
+      "HCD on the 20 ions at 17,500"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "parent ion tolerance of 10.0 PPM"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion mass tolerance of 0.60 Da for the Elite or 0.02 Da for the QXactive Plus raw files."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Total Exosome Isolation Reagent (ThermoFisher)",
+      "exoEasy maxi kit (Qiagen)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F1"
+    ]
+  },
+  "A375_F2.raw": {
+    "Source Name": [
+      "A375"
+    ],
+    "Assay Name": [
+      "A375_F2"
+    ],
+    "Raw Data File": [
+      "A375_F2.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Human melanoma cell lines SKMEL28 (HTB-72), A375 (CRL-1619), and C32TG (CRL-1579), and normal, primary adult epidermal melanocytes (PCS-200-013)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Human Melanoma-Derived Extracellular Vesicles"
+    ],
+    "Characteristics[Organism]": [
+      "human malignant melanocytes"
+    ],
+    "Characteristics[Specimen]": [
+      "cell culture supernatant"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested in 5 ng/µL trypsin overnight at 37°C."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "50 mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM idoacetamide"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Scientific Orbitrap Elite Hybrid Mass Spectrometer",
+      "QExactivePlus (Thermo Fisher Scientific, Bremen, Germany)",
+      "Thermo Ultimate 3000 RSLCnano HPLC systems"
+    ],
+    "Comment[Separation]": [
+      "both coupled to a Thermo Ultimate 3000 RSLCnano HPLC systems, using handpacked Magic C18 3 μm: 25 cm × 75-μm columns at ambient temperatures and Magic C18 5 μm trap at a flow rate of 325 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 325 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "FT full scan from 340–1,500 m/z with resolution set at 120,000 (at 400 m/z), followed by linear ion trap rapid CID MS/MS scans on the top 25 ions.",
+      "FT full scan from 340–1,500 m/z with resolution at 70,000 and HCD on the 20 ions at 17,500."
+    ],
+    "Comment[FragmentationMethod]": [
+      "linear ion trap rapid CID MS/MS scans on the top 25 ions.",
+      "HCD on the 20 ions at 17,500"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "parent ion tolerance of 10.0 PPM"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion mass tolerance of 0.60 Da for the Elite or 0.02 Da for the QXactive Plus raw files."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Total Exosome Isolation Reagent (ThermoFisher)",
+      "exoEasy maxi kit (Qiagen)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F2"
+    ]
+  },
+  "C32TG_F1.raw": {
+    "Source Name": [
+      "C32TG"
+    ],
+    "Assay Name": [
+      "C32TG_F1"
+    ],
+    "Raw Data File": [
+      "C32TG_F1.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Human melanoma cell lines SKMEL28 (HTB-72), A375 (CRL-1619), and C32TG (CRL-1579), and normal, primary adult epidermal melanocytes (PCS-200-013)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Human Melanoma-Derived Extracellular Vesicles"
+    ],
+    "Characteristics[Organism]": [
+      "human malignant melanocytes"
+    ],
+    "Characteristics[Specimen]": [
+      "cell culture supernatant"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested in 5 ng/µL trypsin overnight at 37°C."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "50 mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM idoacetamide"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Scientific Orbitrap Elite Hybrid Mass Spectrometer",
+      "QExactivePlus (Thermo Fisher Scientific, Bremen, Germany)",
+      "Thermo Ultimate 3000 RSLCnano HPLC systems"
+    ],
+    "Comment[Separation]": [
+      "both coupled to a Thermo Ultimate 3000 RSLCnano HPLC systems, using handpacked Magic C18 3 μm: 25 cm × 75-μm columns at ambient temperatures and Magic C18 5 μm trap at a flow rate of 325 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 325 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "FT full scan from 340–1,500 m/z with resolution set at 120,000 (at 400 m/z), followed by linear ion trap rapid CID MS/MS scans on the top 25 ions.",
+      "FT full scan from 340–1,500 m/z with resolution at 70,000 and HCD on the 20 ions at 17,500."
+    ],
+    "Comment[FragmentationMethod]": [
+      "linear ion trap rapid CID MS/MS scans on the top 25 ions.",
+      "HCD on the 20 ions at 17,500"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "parent ion tolerance of 10.0 PPM"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion mass tolerance of 0.60 Da for the Elite or 0.02 Da for the QXactive Plus raw files."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Total Exosome Isolation Reagent (ThermoFisher)",
+      "exoEasy maxi kit (Qiagen)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F1"
+    ]
+  },
+  "C32TG_F4.raw": {
+    "Source Name": [
+      "C32TG"
+    ],
+    "Assay Name": [
+      "C32TG_F4"
+    ],
+    "Raw Data File": [
+      "C32TG_F4.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Human melanoma cell lines SKMEL28 (HTB-72), A375 (CRL-1619), and C32TG (CRL-1579), and normal, primary adult epidermal melanocytes (PCS-200-013)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Human Melanoma-Derived Extracellular Vesicles"
+    ],
+    "Characteristics[Organism]": [
+      "human malignant melanocytes"
+    ],
+    "Characteristics[Specimen]": [
+      "cell culture supernatant"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested in 5 ng/µL trypsin overnight at 37°C."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "50 mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM idoacetamide"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Scientific Orbitrap Elite Hybrid Mass Spectrometer",
+      "QExactivePlus (Thermo Fisher Scientific, Bremen, Germany)",
+      "Thermo Ultimate 3000 RSLCnano HPLC systems"
+    ],
+    "Comment[Separation]": [
+      "both coupled to a Thermo Ultimate 3000 RSLCnano HPLC systems, using handpacked Magic C18 3 μm: 25 cm × 75-μm columns at ambient temperatures and Magic C18 5 μm trap at a flow rate of 325 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 325 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "FT full scan from 340–1,500 m/z with resolution set at 120,000 (at 400 m/z), followed by linear ion trap rapid CID MS/MS scans on the top 25 ions.",
+      "FT full scan from 340–1,500 m/z with resolution at 70,000 and HCD on the 20 ions at 17,500."
+    ],
+    "Comment[FragmentationMethod]": [
+      "linear ion trap rapid CID MS/MS scans on the top 25 ions.",
+      "HCD on the 20 ions at 17,500"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "parent ion tolerance of 10.0 PPM"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion mass tolerance of 0.60 Da for the Elite or 0.02 Da for the QXactive Plus raw files."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Total Exosome Isolation Reagent (ThermoFisher)",
+      "exoEasy maxi kit (Qiagen)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F4"
+    ]
+  },
+  "C32TG_F9.raw": {
+    "Source Name": [
+      "C32TG"
+    ],
+    "Assay Name": [
+      "C32TG_F9"
+    ],
+    "Raw Data File": [
+      "C32TG_F9.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Human melanoma cell lines SKMEL28 (HTB-72), A375 (CRL-1619), and C32TG (CRL-1579), and normal, primary adult epidermal melanocytes (PCS-200-013)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Human Melanoma-Derived Extracellular Vesicles"
+    ],
+    "Characteristics[Organism]": [
+      "human malignant melanocytes"
+    ],
+    "Characteristics[Specimen]": [
+      "cell culture supernatant"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested in 5 ng/µL trypsin overnight at 37°C."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "50 mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM idoacetamide"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Scientific Orbitrap Elite Hybrid Mass Spectrometer",
+      "QExactivePlus (Thermo Fisher Scientific, Bremen, Germany)",
+      "Thermo Ultimate 3000 RSLCnano HPLC systems"
+    ],
+    "Comment[Separation]": [
+      "both coupled to a Thermo Ultimate 3000 RSLCnano HPLC systems, using handpacked Magic C18 3 μm: 25 cm × 75-μm columns at ambient temperatures and Magic C18 5 μm trap at a flow rate of 325 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 325 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "FT full scan from 340–1,500 m/z with resolution set at 120,000 (at 400 m/z), followed by linear ion trap rapid CID MS/MS scans on the top 25 ions.",
+      "FT full scan from 340–1,500 m/z with resolution at 70,000 and HCD on the 20 ions at 17,500."
+    ],
+    "Comment[FragmentationMethod]": [
+      "linear ion trap rapid CID MS/MS scans on the top 25 ions.",
+      "HCD on the 20 ions at 17,500"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "parent ion tolerance of 10.0 PPM"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion mass tolerance of 0.60 Da for the Elite or 0.02 Da for the QXactive Plus raw files."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Total Exosome Isolation Reagent (ThermoFisher)",
+      "exoEasy maxi kit (Qiagen)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F9"
+    ]
+  },
+  "A375_F6.raw": {
+    "Source Name": [
+      "A375"
+    ],
+    "Assay Name": [
+      "A375_F6"
+    ],
+    "Raw Data File": [
+      "A375_F6.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Human melanoma cell lines SKMEL28 (HTB-72), A375 (CRL-1619), and C32TG (CRL-1579), and normal, primary adult epidermal melanocytes (PCS-200-013)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Human Melanoma-Derived Extracellular Vesicles"
+    ],
+    "Characteristics[Organism]": [
+      "human malignant melanocytes"
+    ],
+    "Characteristics[Specimen]": [
+      "cell culture supernatant"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested in 5 ng/µL trypsin overnight at 37°C."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "50 mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM idoacetamide"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Scientific Orbitrap Elite Hybrid Mass Spectrometer",
+      "QExactivePlus (Thermo Fisher Scientific, Bremen, Germany)",
+      "Thermo Ultimate 3000 RSLCnano HPLC systems"
+    ],
+    "Comment[Separation]": [
+      "both coupled to a Thermo Ultimate 3000 RSLCnano HPLC systems, using handpacked Magic C18 3 μm: 25 cm × 75-μm columns at ambient temperatures and Magic C18 5 μm trap at a flow rate of 325 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 325 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "FT full scan from 340–1,500 m/z with resolution set at 120,000 (at 400 m/z), followed by linear ion trap rapid CID MS/MS scans on the top 25 ions.",
+      "FT full scan from 340–1,500 m/z with resolution at 70,000 and HCD on the 20 ions at 17,500."
+    ],
+    "Comment[FragmentationMethod]": [
+      "linear ion trap rapid CID MS/MS scans on the top 25 ions.",
+      "HCD on the 20 ions at 17,500"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "parent ion tolerance of 10.0 PPM"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion mass tolerance of 0.60 Da for the Elite or 0.02 Da for the QXactive Plus raw files."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Total Exosome Isolation Reagent (ThermoFisher)",
+      "exoEasy maxi kit (Qiagen)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F6"
+    ]
+  },
+  "C32TG_F5.raw": {
+    "Source Name": [
+      "C32TG"
+    ],
+    "Assay Name": [
+      "C32TG_F5"
+    ],
+    "Raw Data File": [
+      "C32TG_F5.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Human melanoma cell lines SKMEL28 (HTB-72), A375 (CRL-1619), and C32TG (CRL-1579), and normal, primary adult epidermal melanocytes (PCS-200-013)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Human Melanoma-Derived Extracellular Vesicles"
+    ],
+    "Characteristics[Organism]": [
+      "human malignant melanocytes"
+    ],
+    "Characteristics[Specimen]": [
+      "cell culture supernatant"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested in 5 ng/µL trypsin overnight at 37°C."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "50 mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM idoacetamide"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Scientific Orbitrap Elite Hybrid Mass Spectrometer",
+      "QExactivePlus (Thermo Fisher Scientific, Bremen, Germany)",
+      "Thermo Ultimate 3000 RSLCnano HPLC systems"
+    ],
+    "Comment[Separation]": [
+      "both coupled to a Thermo Ultimate 3000 RSLCnano HPLC systems, using handpacked Magic C18 3 μm: 25 cm × 75-μm columns at ambient temperatures and Magic C18 5 μm trap at a flow rate of 325 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 325 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "FT full scan from 340–1,500 m/z with resolution set at 120,000 (at 400 m/z), followed by linear ion trap rapid CID MS/MS scans on the top 25 ions.",
+      "FT full scan from 340–1,500 m/z with resolution at 70,000 and HCD on the 20 ions at 17,500."
+    ],
+    "Comment[FragmentationMethod]": [
+      "linear ion trap rapid CID MS/MS scans on the top 25 ions.",
+      "HCD on the 20 ions at 17,500"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "parent ion tolerance of 10.0 PPM"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion mass tolerance of 0.60 Da for the Elite or 0.02 Da for the QXactive Plus raw files."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Total Exosome Isolation Reagent (ThermoFisher)",
+      "exoEasy maxi kit (Qiagen)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F5"
+    ]
+  },
+  "A375_F5.raw": {
+    "Source Name": [
+      "A375"
+    ],
+    "Assay Name": [
+      "A375_F5"
+    ],
+    "Raw Data File": [
+      "A375_F5.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Human melanoma cell lines SKMEL28 (HTB-72), A375 (CRL-1619), and C32TG (CRL-1579), and normal, primary adult epidermal melanocytes (PCS-200-013)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Human Melanoma-Derived Extracellular Vesicles"
+    ],
+    "Characteristics[Organism]": [
+      "human malignant melanocytes"
+    ],
+    "Characteristics[Specimen]": [
+      "cell culture supernatant"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested in 5 ng/µL trypsin overnight at 37°C."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "50 mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM idoacetamide"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Scientific Orbitrap Elite Hybrid Mass Spectrometer",
+      "QExactivePlus (Thermo Fisher Scientific, Bremen, Germany)",
+      "Thermo Ultimate 3000 RSLCnano HPLC systems"
+    ],
+    "Comment[Separation]": [
+      "both coupled to a Thermo Ultimate 3000 RSLCnano HPLC systems, using handpacked Magic C18 3 μm: 25 cm × 75-μm columns at ambient temperatures and Magic C18 5 μm trap at a flow rate of 325 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 325 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "FT full scan from 340–1,500 m/z with resolution set at 120,000 (at 400 m/z), followed by linear ion trap rapid CID MS/MS scans on the top 25 ions.",
+      "FT full scan from 340–1,500 m/z with resolution at 70,000 and HCD on the 20 ions at 17,500."
+    ],
+    "Comment[FragmentationMethod]": [
+      "linear ion trap rapid CID MS/MS scans on the top 25 ions.",
+      "HCD on the 20 ions at 17,500"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "parent ion tolerance of 10.0 PPM"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion mass tolerance of 0.60 Da for the Elite or 0.02 Da for the QXactive Plus raw files."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Total Exosome Isolation Reagent (ThermoFisher)",
+      "exoEasy maxi kit (Qiagen)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F5"
+    ]
+  },
+  "SKMEL28_F1.raw": {
+    "Source Name": [
+      "SKMEL28"
+    ],
+    "Assay Name": [
+      "SKMEL28_F1"
+    ],
+    "Raw Data File": [
+      "SKMEL28_F1.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Human melanoma cell lines SKMEL28 (HTB-72), A375 (CRL-1619), and C32TG (CRL-1579), and normal, primary adult epidermal melanocytes (PCS-200-013)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Human Melanoma-Derived Extracellular Vesicles"
+    ],
+    "Characteristics[Organism]": [
+      "human malignant melanocytes"
+    ],
+    "Characteristics[Specimen]": [
+      "cell culture supernatant"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested in 5 ng/µL trypsin overnight at 37°C."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "50 mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM idoacetamide"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Scientific Orbitrap Elite Hybrid Mass Spectrometer",
+      "QExactivePlus (Thermo Fisher Scientific, Bremen, Germany)",
+      "Thermo Ultimate 3000 RSLCnano HPLC systems"
+    ],
+    "Comment[Separation]": [
+      "both coupled to a Thermo Ultimate 3000 RSLCnano HPLC systems, using handpacked Magic C18 3 μm: 25 cm × 75-μm columns at ambient temperatures and Magic C18 5 μm trap at a flow rate of 325 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 325 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "FT full scan from 340–1,500 m/z with resolution set at 120,000 (at 400 m/z), followed by linear ion trap rapid CID MS/MS scans on the top 25 ions.",
+      "FT full scan from 340–1,500 m/z with resolution at 70,000 and HCD on the 20 ions at 17,500."
+    ],
+    "Comment[FragmentationMethod]": [
+      "linear ion trap rapid CID MS/MS scans on the top 25 ions.",
+      "HCD on the 20 ions at 17,500"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "parent ion tolerance of 10.0 PPM"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion mass tolerance of 0.60 Da for the Elite or 0.02 Da for the QXactive Plus raw files."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Total Exosome Isolation Reagent (ThermoFisher)",
+      "exoEasy maxi kit (Qiagen)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F1"
+    ]
+  },
+  "SKMEL_F3b.raw": {
+    "Source Name": [
+      "SKMEL"
+    ],
+    "Assay Name": [
+      "SKMEL_F3b"
+    ],
+    "Raw Data File": [
+      "SKMEL_F3b.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Human melanoma cell lines SKMEL28 (HTB-72), A375 (CRL-1619), and C32TG (CRL-1579), and normal, primary adult epidermal melanocytes (PCS-200-013)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Human Melanoma-Derived Extracellular Vesicles"
+    ],
+    "Characteristics[Organism]": [
+      "human malignant melanocytes"
+    ],
+    "Characteristics[Specimen]": [
+      "cell culture supernatant"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested in 5 ng/µL trypsin overnight at 37°C."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "50 mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM idoacetamide"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Scientific Orbitrap Elite Hybrid Mass Spectrometer",
+      "QExactivePlus (Thermo Fisher Scientific, Bremen, Germany)",
+      "Thermo Ultimate 3000 RSLCnano HPLC systems"
+    ],
+    "Comment[Separation]": [
+      "both coupled to a Thermo Ultimate 3000 RSLCnano HPLC systems, using handpacked Magic C18 3 μm: 25 cm × 75-μm columns at ambient temperatures and Magic C18 5 μm trap at a flow rate of 325 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 325 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "FT full scan from 340–1,500 m/z with resolution set at 120,000 (at 400 m/z), followed by linear ion trap rapid CID MS/MS scans on the top 25 ions.",
+      "FT full scan from 340–1,500 m/z with resolution at 70,000 and HCD on the 20 ions at 17,500."
+    ],
+    "Comment[FragmentationMethod]": [
+      "linear ion trap rapid CID MS/MS scans on the top 25 ions.",
+      "HCD on the 20 ions at 17,500"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "parent ion tolerance of 10.0 PPM"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion mass tolerance of 0.60 Da for the Elite or 0.02 Da for the QXactive Plus raw files."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Total Exosome Isolation Reagent (ThermoFisher)",
+      "exoEasy maxi kit (Qiagen)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F3b"
+    ]
+  },
+  "SKMEL28_F7.raw": {
+    "Source Name": [
+      "SKMEL28"
+    ],
+    "Assay Name": [
+      "SKMEL28_F7"
+    ],
+    "Raw Data File": [
+      "SKMEL28_F7.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Human melanoma cell lines SKMEL28 (HTB-72), A375 (CRL-1619), and C32TG (CRL-1579), and normal, primary adult epidermal melanocytes (PCS-200-013)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Human Melanoma-Derived Extracellular Vesicles"
+    ],
+    "Characteristics[Organism]": [
+      "human malignant melanocytes"
+    ],
+    "Characteristics[Specimen]": [
+      "cell culture supernatant"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested in 5 ng/µL trypsin overnight at 37°C."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "50 mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM idoacetamide"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Scientific Orbitrap Elite Hybrid Mass Spectrometer",
+      "QExactivePlus (Thermo Fisher Scientific, Bremen, Germany)",
+      "Thermo Ultimate 3000 RSLCnano HPLC systems"
+    ],
+    "Comment[Separation]": [
+      "both coupled to a Thermo Ultimate 3000 RSLCnano HPLC systems, using handpacked Magic C18 3 μm: 25 cm × 75-μm columns at ambient temperatures and Magic C18 5 μm trap at a flow rate of 325 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 325 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "FT full scan from 340–1,500 m/z with resolution set at 120,000 (at 400 m/z), followed by linear ion trap rapid CID MS/MS scans on the top 25 ions.",
+      "FT full scan from 340–1,500 m/z with resolution at 70,000 and HCD on the 20 ions at 17,500."
+    ],
+    "Comment[FragmentationMethod]": [
+      "linear ion trap rapid CID MS/MS scans on the top 25 ions.",
+      "HCD on the 20 ions at 17,500"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "parent ion tolerance of 10.0 PPM"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion mass tolerance of 0.60 Da for the Elite or 0.02 Da for the QXactive Plus raw files."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Total Exosome Isolation Reagent (ThermoFisher)",
+      "exoEasy maxi kit (Qiagen)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F7"
+    ]
+  },
+  "SKMEL28_F5.raw": {
+    "Source Name": [
+      "SKMEL28"
+    ],
+    "Assay Name": [
+      "SKMEL28_F5"
+    ],
+    "Raw Data File": [
+      "SKMEL28_F5.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Human melanoma cell lines SKMEL28 (HTB-72), A375 (CRL-1619), and C32TG (CRL-1579), and normal, primary adult epidermal melanocytes (PCS-200-013)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Human Melanoma-Derived Extracellular Vesicles"
+    ],
+    "Characteristics[Organism]": [
+      "human malignant melanocytes"
+    ],
+    "Characteristics[Specimen]": [
+      "cell culture supernatant"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested in 5 ng/µL trypsin overnight at 37°C."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "50 mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM idoacetamide"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Scientific Orbitrap Elite Hybrid Mass Spectrometer",
+      "QExactivePlus (Thermo Fisher Scientific, Bremen, Germany)",
+      "Thermo Ultimate 3000 RSLCnano HPLC systems"
+    ],
+    "Comment[Separation]": [
+      "both coupled to a Thermo Ultimate 3000 RSLCnano HPLC systems, using handpacked Magic C18 3 μm: 25 cm × 75-μm columns at ambient temperatures and Magic C18 5 μm trap at a flow rate of 325 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 325 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "FT full scan from 340–1,500 m/z with resolution set at 120,000 (at 400 m/z), followed by linear ion trap rapid CID MS/MS scans on the top 25 ions.",
+      "FT full scan from 340–1,500 m/z with resolution at 70,000 and HCD on the 20 ions at 17,500."
+    ],
+    "Comment[FragmentationMethod]": [
+      "linear ion trap rapid CID MS/MS scans on the top 25 ions.",
+      "HCD on the 20 ions at 17,500"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "parent ion tolerance of 10.0 PPM"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion mass tolerance of 0.60 Da for the Elite or 0.02 Da for the QXactive Plus raw files."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Total Exosome Isolation Reagent (ThermoFisher)",
+      "exoEasy maxi kit (Qiagen)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F5"
+    ]
+  },
+  "A375_F9.raw": {
+    "Source Name": [
+      "A375"
+    ],
+    "Assay Name": [
+      "A375_F9"
+    ],
+    "Raw Data File": [
+      "A375_F9.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Human melanoma cell lines SKMEL28 (HTB-72), A375 (CRL-1619), and C32TG (CRL-1579), and normal, primary adult epidermal melanocytes (PCS-200-013)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Human Melanoma-Derived Extracellular Vesicles"
+    ],
+    "Characteristics[Organism]": [
+      "human malignant melanocytes"
+    ],
+    "Characteristics[Specimen]": [
+      "cell culture supernatant"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested in 5 ng/µL trypsin overnight at 37°C."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "50 mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM idoacetamide"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Scientific Orbitrap Elite Hybrid Mass Spectrometer",
+      "QExactivePlus (Thermo Fisher Scientific, Bremen, Germany)",
+      "Thermo Ultimate 3000 RSLCnano HPLC systems"
+    ],
+    "Comment[Separation]": [
+      "both coupled to a Thermo Ultimate 3000 RSLCnano HPLC systems, using handpacked Magic C18 3 μm: 25 cm × 75-μm columns at ambient temperatures and Magic C18 5 μm trap at a flow rate of 325 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 325 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "FT full scan from 340–1,500 m/z with resolution set at 120,000 (at 400 m/z), followed by linear ion trap rapid CID MS/MS scans on the top 25 ions.",
+      "FT full scan from 340–1,500 m/z with resolution at 70,000 and HCD on the 20 ions at 17,500."
+    ],
+    "Comment[FragmentationMethod]": [
+      "linear ion trap rapid CID MS/MS scans on the top 25 ions.",
+      "HCD on the 20 ions at 17,500"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "parent ion tolerance of 10.0 PPM"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion mass tolerance of 0.60 Da for the Elite or 0.02 Da for the QXactive Plus raw files."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Total Exosome Isolation Reagent (ThermoFisher)",
+      "exoEasy maxi kit (Qiagen)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F9"
+    ]
+  }
+}

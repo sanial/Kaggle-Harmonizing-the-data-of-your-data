@@ -1,0 +1,3242 @@
+{
+  "OEII13359.raw": {
+    "Source Name": [
+      "Escherichia coli BL21 Δarg/Δlys"
+    ],
+    "Assay Name": [
+      "Escherichia coli BL21 Δarg/Δlys_OEII13359.raw"
+    ],
+    "Raw Data File": [
+      "OEII13359.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Escherichia coli"
+    ],
+    "Characteristics[Strain]": [
+      "BL21 Δarg/Δlys"
+    ],
+    "Characteristics[Specimen]": [
+      "Escherichia coli BL21 Δarg/Δlys cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "heavy labeled super-SILAC standard"
+    ],
+    "Characteristics[Label]": [
+      "Arg10",
+      "Lys8"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "β-mercaptoethanol"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate®3000 RSLCnano HPLC system (Thermo Fisher Scientific)",
+      "Orbitrap Elite hybrid ion trap-Orbitrap mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Top20 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35%"
+    ],
+    "Comment[GradientTime]": [
+      "120 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[Separation]": [
+      "Acclaim®PepMapTM C18 μ-precolumn (5 μm particle size, 2 cm length, 100 μm ID, Thermo Fisher Scientific)",
+      "Acclaim®PepMapTM C18 analytical column (2 μm particle size, 50 cm length, 75 μm ID, Thermo Fisher Scientific)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Strep-tactin affinity purification (IBA Lifescience, manufacturer protocol)",
+      "nickel-nitrilotriacetic acid (Ni-NTA) affinity purification"
+    ],
+    "Comment[FractionationMethod]": [
+      "Samples were concentrated on a Novex NuPage 4–12% gradient gel until the sample completely entered the gel"
+    ],
+    "FactorValue[Treatment]": [
+      "9 Strep-tag (EV control)",
+      "9 Strep-LpxC",
+      "9 His6-MBP (EV control)",
+      "9 His6-MBP-FtsH"
+    ],
+    "FactorValue[Temperature]": [
+      "30°C (slow growth)",
+      "37°C (medium growth)",
+      "40°C (fast growth)"
+    ]
+  },
+  "OEII23117.raw": {
+    "Source Name": [
+      "Escherichia coli BL21 Δarg/Δlys"
+    ],
+    "Assay Name": [
+      "Escherichia coli BL21 Δarg/Δlys_OEII23117.raw"
+    ],
+    "Raw Data File": [
+      "OEII23117.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Escherichia coli"
+    ],
+    "Characteristics[Strain]": [
+      "BL21 Δarg/Δlys"
+    ],
+    "Characteristics[Specimen]": [
+      "Escherichia coli BL21 Δarg/Δlys cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "heavy labeled super-SILAC standard"
+    ],
+    "Characteristics[Label]": [
+      "Arg10",
+      "Lys8"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "β-mercaptoethanol"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate®3000 RSLCnano HPLC system (Thermo Fisher Scientific)",
+      "Orbitrap Elite hybrid ion trap-Orbitrap mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Top20 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35%"
+    ],
+    "Comment[GradientTime]": [
+      "120 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[Separation]": [
+      "Acclaim®PepMapTM C18 μ-precolumn (5 μm particle size, 2 cm length, 100 μm ID, Thermo Fisher Scientific)",
+      "Acclaim®PepMapTM C18 analytical column (2 μm particle size, 50 cm length, 75 μm ID, Thermo Fisher Scientific)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Strep-tactin affinity purification (IBA Lifescience, manufacturer protocol)",
+      "nickel-nitrilotriacetic acid (Ni-NTA) affinity purification"
+    ],
+    "Comment[FractionationMethod]": [
+      "Samples were concentrated on a Novex NuPage 4–12% gradient gel until the sample completely entered the gel"
+    ],
+    "FactorValue[Treatment]": [
+      "9 Strep-tag (EV control)",
+      "9 Strep-LpxC",
+      "9 His6-MBP (EV control)",
+      "9 His6-MBP-FtsH"
+    ],
+    "FactorValue[Temperature]": [
+      "30°C (slow growth)",
+      "37°C (medium growth)",
+      "40°C (fast growth)"
+    ]
+  },
+  "OEII13371.raw": {
+    "Source Name": [
+      "Escherichia coli BL21 Δarg/Δlys"
+    ],
+    "Assay Name": [
+      "Escherichia coli BL21 Δarg/Δlys_OEII13371.raw"
+    ],
+    "Raw Data File": [
+      "OEII13371.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Escherichia coli"
+    ],
+    "Characteristics[Strain]": [
+      "BL21 Δarg/Δlys"
+    ],
+    "Characteristics[Specimen]": [
+      "Escherichia coli BL21 Δarg/Δlys cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "heavy labeled super-SILAC standard"
+    ],
+    "Characteristics[Label]": [
+      "Arg10",
+      "Lys8"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "β-mercaptoethanol"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate®3000 RSLCnano HPLC system (Thermo Fisher Scientific)",
+      "Orbitrap Elite hybrid ion trap-Orbitrap mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Top20 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35%"
+    ],
+    "Comment[GradientTime]": [
+      "120 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[Separation]": [
+      "Acclaim®PepMapTM C18 μ-precolumn (5 μm particle size, 2 cm length, 100 μm ID, Thermo Fisher Scientific)",
+      "Acclaim®PepMapTM C18 analytical column (2 μm particle size, 50 cm length, 75 μm ID, Thermo Fisher Scientific)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Strep-tactin affinity purification (IBA Lifescience, manufacturer protocol)",
+      "nickel-nitrilotriacetic acid (Ni-NTA) affinity purification"
+    ],
+    "Comment[FractionationMethod]": [
+      "Samples were concentrated on a Novex NuPage 4–12% gradient gel until the sample completely entered the gel"
+    ],
+    "FactorValue[Treatment]": [
+      "9 Strep-tag (EV control)",
+      "9 Strep-LpxC",
+      "9 His6-MBP (EV control)",
+      "9 His6-MBP-FtsH"
+    ],
+    "FactorValue[Temperature]": [
+      "30°C (slow growth)",
+      "37°C (medium growth)",
+      "40°C (fast growth)"
+    ]
+  },
+  "OEII13363.raw": {
+    "Source Name": [
+      "Escherichia coli BL21 Δarg/Δlys"
+    ],
+    "Assay Name": [
+      "Escherichia coli BL21 Δarg/Δlys_OEII13363.raw"
+    ],
+    "Raw Data File": [
+      "OEII13363.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Escherichia coli"
+    ],
+    "Characteristics[Strain]": [
+      "BL21 Δarg/Δlys"
+    ],
+    "Characteristics[Specimen]": [
+      "Escherichia coli BL21 Δarg/Δlys cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "heavy labeled super-SILAC standard"
+    ],
+    "Characteristics[Label]": [
+      "Arg10",
+      "Lys8"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "β-mercaptoethanol"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate®3000 RSLCnano HPLC system (Thermo Fisher Scientific)",
+      "Orbitrap Elite hybrid ion trap-Orbitrap mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Top20 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35%"
+    ],
+    "Comment[GradientTime]": [
+      "120 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[Separation]": [
+      "Acclaim®PepMapTM C18 μ-precolumn (5 μm particle size, 2 cm length, 100 μm ID, Thermo Fisher Scientific)",
+      "Acclaim®PepMapTM C18 analytical column (2 μm particle size, 50 cm length, 75 μm ID, Thermo Fisher Scientific)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Strep-tactin affinity purification (IBA Lifescience, manufacturer protocol)",
+      "nickel-nitrilotriacetic acid (Ni-NTA) affinity purification"
+    ],
+    "Comment[FractionationMethod]": [
+      "Samples were concentrated on a Novex NuPage 4–12% gradient gel until the sample completely entered the gel"
+    ],
+    "FactorValue[Treatment]": [
+      "9 Strep-tag (EV control)",
+      "9 Strep-LpxC",
+      "9 His6-MBP (EV control)",
+      "9 His6-MBP-FtsH"
+    ],
+    "FactorValue[Temperature]": [
+      "30°C (slow growth)",
+      "37°C (medium growth)",
+      "40°C (fast growth)"
+    ]
+  },
+  "OEII23103.raw": {
+    "Source Name": [
+      "Escherichia coli BL21 Δarg/Δlys"
+    ],
+    "Assay Name": [
+      "Escherichia coli BL21 Δarg/Δlys_OEII23103.raw"
+    ],
+    "Raw Data File": [
+      "OEII23103.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Escherichia coli"
+    ],
+    "Characteristics[Strain]": [
+      "BL21 Δarg/Δlys"
+    ],
+    "Characteristics[Specimen]": [
+      "Escherichia coli BL21 Δarg/Δlys cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "heavy labeled super-SILAC standard"
+    ],
+    "Characteristics[Label]": [
+      "Arg10",
+      "Lys8"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "β-mercaptoethanol"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate®3000 RSLCnano HPLC system (Thermo Fisher Scientific)",
+      "Orbitrap Elite hybrid ion trap-Orbitrap mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Top20 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35%"
+    ],
+    "Comment[GradientTime]": [
+      "120 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[Separation]": [
+      "Acclaim®PepMapTM C18 μ-precolumn (5 μm particle size, 2 cm length, 100 μm ID, Thermo Fisher Scientific)",
+      "Acclaim®PepMapTM C18 analytical column (2 μm particle size, 50 cm length, 75 μm ID, Thermo Fisher Scientific)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Strep-tactin affinity purification (IBA Lifescience, manufacturer protocol)",
+      "nickel-nitrilotriacetic acid (Ni-NTA) affinity purification"
+    ],
+    "Comment[FractionationMethod]": [
+      "Samples were concentrated on a Novex NuPage 4–12% gradient gel until the sample completely entered the gel"
+    ],
+    "FactorValue[Treatment]": [
+      "9 Strep-tag (EV control)",
+      "9 Strep-LpxC",
+      "9 His6-MBP (EV control)",
+      "9 His6-MBP-FtsH"
+    ],
+    "FactorValue[Temperature]": [
+      "30°C (slow growth)",
+      "37°C (medium growth)",
+      "40°C (fast growth)"
+    ]
+  },
+  "OEII13369.raw": {
+    "Source Name": [
+      "Escherichia coli BL21 Δarg/Δlys"
+    ],
+    "Assay Name": [
+      "Escherichia coli BL21 Δarg/Δlys_OEII13369.raw"
+    ],
+    "Raw Data File": [
+      "OEII13369.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Escherichia coli"
+    ],
+    "Characteristics[Strain]": [
+      "BL21 Δarg/Δlys"
+    ],
+    "Characteristics[Specimen]": [
+      "Escherichia coli BL21 Δarg/Δlys cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "heavy labeled super-SILAC standard"
+    ],
+    "Characteristics[Label]": [
+      "Arg10",
+      "Lys8"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "β-mercaptoethanol"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate®3000 RSLCnano HPLC system (Thermo Fisher Scientific)",
+      "Orbitrap Elite hybrid ion trap-Orbitrap mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Top20 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35%"
+    ],
+    "Comment[GradientTime]": [
+      "120 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[Separation]": [
+      "Acclaim®PepMapTM C18 μ-precolumn (5 μm particle size, 2 cm length, 100 μm ID, Thermo Fisher Scientific)",
+      "Acclaim®PepMapTM C18 analytical column (2 μm particle size, 50 cm length, 75 μm ID, Thermo Fisher Scientific)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Strep-tactin affinity purification (IBA Lifescience, manufacturer protocol)",
+      "nickel-nitrilotriacetic acid (Ni-NTA) affinity purification"
+    ],
+    "Comment[FractionationMethod]": [
+      "Samples were concentrated on a Novex NuPage 4–12% gradient gel until the sample completely entered the gel"
+    ],
+    "FactorValue[Treatment]": [
+      "9 Strep-tag (EV control)",
+      "9 Strep-LpxC",
+      "9 His6-MBP (EV control)",
+      "9 His6-MBP-FtsH"
+    ],
+    "FactorValue[Temperature]": [
+      "30°C (slow growth)",
+      "37°C (medium growth)",
+      "40°C (fast growth)"
+    ]
+  },
+  "OEII13385.raw": {
+    "Source Name": [
+      "Escherichia coli BL21 Δarg/Δlys"
+    ],
+    "Assay Name": [
+      "Escherichia coli BL21 Δarg/Δlys_OEII13385.raw"
+    ],
+    "Raw Data File": [
+      "OEII13385.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Escherichia coli"
+    ],
+    "Characteristics[Strain]": [
+      "BL21 Δarg/Δlys"
+    ],
+    "Characteristics[Specimen]": [
+      "Escherichia coli BL21 Δarg/Δlys cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "heavy labeled super-SILAC standard"
+    ],
+    "Characteristics[Label]": [
+      "Arg10",
+      "Lys8"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "β-mercaptoethanol"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate®3000 RSLCnano HPLC system (Thermo Fisher Scientific)",
+      "Orbitrap Elite hybrid ion trap-Orbitrap mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Top20 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35%"
+    ],
+    "Comment[GradientTime]": [
+      "120 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[Separation]": [
+      "Acclaim®PepMapTM C18 μ-precolumn (5 μm particle size, 2 cm length, 100 μm ID, Thermo Fisher Scientific)",
+      "Acclaim®PepMapTM C18 analytical column (2 μm particle size, 50 cm length, 75 μm ID, Thermo Fisher Scientific)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Strep-tactin affinity purification (IBA Lifescience, manufacturer protocol)",
+      "nickel-nitrilotriacetic acid (Ni-NTA) affinity purification"
+    ],
+    "Comment[FractionationMethod]": [
+      "Samples were concentrated on a Novex NuPage 4–12% gradient gel until the sample completely entered the gel"
+    ],
+    "FactorValue[Treatment]": [
+      "9 Strep-tag (EV control)",
+      "9 Strep-LpxC",
+      "9 His6-MBP (EV control)",
+      "9 His6-MBP-FtsH"
+    ],
+    "FactorValue[Temperature]": [
+      "30°C (slow growth)",
+      "37°C (medium growth)",
+      "40°C (fast growth)"
+    ]
+  },
+  "OEII23101.raw": {
+    "Source Name": [
+      "Escherichia coli BL21 Δarg/Δlys"
+    ],
+    "Assay Name": [
+      "Escherichia coli BL21 Δarg/Δlys_OEII23101.raw"
+    ],
+    "Raw Data File": [
+      "OEII23101.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Escherichia coli"
+    ],
+    "Characteristics[Strain]": [
+      "BL21 Δarg/Δlys"
+    ],
+    "Characteristics[Specimen]": [
+      "Escherichia coli BL21 Δarg/Δlys cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "heavy labeled super-SILAC standard"
+    ],
+    "Characteristics[Label]": [
+      "Arg10",
+      "Lys8"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "β-mercaptoethanol"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate®3000 RSLCnano HPLC system (Thermo Fisher Scientific)",
+      "Orbitrap Elite hybrid ion trap-Orbitrap mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Top20 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35%"
+    ],
+    "Comment[GradientTime]": [
+      "120 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[Separation]": [
+      "Acclaim®PepMapTM C18 μ-precolumn (5 μm particle size, 2 cm length, 100 μm ID, Thermo Fisher Scientific)",
+      "Acclaim®PepMapTM C18 analytical column (2 μm particle size, 50 cm length, 75 μm ID, Thermo Fisher Scientific)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Strep-tactin affinity purification (IBA Lifescience, manufacturer protocol)",
+      "nickel-nitrilotriacetic acid (Ni-NTA) affinity purification"
+    ],
+    "Comment[FractionationMethod]": [
+      "Samples were concentrated on a Novex NuPage 4–12% gradient gel until the sample completely entered the gel"
+    ],
+    "FactorValue[Treatment]": [
+      "9 Strep-tag (EV control)",
+      "9 Strep-LpxC",
+      "9 His6-MBP (EV control)",
+      "9 His6-MBP-FtsH"
+    ],
+    "FactorValue[Temperature]": [
+      "30°C (slow growth)",
+      "37°C (medium growth)",
+      "40°C (fast growth)"
+    ]
+  },
+  "OEII23107.raw": {
+    "Source Name": [
+      "Escherichia coli BL21 Δarg/Δlys"
+    ],
+    "Assay Name": [
+      "Escherichia coli BL21 Δarg/Δlys_OEII23107.raw"
+    ],
+    "Raw Data File": [
+      "OEII23107.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Escherichia coli"
+    ],
+    "Characteristics[Strain]": [
+      "BL21 Δarg/Δlys"
+    ],
+    "Characteristics[Specimen]": [
+      "Escherichia coli BL21 Δarg/Δlys cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "heavy labeled super-SILAC standard"
+    ],
+    "Characteristics[Label]": [
+      "Arg10",
+      "Lys8"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "β-mercaptoethanol"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate®3000 RSLCnano HPLC system (Thermo Fisher Scientific)",
+      "Orbitrap Elite hybrid ion trap-Orbitrap mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Top20 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35%"
+    ],
+    "Comment[GradientTime]": [
+      "120 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[Separation]": [
+      "Acclaim®PepMapTM C18 μ-precolumn (5 μm particle size, 2 cm length, 100 μm ID, Thermo Fisher Scientific)",
+      "Acclaim®PepMapTM C18 analytical column (2 μm particle size, 50 cm length, 75 μm ID, Thermo Fisher Scientific)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Strep-tactin affinity purification (IBA Lifescience, manufacturer protocol)",
+      "nickel-nitrilotriacetic acid (Ni-NTA) affinity purification"
+    ],
+    "Comment[FractionationMethod]": [
+      "Samples were concentrated on a Novex NuPage 4–12% gradient gel until the sample completely entered the gel"
+    ],
+    "FactorValue[Treatment]": [
+      "9 Strep-tag (EV control)",
+      "9 Strep-LpxC",
+      "9 His6-MBP (EV control)",
+      "9 His6-MBP-FtsH"
+    ],
+    "FactorValue[Temperature]": [
+      "30°C (slow growth)",
+      "37°C (medium growth)",
+      "40°C (fast growth)"
+    ]
+  },
+  "OEII23091.raw": {
+    "Source Name": [
+      "Escherichia coli BL21 Δarg/Δlys"
+    ],
+    "Assay Name": [
+      "Escherichia coli BL21 Δarg/Δlys_OEII23091.raw"
+    ],
+    "Raw Data File": [
+      "OEII23091.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Escherichia coli"
+    ],
+    "Characteristics[Strain]": [
+      "BL21 Δarg/Δlys"
+    ],
+    "Characteristics[Specimen]": [
+      "Escherichia coli BL21 Δarg/Δlys cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "heavy labeled super-SILAC standard"
+    ],
+    "Characteristics[Label]": [
+      "Arg10",
+      "Lys8"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "β-mercaptoethanol"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate®3000 RSLCnano HPLC system (Thermo Fisher Scientific)",
+      "Orbitrap Elite hybrid ion trap-Orbitrap mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Top20 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35%"
+    ],
+    "Comment[GradientTime]": [
+      "120 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[Separation]": [
+      "Acclaim®PepMapTM C18 μ-precolumn (5 μm particle size, 2 cm length, 100 μm ID, Thermo Fisher Scientific)",
+      "Acclaim®PepMapTM C18 analytical column (2 μm particle size, 50 cm length, 75 μm ID, Thermo Fisher Scientific)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Strep-tactin affinity purification (IBA Lifescience, manufacturer protocol)",
+      "nickel-nitrilotriacetic acid (Ni-NTA) affinity purification"
+    ],
+    "Comment[FractionationMethod]": [
+      "Samples were concentrated on a Novex NuPage 4–12% gradient gel until the sample completely entered the gel"
+    ],
+    "FactorValue[Treatment]": [
+      "9 Strep-tag (EV control)",
+      "9 Strep-LpxC",
+      "9 His6-MBP (EV control)",
+      "9 His6-MBP-FtsH"
+    ],
+    "FactorValue[Temperature]": [
+      "30°C (slow growth)",
+      "37°C (medium growth)",
+      "40°C (fast growth)"
+    ]
+  },
+  "OEII23127.raw": {
+    "Source Name": [
+      "Escherichia coli BL21 Δarg/Δlys"
+    ],
+    "Assay Name": [
+      "Escherichia coli BL21 Δarg/Δlys_OEII23127.raw"
+    ],
+    "Raw Data File": [
+      "OEII23127.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Escherichia coli"
+    ],
+    "Characteristics[Strain]": [
+      "BL21 Δarg/Δlys"
+    ],
+    "Characteristics[Specimen]": [
+      "Escherichia coli BL21 Δarg/Δlys cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "heavy labeled super-SILAC standard"
+    ],
+    "Characteristics[Label]": [
+      "Arg10",
+      "Lys8"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "β-mercaptoethanol"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate®3000 RSLCnano HPLC system (Thermo Fisher Scientific)",
+      "Orbitrap Elite hybrid ion trap-Orbitrap mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Top20 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35%"
+    ],
+    "Comment[GradientTime]": [
+      "120 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[Separation]": [
+      "Acclaim®PepMapTM C18 μ-precolumn (5 μm particle size, 2 cm length, 100 μm ID, Thermo Fisher Scientific)",
+      "Acclaim®PepMapTM C18 analytical column (2 μm particle size, 50 cm length, 75 μm ID, Thermo Fisher Scientific)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Strep-tactin affinity purification (IBA Lifescience, manufacturer protocol)",
+      "nickel-nitrilotriacetic acid (Ni-NTA) affinity purification"
+    ],
+    "Comment[FractionationMethod]": [
+      "Samples were concentrated on a Novex NuPage 4–12% gradient gel until the sample completely entered the gel"
+    ],
+    "FactorValue[Treatment]": [
+      "9 Strep-tag (EV control)",
+      "9 Strep-LpxC",
+      "9 His6-MBP (EV control)",
+      "9 His6-MBP-FtsH"
+    ],
+    "FactorValue[Temperature]": [
+      "30°C (slow growth)",
+      "37°C (medium growth)",
+      "40°C (fast growth)"
+    ]
+  },
+  "OEII13387.raw": {
+    "Source Name": [
+      "Escherichia coli BL21 Δarg/Δlys"
+    ],
+    "Assay Name": [
+      "Escherichia coli BL21 Δarg/Δlys_OEII13387.raw"
+    ],
+    "Raw Data File": [
+      "OEII13387.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Escherichia coli"
+    ],
+    "Characteristics[Strain]": [
+      "BL21 Δarg/Δlys"
+    ],
+    "Characteristics[Specimen]": [
+      "Escherichia coli BL21 Δarg/Δlys cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "heavy labeled super-SILAC standard"
+    ],
+    "Characteristics[Label]": [
+      "Arg10",
+      "Lys8"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "β-mercaptoethanol"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate®3000 RSLCnano HPLC system (Thermo Fisher Scientific)",
+      "Orbitrap Elite hybrid ion trap-Orbitrap mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Top20 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35%"
+    ],
+    "Comment[GradientTime]": [
+      "120 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[Separation]": [
+      "Acclaim®PepMapTM C18 μ-precolumn (5 μm particle size, 2 cm length, 100 μm ID, Thermo Fisher Scientific)",
+      "Acclaim®PepMapTM C18 analytical column (2 μm particle size, 50 cm length, 75 μm ID, Thermo Fisher Scientific)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Strep-tactin affinity purification (IBA Lifescience, manufacturer protocol)",
+      "nickel-nitrilotriacetic acid (Ni-NTA) affinity purification"
+    ],
+    "Comment[FractionationMethod]": [
+      "Samples were concentrated on a Novex NuPage 4–12% gradient gel until the sample completely entered the gel"
+    ],
+    "FactorValue[Treatment]": [
+      "9 Strep-tag (EV control)",
+      "9 Strep-LpxC",
+      "9 His6-MBP (EV control)",
+      "9 His6-MBP-FtsH"
+    ],
+    "FactorValue[Temperature]": [
+      "30°C (slow growth)",
+      "37°C (medium growth)",
+      "40°C (fast growth)"
+    ]
+  },
+  "OEII23111.raw": {
+    "Source Name": [
+      "Escherichia coli BL21 Δarg/Δlys"
+    ],
+    "Assay Name": [
+      "Escherichia coli BL21 Δarg/Δlys_OEII23111.raw"
+    ],
+    "Raw Data File": [
+      "OEII23111.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Escherichia coli"
+    ],
+    "Characteristics[Strain]": [
+      "BL21 Δarg/Δlys"
+    ],
+    "Characteristics[Specimen]": [
+      "Escherichia coli BL21 Δarg/Δlys cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "heavy labeled super-SILAC standard"
+    ],
+    "Characteristics[Label]": [
+      "Arg10",
+      "Lys8"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "β-mercaptoethanol"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate®3000 RSLCnano HPLC system (Thermo Fisher Scientific)",
+      "Orbitrap Elite hybrid ion trap-Orbitrap mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Top20 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35%"
+    ],
+    "Comment[GradientTime]": [
+      "120 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[Separation]": [
+      "Acclaim®PepMapTM C18 μ-precolumn (5 μm particle size, 2 cm length, 100 μm ID, Thermo Fisher Scientific)",
+      "Acclaim®PepMapTM C18 analytical column (2 μm particle size, 50 cm length, 75 μm ID, Thermo Fisher Scientific)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Strep-tactin affinity purification (IBA Lifescience, manufacturer protocol)",
+      "nickel-nitrilotriacetic acid (Ni-NTA) affinity purification"
+    ],
+    "Comment[FractionationMethod]": [
+      "Samples were concentrated on a Novex NuPage 4–12% gradient gel until the sample completely entered the gel"
+    ],
+    "FactorValue[Treatment]": [
+      "9 Strep-tag (EV control)",
+      "9 Strep-LpxC",
+      "9 His6-MBP (EV control)",
+      "9 His6-MBP-FtsH"
+    ],
+    "FactorValue[Temperature]": [
+      "30°C (slow growth)",
+      "37°C (medium growth)",
+      "40°C (fast growth)"
+    ]
+  },
+  "OEII13393.raw": {
+    "Source Name": [
+      "Escherichia coli BL21 Δarg/Δlys"
+    ],
+    "Assay Name": [
+      "Escherichia coli BL21 Δarg/Δlys_OEII13393.raw"
+    ],
+    "Raw Data File": [
+      "OEII13393.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Escherichia coli"
+    ],
+    "Characteristics[Strain]": [
+      "BL21 Δarg/Δlys"
+    ],
+    "Characteristics[Specimen]": [
+      "Escherichia coli BL21 Δarg/Δlys cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "heavy labeled super-SILAC standard"
+    ],
+    "Characteristics[Label]": [
+      "Arg10",
+      "Lys8"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "β-mercaptoethanol"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate®3000 RSLCnano HPLC system (Thermo Fisher Scientific)",
+      "Orbitrap Elite hybrid ion trap-Orbitrap mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Top20 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35%"
+    ],
+    "Comment[GradientTime]": [
+      "120 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[Separation]": [
+      "Acclaim®PepMapTM C18 μ-precolumn (5 μm particle size, 2 cm length, 100 μm ID, Thermo Fisher Scientific)",
+      "Acclaim®PepMapTM C18 analytical column (2 μm particle size, 50 cm length, 75 μm ID, Thermo Fisher Scientific)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Strep-tactin affinity purification (IBA Lifescience, manufacturer protocol)",
+      "nickel-nitrilotriacetic acid (Ni-NTA) affinity purification"
+    ],
+    "Comment[FractionationMethod]": [
+      "Samples were concentrated on a Novex NuPage 4–12% gradient gel until the sample completely entered the gel"
+    ],
+    "FactorValue[Treatment]": [
+      "9 Strep-tag (EV control)",
+      "9 Strep-LpxC",
+      "9 His6-MBP (EV control)",
+      "9 His6-MBP-FtsH"
+    ],
+    "FactorValue[Temperature]": [
+      "30°C (slow growth)",
+      "37°C (medium growth)",
+      "40°C (fast growth)"
+    ]
+  },
+  "OEII13375.raw": {
+    "Source Name": [
+      "Escherichia coli BL21 Δarg/Δlys"
+    ],
+    "Assay Name": [
+      "Escherichia coli BL21 Δarg/Δlys_OEII13375.raw"
+    ],
+    "Raw Data File": [
+      "OEII13375.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Escherichia coli"
+    ],
+    "Characteristics[Strain]": [
+      "BL21 Δarg/Δlys"
+    ],
+    "Characteristics[Specimen]": [
+      "Escherichia coli BL21 Δarg/Δlys cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "heavy labeled super-SILAC standard"
+    ],
+    "Characteristics[Label]": [
+      "Arg10",
+      "Lys8"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "β-mercaptoethanol"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate®3000 RSLCnano HPLC system (Thermo Fisher Scientific)",
+      "Orbitrap Elite hybrid ion trap-Orbitrap mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Top20 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35%"
+    ],
+    "Comment[GradientTime]": [
+      "120 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[Separation]": [
+      "Acclaim®PepMapTM C18 μ-precolumn (5 μm particle size, 2 cm length, 100 μm ID, Thermo Fisher Scientific)",
+      "Acclaim®PepMapTM C18 analytical column (2 μm particle size, 50 cm length, 75 μm ID, Thermo Fisher Scientific)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Strep-tactin affinity purification (IBA Lifescience, manufacturer protocol)",
+      "nickel-nitrilotriacetic acid (Ni-NTA) affinity purification"
+    ],
+    "Comment[FractionationMethod]": [
+      "Samples were concentrated on a Novex NuPage 4–12% gradient gel until the sample completely entered the gel"
+    ],
+    "FactorValue[Treatment]": [
+      "9 Strep-tag (EV control)",
+      "9 Strep-LpxC",
+      "9 His6-MBP (EV control)",
+      "9 His6-MBP-FtsH"
+    ],
+    "FactorValue[Temperature]": [
+      "30°C (slow growth)",
+      "37°C (medium growth)",
+      "40°C (fast growth)"
+    ]
+  },
+  "OEII13389.raw": {
+    "Source Name": [
+      "Escherichia coli BL21 Δarg/Δlys"
+    ],
+    "Assay Name": [
+      "Escherichia coli BL21 Δarg/Δlys_OEII13389.raw"
+    ],
+    "Raw Data File": [
+      "OEII13389.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Escherichia coli"
+    ],
+    "Characteristics[Strain]": [
+      "BL21 Δarg/Δlys"
+    ],
+    "Characteristics[Specimen]": [
+      "Escherichia coli BL21 Δarg/Δlys cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "heavy labeled super-SILAC standard"
+    ],
+    "Characteristics[Label]": [
+      "Arg10",
+      "Lys8"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "β-mercaptoethanol"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate®3000 RSLCnano HPLC system (Thermo Fisher Scientific)",
+      "Orbitrap Elite hybrid ion trap-Orbitrap mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Top20 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35%"
+    ],
+    "Comment[GradientTime]": [
+      "120 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[Separation]": [
+      "Acclaim®PepMapTM C18 μ-precolumn (5 μm particle size, 2 cm length, 100 μm ID, Thermo Fisher Scientific)",
+      "Acclaim®PepMapTM C18 analytical column (2 μm particle size, 50 cm length, 75 μm ID, Thermo Fisher Scientific)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Strep-tactin affinity purification (IBA Lifescience, manufacturer protocol)",
+      "nickel-nitrilotriacetic acid (Ni-NTA) affinity purification"
+    ],
+    "Comment[FractionationMethod]": [
+      "Samples were concentrated on a Novex NuPage 4–12% gradient gel until the sample completely entered the gel"
+    ],
+    "FactorValue[Treatment]": [
+      "9 Strep-tag (EV control)",
+      "9 Strep-LpxC",
+      "9 His6-MBP (EV control)",
+      "9 His6-MBP-FtsH"
+    ],
+    "FactorValue[Temperature]": [
+      "30°C (slow growth)",
+      "37°C (medium growth)",
+      "40°C (fast growth)"
+    ]
+  },
+  "OEII23115.raw": {
+    "Source Name": [
+      "Escherichia coli BL21 Δarg/Δlys"
+    ],
+    "Assay Name": [
+      "Escherichia coli BL21 Δarg/Δlys_OEII23115.raw"
+    ],
+    "Raw Data File": [
+      "OEII23115.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Escherichia coli"
+    ],
+    "Characteristics[Strain]": [
+      "BL21 Δarg/Δlys"
+    ],
+    "Characteristics[Specimen]": [
+      "Escherichia coli BL21 Δarg/Δlys cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "heavy labeled super-SILAC standard"
+    ],
+    "Characteristics[Label]": [
+      "Arg10",
+      "Lys8"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "β-mercaptoethanol"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate®3000 RSLCnano HPLC system (Thermo Fisher Scientific)",
+      "Orbitrap Elite hybrid ion trap-Orbitrap mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Top20 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35%"
+    ],
+    "Comment[GradientTime]": [
+      "120 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[Separation]": [
+      "Acclaim®PepMapTM C18 μ-precolumn (5 μm particle size, 2 cm length, 100 μm ID, Thermo Fisher Scientific)",
+      "Acclaim®PepMapTM C18 analytical column (2 μm particle size, 50 cm length, 75 μm ID, Thermo Fisher Scientific)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Strep-tactin affinity purification (IBA Lifescience, manufacturer protocol)",
+      "nickel-nitrilotriacetic acid (Ni-NTA) affinity purification"
+    ],
+    "Comment[FractionationMethod]": [
+      "Samples were concentrated on a Novex NuPage 4–12% gradient gel until the sample completely entered the gel"
+    ],
+    "FactorValue[Treatment]": [
+      "9 Strep-tag (EV control)",
+      "9 Strep-LpxC",
+      "9 His6-MBP (EV control)",
+      "9 His6-MBP-FtsH"
+    ],
+    "FactorValue[Temperature]": [
+      "30°C (slow growth)",
+      "37°C (medium growth)",
+      "40°C (fast growth)"
+    ]
+  },
+  "OEII13379.raw": {
+    "Source Name": [
+      "Escherichia coli BL21 Δarg/Δlys"
+    ],
+    "Assay Name": [
+      "Escherichia coli BL21 Δarg/Δlys_OEII13379.raw"
+    ],
+    "Raw Data File": [
+      "OEII13379.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Escherichia coli"
+    ],
+    "Characteristics[Strain]": [
+      "BL21 Δarg/Δlys"
+    ],
+    "Characteristics[Specimen]": [
+      "Escherichia coli BL21 Δarg/Δlys cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "heavy labeled super-SILAC standard"
+    ],
+    "Characteristics[Label]": [
+      "Arg10",
+      "Lys8"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "β-mercaptoethanol"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate®3000 RSLCnano HPLC system (Thermo Fisher Scientific)",
+      "Orbitrap Elite hybrid ion trap-Orbitrap mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Top20 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35%"
+    ],
+    "Comment[GradientTime]": [
+      "120 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[Separation]": [
+      "Acclaim®PepMapTM C18 μ-precolumn (5 μm particle size, 2 cm length, 100 μm ID, Thermo Fisher Scientific)",
+      "Acclaim®PepMapTM C18 analytical column (2 μm particle size, 50 cm length, 75 μm ID, Thermo Fisher Scientific)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Strep-tactin affinity purification (IBA Lifescience, manufacturer protocol)",
+      "nickel-nitrilotriacetic acid (Ni-NTA) affinity purification"
+    ],
+    "Comment[FractionationMethod]": [
+      "Samples were concentrated on a Novex NuPage 4–12% gradient gel until the sample completely entered the gel"
+    ],
+    "FactorValue[Treatment]": [
+      "9 Strep-tag (EV control)",
+      "9 Strep-LpxC",
+      "9 His6-MBP (EV control)",
+      "9 His6-MBP-FtsH"
+    ],
+    "FactorValue[Temperature]": [
+      "30°C (slow growth)",
+      "37°C (medium growth)",
+      "40°C (fast growth)"
+    ]
+  },
+  "OEII13365.raw": {
+    "Source Name": [
+      "Escherichia coli BL21 Δarg/Δlys"
+    ],
+    "Assay Name": [
+      "Escherichia coli BL21 Δarg/Δlys_OEII13365.raw"
+    ],
+    "Raw Data File": [
+      "OEII13365.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Escherichia coli"
+    ],
+    "Characteristics[Strain]": [
+      "BL21 Δarg/Δlys"
+    ],
+    "Characteristics[Specimen]": [
+      "Escherichia coli BL21 Δarg/Δlys cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "heavy labeled super-SILAC standard"
+    ],
+    "Characteristics[Label]": [
+      "Arg10",
+      "Lys8"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "β-mercaptoethanol"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate®3000 RSLCnano HPLC system (Thermo Fisher Scientific)",
+      "Orbitrap Elite hybrid ion trap-Orbitrap mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Top20 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35%"
+    ],
+    "Comment[GradientTime]": [
+      "120 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[Separation]": [
+      "Acclaim®PepMapTM C18 μ-precolumn (5 μm particle size, 2 cm length, 100 μm ID, Thermo Fisher Scientific)",
+      "Acclaim®PepMapTM C18 analytical column (2 μm particle size, 50 cm length, 75 μm ID, Thermo Fisher Scientific)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Strep-tactin affinity purification (IBA Lifescience, manufacturer protocol)",
+      "nickel-nitrilotriacetic acid (Ni-NTA) affinity purification"
+    ],
+    "Comment[FractionationMethod]": [
+      "Samples were concentrated on a Novex NuPage 4–12% gradient gel until the sample completely entered the gel"
+    ],
+    "FactorValue[Treatment]": [
+      "9 Strep-tag (EV control)",
+      "9 Strep-LpxC",
+      "9 His6-MBP (EV control)",
+      "9 His6-MBP-FtsH"
+    ],
+    "FactorValue[Temperature]": [
+      "30°C (slow growth)",
+      "37°C (medium growth)",
+      "40°C (fast growth)"
+    ]
+  },
+  "OEII23121.raw": {
+    "Source Name": [
+      "Escherichia coli BL21 Δarg/Δlys"
+    ],
+    "Assay Name": [
+      "Escherichia coli BL21 Δarg/Δlys_OEII23121.raw"
+    ],
+    "Raw Data File": [
+      "OEII23121.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Escherichia coli"
+    ],
+    "Characteristics[Strain]": [
+      "BL21 Δarg/Δlys"
+    ],
+    "Characteristics[Specimen]": [
+      "Escherichia coli BL21 Δarg/Δlys cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "heavy labeled super-SILAC standard"
+    ],
+    "Characteristics[Label]": [
+      "Arg10",
+      "Lys8"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "β-mercaptoethanol"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate®3000 RSLCnano HPLC system (Thermo Fisher Scientific)",
+      "Orbitrap Elite hybrid ion trap-Orbitrap mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Top20 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35%"
+    ],
+    "Comment[GradientTime]": [
+      "120 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[Separation]": [
+      "Acclaim®PepMapTM C18 μ-precolumn (5 μm particle size, 2 cm length, 100 μm ID, Thermo Fisher Scientific)",
+      "Acclaim®PepMapTM C18 analytical column (2 μm particle size, 50 cm length, 75 μm ID, Thermo Fisher Scientific)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Strep-tactin affinity purification (IBA Lifescience, manufacturer protocol)",
+      "nickel-nitrilotriacetic acid (Ni-NTA) affinity purification"
+    ],
+    "Comment[FractionationMethod]": [
+      "Samples were concentrated on a Novex NuPage 4–12% gradient gel until the sample completely entered the gel"
+    ],
+    "FactorValue[Treatment]": [
+      "9 Strep-tag (EV control)",
+      "9 Strep-LpxC",
+      "9 His6-MBP (EV control)",
+      "9 His6-MBP-FtsH"
+    ],
+    "FactorValue[Temperature]": [
+      "30°C (slow growth)",
+      "37°C (medium growth)",
+      "40°C (fast growth)"
+    ]
+  },
+  "OEII13381.raw": {
+    "Source Name": [
+      "Escherichia coli BL21 Δarg/Δlys"
+    ],
+    "Assay Name": [
+      "Escherichia coli BL21 Δarg/Δlys_OEII13381.raw"
+    ],
+    "Raw Data File": [
+      "OEII13381.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Escherichia coli"
+    ],
+    "Characteristics[Strain]": [
+      "BL21 Δarg/Δlys"
+    ],
+    "Characteristics[Specimen]": [
+      "Escherichia coli BL21 Δarg/Δlys cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "heavy labeled super-SILAC standard"
+    ],
+    "Characteristics[Label]": [
+      "Arg10",
+      "Lys8"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "β-mercaptoethanol"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate®3000 RSLCnano HPLC system (Thermo Fisher Scientific)",
+      "Orbitrap Elite hybrid ion trap-Orbitrap mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Top20 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35%"
+    ],
+    "Comment[GradientTime]": [
+      "120 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[Separation]": [
+      "Acclaim®PepMapTM C18 μ-precolumn (5 μm particle size, 2 cm length, 100 μm ID, Thermo Fisher Scientific)",
+      "Acclaim®PepMapTM C18 analytical column (2 μm particle size, 50 cm length, 75 μm ID, Thermo Fisher Scientific)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Strep-tactin affinity purification (IBA Lifescience, manufacturer protocol)",
+      "nickel-nitrilotriacetic acid (Ni-NTA) affinity purification"
+    ],
+    "Comment[FractionationMethod]": [
+      "Samples were concentrated on a Novex NuPage 4–12% gradient gel until the sample completely entered the gel"
+    ],
+    "FactorValue[Treatment]": [
+      "9 Strep-tag (EV control)",
+      "9 Strep-LpxC",
+      "9 His6-MBP (EV control)",
+      "9 His6-MBP-FtsH"
+    ],
+    "FactorValue[Temperature]": [
+      "30°C (slow growth)",
+      "37°C (medium growth)",
+      "40°C (fast growth)"
+    ]
+  },
+  "OEII23097.raw": {
+    "Source Name": [
+      "Escherichia coli BL21 Δarg/Δlys"
+    ],
+    "Assay Name": [
+      "Escherichia coli BL21 Δarg/Δlys_OEII23097.raw"
+    ],
+    "Raw Data File": [
+      "OEII23097.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Escherichia coli"
+    ],
+    "Characteristics[Strain]": [
+      "BL21 Δarg/Δlys"
+    ],
+    "Characteristics[Specimen]": [
+      "Escherichia coli BL21 Δarg/Δlys cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "heavy labeled super-SILAC standard"
+    ],
+    "Characteristics[Label]": [
+      "Arg10",
+      "Lys8"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "β-mercaptoethanol"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate®3000 RSLCnano HPLC system (Thermo Fisher Scientific)",
+      "Orbitrap Elite hybrid ion trap-Orbitrap mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Top20 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35%"
+    ],
+    "Comment[GradientTime]": [
+      "120 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[Separation]": [
+      "Acclaim®PepMapTM C18 μ-precolumn (5 μm particle size, 2 cm length, 100 μm ID, Thermo Fisher Scientific)",
+      "Acclaim®PepMapTM C18 analytical column (2 μm particle size, 50 cm length, 75 μm ID, Thermo Fisher Scientific)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Strep-tactin affinity purification (IBA Lifescience, manufacturer protocol)",
+      "nickel-nitrilotriacetic acid (Ni-NTA) affinity purification"
+    ],
+    "Comment[FractionationMethod]": [
+      "Samples were concentrated on a Novex NuPage 4–12% gradient gel until the sample completely entered the gel"
+    ],
+    "FactorValue[Treatment]": [
+      "9 Strep-tag (EV control)",
+      "9 Strep-LpxC",
+      "9 His6-MBP (EV control)",
+      "9 His6-MBP-FtsH"
+    ],
+    "FactorValue[Temperature]": [
+      "30°C (slow growth)",
+      "37°C (medium growth)",
+      "40°C (fast growth)"
+    ]
+  },
+  "OEII23099.raw": {
+    "Source Name": [
+      "Escherichia coli BL21 Δarg/Δlys"
+    ],
+    "Assay Name": [
+      "Escherichia coli BL21 Δarg/Δlys_OEII23099.raw"
+    ],
+    "Raw Data File": [
+      "OEII23099.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Escherichia coli"
+    ],
+    "Characteristics[Strain]": [
+      "BL21 Δarg/Δlys"
+    ],
+    "Characteristics[Specimen]": [
+      "Escherichia coli BL21 Δarg/Δlys cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "heavy labeled super-SILAC standard"
+    ],
+    "Characteristics[Label]": [
+      "Arg10",
+      "Lys8"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "β-mercaptoethanol"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate®3000 RSLCnano HPLC system (Thermo Fisher Scientific)",
+      "Orbitrap Elite hybrid ion trap-Orbitrap mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Top20 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35%"
+    ],
+    "Comment[GradientTime]": [
+      "120 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[Separation]": [
+      "Acclaim®PepMapTM C18 μ-precolumn (5 μm particle size, 2 cm length, 100 μm ID, Thermo Fisher Scientific)",
+      "Acclaim®PepMapTM C18 analytical column (2 μm particle size, 50 cm length, 75 μm ID, Thermo Fisher Scientific)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Strep-tactin affinity purification (IBA Lifescience, manufacturer protocol)",
+      "nickel-nitrilotriacetic acid (Ni-NTA) affinity purification"
+    ],
+    "Comment[FractionationMethod]": [
+      "Samples were concentrated on a Novex NuPage 4–12% gradient gel until the sample completely entered the gel"
+    ],
+    "FactorValue[Treatment]": [
+      "9 Strep-tag (EV control)",
+      "9 Strep-LpxC",
+      "9 His6-MBP (EV control)",
+      "9 His6-MBP-FtsH"
+    ],
+    "FactorValue[Temperature]": [
+      "30°C (slow growth)",
+      "37°C (medium growth)",
+      "40°C (fast growth)"
+    ]
+  },
+  "OEII23119.raw": {
+    "Source Name": [
+      "Escherichia coli BL21 Δarg/Δlys"
+    ],
+    "Assay Name": [
+      "Escherichia coli BL21 Δarg/Δlys_OEII23119.raw"
+    ],
+    "Raw Data File": [
+      "OEII23119.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Escherichia coli"
+    ],
+    "Characteristics[Strain]": [
+      "BL21 Δarg/Δlys"
+    ],
+    "Characteristics[Specimen]": [
+      "Escherichia coli BL21 Δarg/Δlys cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "heavy labeled super-SILAC standard"
+    ],
+    "Characteristics[Label]": [
+      "Arg10",
+      "Lys8"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "β-mercaptoethanol"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate®3000 RSLCnano HPLC system (Thermo Fisher Scientific)",
+      "Orbitrap Elite hybrid ion trap-Orbitrap mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Top20 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35%"
+    ],
+    "Comment[GradientTime]": [
+      "120 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[Separation]": [
+      "Acclaim®PepMapTM C18 μ-precolumn (5 μm particle size, 2 cm length, 100 μm ID, Thermo Fisher Scientific)",
+      "Acclaim®PepMapTM C18 analytical column (2 μm particle size, 50 cm length, 75 μm ID, Thermo Fisher Scientific)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Strep-tactin affinity purification (IBA Lifescience, manufacturer protocol)",
+      "nickel-nitrilotriacetic acid (Ni-NTA) affinity purification"
+    ],
+    "Comment[FractionationMethod]": [
+      "Samples were concentrated on a Novex NuPage 4–12% gradient gel until the sample completely entered the gel"
+    ],
+    "FactorValue[Treatment]": [
+      "9 Strep-tag (EV control)",
+      "9 Strep-LpxC",
+      "9 His6-MBP (EV control)",
+      "9 His6-MBP-FtsH"
+    ],
+    "FactorValue[Temperature]": [
+      "30°C (slow growth)",
+      "37°C (medium growth)",
+      "40°C (fast growth)"
+    ]
+  },
+  "OEII13367.raw": {
+    "Source Name": [
+      "Escherichia coli BL21 Δarg/Δlys"
+    ],
+    "Assay Name": [
+      "Escherichia coli BL21 Δarg/Δlys_OEII13367.raw"
+    ],
+    "Raw Data File": [
+      "OEII13367.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Escherichia coli"
+    ],
+    "Characteristics[Strain]": [
+      "BL21 Δarg/Δlys"
+    ],
+    "Characteristics[Specimen]": [
+      "Escherichia coli BL21 Δarg/Δlys cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "heavy labeled super-SILAC standard"
+    ],
+    "Characteristics[Label]": [
+      "Arg10",
+      "Lys8"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "β-mercaptoethanol"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate®3000 RSLCnano HPLC system (Thermo Fisher Scientific)",
+      "Orbitrap Elite hybrid ion trap-Orbitrap mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Top20 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35%"
+    ],
+    "Comment[GradientTime]": [
+      "120 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[Separation]": [
+      "Acclaim®PepMapTM C18 μ-precolumn (5 μm particle size, 2 cm length, 100 μm ID, Thermo Fisher Scientific)",
+      "Acclaim®PepMapTM C18 analytical column (2 μm particle size, 50 cm length, 75 μm ID, Thermo Fisher Scientific)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Strep-tactin affinity purification (IBA Lifescience, manufacturer protocol)",
+      "nickel-nitrilotriacetic acid (Ni-NTA) affinity purification"
+    ],
+    "Comment[FractionationMethod]": [
+      "Samples were concentrated on a Novex NuPage 4–12% gradient gel until the sample completely entered the gel"
+    ],
+    "FactorValue[Treatment]": [
+      "9 Strep-tag (EV control)",
+      "9 Strep-LpxC",
+      "9 His6-MBP (EV control)",
+      "9 His6-MBP-FtsH"
+    ],
+    "FactorValue[Temperature]": [
+      "30°C (slow growth)",
+      "37°C (medium growth)",
+      "40°C (fast growth)"
+    ]
+  },
+  "OEII13373.raw": {
+    "Source Name": [
+      "Escherichia coli BL21 Δarg/Δlys"
+    ],
+    "Assay Name": [
+      "Escherichia coli BL21 Δarg/Δlys_OEII13373.raw"
+    ],
+    "Raw Data File": [
+      "OEII13373.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Escherichia coli"
+    ],
+    "Characteristics[Strain]": [
+      "BL21 Δarg/Δlys"
+    ],
+    "Characteristics[Specimen]": [
+      "Escherichia coli BL21 Δarg/Δlys cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "heavy labeled super-SILAC standard"
+    ],
+    "Characteristics[Label]": [
+      "Arg10",
+      "Lys8"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "β-mercaptoethanol"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate®3000 RSLCnano HPLC system (Thermo Fisher Scientific)",
+      "Orbitrap Elite hybrid ion trap-Orbitrap mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Top20 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35%"
+    ],
+    "Comment[GradientTime]": [
+      "120 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[Separation]": [
+      "Acclaim®PepMapTM C18 μ-precolumn (5 μm particle size, 2 cm length, 100 μm ID, Thermo Fisher Scientific)",
+      "Acclaim®PepMapTM C18 analytical column (2 μm particle size, 50 cm length, 75 μm ID, Thermo Fisher Scientific)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Strep-tactin affinity purification (IBA Lifescience, manufacturer protocol)",
+      "nickel-nitrilotriacetic acid (Ni-NTA) affinity purification"
+    ],
+    "Comment[FractionationMethod]": [
+      "Samples were concentrated on a Novex NuPage 4–12% gradient gel until the sample completely entered the gel"
+    ],
+    "FactorValue[Treatment]": [
+      "9 Strep-tag (EV control)",
+      "9 Strep-LpxC",
+      "9 His6-MBP (EV control)",
+      "9 His6-MBP-FtsH"
+    ],
+    "FactorValue[Temperature]": [
+      "30°C (slow growth)",
+      "37°C (medium growth)",
+      "40°C (fast growth)"
+    ]
+  },
+  "OEII13361.raw": {
+    "Source Name": [
+      "Escherichia coli BL21 Δarg/Δlys"
+    ],
+    "Assay Name": [
+      "Escherichia coli BL21 Δarg/Δlys_OEII13361.raw"
+    ],
+    "Raw Data File": [
+      "OEII13361.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Escherichia coli"
+    ],
+    "Characteristics[Strain]": [
+      "BL21 Δarg/Δlys"
+    ],
+    "Characteristics[Specimen]": [
+      "Escherichia coli BL21 Δarg/Δlys cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "heavy labeled super-SILAC standard"
+    ],
+    "Characteristics[Label]": [
+      "Arg10",
+      "Lys8"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "β-mercaptoethanol"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate®3000 RSLCnano HPLC system (Thermo Fisher Scientific)",
+      "Orbitrap Elite hybrid ion trap-Orbitrap mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Top20 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35%"
+    ],
+    "Comment[GradientTime]": [
+      "120 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[Separation]": [
+      "Acclaim®PepMapTM C18 μ-precolumn (5 μm particle size, 2 cm length, 100 μm ID, Thermo Fisher Scientific)",
+      "Acclaim®PepMapTM C18 analytical column (2 μm particle size, 50 cm length, 75 μm ID, Thermo Fisher Scientific)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Strep-tactin affinity purification (IBA Lifescience, manufacturer protocol)",
+      "nickel-nitrilotriacetic acid (Ni-NTA) affinity purification"
+    ],
+    "Comment[FractionationMethod]": [
+      "Samples were concentrated on a Novex NuPage 4–12% gradient gel until the sample completely entered the gel"
+    ],
+    "FactorValue[Treatment]": [
+      "9 Strep-tag (EV control)",
+      "9 Strep-LpxC",
+      "9 His6-MBP (EV control)",
+      "9 His6-MBP-FtsH"
+    ],
+    "FactorValue[Temperature]": [
+      "30°C (slow growth)",
+      "37°C (medium growth)",
+      "40°C (fast growth)"
+    ]
+  },
+  "OEII13383.raw": {
+    "Source Name": [
+      "Escherichia coli BL21 Δarg/Δlys"
+    ],
+    "Assay Name": [
+      "Escherichia coli BL21 Δarg/Δlys_OEII13383.raw"
+    ],
+    "Raw Data File": [
+      "OEII13383.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Escherichia coli"
+    ],
+    "Characteristics[Strain]": [
+      "BL21 Δarg/Δlys"
+    ],
+    "Characteristics[Specimen]": [
+      "Escherichia coli BL21 Δarg/Δlys cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "heavy labeled super-SILAC standard"
+    ],
+    "Characteristics[Label]": [
+      "Arg10",
+      "Lys8"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "β-mercaptoethanol"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate®3000 RSLCnano HPLC system (Thermo Fisher Scientific)",
+      "Orbitrap Elite hybrid ion trap-Orbitrap mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Top20 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35%"
+    ],
+    "Comment[GradientTime]": [
+      "120 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[Separation]": [
+      "Acclaim®PepMapTM C18 μ-precolumn (5 μm particle size, 2 cm length, 100 μm ID, Thermo Fisher Scientific)",
+      "Acclaim®PepMapTM C18 analytical column (2 μm particle size, 50 cm length, 75 μm ID, Thermo Fisher Scientific)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Strep-tactin affinity purification (IBA Lifescience, manufacturer protocol)",
+      "nickel-nitrilotriacetic acid (Ni-NTA) affinity purification"
+    ],
+    "Comment[FractionationMethod]": [
+      "Samples were concentrated on a Novex NuPage 4–12% gradient gel until the sample completely entered the gel"
+    ],
+    "FactorValue[Treatment]": [
+      "9 Strep-tag (EV control)",
+      "9 Strep-LpxC",
+      "9 His6-MBP (EV control)",
+      "9 His6-MBP-FtsH"
+    ],
+    "FactorValue[Temperature]": [
+      "30°C (slow growth)",
+      "37°C (medium growth)",
+      "40°C (fast growth)"
+    ]
+  },
+  "OEII13391.raw": {
+    "Source Name": [
+      "Escherichia coli BL21 Δarg/Δlys"
+    ],
+    "Assay Name": [
+      "Escherichia coli BL21 Δarg/Δlys_OEII13391.raw"
+    ],
+    "Raw Data File": [
+      "OEII13391.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Escherichia coli"
+    ],
+    "Characteristics[Strain]": [
+      "BL21 Δarg/Δlys"
+    ],
+    "Characteristics[Specimen]": [
+      "Escherichia coli BL21 Δarg/Δlys cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "heavy labeled super-SILAC standard"
+    ],
+    "Characteristics[Label]": [
+      "Arg10",
+      "Lys8"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "β-mercaptoethanol"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate®3000 RSLCnano HPLC system (Thermo Fisher Scientific)",
+      "Orbitrap Elite hybrid ion trap-Orbitrap mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Top20 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35%"
+    ],
+    "Comment[GradientTime]": [
+      "120 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[Separation]": [
+      "Acclaim®PepMapTM C18 μ-precolumn (5 μm particle size, 2 cm length, 100 μm ID, Thermo Fisher Scientific)",
+      "Acclaim®PepMapTM C18 analytical column (2 μm particle size, 50 cm length, 75 μm ID, Thermo Fisher Scientific)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Strep-tactin affinity purification (IBA Lifescience, manufacturer protocol)",
+      "nickel-nitrilotriacetic acid (Ni-NTA) affinity purification"
+    ],
+    "Comment[FractionationMethod]": [
+      "Samples were concentrated on a Novex NuPage 4–12% gradient gel until the sample completely entered the gel"
+    ],
+    "FactorValue[Treatment]": [
+      "9 Strep-tag (EV control)",
+      "9 Strep-LpxC",
+      "9 His6-MBP (EV control)",
+      "9 His6-MBP-FtsH"
+    ],
+    "FactorValue[Temperature]": [
+      "30°C (slow growth)",
+      "37°C (medium growth)",
+      "40°C (fast growth)"
+    ]
+  },
+  "OEII23093.raw": {
+    "Source Name": [
+      "Escherichia coli BL21 Δarg/Δlys"
+    ],
+    "Assay Name": [
+      "Escherichia coli BL21 Δarg/Δlys_OEII23093.raw"
+    ],
+    "Raw Data File": [
+      "OEII23093.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Escherichia coli"
+    ],
+    "Characteristics[Strain]": [
+      "BL21 Δarg/Δlys"
+    ],
+    "Characteristics[Specimen]": [
+      "Escherichia coli BL21 Δarg/Δlys cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "heavy labeled super-SILAC standard"
+    ],
+    "Characteristics[Label]": [
+      "Arg10",
+      "Lys8"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "β-mercaptoethanol"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate®3000 RSLCnano HPLC system (Thermo Fisher Scientific)",
+      "Orbitrap Elite hybrid ion trap-Orbitrap mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Top20 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35%"
+    ],
+    "Comment[GradientTime]": [
+      "120 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[Separation]": [
+      "Acclaim®PepMapTM C18 μ-precolumn (5 μm particle size, 2 cm length, 100 μm ID, Thermo Fisher Scientific)",
+      "Acclaim®PepMapTM C18 analytical column (2 μm particle size, 50 cm length, 75 μm ID, Thermo Fisher Scientific)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Strep-tactin affinity purification (IBA Lifescience, manufacturer protocol)",
+      "nickel-nitrilotriacetic acid (Ni-NTA) affinity purification"
+    ],
+    "Comment[FractionationMethod]": [
+      "Samples were concentrated on a Novex NuPage 4–12% gradient gel until the sample completely entered the gel"
+    ],
+    "FactorValue[Treatment]": [
+      "9 Strep-tag (EV control)",
+      "9 Strep-LpxC",
+      "9 His6-MBP (EV control)",
+      "9 His6-MBP-FtsH"
+    ],
+    "FactorValue[Temperature]": [
+      "30°C (slow growth)",
+      "37°C (medium growth)",
+      "40°C (fast growth)"
+    ]
+  },
+  "OEII23105.raw": {
+    "Source Name": [
+      "Escherichia coli BL21 Δarg/Δlys"
+    ],
+    "Assay Name": [
+      "Escherichia coli BL21 Δarg/Δlys_OEII23105.raw"
+    ],
+    "Raw Data File": [
+      "OEII23105.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Escherichia coli"
+    ],
+    "Characteristics[Strain]": [
+      "BL21 Δarg/Δlys"
+    ],
+    "Characteristics[Specimen]": [
+      "Escherichia coli BL21 Δarg/Δlys cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "heavy labeled super-SILAC standard"
+    ],
+    "Characteristics[Label]": [
+      "Arg10",
+      "Lys8"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "β-mercaptoethanol"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate®3000 RSLCnano HPLC system (Thermo Fisher Scientific)",
+      "Orbitrap Elite hybrid ion trap-Orbitrap mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Top20 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35%"
+    ],
+    "Comment[GradientTime]": [
+      "120 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[Separation]": [
+      "Acclaim®PepMapTM C18 μ-precolumn (5 μm particle size, 2 cm length, 100 μm ID, Thermo Fisher Scientific)",
+      "Acclaim®PepMapTM C18 analytical column (2 μm particle size, 50 cm length, 75 μm ID, Thermo Fisher Scientific)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Strep-tactin affinity purification (IBA Lifescience, manufacturer protocol)",
+      "nickel-nitrilotriacetic acid (Ni-NTA) affinity purification"
+    ],
+    "Comment[FractionationMethod]": [
+      "Samples were concentrated on a Novex NuPage 4–12% gradient gel until the sample completely entered the gel"
+    ],
+    "FactorValue[Treatment]": [
+      "9 Strep-tag (EV control)",
+      "9 Strep-LpxC",
+      "9 His6-MBP (EV control)",
+      "9 His6-MBP-FtsH"
+    ],
+    "FactorValue[Temperature]": [
+      "30°C (slow growth)",
+      "37°C (medium growth)",
+      "40°C (fast growth)"
+    ]
+  },
+  "OEII23129.raw": {
+    "Source Name": [
+      "Escherichia coli BL21 Δarg/Δlys"
+    ],
+    "Assay Name": [
+      "Escherichia coli BL21 Δarg/Δlys_OEII23129.raw"
+    ],
+    "Raw Data File": [
+      "OEII23129.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Escherichia coli"
+    ],
+    "Characteristics[Strain]": [
+      "BL21 Δarg/Δlys"
+    ],
+    "Characteristics[Specimen]": [
+      "Escherichia coli BL21 Δarg/Δlys cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "heavy labeled super-SILAC standard"
+    ],
+    "Characteristics[Label]": [
+      "Arg10",
+      "Lys8"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "β-mercaptoethanol"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate®3000 RSLCnano HPLC system (Thermo Fisher Scientific)",
+      "Orbitrap Elite hybrid ion trap-Orbitrap mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Top20 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35%"
+    ],
+    "Comment[GradientTime]": [
+      "120 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[Separation]": [
+      "Acclaim®PepMapTM C18 μ-precolumn (5 μm particle size, 2 cm length, 100 μm ID, Thermo Fisher Scientific)",
+      "Acclaim®PepMapTM C18 analytical column (2 μm particle size, 50 cm length, 75 μm ID, Thermo Fisher Scientific)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Strep-tactin affinity purification (IBA Lifescience, manufacturer protocol)",
+      "nickel-nitrilotriacetic acid (Ni-NTA) affinity purification"
+    ],
+    "Comment[FractionationMethod]": [
+      "Samples were concentrated on a Novex NuPage 4–12% gradient gel until the sample completely entered the gel"
+    ],
+    "FactorValue[Treatment]": [
+      "9 Strep-tag (EV control)",
+      "9 Strep-LpxC",
+      "9 His6-MBP (EV control)",
+      "9 His6-MBP-FtsH"
+    ],
+    "FactorValue[Temperature]": [
+      "30°C (slow growth)",
+      "37°C (medium growth)",
+      "40°C (fast growth)"
+    ]
+  },
+  "OEII23125.raw": {
+    "Source Name": [
+      "Escherichia coli BL21 Δarg/Δlys"
+    ],
+    "Assay Name": [
+      "Escherichia coli BL21 Δarg/Δlys_OEII23125.raw"
+    ],
+    "Raw Data File": [
+      "OEII23125.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Escherichia coli"
+    ],
+    "Characteristics[Strain]": [
+      "BL21 Δarg/Δlys"
+    ],
+    "Characteristics[Specimen]": [
+      "Escherichia coli BL21 Δarg/Δlys cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "heavy labeled super-SILAC standard"
+    ],
+    "Characteristics[Label]": [
+      "Arg10",
+      "Lys8"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "β-mercaptoethanol"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate®3000 RSLCnano HPLC system (Thermo Fisher Scientific)",
+      "Orbitrap Elite hybrid ion trap-Orbitrap mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Top20 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35%"
+    ],
+    "Comment[GradientTime]": [
+      "120 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[Separation]": [
+      "Acclaim®PepMapTM C18 μ-precolumn (5 μm particle size, 2 cm length, 100 μm ID, Thermo Fisher Scientific)",
+      "Acclaim®PepMapTM C18 analytical column (2 μm particle size, 50 cm length, 75 μm ID, Thermo Fisher Scientific)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Strep-tactin affinity purification (IBA Lifescience, manufacturer protocol)",
+      "nickel-nitrilotriacetic acid (Ni-NTA) affinity purification"
+    ],
+    "Comment[FractionationMethod]": [
+      "Samples were concentrated on a Novex NuPage 4–12% gradient gel until the sample completely entered the gel"
+    ],
+    "FactorValue[Treatment]": [
+      "9 Strep-tag (EV control)",
+      "9 Strep-LpxC",
+      "9 His6-MBP (EV control)",
+      "9 His6-MBP-FtsH"
+    ],
+    "FactorValue[Temperature]": [
+      "30°C (slow growth)",
+      "37°C (medium growth)",
+      "40°C (fast growth)"
+    ]
+  },
+  "OEII13395.raw": {
+    "Source Name": [
+      "Escherichia coli BL21 Δarg/Δlys"
+    ],
+    "Assay Name": [
+      "Escherichia coli BL21 Δarg/Δlys_OEII13395.raw"
+    ],
+    "Raw Data File": [
+      "OEII13395.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Escherichia coli"
+    ],
+    "Characteristics[Strain]": [
+      "BL21 Δarg/Δlys"
+    ],
+    "Characteristics[Specimen]": [
+      "Escherichia coli BL21 Δarg/Δlys cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "heavy labeled super-SILAC standard"
+    ],
+    "Characteristics[Label]": [
+      "Arg10",
+      "Lys8"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "β-mercaptoethanol"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate®3000 RSLCnano HPLC system (Thermo Fisher Scientific)",
+      "Orbitrap Elite hybrid ion trap-Orbitrap mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Top20 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35%"
+    ],
+    "Comment[GradientTime]": [
+      "120 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[Separation]": [
+      "Acclaim®PepMapTM C18 μ-precolumn (5 μm particle size, 2 cm length, 100 μm ID, Thermo Fisher Scientific)",
+      "Acclaim®PepMapTM C18 analytical column (2 μm particle size, 50 cm length, 75 μm ID, Thermo Fisher Scientific)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Strep-tactin affinity purification (IBA Lifescience, manufacturer protocol)",
+      "nickel-nitrilotriacetic acid (Ni-NTA) affinity purification"
+    ],
+    "Comment[FractionationMethod]": [
+      "Samples were concentrated on a Novex NuPage 4–12% gradient gel until the sample completely entered the gel"
+    ],
+    "FactorValue[Treatment]": [
+      "9 Strep-tag (EV control)",
+      "9 Strep-LpxC",
+      "9 His6-MBP (EV control)",
+      "9 His6-MBP-FtsH"
+    ],
+    "FactorValue[Temperature]": [
+      "30°C (slow growth)",
+      "37°C (medium growth)",
+      "40°C (fast growth)"
+    ]
+  },
+  "OEII23095.raw": {
+    "Source Name": [
+      "Escherichia coli BL21 Δarg/Δlys"
+    ],
+    "Assay Name": [
+      "Escherichia coli BL21 Δarg/Δlys_OEII23095.raw"
+    ],
+    "Raw Data File": [
+      "OEII23095.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Escherichia coli"
+    ],
+    "Characteristics[Strain]": [
+      "BL21 Δarg/Δlys"
+    ],
+    "Characteristics[Specimen]": [
+      "Escherichia coli BL21 Δarg/Δlys cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "heavy labeled super-SILAC standard"
+    ],
+    "Characteristics[Label]": [
+      "Arg10",
+      "Lys8"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "β-mercaptoethanol"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate®3000 RSLCnano HPLC system (Thermo Fisher Scientific)",
+      "Orbitrap Elite hybrid ion trap-Orbitrap mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Top20 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35%"
+    ],
+    "Comment[GradientTime]": [
+      "120 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[Separation]": [
+      "Acclaim®PepMapTM C18 μ-precolumn (5 μm particle size, 2 cm length, 100 μm ID, Thermo Fisher Scientific)",
+      "Acclaim®PepMapTM C18 analytical column (2 μm particle size, 50 cm length, 75 μm ID, Thermo Fisher Scientific)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Strep-tactin affinity purification (IBA Lifescience, manufacturer protocol)",
+      "nickel-nitrilotriacetic acid (Ni-NTA) affinity purification"
+    ],
+    "Comment[FractionationMethod]": [
+      "Samples were concentrated on a Novex NuPage 4–12% gradient gel until the sample completely entered the gel"
+    ],
+    "FactorValue[Treatment]": [
+      "9 Strep-tag (EV control)",
+      "9 Strep-LpxC",
+      "9 His6-MBP (EV control)",
+      "9 His6-MBP-FtsH"
+    ],
+    "FactorValue[Temperature]": [
+      "30°C (slow growth)",
+      "37°C (medium growth)",
+      "40°C (fast growth)"
+    ]
+  },
+  "OEII23113.raw": {
+    "Source Name": [
+      "Escherichia coli BL21 Δarg/Δlys"
+    ],
+    "Assay Name": [
+      "Escherichia coli BL21 Δarg/Δlys_OEII23113.raw"
+    ],
+    "Raw Data File": [
+      "OEII23113.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Escherichia coli"
+    ],
+    "Characteristics[Strain]": [
+      "BL21 Δarg/Δlys"
+    ],
+    "Characteristics[Specimen]": [
+      "Escherichia coli BL21 Δarg/Δlys cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "heavy labeled super-SILAC standard"
+    ],
+    "Characteristics[Label]": [
+      "Arg10",
+      "Lys8"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "β-mercaptoethanol"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate®3000 RSLCnano HPLC system (Thermo Fisher Scientific)",
+      "Orbitrap Elite hybrid ion trap-Orbitrap mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Top20 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35%"
+    ],
+    "Comment[GradientTime]": [
+      "120 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[Separation]": [
+      "Acclaim®PepMapTM C18 μ-precolumn (5 μm particle size, 2 cm length, 100 μm ID, Thermo Fisher Scientific)",
+      "Acclaim®PepMapTM C18 analytical column (2 μm particle size, 50 cm length, 75 μm ID, Thermo Fisher Scientific)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Strep-tactin affinity purification (IBA Lifescience, manufacturer protocol)",
+      "nickel-nitrilotriacetic acid (Ni-NTA) affinity purification"
+    ],
+    "Comment[FractionationMethod]": [
+      "Samples were concentrated on a Novex NuPage 4–12% gradient gel until the sample completely entered the gel"
+    ],
+    "FactorValue[Treatment]": [
+      "9 Strep-tag (EV control)",
+      "9 Strep-LpxC",
+      "9 His6-MBP (EV control)",
+      "9 His6-MBP-FtsH"
+    ],
+    "FactorValue[Temperature]": [
+      "30°C (slow growth)",
+      "37°C (medium growth)",
+      "40°C (fast growth)"
+    ]
+  }
+}

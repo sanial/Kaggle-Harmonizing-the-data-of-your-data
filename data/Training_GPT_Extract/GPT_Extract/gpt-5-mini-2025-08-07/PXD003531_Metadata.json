@@ -1,0 +1,2701 @@
+{
+  "20130611_QE3_UPLC10_CFR_SA_OC_T_FI_01_01_01.raw": {
+    "Source Name": [
+      "20130611_QE3_UPLC10_CFR_SA_OC_T_FI_01_01_01"
+    ],
+    "Assay Name": [
+      "20130611_QE3_UPLC10_CFR_SA_OC_T_FI_01_01_01_assay"
+    ],
+    "Raw Data File": [
+      "20130611_QE3_UPLC10_CFR_SA_OC_T_FI_01_01_01.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "primary cells"
+    ],
+    "Characteristics[Age]": [
+      "45–75 years"
+    ],
+    "Characteristics[OrganismPart]": [
+      "tumor biopsy specimens",
+      "fimbriae"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20130606_QE3_UPLC10_CFR_SA_OC_T_AS_04_01_01.raw": {
+    "Source Name": [
+      "20130606_QE3_UPLC10_CFR_SA_OC_T_AS_04_01_01"
+    ],
+    "Assay Name": [
+      "20130606_QE3_UPLC10_CFR_SA_OC_T_AS_04_01_01_assay"
+    ],
+    "Raw Data File": [
+      "20130606_QE3_UPLC10_CFR_SA_OC_T_AS_04_01_01.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "primary cells"
+    ],
+    "Characteristics[Age]": [
+      "45–75 years"
+    ],
+    "Characteristics[OrganismPart]": [
+      "peritoneal fluid (ascites)",
+      "tumor biopsy specimens"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20130606_QE3_UPLC9_CFR_SA_OC_T_AS_01_03_01.raw": {
+    "Source Name": [
+      "20130606_QE3_UPLC9_CFR_SA_OC_T_AS_01_03_01"
+    ],
+    "Assay Name": [
+      "20130606_QE3_UPLC9_CFR_SA_OC_T_AS_01_03_01_assay"
+    ],
+    "Raw Data File": [
+      "20130606_QE3_UPLC9_CFR_SA_OC_T_AS_01_03_01.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "primary cells"
+    ],
+    "Characteristics[Age]": [
+      "45–75 years"
+    ],
+    "Characteristics[OrganismPart]": [
+      "peritoneal fluid (ascites)",
+      "tumor biopsy specimens"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20150623_QE7_UPLC10_RJC_COLLAB_CFR_UOprot_1_01.raw": {
+    "Source Name": [
+      "20150623_QE7_UPLC10_RJC_COLLAB_CFR_UOprot_1_01"
+    ],
+    "Assay Name": [
+      "20150623_QE7_UPLC10_RJC_COLLAB_CFR_UOprot_1_01_assay"
+    ],
+    "Raw Data File": [
+      "20150623_QE7_UPLC10_RJC_COLLAB_CFR_UOprot_1_01.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "OVCAR3 cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "FactorValue[Treatment]": [
+      "UOprot"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20130608_QE3_UPLC10_CFR_SA_OC_T_AS_06_03_01.raw": {
+    "Source Name": [
+      "20130608_QE3_UPLC10_CFR_SA_OC_T_AS_06_03_01"
+    ],
+    "Assay Name": [
+      "20130608_QE3_UPLC10_CFR_SA_OC_T_AS_06_03_01_assay"
+    ],
+    "Raw Data File": [
+      "20130608_QE3_UPLC10_CFR_SA_OC_T_AS_06_03_01.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "primary cells"
+    ],
+    "Characteristics[Age]": [
+      "45–75 years"
+    ],
+    "Characteristics[OrganismPart]": [
+      "peritoneal fluid (ascites)",
+      "tumor biopsy specimens"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20130606_QE3_UPLC9_CFR_SA_OC_T_AS_01_02_01.raw": {
+    "Source Name": [
+      "20130606_QE3_UPLC9_CFR_SA_OC_T_AS_01_02_01"
+    ],
+    "Assay Name": [
+      "20130606_QE3_UPLC9_CFR_SA_OC_T_AS_01_02_01_assay"
+    ],
+    "Raw Data File": [
+      "20130606_QE3_UPLC9_CFR_SA_OC_T_AS_01_02_01.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "primary cells"
+    ],
+    "Characteristics[Age]": [
+      "45–75 years"
+    ],
+    "Characteristics[OrganismPart]": [
+      "peritoneal fluid (ascites)",
+      "tumor biopsy specimens"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20130606_QE3_UPLC10_CFR_SA_OC_T_AS_03_03_01.raw": {
+    "Source Name": [
+      "20130606_QE3_UPLC10_CFR_SA_OC_T_AS_03_03_01"
+    ],
+    "Assay Name": [
+      "20130606_QE3_UPLC10_CFR_SA_OC_T_AS_03_03_01_assay"
+    ],
+    "Raw Data File": [
+      "20130606_QE3_UPLC10_CFR_SA_OC_T_AS_03_03_01.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "primary cells"
+    ],
+    "Characteristics[Age]": [
+      "45–75 years"
+    ],
+    "Characteristics[OrganismPart]": [
+      "peritoneal fluid (ascites)",
+      "tumor biopsy specimens"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20130603_QE3_UPLC9_CFR_SA_OC_P_FI_02.raw": {
+    "Source Name": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_FI_02"
+    ],
+    "Assay Name": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_FI_02_assay"
+    ],
+    "Raw Data File": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_FI_02.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "primary cells"
+    ],
+    "Characteristics[Age]": [
+      "45–75 years"
+    ],
+    "Characteristics[OrganismPart]": [
+      "fimbriae"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20150616_QE7_UPLC10_RJC_COLLAB_CFR_NTp1_4_01.raw": {
+    "Source Name": [
+      "20150616_QE7_UPLC10_RJC_COLLAB_CFR_NTp1_4_01"
+    ],
+    "Assay Name": [
+      "20150616_QE7_UPLC10_RJC_COLLAB_CFR_NTp1_4_01_assay"
+    ],
+    "Raw Data File": [
+      "20150616_QE7_UPLC10_RJC_COLLAB_CFR_NTp1_4_01.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "OVCAR3 cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "FactorValue[Treatment]": [
+      "NTp1"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20150619_QE7_UPLC10_RJC_COLLAB_CFR_THZ1p2_1_01.raw": {
+    "Source Name": [
+      "20150619_QE7_UPLC10_RJC_COLLAB_CFR_THZ1p2_1_01"
+    ],
+    "Assay Name": [
+      "20150619_QE7_UPLC10_RJC_COLLAB_CFR_THZ1p2_1_01_assay"
+    ],
+    "Raw Data File": [
+      "20150619_QE7_UPLC10_RJC_COLLAB_CFR_THZ1p2_1_01.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "OVCAR3 cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "FactorValue[Treatment]": [
+      "THZ1p2"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20130603_QE3_UPLC9_CFR_SA_OC_P_NO_03.raw": {
+    "Source Name": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_NO_03"
+    ],
+    "Assay Name": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_NO_03_assay"
+    ],
+    "Raw Data File": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_NO_03.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "primary cells"
+    ],
+    "Characteristics[Age]": [
+      "45–75 years"
+    ],
+    "Characteristics[OrganismPart]": [
+      "healthy ovarian cortical tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20130603_QE3_UPLC9_CFR_SA_OC_P_AS_03_03.raw": {
+    "Source Name": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_AS_03_03"
+    ],
+    "Assay Name": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_AS_03_03_assay"
+    ],
+    "Raw Data File": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_AS_03_03.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "primary cells"
+    ],
+    "Characteristics[Age]": [
+      "45–75 years"
+    ],
+    "Characteristics[OrganismPart]": [
+      "peritoneal fluid (ascites)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20130603_QE3_UPLC9_CFR_SA_OC_P_NO_05.raw": {
+    "Source Name": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_NO_05"
+    ],
+    "Assay Name": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_NO_05_assay"
+    ],
+    "Raw Data File": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_NO_05.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "primary cells"
+    ],
+    "Characteristics[Age]": [
+      "45–75 years"
+    ],
+    "Characteristics[OrganismPart]": [
+      "healthy ovarian cortical tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20130611_QE3_UPLC10_CFR_SA_OC_T_NO_05_01_01.raw": {
+    "Source Name": [
+      "20130611_QE3_UPLC10_CFR_SA_OC_T_NO_05_01_01"
+    ],
+    "Assay Name": [
+      "20130611_QE3_UPLC10_CFR_SA_OC_T_NO_05_01_01_assay"
+    ],
+    "Raw Data File": [
+      "20130611_QE3_UPLC10_CFR_SA_OC_T_NO_05_01_01.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "primary cells"
+    ],
+    "Characteristics[Age]": [
+      "45–75 years"
+    ],
+    "Characteristics[OrganismPart]": [
+      "tumor biopsy specimens",
+      "healthy ovarian cortical tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20150619_QE7_UPLC10_RJC_COLLAB_CFR_NTp2_4_01.raw": {
+    "Source Name": [
+      "20150619_QE7_UPLC10_RJC_COLLAB_CFR_NTp2_4_01"
+    ],
+    "Assay Name": [
+      "20150619_QE7_UPLC10_RJC_COLLAB_CFR_NTp2_4_01_assay"
+    ],
+    "Raw Data File": [
+      "20150619_QE7_UPLC10_RJC_COLLAB_CFR_NTp2_4_01.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "OVCAR3 cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "FactorValue[Treatment]": [
+      "NTp2"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20150619_QE7_UPLC10_RJC_COLLAB_CFR_UOp2_1_01.raw": {
+    "Source Name": [
+      "20150619_QE7_UPLC10_RJC_COLLAB_CFR_UOp2_1_01"
+    ],
+    "Assay Name": [
+      "20150619_QE7_UPLC10_RJC_COLLAB_CFR_UOp2_1_01_assay"
+    ],
+    "Raw Data File": [
+      "20150619_QE7_UPLC10_RJC_COLLAB_CFR_UOp2_1_01.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "OVCAR3 cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "FactorValue[Treatment]": [
+      "UOp2"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20150623_QE7_UPLC10_RJC_COLLAB_CFR_NTprot_3_01.raw": {
+    "Source Name": [
+      "20150623_QE7_UPLC10_RJC_COLLAB_CFR_NTprot_3_01"
+    ],
+    "Assay Name": [
+      "20150623_QE7_UPLC10_RJC_COLLAB_CFR_NTprot_3_01_assay"
+    ],
+    "Raw Data File": [
+      "20150623_QE7_UPLC10_RJC_COLLAB_CFR_NTprot_3_01.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "OVCAR3 cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "FactorValue[Treatment]": [
+      "NTprot"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20150616_QE7_UPLC10_RJC_COLLAB_CFR_NTp1_1_01.raw": {
+    "Source Name": [
+      "20150616_QE7_UPLC10_RJC_COLLAB_CFR_NTp1_1_01"
+    ],
+    "Assay Name": [
+      "20150616_QE7_UPLC10_RJC_COLLAB_CFR_NTp1_1_01_assay"
+    ],
+    "Raw Data File": [
+      "20150616_QE7_UPLC10_RJC_COLLAB_CFR_NTp1_1_01.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "OVCAR3 cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "FactorValue[Treatment]": [
+      "NTp1"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20150619_QE7_UPLC10_RJC_COLLAB_CFR_THZ1p2_4_01.raw": {
+    "Source Name": [
+      "20150619_QE7_UPLC10_RJC_COLLAB_CFR_THZ1p2_4_01"
+    ],
+    "Assay Name": [
+      "20150619_QE7_UPLC10_RJC_COLLAB_CFR_THZ1p2_4_01_assay"
+    ],
+    "Raw Data File": [
+      "20150619_QE7_UPLC10_RJC_COLLAB_CFR_THZ1p2_4_01.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "OVCAR3 cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "FactorValue[Treatment]": [
+      "THZ1p2"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20130603_QE3_UPLC9_CFR_SA_OC_P_FI_03.raw": {
+    "Source Name": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_FI_03"
+    ],
+    "Assay Name": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_FI_03_assay"
+    ],
+    "Raw Data File": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_FI_03.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "primary cells"
+    ],
+    "Characteristics[Age]": [
+      "45–75 years"
+    ],
+    "Characteristics[OrganismPart]": [
+      "fimbriae"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20130611_QE3_UPLC10_CFR_SA_OC_T_FI_04_01_01.raw": {
+    "Source Name": [
+      "20130611_QE3_UPLC10_CFR_SA_OC_T_FI_04_01_01"
+    ],
+    "Assay Name": [
+      "20130611_QE3_UPLC10_CFR_SA_OC_T_FI_04_01_01_assay"
+    ],
+    "Raw Data File": [
+      "20130611_QE3_UPLC10_CFR_SA_OC_T_FI_04_01_01.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "primary cells"
+    ],
+    "Characteristics[Age]": [
+      "45–75 years"
+    ],
+    "Characteristics[OrganismPart]": [
+      "tumor biopsy specimens",
+      "fimbriae"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20150616_QE7_UPLC10_RJC_COLLAB_CFR_NTp1_3_01.raw": {
+    "Source Name": [
+      "20150616_QE7_UPLC10_RJC_COLLAB_CFR_NTp1_3_01"
+    ],
+    "Assay Name": [
+      "20150616_QE7_UPLC10_RJC_COLLAB_CFR_NTp1_3_01_assay"
+    ],
+    "Raw Data File": [
+      "20150616_QE7_UPLC10_RJC_COLLAB_CFR_NTp1_3_01.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "OVCAR3 cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "FactorValue[Treatment]": [
+      "NTp1"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20150623_QE7_UPLC10_RJC_COLLAB_CFR_NTprot_1_01.raw": {
+    "Source Name": [
+      "20150623_QE7_UPLC10_RJC_COLLAB_CFR_NTprot_1_01"
+    ],
+    "Assay Name": [
+      "20150623_QE7_UPLC10_RJC_COLLAB_CFR_NTprot_1_01_assay"
+    ],
+    "Raw Data File": [
+      "20150623_QE7_UPLC10_RJC_COLLAB_CFR_NTprot_1_01.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "OVCAR3 cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "FactorValue[Treatment]": [
+      "NTprot"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20130603_QE3_UPLC9_CFR_SA_OC_P_AS_03_02.raw": {
+    "Source Name": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_AS_03_02"
+    ],
+    "Assay Name": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_AS_03_02_assay"
+    ],
+    "Raw Data File": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_AS_03_02.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "primary cells"
+    ],
+    "Characteristics[Age]": [
+      "45–75 years"
+    ],
+    "Characteristics[OrganismPart]": [
+      "peritoneal fluid (ascites)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20150616_QE7_UPLC10_RJC_COLLAB_CFR_THZ1p1_2_01.raw": {
+    "Source Name": [
+      "20150616_QE7_UPLC10_RJC_COLLAB_CFR_THZ1p1_2_01"
+    ],
+    "Assay Name": [
+      "20150616_QE7_UPLC10_RJC_COLLAB_CFR_THZ1p1_2_01_assay"
+    ],
+    "Raw Data File": [
+      "20150616_QE7_UPLC10_RJC_COLLAB_CFR_THZ1p1_2_01.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "OVCAR3 cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "FactorValue[Treatment]": [
+      "THZ1p1"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20150619_QE7_UPLC10_RJC_COLLAB_CFR_NTp2_3_01.raw": {
+    "Source Name": [
+      "20150619_QE7_UPLC10_RJC_COLLAB_CFR_NTp2_3_01"
+    ],
+    "Assay Name": [
+      "20150619_QE7_UPLC10_RJC_COLLAB_CFR_NTp2_3_01_assay"
+    ],
+    "Raw Data File": [
+      "20150619_QE7_UPLC10_RJC_COLLAB_CFR_NTp2_3_01.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "OVCAR3 cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "FactorValue[Treatment]": [
+      "NTp2"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20130603_QE3_UPLC9_CFR_SA_OC_P_FI_04.raw": {
+    "Source Name": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_FI_04"
+    ],
+    "Assay Name": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_FI_04_assay"
+    ],
+    "Raw Data File": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_FI_04.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "primary cells"
+    ],
+    "Characteristics[Age]": [
+      "45–75 years"
+    ],
+    "Characteristics[OrganismPart]": [
+      "fimbriae"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20130608_QE3_UPLC10_CFR_SA_OC_T_AS_06_02_01.raw": {
+    "Source Name": [
+      "20130608_QE3_UPLC10_CFR_SA_OC_T_AS_06_02_01"
+    ],
+    "Assay Name": [
+      "20130608_QE3_UPLC10_CFR_SA_OC_T_AS_06_02_01_assay"
+    ],
+    "Raw Data File": [
+      "20130608_QE3_UPLC10_CFR_SA_OC_T_AS_06_02_01.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "primary cells"
+    ],
+    "Characteristics[Age]": [
+      "45–75 years"
+    ],
+    "Characteristics[OrganismPart]": [
+      "peritoneal fluid (ascites)",
+      "tumor biopsy specimens"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20130603_QE3_UPLC9_CFR_SA_OC_P_AS_06_03.raw": {
+    "Source Name": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_AS_06_03"
+    ],
+    "Assay Name": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_AS_06_03_assay"
+    ],
+    "Raw Data File": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_AS_06_03.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "primary cells"
+    ],
+    "Characteristics[Age]": [
+      "45–75 years"
+    ],
+    "Characteristics[OrganismPart]": [
+      "peritoneal fluid (ascites)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20130606_QE3_UPLC10_CFR_SA_OC_T_AS_03_02_01.raw": {
+    "Source Name": [
+      "20130606_QE3_UPLC10_CFR_SA_OC_T_AS_03_02_01"
+    ],
+    "Assay Name": [
+      "20130606_QE3_UPLC10_CFR_SA_OC_T_AS_03_02_01_assay"
+    ],
+    "Raw Data File": [
+      "20130606_QE3_UPLC10_CFR_SA_OC_T_AS_03_02_01.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "primary cells"
+    ],
+    "Characteristics[Age]": [
+      "45–75 years"
+    ],
+    "Characteristics[OrganismPart]": [
+      "peritoneal fluid (ascites)",
+      "tumor biopsy specimens"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20130603_QE3_UPLC9_CFR_SA_OC_P_AS_06_02.raw": {
+    "Source Name": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_AS_06_02"
+    ],
+    "Assay Name": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_AS_06_02_assay"
+    ],
+    "Raw Data File": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_AS_06_02.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "primary cells"
+    ],
+    "Characteristics[Age]": [
+      "45–75 years"
+    ],
+    "Characteristics[OrganismPart]": [
+      "peritoneal fluid (ascites)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20150616_QE7_UPLC10_RJC_COLLAB_CFR_UOp1_3_01.raw": {
+    "Source Name": [
+      "20150616_QE7_UPLC10_RJC_COLLAB_CFR_UOp1_3_01"
+    ],
+    "Assay Name": [
+      "20150616_QE7_UPLC10_RJC_COLLAB_CFR_UOp1_3_01_assay"
+    ],
+    "Raw Data File": [
+      "20150616_QE7_UPLC10_RJC_COLLAB_CFR_UOp1_3_01.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "OVCAR3 cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "FactorValue[Treatment]": [
+      "UOp1"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20150619_QE7_UPLC10_RJC_COLLAB_CFR_UOp2_3_01.raw": {
+    "Source Name": [
+      "20150619_QE7_UPLC10_RJC_COLLAB_CFR_UOp2_3_01"
+    ],
+    "Assay Name": [
+      "20150619_QE7_UPLC10_RJC_COLLAB_CFR_UOp2_3_01_assay"
+    ],
+    "Raw Data File": [
+      "20150619_QE7_UPLC10_RJC_COLLAB_CFR_UOp2_3_01.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "OVCAR3 cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "FactorValue[Treatment]": [
+      "UOp2"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20130603_QE3_UPLC9_CFR_SA_OC_P_FI_01.raw": {
+    "Source Name": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_FI_01"
+    ],
+    "Assay Name": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_FI_01_assay"
+    ],
+    "Raw Data File": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_FI_01.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "primary cells"
+    ],
+    "Characteristics[Age]": [
+      "45–75 years"
+    ],
+    "Characteristics[OrganismPart]": [
+      "fimbriae"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20130611_QE3_UPLC10_CFR_SA_OC_T_NO_04_01_01.raw": {
+    "Source Name": [
+      "20130611_QE3_UPLC10_CFR_SA_OC_T_NO_04_01_01"
+    ],
+    "Assay Name": [
+      "20130611_QE3_UPLC10_CFR_SA_OC_T_NO_04_01_01_assay"
+    ],
+    "Raw Data File": [
+      "20130611_QE3_UPLC10_CFR_SA_OC_T_NO_04_01_01.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "primary cells"
+    ],
+    "Characteristics[Age]": [
+      "45–75 years"
+    ],
+    "Characteristics[OrganismPart]": [
+      "tumor biopsy specimens",
+      "healthy ovarian cortical tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20130603_QE3_UPLC9_CFR_SA_OC_P_AS_01_02.raw": {
+    "Source Name": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_AS_01_02"
+    ],
+    "Assay Name": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_AS_01_02_assay"
+    ],
+    "Raw Data File": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_AS_01_02.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "primary cells"
+    ],
+    "Characteristics[Age]": [
+      "45–75 years"
+    ],
+    "Characteristics[OrganismPart]": [
+      "peritoneal fluid (ascites)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20150623_QE7_UPLC10_RJC_COLLAB_CFR_UOprot_3_01.raw": {
+    "Source Name": [
+      "20150623_QE7_UPLC10_RJC_COLLAB_CFR_UOprot_3_01"
+    ],
+    "Assay Name": [
+      "20150623_QE7_UPLC10_RJC_COLLAB_CFR_UOprot_3_01_assay"
+    ],
+    "Raw Data File": [
+      "20150623_QE7_UPLC10_RJC_COLLAB_CFR_UOprot_3_01.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "OVCAR3 cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "FactorValue[Treatment]": [
+      "UOprot"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20150619_QE7_UPLC10_RJC_COLLAB_CFR_NTp2_1_01.raw": {
+    "Source Name": [
+      "20150619_QE7_UPLC10_RJC_COLLAB_CFR_NTp2_1_01"
+    ],
+    "Assay Name": [
+      "20150619_QE7_UPLC10_RJC_COLLAB_CFR_NTp2_1_01_assay"
+    ],
+    "Raw Data File": [
+      "20150619_QE7_UPLC10_RJC_COLLAB_CFR_NTp2_1_01.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "OVCAR3 cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "FactorValue[Treatment]": [
+      "NTp2"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20130611_QE3_UPLC10_CFR_SA_OC_T_FI_02_01_01.raw": {
+    "Source Name": [
+      "20130611_QE3_UPLC10_CFR_SA_OC_T_FI_02_01_01"
+    ],
+    "Assay Name": [
+      "20130611_QE3_UPLC10_CFR_SA_OC_T_FI_02_01_01_assay"
+    ],
+    "Raw Data File": [
+      "20130611_QE3_UPLC10_CFR_SA_OC_T_FI_02_01_01.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "primary cells"
+    ],
+    "Characteristics[Age]": [
+      "45–75 years"
+    ],
+    "Characteristics[OrganismPart]": [
+      "tumor biopsy specimens",
+      "fimbriae"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20130603_QE3_UPLC9_CFR_SA_OC_P_FI_05.raw": {
+    "Source Name": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_FI_05"
+    ],
+    "Assay Name": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_FI_05_assay"
+    ],
+    "Raw Data File": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_FI_05.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "primary cells"
+    ],
+    "Characteristics[Age]": [
+      "45–75 years"
+    ],
+    "Characteristics[OrganismPart]": [
+      "fimbriae"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20150623_QE7_UPLC10_RJC_COLLAB_CFR_THZ1prot_1_01.raw": {
+    "Source Name": [
+      "20150623_QE7_UPLC10_RJC_COLLAB_CFR_THZ1prot_1_01"
+    ],
+    "Assay Name": [
+      "20150623_QE7_UPLC10_RJC_COLLAB_CFR_THZ1prot_1_01_assay"
+    ],
+    "Raw Data File": [
+      "20150623_QE7_UPLC10_RJC_COLLAB_CFR_THZ1prot_1_01.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "OVCAR3 cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "FactorValue[Treatment]": [
+      "THZ1prot"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20130611_QE3_UPLC10_CFR_SA_OC_T_FI_05_01_01.raw": {
+    "Source Name": [
+      "20130611_QE3_UPLC10_CFR_SA_OC_T_FI_05_01_01"
+    ],
+    "Assay Name": [
+      "20130611_QE3_UPLC10_CFR_SA_OC_T_FI_05_01_01_assay"
+    ],
+    "Raw Data File": [
+      "20130611_QE3_UPLC10_CFR_SA_OC_T_FI_05_01_01.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "primary cells"
+    ],
+    "Characteristics[Age]": [
+      "45–75 years"
+    ],
+    "Characteristics[OrganismPart]": [
+      "tumor biopsy specimens",
+      "fimbriae"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20150619_QE7_UPLC10_RJC_COLLAB_CFR_UOp2_2_01.raw": {
+    "Source Name": [
+      "20150619_QE7_UPLC10_RJC_COLLAB_CFR_UOp2_2_01"
+    ],
+    "Assay Name": [
+      "20150619_QE7_UPLC10_RJC_COLLAB_CFR_UOp2_2_01_assay"
+    ],
+    "Raw Data File": [
+      "20150619_QE7_UPLC10_RJC_COLLAB_CFR_UOp2_2_01.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "OVCAR3 cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "FactorValue[Treatment]": [
+      "UOp2"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20130603_QE3_UPLC9_CFR_SA_OC_P_NO_02.raw": {
+    "Source Name": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_NO_02"
+    ],
+    "Assay Name": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_NO_02_assay"
+    ],
+    "Raw Data File": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_NO_02.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "primary cells"
+    ],
+    "Characteristics[Age]": [
+      "45–75 years"
+    ],
+    "Characteristics[OrganismPart]": [
+      "healthy ovarian cortical tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20150616_QE7_UPLC10_RJC_COLLAB_CFR_THZ1p1_1_01.raw": {
+    "Source Name": [
+      "20150616_QE7_UPLC10_RJC_COLLAB_CFR_THZ1p1_1_01"
+    ],
+    "Assay Name": [
+      "20150616_QE7_UPLC10_RJC_COLLAB_CFR_THZ1p1_1_01_assay"
+    ],
+    "Raw Data File": [
+      "20150616_QE7_UPLC10_RJC_COLLAB_CFR_THZ1p1_1_01.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "OVCAR3 cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "FactorValue[Treatment]": [
+      "THZ1p1"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20150616_QE7_UPLC10_RJC_COLLAB_CFR_THZ1p1_4_01.raw": {
+    "Source Name": [
+      "20150616_QE7_UPLC10_RJC_COLLAB_CFR_THZ1p1_4_01"
+    ],
+    "Assay Name": [
+      "20150616_QE7_UPLC10_RJC_COLLAB_CFR_THZ1p1_4_01_assay"
+    ],
+    "Raw Data File": [
+      "20150616_QE7_UPLC10_RJC_COLLAB_CFR_THZ1p1_4_01.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "OVCAR3 cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "FactorValue[Treatment]": [
+      "THZ1p1"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20150623_QE7_UPLC10_RJC_COLLAB_CFR_UOprot_2_01.raw": {
+    "Source Name": [
+      "20150623_QE7_UPLC10_RJC_COLLAB_CFR_UOprot_2_01"
+    ],
+    "Assay Name": [
+      "20150623_QE7_UPLC10_RJC_COLLAB_CFR_UOprot_2_01_assay"
+    ],
+    "Raw Data File": [
+      "20150623_QE7_UPLC10_RJC_COLLAB_CFR_UOprot_2_01.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "OVCAR3 cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "FactorValue[Treatment]": [
+      "UOprot"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20130603_QE3_UPLC9_CFR_SA_OC_P_NO_04.raw": {
+    "Source Name": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_NO_04"
+    ],
+    "Assay Name": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_NO_04_assay"
+    ],
+    "Raw Data File": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_NO_04.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "primary cells"
+    ],
+    "Characteristics[Age]": [
+      "45–75 years"
+    ],
+    "Characteristics[OrganismPart]": [
+      "healthy ovarian cortical tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20150623_QE7_UPLC10_RJC_COLLAB_CFR_THZ1prot_4_01.raw": {
+    "Source Name": [
+      "20150623_QE7_UPLC10_RJC_COLLAB_CFR_THZ1prot_4_01"
+    ],
+    "Assay Name": [
+      "20150623_QE7_UPLC10_RJC_COLLAB_CFR_THZ1prot_4_01_assay"
+    ],
+    "Raw Data File": [
+      "20150623_QE7_UPLC10_RJC_COLLAB_CFR_THZ1prot_4_01.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "OVCAR3 cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "FactorValue[Treatment]": [
+      "THZ1prot"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20150616_QE7_UPLC10_RJC_COLLAB_CFR_UOp1_1_01.raw": {
+    "Source Name": [
+      "20150616_QE7_UPLC10_RJC_COLLAB_CFR_UOp1_1_01"
+    ],
+    "Assay Name": [
+      "20150616_QE7_UPLC10_RJC_COLLAB_CFR_UOp1_1_01_assay"
+    ],
+    "Raw Data File": [
+      "20150616_QE7_UPLC10_RJC_COLLAB_CFR_UOp1_1_01.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "OVCAR3 cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "FactorValue[Treatment]": [
+      "UOp1"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20130611_QE3_UPLC10_CFR_SA_OC_T_NO_03_01_01.raw": {
+    "Source Name": [
+      "20130611_QE3_UPLC10_CFR_SA_OC_T_NO_03_01_01"
+    ],
+    "Assay Name": [
+      "20130611_QE3_UPLC10_CFR_SA_OC_T_NO_03_01_01_assay"
+    ],
+    "Raw Data File": [
+      "20130611_QE3_UPLC10_CFR_SA_OC_T_NO_03_01_01.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "primary cells"
+    ],
+    "Characteristics[Age]": [
+      "45–75 years"
+    ],
+    "Characteristics[OrganismPart]": [
+      "tumor biopsy specimens",
+      "healthy ovarian cortical tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20130603_QE3_UPLC9_CFR_SA_OC_P_AS_04.raw": {
+    "Source Name": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_AS_04"
+    ],
+    "Assay Name": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_AS_04_assay"
+    ],
+    "Raw Data File": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_AS_04.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "primary cells"
+    ],
+    "Characteristics[Age]": [
+      "45–75 years"
+    ],
+    "Characteristics[OrganismPart]": [
+      "peritoneal fluid (ascites)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20150619_QE7_UPLC10_RJC_COLLAB_CFR_THZ1p2_2_01.raw": {
+    "Source Name": [
+      "20150619_QE7_UPLC10_RJC_COLLAB_CFR_THZ1p2_2_01"
+    ],
+    "Assay Name": [
+      "20150619_QE7_UPLC10_RJC_COLLAB_CFR_THZ1p2_2_01_assay"
+    ],
+    "Raw Data File": [
+      "20150619_QE7_UPLC10_RJC_COLLAB_CFR_THZ1p2_2_01.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "OVCAR3 cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "FactorValue[Treatment]": [
+      "THZ1p2"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20150616_QE7_UPLC10_RJC_COLLAB_CFR_UOp1_2_01.raw": {
+    "Source Name": [
+      "20150616_QE7_UPLC10_RJC_COLLAB_CFR_UOp1_2_01"
+    ],
+    "Assay Name": [
+      "20150616_QE7_UPLC10_RJC_COLLAB_CFR_UOp1_2_01_assay"
+    ],
+    "Raw Data File": [
+      "20150616_QE7_UPLC10_RJC_COLLAB_CFR_UOp1_2_01.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "OVCAR3 cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "FactorValue[Treatment]": [
+      "UOp1"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20130603_QE3_UPLC9_CFR_SA_OC_P_AS_01_03.raw": {
+    "Source Name": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_AS_01_03"
+    ],
+    "Assay Name": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_AS_01_03_assay"
+    ],
+    "Raw Data File": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_AS_01_03.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "primary cells"
+    ],
+    "Characteristics[Age]": [
+      "45–75 years"
+    ],
+    "Characteristics[OrganismPart]": [
+      "peritoneal fluid (ascites)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20130611_QE3_UPLC10_CFR_SA_OC_T_FI_03_01_01.raw": {
+    "Source Name": [
+      "20130611_QE3_UPLC10_CFR_SA_OC_T_FI_03_01_01"
+    ],
+    "Assay Name": [
+      "20130611_QE3_UPLC10_CFR_SA_OC_T_FI_03_01_01_assay"
+    ],
+    "Raw Data File": [
+      "20130611_QE3_UPLC10_CFR_SA_OC_T_FI_03_01_01.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "primary cells"
+    ],
+    "Characteristics[Age]": [
+      "45–75 years"
+    ],
+    "Characteristics[OrganismPart]": [
+      "tumor biopsy specimens",
+      "fimbriae"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20130611_QE3_UPLC10_CFR_SA_OC_T_NO_02_01_01.raw": {
+    "Source Name": [
+      "20130611_QE3_UPLC10_CFR_SA_OC_T_NO_02_01_01"
+    ],
+    "Assay Name": [
+      "20130611_QE3_UPLC10_CFR_SA_OC_T_NO_02_01_01_assay"
+    ],
+    "Raw Data File": [
+      "20130611_QE3_UPLC10_CFR_SA_OC_T_NO_02_01_01.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "primary cells"
+    ],
+    "Characteristics[Age]": [
+      "45–75 years"
+    ],
+    "Characteristics[OrganismPart]": [
+      "tumor biopsy specimens",
+      "healthy ovarian cortical tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20150623_QE7_UPLC10_RJC_COLLAB_CFR_THZ1prot_2_01.raw": {
+    "Source Name": [
+      "20150623_QE7_UPLC10_RJC_COLLAB_CFR_THZ1prot_2_01"
+    ],
+    "Assay Name": [
+      "20150623_QE7_UPLC10_RJC_COLLAB_CFR_THZ1prot_2_01_assay"
+    ],
+    "Raw Data File": [
+      "20150623_QE7_UPLC10_RJC_COLLAB_CFR_THZ1prot_2_01.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "OVCAR3 cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "FactorValue[Treatment]": [
+      "THZ1prot"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20150623_QE7_UPLC10_RJC_COLLAB_CFR_NTprot_4_01.raw": {
+    "Source Name": [
+      "20150623_QE7_UPLC10_RJC_COLLAB_CFR_NTprot_4_01"
+    ],
+    "Assay Name": [
+      "20150623_QE7_UPLC10_RJC_COLLAB_CFR_NTprot_4_01_assay"
+    ],
+    "Raw Data File": [
+      "20150623_QE7_UPLC10_RJC_COLLAB_CFR_NTprot_4_01.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "OVCAR3 cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "FactorValue[Treatment]": [
+      "NTprot"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20130603_QE3_UPLC9_CFR_SA_OC_P_FI_03.raw": {
+    "Source Name": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_FI_03"
+    ],
+    "Assay Name": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_FI_03_assay"
+    ],
+    "Raw Data File": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_FI_03.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "primary cells"
+    ],
+    "Characteristics[Age]": [
+      "45–75 years"
+    ],
+    "Characteristics[OrganismPart]": [
+      "fimbriae"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20130603_QE3_UPLC9_CFR_SA_OC_P_FI_01.raw": {
+    "Source Name": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_FI_01"
+    ],
+    "Assay Name": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_FI_01_assay"
+    ],
+    "Raw Data File": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_FI_01.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "primary cells"
+    ],
+    "Characteristics[Age]": [
+      "45–75 years"
+    ],
+    "Characteristics[OrganismPart]": [
+      "fimbriae"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20130611_QE3_UPLC10_CFR_SA_OC_T_NO_04_01_01.raw": {
+    "Source Name": [
+      "20130611_QE3_UPLC10_CFR_SA_OC_T_NO_04_01_01"
+    ],
+    "Assay Name": [
+      "20130611_QE3_UPLC10_CFR_SA_OC_T_NO_04_01_01_assay"
+    ],
+    "Raw Data File": [
+      "20130611_QE3_UPLC10_CFR_SA_OC_T_NO_04_01_01.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "primary cells"
+    ],
+    "Characteristics[Age]": [
+      "45–75 years"
+    ],
+    "Characteristics[OrganismPart]": [
+      "tumor biopsy specimens",
+      "healthy ovarian cortical tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20130611_QE3_UPLC10_CFR_SA_OC_T_FI_02_01_01.raw": {
+    "Source Name": [
+      "20130611_QE3_UPLC10_CFR_SA_OC_T_FI_02_01_01"
+    ],
+    "Assay Name": [
+      "20130611_QE3_UPLC10_CFR_SA_OC_T_FI_02_01_01_assay"
+    ],
+    "Raw Data File": [
+      "20130611_QE3_UPLC10_CFR_SA_OC_T_FI_02_01_01.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "primary cells"
+    ],
+    "Characteristics[Age]": [
+      "45–75 years"
+    ],
+    "Characteristics[OrganismPart]": [
+      "tumor biopsy specimens",
+      "fimbriae"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20130603_QE3_UPLC9_CFR_SA_OC_P_FI_05.raw": {
+    "Source Name": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_FI_05"
+    ],
+    "Assay Name": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_FI_05_assay"
+    ],
+    "Raw Data File": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_FI_05.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "primary cells"
+    ],
+    "Characteristics[Age]": [
+      "45–75 years"
+    ],
+    "Characteristics[OrganismPart]": [
+      "fimbriae"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20150623_QE7_UPLC10_RJC_COLLAB_CFR_THZ1prot_1_01.raw": {
+    "Source Name": [
+      "20150623_QE7_UPLC10_RJC_COLLAB_CFR_THZ1prot_1_01"
+    ],
+    "Assay Name": [
+      "20150623_QE7_UPLC10_RJC_COLLAB_CFR_THZ1prot_1_01_assay"
+    ],
+    "Raw Data File": [
+      "20150623_QE7_UPLC10_RJC_COLLAB_CFR_THZ1prot_1_01.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "OVCAR3 cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "FactorValue[Treatment]": [
+      "THZ1prot"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20130611_QE3_UPLC10_CFR_SA_OC_T_FI_05_01_01.raw": {
+    "Source Name": [
+      "20130611_QE3_UPLC10_CFR_SA_OC_T_FI_05_01_01"
+    ],
+    "Assay Name": [
+      "20130611_QE3_UPLC10_CFR_SA_OC_T_FI_05_01_01_assay"
+    ],
+    "Raw Data File": [
+      "20130611_QE3_UPLC10_CFR_SA_OC_T_FI_05_01_01.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "primary cells"
+    ],
+    "Characteristics[Age]": [
+      "45–75 years"
+    ],
+    "Characteristics[OrganismPart]": [
+      "tumor biopsy specimens",
+      "fimbriae"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20150619_QE7_UPLC10_RJC_COLLAB_CFR_UOp2_2_01.raw": {
+    "Source Name": [
+      "20150619_QE7_UPLC10_RJC_COLLAB_CFR_UOp2_2_01"
+    ],
+    "Assay Name": [
+      "20150619_QE7_UPLC10_RJC_COLLAB_CFR_UOp2_2_01_assay"
+    ],
+    "Raw Data File": [
+      "20150619_QE7_UPLC10_RJC_COLLAB_CFR_UOp2_2_01.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "OVCAR3 cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "FactorValue[Treatment]": [
+      "UOp2"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20130603_QE3_UPLC9_CFR_SA_OC_P_NO_02.raw": {
+    "Source Name": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_NO_02"
+    ],
+    "Assay Name": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_NO_02_assay"
+    ],
+    "Raw Data File": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_NO_02.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "primary cells"
+    ],
+    "Characteristics[Age]": [
+      "45–75 years"
+    ],
+    "Characteristics[OrganismPart]": [
+      "healthy ovarian cortical tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20150616_QE7_UPLC10_RJC_COLLAB_CFR_THZ1p1_1_01.raw": {
+    "Source Name": [
+      "20150616_QE7_UPLC10_RJC_COLLAB_CFR_THZ1p1_1_01"
+    ],
+    "Assay Name": [
+      "20150616_QE7_UPLC10_RJC_COLLAB_CFR_THZ1p1_1_01_assay"
+    ],
+    "Raw Data File": [
+      "20150616_QE7_UPLC10_RJC_COLLAB_CFR_THZ1p1_1_01.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "OVCAR3 cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "FactorValue[Treatment]": [
+      "THZ1p1"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20150616_QE7_UPLC10_RJC_COLLAB_CFR_THZ1p1_4_01.raw": {
+    "Source Name": [
+      "20150616_QE7_UPLC10_RJC_COLLAB_CFR_THZ1p1_4_01"
+    ],
+    "Assay Name": [
+      "20150616_QE7_UPLC10_RJC_COLLAB_CFR_THZ1p1_4_01_assay"
+    ],
+    "Raw Data File": [
+      "20150616_QE7_UPLC10_RJC_COLLAB_CFR_THZ1p1_4_01.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "OVCAR3 cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "FactorValue[Treatment]": [
+      "THZ1p1"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20130603_QE3_UPLC9_CFR_SA_OC_P_NO_04.raw": {
+    "Source Name": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_NO_04"
+    ],
+    "Assay Name": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_NO_04_assay"
+    ],
+    "Raw Data File": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_NO_04.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "primary cells"
+    ],
+    "Characteristics[Age]": [
+      "45–75 years"
+    ],
+    "Characteristics[OrganismPart]": [
+      "healthy ovarian cortical tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20150623_QE7_UPLC10_RJC_COLLAB_CFR_THZ1prot_4_01.raw": {
+    "Source Name": [
+      "20150623_QE7_UPLC10_RJC_COLLAB_CFR_THZ1prot_4_01"
+    ],
+    "Assay Name": [
+      "20150623_QE7_UPLC10_RJC_COLLAB_CFR_THZ1prot_4_01_assay"
+    ],
+    "Raw Data File": [
+      "20150623_QE7_UPLC10_RJC_COLLAB_CFR_THZ1prot_4_01.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "OVCAR3 cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "FactorValue[Treatment]": [
+      "THZ1prot"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20150616_QE7_UPLC10_RJC_COLLAB_CFR_UOp1_1_01.raw": {
+    "Source Name": [
+      "20150616_QE7_UPLC10_RJC_COLLAB_CFR_UOp1_1_01"
+    ],
+    "Assay Name": [
+      "20150616_QE7_UPLC10_RJC_COLLAB_CFR_UOp1_1_01_assay"
+    ],
+    "Raw Data File": [
+      "20150616_QE7_UPLC10_RJC_COLLAB_CFR_UOp1_1_01.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "OVCAR3 cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "FactorValue[Treatment]": [
+      "UOp1"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20130611_QE3_UPLC10_CFR_SA_OC_T_NO_03_01_01.raw": {
+    "Source Name": [
+      "20130611_QE3_UPLC10_CFR_SA_OC_T_NO_03_01_01"
+    ],
+    "Assay Name": [
+      "20130611_QE3_UPLC10_CFR_SA_OC_T_NO_03_01_01_assay"
+    ],
+    "Raw Data File": [
+      "20130611_QE3_UPLC10_CFR_SA_OC_T_NO_03_01_01.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "primary cells"
+    ],
+    "Characteristics[Age]": [
+      "45–75 years"
+    ],
+    "Characteristics[OrganismPart]": [
+      "tumor biopsy specimens",
+      "healthy ovarian cortical tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20130603_QE3_UPLC9_CFR_SA_OC_P_AS_04.raw": {
+    "Source Name": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_AS_04"
+    ],
+    "Assay Name": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_AS_04_assay"
+    ],
+    "Raw Data File": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_AS_04.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "primary cells"
+    ],
+    "Characteristics[Age]": [
+      "45–75 years"
+    ],
+    "Characteristics[OrganismPart]": [
+      "peritoneal fluid (ascites)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20150619_QE7_UPLC10_RJC_COLLAB_CFR_THZ1p2_2_01.raw": {
+    "Source Name": [
+      "20150619_QE7_UPLC10_RJC_COLLAB_CFR_THZ1p2_2_01"
+    ],
+    "Assay Name": [
+      "20150619_QE7_UPLC10_RJC_COLLAB_CFR_THZ1p2_2_01_assay"
+    ],
+    "Raw Data File": [
+      "20150619_QE7_UPLC10_RJC_COLLAB_CFR_THZ1p2_2_01.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "OVCAR3 cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "FactorValue[Treatment]": [
+      "THZ1p2"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20150616_QE7_UPLC10_RJC_COLLAB_CFR_UOp1_2_01.raw": {
+    "Source Name": [
+      "20150616_QE7_UPLC10_RJC_COLLAB_CFR_UOp1_2_01"
+    ],
+    "Assay Name": [
+      "20150616_QE7_UPLC10_RJC_COLLAB_CFR_UOp1_2_01_assay"
+    ],
+    "Raw Data File": [
+      "20150616_QE7_UPLC10_RJC_COLLAB_CFR_UOp1_2_01.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "OVCAR3 cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "FactorValue[Treatment]": [
+      "UOp1"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20130603_QE3_UPLC9_CFR_SA_OC_P_AS_01_03.raw": {
+    "Source Name": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_AS_01_03"
+    ],
+    "Assay Name": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_AS_01_03_assay"
+    ],
+    "Raw Data File": [
+      "20130603_QE3_UPLC9_CFR_SA_OC_P_AS_01_03.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "primary cells"
+    ],
+    "Characteristics[Age]": [
+      "45–75 years"
+    ],
+    "Characteristics[OrganismPart]": [
+      "peritoneal fluid (ascites)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20130611_QE3_UPLC10_CFR_SA_OC_T_FI_03_01_01.raw": {
+    "Source Name": [
+      "20130611_QE3_UPLC10_CFR_SA_OC_T_FI_03_01_01"
+    ],
+    "Assay Name": [
+      "20130611_QE3_UPLC10_CFR_SA_OC_T_FI_03_01_01_assay"
+    ],
+    "Raw Data File": [
+      "20130611_QE3_UPLC10_CFR_SA_OC_T_FI_03_01_01.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "primary cells"
+    ],
+    "Characteristics[Age]": [
+      "45–75 years"
+    ],
+    "Characteristics[OrganismPart]": [
+      "tumor biopsy specimens",
+      "fimbriae"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20130611_QE3_UPLC10_CFR_SA_OC_T_NO_02_01_01.raw": {
+    "Source Name": [
+      "20130611_QE3_UPLC10_CFR_SA_OC_T_NO_02_01_01"
+    ],
+    "Assay Name": [
+      "20130611_QE3_UPLC10_CFR_SA_OC_T_NO_02_01_01_assay"
+    ],
+    "Raw Data File": [
+      "20130611_QE3_UPLC10_CFR_SA_OC_T_NO_02_01_01.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "primary cells"
+    ],
+    "Characteristics[Age]": [
+      "45–75 years"
+    ],
+    "Characteristics[OrganismPart]": [
+      "tumor biopsy specimens",
+      "healthy ovarian cortical tissues"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20150623_QE7_UPLC10_RJC_COLLAB_CFR_THZ1prot_2_01.raw": {
+    "Source Name": [
+      "20150623_QE7_UPLC10_RJC_COLLAB_CFR_THZ1prot_2_01"
+    ],
+    "Assay Name": [
+      "20150623_QE7_UPLC10_RJC_COLLAB_CFR_THZ1prot_2_01_assay"
+    ],
+    "Raw Data File": [
+      "20150623_QE7_UPLC10_RJC_COLLAB_CFR_THZ1prot_2_01.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "OVCAR3 cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "FactorValue[Treatment]": [
+      "THZ1prot"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  },
+  "20150623_QE7_UPLC10_RJC_COLLAB_CFR_NTprot_4_01.raw": {
+    "Source Name": [
+      "20150623_QE7_UPLC10_RJC_COLLAB_CFR_NTprot_4_01"
+    ],
+    "Assay Name": [
+      "20150623_QE7_UPLC10_RJC_COLLAB_CFR_NTprot_4_01_assay"
+    ],
+    "Raw Data File": [
+      "20150623_QE7_UPLC10_RJC_COLLAB_CFR_NTprot_4_01.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "OVCAR3 cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "sequencing grade modified trypsin"
+    ],
+    "FactorValue[Treatment]": [
+      "NTprot"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon)",
+      "Q-Exactive mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run liquid chromatography-tandem mass spectrometry (LC-MS/MS) measurements"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "enrichment of phosphorylated peptides by TiO2-based chromatography"
+    ]
+  }
+}

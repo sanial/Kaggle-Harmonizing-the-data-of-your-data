@@ -1,0 +1,2902 @@
+{
+  "LJMP_Melanoma_QE_20170310_TMT_set4_1mgIPG3-10_fr45.raw": {
+    "Source Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set4_1mgIPG3-10"
+    ],
+    "Assay Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set4_1mgIPG3-10_fr45"
+    ],
+    "Raw Data File": [
+      "LJMP_Melanoma_QE_20170310_TMT_set4_1mgIPG3-10_fr45.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr45"
+    ],
+    "Comment[Instrument]": [
+      "QE"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "HiRIEF LC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptide IEF-IPG (isoelectric focusing by immobilized pH gradient) in pI range 3–10 (1\u2009mg)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 contiguous fractions"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sample clean-up by solid phase extraction (SPE strata-X-C, Phenomenex)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-solution digestions with LysC and trypsin."
+    ],
+    "Characteristics[Label]": [
+      "isobaric tandem masstags (Thermo Scientific)"
+    ],
+    "Characteristics[Depletion]": [
+      "The most abundant proteins in plasma were depleted with the Agilent Plasma 14 Multiple Removal System 4.6\u00d7100, which was set up on an Agilent HPLC system (Agilent Technologies)."
+    ],
+    "Characteristics[Specimen]": [
+      "plasma"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic CM"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "45 plasma samples from 24 patients with HiRIEF LC-MS/MS (21 matched)"
+    ]
+  },
+  "LJMP_Melanoma_QE_20170310_TMT_set5_1mgIPG3-10_fr35.raw": {
+    "Source Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set5_1mgIPG3-10"
+    ],
+    "Assay Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set5_1mgIPG3-10_fr35"
+    ],
+    "Raw Data File": [
+      "LJMP_Melanoma_QE_20170310_TMT_set5_1mgIPG3-10_fr35.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr35"
+    ],
+    "Comment[Instrument]": [
+      "QE"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "HiRIEF LC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptide IEF-IPG (isoelectric focusing by immobilized pH gradient) in pI range 3–10 (1\u2009mg)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 contiguous fractions"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sample clean-up by solid phase extraction (SPE strata-X-C, Phenomenex)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-solution digestions with LysC and trypsin."
+    ],
+    "Characteristics[Label]": [
+      "isobaric tandem masstags (Thermo Scientific)"
+    ],
+    "Characteristics[Depletion]": [
+      "The most abundant proteins in plasma were depleted with the Agilent Plasma 14 Multiple Removal System 4.6\u00d7100, which was set up on an Agilent HPLC system (Agilent Technologies)."
+    ],
+    "Characteristics[Specimen]": [
+      "plasma"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic CM"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "45 plasma samples from 24 patients with HiRIEF LC-MS/MS (21 matched)"
+    ]
+  },
+  "LJMP_Melanoma_QE_20170310_TMT_set4_1mgIPG3-10_fr60.raw": {
+    "Source Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set4_1mgIPG3-10"
+    ],
+    "Assay Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set4_1mgIPG3-10_fr60"
+    ],
+    "Raw Data File": [
+      "LJMP_Melanoma_QE_20170310_TMT_set4_1mgIPG3-10_fr60.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr60"
+    ],
+    "Comment[Instrument]": [
+      "QE"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "HiRIEF LC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptide IEF-IPG (isoelectric focusing by immobilized pH gradient) in pI range 3–10 (1\u2009mg)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 contiguous fractions"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sample clean-up by solid phase extraction (SPE strata-X-C, Phenomenex)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-solution digestions with LysC and trypsin."
+    ],
+    "Characteristics[Label]": [
+      "isobaric tandem masstags (Thermo Scientific)"
+    ],
+    "Characteristics[Depletion]": [
+      "The most abundant proteins in plasma were depleted with the Agilent Plasma 14 Multiple Removal System 4.6\u00d7100, which was set up on an Agilent HPLC system (Agilent Technologies)."
+    ],
+    "Characteristics[Specimen]": [
+      "plasma"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic CM"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "45 plasma samples from 24 patients with HiRIEF LC-MS/MS (21 matched)"
+    ]
+  },
+  "LJMP_Melanoma_QE_20170310_TMT_set1_1mgIPG3-10_fr18.raw": {
+    "Source Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set1_1mgIPG3-10"
+    ],
+    "Assay Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set1_1mgIPG3-10_fr18"
+    ],
+    "Raw Data File": [
+      "LJMP_Melanoma_QE_20170310_TMT_set1_1mgIPG3-10_fr18.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr18"
+    ],
+    "Comment[Instrument]": [
+      "QE"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "HiRIEF LC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptide IEF-IPG (isoelectric focusing by immobilized pH gradient) in pI range 3–10 (1\u2009mg)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 contiguous fractions"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sample clean-up by solid phase extraction (SPE strata-X-C, Phenomenex)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-solution digestions with LysC and trypsin."
+    ],
+    "Characteristics[Label]": [
+      "isobaric tandem masstags (Thermo Scientific)"
+    ],
+    "Characteristics[Depletion]": [
+      "The most abundant proteins in plasma were depleted with the Agilent Plasma 14 Multiple Removal System 4.6\u00d7100, which was set up on an Agilent HPLC system (Agilent Technologies)."
+    ],
+    "Characteristics[Specimen]": [
+      "plasma"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic CM"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "45 plasma samples from 24 patients with HiRIEF LC-MS/MS (21 matched)"
+    ]
+  },
+  "LJMP_Melanoma_QE_20170310_TMT_set2_1mgIPG3-10_fr65.raw": {
+    "Source Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set2_1mgIPG3-10"
+    ],
+    "Assay Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set2_1mgIPG3-10_fr65"
+    ],
+    "Raw Data File": [
+      "LJMP_Melanoma_QE_20170310_TMT_set2_1mgIPG3-10_fr65.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr65"
+    ],
+    "Comment[Instrument]": [
+      "QE"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "HiRIEF LC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptide IEF-IPG (isoelectric focusing by immobilized pH gradient) in pI range 3–10 (1\u2009mg)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 contiguous fractions"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sample clean-up by solid phase extraction (SPE strata-X-C, Phenomenex)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-solution digestions with LysC and trypsin."
+    ],
+    "Characteristics[Label]": [
+      "isobaric tandem masstags (Thermo Scientific)"
+    ],
+    "Characteristics[Depletion]": [
+      "The most abundant proteins in plasma were depleted with the Agilent Plasma 14 Multiple Removal System 4.6\u00d7100, which was set up on an Agilent HPLC system (Agilent Technologies)."
+    ],
+    "Characteristics[Specimen]": [
+      "plasma"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic CM"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "45 plasma samples from 24 patients with HiRIEF LC-MS/MS (21 matched)"
+    ]
+  },
+  "LJMP_Melanoma_QE_20170310_TMT_set3_1mgIPG3-10_fr04.raw": {
+    "Source Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set3_1mgIPG3-10"
+    ],
+    "Assay Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set3_1mgIPG3-10_fr04"
+    ],
+    "Raw Data File": [
+      "LJMP_Melanoma_QE_20170310_TMT_set3_1mgIPG3-10_fr04.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr04"
+    ],
+    "Comment[Instrument]": [
+      "QE"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "HiRIEF LC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptide IEF-IPG (isoelectric focusing by immobilized pH gradient) in pI range 3–10 (1\u2009mg)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 contiguous fractions"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sample clean-up by solid phase extraction (SPE strata-X-C, Phenomenex)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-solution digestions with LysC and trypsin."
+    ],
+    "Characteristics[Label]": [
+      "isobaric tandem masstags (Thermo Scientific)"
+    ],
+    "Characteristics[Depletion]": [
+      "The most abundant proteins in plasma were depleted with the Agilent Plasma 14 Multiple Removal System 4.6\u00d7100, which was set up on an Agilent HPLC system (Agilent Technologies)."
+    ],
+    "Characteristics[Specimen]": [
+      "plasma"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic CM"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "45 plasma samples from 24 patients with HiRIEF LC-MS/MS (21 matched)"
+    ]
+  },
+  "LJMP_Melanoma_QE_20170310_TMT_set3_1mgIPG3-10_fr45.raw": {
+    "Source Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set3_1mgIPG3-10"
+    ],
+    "Assay Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set3_1mgIPG3-10_fr45"
+    ],
+    "Raw Data File": [
+      "LJMP_Melanoma_QE_20170310_TMT_set3_1mgIPG3-10_fr45.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr45"
+    ],
+    "Comment[Instrument]": [
+      "QE"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "HiRIEF LC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptide IEF-IPG (isoelectric focusing by immobilized pH gradient) in pI range 3–10 (1\u2009mg)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 contiguous fractions"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sample clean-up by solid phase extraction (SPE strata-X-C, Phenomenex)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-solution digestions with LysC and trypsin."
+    ],
+    "Characteristics[Label]": [
+      "isobaric tandem masstags (Thermo Scientific)"
+    ],
+    "Characteristics[Depletion]": [
+      "The most abundant proteins in plasma were depleted with the Agilent Plasma 14 Multiple Removal System 4.6\u00d7100, which was set up on an Agilent HPLC system (Agilent Technologies)."
+    ],
+    "Characteristics[Specimen]": [
+      "plasma"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic CM"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "45 plasma samples from 24 patients with HiRIEF LC-MS/MS (21 matched)"
+    ]
+  },
+  "LJMP_Melanoma_QE_20170310_TMT_set1_1mgIPG3-10_fr43.raw": {
+    "Source Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set1_1mgIPG3-10"
+    ],
+    "Assay Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set1_1mgIPG3-10_fr43"
+    ],
+    "Raw Data File": [
+      "LJMP_Melanoma_QE_20170310_TMT_set1_1mgIPG3-10_fr43.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr43"
+    ],
+    "Comment[Instrument]": [
+      "QE"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "HiRIEF LC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptide IEF-IPG (isoelectric focusing by immobilized pH gradient) in pI range 3–10 (1\u2009mg)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 contiguous fractions"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sample clean-up by solid phase extraction (SPE strata-X-C, Phenomenex)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-solution digestions with LysC and trypsin."
+    ],
+    "Characteristics[Label]": [
+      "isobaric tandem masstags (Thermo Scientific)"
+    ],
+    "Characteristics[Depletion]": [
+      "The most abundant proteins in plasma were depleted with the Agilent Plasma 14 Multiple Removal System 4.6\u00d7100, which was set up on an Agilent HPLC system (Agilent Technologies)."
+    ],
+    "Characteristics[Specimen]": [
+      "plasma"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic CM"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "45 plasma samples from 24 patients with HiRIEF LC-MS/MS (21 matched)"
+    ]
+  },
+  "LJMP_Melanoma_QE_20170310_TMT_set4_1mgIPG3-10_fr15.raw": {
+    "Source Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set4_1mgIPG3-10"
+    ],
+    "Assay Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set4_1mgIPG3-10_fr15"
+    ],
+    "Raw Data File": [
+      "LJMP_Melanoma_QE_20170310_TMT_set4_1mgIPG3-10_fr15.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr15"
+    ],
+    "Comment[Instrument]": [
+      "QE"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "HiRIEF LC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptide IEF-IPG (isoelectric focusing by immobilized pH gradient) in pI range 3–10 (1\u2009mg)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 contiguous fractions"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sample clean-up by solid phase extraction (SPE strata-X-C, Phenomenex)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-solution digestions with LysC and trypsin."
+    ],
+    "Characteristics[Label]": [
+      "isobaric tandem masstags (Thermo Scientific)"
+    ],
+    "Characteristics[Depletion]": [
+      "The most abundant proteins in plasma were depleted with the Agilent Plasma 14 Multiple Removal System 4.6\u00d7100, which was set up on an Agilent HPLC system (Agilent Technologies)."
+    ],
+    "Characteristics[Specimen]": [
+      "plasma"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic CM"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "45 plasma samples from 24 patients with HiRIEF LC-MS/MS (21 matched)"
+    ]
+  },
+  "LJMP_Melanoma_QE_20170310_TMT_set4_1mgIPG3-10_fr58.raw": {
+    "Source Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set4_1mgIPG3-10"
+    ],
+    "Assay Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set4_1mgIPG3-10_fr58"
+    ],
+    "Raw Data File": [
+      "LJMP_Melanoma_QE_20170310_TMT_set4_1mgIPG3-10_fr58.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr58"
+    ],
+    "Comment[Instrument]": [
+      "QE"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "HiRIEF LC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptide IEF-IPG (isoelectric focusing by immobilized pH gradient) in pI range 3–10 (1\u2009mg)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 contiguous fractions"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sample clean-up by solid phase extraction (SPE strata-X-C, Phenomenex)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-solution digestions with LysC and trypsin."
+    ],
+    "Characteristics[Label]": [
+      "isobaric tandem masstags (Thermo Scientific)"
+    ],
+    "Characteristics[Depletion]": [
+      "The most abundant proteins in plasma were depleted with the Agilent Plasma 14 Multiple Removal System 4.6\u00d7100, which was set up on an Agilent HPLC system (Agilent Technologies)."
+    ],
+    "Characteristics[Specimen]": [
+      "plasma"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic CM"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "45 plasma samples from 24 patients with HiRIEF LC-MS/MS (21 matched)"
+    ]
+  },
+  "LJMP_Melanoma_QE_20170310_TMT_set3_1mgIPG3-10_fr42.raw": {
+    "Source Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set3_1mgIPG3-10"
+    ],
+    "Assay Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set3_1mgIPG3-10_fr42"
+    ],
+    "Raw Data File": [
+      "LJMP_Melanoma_QE_20170310_TMT_set3_1mgIPG3-10_fr42.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr42"
+    ],
+    "Comment[Instrument]": [
+      "QE"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "HiRIEF LC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptide IEF-IPG (isoelectric focusing by immobilized pH gradient) in pI range 3–10 (1\u2009mg)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 contiguous fractions"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sample clean-up by solid phase extraction (SPE strata-X-C, Phenomenex)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-solution digestions with LysC and trypsin."
+    ],
+    "Characteristics[Label]": [
+      "isobaric tandem masstags (Thermo Scientific)"
+    ],
+    "Characteristics[Depletion]": [
+      "The most abundant proteins in plasma were depleted with the Agilent Plasma 14 Multiple Removal System 4.6\u00d7100, which was set up on an Agilent HPLC system (Agilent Technologies)."
+    ],
+    "Characteristics[Specimen]": [
+      "plasma"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic CM"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "45 plasma samples from 24 patients with HiRIEF LC-MS/MS (21 matched)"
+    ]
+  },
+  "LJMP_Melanoma_QE_20170310_TMT_set1_1mgIPG3-10_fr52.raw": {
+    "Source Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set1_1mgIPG3-10"
+    ],
+    "Assay Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set1_1mgIPG3-10_fr52"
+    ],
+    "Raw Data File": [
+      "LJMP_Melanoma_QE_20170310_TMT_set1_1mgIPG3-10_fr52.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr52"
+    ],
+    "Comment[Instrument]": [
+      "QE"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "HiRIEF LC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptide IEF-IPG (isoelectric focusing by immobilized pH gradient) in pI range 3–10 (1\u2009mg)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 contiguous fractions"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sample clean-up by solid phase extraction (SPE strata-X-C, Phenomenex)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-solution digestions with LysC and trypsin."
+    ],
+    "Characteristics[Label]": [
+      "isobaric tandem masstags (Thermo Scientific)"
+    ],
+    "Characteristics[Depletion]": [
+      "The most abundant proteins in plasma were depleted with the Agilent Plasma 14 Multiple Removal System 4.6\u00d7100, which was set up on an Agilent HPLC system (Agilent Technologies)."
+    ],
+    "Characteristics[Specimen]": [
+      "plasma"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic CM"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "45 plasma samples from 24 patients with HiRIEF LC-MS/MS (21 matched)"
+    ]
+  },
+  "LJMP_Melanoma_QE_20170310_TMT_set4_1mgIPG3-10_fr39.raw": {
+    "Source Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set4_1mgIPG3-10"
+    ],
+    "Assay Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set4_1mgIPG3-10_fr39"
+    ],
+    "Raw Data File": [
+      "LJMP_Melanoma_QE_20170310_TMT_set4_1mgIPG3-10_fr39.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr39"
+    ],
+    "Comment[Instrument]": [
+      "QE"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "HiRIEF LC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptide IEF-IPG (isoelectric focusing by immobilized pH gradient) in pI range 3–10 (1\u2009mg)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 contiguous fractions"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sample clean-up by solid phase extraction (SPE strata-X-C, Phenomenex)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-solution digestions with LysC and trypsin."
+    ],
+    "Characteristics[Label]": [
+      "isobaric tandem masstags (Thermo Scientific)"
+    ],
+    "Characteristics[Depletion]": [
+      "The most abundant proteins in plasma were depleted with the Agilent Plasma 14 Multiple Removal System 4.6\u00d7100, which was set up on an Agilent HPLC system (Agilent Technologies)."
+    ],
+    "Characteristics[Specimen]": [
+      "plasma"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic CM"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "45 plasma samples from 24 patients with HiRIEF LC-MS/MS (21 matched)"
+    ]
+  },
+  "LJMP_Melanoma_QE_20170310_TMT_set4_1mgIPG3-10_fr43.raw": {
+    "Source Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set4_1mgIPG3-10"
+    ],
+    "Assay Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set4_1mgIPG3-10_fr43"
+    ],
+    "Raw Data File": [
+      "LJMP_Melanoma_QE_20170310_TMT_set4_1mgIPG3-10_fr43.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr43"
+    ],
+    "Comment[Instrument]": [
+      "QE"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "HiRIEF LC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptide IEF-IPG (isoelectric focusing by immobilized pH gradient) in pI range 3–10 (1\u2009mg)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 contiguous fractions"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sample clean-up by solid phase extraction (SPE strata-X-C, Phenomenex)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-solution digestions with LysC and trypsin."
+    ],
+    "Characteristics[Label]": [
+      "isobaric tandem masstags (Thermo Scientific)"
+    ],
+    "Characteristics[Depletion]": [
+      "The most abundant proteins in plasma were depleted with the Agilent Plasma 14 Multiple Removal System 4.6\u00d7100, which was set up on an Agilent HPLC system (Agilent Technologies)."
+    ],
+    "Characteristics[Specimen]": [
+      "plasma"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic CM"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "45 plasma samples from 24 patients with HiRIEF LC-MS/MS (21 matched)"
+    ]
+  },
+  "LJMP_Melanoma_QE_20170310_TMT_set1_1mgIPG3-10_fr61.raw": {
+    "Source Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set1_1mgIPG3-10"
+    ],
+    "Assay Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set1_1mgIPG3-10_fr61"
+    ],
+    "Raw Data File": [
+      "LJMP_Melanoma_QE_20170310_TMT_set1_1mgIPG3-10_fr61.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr61"
+    ],
+    "Comment[Instrument]": [
+      "QE"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "HiRIEF LC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptide IEF-IPG (isoelectric focusing by immobilized pH gradient) in pI range 3–10 (1\u2009mg)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 contiguous fractions"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sample clean-up by solid phase extraction (SPE strata-X-C, Phenomenex)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-solution digestions with LysC and trypsin."
+    ],
+    "Characteristics[Label]": [
+      "isobaric tandem masstags (Thermo Scientific)"
+    ],
+    "Characteristics[Depletion]": [
+      "The most abundant proteins in plasma were depleted with the Agilent Plasma 14 Multiple Removal System 4.6\u00d7100, which was set up on an Agilent HPLC system (Agilent Technologies)."
+    ],
+    "Characteristics[Specimen]": [
+      "plasma"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic CM"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "45 plasma samples from 24 patients with HiRIEF LC-MS/MS (21 matched)"
+    ]
+  },
+  "LJMP_Melanoma_QE_20170310_TMT_set2_1mgIPG3-10_fr20.raw": {
+    "Source Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set2_1mgIPG3-10"
+    ],
+    "Assay Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set2_1mgIPG3-10_fr20"
+    ],
+    "Raw Data File": [
+      "LJMP_Melanoma_QE_20170310_TMT_set2_1mgIPG3-10_fr20.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr20"
+    ],
+    "Comment[Instrument]": [
+      "QE"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "HiRIEF LC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptide IEF-IPG (isoelectric focusing by immobilized pH gradient) in pI range 3–10 (1\u2009mg)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 contiguous fractions"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sample clean-up by solid phase extraction (SPE strata-X-C, Phenomenex)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-solution digestions with LysC and trypsin."
+    ],
+    "Characteristics[Label]": [
+      "isobaric tandem masstags (Thermo Scientific)"
+    ],
+    "Characteristics[Depletion]": [
+      "The most abundant proteins in plasma were depleted with the Agilent Plasma 14 Multiple Removal System 4.6\u00d7100, which was set up on an Agilent HPLC system (Agilent Technologies)."
+    ],
+    "Characteristics[Specimen]": [
+      "plasma"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic CM"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "45 plasma samples from 24 patients with HiRIEF LC-MS/MS (21 matched)"
+    ]
+  },
+  "LJMP_Melanoma_QE_20170310_TMT_set3_1mgIPG3-10_fr67.raw": {
+    "Source Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set3_1mgIPG3-10"
+    ],
+    "Assay Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set3_1mgIPG3-10_fr67"
+    ],
+    "Raw Data File": [
+      "LJMP_Melanoma_QE_20170310_TMT_set3_1mgIPG3-10_fr67.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr67"
+    ],
+    "Comment[Instrument]": [
+      "QE"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "HiRIEF LC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptide IEF-IPG (isoelectric focusing by immobilized pH gradient) in pI range 3–10 (1\u2009mg)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 contiguous fractions"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sample clean-up by solid phase extraction (SPE strata-X-C, Phenomenex)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-solution digestions with LysC and trypsin."
+    ],
+    "Characteristics[Label]": [
+      "isobaric tandem masstags (Thermo Scientific)"
+    ],
+    "Characteristics[Depletion]": [
+      "The most abundant proteins in plasma were depleted with the Agilent Plasma 14 Multiple Removal System 4.6\u00d7100, which was set up on an Agilent HPLC system (Agilent Technologies)."
+    ],
+    "Characteristics[Specimen]": [
+      "plasma"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic CM"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "45 plasma samples from 24 patients with HiRIEF LC-MS/MS (21 matched)"
+    ]
+  },
+  "LJMP_Melanoma_QE_20170310_TMT_set2_1mgIPG3-10_fr32.raw": {
+    "Source Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set2_1mgIPG3-10"
+    ],
+    "Assay Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set2_1mgIPG3-10_fr32"
+    ],
+    "Raw Data File": [
+      "LJMP_Melanoma_QE_20170310_TMT_set2_1mgIPG3-10_fr32.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr32"
+    ],
+    "Comment[Instrument]": [
+      "QE"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "HiRIEF LC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptide IEF-IPG (isoelectric focusing by immobilized pH gradient) in pI range 3–10 (1\u2009mg)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 contiguous fractions"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sample clean-up by solid phase extraction (SPE strata-X-C, Phenomenex)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-solution digestions with LysC and trypsin."
+    ],
+    "Characteristics[Label]": [
+      "isobaric tandem masstags (Thermo Scientific)"
+    ],
+    "Characteristics[Depletion]": [
+      "The most abundant proteins in plasma were depleted with the Agilent Plasma 14 Multiple Removal System 4.6\u00d7100, which was set up on an Agilent HPLC system (Agilent Technologies)."
+    ],
+    "Characteristics[Specimen]": [
+      "plasma"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic CM"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "45 plasma samples from 24 patients with HiRIEF LC-MS/MS (21 matched)"
+    ]
+  },
+  "LJMP_Melanoma_QE_20170310_TMT_set5_1mgIPG3-10_fr08.raw": {
+    "Source Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set5_1mgIPG3-10"
+    ],
+    "Assay Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set5_1mgIPG3-10_fr08"
+    ],
+    "Raw Data File": [
+      "LJMP_Melanoma_QE_20170310_TMT_set5_1mgIPG3-10_fr08.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr08"
+    ],
+    "Comment[Instrument]": [
+      "QE"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "HiRIEF LC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptide IEF-IPG (isoelectric focusing by immobilized pH gradient) in pI range 3–10 (1\u2009mg)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 contiguous fractions"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sample clean-up by solid phase extraction (SPE strata-X-C, Phenomenex)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-solution digestions with LysC and trypsin."
+    ],
+    "Characteristics[Label]": [
+      "isobaric tandem masstags (Thermo Scientific)"
+    ],
+    "Characteristics[Depletion]": [
+      "The most abundant proteins in plasma were depleted with the Agilent Plasma 14 Multiple Removal System 4.6\u00d7100, which was set up on an Agilent HPLC system (Agilent Technologies)."
+    ],
+    "Characteristics[Specimen]": [
+      "plasma"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic CM"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "45 plasma samples from 24 patients with HiRIEF LC-MS/MS (21 matched)"
+    ]
+  },
+  "LJMP_Melanoma_QE_20170310_TMT_set2_1mgIPG3-10_fr05.raw": {
+    "Source Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set2_1mgIPG3-10"
+    ],
+    "Assay Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set2_1mgIPG3-10_fr05"
+    ],
+    "Raw Data File": [
+      "LJMP_Melanoma_QE_20170310_TMT_set2_1mgIPG3-10_fr05.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr05"
+    ],
+    "Comment[Instrument]": [
+      "QE"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "HiRIEF LC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptide IEF-IPG (isoelectric focusing by immobilized pH gradient) in pI range 3–10 (1\u2009mg)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 contiguous fractions"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sample clean-up by solid phase extraction (SPE strata-X-C, Phenomenex)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-solution digestions with LysC and trypsin."
+    ],
+    "Characteristics[Label]": [
+      "isobaric tandem masstags (Thermo Scientific)"
+    ],
+    "Characteristics[Depletion]": [
+      "The most abundant proteins in plasma were depleted with the Agilent Plasma 14 Multiple Removal System 4.6\u00d7100, which was set up on an Agilent HPLC system (Agilent Technologies)."
+    ],
+    "Characteristics[Specimen]": [
+      "plasma"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic CM"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "45 plasma samples from 24 patients with HiRIEF LC-MS/MS (21 matched)"
+    ]
+  },
+  "LJMP_Melanoma_QE_20170310_TMT_set4_1mgIPG3-10_fr35.raw": {
+    "Source Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set4_1mgIPG3-10"
+    ],
+    "Assay Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set4_1mgIPG3-10_fr35"
+    ],
+    "Raw Data File": [
+      "LJMP_Melanoma_QE_20170310_TMT_set4_1mgIPG3-10_fr35.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr35"
+    ],
+    "Comment[Instrument]": [
+      "QE"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "HiRIEF LC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptide IEF-IPG (isoelectric focusing by immobilized pH gradient) in pI range 3–10 (1\u2009mg)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 contiguous fractions"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sample clean-up by solid phase extraction (SPE strata-X-C, Phenomenex)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-solution digestions with LysC and trypsin."
+    ],
+    "Characteristics[Label]": [
+      "isobaric tandem masstags (Thermo Scientific)"
+    ],
+    "Characteristics[Depletion]": [
+      "The most abundant proteins in plasma were depleted with the Agilent Plasma 14 Multiple Removal System 4.6\u00d7100, which was set up on an Agilent HPLC system (Agilent Technologies)."
+    ],
+    "Characteristics[Specimen]": [
+      "plasma"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic CM"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "45 plasma samples from 24 patients with HiRIEF LC-MS/MS (21 matched)"
+    ]
+  },
+  "LJMP_Melanoma_QE_20170310_TMT_set4_1mgIPG3-10_fr09.raw": {
+    "Source Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set4_1mgIPG3-10"
+    ],
+    "Assay Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set4_1mgIPG3-10_fr09"
+    ],
+    "Raw Data File": [
+      "LJMP_Melanoma_QE_20170310_TMT_set4_1mgIPG3-10_fr09.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr09"
+    ],
+    "Comment[Instrument]": [
+      "QE"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "HiRIEF LC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptide IEF-IPG (isoelectric focusing by immobilized pH gradient) in pI range 3–10 (1\u2009mg)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 contiguous fractions"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sample clean-up by solid phase extraction (SPE strata-X-C, Phenomenex)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-solution digestions with LysC and trypsin."
+    ],
+    "Characteristics[Label]": [
+      "isobaric tandem masstags (Thermo Scientific)"
+    ],
+    "Characteristics[Depletion]": [
+      "The most abundant proteins in plasma were depleted with the Agilent Plasma 14 Multiple Removal System 4.6\u00d7100, which was set up on an Agilent HPLC system (Agilent Technologies)."
+    ],
+    "Characteristics[Specimen]": [
+      "plasma"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic CM"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "45 plasma samples from 24 patients with HiRIEF LC-MS/MS (21 matched)"
+    ]
+  },
+  "LJMP_Melanoma_QE_20170310_TMT_set2_1mgIPG3-10_fr48.raw": {
+    "Source Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set2_1mgIPG3-10"
+    ],
+    "Assay Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set2_1mgIPG3-10_fr48"
+    ],
+    "Raw Data File": [
+      "LJMP_Melanoma_QE_20170310_TMT_set2_1mgIPG3-10_fr48.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr48"
+    ],
+    "Comment[Instrument]": [
+      "QE"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "HiRIEF LC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptide IEF-IPG (isoelectric focusing by immobilized pH gradient) in pI range 3–10 (1\u2009mg)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 contiguous fractions"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sample clean-up by solid phase extraction (SPE strata-X-C, Phenomenex)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-solution digestions with LysC and trypsin."
+    ],
+    "Characteristics[Label]": [
+      "isobaric tandem masstags (Thermo Scientific)"
+    ],
+    "Characteristics[Depletion]": [
+      "The most abundant proteins in plasma were depleted with the Agilent Plasma 14 Multiple Removal System 4.6\u00d7100, which was set up on an Agilent HPLC system (Agilent Technologies)."
+    ],
+    "Characteristics[Specimen]": [
+      "plasma"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic CM"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "45 plasma samples from 24 patients with HiRIEF LC-MS/MS (21 matched)"
+    ]
+  },
+  "LJMP_Melanoma_QE_20170310_TMT_set3_1mgIPG3-10_fr05.raw": {
+    "Source Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set3_1mgIPG3-10"
+    ],
+    "Assay Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set3_1mgIPG3-10_fr05"
+    ],
+    "Raw Data File": [
+      "LJMP_Melanoma_QE_20170310_TMT_set3_1mgIPG3-10_fr05.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr05"
+    ],
+    "Comment[Instrument]": [
+      "QE"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "HiRIEF LC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptide IEF-IPG (isoelectric focusing by immobilized pH gradient) in pI range 3–10 (1\u2009mg)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 contiguous fractions"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sample clean-up by solid phase extraction (SPE strata-X-C, Phenomenex)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-solution digestions with LysC and trypsin."
+    ],
+    "Characteristics[Label]": [
+      "isobaric tandem masstags (Thermo Scientific)"
+    ],
+    "Characteristics[Depletion]": [
+      "The most abundant proteins in plasma were depleted with the Agilent Plasma 14 Multiple Removal System 4.6\u00d7100, which was set up on an Agilent HPLC system (Agilent Technologies)."
+    ],
+    "Characteristics[Specimen]": [
+      "plasma"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic CM"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "45 plasma samples from 24 patients with HiRIEF LC-MS/MS (21 matched)"
+    ]
+  },
+  "LJMP_Melanoma_QE_20170310_TMT_set1_1mgIPG3-10_fr36.raw": {
+    "Source Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set1_1mgIPG3-10"
+    ],
+    "Assay Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set1_1mgIPG3-10_fr36"
+    ],
+    "Raw Data File": [
+      "LJMP_Melanoma_QE_20170310_TMT_set1_1mgIPG3-10_fr36.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr36"
+    ],
+    "Comment[Instrument]": [
+      "QE"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "HiRIEF LC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptide IEF-IPG (isoelectric focusing by immobilized pH gradient) in pI range 3–10 (1\u2009mg)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 contiguous fractions"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sample clean-up by solid phase extraction (SPE strata-X-C, Phenomenex)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-solution digestions with LysC and trypsin."
+    ],
+    "Characteristics[Label]": [
+      "isobaric tandem masstags (Thermo Scientific)"
+    ],
+    "Characteristics[Depletion]": [
+      "The most abundant proteins in plasma were depleted with the Agilent Plasma 14 Multiple Removal System 4.6\u00d7100, which was set up on an Agilent HPLC system (Agilent Technologies)."
+    ],
+    "Characteristics[Specimen]": [
+      "plasma"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic CM"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "45 plasma samples from 24 patients with HiRIEF LC-MS/MS (21 matched)"
+    ]
+  },
+  "LJMP_Melanoma_QE_20170310_TMT_set2_1mgIPG3-10_fr35.raw": {
+    "Source Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set2_1mgIPG3-10"
+    ],
+    "Assay Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set2_1mgIPG3-10_fr35"
+    ],
+    "Raw Data File": [
+      "LJMP_Melanoma_QE_20170310_TMT_set2_1mgIPG3-10_fr35.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr35"
+    ],
+    "Comment[Instrument]": [
+      "QE"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "HiRIEF LC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptide IEF-IPG (isoelectric focusing by immobilized pH gradient) in pI range 3–10 (1\u2009mg)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 contiguous fractions"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sample clean-up by solid phase extraction (SPE strata-X-C, Phenomenex)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-solution digestions with LysC and trypsin."
+    ],
+    "Characteristics[Label]": [
+      "isobaric tandem masstags (Thermo Scientific)"
+    ],
+    "Characteristics[Depletion]": [
+      "The most abundant proteins in plasma were depleted with the Agilent Plasma 14 Multiple Removal System 4.6\u00d7100, which was set up on an Agilent HPLC system (Agilent Technologies)."
+    ],
+    "Characteristics[Specimen]": [
+      "plasma"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic CM"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "45 plasma samples from 24 patients with HiRIEF LC-MS/MS (21 matched)"
+    ]
+  },
+  "LJMP_Melanoma_QE_20170310_TMT_set1_1mgIPG3-10_fr09.raw": {
+    "Source Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set1_1mgIPG3-10"
+    ],
+    "Assay Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set1_1mgIPG3-10_fr09"
+    ],
+    "Raw Data File": [
+      "LJMP_Melanoma_QE_20170310_TMT_set1_1mgIPG3-10_fr09.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr09"
+    ],
+    "Comment[Instrument]": [
+      "QE"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "HiRIEF LC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptide IEF-IPG (isoelectric focusing by immobilized pH gradient) in pI range 3–10 (1\u2009mg)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 contiguous fractions"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sample clean-up by solid phase extraction (SPE strata-X-C, Phenomenex)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-solution digestions with LysC and trypsin."
+    ],
+    "Characteristics[Label]": [
+      "isobaric tandem masstags (Thermo Scientific)"
+    ],
+    "Characteristics[Depletion]": [
+      "The most abundant proteins in plasma were depleted with the Agilent Plasma 14 Multiple Removal System 4.6\u00d7100, which was set up on an Agilent HPLC system (Agilent Technologies)."
+    ],
+    "Characteristics[Specimen]": [
+      "plasma"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic CM"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "45 plasma samples from 24 patients with HiRIEF LC-MS/MS (21 matched)"
+    ]
+  },
+  "LJMP_Melanoma_QE_20170310_TMT_set4_1mgIPG3-10_fr37.raw": {
+    "Source Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set4_1mgIPG3-10"
+    ],
+    "Assay Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set4_1mgIPG3-10_fr37"
+    ],
+    "Raw Data File": [
+      "LJMP_Melanoma_QE_20170310_TMT_set4_1mgIPG3-10_fr37.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr37"
+    ],
+    "Comment[Instrument]": [
+      "QE"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "HiRIEF LC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptide IEF-IPG (isoelectric focusing by immobilized pH gradient) in pI range 3–10 (1\u2009mg)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 contiguous fractions"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sample clean-up by solid phase extraction (SPE strata-X-C, Phenomenex)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-solution digestions with LysC and trypsin."
+    ],
+    "Characteristics[Label]": [
+      "isobaric tandem masstags (Thermo Scientific)"
+    ],
+    "Characteristics[Depletion]": [
+      "The most abundant proteins in plasma were depleted with the Agilent Plasma 14 Multiple Removal System 4.6\u00d7100, which was set up on an Agilent HPLC system (Agilent Technologies)."
+    ],
+    "Characteristics[Specimen]": [
+      "plasma"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic CM"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "45 plasma samples from 24 patients with HiRIEF LC-MS/MS (21 matched)"
+    ]
+  },
+  "LJMP_Melanoma_QE_20170310_TMT_set2_1mgIPG3-10_fr12.raw": {
+    "Source Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set2_1mgIPG3-10"
+    ],
+    "Assay Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set2_1mgIPG3-10_fr12"
+    ],
+    "Raw Data File": [
+      "LJMP_Melanoma_QE_20170310_TMT_set2_1mgIPG3-10_fr12.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr12"
+    ],
+    "Comment[Instrument]": [
+      "QE"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "HiRIEF LC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptide IEF-IPG (isoelectric focusing by immobilized pH gradient) in pI range 3–10 (1\u2009mg)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 contiguous fractions"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sample clean-up by solid phase extraction (SPE strata-X-C, Phenomenex)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-solution digestions with LysC and trypsin."
+    ],
+    "Characteristics[Label]": [
+      "isobaric tandem masstags (Thermo Scientific)"
+    ],
+    "Characteristics[Depletion]": [
+      "The most abundant proteins in plasma were depleted with the Agilent Plasma 14 Multiple Removal System 4.6\u00d7100, which was set up on an Agilent HPLC system (Agilent Technologies)."
+    ],
+    "Characteristics[Specimen]": [
+      "plasma"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic CM"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "45 plasma samples from 24 patients with HiRIEF LC-MS/MS (21 matched)"
+    ]
+  },
+  "LJMP_Melanoma_QE_20170310_TMT_set1_1mgIPG3-10_fr49.raw": {
+    "Source Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set1_1mgIPG3-10"
+    ],
+    "Assay Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set1_1mgIPG3-10_fr49"
+    ],
+    "Raw Data File": [
+      "LJMP_Melanoma_QE_20170310_TMT_set1_1mgIPG3-10_fr49.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr49"
+    ],
+    "Comment[Instrument]": [
+      "QE"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "HiRIEF LC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptide IEF-IPG (isoelectric focusing by immobilized pH gradient) in pI range 3–10 (1\u2009mg)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 contiguous fractions"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sample clean-up by solid phase extraction (SPE strata-X-C, Phenomenex)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-solution digestions with LysC and trypsin."
+    ],
+    "Characteristics[Label]": [
+      "isobaric tandem masstags (Thermo Scientific)"
+    ],
+    "Characteristics[Depletion]": [
+      "The most abundant proteins in plasma were depleted with the Agilent Plasma 14 Multiple Removal System 4.6\u00d7100, which was set up on an Agilent HPLC system (Agilent Technologies)."
+    ],
+    "Characteristics[Specimen]": [
+      "plasma"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic CM"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "45 plasma samples from 24 patients with HiRIEF LC-MS/MS (21 matched)"
+    ]
+  },
+  "LJMP_Melanoma_QE_20170310_TMT_set5_1mgIPG3-10_fr05.raw": {
+    "Source Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set5_1mgIPG3-10"
+    ],
+    "Assay Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set5_1mgIPG3-10_fr05"
+    ],
+    "Raw Data File": [
+      "LJMP_Melanoma_QE_20170310_TMT_set5_1mgIPG3-10_fr05.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr05"
+    ],
+    "Comment[Instrument]": [
+      "QE"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "HiRIEF LC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptide IEF-IPG (isoelectric focusing by immobilized pH gradient) in pI range 3–10 (1\u2009mg)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 contiguous fractions"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sample clean-up by solid phase extraction (SPE strata-X-C, Phenomenex)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-solution digestions with LysC and trypsin."
+    ],
+    "Characteristics[Label]": [
+      "isobaric tandem masstags (Thermo Scientific)"
+    ],
+    "Characteristics[Depletion]": [
+      "The most abundant proteins in plasma were depleted with the Agilent Plasma 14 Multiple Removal System 4.6\u00d7100, which was set up on an Agilent HPLC system (Agilent Technologies)."
+    ],
+    "Characteristics[Specimen]": [
+      "plasma"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic CM"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "45 plasma samples from 24 patients with HiRIEF LC-MS/MS (21 matched)"
+    ]
+  },
+  "LJMP_Melanoma_QE_20170310_TMT_set2_1mgIPG3-10_fr42.raw": {
+    "Source Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set2_1mgIPG3-10"
+    ],
+    "Assay Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set2_1mgIPG3-10_fr42"
+    ],
+    "Raw Data File": [
+      "LJMP_Melanoma_QE_20170310_TMT_set2_1mgIPG3-10_fr42.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr42"
+    ],
+    "Comment[Instrument]": [
+      "QE"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "HiRIEF LC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptide IEF-IPG (isoelectric focusing by immobilized pH gradient) in pI range 3–10 (1\u2009mg)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 contiguous fractions"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sample clean-up by solid phase extraction (SPE strata-X-C, Phenomenex)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-solution digestions with LysC and trypsin."
+    ],
+    "Characteristics[Label]": [
+      "isobaric tandem masstags (Thermo Scientific)"
+    ],
+    "Characteristics[Depletion]": [
+      "The most abundant proteins in plasma were depleted with the Agilent Plasma 14 Multiple Removal System 4.6\u00d7100, which was set up on an Agilent HPLC system (Agilent Technologies)."
+    ],
+    "Characteristics[Specimen]": [
+      "plasma"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic CM"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "45 plasma samples from 24 patients with HiRIEF LC-MS/MS (21 matched)"
+    ]
+  },
+  "LJMP_Melanoma_QE_20170310_TMT_set2_1mgIPG3-10_fr31.raw": {
+    "Source Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set2_1mgIPG3-10"
+    ],
+    "Assay Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set2_1mgIPG3-10_fr31"
+    ],
+    "Raw Data File": [
+      "LJMP_Melanoma_QE_20170310_TMT_set2_1mgIPG3-10_fr31.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr31"
+    ],
+    "Comment[Instrument]": [
+      "QE"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "HiRIEF LC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptide IEF-IPG (isoelectric focusing by immobilized pH gradient) in pI range 3–10 (1\u2009mg)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 contiguous fractions"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sample clean-up by solid phase extraction (SPE strata-X-C, Phenomenex)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-solution digestions with LysC and trypsin."
+    ],
+    "Characteristics[Label]": [
+      "isobaric tandem masstags (Thermo Scientific)"
+    ],
+    "Characteristics[Depletion]": [
+      "The most abundant proteins in plasma were depleted with the Agilent Plasma 14 Multiple Removal System 4.6\u00d7100, which was set up on an Agilent HPLC system (Agilent Technologies)."
+    ],
+    "Characteristics[Specimen]": [
+      "plasma"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic CM"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "45 plasma samples from 24 patients with HiRIEF LC-MS/MS (21 matched)"
+    ]
+  },
+  "LJMP_Melanoma_QE_20170310_TMT_set5_1mgIPG3-10_fr70.raw": {
+    "Source Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set5_1mgIPG3-10"
+    ],
+    "Assay Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set5_1mgIPG3-10_fr70"
+    ],
+    "Raw Data File": [
+      "LJMP_Melanoma_QE_20170310_TMT_set5_1mgIPG3-10_fr70.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr70"
+    ],
+    "Comment[Instrument]": [
+      "QE"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "HiRIEF LC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptide IEF-IPG (isoelectric focusing by immobilized pH gradient) in pI range 3–10 (1\u2009mg)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 contiguous fractions"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sample clean-up by solid phase extraction (SPE strata-X-C, Phenomenex)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-solution digestions with LysC and trypsin."
+    ],
+    "Characteristics[Label]": [
+      "isobaric tandem masstags (Thermo Scientific)"
+    ],
+    "Characteristics[Depletion]": [
+      "The most abundant proteins in plasma were depleted with the Agilent Plasma 14 Multiple Removal System 4.6\u00d7100, which was set up on an Agilent HPLC system (Agilent Technologies)."
+    ],
+    "Characteristics[Specimen]": [
+      "plasma"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic CM"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "45 plasma samples from 24 patients with HiRIEF LC-MS/MS (21 matched)"
+    ]
+  },
+  "LJMP_Melanoma_QE_20170310_TMT_set2_1mgIPG3-10_fr02.raw": {
+    "Source Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set2_1mgIPG3-10"
+    ],
+    "Assay Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set2_1mgIPG3-10_fr02"
+    ],
+    "Raw Data File": [
+      "LJMP_Melanoma_QE_20170310_TMT_set2_1mgIPG3-10_fr02.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr02"
+    ],
+    "Comment[Instrument]": [
+      "QE"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "HiRIEF LC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptide IEF-IPG (isoelectric focusing by immobilized pH gradient) in pI range 3–10 (1\u2009mg)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 contiguous fractions"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sample clean-up by solid phase extraction (SPE strata-X-C, Phenomenex)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-solution digestions with LysC and trypsin."
+    ],
+    "Characteristics[Label]": [
+      "isobaric tandem masstags (Thermo Scientific)"
+    ],
+    "Characteristics[Depletion]": [
+      "The most abundant proteins in plasma were depleted with the Agilent Plasma 14 Multiple Removal System 4.6\u00d7100, which was set up on an Agilent HPLC system (Agilent Technologies)."
+    ],
+    "Characteristics[Specimen]": [
+      "plasma"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic CM"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "45 plasma samples from 24 patients with HiRIEF LC-MS/MS (21 matched)"
+    ]
+  },
+  "LJMP_Melanoma_QE_20170310_TMT_set4_1mgIPG3-10_fr23.raw": {
+    "Source Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set4_1mgIPG3-10"
+    ],
+    "Assay Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set4_1mgIPG3-10_fr23"
+    ],
+    "Raw Data File": [
+      "LJMP_Melanoma_QE_20170310_TMT_set4_1mgIPG3-10_fr23.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr23"
+    ],
+    "Comment[Instrument]": [
+      "QE"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "HiRIEF LC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptide IEF-IPG (isoelectric focusing by immobilized pH gradient) in pI range 3–10 (1\u2009mg)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 contiguous fractions"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sample clean-up by solid phase extraction (SPE strata-X-C, Phenomenex)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-solution digestions with LysC and trypsin."
+    ],
+    "Characteristics[Label]": [
+      "isobaric tandem masstags (Thermo Scientific)"
+    ],
+    "Characteristics[Depletion]": [
+      "The most abundant proteins in plasma were depleted with the Agilent Plasma 14 Multiple Removal System 4.6\u00d7100, which was set up on an Agilent HPLC system (Agilent Technologies)."
+    ],
+    "Characteristics[Specimen]": [
+      "plasma"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic CM"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "45 plasma samples from 24 patients with HiRIEF LC-MS/MS (21 matched)"
+    ]
+  },
+  "LJMP_Melanoma_QE_20170310_TMT_set2_1mgIPG3-10_fr63.raw": {
+    "Source Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set2_1mgIPG3-10"
+    ],
+    "Assay Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set2_1mgIPG3-10_fr63"
+    ],
+    "Raw Data File": [
+      "LJMP_Melanoma_QE_20170310_TMT_set2_1mgIPG3-10_fr63.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr63"
+    ],
+    "Comment[Instrument]": [
+      "QE"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "HiRIEF LC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptide IEF-IPG (isoelectric focusing by immobilized pH gradient) in pI range 3–10 (1\u2009mg)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 contiguous fractions"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sample clean-up by solid phase extraction (SPE strata-X-C, Phenomenex)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-solution digestions with LysC and trypsin."
+    ],
+    "Characteristics[Label]": [
+      "isobaric tandem masstags (Thermo Scientific)"
+    ],
+    "Characteristics[Depletion]": [
+      "The most abundant proteins in plasma were depleted with the Agilent Plasma 14 Multiple Removal System 4.6\u00d7100, which was set up on an Agilent HPLC system (Agilent Technologies)."
+    ],
+    "Characteristics[Specimen]": [
+      "plasma"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic CM"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "45 plasma samples from 24 patients with HiRIEF LC-MS/MS (21 matched)"
+    ]
+  },
+  "LJMP_Melanoma_QE_20170310_TMT_set3_1mgIPG3-10_fr48.raw": {
+    "Source Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set3_1mgIPG3-10"
+    ],
+    "Assay Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set3_1mgIPG3-10_fr48"
+    ],
+    "Raw Data File": [
+      "LJMP_Melanoma_QE_20170310_TMT_set3_1mgIPG3-10_fr48.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr48"
+    ],
+    "Comment[Instrument]": [
+      "QE"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "HiRIEF LC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptide IEF-IPG (isoelectric focusing by immobilized pH gradient) in pI range 3–10 (1\u2009mg)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 contiguous fractions"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sample clean-up by solid phase extraction (SPE strata-X-C, Phenomenex)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-solution digestions with LysC and trypsin."
+    ],
+    "Characteristics[Label]": [
+      "isobaric tandem masstags (Thermo Scientific)"
+    ],
+    "Characteristics[Depletion]": [
+      "The most abundant proteins in plasma were depleted with the Agilent Plasma 14 Multiple Removal System 4.6\u00d7100, which was set up on an Agilent HPLC system (Agilent Technologies)."
+    ],
+    "Characteristics[Specimen]": [
+      "plasma"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic CM"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "45 plasma samples from 24 patients with HiRIEF LC-MS/MS (21 matched)"
+    ]
+  },
+  "LJMP_Melanoma_QE_20170310_TMT_set4_1mgIPG3-10_fr24.raw": {
+    "Source Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set4_1mgIPG3-10"
+    ],
+    "Assay Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set4_1mgIPG3-10_fr24"
+    ],
+    "Raw Data File": [
+      "LJMP_Melanoma_QE_20170310_TMT_set4_1mgIPG3-10_fr24.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr24"
+    ],
+    "Comment[Instrument]": [
+      "QE"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "HiRIEF LC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptide IEF-IPG (isoelectric focusing by immobilized pH gradient) in pI range 3–10 (1\u2009mg)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 contiguous fractions"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sample clean-up by solid phase extraction (SPE strata-X-C, Phenomenex)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-solution digestions with LysC and trypsin."
+    ],
+    "Characteristics[Label]": [
+      "isobaric tandem masstags (Thermo Scientific)"
+    ],
+    "Characteristics[Depletion]": [
+      "The most abundant proteins in plasma were depleted with the Agilent Plasma 14 Multiple Removal System 4.6\u00d7100, which was set up on an Agilent HPLC system (Agilent Technologies)."
+    ],
+    "Characteristics[Specimen]": [
+      "plasma"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic CM"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "45 plasma samples from 24 patients with HiRIEF LC-MS/MS (21 matched)"
+    ]
+  },
+  "LJMP_Melanoma_QE_20170310_TMT_set5_1mgIPG3-10_fr15.raw": {
+    "Source Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set5_1mgIPG3-10"
+    ],
+    "Assay Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set5_1mgIPG3-10_fr15"
+    ],
+    "Raw Data File": [
+      "LJMP_Melanoma_QE_20170310_TMT_set5_1mgIPG3-10_fr15.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr15"
+    ],
+    "Comment[Instrument]": [
+      "QE"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "HiRIEF LC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptide IEF-IPG (isoelectric focusing by immobilized pH gradient) in pI range 3–10 (1\u2009mg)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 contiguous fractions"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sample clean-up by solid phase extraction (SPE strata-X-C, Phenomenex)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-solution digestions with LysC and trypsin."
+    ],
+    "Characteristics[Label]": [
+      "isobaric tandem masstags (Thermo Scientific)"
+    ],
+    "Characteristics[Depletion]": [
+      "The most abundant proteins in plasma were depleted with the Agilent Plasma 14 Multiple Removal System 4.6\u00d7100, which was set up on an Agilent HPLC system (Agilent Technologies)."
+    ],
+    "Characteristics[Specimen]": [
+      "plasma"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic CM"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "45 plasma samples from 24 patients with HiRIEF LC-MS/MS (21 matched)"
+    ]
+  },
+  "LJMP_Melanoma_QE_20170310_TMT_set1_1mgIPG3-10_fr02.raw": {
+    "Source Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set1_1mgIPG3-10"
+    ],
+    "Assay Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set1_1mgIPG3-10_fr02"
+    ],
+    "Raw Data File": [
+      "LJMP_Melanoma_QE_20170310_TMT_set1_1mgIPG3-10_fr02.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr02"
+    ],
+    "Comment[Instrument]": [
+      "QE"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "HiRIEF LC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptide IEF-IPG (isoelectric focusing by immobilized pH gradient) in pI range 3–10 (1\u2009mg)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 contiguous fractions"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sample clean-up by solid phase extraction (SPE strata-X-C, Phenomenex)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-solution digestions with LysC and trypsin."
+    ],
+    "Characteristics[Label]": [
+      "isobaric tandem masstags (Thermo Scientific)"
+    ],
+    "Characteristics[Depletion]": [
+      "The most abundant proteins in plasma were depleted with the Agilent Plasma 14 Multiple Removal System 4.6\u00d7100, which was set up on an Agilent HPLC system (Agilent Technologies)."
+    ],
+    "Characteristics[Specimen]": [
+      "plasma"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic CM"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "45 plasma samples from 24 patients with HiRIEF LC-MS/MS (21 matched)"
+    ]
+  },
+  "LJMP_Melanoma_QE_20170310_TMT_set3_1mgIPG3-10_fr03.raw": {
+    "Source Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set3_1mgIPG3-10"
+    ],
+    "Assay Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set3_1mgIPG3-10_fr03"
+    ],
+    "Raw Data File": [
+      "LJMP_Melanoma_QE_20170310_TMT_set3_1mgIPG3-10_fr03.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr03"
+    ],
+    "Comment[Instrument]": [
+      "QE"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "HiRIEF LC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptide IEF-IPG (isoelectric focusing by immobilized pH gradient) in pI range 3–10 (1\u2009mg)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 contiguous fractions"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sample clean-up by solid phase extraction (SPE strata-X-C, Phenomenex)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-solution digestions with LysC and trypsin."
+    ],
+    "Characteristics[Label]": [
+      "isobaric tandem masstags (Thermo Scientific)"
+    ],
+    "Characteristics[Depletion]": [
+      "The most abundant proteins in plasma were depleted with the Agilent Plasma 14 Multiple Removal System 4.6\u00d7100, which was set up on an Agilent HPLC system (Agilent Technologies)."
+    ],
+    "Characteristics[Specimen]": [
+      "plasma"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic CM"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "45 plasma samples from 24 patients with HiRIEF LC-MS/MS (21 matched)"
+    ]
+  },
+  "LJMP_Melanoma_QE_20170310_TMT_set3_1mgIPG3-10_fr31.raw": {
+    "Source Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set3_1mgIPG3-10"
+    ],
+    "Assay Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set3_1mgIPG3-10_fr31"
+    ],
+    "Raw Data File": [
+      "LJMP_Melanoma_QE_20170310_TMT_set3_1mgIPG3-10_fr31.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr31"
+    ],
+    "Comment[Instrument]": [
+      "QE"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "HiRIEF LC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptide IEF-IPG (isoelectric focusing by immobilized pH gradient) in pI range 3–10 (1\u2009mg)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 contiguous fractions"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sample clean-up by solid phase extraction (SPE strata-X-C, Phenomenex)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-solution digestions with LysC and trypsin."
+    ],
+    "Characteristics[Label]": [
+      "isobaric tandem masstags (Thermo Scientific)"
+    ],
+    "Characteristics[Depletion]": [
+      "The most abundant proteins in plasma were depleted with the Agilent Plasma 14 Multiple Removal System 4.6\u00d7100, which was set up on an Agilent HPLC system (Agilent Technologies)."
+    ],
+    "Characteristics[Specimen]": [
+      "plasma"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic CM"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "45 plasma samples from 24 patients with HiRIEF LC-MS/MS (21 matched)"
+    ]
+  },
+  "LJMP_Melanoma_QE_20170310_TMT_set1_1mgIPG3-10_fr21.raw": {
+    "Source Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set1_1mgIPG3-10"
+    ],
+    "Assay Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set1_1mgIPG3-10_fr21"
+    ],
+    "Raw Data File": [
+      "LJMP_Melanoma_QE_20170310_TMT_set1_1mgIPG3-10_fr21.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr21"
+    ],
+    "Comment[Instrument]": [
+      "QE"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "HiRIEF LC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptide IEF-IPG (isoelectric focusing by immobilized pH gradient) in pI range 3–10 (1\u2009mg)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 contiguous fractions"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sample clean-up by solid phase extraction (SPE strata-X-C, Phenomenex)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-solution digestions with LysC and trypsin."
+    ],
+    "Characteristics[Label]": [
+      "isobaric tandem masstags (Thermo Scientific)"
+    ],
+    "Characteristics[Depletion]": [
+      "The most abundant proteins in plasma were depleted with the Agilent Plasma 14 Multiple Removal System 4.6\u00d7100, which was set up on an Agilent HPLC system (Agilent Technologies)."
+    ],
+    "Characteristics[Specimen]": [
+      "plasma"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic CM"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "45 plasma samples from 24 patients with HiRIEF LC-MS/MS (21 matched)"
+    ]
+  },
+  "LJMP_Melanoma_QE_20170310_TMT_set5_1mgIPG3-10_fr22.raw": {
+    "Source Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set5_1mgIPG3-10"
+    ],
+    "Assay Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set5_1mgIPG3-10_fr22"
+    ],
+    "Raw Data File": [
+      "LJMP_Melanoma_QE_20170310_TMT_set5_1mgIPG3-10_fr22.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr22"
+    ],
+    "Comment[Instrument]": [
+      "QE"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "HiRIEF LC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptide IEF-IPG (isoelectric focusing by immobilized pH gradient) in pI range 3–10 (1\u2009mg)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 contiguous fractions"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sample clean-up by solid phase extraction (SPE strata-X-C, Phenomenex)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-solution digestions with LysC and trypsin."
+    ],
+    "Characteristics[Label]": [
+      "isobaric tandem masstags (Thermo Scientific)"
+    ],
+    "Characteristics[Depletion]": [
+      "The most abundant proteins in plasma were depleted with the Agilent Plasma 14 Multiple Removal System 4.6\u00d7100, which was set up on an Agilent HPLC system (Agilent Technologies)."
+    ],
+    "Characteristics[Specimen]": [
+      "plasma"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic CM"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "45 plasma samples from 24 patients with HiRIEF LC-MS/MS (21 matched)"
+    ]
+  },
+  "LJMP_Melanoma_QE_20170310_TMT_set5_1mgIPG3-10_fr31.raw": {
+    "Source Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set5_1mgIPG3-10"
+    ],
+    "Assay Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set5_1mgIPG3-10_fr31"
+    ],
+    "Raw Data File": [
+      "LJMP_Melanoma_QE_20170310_TMT_set5_1mgIPG3-10_fr31.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr31"
+    ],
+    "Comment[Instrument]": [
+      "QE"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "HiRIEF LC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptide IEF-IPG (isoelectric focusing by immobilized pH gradient) in pI range 3–10 (1\u2009mg)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 contiguous fractions"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sample clean-up by solid phase extraction (SPE strata-X-C, Phenomenex)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-solution digestions with LysC and trypsin."
+    ],
+    "Characteristics[Label]": [
+      "isobaric tandem masstags (Thermo Scientific)"
+    ],
+    "Characteristics[Depletion]": [
+      "The most abundant proteins in plasma were depleted with the Agilent Plasma 14 Multiple Removal System 4.6\u00d7100, which was set up on an Agilent HPLC system (Agilent Technologies)."
+    ],
+    "Characteristics[Specimen]": [
+      "plasma"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic CM"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "45 plasma samples from 24 patients with HiRIEF LC-MS/MS (21 matched)"
+    ]
+  },
+  "LJMP_Melanoma_QE_20170310_TMT_set3_1mgIPG3-10_fr33.raw": {
+    "Source Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set3_1mgIPG3-10"
+    ],
+    "Assay Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set3_1mgIPG3-10_fr33"
+    ],
+    "Raw Data File": [
+      "LJMP_Melanoma_QE_20170310_TMT_set3_1mgIPG3-10_fr33.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr33"
+    ],
+    "Comment[Instrument]": [
+      "QE"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "HiRIEF LC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptide IEF-IPG (isoelectric focusing by immobilized pH gradient) in pI range 3–10 (1\u2009mg)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 contiguous fractions"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sample clean-up by solid phase extraction (SPE strata-X-C, Phenomenex)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-solution digestions with LysC and trypsin."
+    ],
+    "Characteristics[Label]": [
+      "isobaric tandem masstags (Thermo Scientific)"
+    ],
+    "Characteristics[Depletion]": [
+      "The most abundant proteins in plasma were depleted with the Agilent Plasma 14 Multiple Removal System 4.6\u00d7100, which was set up on an Agilent HPLC system (Agilent Technologies)."
+    ],
+    "Characteristics[Specimen]": [
+      "plasma"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic CM"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "45 plasma samples from 24 patients with HiRIEF LC-MS/MS (21 matched)"
+    ]
+  },
+  "LJMP_Melanoma_QE_20170310_TMT_set3_1mgIPG3-10_fr01.raw": {
+    "Source Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set3_1mgIPG3-10"
+    ],
+    "Assay Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set3_1mgIPG3-10_fr01"
+    ],
+    "Raw Data File": [
+      "LJMP_Melanoma_QE_20170310_TMT_set3_1mgIPG3-10_fr01.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr01"
+    ],
+    "Comment[Instrument]": [
+      "QE"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "HiRIEF LC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptide IEF-IPG (isoelectric focusing by immobilized pH gradient) in pI range 3–10 (1\u2009mg)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 contiguous fractions"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sample clean-up by solid phase extraction (SPE strata-X-C, Phenomenex)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-solution digestions with LysC and trypsin."
+    ],
+    "Characteristics[Label]": [
+      "isobaric tandem masstags (Thermo Scientific)"
+    ],
+    "Characteristics[Depletion]": [
+      "The most abundant proteins in plasma were depleted with the Agilent Plasma 14 Multiple Removal System 4.6\u00d7100, which was set up on an Agilent HPLC system (Agilent Technologies)."
+    ],
+    "Characteristics[Specimen]": [
+      "plasma"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic CM"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "45 plasma samples from 24 patients with HiRIEF LC-MS/MS (21 matched)"
+    ]
+  },
+  "LJMP_Melanoma_QE_20170310_TMT_set5_1mgIPG3-10_fr24.raw": {
+    "Source Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set5_1mgIPG3-10"
+    ],
+    "Assay Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set5_1mgIPG3-10_fr24"
+    ],
+    "Raw Data File": [
+      "LJMP_Melanoma_QE_20170310_TMT_set5_1mgIPG3-10_fr24.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr24"
+    ],
+    "Comment[Instrument]": [
+      "QE"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "HiRIEF LC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptide IEF-IPG (isoelectric focusing by immobilized pH gradient) in pI range 3–10 (1\u2009mg)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 contiguous fractions"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sample clean-up by solid phase extraction (SPE strata-X-C, Phenomenex)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-solution digestions with LysC and trypsin."
+    ],
+    "Characteristics[Label]": [
+      "isobaric tandem masstags (Thermo Scientific)"
+    ],
+    "Characteristics[Depletion]": [
+      "The most abundant proteins in plasma were depleted with the Agilent Plasma 14 Multiple Removal System 4.6\u00d7100, which was set up on an Agilent HPLC system (Agilent Technologies)."
+    ],
+    "Characteristics[Specimen]": [
+      "plasma"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic CM"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "45 plasma samples from 24 patients with HiRIEF LC-MS/MS (21 matched)"
+    ]
+  },
+  "LJMP_Melanoma_QE_20170310_TMT_set1_1mgIPG3-10_fr11.raw": {
+    "Source Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set1_1mgIPG3-10"
+    ],
+    "Assay Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set1_1mgIPG3-10_fr11"
+    ],
+    "Raw Data File": [
+      "LJMP_Melanoma_QE_20170310_TMT_set1_1mgIPG3-10_fr11.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr11"
+    ],
+    "Comment[Instrument]": [
+      "QE"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "HiRIEF LC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptide IEF-IPG (isoelectric focusing by immobilized pH gradient) in pI range 3–10 (1\u2009mg)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 contiguous fractions"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sample clean-up by solid phase extraction (SPE strata-X-C, Phenomenex)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-solution digestions with LysC and trypsin."
+    ],
+    "Characteristics[Label]": [
+      "isobaric tandem masstags (Thermo Scientific)"
+    ],
+    "Characteristics[Depletion]": [
+      "The most abundant proteins in plasma were depleted with the Agilent Plasma 14 Multiple Removal System 4.6\u00d7100, which was set up on an Agilent HPLC system (Agilent Technologies)."
+    ],
+    "Characteristics[Specimen]": [
+      "plasma"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic CM"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "45 plasma samples from 24 patients with HiRIEF LC-MS/MS (21 matched)"
+    ]
+  },
+  "LJMP_Melanoma_QE_20170310_TMT_set3_1mgIPG3-10_fr22.raw": {
+    "Source Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set3_1mgIPG3-10"
+    ],
+    "Assay Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set3_1mgIPG3-10_fr22"
+    ],
+    "Raw Data File": [
+      "LJMP_Melanoma_QE_20170310_TMT_set3_1mgIPG3-10_fr22.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr22"
+    ],
+    "Comment[Instrument]": [
+      "QE"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "HiRIEF LC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptide IEF-IPG (isoelectric focusing by immobilized pH gradient) in pI range 3–10 (1\u2009mg)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 contiguous fractions"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sample clean-up by solid phase extraction (SPE strata-X-C, Phenomenex)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-solution digestions with LysC and trypsin."
+    ],
+    "Characteristics[Label]": [
+      "isobaric tandem masstags (Thermo Scientific)"
+    ],
+    "Characteristics[Depletion]": [
+      "The most abundant proteins in plasma were depleted with the Agilent Plasma 14 Multiple Removal System 4.6\u00d7100, which was set up on an Agilent HPLC system (Agilent Technologies)."
+    ],
+    "Characteristics[Specimen]": [
+      "plasma"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic CM"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "45 plasma samples from 24 patients with HiRIEF LC-MS/MS (21 matched)"
+    ]
+  },
+  "LJMP_Melanoma_QE_20170310_TMT_set4_1mgIPG3-10_fr62.raw": {
+    "Source Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set4_1mgIPG3-10"
+    ],
+    "Assay Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set4_1mgIPG3-10_fr62"
+    ],
+    "Raw Data File": [
+      "LJMP_Melanoma_QE_20170310_TMT_set4_1mgIPG3-10_fr62.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr62"
+    ],
+    "Comment[Instrument]": [
+      "QE"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "HiRIEF LC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptide IEF-IPG (isoelectric focusing by immobilized pH gradient) in pI range 3–10 (1\u2009mg)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 contiguous fractions"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sample clean-up by solid phase extraction (SPE strata-X-C, Phenomenex)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-solution digestions with LysC and trypsin."
+    ],
+    "Characteristics[Label]": [
+      "isobaric tandem masstags (Thermo Scientific)"
+    ],
+    "Characteristics[Depletion]": [
+      "The most abundant proteins in plasma were depleted with the Agilent Plasma 14 Multiple Removal System 4.6\u00d7100, which was set up on an Agilent HPLC system (Agilent Technologies)."
+    ],
+    "Characteristics[Specimen]": [
+      "plasma"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic CM"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "45 plasma samples from 24 patients with HiRIEF LC-MS/MS (21 matched)"
+    ]
+  },
+  "LJMP_Melanoma_QE_20170310_TMT_set1_1mgIPG3-10_fr33.raw": {
+    "Source Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set1_1mgIPG3-10"
+    ],
+    "Assay Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set1_1mgIPG3-10_fr33"
+    ],
+    "Raw Data File": [
+      "LJMP_Melanoma_QE_20170310_TMT_set1_1mgIPG3-10_fr33.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr33"
+    ],
+    "Comment[Instrument]": [
+      "QE"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "HiRIEF LC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptide IEF-IPG (isoelectric focusing by immobilized pH gradient) in pI range 3–10 (1\u2009mg)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 contiguous fractions"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sample clean-up by solid phase extraction (SPE strata-X-C, Phenomenex)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-solution digestions with LysC and trypsin."
+    ],
+    "Characteristics[Label]": [
+      "isobaric tandem masstags (Thermo Scientific)"
+    ],
+    "Characteristics[Depletion]": [
+      "The most abundant proteins in plasma were depleted with the Agilent Plasma 14 Multiple Removal System 4.6\u00d7100, which was set up on an Agilent HPLC system (Agilent Technologies)."
+    ],
+    "Characteristics[Specimen]": [
+      "plasma"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic CM"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "45 plasma samples from 24 patients with HiRIEF LC-MS/MS (21 matched)"
+    ]
+  },
+  "LJMP_Melanoma_QE_20170310_TMT_set1_1mgIPG3-10_fr57.raw": {
+    "Source Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set1_1mgIPG3-10"
+    ],
+    "Assay Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set1_1mgIPG3-10_fr57"
+    ],
+    "Raw Data File": [
+      "LJMP_Melanoma_QE_20170310_TMT_set1_1mgIPG3-10_fr57.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr57"
+    ],
+    "Comment[Instrument]": [
+      "QE"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "HiRIEF LC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptide IEF-IPG (isoelectric focusing by immobilized pH gradient) in pI range 3–10 (1\u2009mg)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 contiguous fractions"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sample clean-up by solid phase extraction (SPE strata-X-C, Phenomenex)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-solution digestions with LysC and trypsin."
+    ],
+    "Characteristics[Label]": [
+      "isobaric tandem masstags (Thermo Scientific)"
+    ],
+    "Characteristics[Depletion]": [
+      "The most abundant proteins in plasma were depleted with the Agilent Plasma 14 Multiple Removal System 4.6\u00d7100, which was set up on an Agilent HPLC system (Agilent Technologies)."
+    ],
+    "Characteristics[Specimen]": [
+      "plasma"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic CM"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "45 plasma samples from 24 patients with HiRIEF LC-MS/MS (21 matched)"
+    ]
+  },
+  "LJMP_Melanoma_QE_20170310_TMT_set3_1mgIPG3-10_fr58.raw": {
+    "Source Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set3_1mgIPG3-10"
+    ],
+    "Assay Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set3_1mgIPG3-10_fr58"
+    ],
+    "Raw Data File": [
+      "LJMP_Melanoma_QE_20170310_TMT_set3_1mgIPG3-10_fr58.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr58"
+    ],
+    "Comment[Instrument]": [
+      "QE"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "HiRIEF LC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptide IEF-IPG (isoelectric focusing by immobilized pH gradient) in pI range 3–10 (1\u2009mg)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 contiguous fractions"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sample clean-up by solid phase extraction (SPE strata-X-C, Phenomenex)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-solution digestions with LysC and trypsin."
+    ],
+    "Characteristics[Label]": [
+      "isobaric tandem masstags (Thermo Scientific)"
+    ],
+    "Characteristics[Depletion]": [
+      "The most abundant proteins in plasma were depleted with the Agilent Plasma 14 Multiple Removal System 4.6\u00d7100, which was set up on an Agilent HPLC system (Agilent Technologies)."
+    ],
+    "Characteristics[Specimen]": [
+      "plasma"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic CM"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "45 plasma samples from 24 patients with HiRIEF LC-MS/MS (21 matched)"
+    ]
+  },
+  "LJMP_Melanoma_QE_20170310_TMT_set4_1mgIPG3-10_fr59.raw": {
+    "Source Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set4_1mgIPG3-10"
+    ],
+    "Assay Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set4_1mgIPG3-10_fr59"
+    ],
+    "Raw Data File": [
+      "LJMP_Melanoma_QE_20170310_TMT_set4_1mgIPG3-10_fr59.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr59"
+    ],
+    "Comment[Instrument]": [
+      "QE"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "HiRIEF LC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptide IEF-IPG (isoelectric focusing by immobilized pH gradient) in pI range 3–10 (1\u2009mg)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 contiguous fractions"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sample clean-up by solid phase extraction (SPE strata-X-C, Phenomenex)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-solution digestions with LysC and trypsin."
+    ],
+    "Characteristics[Label]": [
+      "isobaric tandem masstags (Thermo Scientific)"
+    ],
+    "Characteristics[Depletion]": [
+      "The most abundant proteins in plasma were depleted with the Agilent Plasma 14 Multiple Removal System 4.6\u00d7100, which was set up on an Agilent HPLC system (Agilent Technologies)."
+    ],
+    "Characteristics[Specimen]": [
+      "plasma"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic CM"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "45 plasma samples from 24 patients with HiRIEF LC-MS/MS (21 matched)"
+    ]
+  },
+  "LJMP_Melanoma_QE_20170310_TMT_set4_1mgIPG3-10_fr07.raw": {
+    "Source Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set4_1mgIPG3-10"
+    ],
+    "Assay Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set4_1mgIPG3-10_fr07"
+    ],
+    "Raw Data File": [
+      "LJMP_Melanoma_QE_20170310_TMT_set4_1mgIPG3-10_fr07.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr07"
+    ],
+    "Comment[Instrument]": [
+      "QE"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "HiRIEF LC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptide IEF-IPG (isoelectric focusing by immobilized pH gradient) in pI range 3–10 (1\u2009mg)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 contiguous fractions"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sample clean-up by solid phase extraction (SPE strata-X-C, Phenomenex)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-solution digestions with LysC and trypsin."
+    ],
+    "Characteristics[Label]": [
+      "isobaric tandem masstags (Thermo Scientific)"
+    ],
+    "Characteristics[Depletion]": [
+      "The most abundant proteins in plasma were depleted with the Agilent Plasma 14 Multiple Removal System 4.6\u00d7100, which was set up on an Agilent HPLC system (Agilent Technologies)."
+    ],
+    "Characteristics[Specimen]": [
+      "plasma"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic CM"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "45 plasma samples from 24 patients with HiRIEF LC-MS/MS (21 matched)"
+    ]
+  },
+  "LJMP_Melanoma_QE_20170310_TMT_set2_1mgIPG3-10_fr67.raw": {
+    "Source Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set2_1mgIPG3-10"
+    ],
+    "Assay Name": [
+      "LJMP_Melanoma_QE_20170310_TMT_set2_1mgIPG3-10_fr67"
+    ],
+    "Raw Data File": [
+      "LJMP_Melanoma_QE_20170310_TMT_set2_1mgIPG3-10_fr67.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr67"
+    ],
+    "Comment[Instrument]": [
+      "QE"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "HiRIEF LC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptide IEF-IPG (isoelectric focusing by immobilized pH gradient) in pI range 3–10 (1\u2009mg)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 contiguous fractions"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sample clean-up by solid phase extraction (SPE strata-X-C, Phenomenex)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-solution digestions with LysC and trypsin."
+    ],
+    "Characteristics[Label]": [
+      "isobaric tandem masstags (Thermo Scientific)"
+    ],
+    "Characteristics[Depletion]": [
+      "The most abundant proteins in plasma were depleted with the Agilent Plasma 14 Multiple Removal System 4.6\u00d7100, which was set up on an Agilent HPLC system (Agilent Technologies)."
+    ],
+    "Characteristics[Specimen]": [
+      "plasma"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic CM"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "45 plasma samples from 24 patients with HiRIEF LC-MS/MS (21 matched)"
+    ]
+  }
+}

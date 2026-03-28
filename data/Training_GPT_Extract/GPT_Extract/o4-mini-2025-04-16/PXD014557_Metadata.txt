@@ -1,0 +1,55 @@
+Disease: Alzheimer Disease*
+Disease: Alzheimer disease (AD)
+Organism: postmortem human brain tissue
+Specimen: microdissected tissues
+Specimen: Consecutive sections (20 μm)
+Specimen: paraffin-embedded hippocampal sections (5 μm)
+CellType: MOPP (molecular layer perforant path-associated) cells
+OrganismPart: outer two-thirds of the molecular layer of the dentate gyrus
+Instrument: UltiMate™ 3000 RSLCnano System
+Instrument: hybrid Q-Exactive-HF mass spectrometer
+FractionationMethod: high resolution isoelectric focusing (HiRIEF) protocol
+NumberOfFractions: 72 fractions
+ReductionReagent: DTT
+ConcentrationOfCompound: 1 mm DTT
+AlkylationReagent: chloroacetamide
+ConcentrationOfCompound: 4 mm chloroacetamide
+Compound: SDS
+ConcentrationOfCompound: 4% SDS
+Compound: Hepes
+ConcentrationOfCompound: 25 mm Hepes pH 7.6
+CleavageAgent: Lys-C
+CleavageAgent: trypsin
+Time: 16 h
+Temperature: 95 °C
+Time: 5 min
+Time: 1 min
+FlowRateChromatogram: 250 nl/min
+PrecursorMassTolerance: 10 ppm
+FragmentMassTolerance: 0.02 Da
+FragmentationMethod: higher energy collision dissociation
+CollisionEnergy: 30–40% normalized collision energy
+NumberOfMissedCleavages: maximum 2 missed cleavages
+Modification: TMT10plex on lysine residues and peptide N termini
+Modification: carbamidomethylation on cysteine residues
+Modification: oxidation on methionine residues
+NumberOfTechnicalReplicates: No technical replicates were performed
+NumberOfSamples: ten samples
+BiologicalReplicate: five subjects with AD
+BiologicalReplicate: five controls
+Genotype: ApoE4 carriers
+SampleTreatment: fixed in 75% ethanol
+Staining: toluidine blue
+Temperature: 110 °C
+Time: 30 min
+Staining: DAB
+SourceName: Netherlands Brain Bank
+SourceName: Carroll A. Campbell Jr. Neuropathology Laboratory (CCNL) Brain Bank
+FactorValue: AD Braak stage 4
+FactorValue: amyloid deposits stage C
+FactorValue: AD Braak stage 0–2
+FactorValue: amyloid deposits stage 0-B
+AssayName: quantitative MS
+AssayName: LC-MS/MS
+AssayName: immunohistochemistry
+SupplementaryFile: PXD014557

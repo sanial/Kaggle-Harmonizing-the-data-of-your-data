@@ -1,0 +1,37 @@
+AssayName: label-free shotgun approach  
+Organism: Balb/c mice  
+Sex: female  
+Age: 30 days  
+Compound: ketamine hydrochloride  
+ConcentrationOfCompound: 8 mg/kg  
+Compound: xylazine  
+ConcentrationOfCompound: 4 mg/kg  
+Treatment: infected by S. mansoni larvae (LE strain) through tail immersion  
+Time: After 7 weeks of infection  
+OrganismPart: spleens  
+SourceName: spleens  
+SampleTreatment: washed and maintained in 2 mL of ice-cold RPMI media  
+SourceName: isolated spleen cells  
+MaterialType: isolated spleen cells  
+Specimen: Tissue sections of approximately 0.5 cm2  
+Specimen: Tissue sections of approximately 4 μm thick  
+Temperature: 80°C  
+Temperature: 60°C  
+Temperature: 37°C  
+ReductionReagent: dithiothreitol  
+AlkylationReagent: iodoacetamide  
+CleavageAgent: sequencing grade trypsin  
+Compound: RapiGest  
+ConcentrationOfCompound: 0.06% w/v  
+Compound: trifluoroacetic acid  
+ConcentrationOfCompound: 0.5% v/v  
+Instrument: Q Exactive mass spectrometer  
+FlowRateChromatogram: 7 μL/min  
+FlowRateChromatogram: 0.3 μL/min  
+GradientTime: 120min  
+FragmentationMethod: Higher Energy Collision Induced Dissociation (HCD)  
+CollisionEnergy: 28–30  
+PrecursorMassTolerance: 10 ppm  
+MS2MassAnalyzer: Orbitrap  
+NumberOfBiologicalReplicates: Three  
+PooledSample: pooled extracts of five animals

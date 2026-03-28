@@ -1,0 +1,28 @@
+MaterialType: neuromelanin granules  
+OrganismPart: human substantia nigra  
+AssayName: Proteomic characterization  
+EnrichmentMethod: laser-microdissection  
+AssayName: mass spectrometry  
+NumberOfSamples: ten 10 μm tissue sections  
+Instrument: Microm HM550 cryostat  
+Instrument: PALM Micro Beam, P.A.L.M.-System  
+Instrument: UltiMate 3000 RSLC nano LC system  
+Instrument: Orbitrap Elite mass spectrometer  
+ReductionReagent: 250 mM dithiothreitol  
+AlkylationReagent: 0.55 M iodoacetamide  
+CleavageAgent: Trypsin  
+AssayName: Liquid chromatography tandem mass spectrometry  
+FlowRateChromatogram: 400 nL/min  
+GradientTime: 95 min  
+GradientTime: 2 min  
+GradientTime: 3 min  
+IonizationType: nano electrospray ionization source  
+CollisionEnergy: 35% collision energy  
+PrecursorMassTolerance: 5 ppm  
+FragmentMassTolerance: 0.4 Da  
+NumberOfMissedCleavages: one possible missed cleavage site  
+Modification: Methionine oxidation  
+Modification: carbamidomethylation at cysteine  
+SupplementaryFile: PXD004987  
+Temperature: 60 °C  
+Temperature: 37 °C

@@ -1,0 +1,31 @@
+AssayName: a label-free; MS (Mass Spectrometry)-based phosphoproteomic approach  
+BiologicalReplicate: three biological replicates  
+Compound: abscisic acid (ABA)  
+ConcentrationOfCompound: 100 µM ABA  
+Organism: Rice (Oryza sativa L.)  
+Strain: Nipponbare  
+Age: Fourteen-day-old  
+OrganismPart: young seedlings  
+Specimen: whole seedling samples  
+Temperature: 28 °C  
+SourceName: Sigma, St. Louis, MO, USA  
+ReductionReagent: 2% β-Mercaptoethanol  
+ReductionReagent: 5 mM DTT (DL-Dithiothreitol)  
+AlkylationReagent: 20 mM IAA (indole-3-acetic acid)  
+CleavageAgent: trypsin  
+EnrichmentMethod: TiO2 beads (GL sciences, Tokyo, Japan)  
+Instrument: Q-Exactive Plus  
+MS2MassAnalyzer: Orbitrap  
+CollisionEnergy: 27%  
+PrecursorMassTolerance: 20 ppm  
+FragmentMassTolerance: 50 mmu  
+NumberOfMissedCleavages: Two missed cleavage  
+FlowRateChromatogram: 500 nL/min  
+Modification: Oxidation (M)  
+Modification: Acetyl (Protein-N term)  
+Modification: Phospho (S/T/Y)  
+Modification: Carbamidomethyl (C)  
+SamplingTime: CK  
+SamplingTime: 3 h  
+SamplingTime: 12 h  
+SupplementaryFile: PXD004939

@@ -1,0 +1,43 @@
+AssayName: high-resolution mass spectrometry  
+AssayName: nanoscale LC-MS/MS  
+Organism: human cells  
+CellLine: HeLa  
+CellLine: U2-OS  
+Treatment: SUMO protease inhibition  
+Treatment: proteasome inhibition  
+Treatment: heat shock  
+CleavageAgent: Sequencing Grade Endoproteinase Lys-C  
+CleavageAgent: trypsin  
+ReductionReagent: dithiothreitol (DTT)  
+AlkylationReagent: chloroacetamide  
+EnrichmentMethod: Ni-NTA agarose beads  
+EnrichmentMethod: triple-disc C18 reverse phase StageTips  
+Instrument: Q-Exactive (Thermo)  
+AcquisitionMethod: data-dependent acquisition mode  
+FragmentationMethod: Higher-Collisional Dissociation (HCD)  
+FractionationMethod: without further fractionation  
+GradientTime: 120 minute gradient  
+FlowRateChromatogram: 250 nL per minute  
+PrecursorMassTolerance: mass tolerance of 6 ppm for precursor masses  
+FragmentMassTolerance: mass tolerance of 20 ppm for fragment ions  
+NumberOfTechnicalReplicates: 11 technical replicates  
+NumberOfTechnicalReplicates: 6 technical replicates  
+NumberOfTechnicalReplicates: 9 technical replicates  
+NumberOfBiologicalReplicates: biological hexuplicate  
+NumberOfBiologicalReplicates: biological quintuplicate  
+NumberOfBiologicalReplicates: biological triplicate  
+ConcentrationOfCompound: 10 μM MG-132  
+ConcentrationOfCompound: 20 μM PR-619  
+ConcentrationOfCompound: 150 nM  
+ConcentrationOfCompound: 600 nM  
+ConcentrationOfCompound: 25 μM  
+ConcentrationOfCompound: 50 μM  
+Time: for 7 hours  
+Time: for 1 hour  
+Time: for 18 hours  
+Time: after 24 hours  
+Time: after 48 hours  
+Temperature: 43°C  
+Separation: 20 cm long analytical columns (ID 75 μm, Polymicro Avantes) packed in-house with 1.8 μm C18 beads (Reprospher 100)  
+GeneticModification: His10-SUMO-2-K0-Q87R  
+GeneticModification: His10-SUMO-2 wild-type

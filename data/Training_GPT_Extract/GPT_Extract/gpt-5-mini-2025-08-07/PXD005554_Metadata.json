@@ -1,0 +1,3328 @@
+{
+  "150911_174_AN_G138_C1_f14.raw": {
+    "Source Name": [
+      "150911_174_AN_G138_C1"
+    ],
+    "Assay Name": [
+      "150911_174_AN_G138_C1_f14"
+    ],
+    "Raw Data File": [
+      "150911_174_AN_G138_C1_f14.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "f14"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "pre-digested with 1.6 μg of Lys-C (Pierce)",
+      "digested with bead-immobilized trypsin (40 μL of beads per 250 μg of protein; Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide at a final concentration of 8.3 mM"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC1000 (Thermo Scientific)",
+      "QExactive mass spectrometer (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[GradientTime]": [
+      "140 min gradient"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normal collision energy of 28"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm mass tolerance for precursor ions"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "15 mmu for fragment-ion mass tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages of trypsin"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via high-pH reversed-phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 15 fractions non-contiguously (1 + 16 + 31 + 46 + 61, 2 + 17 + 32 + 47 + 62, etc.)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 1 mL/min."
+    ],
+    "Comment[IonizationType]": [
+      "nanoelectrospray"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "ECM proteins were enriched from frozen whole tissue or tumor sections (20 × 30 μm sections, ∼40−50 mg of tissue)"
+    ],
+    "Characteristics[Organism]": [
+      "SwissProt Homo sapiens database containing 20 199 entries."
+    ],
+    "Characteristics[Specimen]": [
+      "ECM-enriched samples"
+    ]
+  },
+  "150911_174_AN_G138_C1_f7.raw": {
+    "Source Name": [
+      "150911_174_AN_G138_C1"
+    ],
+    "Assay Name": [
+      "150911_174_AN_G138_C1_f7"
+    ],
+    "Raw Data File": [
+      "150911_174_AN_G138_C1_f7.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "f7"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "pre-digested with 1.6 μg of Lys-C (Pierce)",
+      "digested with bead-immobilized trypsin (40 μL of beads per 250 μg of protein; Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide at a final concentration of 8.3 mM"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC1000 (Thermo Scientific)",
+      "QExactive mass spectrometer (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[GradientTime]": [
+      "140 min gradient"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normal collision energy of 28"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm mass tolerance for precursor ions"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "15 mmu for fragment-ion mass tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages of trypsin"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via high-pH reversed-phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 15 fractions non-contiguously (1 + 16 + 31 + 46 + 61, 2 + 17 + 32 + 47 + 62, etc.)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 1 mL/min."
+    ],
+    "Comment[IonizationType]": [
+      "nanoelectrospray"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "ECM proteins were enriched from frozen whole tissue or tumor sections (20 × 30 μm sections, ∼40−50 mg of tissue)"
+    ],
+    "Characteristics[Organism]": [
+      "SwissProt Homo sapiens database containing 20 199 entries."
+    ],
+    "Characteristics[Specimen]": [
+      "ECM-enriched samples"
+    ]
+  },
+  "160123_210_AN_13.raw": {
+    "Source Name": [
+      "160123_210_AN_13"
+    ],
+    "Assay Name": [
+      "160123_210_AN_13"
+    ],
+    "Raw Data File": [
+      "160123_210_AN_13.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "pre-digested with 1.6 μg of Lys-C (Pierce)",
+      "digested with bead-immobilized trypsin (40 μL of beads per 250 μg of protein; Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide at a final concentration of 8.3 mM"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC1000 (Thermo Scientific)",
+      "QExactive mass spectrometer (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[GradientTime]": [
+      "140 min gradient"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normal collision energy of 28"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm mass tolerance for precursor ions"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "15 mmu for fragment-ion mass tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages of trypsin"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via high-pH reversed-phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 15 fractions non-contiguously (1 + 16 + 31 + 46 + 61, 2 + 17 + 32 + 47 + 62, etc.)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 1 mL/min."
+    ],
+    "Comment[IonizationType]": [
+      "nanoelectrospray"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "ECM proteins were enriched from frozen whole tissue or tumor sections (20 × 30 μm sections, ∼40−50 mg of tissue)"
+    ],
+    "Characteristics[Organism]": [
+      "SwissProt Homo sapiens database containing 20 199 entries."
+    ],
+    "Characteristics[Specimen]": [
+      "ECM-enriched samples"
+    ]
+  },
+  "160123_210_AN_2.raw": {
+    "Source Name": [
+      "160123_210_AN_2"
+    ],
+    "Assay Name": [
+      "160123_210_AN_2"
+    ],
+    "Raw Data File": [
+      "160123_210_AN_2.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "pre-digested with 1.6 μg of Lys-C (Pierce)",
+      "digested with bead-immobilized trypsin (40 μL of beads per 250 μg of protein; Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide at a final concentration of 8.3 mM"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC1000 (Thermo Scientific)",
+      "QExactive mass spectrometer (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[GradientTime]": [
+      "140 min gradient"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normal collision energy of 28"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm mass tolerance for precursor ions"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "15 mmu for fragment-ion mass tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages of trypsin"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via high-pH reversed-phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 15 fractions non-contiguously (1 + 16 + 31 + 46 + 61, 2 + 17 + 32 + 47 + 62, etc.)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 1 mL/min."
+    ],
+    "Comment[IonizationType]": [
+      "nanoelectrospray"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "ECM proteins were enriched from frozen whole tissue or tumor sections (20 × 30 μm sections, ∼40−50 mg of tissue)"
+    ],
+    "Characteristics[Organism]": [
+      "SwissProt Homo sapiens database containing 20 199 entries."
+    ],
+    "Characteristics[Specimen]": [
+      "ECM-enriched samples"
+    ]
+  },
+  "160405_210_AN_5_f14.raw": {
+    "Source Name": [
+      "160405_210_AN_5"
+    ],
+    "Assay Name": [
+      "160405_210_AN_5_f14"
+    ],
+    "Raw Data File": [
+      "160405_210_AN_5_f14.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "f14"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "pre-digested with 1.6 μg of Lys-C (Pierce)",
+      "digested with bead-immobilized trypsin (40 μL of beads per 250 μg of protein; Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide at a final concentration of 8.3 mM"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC1000 (Thermo Scientific)",
+      "QExactive mass spectrometer (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[GradientTime]": [
+      "140 min gradient"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normal collision energy of 28"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm mass tolerance for precursor ions"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "15 mmu for fragment-ion mass tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages of trypsin"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via high-pH reversed-phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 15 fractions non-contiguously (1 + 16 + 31 + 46 + 61, 2 + 17 + 32 + 47 + 62, etc.)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 1 mL/min."
+    ],
+    "Comment[IonizationType]": [
+      "nanoelectrospray"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "ECM proteins were enriched from frozen whole tissue or tumor sections (20 × 30 μm sections, ∼40−50 mg of tissue)"
+    ],
+    "Characteristics[Organism]": [
+      "SwissProt Homo sapiens database containing 20 199 entries."
+    ],
+    "Characteristics[Specimen]": [
+      "ECM-enriched samples"
+    ]
+  },
+  "160403_210_AN_5_f12.raw": {
+    "Source Name": [
+      "160403_210_AN_5"
+    ],
+    "Assay Name": [
+      "160403_210_AN_5_f12"
+    ],
+    "Raw Data File": [
+      "160403_210_AN_5_f12.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "f12"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "pre-digested with 1.6 μg of Lys-C (Pierce)",
+      "digested with bead-immobilized trypsin (40 μL of beads per 250 μg of protein; Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide at a final concentration of 8.3 mM"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC1000 (Thermo Scientific)",
+      "QExactive mass spectrometer (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[GradientTime]": [
+      "140 min gradient"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normal collision energy of 28"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm mass tolerance for precursor ions"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "15 mmu for fragment-ion mass tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages of trypsin"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via high-pH reversed-phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 15 fractions non-contiguously (1 + 16 + 31 + 46 + 61, 2 + 17 + 32 + 47 + 62, etc.)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 1 mL/min."
+    ],
+    "Comment[IonizationType]": [
+      "nanoelectrospray"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "ECM proteins were enriched from frozen whole tissue or tumor sections (20 × 30 μm sections, ∼40−50 mg of tissue)"
+    ],
+    "Characteristics[Organism]": [
+      "SwissProt Homo sapiens database containing 20 199 entries."
+    ],
+    "Characteristics[Specimen]": [
+      "ECM-enriched samples"
+    ]
+  },
+  "150603_121_AN_G138_C2_f12.raw": {
+    "Source Name": [
+      "150603_121_AN_G138_C2"
+    ],
+    "Assay Name": [
+      "150603_121_AN_G138_C2_f12"
+    ],
+    "Raw Data File": [
+      "150603_121_AN_G138_C2_f12.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "f12"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "pre-digested with 1.6 μg of Lys-C (Pierce)",
+      "digested with bead-immobilized trypsin (40 μL of beads per 250 μg of protein; Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide at a final concentration of 8.3 mM"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC1000 (Thermo Scientific)",
+      "QExactive mass spectrometer (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[GradientTime]": [
+      "140 min gradient"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normal collision energy of 28"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm mass tolerance for precursor ions"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "15 mmu for fragment-ion mass tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages of trypsin"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via high-pH reversed-phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 15 fractions non-contiguously (1 + 16 + 31 + 46 + 61, 2 + 17 + 32 + 47 + 62, etc.)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 1 mL/min."
+    ],
+    "Comment[IonizationType]": [
+      "nanoelectrospray"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "ECM proteins were enriched from frozen whole tissue or tumor sections (20 × 30 μm sections, ∼40−50 mg of tissue)"
+    ],
+    "Characteristics[Organism]": [
+      "SwissProt Homo sapiens database containing 20 199 entries."
+    ],
+    "Characteristics[Specimen]": [
+      "ECM-enriched samples"
+    ]
+  },
+  "160123_210_AN_15.raw": {
+    "Source Name": [
+      "160123_210_AN_15"
+    ],
+    "Assay Name": [
+      "160123_210_AN_15"
+    ],
+    "Raw Data File": [
+      "160123_210_AN_15.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "pre-digested with 1.6 μg of Lys-C (Pierce)",
+      "digested with bead-immobilized trypsin (40 μL of beads per 250 μg of protein; Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide at a final concentration of 8.3 mM"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC1000 (Thermo Scientific)",
+      "QExactive mass spectrometer (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[GradientTime]": [
+      "140 min gradient"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normal collision energy of 28"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm mass tolerance for precursor ions"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "15 mmu for fragment-ion mass tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages of trypsin"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via high-pH reversed-phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 15 fractions non-contiguously (1 + 16 + 31 + 46 + 61, 2 + 17 + 32 + 47 + 62, etc.)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 1 mL/min."
+    ],
+    "Comment[IonizationType]": [
+      "nanoelectrospray"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "ECM proteins were enriched from frozen whole tissue or tumor sections (20 × 30 μm sections, ∼40−50 mg of tissue)"
+    ],
+    "Characteristics[Organism]": [
+      "SwissProt Homo sapiens database containing 20 199 entries."
+    ],
+    "Characteristics[Specimen]": [
+      "ECM-enriched samples"
+    ]
+  },
+  "150911_174_AN_G138_S1_f11.raw": {
+    "Source Name": [
+      "150911_174_AN_G138_S1"
+    ],
+    "Assay Name": [
+      "150911_174_AN_G138_S1_f11"
+    ],
+    "Raw Data File": [
+      "150911_174_AN_G138_S1_f11.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "f11"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "pre-digested with 1.6 μg of Lys-C (Pierce)",
+      "digested with bead-immobilized trypsin (40 μL of beads per 250 μg of protein; Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide at a final concentration of 8.3 mM"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC1000 (Thermo Scientific)",
+      "QExactive mass spectrometer (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[GradientTime]": [
+      "140 min gradient"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normal collision energy of 28"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm mass tolerance for precursor ions"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "15 mmu for fragment-ion mass tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages of trypsin"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via high-pH reversed-phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 15 fractions non-contiguously (1 + 16 + 31 + 46 + 61, 2 + 17 + 32 + 47 + 62, etc.)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 1 mL/min."
+    ],
+    "Comment[IonizationType]": [
+      "nanoelectrospray"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "ECM proteins were enriched from frozen whole tissue or tumor sections (20 × 30 μm sections, ∼40−50 mg of tissue)"
+    ],
+    "Characteristics[Organism]": [
+      "SwissProt Homo sapiens database containing 20 199 entries."
+    ],
+    "Characteristics[Specimen]": [
+      "ECM-enriched samples"
+    ]
+  },
+  "160315_210_AN_10_f7.raw": {
+    "Source Name": [
+      "160315_210_AN_10"
+    ],
+    "Assay Name": [
+      "160315_210_AN_10_f7"
+    ],
+    "Raw Data File": [
+      "160315_210_AN_10_f7.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "f7"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "pre-digested with 1.6 μg of Lys-C (Pierce)",
+      "digested with bead-immobilized trypsin (40 μL of beads per 250 μg of protein; Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide at a final concentration of 8.3 mM"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC1000 (Thermo Scientific)",
+      "QExactive mass spectrometer (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[GradientTime]": [
+      "140 min gradient"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normal collision energy of 28"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm mass tolerance for precursor ions"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "15 mmu for fragment-ion mass tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages of trypsin"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via high-pH reversed-phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 15 fractions non-contiguously (1 + 16 + 31 + 46 + 61, 2 + 17 + 32 + 47 + 62, etc.)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 1 mL/min."
+    ],
+    "Comment[IonizationType]": [
+      "nanoelectrospray"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "ECM proteins were enriched from frozen whole tissue or tumor sections (20 × 30 μm sections, ∼40−50 mg of tissue)"
+    ],
+    "Characteristics[Organism]": [
+      "SwissProt Homo sapiens database containing 20 199 entries."
+    ],
+    "Characteristics[Specimen]": [
+      "ECM-enriched samples"
+    ]
+  },
+  "160315_210_AN_10_f13.raw": {
+    "Source Name": [
+      "160315_210_AN_10"
+    ],
+    "Assay Name": [
+      "160315_210_AN_10_f13"
+    ],
+    "Raw Data File": [
+      "160315_210_AN_10_f13.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "f13"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "pre-digested with 1.6 μg of Lys-C (Pierce)",
+      "digested with bead-immobilized trypsin (40 μL of beads per 250 μg of protein; Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide at a final concentration of 8.3 mM"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC1000 (Thermo Scientific)",
+      "QExactive mass spectrometer (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[GradientTime]": [
+      "140 min gradient"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normal collision energy of 28"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm mass tolerance for precursor ions"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "15 mmu for fragment-ion mass tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages of trypsin"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via high-pH reversed-phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 15 fractions non-contiguously (1 + 16 + 31 + 46 + 61, 2 + 17 + 32 + 47 + 62, etc.)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 1 mL/min."
+    ],
+    "Comment[IonizationType]": [
+      "nanoelectrospray"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "ECM proteins were enriched from frozen whole tissue or tumor sections (20 × 30 μm sections, ∼40−50 mg of tissue)"
+    ],
+    "Characteristics[Organism]": [
+      "SwissProt Homo sapiens database containing 20 199 entries."
+    ],
+    "Characteristics[Specimen]": [
+      "ECM-enriched samples"
+    ]
+  },
+  "150911_174_AN_G138_C1_f9.raw": {
+    "Source Name": [
+      "150911_174_AN_G138_C1"
+    ],
+    "Assay Name": [
+      "150911_174_AN_G138_C1_f9"
+    ],
+    "Raw Data File": [
+      "150911_174_AN_G138_C1_f9.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "f9"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "pre-digested with 1.6 μg of Lys-C (Pierce)",
+      "digested with bead-immobilized trypsin (40 μL of beads per 250 μg of protein; Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide at a final concentration of 8.3 mM"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC1000 (Thermo Scientific)",
+      "QExactive mass spectrometer (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[GradientTime]": [
+      "140 min gradient"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normal collision energy of 28"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm mass tolerance for precursor ions"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "15 mmu for fragment-ion mass tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages of trypsin"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via high-pH reversed-phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 15 fractions non-contiguously (1 + 16 + 31 + 46 + 61, 2 + 17 + 32 + 47 + 62, etc.)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 1 mL/min."
+    ],
+    "Comment[IonizationType]": [
+      "nanoelectrospray"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "ECM proteins were enriched from frozen whole tissue or tumor sections (20 × 30 μm sections, ∼40−50 mg of tissue)"
+    ],
+    "Characteristics[Organism]": [
+      "SwissProt Homo sapiens database containing 20 199 entries."
+    ],
+    "Characteristics[Specimen]": [
+      "ECM-enriched samples"
+    ]
+  },
+  "160403_210_AN_5_f5.raw": {
+    "Source Name": [
+      "160403_210_AN_5"
+    ],
+    "Assay Name": [
+      "160403_210_AN_5_f5"
+    ],
+    "Raw Data File": [
+      "160403_210_AN_5_f5.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "f5"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "pre-digested with 1.6 μg of Lys-C (Pierce)",
+      "digested with bead-immobilized trypsin (40 μL of beads per 250 μg of protein; Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide at a final concentration of 8.3 mM"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC1000 (Thermo Scientific)",
+      "QExactive mass spectrometer (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[GradientTime]": [
+      "140 min gradient"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normal collision energy of 28"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm mass tolerance for precursor ions"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "15 mmu for fragment-ion mass tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages of trypsin"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via high-pH reversed-phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 15 fractions non-contiguously (1 + 16 + 31 + 46 + 61, 2 + 17 + 32 + 47 + 62, etc.)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 1 mL/min."
+    ],
+    "Comment[IonizationType]": [
+      "nanoelectrospray"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "ECM proteins were enriched from frozen whole tissue or tumor sections (20 × 30 μm sections, ∼40−50 mg of tissue)"
+    ],
+    "Characteristics[Organism]": [
+      "SwissProt Homo sapiens database containing 20 199 entries."
+    ],
+    "Characteristics[Specimen]": [
+      "ECM-enriched samples"
+    ]
+  },
+  "160129_210_AN_6.raw": {
+    "Source Name": [
+      "160129_210_AN_6"
+    ],
+    "Assay Name": [
+      "160129_210_AN_6"
+    ],
+    "Raw Data File": [
+      "160129_210_AN_6.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "pre-digested with 1.6 μg of Lys-C (Pierce)",
+      "digested with bead-immobilized trypsin (40 μL of beads per 250 μg of protein; Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide at a final concentration of 8.3 mM"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC1000 (Thermo Scientific)",
+      "QExactive mass spectrometer (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[GradientTime]": [
+      "140 min gradient"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normal collision energy of 28"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm mass tolerance for precursor ions"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "15 mmu for fragment-ion mass tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages of trypsin"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via high-pH reversed-phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 15 fractions non-contiguously (1 + 16 + 31 + 46 + 61, 2 + 17 + 32 + 47 + 62, etc.)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 1 mL/min."
+    ],
+    "Comment[IonizationType]": [
+      "nanoelectrospray"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "ECM proteins were enriched from frozen whole tissue or tumor sections (20 × 30 μm sections, ∼40−50 mg of tissue)"
+    ],
+    "Characteristics[Organism]": [
+      "SwissProt Homo sapiens database containing 20 199 entries."
+    ],
+    "Characteristics[Specimen]": [
+      "ECM-enriched samples"
+    ]
+  },
+  "150330_121_AN_G138_C1_2h.raw": {
+    "Source Name": [
+      "150330_121_AN_G138_C1_2h"
+    ],
+    "Assay Name": [
+      "150330_121_AN_G138_C1_2h"
+    ],
+    "Raw Data File": [
+      "150330_121_AN_G138_C1_2h.raw"
+    ],
+    "Characteristics[Time]": [
+      "2h"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "pre-digested with 1.6 μg of Lys-C (Pierce)",
+      "digested with bead-immobilized trypsin (40 μL of beads per 250 μg of protein; Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide at a final concentration of 8.3 mM"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC1000 (Thermo Scientific)",
+      "QExactive mass spectrometer (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[GradientTime]": [
+      "140 min gradient"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normal collision energy of 28"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm mass tolerance for precursor ions"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "15 mmu for fragment-ion mass tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages of trypsin"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via high-pH reversed-phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 15 fractions non-contiguously (1 + 16 + 31 + 46 + 61, 2 + 17 + 32 + 47 + 62, etc.)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 1 mL/min."
+    ],
+    "Comment[IonizationType]": [
+      "nanoelectrospray"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "ECM proteins were enriched from frozen whole tissue or tumor sections (20 × 30 μm sections, ∼40−50 mg of tissue)"
+    ],
+    "Characteristics[Organism]": [
+      "SwissProt Homo sapiens database containing 20 199 entries."
+    ],
+    "Characteristics[Specimen]": [
+      "ECM-enriched samples"
+    ]
+  },
+  "160310_210_AN_4_f12.raw": {
+    "Source Name": [
+      "160310_210_AN_4"
+    ],
+    "Assay Name": [
+      "160310_210_AN_4_f12"
+    ],
+    "Raw Data File": [
+      "160310_210_AN_4_f12.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "f12"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "pre-digested with 1.6 μg of Lys-C (Pierce)",
+      "digested with bead-immobilized trypsin (40 μL of beads per 250 μg of protein; Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide at a final concentration of 8.3 mM"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC1000 (Thermo Scientific)",
+      "QExactive mass spectrometer (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[GradientTime]": [
+      "140 min gradient"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normal collision energy of 28"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm mass tolerance for precursor ions"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "15 mmu for fragment-ion mass tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages of trypsin"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via high-pH reversed-phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 15 fractions non-contiguously (1 + 16 + 31 + 46 + 61, 2 + 17 + 32 + 47 + 62, etc.)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 1 mL/min."
+    ],
+    "Comment[IonizationType]": [
+      "nanoelectrospray"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "ECM proteins were enriched from frozen whole tissue or tumor sections (20 × 30 μm sections, ∼40−50 mg of tissue)"
+    ],
+    "Characteristics[Organism]": [
+      "SwissProt Homo sapiens database containing 20 199 entries."
+    ],
+    "Characteristics[Specimen]": [
+      "ECM-enriched samples"
+    ]
+  },
+  "160123_210_AN_12.raw": {
+    "Source Name": [
+      "160123_210_AN_12"
+    ],
+    "Assay Name": [
+      "160123_210_AN_12"
+    ],
+    "Raw Data File": [
+      "160123_210_AN_12.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "pre-digested with 1.6 μg of Lys-C (Pierce)",
+      "digested with bead-immobilized trypsin (40 μL of beads per 250 μg of protein; Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide at a final concentration of 8.3 mM"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC1000 (Thermo Scientific)",
+      "QExactive mass spectrometer (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[GradientTime]": [
+      "140 min gradient"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normal collision energy of 28"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm mass tolerance for precursor ions"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "15 mmu for fragment-ion mass tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages of trypsin"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via high-pH reversed-phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 15 fractions non-contiguously (1 + 16 + 31 + 46 + 61, 2 + 17 + 32 + 47 + 62, etc.)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 1 mL/min."
+    ],
+    "Comment[IonizationType]": [
+      "nanoelectrospray"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "ECM proteins were enriched from frozen whole tissue or tumor sections (20 × 30 μm sections, ∼40−50 mg of tissue)"
+    ],
+    "Characteristics[Organism]": [
+      "SwissProt Homo sapiens database containing 20 199 entries."
+    ],
+    "Characteristics[Specimen]": [
+      "ECM-enriched samples"
+    ]
+  },
+  "150603_121_AN_G138_C2_f9.raw": {
+    "Source Name": [
+      "150603_121_AN_G138_C2"
+    ],
+    "Assay Name": [
+      "150603_121_AN_G138_C2_f9"
+    ],
+    "Raw Data File": [
+      "150603_121_AN_G138_C2_f9.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "f9"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "pre-digested with 1.6 μg of Lys-C (Pierce)",
+      "digested with bead-immobilized trypsin (40 μL of beads per 250 μg of protein; Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide at a final concentration of 8.3 mM"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC1000 (Thermo Scientific)",
+      "QExactive mass spectrometer (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[GradientTime]": [
+      "140 min gradient"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normal collision energy of 28"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm mass tolerance for precursor ions"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "15 mmu for fragment-ion mass tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages of trypsin"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via high-pH reversed-phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 15 fractions non-contiguously (1 + 16 + 31 + 46 + 61, 2 + 17 + 32 + 47 + 62, etc.)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 1 mL/min."
+    ],
+    "Comment[IonizationType]": [
+      "nanoelectrospray"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "ECM proteins were enriched from frozen whole tissue or tumor sections (20 × 30 μm sections, ∼40−50 mg of tissue)"
+    ],
+    "Characteristics[Organism]": [
+      "SwissProt Homo sapiens database containing 20 199 entries."
+    ],
+    "Characteristics[Specimen]": [
+      "ECM-enriched samples"
+    ]
+  },
+  "160315_210_AN_10_f5.raw": {
+    "Source Name": [
+      "160315_210_AN_10"
+    ],
+    "Assay Name": [
+      "160315_210_AN_10_f5"
+    ],
+    "Raw Data File": [
+      "160315_210_AN_10_f5.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "f5"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "pre-digested with 1.6 μg of Lys-C (Pierce)",
+      "digested with bead-immobilized trypsin (40 μL of beads per 250 μg of protein; Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide at a final concentration of 8.3 mM"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC1000 (Thermo Scientific)",
+      "QExactive mass spectrometer (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[GradientTime]": [
+      "140 min gradient"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normal collision energy of 28"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm mass tolerance for precursor ions"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "15 mmu for fragment-ion mass tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages of trypsin"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via high-pH reversed-phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 15 fractions non-contiguously (1 + 16 + 31 + 46 + 61, 2 + 17 + 32 + 47 + 62, etc.)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 1 mL/min."
+    ],
+    "Comment[IonizationType]": [
+      "nanoelectrospray"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "ECM proteins were enriched from frozen whole tissue or tumor sections (20 × 30 μm sections, ∼40−50 mg of tissue)"
+    ],
+    "Characteristics[Organism]": [
+      "SwissProt Homo sapiens database containing 20 199 entries."
+    ],
+    "Characteristics[Specimen]": [
+      "ECM-enriched samples"
+    ]
+  },
+  "150911_174_AN_G138_S1_f7.raw": {
+    "Source Name": [
+      "150911_174_AN_G138_S1"
+    ],
+    "Assay Name": [
+      "150911_174_AN_G138_S1_f7"
+    ],
+    "Raw Data File": [
+      "150911_174_AN_G138_S1_f7.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "f7"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "pre-digested with 1.6 μg of Lys-C (Pierce)",
+      "digested with bead-immobilized trypsin (40 μL of beads per 250 μg of protein; Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide at a final concentration of 8.3 mM"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC1000 (Thermo Scientific)",
+      "QExactive mass spectrometer (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[GradientTime]": [
+      "140 min gradient"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normal collision energy of 28"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm mass tolerance for precursor ions"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "15 mmu for fragment-ion mass tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages of trypsin"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via high-pH reversed-phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 15 fractions non-contiguously (1 + 16 + 31 + 46 + 61, 2 + 17 + 32 + 47 + 62, etc.)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 1 mL/min."
+    ],
+    "Comment[IonizationType]": [
+      "nanoelectrospray"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "ECM proteins were enriched from frozen whole tissue or tumor sections (20 × 30 μm sections, ∼40−50 mg of tissue)"
+    ],
+    "Characteristics[Organism]": [
+      "SwissProt Homo sapiens database containing 20 199 entries."
+    ],
+    "Characteristics[Specimen]": [
+      "ECM-enriched samples"
+    ]
+  },
+  "160403_210_AN_5_f9.raw": {
+    "Source Name": [
+      "160403_210_AN_5"
+    ],
+    "Assay Name": [
+      "160403_210_AN_5_f9"
+    ],
+    "Raw Data File": [
+      "160403_210_AN_5_f9.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "f9"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "pre-digested with 1.6 μg of Lys-C (Pierce)",
+      "digested with bead-immobilized trypsin (40 μL of beads per 250 μg of protein; Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide at a final concentration of 8.3 mM"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC1000 (Thermo Scientific)",
+      "QExactive mass spectrometer (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[GradientTime]": [
+      "140 min gradient"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normal collision energy of 28"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm mass tolerance for precursor ions"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "15 mmu for fragment-ion mass tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages of trypsin"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via high-pH reversed-phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 15 fractions non-contiguously (1 + 16 + 31 + 46 + 61, 2 + 17 + 32 + 47 + 62, etc.)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 1 mL/min."
+    ],
+    "Comment[IonizationType]": [
+      "nanoelectrospray"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "ECM proteins were enriched from frozen whole tissue or tumor sections (20 × 30 μm sections, ∼40−50 mg of tissue)"
+    ],
+    "Characteristics[Organism]": [
+      "SwissProt Homo sapiens database containing 20 199 entries."
+    ],
+    "Characteristics[Specimen]": [
+      "ECM-enriched samples"
+    ]
+  },
+  "160310_210_AN_4_f1.raw": {
+    "Source Name": [
+      "160310_210_AN_4"
+    ],
+    "Assay Name": [
+      "160310_210_AN_4_f1"
+    ],
+    "Raw Data File": [
+      "160310_210_AN_4_f1.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "f1"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "pre-digested with 1.6 μg of Lys-C (Pierce)",
+      "digested with bead-immobilized trypsin (40 μL of beads per 250 μg of protein; Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide at a final concentration of 8.3 mM"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC1000 (Thermo Scientific)",
+      "QExactive mass spectrometer (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[GradientTime]": [
+      "140 min gradient"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normal collision energy of 28"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm mass tolerance for precursor ions"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "15 mmu for fragment-ion mass tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages of trypsin"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via high-pH reversed-phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 15 fractions non-contiguously (1 + 16 + 31 + 46 + 61, 2 + 17 + 32 + 47 + 62, etc.)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 1 mL/min."
+    ],
+    "Comment[IonizationType]": [
+      "nanoelectrospray"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "ECM proteins were enriched from frozen whole tissue or tumor sections (20 × 30 μm sections, ∼40−50 mg of tissue)"
+    ],
+    "Characteristics[Organism]": [
+      "SwissProt Homo sapiens database containing 20 199 entries."
+    ],
+    "Characteristics[Specimen]": [
+      "ECM-enriched samples"
+    ]
+  },
+  "150603_121_AN_G138_S2_f7.raw": {
+    "Source Name": [
+      "150603_121_AN_G138_S2"
+    ],
+    "Assay Name": [
+      "150603_121_AN_G138_S2_f7"
+    ],
+    "Raw Data File": [
+      "150603_121_AN_G138_S2_f7.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "f7"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "pre-digested with 1.6 μg of Lys-C (Pierce)",
+      "digested with bead-immobilized trypsin (40 μL of beads per 250 μg of protein; Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide at a final concentration of 8.3 mM"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC1000 (Thermo Scientific)",
+      "QExactive mass spectrometer (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[GradientTime]": [
+      "140 min gradient"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normal collision energy of 28"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm mass tolerance for precursor ions"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "15 mmu for fragment-ion mass tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages of trypsin"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via high-pH reversed-phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 15 fractions non-contiguously (1 + 16 + 31 + 46 + 61, 2 + 17 + 32 + 47 + 62, etc.)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 1 mL/min."
+    ],
+    "Comment[IonizationType]": [
+      "nanoelectrospray"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "ECM proteins were enriched from frozen whole tissue or tumor sections (20 × 30 μm sections, ∼40−50 mg of tissue)"
+    ],
+    "Characteristics[Organism]": [
+      "SwissProt Homo sapiens database containing 20 199 entries."
+    ],
+    "Characteristics[Specimen]": [
+      "ECM-enriched samples"
+    ]
+  },
+  "150603_121_AN_G138_S2_f14.raw": {
+    "Source Name": [
+      "150603_121_AN_G138_S2"
+    ],
+    "Assay Name": [
+      "150603_121_AN_G138_S2_f14"
+    ],
+    "Raw Data File": [
+      "150603_121_AN_G138_S2_f14.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "f14"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "pre-digested with 1.6 μg of Lys-C (Pierce)",
+      "digested with bead-immobilized trypsin (40 μL of beads per 250 μg of protein; Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide at a final concentration of 8.3 mM"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC1000 (Thermo Scientific)",
+      "QExactive mass spectrometer (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[GradientTime]": [
+      "140 min gradient"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normal collision energy of 28"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm mass tolerance for precursor ions"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "15 mmu for fragment-ion mass tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages of trypsin"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via high-pH reversed-phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 15 fractions non-contiguously (1 + 16 + 31 + 46 + 61, 2 + 17 + 32 + 47 + 62, etc.)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 1 mL/min."
+    ],
+    "Comment[IonizationType]": [
+      "nanoelectrospray"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "ECM proteins were enriched from frozen whole tissue or tumor sections (20 × 30 μm sections, ∼40−50 mg of tissue)"
+    ],
+    "Characteristics[Organism]": [
+      "SwissProt Homo sapiens database containing 20 199 entries."
+    ],
+    "Characteristics[Specimen]": [
+      "ECM-enriched samples"
+    ]
+  },
+  "150324_121_AN_G42_C1_2h.raw": {
+    "Source Name": [
+      "150324_121_AN_G42_C1_2h"
+    ],
+    "Assay Name": [
+      "150324_121_AN_G42_C1_2h"
+    ],
+    "Raw Data File": [
+      "150324_121_AN_G42_C1_2h.raw"
+    ],
+    "Characteristics[Time]": [
+      "2h"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "pre-digested with 1.6 μg of Lys-C (Pierce)",
+      "digested with bead-immobilized trypsin (40 μL of beads per 250 μg of protein; Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide at a final concentration of 8.3 mM"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC1000 (Thermo Scientific)",
+      "QExactive mass spectrometer (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[GradientTime]": [
+      "140 min gradient"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normal collision energy of 28"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm mass tolerance for precursor ions"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "15 mmu for fragment-ion mass tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages of trypsin"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via high-pH reversed-phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 15 fractions non-contiguously (1 + 16 + 31 + 46 + 61, 2 + 17 + 32 + 47 + 62, etc.)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 1 mL/min."
+    ],
+    "Comment[IonizationType]": [
+      "nanoelectrospray"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "ECM proteins were enriched from frozen whole tissue or tumor sections (20 × 30 μm sections, ∼40−50 mg of tissue)"
+    ],
+    "Characteristics[Organism]": [
+      "SwissProt Homo sapiens database containing 20 199 entries."
+    ],
+    "Characteristics[Specimen]": [
+      "ECM-enriched samples"
+    ]
+  },
+  "160310_210_AN_4_f5.raw": {
+    "Source Name": [
+      "160310_210_AN_4"
+    ],
+    "Assay Name": [
+      "160310_210_AN_4_f5"
+    ],
+    "Raw Data File": [
+      "160310_210_AN_4_f5.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "f5"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "pre-digested with 1.6 μg of Lys-C (Pierce)",
+      "digested with bead-immobilized trypsin (40 μL of beads per 250 μg of protein; Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide at a final concentration of 8.3 mM"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC1000 (Thermo Scientific)",
+      "QExactive mass spectrometer (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[GradientTime]": [
+      "140 min gradient"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normal collision energy of 28"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm mass tolerance for precursor ions"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "15 mmu for fragment-ion mass tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages of trypsin"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via high-pH reversed-phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 15 fractions non-contiguously (1 + 16 + 31 + 46 + 61, 2 + 17 + 32 + 47 + 62, etc.)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 1 mL/min."
+    ],
+    "Comment[IonizationType]": [
+      "nanoelectrospray"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "ECM proteins were enriched from frozen whole tissue or tumor sections (20 × 30 μm sections, ∼40−50 mg of tissue)"
+    ],
+    "Characteristics[Organism]": [
+      "SwissProt Homo sapiens database containing 20 199 entries."
+    ],
+    "Characteristics[Specimen]": [
+      "ECM-enriched samples"
+    ]
+  },
+  "150911_174_AN_G138_S1_f5.raw": {
+    "Source Name": [
+      "150911_174_AN_G138_S1"
+    ],
+    "Assay Name": [
+      "150911_174_AN_G138_S1_f5"
+    ],
+    "Raw Data File": [
+      "150911_174_AN_G138_S1_f5.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "f5"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "pre-digested with 1.6 μg of Lys-C (Pierce)",
+      "digested with bead-immobilized trypsin (40 μL of beads per 250 μg of protein; Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide at a final concentration of 8.3 mM"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC1000 (Thermo Scientific)",
+      "QExactive mass spectrometer (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[GradientTime]": [
+      "140 min gradient"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normal collision energy of 28"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm mass tolerance for precursor ions"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "15 mmu for fragment-ion mass tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages of trypsin"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via high-pH reversed-phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 15 fractions non-contiguously (1 + 16 + 31 + 46 + 61, 2 + 17 + 32 + 47 + 62, etc.)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 1 mL/min."
+    ],
+    "Comment[IonizationType]": [
+      "nanoelectrospray"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "ECM proteins were enriched from frozen whole tissue or tumor sections (20 × 30 μm sections, ∼40−50 mg of tissue)"
+    ],
+    "Characteristics[Organism]": [
+      "SwissProt Homo sapiens database containing 20 199 entries."
+    ],
+    "Characteristics[Specimen]": [
+      "ECM-enriched samples"
+    ]
+  },
+  "160403_210_AN_5_f1.raw": {
+    "Source Name": [
+      "160403_210_AN_5"
+    ],
+    "Assay Name": [
+      "160403_210_AN_5_f1"
+    ],
+    "Raw Data File": [
+      "160403_210_AN_5_f1.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "f1"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "pre-digested with 1.6 μg of Lys-C (Pierce)",
+      "digested with bead-immobilized trypsin (40 μL of beads per 250 μg of protein; Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide at a final concentration of 8.3 mM"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC1000 (Thermo Scientific)",
+      "QExactive mass spectrometer (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[GradientTime]": [
+      "140 min gradient"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normal collision energy of 28"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm mass tolerance for precursor ions"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "15 mmu for fragment-ion mass tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages of trypsin"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via high-pH reversed-phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 15 fractions non-contiguously (1 + 16 + 31 + 46 + 61, 2 + 17 + 32 + 47 + 62, etc.)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 1 mL/min."
+    ],
+    "Comment[IonizationType]": [
+      "nanoelectrospray"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "ECM proteins were enriched from frozen whole tissue or tumor sections (20 × 30 μm sections, ∼40−50 mg of tissue)"
+    ],
+    "Characteristics[Organism]": [
+      "SwissProt Homo sapiens database containing 20 199 entries."
+    ],
+    "Characteristics[Specimen]": [
+      "ECM-enriched samples"
+    ]
+  },
+  "160310_210_AN_4_f3.raw": {
+    "Source Name": [
+      "160310_210_AN_4"
+    ],
+    "Assay Name": [
+      "160310_210_AN_4_f3"
+    ],
+    "Raw Data File": [
+      "160310_210_AN_4_f3.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "f3"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "pre-digested with 1.6 μg of Lys-C (Pierce)",
+      "digested with bead-immobilized trypsin (40 μL of beads per 250 μg of protein; Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide at a final concentration of 8.3 mM"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC1000 (Thermo Scientific)",
+      "QExactive mass spectrometer (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[GradientTime]": [
+      "140 min gradient"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normal collision energy of 28"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm mass tolerance for precursor ions"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "15 mmu for fragment-ion mass tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages of trypsin"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via high-pH reversed-phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 15 fractions non-contiguously (1 + 16 + 31 + 46 + 61, 2 + 17 + 32 + 47 + 62, etc.)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 1 mL/min."
+    ],
+    "Comment[IonizationType]": [
+      "nanoelectrospray"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "ECM proteins were enriched from frozen whole tissue or tumor sections (20 × 30 μm sections, ∼40−50 mg of tissue)"
+    ],
+    "Characteristics[Organism]": [
+      "SwissProt Homo sapiens database containing 20 199 entries."
+    ],
+    "Characteristics[Specimen]": [
+      "ECM-enriched samples"
+    ]
+  },
+  "160315_210_AN_10_f12.raw": {
+    "Source Name": [
+      "160315_210_AN_10"
+    ],
+    "Assay Name": [
+      "160315_210_AN_10_f12"
+    ],
+    "Raw Data File": [
+      "160315_210_AN_10_f12.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "f12"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "pre-digested with 1.6 μg of Lys-C (Pierce)",
+      "digested with bead-immobilized trypsin (40 μL of beads per 250 μg of protein; Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide at a final concentration of 8.3 mM"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC1000 (Thermo Scientific)",
+      "QExactive mass spectrometer (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[GradientTime]": [
+      "140 min gradient"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normal collision energy of 28"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm mass tolerance for precursor ions"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "15 mmu for fragment-ion mass tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages of trypsin"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via high-pH reversed-phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 15 fractions non-contiguously (1 + 16 + 31 + 46 + 61, 2 + 17 + 32 + 47 + 62, etc.)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 1 mL/min."
+    ],
+    "Comment[IonizationType]": [
+      "nanoelectrospray"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "ECM proteins were enriched from frozen whole tissue or tumor sections (20 × 30 μm sections, ∼40−50 mg of tissue)"
+    ],
+    "Characteristics[Organism]": [
+      "SwissProt Homo sapiens database containing 20 199 entries."
+    ],
+    "Characteristics[Specimen]": [
+      "ECM-enriched samples"
+    ]
+  },
+  "150911_174_AN_G138_S1_f8.raw": {
+    "Source Name": [
+      "150911_174_AN_G138_S1"
+    ],
+    "Assay Name": [
+      "150911_174_AN_G138_S1_f8"
+    ],
+    "Raw Data File": [
+      "150911_174_AN_G138_S1_f8.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "f8"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "pre-digested with 1.6 μg of Lys-C (Pierce)",
+      "digested with bead-immobilized trypsin (40 μL of beads per 250 μg of protein; Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide at a final concentration of 8.3 mM"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC1000 (Thermo Scientific)",
+      "QExactive mass spectrometer (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[GradientTime]": [
+      "140 min gradient"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normal collision energy of 28"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm mass tolerance for precursor ions"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "15 mmu for fragment-ion mass tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages of trypsin"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via high-pH reversed-phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 15 fractions non-contiguously (1 + 16 + 31 + 46 + 61, 2 + 17 + 32 + 47 + 62, etc.)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 1 mL/min."
+    ],
+    "Comment[IonizationType]": [
+      "nanoelectrospray"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "ECM proteins were enriched from frozen whole tissue or tumor sections (20 × 30 μm sections, ∼40−50 mg of tissue)"
+    ],
+    "Characteristics[Organism]": [
+      "SwissProt Homo sapiens database containing 20 199 entries."
+    ],
+    "Characteristics[Specimen]": [
+      "ECM-enriched samples"
+    ]
+  },
+  "160317_210_AN_11_f13.raw": {
+    "Source Name": [
+      "160317_210_AN_11"
+    ],
+    "Assay Name": [
+      "160317_210_AN_11_f13"
+    ],
+    "Raw Data File": [
+      "160317_210_AN_11_f13.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "f13"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "pre-digested with 1.6 μg of Lys-C (Pierce)",
+      "digested with bead-immobilized trypsin (40 μL of beads per 250 μg of protein; Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide at a final concentration of 8.3 mM"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC1000 (Thermo Scientific)",
+      "QExactive mass spectrometer (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[GradientTime]": [
+      "140 min gradient"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normal collision energy of 28"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm mass tolerance for precursor ions"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "15 mmu for fragment-ion mass tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages of trypsin"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via high-pH reversed-phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 15 fractions non-contiguously (1 + 16 + 31 + 46 + 61, 2 + 17 + 32 + 47 + 62, etc.)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 1 mL/min."
+    ],
+    "Comment[IonizationType]": [
+      "nanoelectrospray"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "ECM proteins were enriched from frozen whole tissue or tumor sections (20 × 30 μm sections, ∼40−50 mg of tissue)"
+    ],
+    "Characteristics[Organism]": [
+      "SwissProt Homo sapiens database containing 20 199 entries."
+    ],
+    "Characteristics[Specimen]": [
+      "ECM-enriched samples"
+    ]
+  },
+  "150911_174_AN_G138_S1_f14.raw": {
+    "Source Name": [
+      "150911_174_AN_G138_S1"
+    ],
+    "Assay Name": [
+      "150911_174_AN_G138_S1_f14"
+    ],
+    "Raw Data File": [
+      "150911_174_AN_G138_S1_f14.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "f14"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "pre-digested with 1.6 μg of Lys-C (Pierce)",
+      "digested with bead-immobilized trypsin (40 μL of beads per 250 μg of protein; Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide at a final concentration of 8.3 mM"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC1000 (Thermo Scientific)",
+      "QExactive mass spectrometer (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[GradientTime]": [
+      "140 min gradient"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normal collision energy of 28"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm mass tolerance for precursor ions"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "15 mmu for fragment-ion mass tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages of trypsin"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via high-pH reversed-phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 15 fractions non-contiguously (1 + 16 + 31 + 46 + 61, 2 + 17 + 32 + 47 + 62, etc.)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 1 mL/min."
+    ],
+    "Comment[IonizationType]": [
+      "nanoelectrospray"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "ECM proteins were enriched from frozen whole tissue or tumor sections (20 × 30 μm sections, ∼40−50 mg of tissue)"
+    ],
+    "Characteristics[Organism]": [
+      "SwissProt Homo sapiens database containing 20 199 entries."
+    ],
+    "Characteristics[Specimen]": [
+      "ECM-enriched samples"
+    ]
+  },
+  "160403_210_AN_5_f3.raw": {
+    "Source Name": [
+      "160403_210_AN_5"
+    ],
+    "Assay Name": [
+      "160403_210_AN_5_f3"
+    ],
+    "Raw Data File": [
+      "160403_210_AN_5_f3.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "f3"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "pre-digested with 1.6 μg of Lys-C (Pierce)",
+      "digested with bead-immobilized trypsin (40 μL of beads per 250 μg of protein; Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide at a final concentration of 8.3 mM"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC1000 (Thermo Scientific)",
+      "QExactive mass spectrometer (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[GradientTime]": [
+      "140 min gradient"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normal collision energy of 28"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm mass tolerance for precursor ions"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "15 mmu for fragment-ion mass tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages of trypsin"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via high-pH reversed-phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 15 fractions non-contiguously (1 + 16 + 31 + 46 + 61, 2 + 17 + 32 + 47 + 62, etc.)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 1 mL/min."
+    ],
+    "Comment[IonizationType]": [
+      "nanoelectrospray"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "ECM proteins were enriched from frozen whole tissue or tumor sections (20 × 30 μm sections, ∼40−50 mg of tissue)"
+    ],
+    "Characteristics[Organism]": [
+      "SwissProt Homo sapiens database containing 20 199 entries."
+    ],
+    "Characteristics[Specimen]": [
+      "ECM-enriched samples"
+    ]
+  },
+  "150603_121_AN_G138_S2_f8.raw": {
+    "Source Name": [
+      "150603_121_AN_G138_S2"
+    ],
+    "Assay Name": [
+      "150603_121_AN_G138_S2_f8"
+    ],
+    "Raw Data File": [
+      "150603_121_AN_G138_S2_f8.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "f8"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "pre-digested with 1.6 μg of Lys-C (Pierce)",
+      "digested with bead-immobilized trypsin (40 μL of beads per 250 μg of protein; Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide at a final concentration of 8.3 mM"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC1000 (Thermo Scientific)",
+      "QExactive mass spectrometer (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[GradientTime]": [
+      "140 min gradient"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normal collision energy of 28"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm mass tolerance for precursor ions"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "15 mmu for fragment-ion mass tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages of trypsin"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via high-pH reversed-phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 15 fractions non-contiguously (1 + 16 + 31 + 46 + 61, 2 + 17 + 32 + 47 + 62, etc.)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 1 mL/min."
+    ],
+    "Comment[IonizationType]": [
+      "nanoelectrospray"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "ECM proteins were enriched from frozen whole tissue or tumor sections (20 × 30 μm sections, ∼40−50 mg of tissue)"
+    ],
+    "Characteristics[Organism]": [
+      "SwissProt Homo sapiens database containing 20 199 entries."
+    ],
+    "Characteristics[Specimen]": [
+      "ECM-enriched samples"
+    ]
+  },
+  "160123_210_AN_18.raw": {
+    "Source Name": [
+      "160123_210_AN_18"
+    ],
+    "Assay Name": [
+      "160123_210_AN_18"
+    ],
+    "Raw Data File": [
+      "160123_210_AN_18.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "pre-digested with 1.6 μg of Lys-C (Pierce)",
+      "digested with bead-immobilized trypsin (40 μL of beads per 250 μg of protein; Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide at a final concentration of 8.3 mM"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC1000 (Thermo Scientific)",
+      "QExactive mass spectrometer (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[GradientTime]": [
+      "140 min gradient"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normal collision energy of 28"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm mass tolerance for precursor ions"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "15 mmu for fragment-ion mass tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages of trypsin"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via high-pH reversed-phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 15 fractions non-contiguously (1 + 16 + 31 + 46 + 61, 2 + 17 + 32 + 47 + 62, etc.)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 1 mL/min."
+    ],
+    "Comment[IonizationType]": [
+      "nanoelectrospray"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "ECM proteins were enriched from frozen whole tissue or tumor sections (20 × 30 μm sections, ∼40−50 mg of tissue)"
+    ],
+    "Characteristics[Organism]": [
+      "SwissProt Homo sapiens database containing 20 199 entries."
+    ],
+    "Characteristics[Specimen]": [
+      "ECM-enriched samples"
+    ]
+  },
+  "150911_174_AN_G138_C1_f1.raw": {
+    "Source Name": [
+      "150911_174_AN_G138_C1"
+    ],
+    "Assay Name": [
+      "150911_174_AN_G138_C1_f1"
+    ],
+    "Raw Data File": [
+      "150911_174_AN_G138_C1_f1.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "f1"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "pre-digested with 1.6 μg of Lys-C (Pierce)",
+      "digested with bead-immobilized trypsin (40 μL of beads per 250 μg of protein; Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide at a final concentration of 8.3 mM"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC1000 (Thermo Scientific)",
+      "QExactive mass spectrometer (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[GradientTime]": [
+      "140 min gradient"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normal collision energy of 28"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm mass tolerance for precursor ions"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "15 mmu for fragment-ion mass tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages of trypsin"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via high-pH reversed-phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 15 fractions non-contiguously (1 + 16 + 31 + 46 + 61, 2 + 17 + 32 + 47 + 62, etc.)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 1 mL/min."
+    ],
+    "Comment[IonizationType]": [
+      "nanoelectrospray"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "ECM proteins were enriched from frozen whole tissue or tumor sections (20 × 30 μm sections, ∼40−50 mg of tissue)"
+    ],
+    "Characteristics[Organism]": [
+      "SwissProt Homo sapiens database containing 20 199 entries."
+    ],
+    "Characteristics[Specimen]": [
+      "ECM-enriched samples"
+    ]
+  },
+  "160315_210_AN_10_f4.raw": {
+    "Source Name": [
+      "160315_210_AN_10"
+    ],
+    "Assay Name": [
+      "160315_210_AN_10_f4"
+    ],
+    "Raw Data File": [
+      "160315_210_AN_10_f4.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "f4"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "pre-digested with 1.6 μg of Lys-C (Pierce)",
+      "digested with bead-immobilized trypsin (40 μL of beads per 250 μg of protein; Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide at a final concentration of 8.3 mM"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC1000 (Thermo Scientific)",
+      "QExactive mass spectrometer (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[GradientTime]": [
+      "140 min gradient"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normal collision energy of 28"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm mass tolerance for precursor ions"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "15 mmu for fragment-ion mass tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages of trypsin"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via high-pH reversed-phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 15 fractions non-contiguously (1 + 16 + 31 + 46 + 61, 2 + 17 + 32 + 47 + 62, etc.)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 1 mL/min."
+    ],
+    "Comment[IonizationType]": [
+      "nanoelectrospray"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "ECM proteins were enriched from frozen whole tissue or tumor sections (20 × 30 μm sections, ∼40−50 mg of tissue)"
+    ],
+    "Characteristics[Organism]": [
+      "SwissProt Homo sapiens database containing 20 199 entries."
+    ],
+    "Characteristics[Specimen]": [
+      "ECM-enriched samples"
+    ]
+  },
+  "160123_210_AN_3.raw": {
+    "Source Name": [
+      "160123_210_AN_3"
+    ],
+    "Assay Name": [
+      "160123_210_AN_3"
+    ],
+    "Raw Data File": [
+      "160123_210_AN_3.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "pre-digested with 1.6 μg of Lys-C (Pierce)",
+      "digested with bead-immobilized trypsin (40 μL of beads per 250 μg of protein; Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide at a final concentration of 8.3 mM"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC1000 (Thermo Scientific)",
+      "QExactive mass spectrometer (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[GradientTime]": [
+      "140 min gradient"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normal collision energy of 28"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm mass tolerance for precursor ions"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "15 mmu for fragment-ion mass tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages of trypsin"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via high-pH reversed-phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 15 fractions non-contiguously (1 + 16 + 31 + 46 + 61, 2 + 17 + 32 + 47 + 62, etc.)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 1 mL/min."
+    ],
+    "Comment[IonizationType]": [
+      "nanoelectrospray"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "ECM proteins were enriched from frozen whole tissue or tumor sections (20 × 30 μm sections, ∼40−50 mg of tissue)"
+    ],
+    "Characteristics[Organism]": [
+      "SwissProt Homo sapiens database containing 20 199 entries."
+    ],
+    "Characteristics[Specimen]": [
+      "ECM-enriched samples"
+    ]
+  },
+  "160403_210_AN_5_f10.raw": {
+    "Source Name": [
+      "160403_210_AN_5"
+    ],
+    "Assay Name": [
+      "160403_210_AN_5_f10"
+    ],
+    "Raw Data File": [
+      "160403_210_AN_5_f10.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "f10"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "pre-digested with 1.6 μg of Lys-C (Pierce)",
+      "digested with bead-immobilized trypsin (40 μL of beads per 250 μg of protein; Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide at a final concentration of 8.3 mM"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC1000 (Thermo Scientific)",
+      "QExactive mass spectrometer (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[GradientTime]": [
+      "140 min gradient"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normal collision energy of 28"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm mass tolerance for precursor ions"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "15 mmu for fragment-ion mass tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages of trypsin"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via high-pH reversed-phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 15 fractions non-contiguously (1 + 16 + 31 + 46 + 61, 2 + 17 + 32 + 47 + 62, etc.)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 1 mL/min."
+    ],
+    "Comment[IonizationType]": [
+      "nanoelectrospray"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "ECM proteins were enriched from frozen whole tissue or tumor sections (20 × 30 μm sections, ∼40−50 mg of tissue)"
+    ],
+    "Characteristics[Organism]": [
+      "SwissProt Homo sapiens database containing 20 199 entries."
+    ],
+    "Characteristics[Specimen]": [
+      "ECM-enriched samples"
+    ]
+  },
+  "150911_174_AN_G138_C1_f13.raw": {
+    "Source Name": [
+      "150911_174_AN_G138_C1"
+    ],
+    "Assay Name": [
+      "150911_174_AN_G138_C1_f13"
+    ],
+    "Raw Data File": [
+      "150911_174_AN_G138_C1_f13.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "f13"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "pre-digested with 1.6 μg of Lys-C (Pierce)",
+      "digested with bead-immobilized trypsin (40 μL of beads per 250 μg of protein; Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide at a final concentration of 8.3 mM"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC1000 (Thermo Scientific)",
+      "QExactive mass spectrometer (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[GradientTime]": [
+      "140 min gradient"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normal collision energy of 28"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm mass tolerance for precursor ions"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "15 mmu for fragment-ion mass tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages of trypsin"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via high-pH reversed-phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 15 fractions non-contiguously (1 + 16 + 31 + 46 + 61, 2 + 17 + 32 + 47 + 62, etc.)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 1 mL/min."
+    ],
+    "Comment[IonizationType]": [
+      "nanoelectrospray"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "ECM proteins were enriched from frozen whole tissue or tumor sections (20 × 30 μm sections, ∼40−50 mg of tissue)"
+    ],
+    "Characteristics[Organism]": [
+      "SwissProt Homo sapiens database containing 20 199 entries."
+    ],
+    "Characteristics[Specimen]": [
+      "ECM-enriched samples"
+    ]
+  },
+  "150911_174_AN_G138_S1_f4.raw": {
+    "Source Name": [
+      "150911_174_AN_G138_S1"
+    ],
+    "Assay Name": [
+      "150911_174_AN_G138_S1_f4"
+    ],
+    "Raw Data File": [
+      "150911_174_AN_G138_S1_f4.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "f4"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "pre-digested with 1.6 μg of Lys-C (Pierce)",
+      "digested with bead-immobilized trypsin (40 μL of beads per 250 μg of protein; Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide at a final concentration of 8.3 mM"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC1000 (Thermo Scientific)",
+      "QExactive mass spectrometer (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[GradientTime]": [
+      "140 min gradient"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normal collision energy of 28"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm mass tolerance for precursor ions"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "15 mmu for fragment-ion mass tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages of trypsin"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via high-pH reversed-phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 15 fractions non-contiguously (1 + 16 + 31 + 46 + 61, 2 + 17 + 32 + 47 + 62, etc.)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 1 mL/min."
+    ],
+    "Comment[IonizationType]": [
+      "nanoelectrospray"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "ECM proteins were enriched from frozen whole tissue or tumor sections (20 × 30 μm sections, ∼40−50 mg of tissue)"
+    ],
+    "Characteristics[Organism]": [
+      "SwissProt Homo sapiens database containing 20 199 entries."
+    ],
+    "Characteristics[Specimen]": [
+      "ECM-enriched samples"
+    ]
+  },
+  "160315_210_AN_10_f2.raw": {
+    "Source Name": [
+      "160315_210_AN_10"
+    ],
+    "Assay Name": [
+      "160315_210_AN_10_f2"
+    ],
+    "Raw Data File": [
+      "160315_210_AN_10_f2.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "f2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "pre-digested with 1.6 μg of Lys-C (Pierce)",
+      "digested with bead-immobilized trypsin (40 μL of beads per 250 μg of protein; Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide at a final concentration of 8.3 mM"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC1000 (Thermo Scientific)",
+      "QExactive mass spectrometer (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[GradientTime]": [
+      "140 min gradient"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normal collision energy of 28"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm mass tolerance for precursor ions"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "15 mmu for fragment-ion mass tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages of trypsin"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via high-pH reversed-phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 15 fractions non-contiguously (1 + 16 + 31 + 46 + 61, 2 + 17 + 32 + 47 + 62, etc.)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 1 mL/min."
+    ],
+    "Comment[IonizationType]": [
+      "nanoelectrospray"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "ECM proteins were enriched from frozen whole tissue or tumor sections (20 × 30 μm sections, ∼40−50 mg of tissue)"
+    ],
+    "Characteristics[Organism]": [
+      "SwissProt Homo sapiens database containing 20 199 entries."
+    ],
+    "Characteristics[Specimen]": [
+      "ECM-enriched samples"
+    ]
+  },
+  "150603_121_AN_G138_S2_f15.raw": {
+    "Source Name": [
+      "150603_121_AN_G138_S2"
+    ],
+    "Assay Name": [
+      "150603_121_AN_G138_S2_f15"
+    ],
+    "Raw Data File": [
+      "150603_121_AN_G138_S2_f15.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "f15"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "pre-digested with 1.6 μg of Lys-C (Pierce)",
+      "digested with bead-immobilized trypsin (40 μL of beads per 250 μg of protein; Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide at a final concentration of 8.3 mM"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC1000 (Thermo Scientific)",
+      "QExactive mass spectrometer (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[GradientTime]": [
+      "140 min gradient"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normal collision energy of 28"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm mass tolerance for precursor ions"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "15 mmu for fragment-ion mass tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages of trypsin"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via high-pH reversed-phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 15 fractions non-contiguously (1 + 16 + 31 + 46 + 61, 2 + 17 + 32 + 47 + 62, etc.)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 1 mL/min."
+    ],
+    "Comment[IonizationType]": [
+      "nanoelectrospray"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "ECM proteins were enriched from frozen whole tissue or tumor sections (20 × 30 μm sections, ∼40−50 mg of tissue)"
+    ],
+    "Characteristics[Organism]": [
+      "SwissProt Homo sapiens database containing 20 199 entries."
+    ],
+    "Characteristics[Specimen]": [
+      "ECM-enriched samples"
+    ]
+  },
+  "160123_210_AN_10.raw": {
+    "Source Name": [
+      "160123_210_AN_10"
+    ],
+    "Assay Name": [
+      "160123_210_AN_10"
+    ],
+    "Raw Data File": [
+      "160123_210_AN_10.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "pre-digested with 1.6 μg of Lys-C (Pierce)",
+      "digested with bead-immobilized trypsin (40 μL of beads per 250 μg of protein; Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide at a final concentration of 8.3 mM"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC1000 (Thermo Scientific)",
+      "QExactive mass spectrometer (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[GradientTime]": [
+      "140 min gradient"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normal collision energy of 28"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm mass tolerance for precursor ions"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "15 mmu for fragment-ion mass tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages of trypsin"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via high-pH reversed-phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 15 fractions non-contiguously (1 + 16 + 31 + 46 + 61, 2 + 17 + 32 + 47 + 62, etc.)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 1 mL/min."
+    ],
+    "Comment[IonizationType]": [
+      "nanoelectrospray"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "ECM proteins were enriched from frozen whole tissue or tumor sections (20 × 30 μm sections, ∼40−50 mg of tissue)"
+    ],
+    "Characteristics[Organism]": [
+      "SwissProt Homo sapiens database containing 20 199 entries."
+    ],
+    "Characteristics[Specimen]": [
+      "ECM-enriched samples"
+    ]
+  },
+  "160403_210_AN_5_f8.raw": {
+    "Source Name": [
+      "160403_210_AN_5"
+    ],
+    "Assay Name": [
+      "160403_210_AN_5_f8"
+    ],
+    "Raw Data File": [
+      "160403_210_AN_5_f8.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "f8"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "pre-digested with 1.6 μg of Lys-C (Pierce)",
+      "digested with bead-immobilized trypsin (40 μL of beads per 250 μg of protein; Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide at a final concentration of 8.3 mM"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC1000 (Thermo Scientific)",
+      "QExactive mass spectrometer (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[GradientTime]": [
+      "140 min gradient"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normal collision energy of 28"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm mass tolerance for precursor ions"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "15 mmu for fragment-ion mass tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages of trypsin"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via high-pH reversed-phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 15 fractions non-contiguously (1 + 16 + 31 + 46 + 61, 2 + 17 + 32 + 47 + 62, etc.)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 1 mL/min."
+    ],
+    "Comment[IonizationType]": [
+      "nanoelectrospray"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "ECM proteins were enriched from frozen whole tissue or tumor sections (20 × 30 μm sections, ∼40−50 mg of tissue)"
+    ],
+    "Characteristics[Organism]": [
+      "SwissProt Homo sapiens database containing 20 199 entries."
+    ],
+    "Characteristics[Specimen]": [
+      "ECM-enriched samples"
+    ]
+  },
+  "150603_121_AN_G138_C2_f10.raw": {
+    "Source Name": [
+      "150603_121_AN_G138_C2"
+    ],
+    "Assay Name": [
+      "150603_121_AN_G138_C2_f10"
+    ],
+    "Raw Data File": [
+      "150603_121_AN_G138_C2_f10.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "f10"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "pre-digested with 1.6 μg of Lys-C (Pierce)",
+      "digested with bead-immobilized trypsin (40 μL of beads per 250 μg of protein; Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide at a final concentration of 8.3 mM"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC1000 (Thermo Scientific)",
+      "QExactive mass spectrometer (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[GradientTime]": [
+      "140 min gradient"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normal collision energy of 28"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm mass tolerance for precursor ions"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "15 mmu for fragment-ion mass tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages of trypsin"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via high-pH reversed-phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 15 fractions non-contiguously (1 + 16 + 31 + 46 + 61, 2 + 17 + 32 + 47 + 62, etc.)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 1 mL/min."
+    ],
+    "Comment[IonizationType]": [
+      "nanoelectrospray"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "ECM proteins were enriched from frozen whole tissue or tumor sections (20 × 30 μm sections, ∼40−50 mg of tissue)"
+    ],
+    "Characteristics[Organism]": [
+      "SwissProt Homo sapiens database containing 20 199 entries."
+    ],
+    "Characteristics[Specimen]": [
+      "ECM-enriched samples"
+    ]
+  },
+  "150911_174_AN_G138_C1_f15.raw": {
+    "Source Name": [
+      "150911_174_AN_G138_C1"
+    ],
+    "Assay Name": [
+      "150911_174_AN_G138_C1_f15"
+    ],
+    "Raw Data File": [
+      "150911_174_AN_G138_C1_f15.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "f15"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "pre-digested with 1.6 μg of Lys-C (Pierce)",
+      "digested with bead-immobilized trypsin (40 μL of beads per 250 μg of protein; Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide at a final concentration of 8.3 mM"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC1000 (Thermo Scientific)",
+      "QExactive mass spectrometer (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[GradientTime]": [
+      "140 min gradient"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normal collision energy of 28"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm mass tolerance for precursor ions"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "15 mmu for fragment-ion mass tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages of trypsin"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via high-pH reversed-phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 15 fractions non-contiguously (1 + 16 + 31 + 46 + 61, 2 + 17 + 32 + 47 + 62, etc.)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 1 mL/min."
+    ],
+    "Comment[IonizationType]": [
+      "nanoelectrospray"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "ECM proteins were enriched from frozen whole tissue or tumor sections (20 × 30 μm sections, ∼40−50 mg of tissue)"
+    ],
+    "Characteristics[Organism]": [
+      "SwissProt Homo sapiens database containing 20 199 entries."
+    ],
+    "Characteristics[Specimen]": [
+      "ECM-enriched samples"
+    ]
+  },
+  "150911_174_AN_G138_C1_f10.raw": {
+    "Source Name": [
+      "150911_174_AN_G138_C1"
+    ],
+    "Assay Name": [
+      "150911_174_AN_G138_C1_f10"
+    ],
+    "Raw Data File": [
+      "150911_174_AN_G138_C1_f10.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "f10"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "pre-digested with 1.6 μg of Lys-C (Pierce)",
+      "digested with bead-immobilized trypsin (40 μL of beads per 250 μg of protein; Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide at a final concentration of 8.3 mM"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC1000 (Thermo Scientific)",
+      "QExactive mass spectrometer (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[GradientTime]": [
+      "140 min gradient"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normal collision energy of 28"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm mass tolerance for precursor ions"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "15 mmu for fragment-ion mass tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages of trypsin"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via high-pH reversed-phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 15 fractions non-contiguously (1 + 16 + 31 + 46 + 61, 2 + 17 + 32 + 47 + 62, etc.)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 1 mL/min."
+    ],
+    "Comment[IonizationType]": [
+      "nanoelectrospray"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "ECM proteins were enriched from frozen whole tissue or tumor sections (20 × 30 μm sections, ∼40−50 mg of tissue)"
+    ],
+    "Characteristics[Organism]": [
+      "SwissProt Homo sapiens database containing 20 199 entries."
+    ],
+    "Characteristics[Specimen]": [
+      "ECM-enriched samples"
+    ]
+  },
+  "150603_121_AN_G138_S2_f4.raw": {
+    "Source Name": [
+      "150603_121_AN_G138_S2"
+    ],
+    "Assay Name": [
+      "150603_121_AN_G138_S2_f4"
+    ],
+    "Raw Data File": [
+      "150603_121_AN_G138_S2_f4.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "f4"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "pre-digested with 1.6 μg of Lys-C (Pierce)",
+      "digested with bead-immobilized trypsin (40 μL of beads per 250 μg of protein; Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 M dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide at a final concentration of 8.3 mM"
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC1000 (Thermo Scientific)",
+      "QExactive mass spectrometer (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[GradientTime]": [
+      "140 min gradient"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normal collision energy of 28"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm mass tolerance for precursor ions"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "15 mmu for fragment-ion mass tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages of trypsin"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via high-pH reversed-phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 15 fractions non-contiguously (1 + 16 + 31 + 46 + 61, 2 + 17 + 32 + 47 + 62, etc.)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 1 mL/min."
+    ],
+    "Comment[IonizationType]": [
+      "nanoelectrospray"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "ECM proteins were enriched from frozen whole tissue or tumor sections (20 × 30 μm sections, ∼40−50 mg of tissue)"
+    ],
+    "Characteristics[Organism]": [
+      "SwissProt Homo sapiens database containing 20 199 entries."
+    ],
+    "Characteristics[Specimen]": [
+      "ECM-enriched samples"
+    ]
+  }
+}

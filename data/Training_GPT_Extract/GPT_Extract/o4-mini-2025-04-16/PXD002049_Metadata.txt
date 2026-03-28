@@ -1,0 +1,44 @@
+NumberOfSamples: 90 colon and rectal carcinomas  
+OrganismPart: colon and rectal carcinomas  
+NumberOfSamples: 95 carcinoma samples  
+NumberOfSamples: 60 normal epithelial samples  
+Time: 9 months  
+SourceName: TCGA Biospecimen Core Resource (BCR)  
+Time: 1 h  
+Temperature: −80 °C  
+Time: 30 s  
+Time: 5 min  
+Temperature: 20 °C  
+Temperature: 60 °C  
+Instrument: Fisher Scientific Sonic Dismembrator Model 100  
+AssayName: BCA Protein Assay (ThermoFisher Pierce, Rockford, IL)  
+ReductionReagent: tris(2-carboxyethyl)phosphine (TCEP, 20 mM)  
+ReductionReagent: dithiothreitol (DTT, 50 mM)  
+AlkylationReagent: iodoacetamide (IAM, 100 mM)  
+CleavageAgent: Trypsin was added at a ratio of 1:50 (w:w)  
+Temperature: 37 °C  
+Separation: basic reverse phase liquid chromatography (bRPLC)  
+Separation: XBridge BEH C18, 250 mm×4.6 mm analytical column (130A, 5 μm particle size)  
+FlowRateChromatogram: 0.5 ml/min  
+GradientTime: from 0 to 5% B in 10 min, from 5 to 35% B in 60 min, from 35–70% in 15 min and held at 70% B for an additional 10 min  
+NumberOfFractions: 60 fractions were collected over the 105 min gradient  
+FractionationFraction: concatenated into 15 fractions  
+AssayName: reverse phase liquid chromatography-tandem mass spectrometry  
+Instrument: Thermo LTQ Orbitrap Velos ion trap mass spectrometer  
+Instrument: Eksigent NanoLC 2D pump  
+Instrument: AS-1 autosampler  
+MaterialType: Jupiter C18 resin (5 μm, 300 Å, Phenomenex)  
+GradientTime: 95 min gradient  
+FlowRateChromatogram: 1.5 μl min−1  
+Time: 15 min  
+PrecursorMassTolerance: 3 m/z  
+CollisionEnergy: 35% normalized collision energy  
+Time: 30 ms  
+Time: 60 s  
+Time: July 26, 2012  
+Time: June 27, 2013  
+PrecursorMassTolerance: 10 ppm  
+PrecursorMassTolerance: 20 ppm  
+FragmentMassTolerance: 0.5 m/z  
+Modification: +57 modifications to cysteines  
+Modification: +16 oxidations to methionines

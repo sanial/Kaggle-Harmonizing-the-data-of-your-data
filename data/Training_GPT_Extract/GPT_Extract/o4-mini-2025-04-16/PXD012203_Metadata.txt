@@ -1,0 +1,32 @@
+AssayName: isobaric tag for relative and absolute quantitation (iTRAQ)  
+AssayName: label-free quantitative proteomics  
+AssayName: LC-MS/MS-based iTRAQ quantitative proteomics approach  
+Disease: Alzheimer’s disease (AD)  
+Organism: human  
+Specimen: Frozen brain samples of the medial frontal gyrus  
+OrganismPart: medial frontal gyrus  
+Age: 67 ± 3.0-year-old  
+Age: 68 ± 2.0-year-old  
+Age: 84 ± 3.2 year old  
+Age: 83.8 ± 3.5 year old  
+SampleTreatment: acetone precipitation  
+Separation: 12.5% SDS-PAGE  
+CleavageAgent: sequencing grade modified trypsin  
+ReductionReagent: Tris 2- carboxyethyl phosphine hydrochloride (5 mM)  
+AlkylationReagent: methyl methanethiosulfonate (10 mM)  
+ConcentrationOfCompound: 8M urea, 100 mM ammonium acetate, pH 6.0  
+FractionationMethod: C18 column (4.6 × 200 mm, 5 μm, 300 Å)  
+GradientTime: 60-min gradient  
+FlowRateChromatogram: 1.0 ml/min  
+FlowRateChromatogram: 300 nl/min  
+Instrument: Q-Exactive apparatus  
+IonizationType: electrospray  
+FragmentationMethod: HCD  
+CollisionEnergy: normalized collision energy was set to 28  
+PrecursorMassTolerance: 10 ppm  
+FragmentMassTolerance: 0.02 Da  
+NumberOfMissedCleavages: 2  
+NumberOfTechnicalReplicates: triplicate  
+Label: iTRAQ 4Plex  
+EnrichmentMethod: anti-TOM22 MicroBeads  
+PooledSample: equal quantity was pooled in a group-wise manner

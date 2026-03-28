@@ -1,0 +1,32 @@
+AssayName: Proteomics
+AssayName: mass spectrometry
+MaterialType: Extracellular Matrix
+Disease: triple-negative breast cancer
+OrganismPart: adjacent mammary tissue
+Disease: high-grade serous ovarian cancer
+OrganismPart: normal omentum
+SupplementaryFile: PXD005554
+Sex: women
+ConcentrationOfCompound: 8 M urea
+ConcentrationOfCompound: 20 mM HEPES
+ConcentrationOfCompound: Na3VO4 (100 mM)
+ConcentrationOfCompound: NaF (0.5M)
+ConcentrationOfCompound: β-glycerol phosphate (1 M)
+ConcentrationOfCompound: Na2H2P2O7 (0.25 M)
+ConcentrationOfCompound: 5 mM dithiothreitol
+ConcentrationOfCompound: iodoacetamide at a final concentration of 8.3 mM
+ConcentrationOfCompound: 1.6 μg of Lys-C
+ConcentrationOfCompound: 40 μL of beads per 250 μg of protein
+ConcentrationOfCompound: 1% v/v
+ConcentrationOfCompound: 0.1% formic acid
+Instrument: EASY-nLC1000
+Instrument: QExactive mass spectrometer
+GradientTime: 140 min
+PrecursorMassTolerance: 10 ppm
+FragmentMassTolerance: 15 mmu
+NumberOfMissedCleavages: two
+Modification: carbamidomethylation of cysteine
+Modification: oxidized methionine
+Modification: deamidation of asparagine
+Modification: pyro-glutamic acid modification at N-terminal glutamine
+Modification: hydroxylation of lysine and proline

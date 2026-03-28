@@ -1,0 +1,33 @@
+Instrument: Q-Exactive-HF (Thermo Scientific) mass spectrometer  
+Instrument: UltiMate 3000 RSLCnano (Thermo Scientific) UHPLC system  
+Instrument: JOEL JEM-1400 transmission electron microscope  
+FlowRateChromatogram: constant flow rate of 300 nl/min  
+FlowRateChromatogram: constant flow rate of 0.2 ml/min  
+GradientTime: linear gradient from 95% buffer A to 40% buffer B in 122 min  
+GradientTime: to 98% buffer B by 132 min  
+Temperature: 30oc  
+ReductionReagent: 100 mM DTT  
+CleavageAgent: trypsin  
+SampleTreatment: fixed in formalin  
+SampleTreatment: Fresh frozen brain tissue  
+SampleTreatment: paraffin embedded tissue  
+FractionationMethod: High pH RP HPLC  
+Separation: SDS-PAGE  
+AssayName: complex 8-plex TMT LC-MS/MS analysis  
+AssayName: LC-MS/MS analysis  
+Organism: human  
+OrganismPart: superior temporal gyrus (BA41/42)  
+OrganismPart: primary visual cortex (BA17)  
+OrganismPart: temporal and occipital cortices  
+Disease: Alzheimer’s disease  
+Disease: control subjects  
+Genotype: APOE3/3  
+Genotype: APOE3/4  
+NumberOfSamples: 8  
+NumberOfFractions: 20  
+PooledSample: 25 μg of each of the 33 subjects were pooled according to disease status, APOE genotype (3/3 or 3/4) and brain region (BA41/42 or BA17)  
+MaterialType: synaptoneurosome preparations  
+PrecursorMassTolerance: 10 ppm  
+FragmentMassTolerance: 0.02 Da  
+Label: TMT8plex_Nter  
+Label: TMT 8plex-Lys

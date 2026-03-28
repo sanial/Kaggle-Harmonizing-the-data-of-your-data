@@ -1,0 +1,692 @@
+{
+  "Rice_phos_BR_3h_20per_F1_R2.raw": {
+    "Source Name": [
+      "Nipponbare_3h_BR"
+    ],
+    "Assay Name": [
+      "Nipponbare_3h_BR_F1_R2"
+    ],
+    "Raw Data File": [
+      "Rice_phos_BR_3h_20per_F1_R2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Nipponbare (Oryza sativa L. ssp japonica)"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "14 DAG (Day After Germination) seedlings",
+      "Two-week old young seedlings with hydroponics"
+    ],
+    "Characteristics[MaterialType]": [
+      "rice young seedlings"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates were performed for each treatment and the control."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R2"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1000 liquid chromatography system (Thermo, Waltham, MA, USA)",
+      "Q-Exactive Plus"
+    ],
+    "Comment[IonizationType]": [
+      "nano-electrospray ion source (Thermo, Waltham, MA, USA)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD cell"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 27%"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "50 mmu"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer operating at a resolution of 17,500 at m/z 400"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "500 nl/min"
+    ],
+    "Comment[Separation]": [
+      "linear 5–35% acetonitrile gradient at 500 nl/min"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavage on trypsin was allowed."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "incubated with 4 mg TiO2 beads (GL sciences, Torrance, CA, USA) for three times, each time for 30 minutes at room temperature."
+    ],
+    "Comment[FractionIdentifier]": [
+      "F1"
+    ],
+    "FactorValue[Time]": [
+      "3 hour (3 h)"
+    ],
+    "FactorValue[Treatment]": [
+      "BR treatment",
+      "soaked into water containing 10 μM epibrassinolide (Cat No. E1641, Sigma, St. Louis, MN, USA) for 24 hours"
+    ],
+    "Characteristics[Specimen]": [
+      "grown by hydroponics method in growth chambers (90% relative humidity, 30/28°C, 14 h light/10 h dark cycle)."
+    ]
+  },
+  "Rice_phos_Nip_0h_20per_F1_R1.raw": {
+    "Source Name": [
+      "Nipponbare_0h_control"
+    ],
+    "Assay Name": [
+      "Nipponbare_0h_control_F1_R1"
+    ],
+    "Raw Data File": [
+      "Rice_phos_Nip_0h_20per_F1_R1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Nipponbare (Oryza sativa L. ssp japonica)"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "14 DAG (Day After Germination) seedlings",
+      "Two-week old young seedlings with hydroponics"
+    ],
+    "Characteristics[MaterialType]": [
+      "rice young seedlings"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates were performed for each treatment and the control."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1000 liquid chromatography system (Thermo, Waltham, MA, USA)",
+      "Q-Exactive Plus"
+    ],
+    "Comment[IonizationType]": [
+      "nano-electrospray ion source (Thermo, Waltham, MA, USA)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD cell"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 27%"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "50 mmu"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer operating at a resolution of 17,500 at m/z 400"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "500 nl/min"
+    ],
+    "Comment[Separation]": [
+      "linear 5–35% acetonitrile gradient at 500 nl/min"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavage on trypsin was allowed."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "incubated with 4 mg TiO2 beads (GL sciences, Torrance, CA, USA) for three times, each time for 30 minutes at room temperature."
+    ],
+    "Comment[FractionIdentifier]": [
+      "F1"
+    ],
+    "FactorValue[Time]": [
+      "0 hour (0 h)"
+    ],
+    "FactorValue[Treatment]": [
+      "control"
+    ],
+    "Characteristics[Specimen]": [
+      "grown by hydroponics method in growth chambers (90% relative humidity, 30/28°C, 14 h light/10 h dark cycle)."
+    ]
+  },
+  "Rice_phos_Nip_0h_20per_F1_R2.raw": {
+    "Source Name": [
+      "Nipponbare_0h_control"
+    ],
+    "Assay Name": [
+      "Nipponbare_0h_control_F1_R2"
+    ],
+    "Raw Data File": [
+      "Rice_phos_Nip_0h_20per_F1_R2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Nipponbare (Oryza sativa L. ssp japonica)"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "14 DAG (Day After Germination) seedlings",
+      "Two-week old young seedlings with hydroponics"
+    ],
+    "Characteristics[MaterialType]": [
+      "rice young seedlings"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates were performed for each treatment and the control."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R2"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1000 liquid chromatography system (Thermo, Waltham, MA, USA)",
+      "Q-Exactive Plus"
+    ],
+    "Comment[IonizationType]": [
+      "nano-electrospray ion source (Thermo, Waltham, MA, USA)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD cell"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 27%"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "50 mmu"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer operating at a resolution of 17,500 at m/z 400"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "500 nl/min"
+    ],
+    "Comment[Separation]": [
+      "linear 5–35% acetonitrile gradient at 500 nl/min"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavage on trypsin was allowed."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "incubated with 4 mg TiO2 beads (GL sciences, Torrance, CA, USA) for three times, each time for 30 minutes at room temperature."
+    ],
+    "Comment[FractionIdentifier]": [
+      "F1"
+    ],
+    "FactorValue[Time]": [
+      "0 hour (0 h)"
+    ],
+    "FactorValue[Treatment]": [
+      "control"
+    ],
+    "Characteristics[Specimen]": [
+      "grown by hydroponics method in growth chambers (90% relative humidity, 30/28°C, 14 h light/10 h dark cycle)."
+    ]
+  },
+  "Rice_phos_BR_12h_20per_F1_R2.raw": {
+    "Source Name": [
+      "Nipponbare_12h_BR"
+    ],
+    "Assay Name": [
+      "Nipponbare_12h_BR_F1_R2"
+    ],
+    "Raw Data File": [
+      "Rice_phos_BR_12h_20per_F1_R2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Nipponbare (Oryza sativa L. ssp japonica)"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "14 DAG (Day After Germination) seedlings",
+      "Two-week old young seedlings with hydroponics"
+    ],
+    "Characteristics[MaterialType]": [
+      "rice young seedlings"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates were performed for each treatment and the control."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R2"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1000 liquid chromatography system (Thermo, Waltham, MA, USA)",
+      "Q-Exactive Plus"
+    ],
+    "Comment[IonizationType]": [
+      "nano-electrospray ion source (Thermo, Waltham, MA, USA)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD cell"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 27%"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "50 mmu"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer operating at a resolution of 17,500 at m/z 400"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "500 nl/min"
+    ],
+    "Comment[Separation]": [
+      "linear 5–35% acetonitrile gradient at 500 nl/min"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavage on trypsin was allowed."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "incubated with 4 mg TiO2 beads (GL sciences, Torrance, CA, USA) for three times, each time for 30 minutes at room temperature."
+    ],
+    "Comment[FractionIdentifier]": [
+      "F1"
+    ],
+    "FactorValue[Time]": [
+      "12 hour (12 h)"
+    ],
+    "FactorValue[Treatment]": [
+      "BR treatment",
+      "soaked into water containing 10 μM epibrassinolide (Cat No. E1641, Sigma, St. Louis, MN, USA) for 24 hours"
+    ],
+    "Characteristics[Specimen]": [
+      "grown by hydroponics method in growth chambers (90% relative humidity, 30/28°C, 14 h light/10 h dark cycle)."
+    ]
+  },
+  "Rice_phos_BR_12h_20per_F1_R1.raw": {
+    "Source Name": [
+      "Nipponbare_12h_BR"
+    ],
+    "Assay Name": [
+      "Nipponbare_12h_BR_F1_R1"
+    ],
+    "Raw Data File": [
+      "Rice_phos_BR_12h_20per_F1_R1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Nipponbare (Oryza sativa L. ssp japonica)"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "14 DAG (Day After Germination) seedlings",
+      "Two-week old young seedlings with hydroponics"
+    ],
+    "Characteristics[MaterialType]": [
+      "rice young seedlings"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates were performed for each treatment and the control."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1000 liquid chromatography system (Thermo, Waltham, MA, USA)",
+      "Q-Exactive Plus"
+    ],
+    "Comment[IonizationType]": [
+      "nano-electrospray ion source (Thermo, Waltham, MA, USA)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD cell"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 27%"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "50 mmu"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer operating at a resolution of 17,500 at m/z 400"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "500 nl/min"
+    ],
+    "Comment[Separation]": [
+      "linear 5–35% acetonitrile gradient at 500 nl/min"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavage on trypsin was allowed."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "incubated with 4 mg TiO2 beads (GL sciences, Torrance, CA, USA) for three times, each time for 30 minutes at room temperature."
+    ],
+    "Comment[FractionIdentifier]": [
+      "F1"
+    ],
+    "FactorValue[Time]": [
+      "12 hour (12 h)"
+    ],
+    "FactorValue[Treatment]": [
+      "BR treatment",
+      "soaked into water containing 10 μM epibrassinolide (Cat No. E1641, Sigma, St. Louis, MN, USA) for 24 hours"
+    ],
+    "Characteristics[Specimen]": [
+      "grown by hydroponics method in growth chambers (90% relative humidity, 30/28°C, 14 h light/10 h dark cycle)."
+    ]
+  },
+  "Rice_phos_BR_12h_20per_F1_R3.raw": {
+    "Source Name": [
+      "Nipponbare_12h_BR"
+    ],
+    "Assay Name": [
+      "Nipponbare_12h_BR_F1_R3"
+    ],
+    "Raw Data File": [
+      "Rice_phos_BR_12h_20per_F1_R3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Nipponbare (Oryza sativa L. ssp japonica)"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "14 DAG (Day After Germination) seedlings",
+      "Two-week old young seedlings with hydroponics"
+    ],
+    "Characteristics[MaterialType]": [
+      "rice young seedlings"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates were performed for each treatment and the control."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R3"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1000 liquid chromatography system (Thermo, Waltham, MA, USA)",
+      "Q-Exactive Plus"
+    ],
+    "Comment[IonizationType]": [
+      "nano-electrospray ion source (Thermo, Waltham, MA, USA)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD cell"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 27%"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "50 mmu"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer operating at a resolution of 17,500 at m/z 400"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "500 nl/min"
+    ],
+    "Comment[Separation]": [
+      "linear 5–35% acetonitrile gradient at 500 nl/min"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavage on trypsin was allowed."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "incubated with 4 mg TiO2 beads (GL sciences, Torrance, CA, USA) for three times, each time for 30 minutes at room temperature."
+    ],
+    "Comment[FractionIdentifier]": [
+      "F1"
+    ],
+    "FactorValue[Time]": [
+      "12 hour (12 h)"
+    ],
+    "FactorValue[Treatment]": [
+      "BR treatment",
+      "soaked into water containing 10 μM epibrassinolide (Cat No. E1641, Sigma, St. Louis, MN, USA) for 24 hours"
+    ],
+    "Characteristics[Specimen]": [
+      "grown by hydroponics method in growth chambers (90% relative humidity, 30/28°C, 14 h light/10 h dark cycle)."
+    ]
+  },
+  "Rice_phos_BR_3h_20per_F1_R3.raw": {
+    "Source Name": [
+      "Nipponbare_3h_BR"
+    ],
+    "Assay Name": [
+      "Nipponbare_3h_BR_F1_R3"
+    ],
+    "Raw Data File": [
+      "Rice_phos_BR_3h_20per_F1_R3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Nipponbare (Oryza sativa L. ssp japonica)"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "14 DAG (Day After Germination) seedlings",
+      "Two-week old young seedlings with hydroponics"
+    ],
+    "Characteristics[MaterialType]": [
+      "rice young seedlings"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates were performed for each treatment and the control."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R3"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1000 liquid chromatography system (Thermo, Waltham, MA, USA)",
+      "Q-Exactive Plus"
+    ],
+    "Comment[IonizationType]": [
+      "nano-electrospray ion source (Thermo, Waltham, MA, USA)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD cell"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 27%"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "50 mmu"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer operating at a resolution of 17,500 at m/z 400"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "500 nl/min"
+    ],
+    "Comment[Separation]": [
+      "linear 5–35% acetonitrile gradient at 500 nl/min"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavage on trypsin was allowed."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "incubated with 4 mg TiO2 beads (GL sciences, Torrance, CA, USA) for three times, each time for 30 minutes at room temperature."
+    ],
+    "Comment[FractionIdentifier]": [
+      "F1"
+    ],
+    "FactorValue[Time]": [
+      "3 hour (3 h)"
+    ],
+    "FactorValue[Treatment]": [
+      "BR treatment",
+      "soaked into water containing 10 μM epibrassinolide (Cat No. E1641, Sigma, St. Louis, MN, USA) for 24 hours"
+    ],
+    "Characteristics[Specimen]": [
+      "grown by hydroponics method in growth chambers (90% relative humidity, 30/28°C, 14 h light/10 h dark cycle)."
+    ]
+  },
+  "Rice_phos_BR_3h_20per_F1_R1.raw": {
+    "Source Name": [
+      "Nipponbare_3h_BR"
+    ],
+    "Assay Name": [
+      "Nipponbare_3h_BR_F1_R1"
+    ],
+    "Raw Data File": [
+      "Rice_phos_BR_3h_20per_F1_R1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Nipponbare (Oryza sativa L. ssp japonica)"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "14 DAG (Day After Germination) seedlings",
+      "Two-week old young seedlings with hydroponics"
+    ],
+    "Characteristics[MaterialType]": [
+      "rice young seedlings"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates were performed for each treatment and the control."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1000 liquid chromatography system (Thermo, Waltham, MA, USA)",
+      "Q-Exactive Plus"
+    ],
+    "Comment[IonizationType]": [
+      "nano-electrospray ion source (Thermo, Waltham, MA, USA)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD cell"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 27%"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "50 mmu"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer operating at a resolution of 17,500 at m/z 400"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "500 nl/min"
+    ],
+    "Comment[Separation]": [
+      "linear 5–35% acetonitrile gradient at 500 nl/min"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavage on trypsin was allowed."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "incubated with 4 mg TiO2 beads (GL sciences, Torrance, CA, USA) for three times, each time for 30 minutes at room temperature."
+    ],
+    "Comment[FractionIdentifier]": [
+      "F1"
+    ],
+    "FactorValue[Time]": [
+      "3 hour (3 h)"
+    ],
+    "FactorValue[Treatment]": [
+      "BR treatment",
+      "soaked into water containing 10 μM epibrassinolide (Cat No. E1641, Sigma, St. Louis, MN, USA) for 24 hours"
+    ],
+    "Characteristics[Specimen]": [
+      "grown by hydroponics method in growth chambers (90% relative humidity, 30/28°C, 14 h light/10 h dark cycle)."
+    ]
+  },
+  "Rice_phos_Nip_0h_20per_F1_R3.raw": {
+    "Source Name": [
+      "Nipponbare_0h_control"
+    ],
+    "Assay Name": [
+      "Nipponbare_0h_control_F1_R3"
+    ],
+    "Raw Data File": [
+      "Rice_phos_Nip_0h_20per_F1_R3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Nipponbare (Oryza sativa L. ssp japonica)"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "14 DAG (Day After Germination) seedlings",
+      "Two-week old young seedlings with hydroponics"
+    ],
+    "Characteristics[MaterialType]": [
+      "rice young seedlings"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates were performed for each treatment and the control."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R3"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1000 liquid chromatography system (Thermo, Waltham, MA, USA)",
+      "Q-Exactive Plus"
+    ],
+    "Comment[IonizationType]": [
+      "nano-electrospray ion source (Thermo, Waltham, MA, USA)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD cell"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 27%"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "50 mmu"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer operating at a resolution of 17,500 at m/z 400"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "500 nl/min"
+    ],
+    "Comment[Separation]": [
+      "linear 5–35% acetonitrile gradient at 500 nl/min"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavage on trypsin was allowed."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "incubated with 4 mg TiO2 beads (GL sciences, Torrance, CA, USA) for three times, each time for 30 minutes at room temperature."
+    ],
+    "Comment[FractionIdentifier]": [
+      "F1"
+    ],
+    "FactorValue[Time]": [
+      "0 hour (0 h)"
+    ],
+    "FactorValue[Treatment]": [
+      "control"
+    ],
+    "Characteristics[Specimen]": [
+      "grown by hydroponics method in growth chambers (90% relative humidity, 30/28°C, 14 h light/10 h dark cycle)."
+    ]
+  }
+}

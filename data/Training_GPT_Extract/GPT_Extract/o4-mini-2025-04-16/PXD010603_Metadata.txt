@@ -1,0 +1,35 @@
+Disease: Alzheimer’s Disease
+SamplingTime: maximum post-mortem interval of five hours
+SamplingTime: fifteen hours
+Temperature: −80° C
+Staining: α-phosphorylated tau protein antibody
+Staining: hematoxylin
+Compound: 6M Guanadine HCl
+Compound: 100mM Tris pH 8
+Instrument: Misonix XL-2000
+AssayName: protein BCA assay (Thermo Scientific)
+Compound: 90% methanol
+ReductionReagent: 10mM TCEP
+AlkylationReagent: 40mM CAA
+Compound: 8M urea
+Time: overnight
+Instrument: HPLC (Agilent, Infinity 2000)
+MaterialType: C18 reverse-phase column (Waters, XBridge Peptide BEH, particle size 3.5um)
+NumberOfFractions: 32
+NumberOfFractions: 16
+NumberOfFractions: 12
+Temperature: 50°C
+Instrument: Waters UHPLC
+Compound: 0.2% formic acid
+Compound: 0.2% formic acid with 70% acetonitrile
+Compound: 10mM ammonium acetate, pH 10
+Compound: 10mM ammonium acetate, 80% methanol, pH 10
+FlowRateChromatogram: 0.35 ul/minute
+GradientTime: 75 minutes
+Time: 3 min
+Time: 10 min
+Instrument: Thermo Orbitrap Fusion Lumos
+IonizationType: electrospray ionization
+PrecursorMassTolerance: 25ppm mass tolerance
+CollisionEnergy: normalized collision energy level of 30
+FragmentMassTolerance: 0.5 Da MS2 match tolerance

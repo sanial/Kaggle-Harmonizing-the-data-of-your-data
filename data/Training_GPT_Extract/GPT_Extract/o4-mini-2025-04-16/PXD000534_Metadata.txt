@@ -1,0 +1,45 @@
+Instrument: Typhoon 9400 (Amersham Biosciences)
+Instrument: UltraFlexTM II instrument (Bruker Daltonics, Bremen, Germany)
+Instrument: Ultimate 3000 RSLCnano system (Dionex, Idstein, Germany)
+Instrument: LTQ Orbitrap Elite (Thermo Scientific)
+AssayName: 2D-DIGE
+AssayName: label-free LC-MS/MS
+AssayName: MALDI-TOF-MS
+AssayName: LC-MS/MS
+Label: Cy3
+Label: Cy5
+Label: Cy2
+ConcentrationOfCompound: 400 pmol cyanine dyes
+CleavageAgent: trypsin
+SampleTreatment: sonication (six 10-s pulses on ice)
+SampleTreatment: centrifugation (15,000 × g, 5 min)
+Temperature: 60 °C
+Temperature: −80 °C
+Temperature: 95 °C
+GradientTime: 98 min
+FlowRateChromatogram: 400 nl/min
+FlowRateChromatogram: 30 μl/min
+PrecursorMassTolerance: 5 ppm
+FragmentMassTolerance: 0.4 Da
+OrganismPart: non-tumorous liver tissue
+OrganismPart: CCC tumor tissue
+OrganismPart: adjacent non-tumorous liver tissue
+AnatomicSiteTumor: epithelial cells of bile ducts
+Sex: 48 females and 29 males
+Age: 28 to 81 years (mean 62)
+NumberOfSamples: n = 8
+NumberOfSamples: seven versus seven samples
+NumberOfSamples: 14 patients
+NumberOfSamples: 60 patient samples
+PooledSample: A mixture of all samples
+SupplementaryFile: PXD000534
+SupplementaryFile: 10.6019/PXD000534
+MaterialType: 4-μm slides
+FractionationMethod: SDS-PAGE
+OriginSiteDisease: University Hospital of Essen, Department of General, Visceral and Transplantation Surgery, Germany
+CellType: hepatocytes
+CellType: cholangiocytes
+CellType: hepatic stellate cells
+CellType: vascular endothelial cells
+CellType: smooth muscle cells
+CellType: myofibroblasts

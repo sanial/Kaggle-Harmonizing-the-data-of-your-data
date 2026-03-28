@@ -1,0 +1,23 @@
+ConcentrationOfCompound: 7 M urea  
+ConcentrationOfCompound: 2 M thiourea  
+ConcentrationOfCompound: 4% CHAPS  
+ConcentrationOfCompound: 3.6% Protease inhibitors  
+ReductionReagent: 10 mM DTE  
+AlkylationReagent: 0.05 M iodoacetamide  
+CleavageAgent: trypsin ratio 1:100  
+AssayName: LC/MS  
+Instrument: Dionex Ultimate 3000 UHPLC system  
+Instrument: Orbitrap-Elite mass spectrometer  
+IonizationType: Positive ion electrospray ionization  
+FlowRateChromatogram: 5 μL/min  
+FlowRateChromatogram: 300 nl/min  
+GradientTime: 240 min  
+Temperature: 35 °C  
+PrecursorMassTolerance: 10 ppm  
+FragmentMassTolerance: 0.05 Da  
+CollisionEnergy: Normalized collision energy was set to 33  
+FragmentationMethod: higher-energy collisional dissociation (HCD) fragmentation  
+ConcentrationOfCompound: 0.1% formic acid  
+ConcentrationOfCompound: 100% acetonitrile  
+SourceName: native hUAs  
+SourceName: decellularized hUAs

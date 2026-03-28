@@ -1,0 +1,4412 @@
+{
+  "20171103_JMM_VC383_11.raw": {
+    "Source Name": [
+      "Source_20171103_JMM_VC383_11"
+    ],
+    "Assay Name": [
+      "Assay_20171103_JMM_VC383_11"
+    ],
+    "Raw Data File": [
+      "20171103_JMM_VC383_11.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171116_JMM_STG405_1.raw": {
+    "Source Name": [
+      "Source_20171116_JMM_STG405_1"
+    ],
+    "Assay Name": [
+      "Assay_20171116_JMM_STG405_1"
+    ],
+    "Raw Data File": [
+      "20171116_JMM_STG405_1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171017_JMM_IPL146_8.raw": {
+    "Source Name": [
+      "Source_20171017_JMM_IPL146_8"
+    ],
+    "Assay Name": [
+      "Assay_20171017_JMM_IPL146_8"
+    ],
+    "Raw Data File": [
+      "20171017_JMM_IPL146_8.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20181202_JMM_146STG.raw": {
+    "Source Name": [
+      "Source_20181202_JMM_146STG"
+    ],
+    "Assay Name": [
+      "Assay_20181202_JMM_146STG"
+    ],
+    "Raw Data File": [
+      "20181202_JMM_146STG.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171018_JMM_MFG146_4.raw": {
+    "Source Name": [
+      "Source_20171018_JMM_MFG146_4"
+    ],
+    "Assay Name": [
+      "Assay_20171018_JMM_MFG146_4"
+    ],
+    "Raw Data File": [
+      "20171018_JMM_MFG146_4.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171026_JMM_CN383_10.raw": {
+    "Source Name": [
+      "Source_20171026_JMM_CN383_10"
+    ],
+    "Assay Name": [
+      "Assay_20171026_JMM_CN383_10"
+    ],
+    "Raw Data File": [
+      "20171026_JMM_CN383_10.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171114_JMM_IPL405_11.raw": {
+    "Source Name": [
+      "Source_20171114_JMM_IPL405_11"
+    ],
+    "Assay Name": [
+      "Assay_20171114_JMM_IPL405_11"
+    ],
+    "Raw Data File": [
+      "20171114_JMM_IPL405_11.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171114_JMM_IPL405_4.raw": {
+    "Source Name": [
+      "Source_20171114_JMM_IPL405_4"
+    ],
+    "Assay Name": [
+      "Assay_20171114_JMM_IPL405_4"
+    ],
+    "Raw Data File": [
+      "20171114_JMM_IPL405_4.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171026_JMM_CN383_11.raw": {
+    "Source Name": [
+      "Source_20171026_JMM_CN383_11"
+    ],
+    "Assay Name": [
+      "Assay_20171026_JMM_CN383_11"
+    ],
+    "Raw Data File": [
+      "20171026_JMM_CN383_11.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171117_JMM_T405_10.raw": {
+    "Source Name": [
+      "Source_20171117_JMM_T405_10"
+    ],
+    "Assay Name": [
+      "Assay_20171117_JMM_T405_10"
+    ],
+    "Raw Data File": [
+      "20171117_JMM_T405_10.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171115_JMM_MFG405_10.raw": {
+    "Source Name": [
+      "Source_20171115_JMM_MFG405_10"
+    ],
+    "Assay Name": [
+      "Assay_20171115_JMM_MFG405_10"
+    ],
+    "Raw Data File": [
+      "20171115_JMM_MFG405_10.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171117_JMM_VC405_10.raw": {
+    "Source Name": [
+      "Source_20171117_JMM_VC405_10"
+    ],
+    "Assay Name": [
+      "Assay_20171117_JMM_VC405_10"
+    ],
+    "Raw Data File": [
+      "20171117_JMM_VC405_10.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171017_JMM_IPL146_10.raw": {
+    "Source Name": [
+      "Source_20171017_JMM_IPL146_10"
+    ],
+    "Assay Name": [
+      "Assay_20171017_JMM_IPL146_10"
+    ],
+    "Raw Data File": [
+      "20171017_JMM_IPL146_10.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171101_JMM_MFG383_8.raw": {
+    "Source Name": [
+      "Source_20171101_JMM_MFG383_8"
+    ],
+    "Assay Name": [
+      "Assay_20171101_JMM_MFG383_8"
+    ],
+    "Raw Data File": [
+      "20171101_JMM_MFG383_8.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171025_JMM_VC146_6.raw": {
+    "Source Name": [
+      "Source_20171025_JMM_VC146_6"
+    ],
+    "Assay Name": [
+      "Assay_20171025_JMM_VC146_6"
+    ],
+    "Raw Data File": [
+      "20171025_JMM_VC146_6.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20181202_JMM_383E.raw": {
+    "Source Name": [
+      "Source_20181202_JMM_383E"
+    ],
+    "Assay Name": [
+      "Assay_20181202_JMM_383E"
+    ],
+    "Raw Data File": [
+      "20181202_JMM_383E.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171026_JMM_CN383_1.raw": {
+    "Source Name": [
+      "Source_20171026_JMM_CN383_1"
+    ],
+    "Assay Name": [
+      "Assay_20171026_JMM_CN383_1"
+    ],
+    "Raw Data File": [
+      "20171026_JMM_CN383_1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171017_JMM_IPL146_2.raw": {
+    "Source Name": [
+      "Source_20171017_JMM_IPL146_2"
+    ],
+    "Assay Name": [
+      "Assay_20171017_JMM_IPL146_2"
+    ],
+    "Raw Data File": [
+      "20171017_JMM_IPL146_2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171025_JMM_VC146_1.raw": {
+    "Source Name": [
+      "Source_20171025_JMM_VC146_1"
+    ],
+    "Assay Name": [
+      "Assay_20171025_JMM_VC146_1"
+    ],
+    "Raw Data File": [
+      "20171025_JMM_VC146_1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171025_JMM_VC146_10.raw": {
+    "Source Name": [
+      "Source_20171025_JMM_VC146_10"
+    ],
+    "Assay Name": [
+      "Assay_20171025_JMM_VC146_10"
+    ],
+    "Raw Data File": [
+      "20171025_JMM_VC146_10.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171114_JMM_EC405_11.raw": {
+    "Source Name": [
+      "Source_20171114_JMM_EC405_11"
+    ],
+    "Assay Name": [
+      "Assay_20171114_JMM_EC405_11"
+    ],
+    "Raw Data File": [
+      "20171114_JMM_EC405_11.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171117_JMM_T405_6.raw": {
+    "Source Name": [
+      "Source_20171117_JMM_T405_6"
+    ],
+    "Assay Name": [
+      "Assay_20171117_JMM_T405_6"
+    ],
+    "Raw Data File": [
+      "20171117_JMM_T405_6.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171002_JMM_C146_4.raw": {
+    "Source Name": [
+      "Source_20171002_JMM_C146_4"
+    ],
+    "Assay Name": [
+      "Assay_20171002_JMM_C146_4"
+    ],
+    "Raw Data File": [
+      "20171002_JMM_C146_4.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171002_JMM_C146_5.raw": {
+    "Source Name": [
+      "Source_20171002_JMM_C146_5"
+    ],
+    "Assay Name": [
+      "Assay_20171002_JMM_C146_5"
+    ],
+    "Raw Data File": [
+      "20171002_JMM_C146_5.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171018_JMM_STG146_8.raw": {
+    "Source Name": [
+      "Source_20171018_JMM_STG146_8"
+    ],
+    "Assay Name": [
+      "Assay_20171018_JMM_STG146_8"
+    ],
+    "Raw Data File": [
+      "20171018_JMM_STG146_8.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171103_JMM_A405_2.raw": {
+    "Source Name": [
+      "Source_20171103_JMM_A405_2"
+    ],
+    "Assay Name": [
+      "Assay_20171103_JMM_A405_2"
+    ],
+    "Raw Data File": [
+      "20171103_JMM_A405_2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20181130_JMM_343N.raw": {
+    "Source Name": [
+      "Source_20181130_JMM_343N"
+    ],
+    "Assay Name": [
+      "Assay_20181130_JMM_343N"
+    ],
+    "Raw Data File": [
+      "20181130_JMM_343N.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20181201_JMM_146IPL.raw": {
+    "Source Name": [
+      "Source_20181201_JMM_146IPL"
+    ],
+    "Assay Name": [
+      "Assay_20181201_JMM_146IPL"
+    ],
+    "Raw Data File": [
+      "20181201_JMM_146IPL.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171017_JMM_IPL146_4.raw": {
+    "Source Name": [
+      "Source_20171017_JMM_IPL146_4"
+    ],
+    "Assay Name": [
+      "Assay_20171017_JMM_IPL146_4"
+    ],
+    "Raw Data File": [
+      "20171017_JMM_IPL146_4.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171002_JMM_A146_11.raw": {
+    "Source Name": [
+      "Source_20171002_JMM_A146_11"
+    ],
+    "Assay Name": [
+      "Assay_20171002_JMM_A146_11"
+    ],
+    "Raw Data File": [
+      "20171002_JMM_A146_11.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171002_JMM_A146_6.raw": {
+    "Source Name": [
+      "Source_20171002_JMM_A146_6"
+    ],
+    "Assay Name": [
+      "Assay_20171002_JMM_A146_6"
+    ],
+    "Raw Data File": [
+      "20171002_JMM_A146_6.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171117_JMM_VC405_2.raw": {
+    "Source Name": [
+      "Source_20171117_JMM_VC405_2"
+    ],
+    "Assay Name": [
+      "Assay_20171117_JMM_VC405_2"
+    ],
+    "Raw Data File": [
+      "20171117_JMM_VC405_2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171026_JMM_EC383_2_20171030194117.raw": {
+    "Source Name": [
+      "Source_20171026_JMM_EC383_2_20171030194117"
+    ],
+    "Assay Name": [
+      "Assay_20171026_JMM_EC383_2_20171030194117"
+    ],
+    "Raw Data File": [
+      "20171026_JMM_EC383_2_20171030194117.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171113_JMM_CN405_5.raw": {
+    "Source Name": [
+      "Source_20171113_JMM_CN405_5"
+    ],
+    "Assay Name": [
+      "Assay_20171113_JMM_CN405_5"
+    ],
+    "Raw Data File": [
+      "20171113_JMM_CN405_5.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171114_JMM_EC405_12.raw": {
+    "Source Name": [
+      "Source_20171114_JMM_EC405_12"
+    ],
+    "Assay Name": [
+      "Assay_20171114_JMM_EC405_12"
+    ],
+    "Raw Data File": [
+      "20171114_JMM_EC405_12.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171114_JMM_IPL405_1.raw": {
+    "Source Name": [
+      "Source_20171114_JMM_IPL405_1"
+    ],
+    "Assay Name": [
+      "Assay_20171114_JMM_IPL405_1"
+    ],
+    "Raw Data File": [
+      "20171114_JMM_IPL405_1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171019_JMM_T146_9.raw": {
+    "Source Name": [
+      "Source_20171019_JMM_T146_9"
+    ],
+    "Assay Name": [
+      "Assay_20171019_JMM_T146_9"
+    ],
+    "Raw Data File": [
+      "20171019_JMM_T146_9.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171026_JMM_A383_6.raw": {
+    "Source Name": [
+      "Source_20171026_JMM_A383_6"
+    ],
+    "Assay Name": [
+      "Assay_20171026_JMM_A383_6"
+    ],
+    "Raw Data File": [
+      "20171026_JMM_A383_6.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171113_JMM_CN405_11.raw": {
+    "Source Name": [
+      "Source_20171113_JMM_CN405_11"
+    ],
+    "Assay Name": [
+      "Assay_20171113_JMM_CN405_11"
+    ],
+    "Raw Data File": [
+      "20171113_JMM_CN405_11.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171018_JMM_MFG146_6.raw": {
+    "Source Name": [
+      "Source_20171018_JMM_MFG146_6"
+    ],
+    "Assay Name": [
+      "Assay_20171018_JMM_MFG146_6"
+    ],
+    "Raw Data File": [
+      "20171018_JMM_MFG146_6.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171101_JMM_STG383_11.raw": {
+    "Source Name": [
+      "Source_20171101_JMM_STG383_11"
+    ],
+    "Assay Name": [
+      "Assay_20171101_JMM_STG383_11"
+    ],
+    "Raw Data File": [
+      "20171101_JMM_STG383_11.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171002_JMM_A146_12.raw": {
+    "Source Name": [
+      "Source_20171002_JMM_A146_12"
+    ],
+    "Assay Name": [
+      "Assay_20171002_JMM_A146_12"
+    ],
+    "Raw Data File": [
+      "20171002_JMM_A146_12.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171026_JMM_C383_9.raw": {
+    "Source Name": [
+      "Source_20171026_JMM_C383_9"
+    ],
+    "Assay Name": [
+      "Assay_20171026_JMM_C383_9"
+    ],
+    "Raw Data File": [
+      "20171026_JMM_C383_9.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171101_JMM_MFG383_10.raw": {
+    "Source Name": [
+      "Source_20171101_JMM_MFG383_10"
+    ],
+    "Assay Name": [
+      "Assay_20171101_JMM_MFG383_10"
+    ],
+    "Raw Data File": [
+      "20171101_JMM_MFG383_10.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171102_JMM_T383_10.raw": {
+    "Source Name": [
+      "Source_20171102_JMM_T383_10"
+    ],
+    "Assay Name": [
+      "Assay_20171102_JMM_T383_10"
+    ],
+    "Raw Data File": [
+      "20171102_JMM_T383_10.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171017_JMM_IPL146_11.raw": {
+    "Source Name": [
+      "Source_20171017_JMM_IPL146_11"
+    ],
+    "Assay Name": [
+      "Assay_20171017_JMM_IPL146_11"
+    ],
+    "Raw Data File": [
+      "20171017_JMM_IPL146_11.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171002_JMM_EC146_9.raw": {
+    "Source Name": [
+      "Source_20171002_JMM_EC146_9"
+    ],
+    "Assay Name": [
+      "Assay_20171002_JMM_EC146_9"
+    ],
+    "Raw Data File": [
+      "20171002_JMM_EC146_9.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171114_JMM_IPL405_6.raw": {
+    "Source Name": [
+      "Source_20171114_JMM_IPL405_6"
+    ],
+    "Assay Name": [
+      "Assay_20171114_JMM_IPL405_6"
+    ],
+    "Raw Data File": [
+      "20171114_JMM_IPL405_6.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20181201_JMM_405IPL.raw": {
+    "Source Name": [
+      "Source_20181201_JMM_405IPL"
+    ],
+    "Assay Name": [
+      "Assay_20181201_JMM_405IPL"
+    ],
+    "Raw Data File": [
+      "20181201_JMM_405IPL.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171114_JMM_IPL405_8.raw": {
+    "Source Name": [
+      "Source_20171114_JMM_IPL405_8"
+    ],
+    "Assay Name": [
+      "Assay_20171114_JMM_IPL405_8"
+    ],
+    "Raw Data File": [
+      "20171114_JMM_IPL405_8.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171025_JMM_VC146_4.raw": {
+    "Source Name": [
+      "Source_20171025_JMM_VC146_4"
+    ],
+    "Assay Name": [
+      "Assay_20171025_JMM_VC146_4"
+    ],
+    "Raw Data File": [
+      "20171025_JMM_VC146_4.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20181130_JMM_405MFG.raw": {
+    "Source Name": [
+      "Source_20181130_JMM_405MFG"
+    ],
+    "Assay Name": [
+      "Assay_20181130_JMM_405MFG"
+    ],
+    "Raw Data File": [
+      "20181130_JMM_405MFG.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171018_JMM_STG146_1.raw": {
+    "Source Name": [
+      "Source_20171018_JMM_STG146_1"
+    ],
+    "Assay Name": [
+      "Assay_20171018_JMM_STG146_1"
+    ],
+    "Raw Data File": [
+      "20171018_JMM_STG146_1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171026_JMM_CN383_2.raw": {
+    "Source Name": [
+      "Source_20171026_JMM_CN383_2"
+    ],
+    "Assay Name": [
+      "Assay_20171026_JMM_CN383_2"
+    ],
+    "Raw Data File": [
+      "20171026_JMM_CN383_2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171026_JMM_A383_12.raw": {
+    "Source Name": [
+      "Source_20171026_JMM_A383_12"
+    ],
+    "Assay Name": [
+      "Assay_20171026_JMM_A383_12"
+    ],
+    "Raw Data File": [
+      "20171026_JMM_A383_12.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20181202_JMM_440E.raw": {
+    "Source Name": [
+      "Source_20181202_JMM_440E"
+    ],
+    "Assay Name": [
+      "Assay_20181202_JMM_440E"
+    ],
+    "Raw Data File": [
+      "20181202_JMM_440E.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171102_JMM_T383_11.raw": {
+    "Source Name": [
+      "Source_20171102_JMM_T383_11"
+    ],
+    "Assay Name": [
+      "Assay_20171102_JMM_T383_11"
+    ],
+    "Raw Data File": [
+      "20171102_JMM_T383_11.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171026_JMM_EC383_3_20171030211337.raw": {
+    "Source Name": [
+      "Source_20171026_JMM_EC383_3_20171030211337"
+    ],
+    "Assay Name": [
+      "Assay_20171026_JMM_EC383_3_20171030211337"
+    ],
+    "Raw Data File": [
+      "20171026_JMM_EC383_3_20171030211337.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171115_JMM_MFG405_3.raw": {
+    "Source Name": [
+      "Source_20171115_JMM_MFG405_3"
+    ],
+    "Assay Name": [
+      "Assay_20171115_JMM_MFG405_3"
+    ],
+    "Raw Data File": [
+      "20171115_JMM_MFG405_3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20181130_JMM_383IPL.raw": {
+    "Source Name": [
+      "Source_20181130_JMM_383IPL"
+    ],
+    "Assay Name": [
+      "Assay_20181130_JMM_383IPL"
+    ],
+    "Raw Data File": [
+      "20181130_JMM_383IPL.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171002_JMM_C146_3.raw": {
+    "Source Name": [
+      "Source_20171002_JMM_C146_3"
+    ],
+    "Assay Name": [
+      "Assay_20171002_JMM_C146_3"
+    ],
+    "Raw Data File": [
+      "20171002_JMM_C146_3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171114_JMM_EC405_1.raw": {
+    "Source Name": [
+      "Source_20171114_JMM_EC405_1"
+    ],
+    "Assay Name": [
+      "Assay_20171114_JMM_EC405_1"
+    ],
+    "Raw Data File": [
+      "20171114_JMM_EC405_1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171019_JMM_T146_12.raw": {
+    "Source Name": [
+      "Source_20171019_JMM_T146_12"
+    ],
+    "Assay Name": [
+      "Assay_20171019_JMM_T146_12"
+    ],
+    "Raw Data File": [
+      "20171019_JMM_T146_12.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171026_JMM_C383_3.raw": {
+    "Source Name": [
+      "Source_20171026_JMM_C383_3"
+    ],
+    "Assay Name": [
+      "Assay_20171026_JMM_C383_3"
+    ],
+    "Raw Data File": [
+      "20171026_JMM_C383_3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171103_JMM_A405_5.raw": {
+    "Source Name": [
+      "Source_20171103_JMM_A405_5"
+    ],
+    "Assay Name": [
+      "Assay_20171103_JMM_A405_5"
+    ],
+    "Raw Data File": [
+      "20171103_JMM_A405_5.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171026_JMM_EC383_10_20171031080000.raw": {
+    "Source Name": [
+      "Source_20171026_JMM_EC383_10_20171031080000"
+    ],
+    "Assay Name": [
+      "Assay_20171026_JMM_EC383_10_20171031080000"
+    ],
+    "Raw Data File": [
+      "20171026_JMM_EC383_10_20171031080000.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171026_JMM_C383_10.raw": {
+    "Source Name": [
+      "Source_20171026_JMM_C383_10"
+    ],
+    "Assay Name": [
+      "Assay_20171026_JMM_C383_10"
+    ],
+    "Raw Data File": [
+      "20171026_JMM_C383_10.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171026_JMM_A383_9.raw": {
+    "Source Name": [
+      "Source_20171026_JMM_A383_9"
+    ],
+    "Assay Name": [
+      "Assay_20171026_JMM_A383_9"
+    ],
+    "Raw Data File": [
+      "20171026_JMM_A383_9.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20181201_JMM_384N.raw": {
+    "Source Name": [
+      "Source_20181201_JMM_384N"
+    ],
+    "Assay Name": [
+      "Assay_20181201_JMM_384N"
+    ],
+    "Raw Data File": [
+      "20181201_JMM_384N.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171002_JMM_A146_10.raw": {
+    "Source Name": [
+      "Source_20171002_JMM_A146_10"
+    ],
+    "Assay Name": [
+      "Assay_20171002_JMM_A146_10"
+    ],
+    "Raw Data File": [
+      "20171002_JMM_A146_10.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171025_JMM_VC146_11.raw": {
+    "Source Name": [
+      "Source_20171025_JMM_VC146_11"
+    ],
+    "Assay Name": [
+      "Assay_20171025_JMM_VC146_11"
+    ],
+    "Raw Data File": [
+      "20171025_JMM_VC146_11.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171026_JMM_C383_7.raw": {
+    "Source Name": [
+      "Source_20171026_JMM_C383_7"
+    ],
+    "Assay Name": [
+      "Assay_20171026_JMM_C383_7"
+    ],
+    "Raw Data File": [
+      "20171026_JMM_C383_7.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20181130_JMM_199E.raw": {
+    "Source Name": [
+      "Source_20181130_JMM_199E"
+    ],
+    "Assay Name": [
+      "Assay_20181130_JMM_199E"
+    ],
+    "Raw Data File": [
+      "20181130_JMM_199E.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171002_JMM_CN146_12.raw": {
+    "Source Name": [
+      "Source_20171002_JMM_CN146_12"
+    ],
+    "Assay Name": [
+      "Assay_20171002_JMM_CN146_12"
+    ],
+    "Raw Data File": [
+      "20171002_JMM_CN146_12.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171026_JMM_A383_7.raw": {
+    "Source Name": [
+      "Source_20171026_JMM_A383_7"
+    ],
+    "Assay Name": [
+      "Assay_20171026_JMM_A383_7"
+    ],
+    "Raw Data File": [
+      "20171026_JMM_A383_7.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171101_JMM_STG383_6.raw": {
+    "Source Name": [
+      "Source_20171101_JMM_STG383_6"
+    ],
+    "Assay Name": [
+      "Assay_20171101_JMM_STG383_6"
+    ],
+    "Raw Data File": [
+      "20171101_JMM_STG383_6.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171018_JMM_STG146_2.raw": {
+    "Source Name": [
+      "Source_20171018_JMM_STG146_2"
+    ],
+    "Assay Name": [
+      "Assay_20171018_JMM_STG146_2"
+    ],
+    "Raw Data File": [
+      "20171018_JMM_STG146_2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171026_JMM_CN383_8.raw": {
+    "Source Name": [
+      "Source_20171026_JMM_CN383_8"
+    ],
+    "Assay Name": [
+      "Assay_20171026_JMM_CN383_8"
+    ],
+    "Raw Data File": [
+      "20171026_JMM_CN383_8.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20181201_JMM_440N.raw": {
+    "Source Name": [
+      "Source_20181201_JMM_440N"
+    ],
+    "Assay Name": [
+      "Assay_20181201_JMM_440N"
+    ],
+    "Raw Data File": [
+      "20181201_JMM_440N.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171017_JMM_IPL146_12.raw": {
+    "Source Name": [
+      "Source_20171017_JMM_IPL146_12"
+    ],
+    "Assay Name": [
+      "Assay_20171017_JMM_IPL146_12"
+    ],
+    "Raw Data File": [
+      "20171017_JMM_IPL146_12.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171102_JMM_T383_12.raw": {
+    "Source Name": [
+      "Source_20171102_JMM_T383_12"
+    ],
+    "Assay Name": [
+      "Assay_20171102_JMM_T383_12"
+    ],
+    "Raw Data File": [
+      "20171102_JMM_T383_12.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171115_JMM_MFG405_1.raw": {
+    "Source Name": [
+      "Source_20171115_JMM_MFG405_1"
+    ],
+    "Assay Name": [
+      "Assay_20171115_JMM_MFG405_1"
+    ],
+    "Raw Data File": [
+      "20171115_JMM_MFG405_1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171116_JMM_STG405_5.raw": {
+    "Source Name": [
+      "Source_20171116_JMM_STG405_5"
+    ],
+    "Assay Name": [
+      "Assay_20171116_JMM_STG405_5"
+    ],
+    "Raw Data File": [
+      "20171116_JMM_STG405_5.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171117_JMM_T405_2.raw": {
+    "Source Name": [
+      "Source_20171117_JMM_T405_2"
+    ],
+    "Assay Name": [
+      "Assay_20171117_JMM_T405_2"
+    ],
+    "Raw Data File": [
+      "20171117_JMM_T405_2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171103_JMM_A405_9.raw": {
+    "Source Name": [
+      "Source_20171103_JMM_A405_9"
+    ],
+    "Assay Name": [
+      "Assay_20171103_JMM_A405_9"
+    ],
+    "Raw Data File": [
+      "20171103_JMM_A405_9.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171103_JMM_VC383_7.raw": {
+    "Source Name": [
+      "Source_20171103_JMM_VC383_7"
+    ],
+    "Assay Name": [
+      "Assay_20171103_JMM_VC383_7"
+    ],
+    "Raw Data File": [
+      "20171103_JMM_VC383_7.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171026_JMM_A383_3.raw": {
+    "Source Name": [
+      "Source_20171026_JMM_A383_3"
+    ],
+    "Assay Name": [
+      "Assay_20171026_JMM_A383_3"
+    ],
+    "Raw Data File": [
+      "20171026_JMM_A383_3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171026_JMM_C383_12.raw": {
+    "Source Name": [
+      "Source_20171026_JMM_C383_12"
+    ],
+    "Assay Name": [
+      "Assay_20171026_JMM_C383_12"
+    ],
+    "Raw Data File": [
+      "20171026_JMM_C383_12.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171114_JMM_IPL405_10.raw": {
+    "Source Name": [
+      "Source_20171114_JMM_IPL405_10"
+    ],
+    "Assay Name": [
+      "Assay_20171114_JMM_IPL405_10"
+    ],
+    "Raw Data File": [
+      "20171114_JMM_IPL405_10.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171002_JMM_CN146_2.raw": {
+    "Source Name": [
+      "Source_20171002_JMM_CN146_2"
+    ],
+    "Assay Name": [
+      "Assay_20171002_JMM_CN146_2"
+    ],
+    "Raw Data File": [
+      "20171002_JMM_CN146_2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171103_JMM_VC383_1.raw": {
+    "Source Name": [
+      "Source_20171103_JMM_VC383_1"
+    ],
+    "Assay Name": [
+      "Assay_20171103_JMM_VC383_1"
+    ],
+    "Raw Data File": [
+      "20171103_JMM_VC383_1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171101_JMM_MFG383_6.raw": {
+    "Source Name": [
+      "Source_20171101_JMM_MFG383_6"
+    ],
+    "Assay Name": [
+      "Assay_20171101_JMM_MFG383_6"
+    ],
+    "Raw Data File": [
+      "20171101_JMM_MFG383_6.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171103_JMM_VC383_4.raw": {
+    "Source Name": [
+      "Source_20171103_JMM_VC383_4"
+    ],
+    "Assay Name": [
+      "Assay_20171103_JMM_VC383_4"
+    ],
+    "Raw Data File": [
+      "20171103_JMM_VC383_4.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171026_JMM_CN383_9.raw": {
+    "Source Name": [
+      "Source_20171026_JMM_CN383_9"
+    ],
+    "Assay Name": [
+      "Assay_20171026_JMM_CN383_9"
+    ],
+    "Raw Data File": [
+      "20171026_JMM_CN383_9.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171026_JMM_IPL383_7.raw": {
+    "Source Name": [
+      "Source_20171026_JMM_IPL383_7"
+    ],
+    "Assay Name": [
+      "Assay_20171026_JMM_IPL383_7"
+    ],
+    "Raw Data File": [
+      "20171026_JMM_IPL383_7.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171115_JMM_MFG405_6.raw": {
+    "Source Name": [
+      "Source_20171115_JMM_MFG405_6"
+    ],
+    "Assay Name": [
+      "Assay_20171115_JMM_MFG405_6"
+    ],
+    "Raw Data File": [
+      "20171115_JMM_MFG405_6.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171103_JMM_A405_11.raw": {
+    "Source Name": [
+      "Source_20171103_JMM_A405_11"
+    ],
+    "Assay Name": [
+      "Assay_20171103_JMM_A405_11"
+    ],
+    "Raw Data File": [
+      "20171103_JMM_A405_11.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171026_JMM_IPL383_8.raw": {
+    "Source Name": [
+      "Source_20171026_JMM_IPL383_8"
+    ],
+    "Assay Name": [
+      "Assay_20171026_JMM_IPL383_8"
+    ],
+    "Raw Data File": [
+      "20171026_JMM_IPL383_8.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171002_JMM_EC146_11.raw": {
+    "Source Name": [
+      "Source_20171002_JMM_EC146_11"
+    ],
+    "Assay Name": [
+      "Assay_20171002_JMM_EC146_11"
+    ],
+    "Raw Data File": [
+      "20171002_JMM_EC146_11.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171113_JMM_CN405_12.raw": {
+    "Source Name": [
+      "Source_20171113_JMM_CN405_12"
+    ],
+    "Assay Name": [
+      "Assay_20171113_JMM_CN405_12"
+    ],
+    "Raw Data File": [
+      "20171113_JMM_CN405_12.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171002_JMM_CN146_7.raw": {
+    "Source Name": [
+      "Source_20171002_JMM_CN146_7"
+    ],
+    "Assay Name": [
+      "Assay_20171002_JMM_CN146_7"
+    ],
+    "Raw Data File": [
+      "20171002_JMM_CN146_7.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171026_JMM_IPL383_6.raw": {
+    "Source Name": [
+      "Source_20171026_JMM_IPL383_6"
+    ],
+    "Assay Name": [
+      "Assay_20171026_JMM_IPL383_6"
+    ],
+    "Raw Data File": [
+      "20171026_JMM_IPL383_6.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171116_JMM_STG405_12.raw": {
+    "Source Name": [
+      "Source_20171116_JMM_STG405_12"
+    ],
+    "Assay Name": [
+      "Assay_20171116_JMM_STG405_12"
+    ],
+    "Raw Data File": [
+      "20171116_JMM_STG405_12.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20181130_JMM_343E.raw": {
+    "Source Name": [
+      "Source_20181130_JMM_343E"
+    ],
+    "Assay Name": [
+      "Assay_20181130_JMM_343E"
+    ],
+    "Raw Data File": [
+      "20181130_JMM_343E.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171002_JMM_CN146_10.raw": {
+    "Source Name": [
+      "Source_20171002_JMM_CN146_10"
+    ],
+    "Assay Name": [
+      "Assay_20171002_JMM_CN146_10"
+    ],
+    "Raw Data File": [
+      "20171002_JMM_CN146_10.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171002_JMM_C146_11.raw": {
+    "Source Name": [
+      "Source_20171002_JMM_C146_11"
+    ],
+    "Assay Name": [
+      "Assay_20171002_JMM_C146_11"
+    ],
+    "Raw Data File": [
+      "20171002_JMM_C146_11.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171115_JMM_MFG405_2.raw": {
+    "Source Name": [
+      "Source_20171115_JMM_MFG405_2"
+    ],
+    "Assay Name": [
+      "Assay_20171115_JMM_MFG405_2"
+    ],
+    "Raw Data File": [
+      "20171115_JMM_MFG405_2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171117_JMM_VC405_5.raw": {
+    "Source Name": [
+      "Source_20171117_JMM_VC405_5"
+    ],
+    "Assay Name": [
+      "Assay_20171117_JMM_VC405_5"
+    ],
+    "Raw Data File": [
+      "20171117_JMM_VC405_5.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171018_JMM_MFG146_2.raw": {
+    "Source Name": [
+      "Source_20171018_JMM_MFG146_2"
+    ],
+    "Assay Name": [
+      "Assay_20171018_JMM_MFG146_2"
+    ],
+    "Raw Data File": [
+      "20171018_JMM_MFG146_2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171103_JMM_VC383_12.raw": {
+    "Source Name": [
+      "Source_20171103_JMM_VC383_12"
+    ],
+    "Assay Name": [
+      "Assay_20171103_JMM_VC383_12"
+    ],
+    "Raw Data File": [
+      "20171103_JMM_VC383_12.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171026_JMM_EC383_4_20171030224557.raw": {
+    "Source Name": [
+      "Source_20171026_JMM_EC383_4_20171030224557"
+    ],
+    "Assay Name": [
+      "Assay_20171026_JMM_EC383_4_20171030224557"
+    ],
+    "Raw Data File": [
+      "20171026_JMM_EC383_4_20171030224557.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171114_JMM_EC405_6.raw": {
+    "Source Name": [
+      "Source_20171114_JMM_EC405_6"
+    ],
+    "Assay Name": [
+      "Assay_20171114_JMM_EC405_6"
+    ],
+    "Raw Data File": [
+      "20171114_JMM_EC405_6.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171026_JMM_C383_6.raw": {
+    "Source Name": [
+      "Source_20171026_JMM_C383_6"
+    ],
+    "Assay Name": [
+      "Assay_20171026_JMM_C383_6"
+    ],
+    "Raw Data File": [
+      "20171026_JMM_C383_6.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171019_JMM_T146_4.raw": {
+    "Source Name": [
+      "Source_20171019_JMM_T146_4"
+    ],
+    "Assay Name": [
+      "Assay_20171019_JMM_T146_4"
+    ],
+    "Raw Data File": [
+      "20171019_JMM_T146_4.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171026_JMM_A383_8.raw": {
+    "Source Name": [
+      "Source_20171026_JMM_A383_8"
+    ],
+    "Assay Name": [
+      "Assay_20171026_JMM_A383_8"
+    ],
+    "Raw Data File": [
+      "20171026_JMM_A383_8.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171101_JMM_STG383_2.raw": {
+    "Source Name": [
+      "Source_20171101_JMM_STG383_2"
+    ],
+    "Assay Name": [
+      "Assay_20171101_JMM_STG383_2"
+    ],
+    "Raw Data File": [
+      "20171101_JMM_STG383_2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171002_JMM_A146_4.raw": {
+    "Source Name": [
+      "Source_20171002_JMM_A146_4"
+    ],
+    "Assay Name": [
+      "Assay_20171002_JMM_A146_4"
+    ],
+    "Raw Data File": [
+      "20171002_JMM_A146_4.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171101_JMM_MFG383_3.raw": {
+    "Source Name": [
+      "Source_20171101_JMM_MFG383_3"
+    ],
+    "Assay Name": [
+      "Assay_20171101_JMM_MFG383_3"
+    ],
+    "Raw Data File": [
+      "20171101_JMM_MFG383_3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20181201_JMM_405ECX.raw": {
+    "Source Name": [
+      "Source_20181201_JMM_405ECX"
+    ],
+    "Assay Name": [
+      "Assay_20181201_JMM_405ECX"
+    ],
+    "Raw Data File": [
+      "20181201_JMM_405ECX.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171116_JMM_STG405_9.raw": {
+    "Source Name": [
+      "Source_20171116_JMM_STG405_9"
+    ],
+    "Assay Name": [
+      "Assay_20171116_JMM_STG405_9"
+    ],
+    "Raw Data File": [
+      "20171116_JMM_STG405_9.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171113_JMM_CN405_6.raw": {
+    "Source Name": [
+      "Source_20171113_JMM_CN405_6"
+    ],
+    "Assay Name": [
+      "Assay_20171113_JMM_CN405_6"
+    ],
+    "Raw Data File": [
+      "20171113_JMM_CN405_6.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171117_JMM_VC405_4.raw": {
+    "Source Name": [
+      "Source_20171117_JMM_VC405_4"
+    ],
+    "Assay Name": [
+      "Assay_20171117_JMM_VC405_4"
+    ],
+    "Raw Data File": [
+      "20171117_JMM_VC405_4.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171019_JMM_T146_3.raw": {
+    "Source Name": [
+      "Source_20171019_JMM_T146_3"
+    ],
+    "Assay Name": [
+      "Assay_20171019_JMM_T146_3"
+    ],
+    "Raw Data File": [
+      "20171019_JMM_T146_3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171019_JMM_T146_2.raw": {
+    "Source Name": [
+      "Source_20171019_JMM_T146_2"
+    ],
+    "Assay Name": [
+      "Assay_20171019_JMM_T146_2"
+    ],
+    "Raw Data File": [
+      "20171019_JMM_T146_2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171002_JMM_CN146_8.raw": {
+    "Source Name": [
+      "Source_20171002_JMM_CN146_8"
+    ],
+    "Assay Name": [
+      "Assay_20171002_JMM_CN146_8"
+    ],
+    "Raw Data File": [
+      "20171002_JMM_CN146_8.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  },
+  "20171018_JMM_STG146_4.raw": {
+    "Source Name": [
+      "Source_20171018_JMM_STG146_4"
+    ],
+    "Assay Name": [
+      "Assay_20171018_JMM_STG146_4"
+    ],
+    "Raw Data File": [
+      "20171018_JMM_STG146_4.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40mM CAA"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion Lumos"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25ppm mass tolerance"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy level of 30"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ]
+  }
+}

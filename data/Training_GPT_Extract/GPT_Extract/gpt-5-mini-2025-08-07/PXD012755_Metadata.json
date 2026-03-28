@@ -1,0 +1,1605 @@
+{
+  "Nat_25_A195569.raw": {
+    "Source Name": [
+      "A195569"
+    ],
+    "Assay Name": [
+      "Nat_25_A195569.raw"
+    ],
+    "Raw Data File": [
+      "Nat_25_A195569.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human ASD vs. control brain"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Brain samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Tissues were procured from a total of 9 ASD and 9 control subjects."
+    ],
+    "Characteristics[OrganismPart]": [
+      "BA19 (occipital) cortex"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with LysC for 1\u2009hour and trypsin overnight at 37\u2009°C."
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "carbamidomethlylation of cysteines"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free HPLC-tandem mass spectrometry"
+    ],
+    "Comment[Separation]": [
+      "Reverse phase LC-MS/MS"
+    ],
+    "Comment[GradientTime]": [
+      "210\u2009min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.8\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "one missed cleavage"
+    ]
+  },
+  "Nat_11_CB6200.raw": {
+    "Source Name": [
+      "CB6200"
+    ],
+    "Assay Name": [
+      "Nat_11_CB6200.raw"
+    ],
+    "Raw Data File": [
+      "Nat_11_CB6200.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human ASD vs. control brain"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Brain samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Tissues were procured from a total of 9 ASD and 9 control subjects."
+    ],
+    "Characteristics[OrganismPart]": [
+      "left posterior inferior cerebellar hemispheric cortex (CB)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with LysC for 1\u2009hour and trypsin overnight at 37\u2009°C."
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "carbamidomethlylation of cysteines"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free HPLC-tandem mass spectrometry"
+    ],
+    "Comment[Separation]": [
+      "Reverse phase LC-MS/MS"
+    ],
+    "Comment[GradientTime]": [
+      "210\u2009min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.8\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "one missed cleavage"
+    ]
+  },
+  "Nat_31_A191453.raw": {
+    "Source Name": [
+      "A191453"
+    ],
+    "Assay Name": [
+      "Nat_31_A191453.raw"
+    ],
+    "Raw Data File": [
+      "Nat_31_A191453.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human ASD vs. control brain"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Brain samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Tissues were procured from a total of 9 ASD and 9 control subjects."
+    ],
+    "Characteristics[OrganismPart]": [
+      "BA19 (occipital) cortex"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with LysC for 1\u2009hour and trypsin overnight at 37\u2009°C."
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "carbamidomethlylation of cysteines"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free HPLC-tandem mass spectrometry"
+    ],
+    "Comment[Separation]": [
+      "Reverse phase LC-MS/MS"
+    ],
+    "Comment[GradientTime]": [
+      "210\u2009min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.8\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "one missed cleavage"
+    ]
+  },
+  "Nat_8_CB5569.raw": {
+    "Source Name": [
+      "CB5569"
+    ],
+    "Assay Name": [
+      "Nat_8_CB5569.raw"
+    ],
+    "Raw Data File": [
+      "Nat_8_CB5569.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human ASD vs. control brain"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Brain samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Tissues were procured from a total of 9 ASD and 9 control subjects."
+    ],
+    "Characteristics[OrganismPart]": [
+      "left posterior inferior cerebellar hemispheric cortex (CB)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with LysC for 1\u2009hour and trypsin overnight at 37\u2009°C."
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "carbamidomethlylation of cysteines"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free HPLC-tandem mass spectrometry"
+    ],
+    "Comment[Separation]": [
+      "Reverse phase LC-MS/MS"
+    ],
+    "Comment[GradientTime]": [
+      "210\u2009min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.8\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "one missed cleavage"
+    ]
+  },
+  "Nat_16_CB4543.raw": {
+    "Source Name": [
+      "CB4543"
+    ],
+    "Assay Name": [
+      "Nat_16_CB4543.raw"
+    ],
+    "Raw Data File": [
+      "Nat_16_CB4543.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human ASD vs. control brain"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Brain samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Tissues were procured from a total of 9 ASD and 9 control subjects."
+    ],
+    "Characteristics[OrganismPart]": [
+      "left posterior inferior cerebellar hemispheric cortex (CB)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with LysC for 1\u2009hour and trypsin overnight at 37\u2009°C."
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "carbamidomethlylation of cysteines"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free HPLC-tandem mass spectrometry"
+    ],
+    "Comment[Separation]": [
+      "Reverse phase LC-MS/MS"
+    ],
+    "Comment[GradientTime]": [
+      "210\u2009min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.8\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "one missed cleavage"
+    ]
+  },
+  "Nat_12_CB7561.raw": {
+    "Source Name": [
+      "CB7561"
+    ],
+    "Assay Name": [
+      "Nat_12_CB7561.raw"
+    ],
+    "Raw Data File": [
+      "Nat_12_CB7561.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human ASD vs. control brain"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Brain samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Tissues were procured from a total of 9 ASD and 9 control subjects."
+    ],
+    "Characteristics[OrganismPart]": [
+      "left posterior inferior cerebellar hemispheric cortex (CB)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with LysC for 1\u2009hour and trypsin overnight at 37\u2009°C."
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "carbamidomethlylation of cysteines"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free HPLC-tandem mass spectrometry"
+    ],
+    "Comment[Separation]": [
+      "Reverse phase LC-MS/MS"
+    ],
+    "Comment[GradientTime]": [
+      "210\u2009min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.8\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "one missed cleavage"
+    ]
+  },
+  "Nat_14_CB1453.raw": {
+    "Source Name": [
+      "CB1453"
+    ],
+    "Assay Name": [
+      "Nat_14_CB1453.raw"
+    ],
+    "Raw Data File": [
+      "Nat_14_CB1453.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human ASD vs. control brain"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Brain samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Tissues were procured from a total of 9 ASD and 9 control subjects."
+    ],
+    "Characteristics[OrganismPart]": [
+      "left posterior inferior cerebellar hemispheric cortex (CB)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with LysC for 1\u2009hour and trypsin overnight at 37\u2009°C."
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "carbamidomethlylation of cysteines"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free HPLC-tandem mass spectrometry"
+    ],
+    "Comment[Separation]": [
+      "Reverse phase LC-MS/MS"
+    ],
+    "Comment[GradientTime]": [
+      "210\u2009min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.8\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "one missed cleavage"
+    ]
+  },
+  "Nat_27_A195334.raw": {
+    "Source Name": [
+      "A195334"
+    ],
+    "Assay Name": [
+      "Nat_27_A195334.raw"
+    ],
+    "Raw Data File": [
+      "Nat_27_A195334.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human ASD vs. control brain"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Brain samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Tissues were procured from a total of 9 ASD and 9 control subjects."
+    ],
+    "Characteristics[OrganismPart]": [
+      "BA19 (occipital) cortex"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with LysC for 1\u2009hour and trypsin overnight at 37\u2009°C."
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "carbamidomethlylation of cysteines"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free HPLC-tandem mass spectrometry"
+    ],
+    "Comment[Separation]": [
+      "Reverse phase LC-MS/MS"
+    ],
+    "Comment[GradientTime]": [
+      "210\u2009min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.8\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "one missed cleavage"
+    ]
+  },
+  "Nat_9_CB7090.raw": {
+    "Source Name": [
+      "CB7090"
+    ],
+    "Assay Name": [
+      "Nat_9_CB7090.raw"
+    ],
+    "Raw Data File": [
+      "Nat_9_CB7090.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human ASD vs. control brain"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Brain samples"
+    ],
+       "Characteristics[NumberOfSamples]": [
+      "Tissues were procured from a total of 9 ASD and 9 control subjects."
+    ],
+    "Characteristics[OrganismPart]": [
+      "left posterior inferior cerebellar hemispheric cortex (CB)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with LysC for 1\u2009hour and trypsin overnight at 37\u2009°C."
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "carbamidomethlylation of cysteines"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free HPLC-tandem mass spectrometry"
+    ],
+    "Comment[Separation]": [
+      "Reverse phase LC-MS/MS"
+    ],
+    "Comment[GradientTime]": [
+      "210\u2009min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.8\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "one missed cleavage"
+    ]
+  },
+  "Nat_19_A196399.raw": {
+    "Source Name": [
+      "A196399"
+    ],
+    "Assay Name": [
+      "Nat_19_A196399.raw"
+    ],
+    "Raw Data File": [
+      "Nat_19_A196399.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human ASD vs. control brain"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Brain samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Tissues were procured from a total of 9 ASD and 9 control subjects."
+    ],
+    "Characteristics[OrganismPart]": [
+      "BA19 (occipital) cortex"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with LysC for 1\u2009hour and trypsin overnight at 37\u2009°C."
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "carbamidomethlylation of cysteines"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free HPLC-tandem mass spectrometry"
+    ],
+    "Comment[Separation]": [
+      "Reverse phase LC-MS/MS"
+    ],
+    "Comment[GradientTime]": [
+      "210\u2009min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.8\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "one missed cleavage"
+    ]
+  },
+  "Nat_21_A196337.raw": {
+    "Source Name": [
+      "A196337"
+    ],
+    "Assay Name": [
+      "Nat_21_A196337.raw"
+    ],
+    "Raw Data File": [
+      "Nat_21_A196337.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human ASD vs. control brain"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Brain samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Tissues were procured from a total of 9 ASD and 9 control subjects."
+    ],
+    "Characteristics[OrganismPart]": [
+      "BA19 (occipital) cortex"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with LysC for 1\u2009hour and trypsin overnight at 37\u2009°C."
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "carbamidomethlylation of cysteines"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free HPLC-tandem mass spectrometry"
+    ],
+    "Comment[Separation]": [
+      "Reverse phase LC-MS/MS"
+    ],
+    "Comment[GradientTime]": [
+      "210\u2009min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.8\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "one missed cleavage"
+    ]
+  },
+  "Nat_3_CB6677.raw": {
+    "Source Name": [
+      "CB6677"
+    ],
+    "Assay Name": [
+      "Nat_3_CB6677.raw"
+    ],
+    "Raw Data File": [
+      "Nat_3_CB6677.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human ASD vs. control brain"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Brain samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Tissues were procured from a total of 9 ASD and 9 control subjects."
+    ],
+    "Characteristics[OrganismPart]": [
+      "left posterior inferior cerebellar hemispheric cortex (CB)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with LysC for 1\u2009hour and trypsin overnight at 37\u2009°C."
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "carbamidomethlylation of cysteines"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free HPLC-tandem mass spectrometry"
+    ],
+    "Comment[Separation]": [
+      "Reverse phase LC-MS/MS"
+    ],
+    "Comment[GradientTime]": [
+      "210\u2009min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.8\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "one missed cleavage"
+    ]
+  },
+  "Nat_18_CB4678.raw": {
+    "Source Name": [
+      "CB4678"
+    ],
+    "Assay Name": [
+      "Nat_18_CB4678.raw"
+    ],
+    "Raw Data File": [
+      "Nat_18_CB4678.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human ASD vs. control brain"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Brain samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Tissues were procured from a total of 9 ASD and 9 control subjects."
+    ],
+    "Characteristics[OrganismPart]": [
+      "left posterior inferior cerebellar hemispheric cortex (CB)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with LysC for 1\u2009hour and trypsin overnight at 37\u2009°C."
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "carbamidomethlylation of cysteines"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free HPLC-tandem mass spectrometry"
+    ],
+    "Comment[Separation]": [
+      "Reverse phase LC-MS/MS"
+    ],
+    "Comment[GradientTime]": [
+      "210\u2009min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.8\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "one missed cleavage"
+    ]
+  },
+  "Nat_7_CB6401.raw": {
+    "Source Name": [
+      "CB6401"
+    ],
+    "Assay Name": [
+      "Nat_7_CB6401.raw"
+    ],
+    "Raw Data File": [
+      "Nat_7_CB6401.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human ASD vs. control brain"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Brain samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Tissues were procured from a total of 9 ASD and 9 control subjects."
+    ],
+    "Characteristics[OrganismPart]": [
+      "left posterior inferior cerebellar hemispheric cortex (CB)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with LysC for 1\u2009hour and trypsin overnight at 37\u2009°C."
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "carbamidomethlylation of cysteines"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free HPLC-tandem mass spectrometry"
+    ],
+    "Comment[Separation]": [
+      "Reverse phase LC-MS/MS"
+    ],
+    "Comment[GradientTime]": [
+      "210\u2009min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.8\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "one missed cleavage"
+    ]
+  },
+  "Nat_5_CB6994.raw": {
+    "Source Name": [
+      "CB6994"
+    ],
+    "Assay Name": [
+      "Nat_5_CB6994.raw"
+    ],
+    "Raw Data File": [
+      "Nat_5_CB6994.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human ASD vs. control brain"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Brain samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Tissues were procured from a total of 9 ASD and 9 control subjects."
+    ],
+    "Characteristics[OrganismPart]": [
+      "left posterior inferior cerebellar hemispheric cortex (CB)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with LysC for 1\u2009hour and trypsin overnight at 37\u2009°C."
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "carbamidomethlylation of cysteines"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free HPLC-tandem mass spectrometry"
+    ],
+    "Comment[Separation]": [
+      "Reverse phase LC-MS/MS"
+    ],
+    "Comment[GradientTime]": [
+      "210\u2009min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.8\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "one missed cleavage"
+    ]
+  },
+  "Nat_13_CB5718.raw": {
+    "Source Name": [
+      "CB5718"
+    ],
+    "Assay Name": [
+      "Nat_13_CB5718.raw"
+    ],
+    "Raw Data File": [
+      "Nat_13_CB5718.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human ASD vs. control brain"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Brain samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Tissues were procured from a total of 9 ASD and 9 control subjects."
+    ],
+    "Characteristics[OrganismPart]": [
+      "left posterior inferior cerebellar hemispheric cortex (CB)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with LysC for 1\u2009hour and trypsin overnight at 37\u2009°C."
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "carbamidomethlylation of cysteines"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free HPLC-tandem mass spectrometry"
+    ],
+    "Comment[Separation]": [
+      "Reverse phase LC-MS/MS"
+    ],
+    "Comment[GradientTime]": [
+      "210\u2009min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.8\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "one missed cleavage"
+    ]
+  },
+  "Nat_29_A197561.raw": {
+    "Source Name": [
+      "A197561"
+    ],
+    "Assay Name": [
+      "Nat_29_A197561.raw"
+    ],
+    "Raw Data File": [
+      "Nat_29_A197561.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human ASD vs. control brain"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Brain samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Tissues were procured from a total of 9 ASD and 9 control subjects."
+    ],
+    "Characteristics[OrganismPart]": [
+      "BA19 (occipital) cortex"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with LysC for 1\u2009hour and trypsin overnight at 37\u2009°C."
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "carbamidomethlylation of cysteines"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free HPLC-tandem mass spectrometry"
+    ],
+    "Comment[Separation]": [
+      "Reverse phase LC-MS/MS"
+    ],
+    "Comment[GradientTime]": [
+      "210\u2009min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.8\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "one missed cleavage"
+    ]
+  },
+  "Nat_4_CB6337.raw": {
+    "Source Name": [
+      "CB6337"
+    ],
+    "Assay Name": [
+      "Nat_4_CB6337.raw"
+    ],
+    "Raw Data File": [
+      "Nat_4_CB6337.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human ASD vs. control brain"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Brain samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Tissues were procured from a total of 9 ASD and 9 control subjects."
+    ],
+    "Characteristics[OrganismPart]": [
+      "left posterior inferior cerebellar hemispheric cortex (CB)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with LysC for 1\u2009hour and trypsin overnight at 37\u2009°C."
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "carbamidomethlylation of cysteines"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free HPLC-tandem mass spectrometry"
+    ],
+    "Comment[Separation]": [
+      "Reverse phase LC-MS/MS"
+    ],
+    "Comment[GradientTime]": [
+      "210\u2009min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.8\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "one missed cleavage"
+    ]
+  },
+  "Nat_26_A197090.raw": {
+    "Source Name": [
+      "A197090"
+    ],
+    "Assay Name": [
+      "Nat_26_A197090.raw"
+    ],
+    "Raw Data File": [
+      "Nat_26_A197090.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human ASD vs. control brain"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Brain samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Tissues were procured from a total of 9 ASD and 9 control subjects."
+    ],
+    "Characteristics[OrganismPart]": [
+      "BA19 (occipital) cortex"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with LysC for 1\u2009hour and trypsin overnight at 37\u2009°C."
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "carbamidomethlylation of cysteines"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free HPLC-tandem mass spectrometry"
+    ],
+    "Comment[Separation]": [
+      "Reverse phase LC-MS/MS"
+    ],
+    "Comment[GradientTime]": [
+      "210\u2009min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.8\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "one missed cleavage"
+    ]
+  },
+  "Nat_2_CB7078.raw": {
+    "Source Name": [
+      "CB7078"
+    ],
+    "Assay Name": [
+      "Nat_2_CB7078.raw"
+    ],
+    "Raw Data File": [
+      "Nat_2_CB7078.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human ASD vs. control brain"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Brain samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Tissues were procured from a total of 9 ASD and 9 control subjects."
+    ],
+    "Characteristics[OrganismPart]": [
+      "left posterior inferior cerebellar hemispheric cortex (CB)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with LysC for 1\u2009hour and trypsin overnight at 37\u2009°C."
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "carbamidomethlylation of cysteines"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free HPLC-tandem mass spectrometry"
+    ],
+    "Comment[Separation]": [
+      "Reverse phase LC-MS/MS"
+    ],
+    "Comment[GradientTime]": [
+      "210\u2009min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.8\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "one missed cleavage"
+    ]
+  },
+  "Nat_17_CB1860.raw": {
+    "Source Name": [
+      "CB1860"
+    ],
+    "Assay Name": [
+      "Nat_17_CB1860.raw"
+    ],
+    "Raw Data File": [
+      "Nat_17_CB1860.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human ASD vs. control brain"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Brain samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Tissues were procured from a total of 9 ASD and 9 control subjects."
+    ],
+    "Characteristics[OrganismPart]": [
+      "left posterior inferior cerebellar hemispheric cortex (CB)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with LysC for 1\u2009hour and trypsin overnight at 37\u2009°C."
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "carbamidomethlylation of cysteines"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free HPLC-tandem mass spectrometry"
+    ],
+    "Comment[Separation]": [
+      "Reverse phase LC-MS/MS"
+    ],
+    "Comment[GradientTime]": [
+      "210\u2009min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.8\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "one missed cleavage"
+    ]
+  },
+  "Nat_20_A196677.raw": {
+    "Source Name": [
+      "A196677"
+    ],
+    "Assay Name": [
+      "Nat_20_A196677.raw"
+    ],
+    "Raw Data File": [
+      "Nat_20_A196677.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human ASD vs. control brain"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Brain samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Tissues were procured from a total of 9 ASD and 9 control subjects."
+    ],
+    "Characteristics[OrganismPart]": [
+      "BA19 (occipital) cortex"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with LysC for 1\u2009hour and trypsin overnight at 37\u2009°C."
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "carbamidomethlylation of cysteines"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free HPLC-tandem mass spectrometry"
+    ],
+    "Comment[Separation]": [
+      "Reverse phase LC-MS/MS"
+    ],
+    "Comment[GradientTime]": [
+      "210\u2009min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.8\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "one missed cleavage"
+    ]
+  },
+  "Nat_30_A195718.raw": {
+    "Source Name": [
+      "A195718"
+    ],
+    "Assay Name": [
+      "Nat_30_A195718.raw"
+    ],
+    "Raw Data File": [
+      "Nat_30_A195718.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human ASD vs. control brain"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Brain samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Tissues were procured from a total of 9 ASD and 9 control subjects."
+    ],
+    "Characteristics[OrganismPart]": [
+      "BA19 (occipital) cortex"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with LysC for 1\u2009hour and trypsin overnight at 37\u2009°C."
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "carbamidomethlylation of cysteines"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free HPLC-tandem mass spectrometry"
+    ],
+    "Comment[Separation]": [
+      "Reverse phase LC-MS/MS"
+    ],
+    "Comment[GradientTime]": [
+      "210\u2009min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.8\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "one missed cleavage"
+    ]
+  },
+  "Nat_1_CB6399.raw": {
+    "Source Name": [
+      "CB6399"
+    ],
+    "Assay Name": [
+      "Nat_1_CB6399.raw"
+    ],
+    "Raw Data File": [
+      "Nat_1_CB6399.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human ASD vs. control brain"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Brain samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Tissues were procured from a total of 9 ASD and 9 control subjects."
+    ],
+    "Characteristics[OrganismPart]": [
+      "left posterior inferior cerebellar hemispheric cortex (CB)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with LysC for 1\u2009hour and trypsin overnight at 37\u2009°C."
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "carbamidomethlylation of cysteines"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free HPLC-tandem mass spectrometry"
+    ],
+    "Comment[Separation]": [
+      "Reverse phase LC-MS/MS"
+    ],
+    "Comment[GradientTime]": [
+      "210\u2009min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.8\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "one missed cleavage"
+    ]
+  },
+  "Nat_6_CB5666_rerun.raw": {
+    "Source Name": [
+      "CB5666"
+    ],
+    "Assay Name": [
+      "Nat_6_CB5666_rerun.raw"
+    ],
+    "Raw Data File": [
+      "Nat_6_CB5666_rerun.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human ASD vs. control brain"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Brain samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Tissues were procured from a total of 9 ASD and 9 control subjects."
+    ],
+    "Characteristics[OrganismPart]": [
+      "left posterior inferior cerebellar hemispheric cortex (CB)"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "rerun"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with LysC for 1\u2009hour and trypsin overnight at 37\u2009°C."
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "carbamidomethlylation of cysteines"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free HPLC-tandem mass spectrometry"
+    ],
+    "Comment[Separation]": [
+      "Reverse phase LC-MS/MS"
+    ],
+    "Comment[GradientTime]": [
+      "210\u2009min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.8\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "one missed cleavage"
+    ]
+  },
+  "Nat_23_A195666.raw": {
+    "Source Name": [
+      "A195666"
+    ],
+    "Assay Name": [
+      "Nat_23_A195666.raw"
+    ],
+    "Raw Data File": [
+      "Nat_23_A195666.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human ASD vs. control brain"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Brain samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Tissues were procured from a total of 9 ASD and 9 control subjects."
+    ],
+    "Characteristics[OrganismPart]": [
+      "BA19 (occipital) cortex"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with LysC for 1\u2009hour and trypsin overnight at 37\u2009°C."
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "carbamidomethlylation of cysteines"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free HPLC-tandem mass spectrometry"
+    ],
+    "Comment[Separation]": [
+      "Reverse phase LC-MS/MS"
+    ],
+    "Comment[GradientTime]": [
+      "210\u2009min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.8\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "one missed cleavage"
+    ]
+  },
+  "Nat_10_CB5334.raw": {
+    "Source Name": [
+      "CB5334"
+    ],
+    "Assay Name": [
+      "Nat_10_CB5334.raw"
+    ],
+    "Raw Data File": [
+      "Nat_10_CB5334.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human ASD vs. control brain"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Brain samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Tissues were procured from a total of 9 ASD and 9 control subjects."
+    ],
+    "Characteristics[OrganismPart]": [
+      "left posterior inferior cerebellar hemispheric cortex (CB)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with LysC for 1\u2009hour and trypsin overnight at 37\u2009°C."
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "carbamidomethlylation of cysteines"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free HPLC-tandem mass spectrometry"
+    ],
+    "Comment[Separation]": [
+      "Reverse phase LC-MS/MS"
+    ],
+    "Comment[GradientTime]": [
+      "210\u2009min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.8\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "one missed cleavage"
+    ]
+  },
+  "Nat_24_A196401.raw": {
+    "Source Name": [
+      "A196401"
+    ],
+    "Assay Name": [
+      "Nat_24_A196401.raw"
+    ],
+    "Raw Data File": [
+      "Nat_24_A196401.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human ASD vs. control brain"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Brain samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Tissues were procured from a total of 9 ASD and 9 control subjects."
+    ],
+    "Characteristics[OrganismPart]": [
+      "BA19 (occipital) cortex"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with LysC for 1\u2009hour and trypsin overnight at 37\u2009°C."
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "carbamidomethlylation of cysteines"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free HPLC-tandem mass spectrometry"
+    ],
+    "Comment[Separation]": [
+      "Reverse phase LC-MS/MS"
+    ],
+    "Comment[GradientTime]": [
+      "210\u2009min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.8\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "one missed cleavage"
+    ]
+  },
+  "Nat_22_A196994.raw": {
+    "Source Name": [
+      "A196994"
+    ],
+    "Assay Name": [
+      "Nat_22_A196994.raw"
+    ],
+    "Raw Data File": [
+      "Nat_22_A196994.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human ASD vs. control brain"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Brain samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Tissues were procured from a total of 9 ASD and 9 control subjects."
+    ],
+    "Characteristics[OrganismPart]": [
+      "BA19 (occipital) cortex"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with LysC for 1\u2009hour and trypsin overnight at 37\u2009°C."
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "carbamidomethlylation of cysteines"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free HPLC-tandem mass spectrometry"
+    ],
+    "Comment[Separation]": [
+      "Reverse phase LC-MS/MS"
+    ],
+    "Comment[GradientTime]": [
+      "210\u2009min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.8\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "one missed cleavage"
+    ]
+  },
+  "Nat_28_A196200.raw": {
+    "Source Name": [
+      "A196200"
+    ],
+    "Assay Name": [
+      "Nat_28_A196200.raw"
+    ],
+    "Raw Data File": [
+      "Nat_28_A196200.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human ASD vs. control brain"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Brain samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Tissues were procured from a total of 9 ASD and 9 control subjects."
+    ],
+    "Characteristics[OrganismPart]": [
+      "BA19 (occipital) cortex"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with LysC for 1\u2009hour and trypsin overnight at 37\u2009°C."
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "carbamidomethlylation of cysteines"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free HPLC-tandem mass spectrometry"
+    ],
+    "Comment[Separation]": [
+      "Reverse phase LC-MS/MS"
+    ],
+    "Comment[GradientTime]": [
+      "210\u2009min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.8\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "one missed cleavage"
+    ]
+  },
+  "Nat_32_A194543.raw": {
+    "Source Name": [
+      "A194543"
+    ],
+    "Assay Name": [
+      "Nat_32_A194543.raw"
+    ],
+    "Raw Data File": [
+      "Nat_32_A194543.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human ASD vs. control brain"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Brain samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Tissues were procured from a total of 9 ASD and 9 control subjects."
+    ],
+    "Characteristics[OrganismPart]": [
+      "BA19 (occipital) cortex"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with LysC for 1\u2009hour and trypsin overnight at 37\u2009°C."
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "carbamidomethlylation of cysteines"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free HPLC-tandem mass spectrometry"
+    ],
+    "Comment[Separation]": [
+      "Reverse phase LC-MS/MS"
+    ],
+    "Comment[GradientTime]": [
+      "210\u2009min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.8\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "one missed cleavage"
+    ]
+  },
+  "Nat_15_CB3228.raw": {
+    "Source Name": [
+      "CB3228"
+    ],
+    "Assay Name": [
+      "Nat_15_CB3228.raw"
+    ],
+    "Raw Data File": [
+      "Nat_15_CB3228.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human ASD vs. control brain"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Brain samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Tissues were procured from a total of 9 ASD and 9 control subjects."
+    ],
+    "Characteristics[OrganismPart]": [
+      "left posterior inferior cerebellar hemispheric cortex (CB)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with LysC for 1\u2009hour and trypsin overnight at 37\u2009°C."
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "carbamidomethlylation of cysteines"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free HPLC-tandem mass spectrometry"
+    ],
+    "Comment[Separation]": [
+      "Reverse phase LC-MS/MS"
+    ],
+    "Comment[GradientTime]": [
+      "210\u2009min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "25 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.8\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "one missed cleavage"
+    ]
+  }
+}

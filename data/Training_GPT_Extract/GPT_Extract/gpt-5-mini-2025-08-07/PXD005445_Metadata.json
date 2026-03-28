@@ -1,0 +1,1925 @@
+{
+  "QEp15-3640.raw": {
+    "Source Name": [
+      "Source_unknown"
+    ],
+    "Assay Name": [
+      "Source_unknown_QEp15-3640"
+    ],
+    "Raw Data File": [
+      "QEp15-3640.raw"
+    ],
+    "Characteristics[Organism]": [
+      "frozen post-mortem human brain specimens"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (45 mM at 1/10th sample volume)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (100 mM at 1/10th sample volume)"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer (ThermoFisher Scientific)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation based fragmentation (normalised collision energy 28)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy 28"
+    ],
+    "Comment[Separation]": [
+      "coupled online to a Waters nanoAcquity UPLC in ‘low pH’ condition"
+    ],
+    "Comment[GradientTime]": [
+      "180-min gradient run"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free quantitative tandem mass-spectrometry proteomics",
+      "Label Free Quantitation (LFQ)"
+    ]
+  },
+  "QEp15-2570_AMY.raw": {
+    "Source Name": [
+      "Source_AMY"
+    ],
+    "Assay Name": [
+      "Source_AMY_QEp15-2570_AMY"
+    ],
+    "Raw Data File": [
+      "QEp15-2570_AMY.raw"
+    ],
+    "Characteristics[Organism]": [
+      "frozen post-mortem human brain specimens"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (45 mM at 1/10th sample volume)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (100 mM at 1/10th sample volume)"
+    ],
+    "FactorValue[OrganismPart]": [
+      "amygdala (AMY)"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer (ThermoFisher Scientific)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation based fragmentation (normalised collision energy 28)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy 28"
+    ],
+    "Comment[Separation]": [
+      "coupled online to a Waters nanoAcquity UPLC in ‘low pH’ condition"
+    ],
+    "Comment[GradientTime]": [
+      "180-min gradient run"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free quantitative tandem mass-spectrometry proteomics",
+      "Label Free Quantitation (LFQ)"
+    ]
+  },
+  "QEp15-3632.raw": {
+    "Source Name": [
+      "Source_unknown"
+    ],
+    "Assay Name": [
+      "Source_unknown_QEp15-3632"
+    ],
+    "Raw Data File": [
+      "QEp15-3632.raw"
+    ],
+    "Characteristics[Organism]": [
+      "frozen post-mortem human brain specimens"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (45 mM at 1/10th sample volume)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (100 mM at 1/10th sample volume)"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer (ThermoFisher Scientific)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation based fragmentation (normalised collision energy 28)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy 28"
+    ],
+    "Comment[Separation]": [
+      "coupled online to a Waters nanoAcquity UPLC in ‘low pH’ condition"
+    ],
+    "Comment[GradientTime]": [
+      "180-min gradient run"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free quantitative tandem mass-spectrometry proteomics",
+      "Label Free Quantitation (LFQ)"
+    ]
+  },
+  "QEp16-2121_V1Cd.raw": {
+    "Source Name": [
+      "Source_V1C"
+    ],
+    "Assay Name": [
+      "Source_V1C_QEp16-2121_V1Cd"
+    ],
+    "Raw Data File": [
+      "QEp16-2121_V1Cd.raw"
+    ],
+    "Characteristics[Organism]": [
+      "frozen post-mortem human brain specimens"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (45 mM at 1/10th sample volume)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (100 mM at 1/10th sample volume)"
+    ],
+    "FactorValue[OrganismPart]": [
+      "primary visual cortex (V1C)"
+    ],
+    "FactorValue[Time]": [
+      "V1Cd"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer (ThermoFisher Scientific)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation based fragmentation (normalised collision energy 28)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy 28"
+    ],
+    "Comment[Separation]": [
+      "coupled online to a Waters nanoAcquity UPLC in ‘low pH’ condition"
+    ],
+    "Comment[GradientTime]": [
+      "180-min gradient run"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free quantitative tandem mass-spectrometry proteomics",
+      "Label Free Quantitation (LFQ)"
+    ]
+  },
+  "QEp16-2146_CBCd.raw": {
+    "Source Name": [
+      "Source_CBC"
+    ],
+    "Assay Name": [
+      "Source_CBC_QEp16-2146_CBCd"
+    ],
+    "Raw Data File": [
+      "QEp16-2146_CBCd.raw"
+    ],
+    "Characteristics[Organism]": [
+      "frozen post-mortem human brain specimens"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (45 mM at 1/10th sample volume)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (100 mM at 1/10th sample volume)"
+    ],
+    "FactorValue[OrganismPart]": [
+      "cerebellum (CBC)"
+    ],
+    "FactorValue[Time]": [
+      "CBCd"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer (ThermoFisher Scientific)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation based fragmentation (normalised collision energy 28)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy 28"
+    ],
+    "Comment[Separation]": [
+      "coupled online to a Waters nanoAcquity UPLC in ‘low pH’ condition"
+    ],
+    "Comment[GradientTime]": [
+      "180-min gradient run"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free quantitative tandem mass-spectrometry proteomics",
+      "Label Free Quantitation (LFQ)"
+    ]
+  },
+  "QEp15-3623.raw": {
+    "Source Name": [
+      "Source_unknown"
+    ],
+    "Assay Name": [
+      "Source_unknown_QEp15-3623"
+    ],
+    "Raw Data File": [
+      "QEp15-3623.raw"
+    ],
+    "Characteristics[Organism]": [
+      "frozen post-mortem human brain specimens"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (45 mM at 1/10th sample volume)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (100 mM at 1/10th sample volume)"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer (ThermoFisher Scientific)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation based fragmentation (normalised collision energy 28)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy 28"
+    ],
+    "Comment[Separation]": [
+      "coupled online to a Waters nanoAcquity UPLC in ‘low pH’ condition"
+    ],
+    "Comment[GradientTime]": [
+      "180-min gradient run"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free quantitative tandem mass-spectrometry proteomics",
+      "Label Free Quantitation (LFQ)"
+    ]
+  },
+  "QEp15-3600.raw": {
+    "Source Name": [
+      "Source_unknown"
+    ],
+    "Assay Name": [
+      "Source_unknown_QEp15-3600"
+    ],
+    "Raw Data File": [
+      "QEp15-3600.raw"
+    ],
+    "Characteristics[Organism]": [
+      "frozen post-mortem human brain specimens"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (45 mM at 1/10th sample volume)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (100 mM at 1/10th sample volume)"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer (ThermoFisher Scientific)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation based fragmentation (normalised collision energy 28)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy 28"
+    ],
+    "Comment[Separation]": [
+      "coupled online to a Waters nanoAcquity UPLC in ‘low pH’ condition"
+    ],
+    "Comment[GradientTime]": [
+      "180-min gradient run"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free quantitative tandem mass-spectrometry proteomics",
+      "Label Free Quantitation (LFQ)"
+    ]
+  },
+  "QEp16-2086_HIPd.raw": {
+    "Source Name": [
+      "Source_HIP"
+    ],
+    "Assay Name": [
+      "Source_HIP_QEp16-2086_HIPd"
+    ],
+    "Raw Data File": [
+      "QEp16-2086_HIPd.raw"
+    ],
+    "Characteristics[Organism]": [
+      "frozen post-mortem human brain specimens"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (45 mM at 1/10th sample volume)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (100 mM at 1/10th sample volume)"
+    ],
+    "FactorValue[OrganismPart]": [
+      "hippocampus (HIP)"
+    ],
+    "FactorValue[Time]": [
+      "HIPd"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer (ThermoFisher Scientific)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation based fragmentation (normalised collision energy 28)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy 28"
+    ],
+    "Comment[Separation]": [
+      "coupled online to a Waters nanoAcquity UPLC in ‘low pH’ condition"
+    ],
+    "Comment[GradientTime]": [
+      "180-min gradient run"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free quantitative tandem mass-spectrometry proteomics",
+      "Label Free Quantitation (LFQ)"
+    ]
+  },
+  "QEp15-3565.raw": {
+    "Source Name": [
+      "Source_unknown"
+    ],
+    "Assay Name": [
+      "Source_unknown_QEp15-3565"
+    ],
+    "Raw Data File": [
+      "QEp15-3565.raw"
+    ],
+    "Characteristics[Organism]": [
+      "frozen post-mortem human brain specimens"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (45 mM at 1/10th sample volume)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (100 mM at 1/10th sample volume)"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer (ThermoFisher Scientific)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation based fragmentation (normalised collision energy 28)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy 28"
+    ],
+    "Comment[Separation]": [
+      "coupled online to a Waters nanoAcquity UPLC in ‘low pH’ condition"
+    ],
+    "Comment[GradientTime]": [
+      "180-min gradient run"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free quantitative tandem mass-spectrometry proteomics",
+      "Label Free Quantitation (LFQ)"
+    ]
+  },
+  "QEp15-3641.raw": {
+    "Source Name": [
+      "Source_unknown"
+    ],
+    "Assay Name": [
+      "Source_unknown_QEp15-3641"
+    ],
+    "Raw Data File": [
+      "QEp15-3641.raw"
+    ],
+    "Characteristics[Organism]": [
+      "frozen post-mortem human brain specimens"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (45 mM at 1/10th sample volume)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (100 mM at 1/10th sample volume)"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer (ThermoFisher Scientific)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation based fragmentation (normalised collision energy 28)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy 28"
+    ],
+    "Comment[Separation]": [
+      "coupled online to a Waters nanoAcquity UPLC in ‘low pH’ condition"
+    ],
+    "Comment[GradientTime]": [
+      "180-min gradient run"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free quantitative tandem mass-spectrometry proteomics",
+      "Label Free Quantitation (LFQ)"
+    ]
+  },
+  "QEp15-3545.raw": {
+    "Source Name": [
+      "Source_unknown"
+    ],
+    "Assay Name": [
+      "Source_unknown_QEp15-3545"
+    ],
+    "Raw Data File": [
+      "QEp15-3545.raw"
+    ],
+    "Characteristics[Organism]": [
+      "frozen post-mortem human brain specimens"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (45 mM at 1/10th sample volume)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (100 mM at 1/10th sample volume)"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer (ThermoFisher Scientific)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation based fragmentation (normalised collision energy 28)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy 28"
+    ],
+    "Comment[Separation]": [
+      "coupled online to a Waters nanoAcquity UPLC in ‘low pH’ condition"
+    ],
+    "Comment[GradientTime]": [
+      "180-min gradient run"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free quantitative tandem mass-spectrometry proteomics",
+      "Label Free Quantitation (LFQ)"
+    ]
+  },
+  "QEp15-3547.raw": {
+    "Source Name": [
+      "Source_unknown"
+    ],
+    "Assay Name": [
+      "Source_unknown_QEp15-3547"
+    ],
+    "Raw Data File": [
+      "QEp15-3547.raw"
+    ],
+    "Characteristics[Organism]": [
+      "frozen post-mortem human brain specimens"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (45 mM at 1/10th sample volume)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (100 mM at 1/10th sample volume)"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer (ThermoFisher Scientific)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation based fragmentation (normalised collision energy 28)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy 28"
+    ],
+    "Comment[Separation]": [
+      "coupled online to a Waters nanoAcquity UPLC in ‘low pH’ condition"
+    ],
+    "Comment[GradientTime]": [
+      "180-min gradient run"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free quantitative tandem mass-spectrometry proteomics",
+      "Label Free Quantitation (LFQ)"
+    ]
+  },
+  "QEp16-2020_STRd.raw": {
+    "Source Name": [
+      "Source_STR"
+    ],
+    "Assay Name": [
+      "Source_STR_QEp16-2020_STRd"
+    ],
+    "Raw Data File": [
+      "QEp16-2020_STRd.raw"
+    ],
+    "Characteristics[Organism]": [
+      "frozen post-mortem human brain specimens"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (45 mM at 1/10th sample volume)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (100 mM at 1/10th sample volume)"
+    ],
+    "FactorValue[OrganismPart]": [
+      "striatum (STR)"
+    ],
+    "FactorValue[Time]": [
+      "STRd"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer (ThermoFisher Scientific)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation based fragmentation (normalised collision energy 28)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy 28"
+    ],
+    "Comment[Separation]": [
+      "coupled online to a Waters nanoAcquity UPLC in ‘low pH’ condition"
+    ],
+    "Comment[GradientTime]": [
+      "180-min gradient run"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free quantitative tandem mass-spectrometry proteomics",
+      "Label Free Quantitation (LFQ)"
+    ]
+  },
+  "QEp16-2101_V1Cd.raw": {
+    "Source Name": [
+      "Source_V1C"
+    ],
+    "Assay Name": [
+      "Source_V1C_QEp16-2101_V1Cd"
+    ],
+    "Raw Data File": [
+      "QEp16-2101_V1Cd.raw"
+    ],
+    "Characteristics[Organism]": [
+      "frozen post-mortem human brain specimens"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (45 mM at 1/10th sample volume)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (100 mM at 1/10th sample volume)"
+    ],
+    "FactorValue[OrganismPart]": [
+      "primary visual cortex (V1C)"
+    ],
+    "FactorValue[Time]": [
+      "V1Cd"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer (ThermoFisher Scientific)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation based fragmentation (normalised collision energy 28)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy 28"
+    ],
+    "Comment[Separation]": [
+      "coupled online to a Waters nanoAcquity UPLC in ‘low pH’ condition"
+    ],
+    "Comment[GradientTime]": [
+      "180-min gradient run"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free quantitative tandem mass-spectrometry proteomics",
+      "Label Free Quantitation (LFQ)"
+    ]
+  },
+  "QEp15-2584_DFC.raw": {
+    "Source Name": [
+      "Source_DFC"
+    ],
+    "Assay Name": [
+      "Source_DFC_QEp15-2584_DFC"
+    ],
+    "Raw Data File": [
+      "QEp15-2584_DFC.raw"
+    ],
+    "Characteristics[Organism]": [
+      "frozen post-mortem human brain specimens"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (45 mM at 1/10th sample volume)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (100 mM at 1/10th sample volume)"
+    ],
+    "FactorValue[OrganismPart]": [
+      "dorsolateral prefrontal cortex (DFC)"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer (ThermoFisher Scientific)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation based fragmentation (normalised collision energy 28)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy 28"
+    ],
+    "Comment[Separation]": [
+      "coupled online to a Waters nanoAcquity UPLC in ‘low pH’ condition"
+    ],
+    "Comment[GradientTime]": [
+      "180-min gradient run"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free quantitative tandem mass-spectrometry proteomics",
+      "Label Free Quantitation (LFQ)"
+    ]
+  },
+  "QEp15-2800_STR.raw": {
+    "Source Name": [
+      "Source_STR"
+    ],
+    "Assay Name": [
+      "Source_STR_QEp15-2800_STR"
+    ],
+    "Raw Data File": [
+      "QEp15-2800_STR.raw"
+    ],
+    "Characteristics[Organism]": [
+      "frozen post-mortem human brain specimens"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (45 mM at 1/10th sample volume)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (100 mM at 1/10th sample volume)"
+    ],
+    "FactorValue[OrganismPart]": [
+      "striatum (STR)"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer (ThermoFisher Scientific)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation based fragmentation (normalised collision energy 28)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy 28"
+    ],
+    "Comment[Separation]": [
+      "coupled online to a Waters nanoAcquity UPLC in ‘low pH’ condition"
+    ],
+    "Comment[GradientTime]": [
+      "180-min gradient run"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free quantitative tandem mass-spectrometry proteomics",
+      "Label Free Quantitation (LFQ)"
+    ]
+  },
+  "QEp16-1970_DFCd.raw": {
+    "Source Name": [
+      "Source_DFC"
+    ],
+    "Assay Name": [
+      "Source_DFC_QEp16-1970_DFCd"
+    ],
+    "Raw Data File": [
+      "QEp16-1970_DFCd.raw"
+    ],
+    "Characteristics[Organism]": [
+      "frozen post-mortem human brain specimens"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (45 mM at 1/10th sample volume)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (100 mM at 1/10th sample volume)"
+    ],
+    "FactorValue[OrganismPart]": [
+      "dorsolateral prefrontal cortex (DFC)"
+    ],
+    "FactorValue[Time]": [
+      "DFCd"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer (ThermoFisher Scientific)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation based fragmentation (normalised collision energy 28)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy 28"
+    ],
+    "Comment[Separation]": [
+      "coupled online to a Waters nanoAcquity UPLC in ‘low pH’ condition"
+    ],
+    "Comment[GradientTime]": [
+      "180-min gradient run"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free quantitative tandem mass-spectrometry proteomics",
+      "Label Free Quantitation (LFQ)"
+    ]
+  },
+  "QEp15-2784_CON.raw": {
+    "Source Name": [
+      "Source_CON"
+    ],
+    "Assay Name": [
+      "Source_CON_QEp15-2784_CON"
+    ],
+    "Raw Data File": [
+      "QEp15-2784_CON.raw"
+    ],
+    "Characteristics[Organism]": [
+      "frozen post-mortem human brain specimens"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (45 mM at 1/10th sample volume)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (100 mM at 1/10th sample volume)"
+    ],
+    "Characteristics[Specimen]": [
+      "control samples"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer (ThermoFisher Scientific)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation based fragmentation (normalised collision energy 28)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy 28"
+    ],
+    "Comment[Separation]": [
+      "coupled online to a Waters nanoAcquity UPLC in ‘low pH’ condition"
+    ],
+    "Comment[GradientTime]": [
+      "180-min gradient run"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free quantitative tandem mass-spectrometry proteomics",
+      "Label Free Quantitation (LFQ)"
+    ]
+  },
+  "QEp15-3549.raw": {
+    "Source Name": [
+      "Source_unknown"
+    ],
+    "Assay Name": [
+      "Source_unknown_QEp15-3549"
+    ],
+    "Raw Data File": [
+      "QEp15-3549.raw"
+    ],
+    "Characteristics[Organism]": [
+      "frozen post-mortem human brain specimens"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (45 mM at 1/10th sample volume)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (100 mM at 1/10th sample volume)"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer (ThermoFisher Scientific)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation based fragmentation (normalised collision energy 28)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy 28"
+    ],
+    "Comment[Separation]": [
+      "coupled online to a Waters nanoAcquity UPLC in ‘low pH’ condition"
+    ],
+    "Comment[GradientTime]": [
+      "180-min gradient run"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free quantitative tandem mass-spectrometry proteomics",
+      "Label Free Quantitation (LFQ)"
+    ]
+  },
+  "QEp15-3643.raw": {
+    "Source Name": [
+      "Source_unknown"
+    ],
+    "Assay Name": [
+      "Source_unknown_QEp15-3643"
+    ],
+    "Raw Data File": [
+      "QEp15-3643.raw"
+    ],
+    "Characteristics[Organism]": [
+      "frozen post-mortem human brain specimens"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (45 mM at 1/10th sample volume)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (100 mM at 1/10th sample volume)"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer (ThermoFisher Scientific)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation based fragmentation (normalised collision energy 28)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy 28"
+    ],
+    "Comment[Separation]": [
+      "coupled online to a Waters nanoAcquity UPLC in ‘low pH’ condition"
+    ],
+    "Comment[GradientTime]": [
+      "180-min gradient run"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free quantitative tandem mass-spectrometry proteomics",
+      "Label Free Quantitation (LFQ)"
+    ]
+  },
+  "QEp15-2792_STR.raw": {
+    "Source Name": [
+      "Source_STR"
+    ],
+    "Assay Name": [
+      "Source_STR_QEp15-2792_STR"
+    ],
+    "Raw Data File": [
+      "QEp15-2792_STR.raw"
+    ],
+    "Characteristics[Organism]": [
+      "frozen post-mortem human brain specimens"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (45 mM at 1/10th sample volume)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (100 mM at 1/10th sample volume)"
+    ],
+    "FactorValue[OrganismPart]": [
+      "striatum (STR)"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer (ThermoFisher Scientific)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation based fragmentation (normalised collision energy 28)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy 28"
+    ],
+    "Comment[Separation]": [
+      "coupled online to a Waters nanoAcquity UPLC in ‘low pH’ condition"
+    ],
+    "Comment[GradientTime]": [
+      "180-min gradient run"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free quantitative tandem mass-spectrometry proteomics",
+      "Label Free Quantitation (LFQ)"
+    ]
+  },
+  "QEp15-3650.raw": {
+    "Source Name": [
+      "Source_unknown"
+    ],
+    "Assay Name": [
+      "Source_unknown_QEp15-3650"
+    ],
+    "Raw Data File": [
+      "QEp15-3650.raw"
+    ],
+    "Characteristics[Organism]": [
+      "frozen post-mortem human brain specimens"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (45 mM at 1/10th sample volume)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (100 mM at 1/10th sample volume)"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer (ThermoFisher Scientific)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation based fragmentation (normalised collision energy 28)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy 28"
+    ],
+    "Comment[Separation]": [
+      "coupled online to a Waters nanoAcquity UPLC in ‘low pH’ condition"
+    ],
+    "Comment[GradientTime]": [
+      "180-min gradient run"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free quantitative tandem mass-spectrometry proteomics",
+      "Label Free Quantitation (LFQ)"
+    ]
+  },
+  "QEp15-3540.raw": {
+    "Source Name": [
+      "Source_unknown"
+    ],
+    "Assay Name": [
+      "Source_unknown_QEp15-3540"
+    ],
+    "Raw Data File": [
+      "QEp15-3540.raw"
+    ],
+    "Characteristics[Organism]": [
+      "frozen post-mortem human brain specimens"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (45 mM at 1/10th sample volume)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (100 mM at 1/10th sample volume)"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer (ThermoFisher Scientific)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation based fragmentation (normalised collision energy 28)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy 28"
+    ],
+    "Comment[Separation]": [
+      "coupled online to a Waters nanoAcquity UPLC in ‘low pH’ condition"
+    ],
+    "Comment[GradientTime]": [
+      "180-min gradient run"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free quantitative tandem mass-spectrometry proteomics",
+      "Label Free Quantitation (LFQ)"
+    ]
+  },
+  "QEp15-3142.raw": {
+    "Source Name": [
+      "Source_unknown"
+    ],
+    "Assay Name": [
+      "Source_unknown_QEp15-3142"
+    ],
+    "Raw Data File": [
+      "QEp15-3142.raw"
+    ],
+    "Characteristics[Organism]": [
+      "frozen post-mortem human brain specimens"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (45 mM at 1/10th sample volume)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (100 mM at 1/10th sample volume)"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer (ThermoFisher Scientific)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation based fragmentation (normalised collision energy 28)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy 28"
+    ],
+    "Comment[Separation]": [
+      "coupled online to a Waters nanoAcquity UPLC in ‘low pH’ condition"
+    ],
+    "Comment[GradientTime]": [
+      "180-min gradient run"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free quantitative tandem mass-spectrometry proteomics",
+      "Label Free Quantitation (LFQ)"
+    ]
+  },
+  "QEp15-2709_CON.raw": {
+    "Source Name": [
+      "Source_CON"
+    ],
+    "Assay Name": [
+      "Source_CON_QEp15-2709_CON"
+    ],
+    "Raw Data File": [
+      "QEp15-2709_CON.raw"
+    ],
+    "Characteristics[Organism]": [
+      "frozen post-mortem human brain specimens"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (45 mM at 1/10th sample volume)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (100 mM at 1/10th sample volume)"
+    ],
+    "Characteristics[Specimen]": [
+      "control samples"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer (ThermoFisher Scientific)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation based fragmentation (normalised collision energy 28)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy 28"
+    ],
+    "Comment[Separation]": [
+      "coupled online to a Waters nanoAcquity UPLC in ‘low pH’ condition"
+    ],
+    "Comment[GradientTime]": [
+      "180-min gradient run"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free quantitative tandem mass-spectrometry proteomics",
+      "Label Free Quantitation (LFQ)"
+    ]
+  },
+  "QEp15-3145.raw": {
+    "Source Name": [
+      "Source_unknown"
+    ],
+    "Assay Name": [
+      "Source_unknown_QEp15-3145"
+    ],
+    "Raw Data File": [
+      "QEp15-3145.raw"
+    ],
+    "Characteristics[Organism]": [
+      "frozen post-mortem human brain specimens"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (45 mM at 1/10th sample volume)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (100 mM at 1/10th sample volume)"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer (ThermoFisher Scientific)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation based fragmentation (normalised collision energy 28)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy 28"
+    ],
+    "Comment[Separation]": [
+      "coupled online to a Waters nanoAcquity UPLC in ‘low pH’ condition"
+    ],
+    "Comment[GradientTime]": [
+      "180-min gradient run"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free quantitative tandem mass-spectrometry proteomics",
+      "Label Free Quantitation (LFQ)"
+    ]
+  },
+  "QEp15-3551.raw": {
+    "Source Name": [
+      "Source_unknown"
+    ],
+    "Assay Name": [
+      "Source_unknown_QEp15-3551"
+    ],
+    "Raw Data File": [
+      "QEp15-3551.raw"
+    ],
+    "Characteristics[Organism]": [
+      "frozen post-mortem human brain specimens"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (45 mM at 1/10th sample volume)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (100 mM at 1/10th sample volume)"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer (ThermoFisher Scientific)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation based fragmentation (normalised collision energy 28)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy 28"
+    ],
+    "Comment[Separation]": [
+      "coupled online to a Waters nanoAcquity UPLC in ‘low pH’ condition"
+    ],
+    "Comment[GradientTime]": [
+      "180-min gradient run"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free quantitative tandem mass-spectrometry proteomics",
+      "Label Free Quantitation (LFQ)"
+    ]
+  },
+  "QEp15-3646.raw": {
+    "Source Name": [
+      "Source_unknown"
+    ],
+    "Assay Name": [
+      "Source_unknown_QEp15-3646"
+    ],
+    "Raw Data File": [
+      "QEp15-3646.raw"
+    ],
+    "Characteristics[Organism]": [
+      "frozen post-mortem human brain specimens"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (45 mM at 1/10th sample volume)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (100 mM at 1/10th sample volume)"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer (ThermoFisher Scientific)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation based fragmentation (normalised collision energy 28)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy 28"
+    ],
+    "Comment[Separation]": [
+      "coupled online to a Waters nanoAcquity UPLC in ‘low pH’ condition"
+    ],
+    "Comment[GradientTime]": [
+      "180-min gradient run"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free quantitative tandem mass-spectrometry proteomics",
+      "Label Free Quantitation (LFQ)"
+    ]
+  },
+  "QEp15-3607.raw": {
+    "Source Name": [
+      "Source_unknown"
+    ],
+    "Assay Name": [
+      "Source_unknown_QEp15-3607"
+    ],
+    "Raw Data File": [
+      "QEp15-3607.raw"
+    ],
+    "Characteristics[Organism]": [
+      "frozen post-mortem human brain specimens"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (45 mM at 1/10th sample volume)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (100 mM at 1/10th sample volume)"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer (ThermoFisher Scientific)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation based fragmentation (normalised collision energy 28)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy 28"
+    ],
+    "Comment[Separation]": [
+      "coupled online to a Waters nanoAcquity UPLC in ‘low pH’ condition"
+    ],
+    "Comment[GradientTime]": [
+      "180-min gradient run"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free quantitative tandem mass-spectrometry proteomics",
+      "Label Free Quantitation (LFQ)"
+    ]
+  },
+  "QEp16-1965_DFCd.raw": {
+    "Source Name": [
+      "Source_DFC"
+    ],
+    "Assay Name": [
+      "Source_DFC_QEp16-1965_DFCd"
+    ],
+    "Raw Data File": [
+      "QEp16-1965_DFCd.raw"
+    ],
+    "Characteristics[Organism]": [
+      "frozen post-mortem human brain specimens"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (45 mM at 1/10th sample volume)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (100 mM at 1/10th sample volume)"
+    ],
+    "FactorValue[OrganismPart]": [
+      "dorsolateral prefrontal cortex (DFC)"
+    ],
+    "FactorValue[Time]": [
+      "DFCd"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer (ThermoFisher Scientific)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation based fragmentation (normalised collision energy 28)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy 28"
+    ],
+    "Comment[Separation]": [
+      "coupled online to a Waters nanoAcquity UPLC in ‘low pH’ condition"
+    ],
+    "Comment[GradientTime]": [
+      "180-min gradient run"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free quantitative tandem mass-spectrometry proteomics",
+      "Label Free Quantitation (LFQ)"
+    ]
+  },
+  "QEp15-3149.raw": {
+    "Source Name": [
+      "Source_unknown"
+    ],
+    "Assay Name": [
+      "Source_unknown_QEp15-3149"
+    ],
+    "Raw Data File": [
+      "QEp15-3149.raw"
+    ],
+    "Characteristics[Organism]": [
+      "frozen post-mortem human brain specimens"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (45 mM at 1/10th sample volume)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (100 mM at 1/10th sample volume)"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer (ThermoFisher Scientific)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation based fragmentation (normalised collision energy 28)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy 28"
+    ],
+    "Comment[Separation]": [
+      "coupled online to a Waters nanoAcquity UPLC in ‘low pH’ condition"
+    ],
+    "Comment[GradientTime]": [
+      "180-min gradient run"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free quantitative tandem mass-spectrometry proteomics",
+      "Label Free Quantitation (LFQ)"
+    ]
+  },
+  "QEp15-3606.raw": {
+    "Source Name": [
+      "Source_unknown"
+    ],
+    "Assay Name": [
+      "Source_unknown_QEp15-3606"
+    ],
+    "Raw Data File": [
+      "QEp15-3606.raw"
+    ],
+    "Characteristics[Organism]": [
+      "frozen post-mortem human brain specimens"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (45 mM at 1/10th sample volume)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (100 mM at 1/10th sample volume)"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer (ThermoFisher Scientific)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation based fragmentation (normalised collision energy 28)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy 28"
+    ],
+    "Comment[Separation]": [
+      "coupled online to a Waters nanoAcquity UPLC in ‘low pH’ condition"
+    ],
+    "Comment[GradientTime]": [
+      "180-min gradient run"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free quantitative tandem mass-spectrometry proteomics",
+      "Label Free Quantitation (LFQ)"
+    ]
+  },
+  "QEp16-2055_HIPd.raw": {
+    "Source Name": [
+      "Source_HIP"
+    ],
+    "Assay Name": [
+      "Source_HIP_QEp16-2055_HIPd"
+    ],
+    "Raw Data File": [
+      "QEp16-2055_HIPd.raw"
+    ],
+    "Characteristics[Organism]": [
+      "frozen post-mortem human brain specimens"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (45 mM at 1/10th sample volume)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (100 mM at 1/10th sample volume)"
+    ],
+    "FactorValue[OrganismPart]": [
+      "hippocampus (HIP)"
+    ],
+    "FactorValue[Time]": [
+      "HIPd"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer (ThermoFisher Scientific)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation based fragmentation (normalised collision energy 28)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy 28"
+    ],
+    "Comment[Separation]": [
+      "coupled online to a Waters nanoAcquity UPLC in ‘low pH’ condition"
+    ],
+    "Comment[GradientTime]": [
+      "180-min gradient run"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free quantitative tandem mass-spectrometry proteomics",
+      "Label Free Quantitation (LFQ)"
+    ]
+  },
+  "QEp15-3611.raw": {
+    "Source Name": [
+      "Source_unknown"
+    ],
+    "Assay Name": [
+      "Source_unknown_QEp15-3611"
+    ],
+    "Raw Data File": [
+      "QEp15-3611.raw"
+    ],
+    "Characteristics[Organism]": [
+      "frozen post-mortem human brain specimens"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (45 mM at 1/10th sample volume)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (100 mM at 1/10th sample volume)"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer (ThermoFisher Scientific)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation based fragmentation (normalised collision energy 28)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy 28"
+    ],
+    "Comment[Separation]": [
+      "coupled online to a Waters nanoAcquity UPLC in ‘low pH’ condition"
+    ],
+    "Comment[GradientTime]": [
+      "180-min gradient run"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free quantitative tandem mass-spectrometry proteomics",
+      "Label Free Quantitation (LFQ)"
+    ]
+  },
+  "QEp15-3559.raw": {
+    "Source Name": [
+      "Source_unknown"
+    ],
+    "Assay Name": [
+      "Source_unknown_QEp15-3559"
+    ],
+    "Raw Data File": [
+      "QEp15-3559.raw"
+    ],
+    "Characteristics[Organism]": [
+      "frozen post-mortem human brain specimens"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (45 mM at 1/10th sample volume)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (100 mM at 1/10th sample volume)"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer (ThermoFisher Scientific)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation based fragmentation (normalised collision energy 28)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy 28"
+    ],
+    "Comment[Separation]": [
+      "coupled online to a Waters nanoAcquity UPLC in ‘low pH’ condition"
+    ],
+    "Comment[GradientTime]": [
+      "180-min gradient run"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free quantitative tandem mass-spectrometry proteomics",
+      "Label Free Quantitation (LFQ)"
+    ]
+  },
+  "QEp15-3621.raw": {
+    "Source Name": [
+      "Source_unknown"
+    ],
+    "Assay Name": [
+      "Source_unknown_QEp15-3621"
+    ],
+    "Raw Data File": [
+      "QEp15-3621.raw"
+    ],
+    "Characteristics[Organism]": [
+      "frozen post-mortem human brain specimens"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (45 mM at 1/10th sample volume)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (100 mM at 1/10th sample volume)"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer (ThermoFisher Scientific)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation based fragmentation (normalised collision energy 28)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy 28"
+    ],
+    "Comment[Separation]": [
+      "coupled online to a Waters nanoAcquity UPLC in ‘low pH’ condition"
+    ],
+    "Comment[GradientTime]": [
+      "180-min gradient run"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free quantitative tandem mass-spectrometry proteomics",
+      "Label Free Quantitation (LFQ)"
+    ]
+  },
+  "QEp15-2550_CON.raw": {
+    "Source Name": [
+      "Source_CON"
+    ],
+    "Assay Name": [
+      "Source_CON_QEp15-2550_CON"
+    ],
+    "Raw Data File": [
+      "QEp15-2550_CON.raw"
+    ],
+    "Characteristics[Organism]": [
+      "frozen post-mortem human brain specimens"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (45 mM at 1/10th sample volume)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (100 mM at 1/10th sample volume)"
+    ],
+    "Characteristics[Specimen]": [
+      "control samples"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer (ThermoFisher Scientific)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation based fragmentation (normalised collision energy 28)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy 28"
+    ],
+    "Comment[Separation]": [
+      "coupled online to a Waters nanoAcquity UPLC in ‘low pH’ condition"
+    ],
+    "Comment[GradientTime]": [
+      "180-min gradient run"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free quantitative tandem mass-spectrometry proteomics",
+      "Label Free Quantitation (LFQ)"
+    ]
+  },
+  "QEp15-2721_HIP.raw": {
+    "Source Name": [
+      "Source_HIP"
+    ],
+    "Assay Name": [
+      "Source_HIP_QEp15-2721_HIP"
+    ],
+    "Raw Data File": [
+      "QEp15-2721_HIP.raw"
+    ],
+    "Characteristics[Organism]": [
+      "frozen post-mortem human brain specimens"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (45 mM at 1/10th sample volume)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (100 mM at 1/10th sample volume)"
+    ],
+    "FactorValue[OrganismPart]": [
+      "hippocampus (HIP)"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer (ThermoFisher Scientific)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation based fragmentation (normalised collision energy 28)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy 28"
+    ],
+    "Comment[Separation]": [
+      "coupled online to a Waters nanoAcquity UPLC in ‘low pH’ condition"
+    ],
+    "Comment[GradientTime]": [
+      "180-min gradient run"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free quantitative tandem mass-spectrometry proteomics",
+      "Label Free Quantitation (LFQ)"
+    ]
+  },
+  "QEp15-3572.raw": {
+    "Source Name": [
+      "Source_unknown"
+    ],
+    "Assay Name": [
+      "Source_unknown_QEp15-3572"
+    ],
+    "Raw Data File": [
+      "QEp15-3572.raw"
+    ],
+    "Characteristics[Organism]": [
+      "frozen post-mortem human brain specimens"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (45 mM at 1/10th sample volume)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (100 mM at 1/10th sample volume)"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer (ThermoFisher Scientific)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation based fragmentation (normalised collision energy 28)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy 28"
+    ],
+    "Comment[Separation]": [
+      "coupled online to a Waters nanoAcquity UPLC in ‘low pH’ condition"
+    ],
+    "Comment[GradientTime]": [
+      "180-min gradient run"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free quantitative tandem mass-spectrometry proteomics",
+      "Label Free Quantitation (LFQ)"
+    ]
+  },
+  "QEp15-2826_V1C.raw": {
+    "Source Name": [
+      "Source_V1C"
+    ],
+    "Assay Name": [
+      "Source_V1C_QEp15-2826_V1C"
+    ],
+    "Raw Data File": [
+      "QEp15-2826_V1C.raw"
+    ],
+    "Characteristics[Organism]": [
+      "frozen post-mortem human brain specimens"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (45 mM at 1/10th sample volume)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (100 mM at 1/10th sample volume)"
+    ],
+    "FactorValue[OrganismPart]": [
+      "primary visual cortex (V1C)"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer (ThermoFisher Scientific)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation based fragmentation (normalised collision energy 28)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy 28"
+    ],
+    "Comment[Separation]": [
+      "coupled online to a Waters nanoAcquity UPLC in ‘low pH’ condition"
+    ],
+    "Comment[GradientTime]": [
+      "180-min gradient run"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free quantitative tandem mass-spectrometry proteomics",
+      "Label Free Quantitation (LFQ)"
+    ]
+  },
+  "QEp15-2580_DFC.raw": {
+    "Source Name": [
+      "Source_DFC"
+    ],
+    "Assay Name": [
+      "Source_DFC_QEp15-2580_DFC"
+    ],
+    "Raw Data File": [
+      "QEp15-2580_DFC.raw"
+    ],
+    "Characteristics[Organism]": [
+      "frozen post-mortem human brain specimens"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (45 mM at 1/10th sample volume)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (100 mM at 1/10th sample volume)"
+    ],
+    "FactorValue[OrganismPart]": [
+      "dorsolateral prefrontal cortex (DFC)"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer (ThermoFisher Scientific)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation based fragmentation (normalised collision energy 28)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy 28"
+    ],
+    "Comment[Separation]": [
+      "coupled online to a Waters nanoAcquity UPLC in ‘low pH’ condition"
+    ],
+    "Comment[GradientTime]": [
+      "180-min gradient run"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free quantitative tandem mass-spectrometry proteomics",
+      "Label Free Quantitation (LFQ)"
+    ]
+  }
+}

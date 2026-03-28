@@ -1,0 +1,1062 @@
+{
+  "01753_D05_P018442_S00_N36_R1.raw": {
+    "Source Name": [
+      "P018442"
+    ],
+    "Assay Name": [
+      "01753_D05_P018442_S00_N36_R1.raw"
+    ],
+    "Raw Data File": [
+      "01753_D05_P018442_S00_N36_R1.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "human tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[Specimen]": [
+      "cryosections"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM chloroacetamide"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris(2‐carboxyethyl)phosphin hydrochloride"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via hSAX off‐line chromatography exactly as described previously (Ruprecht et al, 2017)."
+    ],
+    "Comment[FractionIdentifier]": [
+      "N36"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Quantitative label‐free LC‐MS/MS analysis"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)",
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)",
+      "Orbitrap Fusion Lumos Mass Spectrometer (Thermo Fisher Scientific, Bremen, Germany)"
+    ],
+    "Comment[GradientTime]": [
+      "separated using a 110‐min gradient from 2% to 32% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 300 nL/min."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)",
+      "CID, and EThcD/ETD fragmentation"
+    ]
+  },
+  "01321_C01_P013560_B00_N03_R1.raw": {
+    "Source Name": [
+      "P013560"
+    ],
+    "Assay Name": [
+      "01321_C01_P013560_B00_N03_R1.raw"
+    ],
+    "Raw Data File": [
+      "01321_C01_P013560_B00_N03_R1.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "human tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[Specimen]": [
+      "cryosections"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM chloroacetamide"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris(2‐carboxyethyl)phosphin hydrochloride"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via hSAX off‐line chromatography exactly as described previously (Ruprecht et al, 2017)."
+    ],
+    "Comment[FractionIdentifier]": [
+      "N03"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Quantitative label‐free LC‐MS/MS analysis"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)",
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)",
+      "Orbitrap Fusion Lumos Mass Spectrometer (Thermo Fisher Scientific, Bremen, Germany)"
+    ],
+    "Comment[GradientTime]": [
+      "separated using a 110‐min gradient from 2% to 32% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 300 nL/min."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)",
+      "CID, and EThcD/ETD fragmentation"
+    ]
+  },
+  "01076_D05_P010694_S00_N36_R1.raw": {
+    "Source Name": [
+      "P010694"
+    ],
+    "Assay Name": [
+      "01076_D05_P010694_S00_N36_R1.raw"
+    ],
+    "Raw Data File": [
+      "01076_D05_P010694_S00_N36_R1.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "human tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[Specimen]": [
+      "cryosections"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM chloroacetamide"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris(2‐carboxyethyl)phosphin hydrochloride"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via hSAX off‐line chromatography exactly as described previously (Ruprecht et al, 2017)."
+    ],
+    "Comment[FractionIdentifier]": [
+      "N36"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Quantitative label‐free LC‐MS/MS analysis"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)",
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)",
+      "Orbitrap Fusion Lumos Mass Spectrometer (Thermo Fisher Scientific, Bremen, Germany)"
+    ],
+    "Comment[GradientTime]": [
+      "separated using a 110‐min gradient from 2% to 32% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 300 nL/min."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)",
+      "CID, and EThcD/ETD fragmentation"
+    ]
+  },
+  "01092_A01_P010747_S00_N23_R3.raw": {
+    "Source Name": [
+      "P010747"
+    ],
+    "Assay Name": [
+      "01092_A01_P010747_S00_N23_R3.raw"
+    ],
+    "Raw Data File": [
+      "01092_A01_P010747_S00_N23_R3.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "human tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[Specimen]": [
+      "cryosections"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM chloroacetamide"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris(2‐carboxyethyl)phosphin hydrochloride"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R3"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via hSAX off‐line chromatography exactly as described previously (Ruprecht et al, 2017)."
+    ],
+    "Comment[FractionIdentifier]": [
+      "N23"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Quantitative label‐free LC‐MS/MS analysis"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)",
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)",
+      "Orbitrap Fusion Lumos Mass Spectrometer (Thermo Fisher Scientific, Bremen, Germany)"
+    ],
+    "Comment[GradientTime]": [
+      "separated using a 110‐min gradient from 2% to 32% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 300 nL/min."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)",
+      "CID, and EThcD/ETD fragmentation"
+    ]
+  },
+  "01347_A01_P013678_S00_N01_R2.raw": {
+    "Source Name": [
+      "P013678"
+    ],
+    "Assay Name": [
+      "01347_A01_P013678_S00_N01_R2.raw"
+    ],
+    "Raw Data File": [
+      "01347_A01_P013678_S00_N01_R2.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "human tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[Specimen]": [
+      "cryosections"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM chloroacetamide"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris(2‐carboxyethyl)phosphin hydrochloride"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R2"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via hSAX off‐line chromatography exactly as described previously (Ruprecht et al, 2017)."
+    ],
+    "Comment[FractionIdentifier]": [
+      "N01"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Quantitative label‐free LC‐MS/MS analysis"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)",
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)",
+      "Orbitrap Fusion Lumos Mass Spectrometer (Thermo Fisher Scientific, Bremen, Germany)"
+    ],
+    "Comment[GradientTime]": [
+      "separated using a 110‐min gradient from 2% to 32% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 300 nL/min."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)",
+      "CID, and EThcD/ETD fragmentation"
+    ]
+  },
+  "01698_E03_P018021_S00_N21_R1.raw": {
+    "Source Name": [
+      "P018021"
+    ],
+    "Assay Name": [
+      "01698_E03_P018021_S00_N21_R1.raw"
+    ],
+    "Raw Data File": [
+      "01698_E03_P018021_S00_N21_R1.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "human tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[Specimen]": [
+      "cryosections"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM chloroacetamide"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris(2‐carboxyethyl)phosphin hydrochloride"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via hSAX off‐line chromatography exactly as described previously (Ruprecht et al, 2017)."
+    ],
+    "Comment[FractionIdentifier]": [
+      "N21"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Quantitative label‐free LC‐MS/MS analysis"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)",
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)",
+      "Orbitrap Fusion Lumos Mass Spectrometer (Thermo Fisher Scientific, Bremen, Germany)"
+    ],
+    "Comment[GradientTime]": [
+      "separated using a 110‐min gradient from 2% to 32% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 300 nL/min."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)",
+      "CID, and EThcD/ETD fragmentation"
+    ]
+  },
+  "01284_A02_P013188_B00_N09_R1.raw": {
+    "Source Name": [
+      "P013188"
+    ],
+    "Assay Name": [
+      "01284_A02_P013188_B00_N09_R1.raw"
+    ],
+    "Raw Data File": [
+      "01284_A02_P013188_B00_N09_R1.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "human tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[Specimen]": [
+      "cryosections"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM chloroacetamide"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris(2‐carboxyethyl)phosphin hydrochloride"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via hSAX off‐line chromatography exactly as described previously (Ruprecht et al, 2017)."
+    ],
+    "Comment[FractionIdentifier]": [
+      "N09"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Quantitative label‐free LC‐MS/MS analysis"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)",
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)",
+      "Orbitrap Fusion Lumos Mass Spectrometer (Thermo Fisher Scientific, Bremen, Germany)"
+    ],
+    "Comment[GradientTime]": [
+      "separated using a 110‐min gradient from 2% to 32% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 300 nL/min."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)",
+      "CID, and EThcD/ETD fragmentation"
+    ]
+  },
+  "01076_F01_P010694_S00_N06_R1.raw": {
+    "Source Name": [
+      "P010694"
+    ],
+    "Assay Name": [
+      "01076_F01_P010694_S00_N06_R1.raw"
+    ],
+    "Raw Data File": [
+      "01076_F01_P010694_S00_N06_R1.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "human tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[Specimen]": [
+      "cryosections"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM chloroacetamide"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris(2‐carboxyethyl)phosphin hydrochloride"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via hSAX off‐line chromatography exactly as described previously (Ruprecht et al, 2017)."
+    ],
+    "Comment[FractionIdentifier]": [
+      "N06"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Quantitative label‐free LC‐MS/MS analysis"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)",
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)",
+      "Orbitrap Fusion Lumos Mass Spectrometer (Thermo Fisher Scientific, Bremen, Germany)"
+    ],
+    "Comment[GradientTime]": [
+      "separated using a 110‐min gradient from 2% to 32% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 300 nL/min."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)",
+      "CID, and EThcD/ETD fragmentation"
+    ]
+  },
+  "01087_A03_P010739_S00_N17_R1.raw": {
+    "Source Name": [
+      "P010739"
+    ],
+    "Assay Name": [
+      "01087_A03_P010739_S00_N17_R1.raw"
+    ],
+    "Raw Data File": [
+      "01087_A03_P010739_S00_N17_R1.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "human tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[Specimen]": [
+      "cryosections"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM chloroacetamide"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris(2‐carboxyethyl)phosphin hydrochloride"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via hSAX off‐line chromatography exactly as described previously (Ruprecht et al, 2017)."
+    ],
+    "Comment[FractionIdentifier]": [
+      "N17"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Quantitative label‐free LC‐MS/MS analysis"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)",
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)",
+      "Orbitrap Fusion Lumos Mass Spectrometer (Thermo Fisher Scientific, Bremen, Germany)"
+    ],
+    "Comment[GradientTime]": [
+      "separated using a 110‐min gradient from 2% to 32% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 300 nL/min."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)",
+      "CID, and EThcD/ETD fragmentation"
+    ]
+  },
+  "01306_E02_P013385_S00_N13_R1.raw": {
+    "Source Name": [
+      "P013385"
+    ],
+    "Assay Name": [
+      "01306_E02_P013385_S00_N13_R1.raw"
+    ],
+    "Raw Data File": [
+      "01306_E02_P013385_S00_N13_R1.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "human tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[Specimen]": [
+      "cryosections"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM chloroacetamide"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris(2‐carboxyethyl)phosphin hydrochloride"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via hSAX off‐line chromatography exactly as described previously (Ruprecht et al, 2017)."
+    ],
+    "Comment[FractionIdentifier]": [
+      "N13"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Quantitative label‐free LC‐MS/MS analysis"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)",
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)",
+      "Orbitrap Fusion Lumos Mass Spectrometer (Thermo Fisher Scientific, Bremen, Germany)"
+    ],
+    "Comment[GradientTime]": [
+      "separated using a 110‐min gradient from 2% to 32% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 300 nL/min."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)",
+      "CID, and EThcD/ETD fragmentation"
+    ]
+  },
+  "01752_H11_P018441_S00_N09_R1.raw": {
+    "Source Name": [
+      "P018441"
+    ],
+    "Assay Name": [
+      "01752_H11_P018441_S00_N09_R1.raw"
+    ],
+    "Raw Data File": [
+      "01752_H11_P018441_S00_N09_R1.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "human tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[Specimen]": [
+      "cryosections"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM chloroacetamide"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris(2‐carboxyethyl)phosphin hydrochloride"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via hSAX off‐line chromatography exactly as described previously (Ruprecht et al, 2017)."
+    ],
+    "Comment[FractionIdentifier]": [
+      "N09"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Quantitative label‐free LC‐MS/MS analysis"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)",
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)",
+      "Orbitrap Fusion Lumos Mass Spectrometer (Thermo Fisher Scientific, Bremen, Germany)"
+    ],
+    "Comment[GradientTime]": [
+      "separated using a 110‐min gradient from 2% to 32% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 300 nL/min."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)",
+      "CID, and EThcD/ETD fragmentation"
+    ]
+  },
+  "01293_C05_P013196_S00_N35_R1.raw": {
+    "Source Name": [
+      "P013196"
+    ],
+    "Assay Name": [
+      "01293_C05_P013196_S00_N35_R1.raw"
+    ],
+    "Raw Data File": [
+      "01293_C05_P013196_S00_N35_R1.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "human tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[Specimen]": [
+      "cryosections"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM chloroacetamide"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris(2‐carboxyethyl)phosphin hydrochloride"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via hSAX off‐line chromatography exactly as described previously (Ruprecht et al, 2017)."
+    ],
+    "Comment[FractionIdentifier]": [
+      "N35"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Quantitative label‐free LC‐MS/MS analysis"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)",
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)",
+      "Orbitrap Fusion Lumos Mass Spectrometer (Thermo Fisher Scientific, Bremen, Germany)"
+    ],
+    "Comment[GradientTime]": [
+      "separated using a 110‐min gradient from 2% to 32% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 300 nL/min."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)",
+      "CID, and EThcD/ETD fragmentation"
+    ]
+  },
+  "01092_A01_P010747_S00_N14_R2.raw": {
+    "Source Name": [
+      "P010747"
+    ],
+    "Assay Name": [
+      "01092_A01_P010747_S00_N14_R2.raw"
+    ],
+    "Raw Data File": [
+      "01092_A01_P010747_S00_N14_R2.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "human tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[Specimen]": [
+      "cryosections"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM chloroacetamide"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris(2‐carboxyethyl)phosphin hydrochloride"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R2"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via hSAX off‐line chromatography exactly as described previously (Ruprecht et al, 2017)."
+    ],
+    "Comment[FractionIdentifier]": [
+      "N14"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Quantitative label‐free LC‐MS/MS analysis"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)",
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)",
+      "Orbitrap Fusion Lumos Mass Spectrometer (Thermo Fisher Scientific, Bremen, Germany)"
+    ],
+    "Comment[GradientTime]": [
+      "separated using a 110‐min gradient from 2% to 32% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 300 nL/min."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)",
+      "CID, and EThcD/ETD fragmentation"
+    ]
+  },
+  "01501_D04_P015161_S00_N28_R1.raw": {
+    "Source Name": [
+      "P015161"
+    ],
+    "Assay Name": [
+      "01501_D04_P015161_S00_N28_R1.raw"
+    ],
+    "Raw Data File": [
+      "01501_D04_P015161_S00_N28_R1.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "human tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[Specimen]": [
+      "cryosections"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM chloroacetamide"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris(2‐carboxyethyl)phosphin hydrochloride"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via hSAX off‐line chromatography exactly as described previously (Ruprecht et al, 2017)."
+    ],
+    "Comment[FractionIdentifier]": [
+      "N28"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Quantitative label‐free LC‐MS/MS analysis"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)",
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)",
+      "Orbitrap Fusion Lumos Mass Spectrometer (Thermo Fisher Scientific, Bremen, Germany)"
+    ],
+    "Comment[GradientTime]": [
+      "separated using a 110‐min gradient from 2% to 32% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 300 nL/min."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)",
+      "CID, and EThcD/ETD fragmentation"
+    ]
+  },
+  "01306_G01_P013385_S00_N07_R1.raw": {
+    "Source Name": [
+      "P013385"
+    ],
+    "Assay Name": [
+      "01306_G01_P013385_S00_N07_R1.raw"
+    ],
+    "Raw Data File": [
+      "01306_G01_P013385_S00_N07_R1.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "human tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[Specimen]": [
+      "cryosections"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM chloroacetamide"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris(2‐carboxyethyl)phosphin hydrochloride"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via hSAX off‐line chromatography exactly as described previously (Ruprecht et al, 2017)."
+    ],
+    "Comment[FractionIdentifier]": [
+      "N07"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Quantitative label‐free LC‐MS/MS analysis"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)",
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)",
+      "Orbitrap Fusion Lumos Mass Spectrometer (Thermo Fisher Scientific, Bremen, Germany)"
+    ],
+    "Comment[GradientTime]": [
+      "separated using a 110‐min gradient from 2% to 32% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 300 nL/min."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)",
+      "CID, and EThcD/ETD fragmentation"
+    ]
+  },
+  "01087_H01_P010739_S00_N08_R1.raw": {
+    "Source Name": [
+      "P010739"
+    ],
+    "Assay Name": [
+      "01087_H01_P010739_S00_N08_R1.raw"
+    ],
+    "Raw Data File": [
+      "01087_H01_P010739_S00_N08_R1.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "human tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[Specimen]": [
+      "cryosections"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM chloroacetamide"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris(2‐carboxyethyl)phosphin hydrochloride"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via hSAX off‐line chromatography exactly as described previously (Ruprecht et al, 2017)."
+    ],
+    "Comment[FractionIdentifier]": [
+      "N08"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Quantitative label‐free LC‐MS/MS analysis"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)",
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)",
+      "Orbitrap Fusion Lumos Mass Spectrometer (Thermo Fisher Scientific, Bremen, Germany)"
+    ],
+    "Comment[GradientTime]": [
+      "separated using a 110‐min gradient from 2% to 32% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 300 nL/min."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)",
+      "CID, and EThcD/ETD fragmentation"
+    ]
+  },
+  "01284_H01_P013188_B00_N08_R1.raw": {
+    "Source Name": [
+      "P013188"
+    ],
+    "Assay Name": [
+      "01284_H01_P013188_B00_N08_R1.raw"
+    ],
+    "Raw Data File": [
+      "01284_H01_P013188_B00_N08_R1.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "human tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[Specimen]": [
+      "cryosections"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM chloroacetamide"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris(2‐carboxyethyl)phosphin hydrochloride"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via hSAX off‐line chromatography exactly as described previously (Ruprecht et al, 2017)."
+    ],
+    "Comment[FractionIdentifier]": [
+      "N08"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Quantitative label‐free LC‐MS/MS analysis"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)",
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)",
+      "Orbitrap Fusion Lumos Mass Spectrometer (Thermo Fisher Scientific, Bremen, Germany)"
+    ],
+    "Comment[GradientTime]": [
+      "separated using a 110‐min gradient from 2% to 32% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 300 nL/min."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)",
+      "CID, and EThcD/ETD fragmentation"
+    ]
+  },
+  "01226_C05_P012502_S00_N35_R1.raw": {
+    "Source Name": [
+      "P012502"
+    ],
+    "Assay Name": [
+      "01226_C05_P012502_S00_N35_R1.raw"
+    ],
+    "Raw Data File": [
+      "01226_C05_P012502_S00_N35_R1.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "human tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[Specimen]": [
+      "cryosections"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM chloroacetamide"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris(2‐carboxyethyl)phosphin hydrochloride"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via hSAX off‐line chromatography exactly as described previously (Ruprecht et al, 2017)."
+    ],
+    "Comment[FractionIdentifier]": [
+      "N35"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Quantitative label‐free LC‐MS/MS analysis"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)",
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)",
+      "Orbitrap Fusion Lumos Mass Spectrometer (Thermo Fisher Scientific, Bremen, Germany)"
+    ],
+    "Comment[GradientTime]": [
+      "separated using a 110‐min gradient from 2% to 32% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 300 nL/min."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)",
+      "CID, and EThcD/ETD fragmentation"
+    ]
+  },
+  "01087_A04_P010739_S00_N25_R1.raw": {
+    "Source Name": [
+      "P010739"
+    ],
+    "Assay Name": [
+      "01087_A04_P010739_S00_N25_R1.raw"
+    ],
+    "Raw Data File": [
+      "01087_A04_P010739_S00_N25_R1.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "human tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[Specimen]": [
+      "cryosections"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM chloroacetamide"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris(2‐carboxyethyl)phosphin hydrochloride"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via hSAX off‐line chromatography exactly as described previously (Ruprecht et al, 2017)."
+    ],
+    "Comment[FractionIdentifier]": [
+      "N25"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Quantitative label‐free LC‐MS/MS analysis"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)",
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)",
+      "Orbitrap Fusion Lumos Mass Spectrometer (Thermo Fisher Scientific, Bremen, Germany)"
+    ],
+    "Comment[GradientTime]": [
+      "separated using a 110‐min gradient from 2% to 32% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 300 nL/min."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)",
+      "CID, and EThcD/ETD fragmentation"
+    ]
+  },
+  "01087_B04_P010739_S00_N26_R1.raw": {
+    "Source Name": [
+      "P010739"
+    ],
+    "Assay Name": [
+      "01087_B04_P010739_S00_N26_R1.raw"
+    ],
+    "Raw Data File": [
+      "01087_B04_P010739_S00_N26_R1.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "human tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[Specimen]": [
+      "cryosections"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM chloroacetamide"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris(2‐carboxyethyl)phosphin hydrochloride"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated via hSAX off‐line chromatography exactly as described previously (Ruprecht et al, 2017)."
+    ],
+    "Comment[FractionIdentifier]": [
+      "N26"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Quantitative label‐free LC‐MS/MS analysis"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)",
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)",
+      "Orbitrap Fusion Lumos Mass Spectrometer (Thermo Fisher Scientific, Bremen, Germany)"
+    ],
+    "Comment[GradientTime]": [
+      "separated using a 110‐min gradient from 2% to 32% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 300 nL/min."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)",
+      "CID, and EThcD/ETD fragmentation"
+    ]
+  }
+}

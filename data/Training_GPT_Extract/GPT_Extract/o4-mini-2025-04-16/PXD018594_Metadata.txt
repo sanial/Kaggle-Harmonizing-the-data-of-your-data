@@ -1,0 +1,47 @@
+AssayName: Shotgun proteomics analysis  
+AssayName: shotgun tandem mass spectrometry workflow  
+CellLine: Vero E6 (ATCC, CLR-1586)  
+MaterialType: Dulbecco's modified Eagle's medium (DMEM, Gibco™, ThermoFisher)  
+Compound: foetal calf serum (FCS)  
+ConcentrationOfCompound: 5% foetal calf serum (FCS)  
+Compound: penicillin–streptomycin  
+ConcentrationOfCompound: 0.5% penicillin–streptomycin  
+FactorValue: 9% CO2  
+Temperature: 37°C  
+Organism: SARS-CoV-2  
+Strain: SARS-CoV-2 strain 2019-nCoV/Italy-INMI1 (Genbank MT066156)  
+ConcentrationOfCompound: 1 × 107 pfu/ml  
+FactorValue: MOI; 0.01 and 0.001  
+SamplingTime: 1, 2, 3, 4 and 7 days post-infection (dpi)  
+Compound: PBS  
+Treatment: autoclaving the samples at 125°C for 40 min  
+Temperature: 125°C  
+Time: 40 min  
+Compound: trichloroacetic acid  
+ConcentrationOfCompound: 10% (w/v)  
+Temperature: 4°C  
+Time: 5 min  
+Separation: centrifugation at 16,000 g for 10 min  
+MaterialType: LDS 1X (Lithium dodecyl sulfate) sample buffer (Invitrogen)  
+Compound: beta-mercaptoethanol  
+ConcentrationOfCompound: 5% beta-mercaptoethanol (vol/vol)  
+Instrument: Hielscher UP50H disruptor  
+Time: 20 s  
+Temperature: 99°C  
+FractionationMethod: SDS-PAGE migration  
+Staining: Coomassie SimplyBlue SafeStain (Thermo Fisher Scientific)  
+CleavageAgent: trypsin  
+Instrument: ultimate 3000 nano-LC system (Thermo Fisher Scientific)  
+Instrument: Q-Exactive HF mass spectrometer (Thermo Fisher Scientific)  
+MaterialType: reverse-phase PepMap 100 C18 μ-precolumn (5 μm, 100 Å, 300 μm i.d. × 5 mm, Thermo Fisher Scientific)  
+MaterialType: nanoscale PepMap 100 C18 nano-LC column (3 μm, 100 Å, 75 μm i.d. × 50 cm, Thermo Fisher Scientific)  
+GradientTime: 120 min gradient (100 min from 4% to 25% solvent B, and 20 min from 25% to 40% of solvent B)  
+FlowRateChromatogram: flow rate of 0.2 μL per min  
+Compound: formic acid  
+ConcentrationOfCompound: 0.1% formic acid in water  
+Compound: acetonitrile  
+ConcentrationOfCompound: 80% acetonitrile, 0.1% formic acid in water  
+AcquisitionMethod: Top20 mode  
+PrecursorMassTolerance: 5 ppm  
+FragmentMassTolerance: 0.02 Da  
+Instrument: CFX96 Touch Real-Time PCR Detection System Thermal Cycler

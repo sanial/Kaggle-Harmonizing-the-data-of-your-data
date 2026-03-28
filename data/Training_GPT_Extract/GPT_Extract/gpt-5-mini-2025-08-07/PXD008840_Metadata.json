@@ -1,0 +1,792 @@
+{
+  "GC068N_DGC_83878_E001205_F3_R1.raw": {
+    "Source Name": [
+      "GC068N"
+    ],
+    "Assay Name": [
+      "GC068N_F3_R1"
+    ],
+    "Raw Data File": [
+      "GC068N_DGC_83878_E001205_F3_R1.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "nearby tissues (N)"
+    ],
+    "Characteristics[MaterialType]": [
+      "frozen tissues"
+    ],
+    "Characteristics[Disease]": [
+      "diffuse-type gastric cancer (DGC)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 10\u2009mM dithiothreitol at 56\u2009\u00b0C for 30\u2009min"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with 10\u2009mM iodoacetamide at room temperature in the dark for additional 30\u2009min"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "168 samples (84 tumors and 84 nearby tissues)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "84 diffuse-type tumors (T) together with their matching nearby tissues (N)"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion",
+      "Orbitrap Fusion Lumos",
+      "Q Exactive Plus",
+      "Q Exactive HF"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent MS/MS scans"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collision dissociation (HCD)"
+    ],
+    "Comment[GradientTime]": [
+      "75\u2009min high-performance liquid chromatography gradient at low pH."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "600\u2009nl/min"
+    ],
+    "Comment[Separation]": [
+      "separated at high pH with small columns packed in pipette tips (sRP)"
+    ],
+    "Comment[FractionationMethod]": [
+      "pooled to 6 MS runs"
+    ],
+    "Comment[NumberOfFractions]": [
+      "combined to six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F3"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20\u2009ppm for precursor and 50\u2009mmu for product ions",
+      "20\u2009ppm for precursor and 0.5\u2009Da for product ions"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "50\u2009mmu for product ions",
+      "0.5\u2009Da for product ions"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to two missed cleavages were allowed."
+    ]
+  },
+  "GC047N_DGC_83580_E001179_F6_R1.raw": {
+    "Source Name": [
+      "GC047N"
+    ],
+    "Assay Name": [
+      "GC047N_F6_R1"
+    ],
+    "Raw Data File": [
+      "GC047N_DGC_83580_E001179_F6_R1.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "nearby tissues (N)"
+    ],
+    "Characteristics[MaterialType]": [
+      "frozen tissues"
+    ],
+    "Characteristics[Disease]": [
+      "diffuse-type gastric cancer (DGC)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 10\u2009mM dithiothreitol at 56\u2009\u00b0C for 30\u2009min"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with 10\u2009mM iodoacetamide at room temperature in the dark for additional 30\u2009min"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "168 samples (84 tumors and 84 nearby tissues)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "84 diffuse-type tumors (T) together with their matching nearby tissues (N)"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion",
+      "Orbitrap Fusion Lumos",
+      "Q Exactive Plus",
+      "Q Exactive HF"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent MS/MS scans"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collision dissociation (HCD)"
+    ],
+    "Comment[GradientTime]": [
+      "75\u2009min high-performance liquid chromatography gradient at low pH."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "600\u2009nl/min"
+    ],
+    "Comment[Separation]": [
+      "separated at high pH with small columns packed in pipette tips (sRP)"
+    ],
+    "Comment[FractionationMethod]": [
+      "pooled to 6 MS runs"
+    ],
+    "Comment[NumberOfFractions]": [
+      "combined to six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F6"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20\u2009ppm for precursor and 50\u2009mmu for product ions",
+      "20\u2009ppm for precursor and 0.5\u2009Da for product ions"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "50\u2009mmu for product ions",
+      "0.5\u2009Da for product ions"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to two missed cleavages were allowed."
+    ]
+  },
+  "GC096N_DGC_85280_E015043_F4_R1.raw": {
+    "Source Name": [
+      "GC096N"
+    ],
+    "Assay Name": [
+      "GC096N_F4_R1"
+    ],
+    "Raw Data File": [
+      "GC096N_DGC_85280_E015043_F4_R1.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "nearby tissues (N)"
+    ],
+    "Characteristics[MaterialType]": [
+      "frozen tissues"
+    ],
+    "Characteristics[Disease]": [
+      "diffuse-type gastric cancer (DGC)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 10\u2009mM dithiothreitol at 56\u2009\u00b0C for 30\u2009min"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with 10\u2009mM iodoacetamide at room temperature in the dark for additional 30\u2009min"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "168 samples (84 tumors and 84 nearby tissues)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "84 diffuse-type tumors (T) together with their matching nearby tissues (N)"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion",
+      "Orbitrap Fusion Lumos",
+      "Q Exactive Plus",
+      "Q Exactive HF"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent MS/MS scans"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collision dissociation (HCD)"
+    ],
+    "Comment[GradientTime]": [
+      "75\u2009min high-performance liquid chromatography gradient at low pH."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "600\u2009nl/min"
+    ],
+    "Comment[Separation]": [
+      "separated at high pH with small columns packed in pipette tips (sRP)"
+    ],
+    "Comment[FractionationMethod]": [
+      "pooled to 6 MS runs"
+    ],
+    "Comment[NumberOfFractions]": [
+      "combined to six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F4"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20\u2009ppm for precursor and 50\u2009mmu for product ions",
+      "20\u2009ppm for precursor and 0.5\u2009Da for product ions"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "50\u2009mmu for product ions",
+      "0.5\u2009Da for product ions"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to two missed cleavages were allowed."
+    ]
+  },
+  "GC047T_DGC_83579_E001178_F5_R1.raw": {
+    "Source Name": [
+      "GC047T"
+    ],
+    "Assay Name": [
+      "GC047T_F5_R1"
+    ],
+    "Raw Data File": [
+      "GC047T_DGC_83579_E001178_F5_R1.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "tumors (T)"
+    ],
+    "Characteristics[MaterialType]": [
+      "frozen tissues"
+    ],
+    "Characteristics[Disease]": [
+      "diffuse-type gastric cancer (DGC)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 10\u2009mM dithiothreitol at 56\u2009\u00b0C for 30\u2009min"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with 10\u2009mM iodoacetamide at room temperature in the dark for additional 30\u2009min"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "168 samples (84 tumors and 84 nearby tissues)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "84 diffuse-type tumors (T) together with their matching nearby tissues (N)"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion",
+      "Orbitrap Fusion Lumos",
+      "Q Exactive Plus",
+      "Q Exactive HF"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent MS/MS scans"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collision dissociation (HCD)"
+    ],
+    "Comment[GradientTime]": [
+      "75\u2009min high-performance liquid chromatography gradient at low pH."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "600\u2009nl/min"
+    ],
+    "Comment[Separation]": [
+      "separated at high pH with small columns packed in pipette tips (sRP)"
+    ],
+    "Comment[FractionationMethod]": [
+      "pooled to 6 MS runs"
+    ],
+    "Comment[NumberOfFractions]": [
+      "combined to six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F5"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20\u2009ppm for precursor and 50\u2009mmu for product ions",
+      "20\u2009ppm for precursor and 0.5\u2009Da for product ions"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "50\u2009mmu for product ions",
+      "0.5\u2009Da for product ions"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to two missed cleavages were allowed."
+    ]
+  },
+  "GC074T_DGC_83895_E001216_F2_R1.raw": {
+    "Source Name": [
+      "GC074T"
+    ],
+    "Assay Name": [
+      "GC074T_F2_R1"
+    ],
+    "Raw Data File": [
+      "GC074T_DGC_83895_E001216_F2_R1.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "tumors (T)"
+    ],
+    "Characteristics[MaterialType]": [
+      "frozen tissues"
+    ],
+    "Characteristics[Disease]": [
+      "diffuse-type gastric cancer (DGC)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 10\u2009mM dithiothreitol at 56\u2009\u00b0C for 30\u2009min"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with 10\u2009mM iodoacetamide at room temperature in the dark for additional 30\u2009min"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "168 samples (84 tumors and 84 nearby tissues)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "84 diffuse-type tumors (T) together with their matching nearby tissues (N)"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion",
+      "Orbitrap Fusion Lumos",
+      "Q Exactive Plus",
+      "Q Exactive HF"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent MS/MS scans"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collision dissociation (HCD)"
+    ],
+    "Comment[GradientTime]": [
+      "75\u2009min high-performance liquid chromatography gradient at low pH."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "600\u2009nl/min"
+    ],
+    "Comment[Separation]": [
+      "separated at high pH with small columns packed in pipette tips (sRP)"
+    ],
+    "Comment[FractionationMethod]": [
+      "pooled to 6 MS runs"
+    ],
+    "Comment[NumberOfFractions]": [
+      "combined to six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F2"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20\u2009ppm for precursor and 50\u2009mmu for product ions",
+      "20\u2009ppm for precursor and 0.5\u2009Da for product ions"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "50\u2009mmu for product ions",
+      "0.5\u2009Da for product ions"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to two missed cleavages were allowed."
+    ]
+  },
+  "GC114N_DGC_85334_E002516_F2_R1.raw": {
+    "Source Name": [
+      "GC114N"
+    ],
+    "Assay Name": [
+      "GC114N_F2_R1"
+    ],
+    "Raw Data File": [
+      "GC114N_DGC_85334_E002516_F2_R1.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "nearby tissues (N)"
+    ],
+    "Characteristics[MaterialType]": [
+      "frozen tissues"
+    ],
+    "Characteristics[Disease]": [
+      "diffuse-type gastric cancer (DGC)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 10\u2009mM dithiothreitol at 56\u2009\u00b0C for 30\u2009min"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with 10\u2009mM iodoacetamide at room temperature in the dark for additional 30\u2009min"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "168 samples (84 tumors and 84 nearby tissues)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "84 diffuse-type tumors (T) together with their matching nearby tissues (N)"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion",
+      "Orbitrap Fusion Lumos",
+      "Q Exactive Plus",
+      "Q Exactive HF"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent MS/MS scans"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collision dissociation (HCD)"
+    ],
+    "Comment[GradientTime]": [
+      "75\u2009min high-performance liquid chromatography gradient at low pH."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "600\u2009nl/min"
+    ],
+    "Comment[Separation]": [
+      "separated at high pH with small columns packed in pipette tips (sRP)"
+    ],
+    "Comment[FractionationMethod]": [
+      "pooled to 6 MS runs"
+    ],
+    "Comment[NumberOfFractions]": [
+      "combined to six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F2"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20\u2009ppm for precursor and 50\u2009mmu for product ions",
+      "20\u2009ppm for precursor and 0.5\u2009Da for product ions"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "50\u2009mmu for product ions",
+      "0.5\u2009Da for product ions"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to two missed cleavages were allowed."
+    ]
+  },
+  "GC052T_DGC_83632_E001042_F4_R1.raw": {
+    "Source Name": [
+      "GC052T"
+    ],
+    "Assay Name": [
+      "GC052T_F4_R1"
+    ],
+    "Raw Data File": [
+      "GC052T_DGC_83632_E001042_F4_R1.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "tumors (T)"
+    ],
+    "Characteristics[MaterialType]": [
+      "frozen tissues"
+    ],
+    "Characteristics[Disease]": [
+      "diffuse-type gastric cancer (DGC)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 10\u2009mM dithiothreitol at 56\u2009\u00b0C for 30\u2009min"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with 10\u2009mM iodoacetamide at room temperature in the dark for additional 30\u2009min"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "168 samples (84 tumors and 84 nearby tissues)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "84 diffuse-type tumors (T) together with their matching nearby tissues (N)"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion",
+      "Orbitrap Fusion Lumos",
+      "Q Exactive Plus",
+      "Q Exactive HF"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent MS/MS scans"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collision dissociation (HCD)"
+    ],
+    "Comment[GradientTime]": [
+      "75\u2009min high-performance liquid chromatography gradient at low pH."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "600\u2009nl/min"
+    ],
+    "Comment[Separation]": [
+      "separated at high pH with small columns packed in pipette tips (sRP)"
+    ],
+    "Comment[FractionationMethod]": [
+      "pooled to 6 MS runs"
+    ],
+    "Comment[NumberOfFractions]": [
+      "combined to six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F4"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20\u2009ppm for precursor and 50\u2009mmu for product ions",
+      "20\u2009ppm for precursor and 0.5\u2009Da for product ions"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "50\u2009mmu for product ions",
+      "0.5\u2009Da for product ions"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to two missed cleavages were allowed."
+    ]
+  },
+  "GC111N_DGC_85330_E002512_F1_R1.raw": {
+    "Source Name": [
+      "GC111N"
+    ],
+    "Assay Name": [
+      "GC111N_F1_R1"
+    ],
+    "Raw Data File": [
+      "GC111N_DGC_85330_E002512_F1_R1.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "nearby tissues (N)"
+    ],
+    "Characteristics[MaterialType]": [
+      "frozen tissues"
+    ],
+    "Characteristics[Disease]": [
+      "diffuse-type gastric cancer (DGC)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 10\u2009mM dithiothreitol at 56\u2009\u00b0C for 30\u2009min"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with 10\u2009mM iodoacetamide at room temperature in the dark for additional 30\u2009min"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "168 samples (84 tumors and 84 nearby tissues)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "84 diffuse-type tumors (T) together with their matching nearby tissues (N)"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion",
+      "Orbitrap Fusion Lumos",
+      "Q Exactive Plus",
+      "Q Exactive HF"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent MS/MS scans"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collision dissociation (HCD)"
+    ],
+    "Comment[GradientTime]": [
+      "75\u2009min high-performance liquid chromatography gradient at low pH."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "600\u2009nl/min"
+    ],
+    "Comment[Separation]": [
+      "separated at high pH with small columns packed in pipette tips (sRP)"
+    ],
+    "Comment[FractionationMethod]": [
+      "pooled to 6 MS runs"
+    ],
+    "Comment[NumberOfFractions]": [
+      "combined to six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F1"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20\u2009ppm for precursor and 50\u2009mmu for product ions",
+      "20\u2009ppm for precursor and 0.5\u2009Da for product ions"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "50\u2009mmu for product ions",
+      "0.5\u2009Da for product ions"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to two missed cleavages were allowed."
+    ]
+  },
+  "GC038T_DGC_83426_E000885_F2_R1.raw": {
+    "Source Name": [
+      "GC038T"
+    ],
+    "Assay Name": [
+      "GC038T_F2_R1"
+    ],
+    "Raw Data File": [
+      "GC038T_DGC_83426_E000885_F2_R1.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "tumors (T)"
+    ],
+    "Characteristics[MaterialType]": [
+      "frozen tissues"
+    ],
+    "Characteristics[Disease]": [
+      "diffuse-type gastric cancer (DGC)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 10\u2009mM dithiothreitol at 56\u2009\u00b0C for 30\u2009min"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with 10\u2009mM iodoacetamide at room temperature in the dark for additional 30\u2009min"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "168 samples (84 tumors and 84 nearby tissues)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "84 diffuse-type tumors (T) together with their matching nearby tissues (N)"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion",
+      "Orbitrap Fusion Lumos",
+      "Q Exactive Plus",
+      "Q Exactive HF"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent MS/MS scans"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collision dissociation (HCD)"
+    ],
+    "Comment[GradientTime]": [
+      "75\u2009min high-performance liquid chromatography gradient at low pH."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "600\u2009nl/min"
+    ],
+    "Comment[Separation]": [
+      "separated at high pH with small columns packed in pipette tips (sRP)"
+    ],
+    "Comment[FractionationMethod]": [
+      "pooled to 6 MS runs"
+    ],
+    "Comment[NumberOfFractions]": [
+      "combined to six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F2"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20\u2009ppm for precursor and 50\u2009mmu for product ions",
+      "20\u2009ppm for precursor and 0.5\u2009Da for product ions"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "50\u2009mmu for product ions",
+      "0.5\u2009Da for product ions"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to two missed cleavages were allowed."
+    ]
+  },
+  "GC038N_DGC_83427_E000886_F2_R1.raw": {
+    "Source Name": [
+      "GC038N"
+    ],
+    "Assay Name": [
+      "GC038N_F2_R1"
+    ],
+    "Raw Data File": [
+      "GC038N_DGC_83427_E000886_F2_R1.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "nearby tissues (N)"
+    ],
+    "Characteristics[MaterialType]": [
+      "frozen tissues"
+    ],
+    "Characteristics[Disease]": [
+      "diffuse-type gastric cancer (DGC)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 10\u2009mM dithiothreitol at 56\u2009\u00b0C for 30\u2009min"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with 10\u2009mM iodoacetamide at room temperature in the dark for additional 30\u2009min"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "168 samples (84 tumors and 84 nearby tissues)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "84 diffuse-type tumors (T) together with their matching nearby tissues (N)"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion",
+      "Orbitrap Fusion Lumos",
+      "Q Exactive Plus",
+      "Q Exactive HF"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent MS/MS scans"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collision dissociation (HCD)"
+    ],
+    "Comment[GradientTime]": [
+      "75\u2009min high-performance liquid chromatography gradient at low pH."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "600\u2009nl/min"
+    ],
+    "Comment[Separation]": [
+      "separated at high pH with small columns packed in pipette tips (sRP)"
+    ],
+    "Comment[FractionationMethod]": [
+      "pooled to 6 MS runs"
+    ],
+    "Comment[NumberOfFractions]": [
+      "combined to six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F2"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20\u2009ppm for precursor and 50\u2009mmu for product ions",
+      "20\u2009ppm for precursor and 0.5\u2009Da for product ions"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "50\u2009mmu for product ions",
+      "0.5\u2009Da for product ions"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to two missed cleavages were allowed."
+    ]
+  }
+}

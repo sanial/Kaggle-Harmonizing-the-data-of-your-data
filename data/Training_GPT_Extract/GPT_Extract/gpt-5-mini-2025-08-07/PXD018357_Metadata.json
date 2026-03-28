@@ -1,0 +1,2229 @@
+{
+  "20200317_KKL_CoV2_24h_5v5_F1_20200318175539.raw": {
+    "Source Name": [
+      "20200317_KKL_CoV2_24h_5v5"
+    ],
+    "Assay Name": [
+      "20200317_KKL_CoV2_24h_5v5_F1"
+    ],
+    "Raw Data File": [
+      "20200317_KKL_CoV2_24h_5v5_F1_20200318175539.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Caco-2 cells"
+    ],
+    "Characteristics[MaterialType]": [
+      "human colon carcinoma cell line CaCo-2"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens",
+      "Human Caco-2 cells, derived from colon carcinoma"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "Sequencing grade trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) 10-plex samples",
+      "TMT6 at the N terminus and lysines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "5 biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "tandem mass tag (TMT) 10-plex samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "24 h after infection"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "carbamidomethyl at cysteine residues"
+    ],
+    "Characteristics[Treatment]": [
+      "MOI of 1"
+    ],
+    "FactorValue[Treatment]": [
+      "infected with SARS-CoV-2 patient isolates"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F1"
+    ],
+    "Comment[FractionationMethod]": [
+      "Offline high pH reverse phase fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "cross-concatenated into 24 fractions"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "synchronous precursor selection (SPS) multi-notch MS3 method",
+      "liquid chromatography-synchronous precursor selection-mass spectromety (LC-SPS-MS3)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented using CID with a normalized collision energy (NCE) of 35%",
+      "Ions were fragmented using HCD with an NCE of 65%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Ion trap (Turbo)"
+    ],
+    "Comment[GradientTime]": [
+      "non-linear gradient from 7 to 40% B over 90 minutes"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "easy-nLC 1200 nano HPLC system"
+    ],
+    "Comment[IonizationType]": [
+      "nanoFlex ion source (ThermoFisher Scientific)"
+    ]
+  },
+  "20200317_KKL_CoV2_24h_5v5_F6.raw": {
+    "Source Name": [
+      "20200317_KKL_CoV2_24h_5v5"
+    ],
+    "Assay Name": [
+      "20200317_KKL_CoV2_24h_5v5_F6"
+    ],
+    "Raw Data File": [
+      "20200317_KKL_CoV2_24h_5v5_F6.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Caco-2 cells"
+    ],
+    "Characteristics[MaterialType]": [
+      "human colon carcinoma cell line CaCo-2"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens",
+      "Human Caco-2 cells, derived from colon carcinoma"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "Sequencing grade trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) 10-plex samples",
+      "TMT6 at the N terminus and lysines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "5 biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "tandem mass tag (TMT) 10-plex samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "24 h after infection"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "carbamidomethyl at cysteine residues"
+    ],
+    "Characteristics[Treatment]": [
+      "MOI of 1"
+    ],
+    "FactorValue[Treatment]": [
+      "infected with SARS-CoV-2 patient isolates"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F6"
+    ],
+    "Comment[FractionationMethod]": [
+      "Offline high pH reverse phase fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "cross-concatenated into 24 fractions"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "synchronous precursor selection (SPS) multi-notch MS3 method",
+      "liquid chromatography-synchronous precursor selection-mass spectromety (LC-SPS-MS3)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented using CID with a normalized collision energy (NCE) of 35%",
+      "Ions were fragmented using HCD with an NCE of 65%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Ion trap (Turbo)"
+    ],
+    "Comment[GradientTime]": [
+      "non-linear gradient from 7 to 40% B over 90 minutes"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "easy-nLC 1200 nano HPLC system"
+    ],
+    "Comment[IonizationType]": [
+      "nanoFlex ion source (ThermoFisher Scientific)"
+    ]
+  },
+  "20200317_KKL_CoV2_24h_5v5_F20.raw": {
+    "Source Name": [
+      "20200317_KKL_CoV2_24h_5v5"
+    ],
+    "Assay Name": [
+      "20200317_KKL_CoV2_24h_5v5_F20"
+    ],
+    "Raw Data File": [
+      "20200317_KKL_CoV2_24h_5v5_F20.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Caco-2 cells"
+    ],
+    "Characteristics[MaterialType]": [
+      "human colon carcinoma cell line CaCo-2"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens",
+      "Human Caco-2 cells, derived from colon carcinoma"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "Sequencing grade trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) 10-plex samples",
+      "TMT6 at the N terminus and lysines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "5 biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "tandem mass tag (TMT) 10-plex samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "24 h after infection"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "carbamidomethyl at cysteine residues"
+    ],
+    "Characteristics[Treatment]": [
+      "MOI of 1"
+    ],
+    "FactorValue[Treatment]": [
+      "infected with SARS-CoV-2 patient isolates"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F20"
+    ],
+    "Comment[FractionationMethod]": [
+      "Offline high pH reverse phase fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "cross-concatenated into 24 fractions"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "synchronous precursor selection (SPS) multi-notch MS3 method",
+      "liquid chromatography-synchronous precursor selection-mass spectromety (LC-SPS-MS3)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented using CID with a normalized collision energy (NCE) of 35%",
+      "Ions were fragmented using HCD with an NCE of 65%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Ion trap (Turbo)"
+    ],
+    "Comment[GradientTime]": [
+      "non-linear gradient from 7 to 40% B over 90 minutes"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "easy-nLC 1200 nano HPLC system"
+    ],
+    "Comment[IonizationType]": [
+      "nanoFlex ion source (ThermoFisher Scientific)"
+    ]
+  },
+  "20200317_KKL_CoV2_Phospho_F4.raw": {
+    "Source Name": [
+      "20200317_KKL_CoV2_Phospho"
+    ],
+    "Assay Name": [
+      "20200317_KKL_CoV2_Phospho_F4"
+    ],
+    "Raw Data File": [
+      "20200317_KKL_CoV2_Phospho_F4.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Caco-2 cells"
+    ],
+    "Characteristics[MaterialType]": [
+      "human colon carcinoma cell line CaCo-2"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens",
+      "Human Caco-2 cells, derived from colon carcinoma"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "Sequencing grade trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) 10-plex samples",
+      "TMT6 at the N terminus and lysines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "5 biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "tandem mass tag (TMT) 10-plex samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "24 h after infection"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "carbamidomethyl at cysteine residues"
+    ],
+    "Characteristics[Treatment]": [
+      "MOI of 1"
+    ],
+    "FactorValue[Treatment]": [
+      "infected with SARS-CoV-2 patient isolates"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F4"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "High-Select Fe-NTA Phosphopeptide enrichment kit (Thermo Fisher)",
+      "iron loaded nitrilotriacetic acid (Fe-NTA) phosphopeptide enrichment (achieving 98% enrichment)"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated on C18 (Empore) stage-tip"
+    ],
+    "Comment[NumberOfFractions]": [
+      "The eight fractions were concatenated into four fractions"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "An MS2 based method was chosen, because of higher precision and identification rates.",
+      "LC-MS2"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented via HCD applying an NCE of 38%."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[GradientTime]": [
+      "linear gradient from 5 to 32% B over 120 minutes"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "easy-nLC 1200 nano HPLC system"
+    ],
+    "Comment[IonizationType]": [
+      "nanoFlex ion source (ThermoFisher Scientific)"
+    ],
+    "Comment[EnrichmentMethod.Note]": [
+      "The eight fractions were concatenated into four fractions"
+    ]
+  },
+  "20200317_KKL_CoV2_24h_5v5_F24.raw": {
+    "Source Name": [
+      "20200317_KKL_CoV2_24h_5v5"
+    ],
+    "Assay Name": [
+      "20200317_KKL_CoV2_24h_5v5_F24"
+    ],
+    "Raw Data File": [
+      "20200317_KKL_CoV2_24h_5v5_F24.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Caco-2 cells"
+    ],
+    "Characteristics[MaterialType]": [
+      "human colon carcinoma cell line CaCo-2"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens",
+      "Human Caco-2 cells, derived from colon carcinoma"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "Sequencing grade trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) 10-plex samples",
+      "TMT6 at the N terminus and lysines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "5 biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "tandem mass tag (TMT) 10-plex samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "24 h after infection"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "carbamidomethyl at cysteine residues"
+    ],
+    "Characteristics[Treatment]": [
+      "MOI of 1"
+    ],
+    "FactorValue[Treatment]": [
+      "infected with SARS-CoV-2 patient isolates"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F24"
+    ],
+    "Comment[FractionationMethod]": [
+      "Offline high pH reverse phase fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "cross-concatenated into 24 fractions"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "synchronous precursor selection (SPS) multi-notch MS3 method",
+      "liquid chromatography-synchronous precursor selection-mass spectromety (LC-SPS-MS3)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented using CID with a normalized collision energy (NCE) of 35%",
+      "Ions were fragmented using HCD with an NCE of 65%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Ion trap (Turbo)"
+    ],
+    "Comment[GradientTime]": [
+      "non-linear gradient from 7 to 40% B over 90 minutes"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "easy-nLC 1200 nano HPLC system"
+    ],
+    "Comment[IonizationType]": [
+      "nanoFlex ion source (ThermoFisher Scientific)"
+    ]
+  },
+  "20200317_KKL_CoV2_24h_5v5_F21.raw": {
+    "Source Name": [
+      "20200317_KKL_CoV2_24h_5v5"
+    ],
+    "Assay Name": [
+      "20200317_KKL_CoV2_24h_5v5_F21"
+    ],
+    "Raw Data File": [
+      "20200317_KKL_CoV2_24h_5v5_F21.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Caco-2 cells"
+    ],
+    "Characteristics[MaterialType]": [
+      "human colon carcinoma cell line CaCo-2"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens",
+      "Human Caco-2 cells, derived from colon carcinoma"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "Sequencing grade trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) 10-plex samples",
+      "TMT6 at the N terminus and lysines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "5 biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "tandem mass tag (TMT) 10-plex samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "24 h after infection"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "carbamidomethyl at cysteine residues"
+    ],
+    "Characteristics[Treatment]": [
+      "MOI of 1"
+    ],
+    "FactorValue[Treatment]": [
+      "infected with SARS-CoV-2 patient isolates"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F21"
+    ],
+    "Comment[FractionationMethod]": [
+      "Offline high pH reverse phase fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "cross-concatenated into 24 fractions"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "synchronous precursor selection (SPS) multi-notch MS3 method",
+      "liquid chromatography-synchronous precursor selection-mass spectromety (LC-SPS-MS3)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented using CID with a normalized collision energy (NCE) of 35%",
+      "Ions were fragmented using HCD with an NCE of 65%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Ion trap (Turbo)"
+    ],
+    "Comment[GradientTime]": [
+      "non-linear gradient from 7 to 40% B over 90 minutes"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "easy-nLC 1200 nano HPLC system"
+    ],
+    "Comment[IonizationType]": [
+      "nanoFlex ion source (ThermoFisher Scientific)"
+    ]
+  },
+  "20200317_KKL_CoV2_24h_5v5_F12.raw": {
+    "Source Name": [
+      "20200317_KKL_CoV2_24h_5v5"
+    ],
+    "Assay Name": [
+      "20200317_KKL_CoV2_24h_5v5_F12"
+    ],
+    "Raw Data File": [
+      "20200317_KKL_CoV2_24h_5v5_F12.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Caco-2 cells"
+    ],
+    "Characteristics[MaterialType]": [
+      "human colon carcinoma cell line CaCo-2"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens",
+      "Human Caco-2 cells, derived from colon carcinoma"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "Sequencing grade trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) 10-plex samples",
+      "TMT6 at the N terminus and lysines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "5 biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "tandem mass tag (TMT) 10-plex samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "24 h after infection"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "carbamidomethyl at cysteine residues"
+    ],
+    "Characteristics[Treatment]": [
+      "MOI of 1"
+    ],
+    "FactorValue[Treatment]": [
+      "infected with SARS-CoV-2 patient isolates"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F12"
+    ],
+    "Comment[FractionationMethod]": [
+      "Offline high pH reverse phase fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "cross-concatenated into 24 fractions"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "synchronous precursor selection (SPS) multi-notch MS3 method",
+      "liquid chromatography-synchronous precursor selection-mass spectromety (LC-SPS-MS3)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented using CID with a normalized collision energy (NCE) of 35%",
+      "Ions were fragmented using HCD with an NCE of 65%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Ion trap (Turbo)"
+    ],
+    "Comment[GradientTime]": [
+      "non-linear gradient from 7 to 40% B over 90 minutes"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "easy-nLC 1200 nano HPLC system"
+    ],
+    "Comment[IonizationType]": [
+      "nanoFlex ion source (ThermoFisher Scientific)"
+    ]
+  },
+  "20200317_KKL_CoV2_24h_5v5_F2_20200318195837.raw": {
+    "Source Name": [
+      "20200317_KKL_CoV2_24h_5v5"
+    ],
+    "Assay Name": [
+      "20200317_KKL_CoV2_24h_5v5_F2"
+    ],
+    "Raw Data File": [
+      "20200317_KKL_CoV2_24h_5v5_F2_20200318195837.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Caco-2 cells"
+    ],
+    "Characteristics[MaterialType]": [
+      "human colon carcinoma cell line CaCo-2"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens",
+      "Human Caco-2 cells, derived from colon carcinoma"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "Sequencing grade trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) 10-plex samples",
+      "TMT6 at the N terminus and lysines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "5 biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "tandem mass tag (TMT) 10-plex samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "24 h after infection"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "carbamidomethyl at cysteine residues"
+    ],
+    "Characteristics[Treatment]": [
+      "MOI of 1"
+    ],
+    "FactorValue[Treatment]": [
+      "infected with SARS-CoV-2 patient isolates"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F2"
+    ],
+    "Comment[FractionationMethod]": [
+      "Offline high pH reverse phase fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "cross-concatenated into 24 fractions"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "synchronous precursor selection (SPS) multi-notch MS3 method",
+      "liquid chromatography-synchronous precursor selection-mass spectromety (LC-SPS-MS3)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented using CID with a normalized collision energy (NCE) of 35%",
+      "Ions were fragmented using HCD with an NCE of 65%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Ion trap (Turbo)"
+    ],
+    "Comment[GradientTime]": [
+      "non-linear gradient from 7 to 40% B over 90 minutes"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "easy-nLC 1200 nano HPLC system"
+    ],
+    "Comment[IonizationType]": [
+      "nanoFlex ion source (ThermoFisher Scientific)"
+    ]
+  },
+  "20200317_KKL_CoV2_24h_5v5_F23.raw": {
+    "Source Name": [
+      "20200317_KKL_CoV2_24h_5v5"
+    ],
+    "Assay Name": [
+      "20200317_KKL_CoV2_24h_5v5_F23"
+    ],
+    "Raw Data File": [
+      "20200317_KKL_CoV2_24h_5v5_F23.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Caco-2 cells"
+    ],
+    "Characteristics[MaterialType]": [
+      "human colon carcinoma cell line CaCo-2"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens",
+      "Human Caco-2 cells, derived from colon carcinoma"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "Sequencing grade trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) 10-plex samples",
+      "TMT6 at the N terminus and lysines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "5 biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "tandem mass tag (TMT) 10-plex samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "24 h after infection"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "carbamidomethyl at cysteine residues"
+    ],
+    "Characteristics[Treatment]": [
+      "MOI of 1"
+    ],
+    "FactorValue[Treatment]": [
+      "infected with SARS-CoV-2 patient isolates"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F23"
+    ],
+    "Comment[FractionationMethod]": [
+      "Offline high pH reverse phase fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "cross-concatenated into 24 fractions"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "synchronous precursor selection (SPS) multi-notch MS3 method",
+      "liquid chromatography-synchronous precursor selection-mass spectromety (LC-SPS-MS3)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented using CID with a normalized collision energy (NCE) of 35%",
+      "Ions were fragmented using HCD with an NCE of 65%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Ion trap (Turbo)"
+    ],
+    "Comment[GradientTime]": [
+      "non-linear gradient from 7 to 40% B over 90 minutes"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "easy-nLC 1200 nano HPLC system"
+    ],
+    "Comment[IonizationType]": [
+      "nanoFlex ion source (ThermoFisher Scientific)"
+    ]
+  },
+  "20200317_KKL_CoV2_Phospho_F1.raw": {
+    "Source Name": [
+      "20200317_KKL_CoV2_Phospho"
+    ],
+    "Assay Name": [
+      "20200317_KKL_CoV2_Phospho_F1"
+    ],
+    "Raw Data File": [
+      "20200317_KKL_CoV2_Phospho_F1.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Caco-2 cells"
+    ],
+    "Characteristics[MaterialType]": [
+      "human colon carcinoma cell line CaCo-2"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens",
+      "Human Caco-2 cells, derived from colon carcinoma"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "Sequencing grade trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) 10-plex samples",
+      "TMT6 at the N terminus and lysines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "5 biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "tandem mass tag (TMT) 10-plex samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "24 h after infection"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "carbamidomethyl at cysteine residues"
+    ],
+    "Characteristics[Treatment]": [
+      "MOI of 1"
+    ],
+    "FactorValue[Treatment]": [
+      "infected with SARS-CoV-2 patient isolates"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F1"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "High-Select Fe-NTA Phosphopeptide enrichment kit (Thermo Fisher)",
+      "iron loaded nitrilotriacetic acid (Fe-NTA) phosphopeptide enrichment (achieving 98% enrichment)"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated on C18 (Empore) stage-tip"
+    ],
+    "Comment[NumberOfFractions]": [
+      "The eight fractions were concatenated into four fractions"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "An MS2 based method was chosen, because of higher precision and identification rates.",
+      "LC-MS2"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented via HCD applying an NCE of 38%."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[GradientTime]": [
+      "linear gradient from 5 to 32% B over 120 minutes"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "easy-nLC 1200 nano HPLC system"
+    ],
+    "Comment[IonizationType]": [
+      "nanoFlex ion source (ThermoFisher Scientific)"
+    ]
+  },
+  "20200317_KKL_CoV2_24h_5v5_F13.raw": {
+    "Source Name": [
+      "20200317_KKL_CoV2_24h_5v5"
+    ],
+    "Assay Name": [
+      "20200317_KKL_CoV2_24h_5v5_F13"
+    ],
+    "Raw Data File": [
+      "20200317_KKL_CoV2_24h_5v5_F13.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Caco-2 cells"
+    ],
+    "Characteristics[MaterialType]": [
+      "human colon carcinoma cell line CaCo-2"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens",
+      "Human Caco-2 cells, derived from colon carcinoma"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "Sequencing grade trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) 10-plex samples",
+      "TMT6 at the N terminus and lysines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "5 biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "tandem mass tag (TMT) 10-plex samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "24 h after infection"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "carbamidomethyl at cysteine residues"
+    ],
+    "Characteristics[Treatment]": [
+      "MOI of 1"
+    ],
+    "FactorValue[Treatment]": [
+      "infected with SARS-CoV-2 patient isolates"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F13"
+    ],
+    "Comment[FractionationMethod]": [
+      "Offline high pH reverse phase fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "cross-concatenated into 24 fractions"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "synchronous precursor selection (SPS) multi-notch MS3 method",
+      "liquid chromatography-synchronous precursor selection-mass spectromety (LC-SPS-MS3)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented using CID with a normalized collision energy (NCE) of 35%",
+      "Ions were fragmented using HCD with an NCE of 65%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Ion trap (Turbo)"
+    ],
+    "Comment[GradientTime]": [
+      "non-linear gradient from 7 to 40% B over 90 minutes"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "easy-nLC 1200 nano HPLC system"
+    ],
+    "Comment[IonizationType]": [
+      "nanoFlex ion source (ThermoFisher Scientific)"
+    ]
+  },
+  "20200317_KKL_CoV2_Phospho_F2.raw": {
+    "Source Name": [
+      "20200317_KKL_CoV2_Phospho"
+    ],
+    "Assay Name": [
+      "20200317_KKL_CoV2_Phospho_F2"
+    ],
+    "Raw Data File": [
+      "20200317_KKL_CoV2_Phospho_F2.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Caco-2 cells"
+    ],
+    "Characteristics[MaterialType]": [
+      "human colon carcinoma cell line CaCo-2"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens",
+      "Human Caco-2 cells, derived from colon carcinoma"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "Sequencing grade trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) 10-plex samples",
+      "TMT6 at the N terminus and lysines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "5 biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "tandem mass tag (TMT) 10-plex samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "24 h after infection"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "carbamidomethyl at cysteine residues"
+    ],
+    "Characteristics[Treatment]": [
+      "MOI of 1"
+    ],
+    "FactorValue[Treatment]": [
+      "infected with SARS-CoV-2 patient isolates"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F2"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "High-Select Fe-NTA Phosphopeptide enrichment kit (Thermo Fisher)",
+      "iron loaded nitrilotriacetic acid (Fe-NTA) phosphopeptide enrichment (achieving 98% enrichment)"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated on C18 (Empore) stage-tip"
+    ],
+    "Comment[NumberOfFractions]": [
+      "The eight fractions were concatenated into four fractions"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "An MS2 based method was chosen, because of higher precision and identification rates.",
+      "LC-MS2"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented via HCD applying an NCE of 38%."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[GradientTime]": [
+      "linear gradient from 5 to 32% B over 120 minutes"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "easy-nLC 1200 nano HPLC system"
+    ],
+    "Comment[IonizationType]": [
+      "nanoFlex ion source (ThermoFisher Scientific)"
+    ]
+  },
+  "20200317_KKL_CoV2_24h_5v5_F10.raw": {
+    "Source Name": [
+      "20200317_KKL_CoV2_24h_5v5"
+    ],
+    "Assay Name": [
+      "20200317_KKL_CoV2_24h_5v5_F10"
+    ],
+    "Raw Data File": [
+      "20200317_KKL_CoV2_24h_5v5_F10.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Caco-2 cells"
+    ],
+    "Characteristics[MaterialType]": [
+      "human colon carcinoma cell line CaCo-2"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens",
+      "Human Caco-2 cells, derived from colon carcinoma"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "Sequencing grade trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) 10-plex samples",
+      "TMT6 at the N terminus and lysines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "5 biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "tandem mass tag (TMT) 10-plex samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "24 h after infection"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "carbamidomethyl at cysteine residues"
+    ],
+    "Characteristics[Treatment]": [
+      "MOI of 1"
+    ],
+    "FactorValue[Treatment]": [
+      "infected with SARS-CoV-2 patient isolates"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F10"
+    ],
+    "Comment[FractionationMethod]": [
+      "Offline high pH reverse phase fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "cross-concatenated into 24 fractions"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "synchronous precursor selection (SPS) multi-notch MS3 method",
+      "liquid chromatography-synchronous precursor selection-mass spectromety (LC-SPS-MS3)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented using CID with a normalized collision energy (NCE) of 35%",
+      "Ions were fragmented using HCD with an NCE of 65%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Ion trap (Turbo)"
+    ],
+    "Comment[GradientTime]": [
+      "non-linear gradient from 7 to 40% B over 90 minutes"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "easy-nLC 1200 nano HPLC system"
+    ],
+    "Comment[IonizationType]": [
+      "nanoFlex ion source (ThermoFisher Scientific)"
+    ]
+  },
+  "20200317_KKL_CoV2_24h_5v5_F4.raw": {
+    "Source Name": [
+      "20200317_KKL_CoV2_24h_5v5"
+    ],
+    "Assay Name": [
+      "20200317_KKL_CoV2_24h_5v5_F4"
+    ],
+    "Raw Data File": [
+      "20200317_KKL_CoV2_24h_5v5_F4.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Caco-2 cells"
+    ],
+    "Characteristics[MaterialType]": [
+      "human colon carcinoma cell line CaCo-2"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens",
+      "Human Caco-2 cells, derived from colon carcinoma"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "Sequencing grade trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) 10-plex samples",
+      "TMT6 at the N terminus and lysines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "5 biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "tandem mass tag (TMT) 10-plex samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "24 h after infection"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "carbamidomethyl at cysteine residues"
+    ],
+    "Characteristics[Treatment]": [
+      "MOI of 1"
+    ],
+    "FactorValue[Treatment]": [
+      "infected with SARS-CoV-2 patient isolates"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F4"
+    ],
+    "Comment[FractionationMethod]": [
+      "Offline high pH reverse phase fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "cross-concatenated into 24 fractions"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "synchronous precursor selection (SPS) multi-notch MS3 method",
+      "liquid chromatography-synchronous precursor selection-mass spectromety (LC-SPS-MS3)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented using CID with a normalized collision energy (NCE) of 35%",
+      "Ions were fragmented using HCD with an NCE of 65%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Ion trap (Turbo)"
+    ],
+    "Comment[GradientTime]": [
+      "non-linear gradient from 7 to 40% B over 90 minutes"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "easy-nLC 1200 nano HPLC system"
+    ],
+    "Comment[IonizationType]": [
+      "nanoFlex ion source (ThermoFisher Scientific)"
+    ]
+  },
+  "20200317_KKL_CoV2_Phospho_F3.raw": {
+    "Source Name": [
+      "20200317_KKL_CoV2_Phospho"
+    ],
+    "Assay Name": [
+      "20200317_KKL_CoV2_Phospho_F3"
+    ],
+    "Raw Data File": [
+      "20200317_KKL_CoV2_Phospho_F3.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Caco-2 cells"
+    ],
+    "Characteristics[MaterialType]": [
+      "human colon carcinoma cell line CaCo-2"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens",
+      "Human Caco-2 cells, derived from colon carcinoma"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "Sequencing grade trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) 10-plex samples",
+      "TMT6 at the N terminus and lysines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "5 biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "tandem mass tag (TMT) 10-plex samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "24 h after infection"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "carbamidomethyl at cysteine residues"
+    ],
+    "Characteristics[Treatment]": [
+      "MOI of 1"
+    ],
+    "FactorValue[Treatment]": [
+      "infected with SARS-CoV-2 patient isolates"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F3"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "High-Select Fe-NTA Phosphopeptide enrichment kit (Thermo Fisher)",
+      "iron loaded nitrilotriacetic acid (Fe-NTA) phosphopeptide enrichment (achieving 98% enrichment)"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated on C18 (Empore) stage-tip"
+    ],
+    "Comment[NumberOfFractions]": [
+      "The eight fractions were concatenated into four fractions"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "An MS2 based method was chosen, because of higher precision and identification rates.",
+      "LC-MS2"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented via HCD applying an NCE of 38%."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[GradientTime]": [
+      "linear gradient from 5 to 32% B over 120 minutes"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "easy-nLC 1200 nano HPLC system"
+    ],
+    "Comment[IonizationType]": [
+      "nanoFlex ion source (ThermoFisher Scientific)"
+    ]
+  },
+  "20200317_KKL_CoV2_24h_5v5_F9.raw": {
+    "Source Name": [
+      "20200317_KKL_CoV2_24h_5v5"
+    ],
+    "Assay Name": [
+      "20200317_KKL_CoV2_24h_5v5_F9"
+    ],
+    "Raw Data File": [
+      "20200317_KKL_CoV2_24h_5v5_F9.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Caco-2 cells"
+    ],
+    "Characteristics[MaterialType]": [
+      "human colon carcinoma cell line CaCo-2"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens",
+      "Human Caco-2 cells, derived from colon carcinoma"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "Sequencing grade trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) 10-plex samples",
+      "TMT6 at the N terminus and lysines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "5 biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "tandem mass tag (TMT) 10-plex samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "24 h after infection"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "carbamidomethyl at cysteine residues"
+    ],
+    "Characteristics[Treatment]": [
+      "MOI of 1"
+    ],
+    "FactorValue[Treatment]": [
+      "infected with SARS-CoV-2 patient isolates"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F9"
+    ],
+    "Comment[FractionationMethod]": [
+      "Offline high pH reverse phase fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "cross-concatenated into 24 fractions"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "synchronous precursor selection (SPS) multi-notch MS3 method",
+      "liquid chromatography-synchronous precursor selection-mass spectromety (LC-SPS-MS3)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented using CID with a normalized collision energy (NCE) of 35%",
+      "Ions were fragmented using HCD with an NCE of 65%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Ion trap (Turbo)"
+    ],
+    "Comment[GradientTime]": [
+      "non-linear gradient from 7 to 40% B over 90 minutes"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "easy-nLC 1200 nano HPLC system"
+    ],
+    "Comment[IonizationType]": [
+      "nanoFlex ion source (ThermoFisher Scientific)"
+    ]
+  },
+  "20200317_KKL_CoV2_24h_5v5_F7.raw": {
+    "Source Name": [
+      "20200317_KKL_CoV2_24h_5v5"
+    ],
+    "Assay Name": [
+      "20200317_KKL_CoV2_24h_5v5_F7"
+    ],
+    "Raw Data File": [
+      "20200317_KKL_CoV2_24h_5v5_F7.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Caco-2 cells"
+    ],
+    "Characteristics[MaterialType]": [
+      "human colon carcinoma cell line CaCo-2"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens",
+      "Human Caco-2 cells, derived from colon carcinoma"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "Sequencing grade trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) 10-plex samples",
+      "TMT6 at the N terminus and lysines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "5 biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "tandem mass tag (TMT) 10-plex samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "24 h after infection"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "carbamidomethyl at cysteine residues"
+    ],
+    "Characteristics[Treatment]": [
+      "MOI of 1"
+    ],
+    "FactorValue[Treatment]": [
+      "infected with SARS-CoV-2 patient isolates"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F7"
+    ],
+    "Comment[FractionationMethod]": [
+      "Offline high pH reverse phase fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "cross-concatenated into 24 fractions"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "synchronous precursor selection (SPS) multi-notch MS3 method",
+      "liquid chromatography-synchronous precursor selection-mass spectromety (LC-SPS-MS3)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented using CID with a normalized collision energy (NCE) of 35%",
+      "Ions were fragmented using HCD with an NCE of 65%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Ion trap (Turbo)"
+    ],
+    "Comment[GradientTime]": [
+      "non-linear gradient from 7 to 40% B over 90 minutes"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "easy-nLC 1200 nano HPLC system"
+    ],
+    "Comment[IonizationType]": [
+      "nanoFlex ion source (ThermoFisher Scientific)"
+    ]
+  },
+  "20200317_KKL_CoV2_24h_5v5_F3.raw": {
+    "Source Name": [
+      "20200317_KKL_CoV2_24h_5v5"
+    ],
+    "Assay Name": [
+      "20200317_KKL_CoV2_24h_5v5_F3"
+    ],
+    "Raw Data File": [
+      "20200317_KKL_CoV2_24h_5v5_F3.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Caco-2 cells"
+    ],
+    "Characteristics[MaterialType]": [
+      "human colon carcinoma cell line CaCo-2"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens",
+      "Human Caco-2 cells, derived from colon carcinoma"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "Sequencing grade trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) 10-plex samples",
+      "TMT6 at the N terminus and lysines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "5 biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "tandem mass tag (TMT) 10-plex samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "24 h after infection"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "carbamidomethyl at cysteine residues"
+    ],
+    "Characteristics[Treatment]": [
+      "MOI of 1"
+    ],
+    "FactorValue[Treatment]": [
+      "infected with SARS-CoV-2 patient isolates"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F3"
+    ],
+    "Comment[FractionationMethod]": [
+      "Offline high pH reverse phase fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "cross-concatenated into 24 fractions"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "synchronous precursor selection (SPS) multi-notch MS3 method",
+      "liquid chromatography-synchronous precursor selection-mass spectromety (LC-SPS-MS3)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented using CID with a normalized collision energy (NCE) of 35%",
+      "Ions were fragmented using HCD with an NCE of 65%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Ion trap (Turbo)"
+    ],
+    "Comment[GradientTime]": [
+      "non-linear gradient from 7 to 40% B over 90 minutes"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "easy-nLC 1200 nano HPLC system"
+    ],
+    "Comment[IonizationType]": [
+      "nanoFlex ion source (ThermoFisher Scientific)"
+    ]
+  },
+  "20200317_KKL_CoV2_24h_5v5_F18.raw": {
+    "Source Name": [
+      "20200317_KKL_CoV2_24h_5v5"
+    ],
+    "Assay Name": [
+      "20200317_KKL_CoV2_24h_5v5_F18"
+    ],
+    "Raw Data File": [
+      "20200317_KKL_CoV2_24h_5v5_F18.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Caco-2 cells"
+    ],
+    "Characteristics[MaterialType]": [
+      "human colon carcinoma cell line CaCo-2"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens",
+      "Human Caco-2 cells, derived from colon carcinoma"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "Sequencing grade trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) 10-plex samples",
+      "TMT6 at the N terminus and lysines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "5 biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "tandem mass tag (TMT) 10-plex samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "24 h after infection"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "carbamidomethyl at cysteine residues"
+    ],
+    "Characteristics[Treatment]": [
+      "MOI of 1"
+    ],
+    "FactorValue[Treatment]": [
+      "infected with SARS-CoV-2 patient isolates"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F18"
+    ],
+    "Comment[FractionationMethod]": [
+      "Offline high pH reverse phase fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "cross-concatenated into 24 fractions"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "synchronous precursor selection (SPS) multi-notch MS3 method",
+      "liquid chromatography-synchronous precursor selection-mass spectromety (LC-SPS-MS3)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented using CID with a normalized collision energy (NCE) of 35%",
+      "Ions were fragmented using HCD with an NCE of 65%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Ion trap (Turbo)"
+    ],
+    "Comment[GradientTime]": [
+      "non-linear gradient from 7 to 40% B over 90 minutes"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "easy-nLC 1200 nano HPLC system"
+    ],
+    "Comment[IonizationType]": [
+      "nanoFlex ion source (ThermoFisher Scientific)"
+    ]
+  },
+  "20200317_KKL_CoV2_24h_5v5_F22.raw": {
+    "Source Name": [
+      "20200317_KKL_CoV2_24h_5v5"
+    ],
+    "Assay Name": [
+      "20200317_KKL_CoV2_24h_5v5_F22"
+    ],
+    "Raw Data File": [
+      "20200317_KKL_CoV2_24h_5v5_F22.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Caco-2 cells"
+    ],
+    "Characteristics[MaterialType]": [
+      "human colon carcinoma cell line CaCo-2"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens",
+      "Human Caco-2 cells, derived from colon carcinoma"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "Sequencing grade trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) 10-plex samples",
+      "TMT6 at the N terminus and lysines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "5 biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "tandem mass tag (TMT) 10-plex samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "24 h after infection"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "carbamidomethyl at cysteine residues"
+    ],
+    "Characteristics[Treatment]": [
+      "MOI of 1"
+    ],
+    "FactorValue[Treatment]": [
+      "infected with SARS-CoV-2 patient isolates"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F22"
+    ],
+    "Comment[FractionationMethod]": [
+      "Offline high pH reverse phase fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "cross-concatenated into 24 fractions"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "synchronous precursor selection (SPS) multi-notch MS3 method",
+      "liquid chromatography-synchronous precursor selection-mass spectromety (LC-SPS-MS3)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented using CID with a normalized collision energy (NCE) of 35%",
+      "Ions were fragmented using HCD with an NCE of 65%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Ion trap (Turbo)"
+    ],
+    "Comment[GradientTime]": [
+      "non-linear gradient from 7 to 40% B over 90 minutes"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "easy-nLC 1200 nano HPLC system"
+    ],
+    "Comment[IonizationType]": [
+      "nanoFlex ion source (ThermoFisher Scientific)"
+    ]
+  },
+  "20200317_KKL_CoV2_24h_5v5_F16.raw": {
+    "Source Name": [
+      "20200317_KKL_CoV2_24h_5v5"
+    ],
+    "Assay Name": [
+      "20200317_KKL_CoV2_24h_5v5_F16"
+    ],
+    "Raw Data File": [
+      "20200317_KKL_CoV2_24h_5v5_F16.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Caco-2 cells"
+    ],
+    "Characteristics[MaterialType]": [
+      "human colon carcinoma cell line CaCo-2"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens",
+      "Human Caco-2 cells, derived from colon carcinoma"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "Sequencing grade trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) 10-plex samples",
+      "TMT6 at the N terminus and lysines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "5 biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "tandem mass tag (TMT) 10-plex samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "24 h after infection"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "carbamidomethyl at cysteine residues"
+    ],
+    "Characteristics[Treatment]": [
+      "MOI of 1"
+    ],
+    "FactorValue[Treatment]": [
+      "infected with SARS-CoV-2 patient isolates"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F16"
+    ],
+    "Comment[FractionationMethod]": [
+      "Offline high pH reverse phase fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "cross-concatenated into 24 fractions"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "synchronous precursor selection (SPS) multi-notch MS3 method",
+      "liquid chromatography-synchronous precursor selection-mass spectromety (LC-SPS-MS3)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented using CID with a normalized collision energy (NCE) of 35%",
+      "Ions were fragmented using HCD with an NCE of 65%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Ion trap (Turbo)"
+    ],
+    "Comment[GradientTime]": [
+      "non-linear gradient from 7 to 40% B over 90 minutes"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "easy-nLC 1200 nano HPLC system"
+    ],
+    "Comment[IonizationType]": [
+      "nanoFlex ion source (ThermoFisher Scientific)"
+    ]
+  },
+  "20200317_KKL_CoV2_24h_5v5_F5.raw": {
+    "Source Name": [
+      "20200317_KKL_CoV2_24h_5v5"
+    ],
+    "Assay Name": [
+      "20200317_KKL_CoV2_24h_5v5_F5"
+    ],
+    "Raw Data File": [
+      "20200317_KKL_CoV2_24h_5v5_F5.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Caco-2 cells"
+    ],
+    "Characteristics[MaterialType]": [
+      "human colon carcinoma cell line CaCo-2"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens",
+      "Human Caco-2 cells, derived from colon carcinoma"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "Sequencing grade trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) 10-plex samples",
+      "TMT6 at the N terminus and lysines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "5 biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "tandem mass tag (TMT) 10-plex samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "24 h after infection"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "carbamidomethyl at cysteine residues"
+    ],
+    "Characteristics[Treatment]": [
+      "MOI of 1"
+    ],
+    "FactorValue[Treatment]": [
+      "infected with SARS-CoV-2 patient isolates"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F5"
+    ],
+    "Comment[FractionationMethod]": [
+      "Offline high pH reverse phase fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "cross-concatenated into 24 fractions"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "synchronous precursor selection (SPS) multi-notch MS3 method",
+      "liquid chromatography-synchronous precursor selection-mass spectromety (LC-SPS-MS3)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented using CID with a normalized collision energy (NCE) of 35%",
+      "Ions were fragmented using HCD with an NCE of 65%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Ion trap (Turbo)"
+    ],
+    "Comment[GradientTime]": [
+      "non-linear gradient from 7 to 40% B over 90 minutes"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "easy-nLC 1200 nano HPLC system"
+    ],
+    "Comment[IonizationType]": [
+      "nanoFlex ion source (ThermoFisher Scientific)"
+    ]
+  },
+  "20200317_KKL_CoV2_24h_5v5_F8.raw": {
+    "Source Name": [
+      "20200317_KKL_CoV2_24h_5v5"
+    ],
+    "Assay Name": [
+      "20200317_KKL_CoV2_24h_5v5_F8"
+    ],
+    "Raw Data File": [
+      "20200317_KKL_CoV2_24h_5v5_F8.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Caco-2 cells"
+    ],
+    "Characteristics[MaterialType]": [
+      "human colon carcinoma cell line CaCo-2"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens",
+      "Human Caco-2 cells, derived from colon carcinoma"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "Sequencing grade trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) 10-plex samples",
+      "TMT6 at the N terminus and lysines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "5 biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "tandem mass tag (TMT) 10-plex samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "24 h after infection"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "carbamidomethyl at cysteine residues"
+    ],
+    "Characteristics[Treatment]": [
+      "MOI of 1"
+    ],
+    "FactorValue[Treatment]": [
+      "infected with SARS-CoV-2 patient isolates"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F8"
+    ],
+    "Comment[FractionationMethod]": [
+      "Offline high pH reverse phase fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "cross-concatenated into 24 fractions"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "synchronous precursor selection (SPS) multi-notch MS3 method",
+      "liquid chromatography-synchronous precursor selection-mass spectromety (LC-SPS-MS3)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented using CID with a normalized collision energy (NCE) of 35%",
+      "Ions were fragmented using HCD with an NCE of 65%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Ion trap (Turbo)"
+    ],
+    "Comment[GradientTime]": [
+      "non-linear gradient from 7 to 40% B over 90 minutes"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "easy-nLC 1200 nano HPLC system"
+    ],
+    "Comment[IonizationType]": [
+      "nanoFlex ion source (ThermoFisher Scientific)"
+    ]
+  },
+  "20200317_KKL_CoV2_24h_5v5_F11.raw": {
+    "Source Name": [
+      "20200317_KKL_CoV2_24h_5v5"
+    ],
+    "Assay Name": [
+      "20200317_KKL_CoV2_24h_5v5_F11"
+    ],
+    "Raw Data File": [
+      "20200317_KKL_CoV2_24h_5v5_F11.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Caco-2 cells"
+    ],
+    "Characteristics[MaterialType]": [
+      "human colon carcinoma cell line CaCo-2"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens",
+      "Human Caco-2 cells, derived from colon carcinoma"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "Sequencing grade trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) 10-plex samples",
+      "TMT6 at the N terminus and lysines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "5 biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "tandem mass tag (TMT) 10-plex samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "24 h after infection"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "carbamidomethyl at cysteine residues"
+    ],
+    "Characteristics[Treatment]": [
+      "MOI of 1"
+    ],
+    "FactorValue[Treatment]": [
+      "infected with SARS-CoV-2 patient isolates"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F11"
+    ],
+    "Comment[FractionationMethod]": [
+      "Offline high pH reverse phase fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "cross-concatenated into 24 fractions"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "synchronous precursor selection (SPS) multi-notch MS3 method",
+      "liquid chromatography-synchronous precursor selection-mass spectromety (LC-SPS-MS3)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented using CID with a normalized collision energy (NCE) of 35%",
+      "Ions were fragmented using HCD with an NCE of 65%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Ion trap (Turbo)"
+    ],
+    "Comment[GradientTime]": [
+      "non-linear gradient from 7 to 40% B over 90 minutes"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "easy-nLC 1200 nano HPLC system"
+    ],
+    "Comment[IonizationType]": [
+      "nanoFlex ion source (ThermoFisher Scientific)"
+    ]
+  },
+  "20200317_KKL_CoV2_24h_5v5_F15.raw": {
+    "Source Name": [
+      "20200317_KKL_CoV2_24h_5v5"
+    ],
+    "Assay Name": [
+      "20200317_KKL_CoV2_24h_5v5_F15"
+    ],
+    "Raw Data File": [
+      "20200317_KKL_CoV2_24h_5v5_F15.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Caco-2 cells"
+    ],
+    "Characteristics[MaterialType]": [
+      "human colon carcinoma cell line CaCo-2"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens",
+      "Human Caco-2 cells, derived from colon carcinoma"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "Sequencing grade trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) 10-plex samples",
+      "TMT6 at the N terminus and lysines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "5 biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "tandem mass tag (TMT) 10-plex samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "24 h after infection"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "carbamidomethyl at cysteine residues"
+    ],
+    "Characteristics[Treatment]": [
+      "MOI of 1"
+    ],
+    "FactorValue[Treatment]": [
+      "infected with SARS-CoV-2 patient isolates"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F15"
+    ],
+    "Comment[FractionationMethod]": [
+      "Offline high pH reverse phase fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "cross-concatenated into 24 fractions"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "synchronous precursor selection (SPS) multi-notch MS3 method",
+      "liquid chromatography-synchronous precursor selection-mass spectromety (LC-SPS-MS3)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented using CID with a normalized collision energy (NCE) of 35%",
+      "Ions were fragmented using HCD with an NCE of 65%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Ion trap (Turbo)"
+    ],
+    "Comment[GradientTime]": [
+      "non-linear gradient from 7 to 40% B over 90 minutes"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "easy-nLC 1200 nano HPLC system"
+    ],
+    "Comment[IonizationType]": [
+      "nanoFlex ion source (ThermoFisher Scientific)"
+    ]
+  },
+  "20200317_KKL_CoV2_24h_5v5_F14.raw": {
+    "Source Name": [
+      "20200317_KKL_CoV2_24h_5v5"
+    ],
+    "Assay Name": [
+      "20200317_KKL_CoV2_24h_5v5_F14"
+    ],
+    "Raw Data File": [
+      "20200317_KKL_CoV2_24h_5v5_F14.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Caco-2 cells"
+    ],
+    "Characteristics[MaterialType]": [
+      "human colon carcinoma cell line CaCo-2"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens",
+      "Human Caco-2 cells, derived from colon carcinoma"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "Sequencing grade trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) 10-plex samples",
+      "TMT6 at the N terminus and lysines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "5 biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "tandem mass tag (TMT) 10-plex samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "24 h after infection"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "carbamidomethyl at cysteine residues"
+    ],
+    "Characteristics[Treatment]": [
+      "MOI of 1"
+    ],
+    "FactorValue[Treatment]": [
+      "infected with SARS-CoV-2 patient isolates"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F14"
+    ],
+    "Comment[FractionationMethod]": [
+      "Offline high pH reverse phase fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "cross-concatenated into 24 fractions"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "synchronous precursor selection (SPS) multi-notch MS3 method",
+      "liquid chromatography-synchronous precursor selection-mass spectromety (LC-SPS-MS3)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented using CID with a normalized collision energy (NCE) of 35%",
+      "Ions were fragmented using HCD with an NCE of 65%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Ion trap (Turbo)"
+    ],
+    "Comment[GradientTime]": [
+      "non-linear gradient from 7 to 40% B over 90 minutes"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "easy-nLC 1200 nano HPLC system"
+    ],
+    "Comment[IonizationType]": [
+      "nanoFlex ion source (ThermoFisher Scientific)"
+    ]
+  },
+  "20200317_KKL_CoV2_24h_5v5_F17.raw": {
+    "Source Name": [
+      "20200317_KKL_CoV2_24h_5v5"
+    ],
+    "Assay Name": [
+      "20200317_KKL_CoV2_24h_5v5_F17"
+    ],
+    "Raw Data File": [
+      "20200317_KKL_CoV2_24h_5v5_F17.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Caco-2 cells"
+    ],
+    "Characteristics[MaterialType]": [
+      "human colon carcinoma cell line CaCo-2"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens",
+      "Human Caco-2 cells, derived from colon carcinoma"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "Sequencing grade trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) 10-plex samples",
+      "TMT6 at the N terminus and lysines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "5 biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "tandem mass tag (TMT) 10-plex samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "24 h after infection"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "carbamidomethyl at cysteine residues"
+    ],
+    "Characteristics[Treatment]": [
+      "MOI of 1"
+    ],
+    "FactorValue[Treatment]": [
+      "infected with SARS-CoV-2 patient isolates"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F17"
+    ],
+    "Comment[FractionationMethod]": [
+      "Offline high pH reverse phase fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "cross-concatenated into 24 fractions"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "synchronous precursor selection (SPS) multi-notch MS3 method",
+      "liquid chromatography-synchronous precursor selection-mass spectromety (LC-SPS-MS3)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented using CID with a normalized collision energy (NCE) of 35%",
+      "Ions were fragmented using HCD with an NCE of 65%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Ion trap (Turbo)"
+    ],
+    "Comment[GradientTime]": [
+      "non-linear gradient from 7 to 40% B over 90 minutes"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "easy-nLC 1200 nano HPLC system"
+    ],
+    "Comment[IonizationType]": [
+      "nanoFlex ion source (ThermoFisher Scientific)"
+    ]
+  },
+  "20200317_KKL_CoV2_24h_5v5_F19.raw": {
+    "Source Name": [
+      "20200317_KKL_CoV2_24h_5v5"
+    ],
+    "Assay Name": [
+      "20200317_KKL_CoV2_24h_5v5_F19"
+    ],
+    "Raw Data File": [
+      "20200317_KKL_CoV2_24h_5v5_F19.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Caco-2 cells"
+    ],
+    "Characteristics[MaterialType]": [
+      "human colon carcinoma cell line CaCo-2"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens",
+      "Human Caco-2 cells, derived from colon carcinoma"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "Sequencing grade trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "tandem mass tag (TMT) 10-plex samples",
+      "TMT6 at the N terminus and lysines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "5 biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "tandem mass tag (TMT) 10-plex samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "24 h after infection"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "carbamidomethyl at cysteine residues"
+    ],
+    "Characteristics[Treatment]": [
+      "MOI of 1"
+    ],
+    "FactorValue[Treatment]": [
+      "infected with SARS-CoV-2 patient isolates"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F19"
+    ],
+    "Comment[FractionationMethod]": [
+      "Offline high pH reverse phase fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "cross-concatenated into 24 fractions"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "synchronous precursor selection (SPS) multi-notch MS3 method",
+      "liquid chromatography-synchronous precursor selection-mass spectromety (LC-SPS-MS3)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented using CID with a normalized collision energy (NCE) of 35%",
+      "Ions were fragmented using HCD with an NCE of 65%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Ion trap (Turbo)"
+    ],
+    "Comment[GradientTime]": [
+      "non-linear gradient from 7 to 40% B over 90 minutes"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "easy-nLC 1200 nano HPLC system"
+    ],
+    "Comment[IonizationType]": [
+      "nanoFlex ion source (ThermoFisher Scientific)"
+    ]
+  }
+}

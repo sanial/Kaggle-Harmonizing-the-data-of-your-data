@@ -1,0 +1,34 @@
+Disease: squamous cell lung cancer  
+NumberOfSamples: cohort of 108 squamous cell lung cancer (SCC) patients  
+Specimen: snap frozen tumor tissues  
+Specimen: formalin fixed paraffin embedded sample  
+TumorStage: stage I–III  
+AssayName: RNA-sequencing  
+AssayName: expression proteomics  
+AssayName: liquid chromatography-tandem mass spectrometry (LC-MS/MS)  
+AssayName: RNAseq  
+AssayName: Targeted exome sequencing of 154 genes  
+Instrument: BioPulverizer (Biospec)  
+Instrument: Dionex Ultimate3000 RSLC UPLC  
+Instrument: Q Exactive Plus  
+Instrument: Covaris M220  
+Instrument: Affymetrix CytoScan HD Assay  
+Instrument: Illumina NextSeq 500  
+ReductionReagent: DTT  
+AlkylationReagent: iodoacetamide  
+CleavageAgent: trypsin  
+FractionationMethod: bRPLC separation  
+FlowRateChromatogram: 300 nl/min  
+GradientTime: 90 min gradient  
+PooledSample: two tumor pool replicates  
+Label: tandem mass tag (TMT)  
+AcquisitionMethod: data independent acquisition (DIA)  
+SpikedCompound: standard peptides (PRTC)  
+Separation: C18 reversed-phase resin  
+ConcentrationOfCompound: 4.5 mM DTT  
+ConcentrationOfCompound: 11 mM iodoacetamide  
+ConcentrationOfCompound: final TFA concentration of 1%  
+Temperature: 60 °C  
+Temperature: room temperature  
+Time: overnight at 37 °C  
+EnrichmentMethod: tandem mass tag (TMT) chemical labeling experiments

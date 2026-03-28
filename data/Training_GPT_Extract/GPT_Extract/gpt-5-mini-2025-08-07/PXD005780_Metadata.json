@@ -1,0 +1,632 @@
+{
+  "S28.raw": {
+    "Source Name": [
+      "S28"
+    ],
+    "Assay Name": [
+      "S28_LC-MS/MS"
+    ],
+    "Raw Data File": [
+      "S28.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "Stool samples",
+      "two equal stool portions (weighing approximately 250 mg each) were collected"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "15 healthy Sardinian volunteers"
+    ],
+    "Characteristics[Sex]": [
+      "(8 females and 7 males)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "gut microbiota (GM)"
+    ],
+    "Characteristics[Age]": [
+      "the median age of the studied subjects at the time of sampling was 39 years (range 22–48)"
+    ],
+    "Characteristics[BMI]": [
+      "median body mass index (BMI) value was 23.2 (range 18.4–31.2)"
+    ],
+    "Comment[Instrument]": [
+      "An LTQ-Orbitrap Velos mass spectrometer (Thermo Scientific, San Jose, CA, USA) interfaced with an UltiMate 3000 RSLCnano LC system (Thermo Scientific) was used for LC-MS/MS analysis."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent MS/MS mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "with HCD as fragmentation method"
+    ],
+    "Comment[Separation]": [
+      "UltiMate 3000 RSLCnano LC system"
+    ]
+  },
+  "S20.raw": {
+    "Source Name": [
+      "S20"
+    ],
+    "Assay Name": [
+      "S20_LC-MS/MS"
+    ],
+    "Raw Data File": [
+      "S20.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "Stool samples",
+      "two equal stool portions (weighing approximately 250 mg each) were collected"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "15 healthy Sardinian volunteers"
+    ],
+    "Characteristics[Sex]": [
+      "(8 females and 7 males)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "gut microbiota (GM)"
+    ],
+    "Characteristics[Age]": [
+      "the median age of the studied subjects at the time of sampling was 39 years (range 22–48)"
+    ],
+    "Characteristics[BMI]": [
+      "median body mass index (BMI) value was 23.2 (range 18.4–31.2)"
+    ],
+    "Comment[Instrument]": [
+      "An LTQ-Orbitrap Velos mass spectrometer (Thermo Scientific, San Jose, CA, USA) interfaced with an UltiMate 3000 RSLCnano LC system (Thermo Scientific) was used for LC-MS/MS analysis."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent MS/MS mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "with HCD as fragmentation method"
+    ],
+    "Comment[Separation]": [
+      "UltiMate 3000 RSLCnano LC system"
+    ]
+  },
+  "S44.raw": {
+    "Source Name": [
+      "S44"
+    ],
+    "Assay Name": [
+      "S44_LC-MS/MS"
+    ],
+    "Raw Data File": [
+      "S44.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "Stool samples",
+      "two equal stool portions (weighing approximately 250 mg each) were collected"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "15 healthy Sardinian volunteers"
+    ],
+    "Characteristics[Sex]": [
+      "(8 females and 7 males)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "gut microbiota (GM)"
+    ],
+    "Characteristics[Age]": [
+      "the median age of the studied subjects at the time of sampling was 39 years (range 22–48)"
+    ],
+    "Characteristics[BMI]": [
+      "median body mass index (BMI) value was 23.2 (range 18.4–31.2)"
+    ],
+    "Comment[Instrument]": [
+      "An LTQ-Orbitrap Velos mass spectrometer (Thermo Scientific, San Jose, CA, USA) interfaced with an UltiMate 3000 RSLCnano LC system (Thermo Scientific) was used for LC-MS/MS analysis."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent MS/MS mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "with HCD as fragmentation method"
+    ],
+    "Comment[Separation]": [
+      "UltiMate 3000 RSLCnano LC system"
+    ]
+  },
+  "S65.raw": {
+    "Source Name": [
+      "S65"
+    ],
+    "Assay Name": [
+      "S65_LC-MS/MS"
+    ],
+    "Raw Data File": [
+      "S65.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "Stool samples",
+      "two equal stool portions (weighing approximately 250 mg each) were collected"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "15 healthy Sardinian volunteers"
+    ],
+    "Characteristics[Sex]": [
+      "(8 females and 7 males)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "gut microbiota (GM)"
+    ],
+    "Characteristics[Age]": [
+      "the median age of the studied subjects at the time of sampling was 39 years (range 22–48)"
+    ],
+    "Characteristics[BMI]": [
+      "median body mass index (BMI) value was 23.2 (range 18.4–31.2)"
+    ],
+    "Comment[Instrument]": [
+      "An LTQ-Orbitrap Velos mass spectrometer (Thermo Scientific, San Jose, CA, USA) interfaced with an UltiMate 3000 RSLCnano LC system (Thermo Scientific) was used for LC-MS/MS analysis."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent MS/MS mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "with HCD as fragmentation method"
+    ],
+    "Comment[Separation]": [
+      "UltiMate 3000 RSLCnano LC system"
+    ]
+  },
+  "S6.raw": {
+    "Source Name": [
+      "S6"
+    ],
+    "Assay Name": [
+      "S6_LC-MS/MS"
+    ],
+    "Raw Data File": [
+      "S6.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "Stool samples",
+      "two equal stool portions (weighing approximately 250 mg each) were collected"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "15 healthy Sardinian volunteers"
+    ],
+    "Characteristics[Sex]": [
+      "(8 females and 7 males)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "gut microbiota (GM)"
+    ],
+    "Characteristics[Age]": [
+      "the median age of the studied subjects at the time of sampling was 39 years (range 22–48)"
+    ],
+    "Characteristics[BMI]": [
+      "median body mass index (BMI) value was 23.2 (range 18.4–31.2)"
+    ],
+    "Comment[Instrument]": [
+      "An LTQ-Orbitrap Velos mass spectrometer (Thermo Scientific, San Jose, CA, USA) interfaced with an UltiMate 3000 RSLCnano LC system (Thermo Scientific) was used for LC-MS/MS analysis."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent MS/MS mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "with HCD as fragmentation method"
+    ],
+    "Comment[Separation]": [
+      "UltiMate 3000 RSLCnano LC system"
+    ]
+  },
+  "S13.raw": {
+    "Source Name": [
+      "S13"
+    ],
+    "Assay Name": [
+      "S13_LC-MS/MS"
+    ],
+    "Raw Data File": [
+      "S13.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "Stool samples",
+      "two equal stool portions (weighing approximately 250 mg each) were collected"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "15 healthy Sardinian volunteers"
+    ],
+    "Characteristics[Sex]": [
+      "(8 females and 7 males)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "gut microbiota (GM)"
+    ],
+    "Characteristics[Age]": [
+      "the median age of the studied subjects at the time of sampling was 39 years (range 22–48)"
+    ],
+    "Characteristics[BMI]": [
+      "median body mass index (BMI) value was 23.2 (range 18.4–31.2)"
+    ],
+    "Comment[Instrument]": [
+      "An LTQ-Orbitrap Velos mass spectrometer (Thermo Scientific, San Jose, CA, USA) interfaced with an UltiMate 3000 RSLCnano LC system (Thermo Scientific) was used for LC-MS/MS analysis."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent MS/MS mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "with HCD as fragmentation method"
+    ],
+    "Comment[Separation]": [
+      "UltiMate 3000 RSLCnano LC system"
+    ]
+  },
+  "S61.raw": {
+    "Source Name": [
+      "S61"
+    ],
+    "Assay Name": [
+      "S61_LC-MS/MS"
+    ],
+    "Raw Data File": [
+      "S61.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "Stool samples",
+      "two equal stool portions (weighing approximately 250 mg each) were collected"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "15 healthy Sardinian volunteers"
+    ],
+    "Characteristics[Sex]": [
+      "(8 females and 7 males)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "gut microbiota (GM)"
+    ],
+    "Characteristics[Age]": [
+      "the median age of the studied subjects at the time of sampling was 39 years (range 22–48)"
+    ],
+    "Characteristics[BMI]": [
+      "median body mass index (BMI) value was 23.2 (range 18.4–31.2)"
+    ],
+    "Comment[Instrument]": [
+      "An LTQ-Orbitrap Velos mass spectrometer (Thermo Scientific, San Jose, CA, USA) interfaced with an UltiMate 3000 RSLCnano LC system (Thermo Scientific) was used for LC-MS/MS analysis."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent MS/MS mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "with HCD as fragmentation method"
+    ],
+    "Comment[Separation]": [
+      "UltiMate 3000 RSLCnano LC system"
+    ]
+  },
+  "S23.raw": {
+    "Source Name": [
+      "S23"
+    ],
+    "Assay Name": [
+      "S23_LC-MS/MS"
+    ],
+    "Raw Data File": [
+      "S23.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "Stool samples",
+      "two equal stool portions (weighing approximately 250 mg each) were collected"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "15 healthy Sardinian volunteers"
+    ],
+    "Characteristics[Sex]": [
+      "(8 females and 7 males)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "gut microbiota (GM)"
+    ],
+    "Characteristics[Age]": [
+      "the median age of the studied subjects at the time of sampling was 39 years (range 22–48)"
+    ],
+    "Characteristics[BMI]": [
+      "median body mass index (BMI) value was 23.2 (range 18.4–31.2)"
+    ],
+    "Comment[Instrument]": [
+      "An LTQ-Orbitrap Velos mass spectrometer (Thermo Scientific, San Jose, CA, USA) interfaced with an UltiMate 3000 RSLCnano LC system (Thermo Scientific) was used for LC-MS/MS analysis."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent MS/MS mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "with HCD as fragmentation method"
+    ],
+    "Comment[Separation]": [
+      "UltiMate 3000 RSLCnano LC system"
+    ]
+  },
+  "S7.raw": {
+    "Source Name": [
+      "S7"
+    ],
+    "Assay Name": [
+      "S7_LC-MS/MS"
+    ],
+    "Raw Data File": [
+      "S7.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "Stool samples",
+      "two equal stool portions (weighing approximately 250 mg each) were collected"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "15 healthy Sardinian volunteers"
+    ],
+    "Characteristics[Sex]": [
+      "(8 females and 7 males)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "gut microbiota (GM)"
+    ],
+    "Characteristics[Age]": [
+      "the median age of the studied subjects at the time of sampling was 39 years (range 22–48)"
+    ],
+    "Characteristics[BMI]": [
+      "median body mass index (BMI) value was 23.2 (range 18.4–31.2)"
+    ],
+    "Comment[Instrument]": [
+      "An LTQ-Orbitrap Velos mass spectrometer (Thermo Scientific, San Jose, CA, USA) interfaced with an UltiMate 3000 RSLCnano LC system (Thermo Scientific) was used for LC-MS/MS analysis."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent MS/MS mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "with HCD as fragmentation method"
+    ],
+    "Comment[Separation]": [
+      "UltiMate 3000 RSLCnano LC system"
+    ]
+  },
+  "S27.raw": {
+    "Source Name": [
+      "S27"
+    ],
+    "Assay Name": [
+      "S27_LC-MS/MS"
+    ],
+    "Raw Data File": [
+      "S27.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "Stool samples",
+      "two equal stool portions (weighing approximately 250 mg each) were collected"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "15 healthy Sardinian volunteers"
+    ],
+    "Characteristics[Sex]": [
+      "(8 females and 7 males)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "gut microbiota (GM)"
+    ],
+    "Characteristics[Age]": [
+      "the median age of the studied subjects at the time of sampling was 39 years (range 22–48)"
+    ],
+    "Characteristics[BMI]": [
+      "median body mass index (BMI) value was 23.2 (range 18.4–31.2)"
+    ],
+    "Comment[Instrument]": [
+      "An LTQ-Orbitrap Velos mass spectrometer (Thermo Scientific, San Jose, CA, USA) interfaced with an UltiMate 3000 RSLCnano LC system (Thermo Scientific) was used for LC-MS/MS analysis."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent MS/MS mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "with HCD as fragmentation method"
+    ],
+    "Comment[Separation]": [
+      "UltiMate 3000 RSLCnano LC system"
+    ]
+  },
+  "S34.raw": {
+    "Source Name": [
+      "S34"
+    ],
+    "Assay Name": [
+      "S34_LC-MS/MS"
+    ],
+    "Raw Data File": [
+      "S34.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "Stool samples",
+      "two equal stool portions (weighing approximately 250 mg each) were collected"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "15 healthy Sardinian volunteers"
+    ],
+    "Characteristics[Sex]": [
+      "(8 females and 7 males)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "gut microbiota (GM)"
+    ],
+    "Characteristics[Age]": [
+      "the median age of the studied subjects at the time of sampling was 39 years (range 22–48)"
+    ],
+    "Characteristics[BMI]": [
+      "median body mass index (BMI) value was 23.2 (range 18.4–31.2)"
+    ],
+    "Comment[Instrument]": [
+      "An LTQ-Orbitrap Velos mass spectrometer (Thermo Scientific, San Jose, CA, USA) interfaced with an UltiMate 3000 RSLCnano LC system (Thermo Scientific) was used for LC-MS/MS analysis."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent MS/MS mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "with HCD as fragmentation method"
+    ],
+    "Comment[Separation]": [
+      "UltiMate 3000 RSLCnano LC system"
+    ]
+  },
+  "S36.raw": {
+    "Source Name": [
+      "S36"
+    ],
+    "Assay Name": [
+      "S36_LC-MS/MS"
+    ],
+    "Raw Data File": [
+      "S36.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "Stool samples",
+      "two equal stool portions (weighing approximately 250 mg each) were collected"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "15 healthy Sardinian volunteers"
+    ],
+    "Characteristics[Sex]": [
+      "(8 females and 7 males)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "gut microbiota (GM)"
+    ],
+    "Characteristics[Age]": [
+      "the median age of the studied subjects at the time of sampling was 39 years (range 22–48)"
+    ],
+    "Characteristics[BMI]": [
+      "median body mass index (BMI) value was 23.2 (range 18.4–31.2)"
+    ],
+    "Comment[Instrument]": [
+      "An LTQ-Orbitrap Velos mass spectrometer (Thermo Scientific, San Jose, CA, USA) interfaced with an UltiMate 3000 RSLCnano LC system (Thermo Scientific) was used for LC-MS/MS analysis."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent MS/MS mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "with HCD as fragmentation method"
+    ],
+    "Comment[Separation]": [
+      "UltiMate 3000 RSLCnano LC system"
+    ]
+  },
+  "S72.raw": {
+    "Source Name": [
+      "S72"
+    ],
+    "Assay Name": [
+      "S72_LC-MS/MS"
+    ],
+    "Raw Data File": [
+      "S72.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "Stool samples",
+      "two equal stool portions (weighing approximately 250 mg each) were collected"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "15 healthy Sardinian volunteers"
+    ],
+    "Characteristics[Sex]": [
+      "(8 females and 7 males)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "gut microbiota (GM)"
+    ],
+    "Characteristics[Age]": [
+      "the median age of the studied subjects at the time of sampling was 39 years (range 22–48)"
+    ],
+    "Characteristics[BMI]": [
+      "median body mass index (BMI) value was 23.2 (range 18.4–31.2)"
+    ],
+    "Comment[Instrument]": [
+      "An LTQ-Orbitrap Velos mass spectrometer (Thermo Scientific, San Jose, CA, USA) interfaced with an UltiMate 3000 RSLCnano LC system (Thermo Scientific) was used for LC-MS/MS analysis."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent MS/MS mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "with HCD as fragmentation method"
+    ],
+    "Comment[Separation]": [
+      "UltiMate 3000 RSLCnano LC system"
+    ]
+  },
+  "S25.raw": {
+    "Source Name": [
+      "S25"
+    ],
+    "Assay Name": [
+      "S25_LC-MS/MS"
+    ],
+    "Raw Data File": [
+      "S25.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "Stool samples",
+      "two equal stool portions (weighing approximately 250 mg each) were collected"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "15 healthy Sardinian volunteers"
+    ],
+    "Characteristics[Sex]": [
+      "(8 females and 7 males)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "gut microbiota (GM)"
+    ],
+    "Characteristics[Age]": [
+      "the median age of the studied subjects at the time of sampling was 39 years (range 22–48)"
+    ],
+    "Characteristics[BMI]": [
+      "median body mass index (BMI) value was 23.2 (range 18.4–31.2)"
+    ],
+    "Comment[Instrument]": [
+      "An LTQ-Orbitrap Velos mass spectrometer (Thermo Scientific, San Jose, CA, USA) interfaced with an UltiMate 3000 RSLCnano LC system (Thermo Scientific) was used for LC-MS/MS analysis."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent MS/MS mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "with HCD as fragmentation method"
+    ],
+    "Comment[Separation]": [
+      "UltiMate 3000 RSLCnano LC system"
+    ]
+  },
+  "S51.raw": {
+    "Source Name": [
+      "S51"
+    ],
+    "Assay Name": [
+      "S51_LC-MS/MS"
+    ],
+    "Raw Data File": [
+      "S51.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "Stool samples",
+      "two equal stool portions (weighing approximately 250 mg each) were collected"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "15 healthy Sardinian volunteers"
+    ],
+    "Characteristics[Sex]": [
+      "(8 females and 7 males)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "gut microbiota (GM)"
+    ],
+    "Characteristics[Age]": [
+      "the median age of the studied subjects at the time of sampling was 39 years (range 22–48)"
+    ],
+    "Characteristics[BMI]": [
+      "median body mass index (BMI) value was 23.2 (range 18.4–31.2)"
+    ],
+    "Comment[Instrument]": [
+      "An LTQ-Orbitrap Velos mass spectrometer (Thermo Scientific, San Jose, CA, USA) interfaced with an UltiMate 3000 RSLCnano LC system (Thermo Scientific) was used for LC-MS/MS analysis."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent MS/MS mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "with HCD as fragmentation method"
+    ],
+    "Comment[Separation]": [
+      "UltiMate 3000 RSLCnano LC system"
+    ]
+  }
+}

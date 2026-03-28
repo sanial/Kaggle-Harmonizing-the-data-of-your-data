@@ -1,0 +1,35 @@
+Organism: Human  
+OrganismPart: Heart Samples  
+Organism: human  
+OrganismPart: heart biopsies  
+OrganismPart: right atria  
+OrganismPart: left atria  
+OrganismPart: left ventricle  
+NumberOfSamples: seven  
+Sex: male  
+Disease: mitral valve regurgitation  
+NumberOfSamples: three  
+NumberOfBiologicalReplicates: seven  
+NumberOfSamples: 21 samples  
+NumberOfFractions: 12  
+NumberOfTechnicalReplicates: No technical replicates were performed  
+SampleTreatment: snap-frozen immediately after collection  
+SampleTreatment: snap-frozen in a container with liquid nitrogen while still in the operating room  
+SampleTreatment: detergent-based solubilization  
+Instrument: Precellys24 homogenizer  
+ReductionReagent: Tris(2-carboxyethyl)phosphine (TCEP)  
+AlkylationReagent: chloroacetamide (CAA)  
+CleavageAgent: endoproteinase Lys-C  
+CleavageAgent: trypsin  
+Time: 1.5 h  
+Temperature: 30 °C  
+Time: 14h  
+Temperature: 37 °C  
+FractionationMethod: micro-flow reverse-phase ultrahigh pressure liquid chromatography  
+FlowRateChromatogram: 30 μl/min  
+FractionationFraction: 12 concatenated fractions  
+Separation: reversed-phase liquid chromatography  
+Instrument: Q-Exactive HF quadrupole Orbitrap tandem mass spectrometer  
+IonizationType: nano-electrospray ionization  
+FragmentationMethod: higher-energy collisional dissociation  
+AcquisitionMethod: data-dependent Top12

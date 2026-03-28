@@ -1,0 +1,21 @@
+AcquisitionMethod: label-free HPLC-tandem mass spectrometry  
+AcquisitionMethod: Reverse phase LC-MS/MS  
+AcquisitionMethod: Targeted MS analysis with selective reaction monitoring  
+OrganismPart: left posterior inferior cerebellar hemispheric cortex (CB)  
+OrganismPart: BA19 (occipital) cortex  
+Disease: Autism Spectrum Disorder (ASD)  
+SourceName: Autism Tissue Program  
+SourceName: Harvard Brain Tissue Resource Center  
+SourceName: National Institute for Child Health and Human Development Brain and Tissue Bank  
+NumberOfBiologicalReplicates: 9 ASD and 9 control subjects for CB  
+NumberOfBiologicalReplicates: 7 ASD and 6 control subjects for BA19  
+CleavageAgent: LysC  
+CleavageAgent: trypsin  
+Temperature: 37 °C  
+GradientTime: 210 min  
+PrecursorMassTolerance: 25 ppm  
+FragmentMassTolerance: 0.8 Da  
+Modification: carbamidomethlylation of cysteines  
+Modification: oxidation of methionine  
+NumberOfMissedCleavages: one missed cleavage  
+MaterialType: brain homogenate sample

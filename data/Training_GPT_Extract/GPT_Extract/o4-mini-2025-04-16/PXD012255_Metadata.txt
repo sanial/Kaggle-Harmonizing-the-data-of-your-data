@@ -1,0 +1,89 @@
+AssayName: Capillary zone electrophoresis-tandem mass spectrometry  
+CellLine: HCT116 cell line  
+AssayName: CZE-MS/MS  
+AssayName: LC-MS/MS  
+FractionationMethod: SCX-RPLC  
+CleavageAgent: trypsin  
+EnrichmentMethod: phosphopeptide enrichment using TiO2 beads  
+NumberOfFractions: 40  
+SourceName: Sigma-Aldrich (St. Louis, MO)  
+SourceName: Fisher Scientific (Pittsburgh, PA)  
+SourceName: Acros Organics (NJ, USA)  
+SourceName: Polymicro Technologies (Phoenix, AZ)  
+CellLine: HCT 116  
+SourceName: American Type Culture Collection (ATCC)  
+MaterialType: RPMI 1640 cell culture medium  
+Compound: fetal bovine serum (FBS)  
+ConcentrationOfCompound: 10% fetal bovine serum (FBS)  
+Compound: urea  
+ConcentrationOfCompound: 8 M urea  
+Compound: NaCI  
+ConcentrationOfCompound: 75 mM NaCI  
+Compound: Tris-HCI (pH 8.2)  
+ConcentrationOfCompound: 50 mM Tris-HCI (pH 8.2)  
+Compound: sodium pyrophosphate  
+ConcentrationOfCompound: 10 mM sodium pyrophosphate  
+Compound: PMSF  
+ConcentrationOfCompound: 1 mM PMSF  
+Compound: Na3VO4  
+ConcentrationOfCompound: 1 mM Na3VO4  
+Compound: NaF  
+ConcentrationOfCompound: 1 mM NaF  
+Compound: β-glycerophosphate  
+ConcentrationOfCompound: 1 mM β-glycerophosphate  
+Compound: EDTA-free protease inhibitor cocktail  
+Temperature: 37 °C  
+Time: 1 h  
+Compound: Dithiothreitol (DTT)  
+ConcentrationOfCompound: 5 mM Dithiothreitol (DTT)  
+Compound: iodoacetamide (IAA)  
+ConcentrationOfCompound: 14 mM iodoacetamide (IAA)  
+Time: 30 min  
+Temperature: room temperature  
+ConcentrationOfCompound: 5 mM Dithiothreitol (DTT)  
+Time: 25 min  
+ConcentrationOfCompound: 25 mM Tris-HCI buffer (pH 8.2)  
+Compound: CaCl2  
+ConcentrationOfCompound: 1 mM CaCl2  
+CleavageAgent: Trypsin  
+Time: overnight  
+Temperature: 37 °C  
+EnrichmentMethod: enriched with TiO2 beads  
+FactorValue: 1:4 peptides to beads ratio  
+FractionationMethod: SCX-RPLC online fractionation  
+MaterialType: 4.6 mm i.d. × 12.5 mm length SCX trap column (Zorbax 300SCX, Agilent Technologies)  
+MaterialType: 2.1 mm i.d. × 150 mm length C18 RP column (Zorbax 300Extend-C18, Agilent Technologies)  
+Instrument: Agilent Infinity II HPLC system  
+Compound: formic acid (FA)  
+ConcentrationOfCompound: 0.1% formic acid (FA) in water  
+ConcentrationOfCompound: 0.1% FA in acetonitrile (ACN)  
+Compound: ammonium acetate solution  
+ConcentrationOfCompound: 890 mM ammonium acetate solution (pH = 2.88)  
+FlowRateChromatogram: 0.3 mL/min  
+Time: 20 min  
+ConcentrationOfCompound: 150 mM ammonium acetate solution  
+ConcentrationOfCompound: 890 mM ammonium acetate solution  
+FlowRateChromatogram: 0.3 mL/min  
+Time: 70 min  
+GradientTime: 0–5 min, 2%B; 5–7 min, 2–8% B; 7–47 min, 8–40% B; 47–49 min, 40–80%; 49–59 min, 80% B; 59–60 min, 80–2% B; 60–70 min, 2%B  
+Instrument: ECE-001 CE autosampler (CMP Scientific, Brooklyn, NY)  
+Instrument: Q-Exactive HF mass spectrometer (Thermo Fisher Scientific)  
+Instrument: EMASS-II CE-MS interface (CMP Scientific)  
+MaterialType: 95-cm long fused silica capillary (50 µm i.d., 360 µm o.d.)  
+MaterialType: linear polyacrylamide (LPA)  
+Compound: hydrofluoric acid  
+Compound: acetic acid (AA)  
+ConcentrationOfCompound: 5% (v/v) acetic acid (AA) (pH 2.4)  
+Compound: methanol  
+ConcentrationOfCompound: 10% (v/v) methanol  
+ConcentrationOfCompound: 0.2% (v/v) FA in water  
+IonizationType: electrospray ionization  
+AcquisitionMethod: data-dependent acquisition  
+CollisionEnergy: 28% normalized collision energy  
+NumberOfMissedCleavages: 2  
+PrecursorMassTolerance: 20 ppm  
+FragmentMassTolerance: 0.05 Da  
+Modification: oxidation (methionine)  
+Modification: phosphorylation (serine, threonine and tyrosine)  
+Modification: acetylation at the protein N-terminal  
+Modification: carbamidomethylation (cysteine)

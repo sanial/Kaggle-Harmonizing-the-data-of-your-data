@@ -1,0 +1,48 @@
+Instrument: Miltenyi gentleMACs Dissociator (Miltenyi Biotech, Bergisch Gladbach, Germany)
+Instrument: NanoSight NS300 (Malvern, UK)
+Instrument: JEOL1400 Plus transmission electron microscope
+Instrument: Orbitrap Elite Hybrid Mass Spectrometer
+Instrument: QExactivePlus (Thermo Fisher Scientific, Bremen, Germany)
+Instrument: Thermo Ultimate 3000 RSLCnano HPLC systems
+Instrument: ImageStream MKII imaging flow cytometer (Amnis)
+Instrument: Luminex xPONENT technology (Luminex, Austin, TX, USA)
+Instrument: ABI ViiA7
+Instrument: CyTOF instrument (Fluidigm)
+CellLine: SKMEL28 (HTB-72)
+CellLine: A375 (CRL-1619)
+CellLine: C32TG (CRL-1579)
+CellLine: primary adult epidermal melanocytes (PCS-200-013)
+SourceName: peripheral blood mononuclear cells (PBMCs)
+SourceName: lymph node specimens
+SourceName: proximal afferent lymphatic channels
+SourceName: single-cell suspensions of fresh SLN tissue
+MaterialType: extracellular vesicles (EVs)
+MaterialType: lymphatic EVs
+AssayName: nanoparticle tracking analysis (NTA)
+Separation: Total Exosome Isolation Reagent
+Separation: membrane-affinity spin columns
+Separation: ultrafiltration on 100-K filters
+CellType: CD14+ monocytes
+Compound: GM-CSF
+ConcentrationOfCompound: 10 ng/mL GM-CSF
+Compound: IL-4
+ConcentrationOfCompound: 1 ng/mL IL-4
+Compound: CD40L
+ConcentrationOfCompound: 100 ng/mL CD40L
+Compound: IL-2
+ConcentrationOfCompound: 20 IU/mL IL-2
+Time: 48–96 h
+Time: 5 days
+Time: 2 days
+CleavageAgent: trypsin
+ReductionReagent: 50 mM TCEP
+AlkylationReagent: 20 mM idoacetamide
+FlowRateChromatogram: 325 nL/min
+PrecursorMassTolerance: 10.0 PPM
+FragmentMassTolerance: 0.60 Da
+FragmentMassTolerance: 0.02 Da
+FragmentationMethod: CID
+FragmentationMethod: HCD
+MS2MassAnalyzer: linear ion trap
+Temperature: 37°C
+Temperature: ambient temperatures

@@ -1,0 +1,41 @@
+AssayName: Comparative Proteomic Analysis of Eleven Common Cell Lines  
+AssayName: Mass spectrometry-based proteomics  
+Instrument: LTQ-Orbitrap family mass spectrometer  
+MS2MassAnalyzer: “high field” Orbitrap mass analyzer  
+CellLine: A549  
+CellLine: GAMG  
+CellLine: HEK293  
+CellLine: HeLa  
+CellLine: HepG2  
+CellLine: K562  
+CellLine: MCF7  
+CellLine: RKO  
+CellLine: U2OS  
+CellLine: LnCap  
+CellLine: Jurkat  
+MaterialType: Dulbecco's modified Eagle's medium  
+MaterialType: RPMI  
+MaterialType: liquid nitrogen  
+Temperature: −80 °C  
+ReductionReagent: dithiothreitol  
+ConcentrationOfCompound: 0.1 m dithiothreitol  
+ConcentrationOfCompound: 4% SDS  
+Temperature: 95 °C  
+Time: 5 min  
+CleavageAgent: trypsin  
+EnrichmentMethod: strong anion exchange  
+NumberOfFractions: six fractions  
+MaterialType: C18 StageTips  
+Instrument: Easy nanoLC  
+Instrument: LTQ-Orbitrap Velos mass spectrometer  
+Separation: reverse-phase chromatography  
+MaterialType: ReproSil-Pur C18-AQ media  
+ConcentrationOfCompound: 0.5% acetic acid  
+ConcentrationOfCompound: 80% acetonitrile  
+GradientTime: 200 min  
+ConcentrationOfCompound: 90% buffer B  
+AcquisitionMethod: top 10 method  
+FragmentationMethod: HCD  
+MS2MassAnalyzer: Orbitrap analyzer  
+Label: Lys8  
+Label: Arg10

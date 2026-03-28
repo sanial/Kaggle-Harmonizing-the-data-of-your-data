@@ -1,0 +1,26 @@
+Organism: human  
+OrganismPart: cerebrospinal fluid (CSF)  
+OrganismPart: plasma  
+AssayName: Orbitrap LC-MS/MS  
+FractionationMethod: SDS-PAGE  
+FractionationMethod: mixed mode reversed phase-anion exchange  
+FractionationMethod: mixed mode reversed phase-anion exchange (MM RP-AX) HPLC  
+EnrichmentMethod: hydrazide-based glycopeptide capture  
+EnrichmentMethod: solid-phase extraction of N-linked glycopeptides (SPEG)  
+PooledSample: Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool  
+PooledSample: A similar pool was generated for the plasma samples from 20 of the patients, as plasma from one patient could not be obtained  
+SourceName: K2 EDTA tubes  
+ReductionReagent: 10 mm DTT  
+ReductionReagent: 120 mm Tris(2-carboxyethyl)phosphine (TCEP)  
+AlkylationReagent: 20 mm iodoacetamine (IAA)  
+CleavageAgent: trypsin  
+Temperature: room temperature  
+Temperature: 37 °C  
+Time: overnight  
+Time: 25 min  
+Instrument: LTQ Orbitrap Velos Pro mass spectrometer  
+IonizationType: nano spray Flex ion source  
+FlowRateChromatogram: 5 μl/min  
+FlowRateChromatogram: 280 nl/min  
+GradientTime: 0–61.5 min ramp from 8–38% B  
+Staining: Coomassie Brilliant Blue

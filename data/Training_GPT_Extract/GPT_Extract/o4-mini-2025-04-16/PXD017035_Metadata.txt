@@ -1,0 +1,36 @@
+Organism: Anaerostipes caccae (DSMZ 14662)  
+Organism: Bacteroides thetaiotaomicron (DSMZ 2079)  
+Organism: Bifidobacterium longum (NCC 2705)  
+Organism: Blautia producta (DSMZ 2950)  
+Organism: Clostridium butyricum (DSMZ 10702)  
+Organism: Clostridium ramosum (DSMZ 1402)  
+Organism: Escherichia coli K-12 (MG1655)  
+Organism: Lactobacillus plantarum (DSMZ 20174)  
+AssayName: flow cytometric fingerprinting  
+AssayName: metaproteomics  
+AssayName: metabolomics  
+AssayName: bicinchoninic acid assay  
+Instrument: Multi-Sizer 3 (Beckman Coulter, Brea, United States)  
+Instrument: FastPrep-24 (MP Biomedicals, Sanra Ana, CA, USA)  
+Instrument: Thermomixer comfort 5355 (Eppendorf, Hamburg, Germany)  
+Instrument: UP50H (Hielscher, Teltow, Germany)  
+Instrument: UltiMate 3000 RSLCnano (Dionex, Thermo Fisher Scientific, Waltham, MA, USA)  
+Instrument: Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)  
+Instrument: TriVersa NanoMate (Advion, Ltd., Harlow, UK)  
+Instrument: QTRAP®5500 (AB Sciex, Framingham, MA, USA)  
+Separation: C18 PepMap100, 300 µm × 5 mm, particle size 5 µm, nano viper, Thermo Fisher Scientific, Waltham, MA, USA  
+Separation: Acclaim PepMap® 100, 75 µm × 25 cm, particle size 3 µm, nanoViper, Thermo Fisher Scientific, Waltham, MA, USA  
+Separation: Acquity UPLC BEH C18 column (1.7 µm, Waters, Eschborn, Germany)  
+CleavageAgent: Trypsin (Full)  
+PrecursorMassTolerance: 10 ppm  
+FragmentMassTolerance: 0.02 Da  
+NumberOfMissedCleavages: 2  
+Compound: 3-nitrophenylhydrazine  
+Compound: N-(3-dimethylaminopropyl)-N′-ethylcarbodiimide hydrochloride  
+Compound: acetonitrile  
+Compound: pyridine  
+Compound: formic acid  
+ConcentrationOfCompound: 0.01% formic acid  
+ConcentrationOfCompound: 0.01% acetonitrile  
+FlowRateChromatogram: 0.35 mL/min  
+Temperature: 40 °C

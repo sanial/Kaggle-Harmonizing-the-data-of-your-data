@@ -1,0 +1,3278 @@
+{
+  "20160715_QE5_nLC7_NL_Human_Heart_141_Right_Atrium_Frac12.raw": {
+    "Source Name": [
+      "Human_Heart_141_Right_Atrium"
+    ],
+    "Assay Name": [
+      "Human_Heart_141_Right_Atrium_Frac12"
+    ],
+    "Raw Data File": [
+      "20160715_QE5_nLC7_NL_Human_Heart_141_Right_Atrium_Frac12.raw"
+    ],
+    "FactorValue[OrganismPart]": [
+      "Right_Atrium"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Frac12"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive HF quadrupole Orbitrap tandem mass spectrometer (LC-MS/MS, Thermo Electron, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent Top12 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "nano-electrospray ionization source operated in positive ionization mode"
+    ],
+    "Comment[Separation]": [
+      "online reversed-phase liquid chromatography"
+    ],
+    "Comment[GradientTime]": [
+      "1 h multi-step linear gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μl/min flow rate"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated by micro-flow reverse-phase ultrahigh pressure liquid chromatograpy (UPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mm chloroacetamide (CAA)"
+    ],
+    "Characteristics[Organism]": [
+      "human heart biopsies"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "seven biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "21 samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "snap-frozen immediately after collection."
+    ],
+    "Characteristics[Sex]": [
+      "All seven patients were male"
+    ],
+    "Characteristics[Age]": [
+      "middle aged (average 50 years)"
+    ],
+    "Characteristics[BMI]": [
+      "average BMI 23.6"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160715_QE5_nLC7_NL_Human_Heart_148_Left_Ventricle_Frac08.raw": {
+    "Source Name": [
+      "Human_Heart_148_Left_Ventricle"
+    ],
+    "Assay Name": [
+      "Human_Heart_148_Left_Ventricle_Frac08"
+    ],
+    "Raw Data File": [
+      "20160715_QE5_nLC7_NL_Human_Heart_148_Left_Ventricle_Frac08.raw"
+    ],
+    "FactorValue[OrganismPart]": [
+      "Left_Ventricle"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Frac08"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive HF quadrupole Orbitrap tandem mass spectrometer (LC-MS/MS, Thermo Electron, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent Top12 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "nano-electrospray ionization source operated in positive ionization mode"
+    ],
+    "Comment[Separation]": [
+      "online reversed-phase liquid chromatography"
+    ],
+    "Comment[GradientTime]": [
+      "1 h multi-step linear gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μl/min flow rate"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated by micro-flow reverse-phase ultrahigh pressure liquid chromatograpy (UPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mm chloroacetamide (CAA)"
+    ],
+    "Characteristics[Organism]": [
+      "human heart biopsies"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "seven biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "21 samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "snap-frozen immediately after collection."
+    ],
+    "Characteristics[Sex]": [
+      "All seven patients were male"
+    ],
+    "Characteristics[Age]": [
+      "middle aged (average 50 years)"
+    ],
+    "Characteristics[BMI]": [
+      "average BMI 23.6"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160715_QE5_nLC7_NL_Human_Heart_145_Left_Atrium_Frac09.raw": {
+    "Source Name": [
+      "Human_Heart_145_Left_Atrium"
+    ],
+    "Assay Name": [
+      "Human_Heart_145_Left_Atrium_Frac09"
+    ],
+    "Raw Data File": [
+      "20160715_QE5_nLC7_NL_Human_Heart_145_Left_Atrium_Frac09.raw"
+    ],
+    "FactorValue[OrganismPart]": [
+      "Left_Atrium"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Frac09"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive HF quadrupole Orbitrap tandem mass spectrometer (LC-MS/MS, Thermo Electron, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent Top12 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "nano-electrospray ionization source operated in positive ionization mode"
+    ],
+    "Comment[Separation]": [
+      "online reversed-phase liquid chromatography"
+    ],
+    "Comment[GradientTime]": [
+      "1 h multi-step linear gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μl/min flow rate"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated by micro-flow reverse-phase ultrahigh pressure liquid chromatograpy (UPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mm chloroacetamide (CAA)"
+    ],
+    "Characteristics[Organism]": [
+      "human heart biopsies"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "seven biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "21 samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "snap-frozen immediately after collection."
+    ],
+    "Characteristics[Sex]": [
+      "All seven patients were male"
+    ],
+    "Characteristics[Age]": [
+      "middle aged (average 50 years)"
+    ],
+    "Characteristics[BMI]": [
+      "average BMI 23.6"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160715_QE5_nLC7_NL_Human_Heart_119_Left_Atrium_Frac08.raw": {
+    "Source Name": [
+      "Human_Heart_119_Left_Atrium"
+    ],
+    "Assay Name": [
+      "Human_Heart_119_Left_Atrium_Frac08"
+    ],
+    "Raw Data File": [
+      "20160715_QE5_nLC7_NL_Human_Heart_119_Left_Atrium_Frac08.raw"
+    ],
+    "FactorValue[OrganismPart]": [
+      "Left_Atrium"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Frac08"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive HF quadrupole Orbitrap tandem mass spectrometer (LC-MS/MS, Thermo Electron, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent Top12 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "nano-electrospray ionization source operated in positive ionization mode"
+    ],
+       "Comment[Separation]": [
+      "online reversed-phase liquid chromatography"
+    ],
+    "Comment[GradientTime]": [
+      "1 h multi-step linear gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μl/min flow rate"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated by micro-flow reverse-phase ultrahigh pressure liquid chromatograpy (UPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mm chloroacetamide (CAA)"
+    ],
+    "Characteristics[Organism]": [
+      "human heart biopsies"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "seven biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "21 samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "snap-frozen immediately after collection."
+    ],
+    "Characteristics[Sex]": [
+      "All seven patients were male"
+    ],
+    "Characteristics[Age]": [
+      "middle aged (average 50 years)"
+    ],
+    "Characteristics[BMI]": [
+      "average BMI 23.6"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160715_QE5_nLC7_NL_Human_Heart_117_Right_Atrium_Frac03.raw": {
+    "Source Name": [
+      "Human_Heart_117_Right_Atrium"
+    ],
+    "Assay Name": [
+      "Human_Heart_117_Right_Atrium_Frac03"
+    ],
+    "Raw Data File": [
+      "20160715_QE5_nLC7_NL_Human_Heart_117_Right_Atrium_Frac03.raw"
+    ],
+    "FactorValue[OrganismPart]": [
+      "Right_Atrium"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Frac03"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive HF quadrupole Orbitrap tandem mass spectrometer (LC-MS/MS, Thermo Electron, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent Top12 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "nano-electrospray ionization source operated in positive ionization mode"
+    ],
+    "Comment[Separation]": [
+      "online reversed-phase liquid chromatography"
+    ],
+    "Comment[GradientTime]": [
+      "1 h multi-step linear gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μl/min flow rate"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated by micro-flow reverse-phase ultrahigh pressure liquid chromatograpy (UPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mm chloroacetamide (CAA)"
+    ],
+    "Characteristics[Organism]": [
+      "human heart biopsies"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "seven biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "21 samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "snap-frozen immediately after collection."
+    ],
+    "Characteristics[Sex]": [
+      "All seven patients were male"
+    ],
+    "Characteristics[Age]": [
+      "middle aged (average 50 years)"
+    ],
+    "Characteristics[BMI]": [
+      "average BMI 23.6"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160715_QE5_nLC7_NL_Human_Heart_113_Left_Atrium_Frac10.raw": {
+    "Source Name": [
+      "Human_Heart_113_Left_Atrium"
+    ],
+    "Assay Name": [
+      "Human_Heart_113_Left_Atrium_Frac10"
+    ],
+    "Raw Data File": [
+      "20160715_QE5_nLC7_NL_Human_Heart_113_Left_Atrium_Frac10.raw"
+    ],
+    "FactorValue[OrganismPart]": [
+      "Left_Atrium"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Frac10"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive HF quadrupole Orbitrap tandem mass spectrometer (LC-MS/MS, Thermo Electron, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent Top12 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "nano-electrospray ionization source operated in positive ionization mode"
+    ],
+    "Comment[Separation]": [
+      "online reversed-phase liquid chromatography"
+    ],
+    "Comment[GradientTime]": [
+      "1 h multi-step linear gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μl/min flow rate"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated by micro-flow reverse-phase ultrahigh pressure liquid chromatograpy (UPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mm chloroacetamide (CAA)"
+    ],
+    "Characteristics[Organism]": [
+      "human heart biopsies"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "seven biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "21 samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "snap-frozen immediately after collection."
+    ],
+    "Characteristics[Sex]": [
+      "All seven patients were male"
+    ],
+    "Characteristics[Age]": [
+      "middle aged (average 50 years)"
+    ],
+    "Characteristics[BMI]": [
+      "average BMI 23.6"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160715_QE5_nLC7_NL_Human_Heart_119_Right_Atrium_Frac12.raw": {
+    "Source Name": [
+      "Human_Heart_119_Right_Atrium"
+    ],
+    "Assay Name": [
+      "Human_Heart_119_Right_Atrium_Frac12"
+    ],
+    "Raw Data File": [
+      "20160715_QE5_nLC7_NL_Human_Heart_119_Right_Atrium_Frac12.raw"
+    ],
+    "FactorValue[OrganismPart]": [
+      "Right_Atrium"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Frac12"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive HF quadrupole Orbitrap tandem mass spectrometer (LC-MS/MS, Thermo Electron, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent Top12 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "nano-electrospray ionization source operated in positive ionization mode"
+    ],
+    "Comment[Separation]": [
+      "online reversed-phase liquid chromatography"
+    ],
+    "Comment[GradientTime]": [
+      "1 h multi-step linear gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μl/min flow rate"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated by micro-flow reverse-phase ultrahigh pressure liquid chromatograpy (UPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mm chloroacetamide (CAA)"
+    ],
+    "Characteristics[Organism]": [
+      "human heart biopsies"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "seven biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "21 samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "snap-frozen immediately after collection."
+    ],
+    "Characteristics[Sex]": [
+      "All seven patients were male"
+    ],
+    "Characteristics[Age]": [
+      "middle aged (average 50 years)"
+    ],
+    "Characteristics[BMI]": [
+      "average BMI 23.6"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160715_QE5_nLC7_NL_Human_Heart_145_Left_Ventricle_Frac05.raw": {
+    "Source Name": [
+      "Human_Heart_145_Left_Ventricle"
+    ],
+    "Assay Name": [
+      "Human_Heart_145_Left_Ventricle_Frac05"
+    ],
+    "Raw Data File": [
+      "20160715_QE5_nLC7_NL_Human_Heart_145_Left_Ventricle_Frac05.raw"
+    ],
+    "FactorValue[OrganismPart]": [
+      "Left_Ventricle"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Frac05"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive HF quadrupole Orbitrap tandem mass spectrometer (LC-MS/MS, Thermo Electron, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent Top12 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "nano-electrospray ionization source operated in positive ionization mode"
+    ],
+       "Comment[Separation]": [
+      "online reversed-phase liquid chromatography"
+    ],
+    "Comment[GradientTime]": [
+      "1 h multi-step linear gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μl/min flow rate"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated by micro-flow reverse-phase ultrahigh pressure liquid chromatograpy (UPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mm chloroacetamide (CAA)"
+    ],
+    "Characteristics[Organism]": [
+      "human heart biopsies"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "seven biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "21 samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "snap-frozen immediately after collection."
+    ],
+    "Characteristics[Sex]": [
+      "All seven patients were male"
+    ],
+    "Characteristics[Age]": [
+      "middle aged (average 50 years)"
+    ],
+    "Characteristics[BMI]": [
+      "average BMI 23.6"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160715_QE5_nLC7_NL_Human_Heart_119_Left_Atrium_Frac04.raw": {
+    "Source Name": [
+      "Human_Heart_119_Left_Atrium"
+    ],
+    "Assay Name": [
+      "Human_Heart_119_Left_Atrium_Frac04"
+    ],
+    "Raw Data File": [
+      "20160715_QE5_nLC7_NL_Human_Heart_119_Left_Atrium_Frac04.raw"
+    ],
+    "FactorValue[OrganismPart]": [
+      "Left_Atrium"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Frac04"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive HF quadrupole Orbitrap tandem mass spectrometer (LC-MS/MS, Thermo Electron, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent Top12 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "nano-electrospray ionization source operated in positive ionization mode"
+    ],
+    "Comment[Separation]": [
+      "online reversed-phase liquid chromatography"
+    ],
+    "Comment[GradientTime]": [
+      "1 h multi-step linear gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μl/min flow rate"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated by micro-flow reverse-phase ultrahigh pressure liquid chromatograpy (UPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mm chloroacetamide (CAA)"
+    ],
+    "Characteristics[Organism]": [
+      "human heart biopsies"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "seven biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "21 samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "snap-frozen immediately after collection."
+    ],
+    "Characteristics[Sex]": [
+      "All seven patients were male"
+    ],
+    "Characteristics[Age]": [
+      "middle aged (average 50 years)"
+    ],
+    "Characteristics[BMI]": [
+      "average BMI 23.6"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160715_QE5_nLC7_NL_Human_Heart_119_Right_Atrium_Frac05.raw": {
+    "Source Name": [
+      "Human_Heart_119_Right_Atrium"
+    ],
+    "Assay Name": [
+      "Human_Heart_119_Right_Atrium_Frac05"
+    ],
+    "Raw Data File": [
+      "20160715_QE5_nLC7_NL_Human_Heart_119_Right_Atrium_Frac05.raw"
+    ],
+    "FactorValue[OrganismPart]": [
+      "Right_Atrium"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Frac05"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive HF quadrupole Orbitrap tandem mass spectrometer (LC-MS/MS, Thermo Electron, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent Top12 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "nano-electrospray ionization source operated in positive ionization mode"
+    ],
+    "Comment[Separation]": [
+      "online reversed-phase liquid chromatography"
+    ],
+    "Comment[GradientTime]": [
+      "1 h multi-step linear gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μl/min flow rate"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated by micro-flow reverse-phase ultrahigh pressure liquid chromatograpy (UPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mm chloroacetamide (CAA)"
+    ],
+    "Characteristics[Organism]": [
+      "human heart biopsies"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "seven biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "21 samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "snap-frozen immediately after collection."
+    ],
+    "Characteristics[Sex]": [
+      "All seven patients were male"
+    ],
+    "Characteristics[Age]": [
+      "middle aged (average 50 years)"
+    ],
+    "Characteristics[BMI]": [
+      "average BMI 23.6"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160715_QE5_nLC7_NL_Human_Heart_117_Left_Ventricle_Frac12.raw": {
+    "Source Name": [
+      "Human_Heart_117_Left_Ventricle"
+    ],
+    "Assay Name": [
+      "Human_Heart_117_Left_Ventricle_Frac12"
+    ],
+    "Raw Data File": [
+      "20160715_QE5_nLC7_NL_Human_Heart_117_Left_Ventricle_Frac12.raw"
+    ],
+    "FactorValue[OrganismPart]": [
+      "Left_Ventricle"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Frac12"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive HF quadrupole Orbitrap tandem mass spectrometer (LC-MS/MS, Thermo Electron, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent Top12 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "nano-electrospray ionization source operated in positive ionization mode"
+    ],
+    "Comment[Separation]": [
+      "online reversed-phase liquid chromatography"
+    ],
+    "Comment[GradientTime]": [
+      "1 h multi-step linear gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μl/min flow rate"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated by micro-flow reverse-phase ultrahigh pressure liquid chromatograpy (UPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mm chloroacetamide (CAA)"
+    ],
+    "Characteristics[Organism]": [
+      "human heart biopsies"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "seven biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "21 samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "snap-frozen immediately after collection."
+    ],
+    "Characteristics[Sex]": [
+      "All seven patients were male"
+    ],
+    "Characteristics[Age]": [
+      "middle aged (average 50 years)"
+    ],
+    "Characteristics[BMI]": [
+      "average BMI 23.6"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160715_QE5_nLC7_NL_Human_Heart_113_Right_Atrium_Frac02.raw": {
+    "Source Name": [
+      "Human_Heart_113_Right_Atrium"
+    ],
+    "Assay Name": [
+      "Human_Heart_113_Right_Atrium_Frac02"
+    ],
+    "Raw Data File": [
+      "20160715_QE5_nLC7_NL_Human_Heart_113_Right_Atrium_Frac02.raw"
+    ],
+    "FactorValue[OrganismPart]": [
+      "Right_Atrium"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Frac02"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive HF quadrupole Orbitrap tandem mass spectrometer (LC-MS/MS, Thermo Electron, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent Top12 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "nano-electrospray ionization source operated in positive ionization mode"
+    ],
+    "Comment[Separation]": [
+      "online reversed-phase liquid chromatography"
+    ],
+    "Comment[GradientTime]": [
+      "1 h multi-step linear gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μl/min flow rate"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated by micro-flow reverse-phase ultrahigh pressure liquid chromatograpy (UPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mm chloroacetamide (CAA)"
+    ],
+    "Characteristics[Organism]": [
+      "human heart biopsies"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "seven biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "21 samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "snap-frozen immediately after collection."
+    ],
+    "Characteristics[Sex]": [
+      "All seven patients were male"
+    ],
+    "Characteristics[Age]": [
+      "middle aged (average 50 years)"
+    ],
+    "Characteristics[BMI]": [
+      "average BMI 23.6"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160715_QE5_nLC7_NL_Human_Heart_117_Right_Atrium_Frac02.raw": {
+    "Source Name": [
+      "Human_Heart_117_Right_Atrium"
+    ],
+    "Assay Name": [
+      "Human_Heart_117_Right_Atrium_Frac02"
+    ],
+    "Raw Data File": [
+      "20160715_QE5_nLC7_NL_Human_Heart_117_Right_Atrium_Frac02.raw"
+    ],
+    "FactorValue[OrganismPart]": [
+      "Right_Atrium"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Frac02"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive HF quadrupole Orbitrap tandem mass spectrometer (LC-MS/MS, Thermo Electron, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent Top12 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "nano-electrospray ionization source operated in positive ionization mode"
+    ],
+    "Comment[Separation]": [
+      "online reversed-phase liquid chromatography"
+    ],
+    "Comment[GradientTime]": [
+      "1 h multi-step linear gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μl/min flow rate"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated by micro-flow reverse-phase ultrahigh pressure liquid chromatograpy (UPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mm chloroacetamide (CAA)"
+    ],
+    "Characteristics[Organism]": [
+      "human heart biopsies"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "seven biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "21 samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "snap-frozen immediately after collection."
+    ],
+    "Characteristics[Sex]": [
+      "All seven patients were male"
+    ],
+    "Characteristics[Age]": [
+      "middle aged (average 50 years)"
+    ],
+    "Characteristics[BMI]": [
+      "average BMI 23.6"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160715_QE5_nLC7_NL_Human_Heart_119_Left_Ventricle_Frac10.raw": {
+    "Source Name": [
+      "Human_Heart_119_Left_Ventricle"
+    ],
+    "Assay Name": [
+      "Human_Heart_119_Left_Ventricle_Frac10"
+    ],
+    "Raw Data File": [
+      "20160715_QE5_nLC7_NL_Human_Heart_119_Left_Ventricle_Frac10.raw"
+    ],
+    "FactorValue[OrganismPart]": [
+      "Left_Ventricle"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Frac10"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive HF quadrupole Orbitrap tandem mass spectrometer (LC-MS/MS, Thermo Electron, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent Top12 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "nano-electrospray ionization source operated in positive ionization mode"
+    ],
+    "Comment[Separation]": [
+      "online reversed-phase liquid chromatography"
+    ],
+    "Comment[GradientTime]": [
+      "1 h multi-step linear gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μl/min flow rate"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated by micro-flow reverse-phase ultrahigh pressure liquid chromatograpy (UPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mm chloroacetamide (CAA)"
+    ],
+    "Characteristics[Organism]": [
+      "human heart biopsies"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "seven biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "21 samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "snap-frozen immediately after collection."
+    ],
+    "Characteristics[Sex]": [
+      "All seven patients were male"
+    ],
+    "Characteristics[Age]": [
+      "middle aged (average 50 years)"
+    ],
+    "Characteristics[BMI]": [
+      "average BMI 23.6"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160715_QE5_nLC7_NL_Human_Heart_141_Left_Ventricle_Frac03.raw": {
+    "Source Name": [
+      "Human_Heart_141_Left_Ventricle"
+    ],
+    "Assay Name": [
+      "Human_Heart_141_Left_Ventricle_Frac03"
+    ],
+    "Raw Data File": [
+      "20160715_QE5_nLC7_NL_Human_Heart_141_Left_Ventricle_Frac03.raw"
+    ],
+    "FactorValue[OrganismPart]": [
+      "Left_Ventricle"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Frac03"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive HF quadrupole Orbitrap tandem mass spectrometer (LC-MS/MS, Thermo Electron, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent Top12 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "nano-electrospray ionization source operated in positive ionization mode"
+    ],
+    "Comment[Separation]": [
+      "online reversed-phase liquid chromatography"
+    ],
+    "Comment[GradientTime]": [
+      "1 h multi-step linear gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μl/min flow rate"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated by micro-flow reverse-phase ultrahigh pressure liquid chromatograpy (UPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mm chloroacetamide (CAA)"
+    ],
+    "Characteristics[Organism]": [
+      "human heart biopsies"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "seven biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "21 samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "snap-frozen immediately after collection."
+    ],
+    "Characteristics[Sex]": [
+      "All seven patients were male"
+    ],
+    "Characteristics[Age]": [
+      "middle aged (average 50 years)"
+    ],
+    "Characteristics[BMI]": [
+      "average BMI 23.6"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160715_QE5_nLC7_NL_Human_Heart_145_Right_Atrium_Frac04.raw": {
+    "Source Name": [
+      "Human_Heart_145_Right_Atrium"
+    ],
+    "Assay Name": [
+      "Human_Heart_145_Right_Atrium_Frac04"
+    ],
+    "Raw Data File": [
+      "20160715_QE5_nLC7_NL_Human_Heart_145_Right_Atrium_Frac04.raw"
+    ],
+    "FactorValue[OrganismPart]": [
+      "Right_Atrium"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Frac04"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive HF quadrupole Orbitrap tandem mass spectrometer (LC-MS/MS, Thermo Electron, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent Top12 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "nano-electrospray ionization source operated in positive ionization mode"
+    ],
+    "Comment[Separation]": [
+      "online reversed-phase liquid chromatography"
+    ],
+    "Comment[GradientTime]": [
+      "1 h multi-step linear gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μl/min flow rate"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated by micro-flow reverse-phase ultrahigh pressure liquid chromatograpy (UPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mm chloroacetamide (CAA)"
+    ],
+    "Characteristics[Organism]": [
+      "human heart biopsies"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "seven biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "21 samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "snap-frozen immediately after collection."
+    ],
+    "Characteristics[Sex]": [
+      "All seven patients were male"
+    ],
+    "Characteristics[Age]": [
+      "middle aged (average 50 years)"
+    ],
+    "Characteristics[BMI]": [
+      "average BMI 23.6"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160715_QE5_nLC7_NL_Human_Heart_097_Left_Atrium_Frac06.raw": {
+    "Source Name": [
+      "Human_Heart_097_Left_Atrium"
+    ],
+    "Assay Name": [
+      "Human_Heart_097_Left_Atrium_Frac06"
+    ],
+    "Raw Data File": [
+      "20160715_QE5_nLC7_NL_Human_Heart_097_Left_Atrium_Frac06.raw"
+    ],
+    "FactorValue[OrganismPart]": [
+      "Left_Atrium"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Frac06"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive HF quadrupole Orbitrap tandem mass spectrometer (LC-MS/MS, Thermo Electron, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent Top12 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "nano-electrospray ionization source operated in positive ionization mode"
+    ],
+    "Comment[Separation]": [
+      "online reversed-phase liquid chromatography"
+    ],
+    "Comment[GradientTime]": [
+      "1 h multi-step linear gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μl/min flow rate"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated by micro-flow reverse-phase ultrahigh pressure liquid chromatograpy (UPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mm chloroacetamide (CAA)"
+    ],
+    "Characteristics[Organism]": [
+      "human heart biopsies"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "seven biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "21 samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "snap-frozen immediately after collection."
+    ],
+    "Characteristics[Sex]": [
+      "All seven patients were male"
+    ],
+    "Characteristics[Age]": [
+      "middle aged (average 50 years)"
+    ],
+    "Characteristics[BMI]": [
+      "average BMI 23.6"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160715_QE5_nLC7_NL_Human_Heart_148_Left_Ventricle_Frac05.raw": {
+    "Source Name": [
+      "Human_Heart_148_Left_Ventricle"
+    ],
+    "Assay Name": [
+      "Human_Heart_148_Left_Ventricle_Frac05"
+    ],
+    "Raw Data File": [
+      "20160715_QE5_nLC7_NL_Human_Heart_148_Left_Ventricle_Frac05.raw"
+    ],
+    "FactorValue[OrganismPart]": [
+      "Left_Ventricle"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Frac05"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive HF quadrupole Orbitrap tandem mass spectrometer (LC-MS/MS, Thermo Electron, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent Top12 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "nano-electrospray ionization source operated in positive ionization mode"
+    ],
+    "Comment[Separation]": [
+      "online reversed-phase liquid chromatography"
+    ],
+    "Comment[GradientTime]": [
+      "1 h multi-step linear gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μl/min flow rate"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated by micro-flow reverse-phase ultrahigh pressure liquid chromatograpy (UPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mm chloroacetamide (CAA)"
+    ],
+    "Characteristics[Organism]": [
+      "human heart biopsies"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "seven biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "21 samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "snap-frozen immediately after collection."
+    ],
+    "Characteristics[Sex]": [
+      "All seven patients were male"
+    ],
+    "Characteristics[Age]": [
+      "middle aged (average 50 years)"
+    ],
+    "Characteristics[BMI]": [
+      "average BMI 23.6"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160715_QE5_nLC7_NL_Human_Heart_141_Left_Atrium_Frac10.raw": {
+    "Source Name": [
+      "Human_Heart_141_Left_Atrium"
+    ],
+    "Assay Name": [
+      "Human_Heart_141_Left_Atrium_Frac10"
+    ],
+    "Raw Data File": [
+      "20160715_QE5_nLC7_NL_Human_Heart_141_Left_Atrium_Frac10.raw"
+    ],
+    "FactorValue[OrganismPart]": [
+      "Left_Atrium"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Frac10"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive HF quadrupole Orbitrap tandem mass spectrometer (LC-MS/MS, Thermo Electron, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent Top12 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "nano-electrospray ionization source operated in positive ionization mode"
+    ],
+    "Comment[Separation]": [
+      "online reversed-phase liquid chromatography"
+    ],
+    "Comment[GradientTime]": [
+      "1 h multi-step linear gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μl/min flow rate"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated by micro-flow reverse-phase ultrahigh pressure liquid chromatograpy (UPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mm chloroacetamide (CAA)"
+    ],
+    "Characteristics[Organism]": [
+      "human heart biopsies"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "seven biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "21 samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "snap-frozen immediately after collection."
+    ],
+    "Characteristics[Sex]": [
+      "All seven patients were male"
+    ],
+    "Characteristics[Age]": [
+      "middle aged (average 50 years)"
+    ],
+    "Characteristics[BMI]": [
+      "average BMI 23.6"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160715_QE5_nLC7_NL_Human_Heart_145_Left_Ventricle_Frac12.raw": {
+    "Source Name": [
+      "Human_Heart_145_Left_Ventricle"
+    ],
+    "Assay Name": [
+      "Human_Heart_145_Left_Ventricle_Frac12"
+    ],
+    "Raw Data File": [
+      "20160715_QE5_nLC7_NL_Human_Heart_145_Left_Ventricle_Frac12.raw"
+    ],
+    "FactorValue[OrganismPart]": [
+      "Left_Ventricle"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Frac12"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive HF quadrupole Orbitrap tandem mass spectrometer (LC-MS/MS, Thermo Electron, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent Top12 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "nano-electrospray ionization source operated in positive ionization mode"
+    ],
+    "Comment[Separation]": [
+      "online reversed-phase liquid chromatography"
+    ],
+    "Comment[GradientTime]": [
+      "1 h multi-step linear gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μl/min flow rate"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated by micro-flow reverse-phase ultrahigh pressure liquid chromatograpy (UPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mm chloroacetamide (CAA)"
+    ],
+    "Characteristics[Organism]": [
+      "human heart biopsies"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "seven biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "21 samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "snap-frozen immediately after collection."
+    ],
+    "Characteristics[Sex]": [
+      "All seven patients were male"
+    ],
+    "Characteristics[Age]": [
+      "middle aged (average 50 years)"
+    ],
+    "Characteristics[BMI]": [
+      "average BMI 23.6"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160715_QE5_nLC7_NL_Human_Heart_148_Left_Atrium_Frac04.raw": {
+    "Source Name": [
+      "Human_Heart_148_Left_Atrium"
+    ],
+    "Assay Name": [
+      "Human_Heart_148_Left_Atrium_Frac04"
+    ],
+    "Raw Data File": [
+      "20160715_QE5_nLC7_NL_Human_Heart_148_Left_Atrium_Frac04.raw"
+    ],
+    "FactorValue[OrganismPart]": [
+      "Left_Atrium"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Frac04"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive HF quadrupole Orbitrap tandem mass spectrometer (LC-MS/MS, Thermo Electron, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent Top12 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "nano-electrospray ionization source operated in positive ionization mode"
+    ],
+    "Comment[Separation]": [
+      "online reversed-phase liquid chromatography"
+    ],
+    "Comment[GradientTime]": [
+      "1 h multi-step linear gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μl/min flow rate"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated by micro-flow reverse-phase ultrahigh pressure liquid chromatograpy (UPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mm chloroacetamide (CAA)"
+    ],
+    "Characteristics[Organism]": [
+      "human heart biopsies"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "seven biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "21 samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "snap-frozen immediately after collection."
+    ],
+    "Characteristics[Sex]": [
+      "All seven patients were male"
+    ],
+    "Characteristics[Age]": [
+      "middle aged (average 50 years)"
+    ],
+    "Characteristics[BMI]": [
+      "average BMI 23.6"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160715_QE5_nLC7_NL_Human_Heart_148_Right_Atrium_Frac08.raw": {
+    "Source Name": [
+      "Human_Heart_148_Right_Atrium"
+    ],
+    "Assay Name": [
+      "Human_Heart_148_Right_Atrium_Frac08"
+    ],
+    "Raw Data File": [
+      "20160715_QE5_nLC7_NL_Human_Heart_148_Right_Atrium_Frac08.raw"
+    ],
+    "FactorValue[OrganismPart]": [
+      "Right_Atrium"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Frac08"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive HF quadrupole Orbitrap tandem mass spectrometer (LC-MS/MS, Thermo Electron, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent Top12 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "nano-electrospray ionization source operated in positive ionization mode"
+    ],
+       "Comment[Separation]": [
+      "online reversed-phase liquid chromatography"
+    ],
+    "Comment[GradientTime]": [
+      "1 h multi-step linear gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μl/min flow rate"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated by micro-flow reverse-phase ultrahigh pressure liquid chromatograpy (UPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mm chloroacetamide (CAA)"
+    ],
+    "Characteristics[Organism]": [
+      "human heart biopsies"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "seven biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "21 samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "snap-frozen immediately after collection."
+    ],
+    "Characteristics[Sex]": [
+      "All seven patients were male"
+    ],
+    "Characteristics[Age]": [
+      "middle aged (average 50 years)"
+    ],
+    "Characteristics[BMI]": [
+      "average BMI 23.6"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160715_QE5_nLC7_NL_Human_Heart_113_Left_Ventricle_Frac06.raw": {
+    "Source Name": [
+      "Human_Heart_113_Left_Ventricle"
+    ],
+    "Assay Name": [
+      "Human_Heart_113_Left_Ventricle_Frac06"
+    ],
+    "Raw Data File": [
+      "20160715_QE5_nLC7_NL_Human_Heart_113_Left_Ventricle_Frac06.raw"
+    ],
+    "FactorValue[OrganismPart]": [
+      "Left_Ventricle"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Frac06"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive HF quadrupole Orbitrap tandem mass spectrometer (LC-MS/MS, Thermo Electron, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent Top12 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "nano-electrospray ionization source operated in positive ionization mode"
+    ],
+    "Comment[Separation]": [
+      "online reversed-phase liquid chromatography"
+    ],
+    "Comment[GradientTime]": [
+      "1 h multi-step linear gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μl/min flow rate"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated by micro-flow reverse-phase ultrahigh pressure liquid chromatograpy (UPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mm chloroacetamide (CAA)"
+    ],
+    "Characteristics[Organism]": [
+      "human heart biopsies"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "seven biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "21 samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "snap-frozen immediately after collection."
+    ],
+    "Characteristics[Sex]": [
+      "All seven patients were male"
+    ],
+    "Characteristics[Age]": [
+      "middle aged (average 50 years)"
+    ],
+    "Characteristics[BMI]": [
+      "average BMI 23.6"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160715_QE5_nLC7_NL_Human_Heart_145_Left_Ventricle_Frac07.raw": {
+    "Source Name": [
+      "Human_Heart_145_Left_Ventricle"
+    ],
+    "Assay Name": [
+      "Human_Heart_145_Left_Ventricle_Frac07"
+    ],
+    "Raw Data File": [
+      "20160715_QE5_nLC7_NL_Human_Heart_145_Left_Ventricle_Frac07.raw"
+    ],
+    "FactorValue[OrganismPart]": [
+      "Left_Ventricle"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Frac07"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive HF quadrupole Orbitrap tandem mass spectrometer (LC-MS/MS, Thermo Electron, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent Top12 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "nano-electrospray ionization source operated in positive ionization mode"
+    ],
+    "Comment[Separation]": [
+      "online reversed-phase liquid chromatography"
+    ],
+    "Comment[GradientTime]": [
+      "1 h multi-step linear gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μl/min flow rate"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated by micro-flow reverse-phase ultrahigh pressure liquid chromatograpy (UPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mm chloroacetamide (CAA)"
+    ],
+    "Characteristics[Organism]": [
+      "human heart biopsies"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "seven biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "21 samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "snap-frozen immediately after collection."
+    ],
+    "Characteristics[Sex]": [
+      "All seven patients were male"
+    ],
+    "Characteristics[Age]": [
+      "middle aged (average 50 years)"
+    ],
+    "Characteristics[BMI]": [
+      "average BMI 23.6"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160715_QE5_nLC7_NL_Human_Heart_097_Right_Atrium_Frac10.raw": {
+    "Source Name": [
+      "Human_Heart_097_Right_Atrium"
+    ],
+    "Assay Name": [
+      "Human_Heart_097_Right_Atrium_Frac10"
+    ],
+    "Raw Data File": [
+      "20160715_QE5_nLC7_NL_Human_Heart_097_Right_Atrium_Frac10.raw"
+    ],
+    "FactorValue[OrganismPart]": [
+      "Right_Atrium"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Frac10"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive HF quadrupole Orbitrap tandem mass spectrometer (LC-MS/MS, Thermo Electron, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent Top12 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "nano-electrospray ionization source operated in positive ionization mode"
+    ],
+    "Comment[Separation]": [
+      "online reversed-phase liquid chromatography"
+    ],
+    "Comment[GradientTime]": [
+      "1 h multi-step linear gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μl/min flow rate"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated by micro-flow reverse-phase ultrahigh pressure liquid chromatograpy (UPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mm chloroacetamide (CAA)"
+    ],
+    "Characteristics[Organism]": [
+      "human heart biopsies"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "seven biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "21 samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "snap-frozen immediately after collection."
+    ],
+    "Characteristics[Sex]": [
+      "All seven patients were male"
+    ],
+    "Characteristics[Age]": [
+      "middle aged (average 50 years)"
+    ],
+    "Characteristics[BMI]": [
+      "average BMI 23.6"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160715_QE5_nLC7_NL_Human_Heart_097_Right_Atrium_Frac12.raw": {
+    "Source Name": [
+      "Human_Heart_097_Right_Atrium"
+    ],
+    "Assay Name": [
+      "Human_Heart_097_Right_Atrium_Frac12"
+    ],
+    "Raw Data File": [
+      "20160715_QE5_nLC7_NL_Human_Heart_097_Right_Atrium_Frac12.raw"
+    ],
+    "FactorValue[OrganismPart]": [
+      "Right_Atrium"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Frac12"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive HF quadrupole Orbitrap tandem mass spectrometer (LC-MS/MS, Thermo Electron, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent Top12 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "nano-electrospray ionization source operated in positive ionization mode"
+    ],
+    "Comment[Separation]": [
+      "online reversed-phase liquid chromatography"
+    ],
+    "Comment[GradientTime]": [
+      "1 h multi-step linear gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μl/min flow rate"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated by micro-flow reverse-phase ultrahigh pressure liquid chromatograpy (UPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mm chloroacetamide (CAA)"
+    ],
+    "Characteristics[Organism]": [
+      "human heart biopsies"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "seven biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "21 samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "snap-frozen immediately after collection."
+    ],
+    "Characteristics[Sex]": [
+      "All seven patients were male"
+    ],
+    "Characteristics[Age]": [
+      "middle aged (average 50 years)"
+    ],
+    "Characteristics[BMI]": [
+      "average BMI 23.6"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160715_QE5_nLC7_NL_Human_Heart_117_Right_Atrium_Frac01.raw": {
+    "Source Name": [
+      "Human_Heart_117_Right_Atrium"
+    ],
+    "Assay Name": [
+      "Human_Heart_117_Right_Atrium_Frac01"
+    ],
+    "Raw Data File": [
+      "20160715_QE5_nLC7_NL_Human_Heart_117_Right_Atrium_Frac01.raw"
+    ],
+    "FactorValue[OrganismPart]": [
+      "Right_Atrium"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Frac01"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive HF quadrupole Orbitrap tandem mass spectrometer (LC-MS/MS, Thermo Electron, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent Top12 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "nano-electrospray ionization source operated in positive ionization mode"
+    ],
+    "Comment[Separation]": [
+      "online reversed-phase liquid chromatography"
+    ],
+    "Comment[GradientTime]": [
+      "1 h multi-step linear gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μl/min flow rate"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated by micro-flow reverse-phase ultrahigh pressure liquid chromatograpy (UPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mm chloroacetamide (CAA)"
+    ],
+    "Characteristics[Organism]": [
+      "human heart biopsies"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "seven biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "21 samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "snap-frozen immediately after collection."
+    ],
+    "Characteristics[Sex]": [
+      "All seven patients were male"
+    ],
+    "Characteristics[Age]": [
+      "middle aged (average 50 years)"
+    ],
+    "Characteristics[BMI]": [
+      "average BMI 23.6"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160715_QE5_nLC7_NL_Human_Heart_141_Right_Atrium_Frac02.raw": {
+    "Source Name": [
+      "Human_Heart_141_Right_Atrium"
+    ],
+    "Assay Name": [
+      "Human_Heart_141_Right_Atrium_Frac02"
+    ],
+    "Raw Data File": [
+      "20160715_QE5_nLC7_NL_Human_Heart_141_Right_Atrium_Frac02.raw"
+    ],
+    "FactorValue[OrganismPart]": [
+      "Right_Atrium"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Frac02"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive HF quadrupole Orbitrap tandem mass spectrometer (LC-MS/MS, Thermo Electron, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent Top12 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "nano-electrospray ionization source operated in positive ionization mode"
+    ],
+    "Comment[Separation]": [
+      "online reversed-phase liquid chromatography"
+    ],
+    "Comment[GradientTime]": [
+      "1 h multi-step linear gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μl/min flow rate"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated by micro-flow reverse-phase ultrahigh pressure liquid chromatograpy (UPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mm chloroacetamide (CAA)"
+    ],
+    "Characteristics[Organism]": [
+      "human heart biopsies"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "seven biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "21 samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "snap-frozen immediately after collection."
+    ],
+    "Characteristics[Sex]": [
+      "All seven patients were male"
+    ],
+    "Characteristics[Age]": [
+      "middle aged (average 50 years)"
+    ],
+    "Characteristics[BMI]": [
+      "average BMI 23.6"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160715_QE5_nLC7_NL_Human_Heart_145_Right_Atrium_Frac07.raw": {
+    "Source Name": [
+      "Human_Heart_145_Right_Atrium"
+    ],
+    "Assay Name": [
+      "Human_Heart_145_Right_Atrium_Frac07"
+    ],
+    "Raw Data File": [
+      "20160715_QE5_nLC7_NL_Human_Heart_145_Right_Atrium_Frac07.raw"
+    ],
+    "FactorValue[OrganismPart]": [
+      "Right_Atrium"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Frac07"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive HF quadrupole Orbitrap tandem mass spectrometer (LC-MS/MS, Thermo Electron, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent Top12 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "nano-electrospray ionization source operated in positive ionization mode"
+    ],
+    "Comment[Separation]": [
+      "online reversed-phase liquid chromatography"
+    ],
+    "Comment[GradientTime]": [
+      "1 h multi-step linear gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μl/min flow rate"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated by micro-flow reverse-phase ultrahigh pressure liquid chromatograpy (UPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mm chloroacetamide (CAA)"
+    ],
+    "Characteristics[Organism]": [
+      "human heart biopsies"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "seven biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "21 samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "snap-frozen immediately after collection."
+    ],
+    "Characteristics[Sex]": [
+      "All seven patients were male"
+    ],
+    "Characteristics[Age]": [
+      "middle aged (average 50 years)"
+    ],
+    "Characteristics[BMI]": [
+      "average BMI 23.6"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160715_QE5_nLC7_NL_Human_Heart_145_Left_Ventricle_Frac09.raw": {
+    "Source Name": [
+      "Human_Heart_145_Left_Ventricle"
+    ],
+    "Assay Name": [
+      "Human_Heart_145_Left_Ventricle_Frac09"
+    ],
+    "Raw Data File": [
+      "20160715_QE5_nLC7_NL_Human_Heart_145_Left_Ventricle_Frac09.raw"
+    ],
+    "FactorValue[OrganismPart]": [
+      "Left_Ventricle"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Frac09"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive HF quadrupole Orbitrap tandem mass spectrometer (LC-MS/MS, Thermo Electron, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent Top12 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "nano-electrospray ionization source operated in positive ionization mode"
+    ],
+    "Comment[Separation]": [
+      "online reversed-phase liquid chromatography"
+    ],
+    "Comment[GradientTime]": [
+      "1 h multi-step linear gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μl/min flow rate"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated by micro-flow reverse-phase ultrahigh pressure liquid chromatograpy (UPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mm chloroacetamide (CAA)"
+    ],
+    "Characteristics[Organism]": [
+      "human heart biopsies"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "seven biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "21 samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "snap-frozen immediately after collection."
+    ],
+    "Characteristics[Sex]": [
+      "All seven patients were male"
+    ],
+    "Characteristics[Age]": [
+      "middle aged (average 50 years)"
+    ],
+    "Characteristics[BMI]": [
+      "average BMI 23.6"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160715_QE5_nLC7_NL_Human_Heart_148_Left_Atrium_Frac10.raw": {
+    "Source Name": [
+      "Human_Heart_148_Left_Atrium"
+    ],
+    "Assay Name": [
+      "Human_Heart_148_Left_Atrium_Frac10"
+    ],
+    "Raw Data File": [
+      "20160715_QE5_nLC7_NL_Human_Heart_148_Left_Atrium_Frac10.raw"
+    ],
+    "FactorValue[OrganismPart]": [
+      "Left_Atrium"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Frac10"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive HF quadrupole Orbitrap tandem mass spectrometer (LC-MS/MS, Thermo Electron, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent Top12 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "nano-electrospray ionization source operated in positive ionization mode"
+    ],
+    "Comment[Separation]": [
+      "online reversed-phase liquid chromatography"
+    ],
+    "Comment[GradientTime]": [
+      "1 h multi-step linear gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μl/min flow rate"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated by micro-flow reverse-phase ultrahigh pressure liquid chromatograpy (UPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mm chloroacetamide (CAA)"
+    ],
+    "Characteristics[Organism]": [
+      "human heart biopsies"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "seven biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "21 samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "snap-frozen immediately after collection."
+    ],
+    "Characteristics[Sex]": [
+      "All seven patients were male"
+    ],
+    "Characteristics[Age]": [
+      "middle aged (average 50 years)"
+    ],
+    "Characteristics[BMI]": [
+      "average BMI 23.6"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160715_QE5_nLC7_NL_Human_Heart_119_Right_Atrium_Frac10.raw": {
+    "Source Name": [
+      "Human_Heart_119_Right_Atrium"
+    ],
+    "Assay Name": [
+      "Human_Heart_119_Right_Atrium_Frac10"
+    ],
+    "Raw Data File": [
+      "20160715_QE5_nLC7_NL_Human_Heart_119_Right_Atrium_Frac10.raw"
+    ],
+    "FactorValue[OrganismPart]": [
+      "Right_Atrium"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Frac10"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive HF quadrupole Orbitrap tandem mass spectrometer (LC-MS/MS, Thermo Electron, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent Top12 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "nano-electrospray ionization source operated in positive ionization mode"
+    ],
+    "Comment[Separation]": [
+      "online reversed-phase liquid chromatography"
+    ],
+    "Comment[GradientTime]": [
+      "1 h multi-step linear gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μl/min flow rate"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated by micro-flow reverse-phase ultrahigh pressure liquid chromatograpy (UPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mm chloroacetamide (CAA)"
+    ],
+    "Characteristics[Organism]": [
+      "human heart biopsies"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "seven biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "21 samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "snap-frozen immediately after collection."
+    ],
+    "Characteristics[Sex]": [
+      "All seven patients were male"
+    ],
+    "Characteristics[Age]": [
+      "middle aged (average 50 years)"
+    ],
+    "Characteristics[BMI]": [
+      "average BMI 23.6"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160715_QE5_nLC7_NL_Human_Heart_119_Left_Atrium_Frac05.raw": {
+    "Source Name": [
+      "Human_Heart_119_Left_Atrium"
+    ],
+    "Assay Name": [
+      "Human_Heart_119_Left_Atrium_Frac05"
+    ],
+    "Raw Data File": [
+      "20160715_QE5_nLC7_NL_Human_Heart_119_Left_Atrium_Frac05.raw"
+    ],
+    "FactorValue[OrganismPart]": [
+      "Left_Atrium"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Frac05"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive HF quadrupole Orbitrap tandem mass spectrometer (LC-MS/MS, Thermo Electron, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent Top12 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "nano-electrospray ionization source operated in positive ionization mode"
+    ],
+    "Comment[Separation]": [
+      "online reversed-phase liquid chromatography"
+    ],
+    "Comment[GradientTime]": [
+      "1 h multi-step linear gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μl/min flow rate"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated by micro-flow reverse-phase ultrahigh pressure liquid chromatograpy (UPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mm chloroacetamide (CAA)"
+    ],
+    "Characteristics[Organism]": [
+      "human heart biopsies"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "seven biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "21 samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "snap-frozen immediately after collection."
+    ],
+    "Characteristics[Sex]": [
+      "All seven patients were male"
+    ],
+    "Characteristics[Age]": [
+      "middle aged (average 50 years)"
+    ],
+    "Characteristics[BMI]": [
+      "average BMI 23.6"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160715_QE5_nLC7_NL_Human_Heart_117_Left_Ventricle_Frac01.raw": {
+    "Source Name": [
+      "Human_Heart_117_Left_Ventricle"
+    ],
+    "Assay Name": [
+      "Human_Heart_117_Left_Ventricle_Frac01"
+    ],
+    "Raw Data File": [
+      "20160715_QE5_nLC7_NL_Human_Heart_117_Left_Ventricle_Frac01.raw"
+    ],
+    "FactorValue[OrganismPart]": [
+      "Left_Ventricle"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Frac01"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive HF quadrupole Orbitrap tandem mass spectrometer (LC-MS/MS, Thermo Electron, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent Top12 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "nano-electrospray ionization source operated in positive ionization mode"
+    ],
+    "Comment[Separation]": [
+      "online reversed-phase liquid chromatography"
+    ],
+    "Comment[GradientTime]": [
+      "1 h multi-step linear gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μl/min flow rate"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated by micro-flow reverse-phase ultrahigh pressure liquid chromatograpy (UPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mm chloroacetamide (CAA)"
+    ],
+    "Characteristics[Organism]": [
+      "human heart biopsies"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "seven biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "21 samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "snap-frozen immediately after collection."
+    ],
+    "Characteristics[Sex]": [
+      "All seven patients were male"
+    ],
+    "Characteristics[Age]": [
+      "middle aged (average 50 years)"
+    ],
+    "Characteristics[BMI]": [
+      "average BMI 23.6"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160715_QE5_nLC7_NL_Human_Heart_145_Right_Atrium_Frac10.raw": {
+    "Source Name": [
+      "Human_Heart_145_Right_Atrium"
+    ],
+    "Assay Name": [
+      "Human_Heart_145_Right_Atrium_Frac10"
+    ],
+    "Raw Data File": [
+      "20160715_QE5_nLC7_NL_Human_Heart_145_Right_Atrium_Frac10.raw"
+    ],
+    "FactorValue[OrganismPart]": [
+      "Right_Atrium"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Frac10"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive HF quadrupole Orbitrap tandem mass spectrometer (LC-MS/MS, Thermo Electron, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent Top12 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "nano-electrospray ionization source operated in positive ionization mode"
+    ],
+    "Comment[Separation]": [
+      "online reversed-phase liquid chromatography"
+    ],
+    "Comment[GradientTime]": [
+      "1 h multi-step linear gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μl/min flow rate"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated by micro-flow reverse-phase ultrahigh pressure liquid chromatograpy (UPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mm chloroacetamide (CAA)"
+    ],
+    "Characteristics[Organism]": [
+      "human heart biopsies"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "seven biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "21 samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "snap-frozen immediately after collection."
+    ],
+    "Characteristics[Sex]": [
+      "All seven patients were male"
+    ],
+    "Characteristics[Age]": [
+      "middle aged (average 50 years)"
+    ],
+    "Characteristics[BMI]": [
+      "average BMI 23.6"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160715_QE5_nLC7_NL_Human_Heart_097_Left_Atrium_Frac04.raw": {
+    "Source Name": [
+      "Human_Heart_097_Left_Atrium"
+    ],
+    "Assay Name": [
+      "Human_Heart_097_Left_Atrium_Frac04"
+    ],
+    "Raw Data File": [
+      "20160715_QE5_nLC7_NL_Human_Heart_097_Left_Atrium_Frac04.raw"
+    ],
+    "FactorValue[OrganismPart]": [
+      "Left_Atrium"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Frac04"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive HF quadrupole Orbitrap tandem mass spectrometer (LC-MS/MS, Thermo Electron, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent Top12 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "nano-electrospray ionization source operated in positive ionization mode"
+    ],
+    "Comment[Separation]": [
+      "online reversed-phase liquid chromatography"
+    ],
+    "Comment[GradientTime]": [
+      "1 h multi-step linear gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μl/min flow rate"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated by micro-flow reverse-phase ultrahigh pressure liquid chromatograpy (UPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mm chloroacetamide (CAA)"
+    ],
+    "Characteristics[Organism]": [
+      "human heart biopsies"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "seven biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "21 samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "snap-frozen immediately after collection."
+    ],
+    "Characteristics[Sex]": [
+      "All seven patients were male"
+    ],
+    "Characteristics[Age]": [
+      "middle aged (average 50 years)"
+    ],
+    "Characteristics[BMI]": [
+      "average BMI 23.6"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160715_QE5_nLC7_NL_Human_Heart_117_Left_Ventricle_Frac08.raw": {
+    "Source Name": [
+      "Human_Heart_117_Left_Ventricle"
+    ],
+    "Assay Name": [
+      "Human_Heart_117_Left_Ventricle_Frac08"
+    ],
+    "Raw Data File": [
+      "20160715_QE5_nLC7_NL_Human_Heart_117_Left_Ventricle_Frac08.raw"
+    ],
+    "FactorValue[OrganismPart]": [
+      "Left_Ventricle"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Frac08"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive HF quadrupole Orbitrap tandem mass spectrometer (LC-MS/MS, Thermo Electron, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent Top12 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "nano-electrospray ionization source operated in positive ionization mode"
+    ],
+    "Comment[Separation]": [
+      "online reversed-phase liquid chromatography"
+    ],
+    "Comment[GradientTime]": [
+      "1 h multi-step linear gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μl/min flow rate"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated by micro-flow reverse-phase ultrahigh pressure liquid chromatograpy (UPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mm chloroacetamide (CAA)"
+    ],
+    "Characteristics[Organism]": [
+      "human heart biopsies"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "seven biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "21 samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "snap-frozen immediately after collection."
+    ],
+    "Characteristics[Sex]": [
+      "All seven patients were male"
+    ],
+    "Characteristics[Age]": [
+      "middle aged (average 50 years)"
+    ],
+    "Characteristics[BMI]": [
+      "average BMI 23.6"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160715_QE5_nLC7_NL_Human_Heart_141_Left_Ventricle_Frac11.raw": {
+    "Source Name": [
+      "Human_Heart_141_Left_Ventricle"
+    ],
+    "Assay Name": [
+      "Human_Heart_141_Left_Ventricle_Frac11"
+    ],
+    "Raw Data File": [
+      "20160715_QE5_nLC7_NL_Human_Heart_141_Left_Ventricle_Frac11.raw"
+    ],
+    "FactorValue[OrganismPart]": [
+      "Left_Ventricle"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Frac11"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive HF quadrupole Orbitrap tandem mass spectrometer (LC-MS/MS, Thermo Electron, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent Top12 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "nano-electrospray ionization source operated in positive ionization mode"
+    ],
+    "Comment[Separation]": [
+      "online reversed-phase liquid chromatography"
+    ],
+    "Comment[GradientTime]": [
+      "1 h multi-step linear gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μl/min flow rate"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated by micro-flow reverse-phase ultrahigh pressure liquid chromatograpy (UPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mm chloroacetamide (CAA)"
+    ],
+    "Characteristics[Organism]": [
+      "human heart biopsies"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "seven biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "21 samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "snap-frozen immediately after collection."
+    ],
+    "Characteristics[Sex]": [
+      "All seven patients were male"
+    ],
+    "Characteristics[Age]": [
+      "middle aged (average 50 years)"
+    ],
+    "Characteristics[BMI]": [
+      "average BMI 23.6"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160715_QE5_nLC7_NL_Human_Heart_117_Left_Atrium_Frac10.raw": {
+    "Source Name": [
+      "Human_Heart_117_Left_Atrium"
+    ],
+    "Assay Name": [
+      "Human_Heart_117_Left_Atrium_Frac10"
+    ],
+    "Raw Data File": [
+      "20160715_QE5_nLC7_NL_Human_Heart_117_Left_Atrium_Frac10.raw"
+    ],
+    "FactorValue[OrganismPart]": [
+      "Left_Atrium"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Frac10"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive HF quadrupole Orbitrap tandem mass spectrometer (LC-MS/MS, Thermo Electron, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent Top12 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "nano-electrospray ionization source operated in positive ionization mode"
+    ],
+    "Comment[Separation]": [
+      "online reversed-phase liquid chromatography"
+    ],
+    "Comment[GradientTime]": [
+      "1 h multi-step linear gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μl/min flow rate"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated by micro-flow reverse-phase ultrahigh pressure liquid chromatograpy (UPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "12 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mm chloroacetamide (CAA)"
+    ],
+    "Characteristics[Organism]": [
+      "human heart biopsies"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "seven biological replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "21 samples"
+    ],
+    "Characteristics[SamplingTime]": [
+      "snap-frozen immediately after collection."
+    ],
+    "Characteristics[Sex]": [
+      "All seven patients were male"
+    ],
+    "Characteristics[Age]": [
+      "middle aged (average 50 years)"
+    ],
+    "Characteristics[BMI]": [
+      "average BMI 23.6"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  }
+}

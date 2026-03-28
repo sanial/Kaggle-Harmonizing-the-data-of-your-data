@@ -1,0 +1,1986 @@
+{
+  "PAB9129A25RW22_A2.raw": {
+    "Source Name": [
+      "mature schizonts and merozoites"
+    ],
+    "Assay Name": [
+      "mature schizonts and merozoites_PAB9129A25RW22_A2"
+    ],
+    "Raw Data File": [
+      "PAB9129A25RW22_A2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "P. falciparum"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "mature schizonts and merozoites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "4 μg LysC (WAKO)",
+      "10 μg trypsin (Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "0.8 mg Tandem Mass Tag 10plex isobaric reagent kit (Thermo Scientific)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "two isobaric labelling experiments"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three DMSO-treated samples",
+      "the three RAP-treated"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sequential metal oxide affinity chromatography (SMOAC) strategy",
+      "High Select TiO2 and Fe-NTA enrichment kits (Thermo Scientific)"
+    ],
+    "Comment[FractionationMethod]": [
+      "Pierce High pH Reversed-Phase Peptide Fractionation kit (Thermo Scientific)"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "U3000 RSLCnano system (Thermo Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "3-h gradient run"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "MS2 HCD and MSA SPS MS3 strategies"
+    ],
+    "Comment[FractionIdentifier]": [
+      "A2"
+    ]
+  },
+  "PAB9129A26RW34_B8.raw": {
+    "Source Name": [
+      "mature schizonts and merozoites"
+    ],
+    "Assay Name": [
+      "mature schizonts and merozoites_PAB9129A26RW34_B8"
+    ],
+    "Raw Data File": [
+      "PAB9129A26RW34_B8.raw"
+    ],
+    "Characteristics[Organism]": [
+      "P. falciparum"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "mature schizonts and merozoites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "4 μg LysC (WAKO)",
+      "10 μg trypsin (Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "0.8 mg Tandem Mass Tag 10plex isobaric reagent kit (Thermo Scientific)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "two isobaric labelling experiments"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three DMSO-treated samples",
+      "the three RAP-treated"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sequential metal oxide affinity chromatography (SMOAC) strategy",
+      "High Select TiO2 and Fe-NTA enrichment kits (Thermo Scientific)"
+    ],
+    "Comment[FractionationMethod]": [
+      "Pierce High pH Reversed-Phase Peptide Fractionation kit (Thermo Scientific)"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "U3000 RSLCnano system (Thermo Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "3-h gradient run"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "MS2 HCD and MSA SPS MS3 strategies"
+    ],
+    "Comment[FractionIdentifier]": [
+      "B8"
+    ]
+  },
+  "PAB9129A26RW26_B4.raw": {
+    "Source Name": [
+      "mature schizonts and merozoites"
+    ],
+    "Assay Name": [
+      "mature schizonts and merozoites_PAB9129A26RW26_B4"
+    ],
+    "Raw Data File": [
+      "PAB9129A26RW26_B4.raw"
+    ],
+    "Characteristics[Organism]": [
+      "P. falciparum"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "mature schizonts and merozoites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "4 μg LysC (WAKO)",
+      "10 μg trypsin (Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "0.8 mg Tandem Mass Tag 10plex isobaric reagent kit (Thermo Scientific)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "two isobaric labelling experiments"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three DMSO-treated samples",
+      "the three RAP-treated"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sequential metal oxide affinity chromatography (SMOAC) strategy",
+      "High Select TiO2 and Fe-NTA enrichment kits (Thermo Scientific)"
+    ],
+    "Comment[FractionationMethod]": [
+      "Pierce High pH Reversed-Phase Peptide Fractionation kit (Thermo Scientific)"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "U3000 RSLCnano system (Thermo Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "3-h gradient run"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "MS2 HCD and MSA SPS MS3 strategies"
+    ],
+    "Comment[FractionIdentifier]": [
+      "B4"
+    ]
+  },
+  "PAB9129A25RW26_A4.raw": {
+    "Source Name": [
+      "mature schizonts and merozoites"
+    ],
+    "Assay Name": [
+      "mature schizonts and merozoites_PAB9129A25RW26_A4"
+    ],
+    "Raw Data File": [
+      "PAB9129A25RW26_A4.raw"
+    ],
+    "Characteristics[Organism]": [
+      "P. falciparum"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "mature schizonts and merozoites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "4 μg LysC (WAKO)",
+      "10 μg trypsin (Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "0.8 mg Tandem Mass Tag 10plex isobaric reagent kit (Thermo Scientific)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "two isobaric labelling experiments"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three DMSO-treated samples",
+      "the three RAP-treated"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sequential metal oxide affinity chromatography (SMOAC) strategy",
+      "High Select TiO2 and Fe-NTA enrichment kits (Thermo Scientific)"
+    ],
+    "Comment[FractionationMethod]": [
+      "Pierce High pH Reversed-Phase Peptide Fractionation kit (Thermo Scientific)"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "U3000 RSLCnano system (Thermo Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "3-h gradient run"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "MS2 HCD and MSA SPS MS3 strategies"
+    ],
+    "Comment[FractionIdentifier]": [
+      "A4"
+    ]
+  },
+  "PAB9129A25RW20_A1.raw": {
+    "Source Name": [
+      "mature schizonts and merozoites"
+    ],
+    "Assay Name": [
+      "mature schizonts and merozoites_PAB9129A25RW20_A1"
+    ],
+    "Raw Data File": [
+      "PAB9129A25RW20_A1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "P. falciparum"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "mature schizonts and merozoites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "4 μg LysC (WAKO)",
+      "10 μg trypsin (Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "0.8 mg Tandem Mass Tag 10plex isobaric reagent kit (Thermo Scientific)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "two isobaric labelling experiments"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three DMSO-treated samples",
+      "the three RAP-treated"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sequential metal oxide affinity chromatography (SMOAC) strategy",
+      "High Select TiO2 and Fe-NTA enrichment kits (Thermo Scientific)"
+    ],
+    "Comment[FractionationMethod]": [
+      "Pierce High pH Reversed-Phase Peptide Fractionation kit (Thermo Scientific)"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "U3000 RSLCnano system (Thermo Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "3-h gradient run"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "MS2 HCD and MSA SPS MS3 strategies"
+    ],
+    "Comment[FractionIdentifier]": [
+      "A1"
+    ]
+  },
+  "PAB9129A25RW28_A5.raw": {
+    "Source Name": [
+      "mature schizonts and merozoites"
+    ],
+    "Assay Name": [
+      "mature schizonts and merozoites_PAB9129A25RW28_A5"
+    ],
+    "Raw Data File": [
+      "PAB9129A25RW28_A5.raw"
+    ],
+    "Characteristics[Organism]": [
+      "P. falciparum"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "mature schizonts and merozoites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "4 μg LysC (WAKO)",
+      "10 μg trypsin (Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "0.8 mg Tandem Mass Tag 10plex isobaric reagent kit (Thermo Scientific)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "two isobaric labelling experiments"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three DMSO-treated samples",
+      "the three RAP-treated"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sequential metal oxide affinity chromatography (SMOAC) strategy",
+      "High Select TiO2 and Fe-NTA enrichment kits (Thermo Scientific)"
+    ],
+    "Comment[FractionationMethod]": [
+      "Pierce High pH Reversed-Phase Peptide Fractionation kit (Thermo Scientific)"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "U3000 RSLCnano system (Thermo Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "3-h gradient run"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "MS2 HCD and MSA SPS MS3 strategies"
+    ],
+    "Comment[FractionIdentifier]": [
+      "A5"
+    ]
+  },
+  "PAB9129A26RW29_B5.raw": {
+    "Source Name": [
+      "mature schizonts and merozoites"
+    ],
+    "Assay Name": [
+      "mature schizonts and merozoites_PAB9129A26RW29_B5"
+    ],
+    "Raw Data File": [
+      "PAB9129A26RW29_B5.raw"
+    ],
+    "Characteristics[Organism]": [
+      "P. falciparum"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "mature schizonts and merozoites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "4 μg LysC (WAKO)",
+      "10 μg trypsin (Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "0.8 mg Tandem Mass Tag 10plex isobaric reagent kit (Thermo Scientific)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "two isobaric labelling experiments"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three DMSO-treated samples",
+      "the three RAP-treated"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sequential metal oxide affinity chromatography (SMOAC) strategy",
+      "High Select TiO2 and Fe-NTA enrichment kits (Thermo Scientific)"
+    ],
+    "Comment[FractionationMethod]": [
+      "Pierce High pH Reversed-Phase Peptide Fractionation kit (Thermo Scientific)"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "U3000 RSLCnano system (Thermo Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "3-h gradient run"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "MS2 HCD and MSA SPS MS3 strategies"
+    ],
+    "Comment[FractionIdentifier]": [
+      "B5"
+    ]
+  },
+  "PAB9129A25RW24_A3.raw": {
+    "Source Name": [
+      "mature schizonts and merozoites"
+    ],
+    "Assay Name": [
+      "mature schizonts and merozoites_PAB9129A25RW24_A3"
+    ],
+    "Raw Data File": [
+      "PAB9129A25RW24_A3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "P. falciparum"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "mature schizonts and merozoites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "4 μg LysC (WAKO)",
+      "10 μg trypsin (Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "0.8 mg Tandem Mass Tag 10plex isobaric reagent kit (Thermo Scientific)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "two isobaric labelling experiments"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three DMSO-treated samples",
+      "the three RAP-treated"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sequential metal oxide affinity chromatography (SMOAC) strategy",
+      "High Select TiO2 and Fe-NTA enrichment kits (Thermo Scientific)"
+    ],
+    "Comment[FractionationMethod]": [
+      "Pierce High pH Reversed-Phase Peptide Fractionation kit (Thermo Scientific)"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "U3000 RSLCnano system (Thermo Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "3-h gradient run"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "MS2 HCD and MSA SPS MS3 strategies"
+    ],
+    "Comment[FractionIdentifier]": [
+      "A3"
+    ]
+  },
+  "PAB9129A25RW31_A6.raw": {
+    "Source Name": [
+      "mature schizonts and merozoites"
+    ],
+    "Assay Name": [
+      "mature schizonts and merozoites_PAB9129A25RW31_A6"
+    ],
+    "Raw Data File": [
+      "PAB9129A25RW31_A6.raw"
+    ],
+    "Characteristics[Organism]": [
+      "P. falciparum"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "mature schizonts and merozoites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "4 μg LysC (WAKO)",
+      "10 μg trypsin (Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "0.8 mg Tandem Mass Tag 10plex isobaric reagent kit (Thermo Scientific)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "two isobaric labelling experiments"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three DMSO-treated samples",
+      "the three RAP-treated"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sequential metal oxide affinity chromatography (SMOAC) strategy",
+      "High Select TiO2 and Fe-NTA enrichment kits (Thermo Scientific)"
+    ],
+    "Comment[FractionationMethod]": [
+      "Pierce High pH Reversed-Phase Peptide Fractionation kit (Thermo Scientific)"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "U3000 RSLCnano system (Thermo Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "3-h gradient run"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "MS2 HCD and MSA SPS MS3 strategies"
+    ],
+    "Comment[FractionIdentifier]": [
+      "A6"
+    ]
+  },
+  "PAB9129A26RW23_B2.raw": {
+    "Source Name": [
+      "mature schizonts and merozoites"
+    ],
+    "Assay Name": [
+      "mature schizonts and merozoites_PAB9129A26RW23_B2"
+    ],
+    "Raw Data File": [
+      "PAB9129A26RW23_B2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "P. falciparum"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "mature schizonts and merozoites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "4 μg LysC (WAKO)",
+      "10 μg trypsin (Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "0.8 mg Tandem Mass Tag 10plex isobaric reagent kit (Thermo Scientific)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "two isobaric labelling experiments"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three DMSO-treated samples",
+      "the three RAP-treated"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sequential metal oxide affinity chromatography (SMOAC) strategy",
+      "High Select TiO2 and Fe-NTA enrichment kits (Thermo Scientific)"
+    ],
+    "Comment[FractionationMethod]": [
+      "Pierce High pH Reversed-Phase Peptide Fractionation kit (Thermo Scientific)"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "U3000 RSLCnano system (Thermo Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "3-h gradient run"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "MS2 HCD and MSA SPS MS3 strategies"
+    ],
+    "Comment[FractionIdentifier]": [
+      "B2"
+    ]
+  },
+  "PAB9129A25RW21_A1.raw": {
+    "Source Name": [
+      "mature schizonts and merozoites"
+    ],
+    "Assay Name": [
+      "mature schizonts and merozoites_PAB9129A25RW21_A1"
+    ],
+    "Raw Data File": [
+      "PAB9129A25RW21_A1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "P. falciparum"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "mature schizonts and merozoites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "4 μg LysC (WAKO)",
+      "10 μg trypsin (Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "0.8 mg Tandem Mass Tag 10plex isobaric reagent kit (Thermo Scientific)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "two isobaric labelling experiments"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three DMSO-treated samples",
+      "the three RAP-treated"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sequential metal oxide affinity chromatography (SMOAC) strategy",
+      "High Select TiO2 and Fe-NTA enrichment kits (Thermo Scientific)"
+    ],
+    "Comment[FractionationMethod]": [
+      "Pierce High pH Reversed-Phase Peptide Fractionation kit (Thermo Scientific)"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "U3000 RSLCnano system (Thermo Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "3-h gradient run"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "MS2 HCD and MSA SPS MS3 strategies"
+    ],
+    "Comment[FractionIdentifier]": [
+      "A1"
+    ]
+  },
+  "PAB9129A25RW23_A2.raw": {
+    "Source Name": [
+      "mature schizonts and merozoites"
+    ],
+    "Assay Name": [
+      "mature schizonts and merozoites_PAB9129A25RW23_A2"
+    ],
+    "Raw Data File": [
+      "PAB9129A25RW23_A2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "P. falciparum"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "mature schizonts and merozoites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "4 μg LysC (WAKO)",
+      "10 μg trypsin (Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "0.8 mg Tandem Mass Tag 10plex isobaric reagent kit (Thermo Scientific)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "two isobaric labelling experiments"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three DMSO-treated samples",
+      "the three RAP-treated"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sequential metal oxide affinity chromatography (SMOAC) strategy",
+      "High Select TiO2 and Fe-NTA enrichment kits (Thermo Scientific)"
+    ],
+    "Comment[FractionationMethod]": [
+      "Pierce High pH Reversed-Phase Peptide Fractionation kit (Thermo Scientific)"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "U3000 RSLCnano system (Thermo Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "3-h gradient run"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "MS2 HCD and MSA SPS MS3 strategies"
+    ],
+    "Comment[FractionIdentifier]": [
+      "A2"
+    ]
+  },
+  "PAB9129A26RW30_B6.raw": {
+    "Source Name": [
+      "mature schizonts and merozoites"
+    ],
+    "Assay Name": [
+      "mature schizonts and merozoites_PAB9129A26RW30_B6"
+    ],
+    "Raw Data File": [
+      "PAB9129A26RW30_B6.raw"
+    ],
+    "Characteristics[Organism]": [
+      "P. falciparum"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "mature schizonts and merozoites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "4 μg LysC (WAKO)",
+      "10 μg trypsin (Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "0.8 mg Tandem Mass Tag 10plex isobaric reagent kit (Thermo Scientific)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "two isobaric labelling experiments"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three DMSO-treated samples",
+      "the three RAP-treated"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sequential metal oxide affinity chromatography (SMOAC) strategy",
+      "High Select TiO2 and Fe-NTA enrichment kits (Thermo Scientific)"
+    ],
+    "Comment[FractionationMethod]": [
+      "Pierce High pH Reversed-Phase Peptide Fractionation kit (Thermo Scientific)"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "U3000 RSLCnano system (Thermo Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "3-h gradient run"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "MS2 HCD and MSA SPS MS3 strategies"
+    ],
+    "Comment[FractionIdentifier]": [
+      "B6"
+    ]
+  },
+  "PAB9129A26RW35_B8.raw": {
+    "Source Name": [
+      "mature schizonts and merozoites"
+    ],
+    "Assay Name": [
+      "mature schizonts and merozoites_PAB9129A26RW35_B8"
+    ],
+    "Raw Data File": [
+      "PAB9129A26RW35_B8.raw"
+    ],
+    "Characteristics[Organism]": [
+      "P. falciparum"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "mature schizonts and merozoites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "4 μg LysC (WAKO)",
+      "10 μg trypsin (Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "0.8 mg Tandem Mass Tag 10plex isobaric reagent kit (Thermo Scientific)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "two isobaric labelling experiments"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three DMSO-treated samples",
+      "the three RAP-treated"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sequential metal oxide affinity chromatography (SMOAC) strategy",
+      "High Select TiO2 and Fe-NTA enrichment kits (Thermo Scientific)"
+    ],
+    "Comment[FractionationMethod]": [
+      "Pierce High pH Reversed-Phase Peptide Fractionation kit (Thermo Scientific)"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "U3000 RSLCnano system (Thermo Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "3-h gradient run"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "MS2 HCD and MSA SPS MS3 strategies"
+    ],
+    "Comment[FractionIdentifier]": [
+      "B8"
+    ]
+  },
+  "PAB9129A26RW25_B3.raw": {
+    "Source Name": [
+      "mature schizonts and merozoites"
+    ],
+    "Assay Name": [
+      "mature schizonts and merozoites_PAB9129A26RW25_B3"
+    ],
+    "Raw Data File": [
+      "PAB9129A26RW25_B3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "P. falciparum"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "mature schizonts and merozoites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "4 μg LysC (WAKO)",
+      "10 μg trypsin (Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "0.8 mg Tandem Mass Tag 10plex isobaric reagent kit (Thermo Scientific)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "two isobaric labelling experiments"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three DMSO-treated samples",
+      "the three RAP-treated"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sequential metal oxide affinity chromatography (SMOAC) strategy",
+      "High Select TiO2 and Fe-NTA enrichment kits (Thermo Scientific)"
+    ],
+    "Comment[FractionationMethod]": [
+      "Pierce High pH Reversed-Phase Peptide Fractionation kit (Thermo Scientific)"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "U3000 RSLCnano system (Thermo Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "3-h gradient run"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "MS2 HCD and MSA SPS MS3 strategies"
+    ],
+    "Comment[FractionIdentifier]": [
+      "B3"
+    ]
+  },
+  "PAB9129A25RW35_A8.raw": {
+    "Source Name": [
+      "mature schizonts and merozoites"
+    ],
+    "Assay Name": [
+      "mature schizonts and merozoites_PAB9129A25RW35_A8"
+    ],
+    "Raw Data File": [
+      "PAB9129A25RW35_A8.raw"
+    ],
+    "Characteristics[Organism]": [
+      "P. falciparum"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "mature schizonts and merozoites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "4 μg LysC (WAKO)",
+      "10 μg trypsin (Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "0.8 mg Tandem Mass Tag 10plex isobaric reagent kit (Thermo Scientific)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "two isobaric labelling experiments"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three DMSO-treated samples",
+      "the three RAP-treated"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sequential metal oxide affinity chromatography (SMOAC) strategy",
+      "High Select TiO2 and Fe-NTA enrichment kits (Thermo Scientific)"
+    ],
+    "Comment[FractionationMethod]": [
+      "Pierce High pH Reversed-Phase Peptide Fractionation kit (Thermo Scientific)"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "U3000 RSLCnano system (Thermo Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "3-h gradient run"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "MS2 HCD and MSA SPS MS3 strategies"
+    ],
+    "Comment[FractionIdentifier]": [
+      "A8"
+    ]
+  },
+  "PAB9129A26RW31_B6.raw": {
+    "Source Name": [
+      "mature schizonts and merozoites"
+    ],
+    "Assay Name": [
+      "mature schizonts and merozoites_PAB9129A26RW31_B6"
+    ],
+    "Raw Data File": [
+      "PAB9129A26RW31_B6.raw"
+    ],
+    "Characteristics[Organism]": [
+      "P. falciparum"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "mature schizonts and merozoites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "4 μg LysC (WAKO)",
+      "10 μg trypsin (Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "0.8 mg Tandem Mass Tag 10plex isobaric reagent kit (Thermo Scientific)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "two isobaric labelling experiments"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three DMSO-treated samples",
+      "the three RAP-treated"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sequential metal oxide affinity chromatography (SMOAC) strategy",
+      "High Select TiO2 and Fe-NTA enrichment kits (Thermo Scientific)"
+    ],
+    "Comment[FractionationMethod]": [
+      "Pierce High pH Reversed-Phase Peptide Fractionation kit (Thermo Scientific)"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "U3000 RSLCnano system (Thermo Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "3-h gradient run"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "MS2 HCD and MSA SPS MS3 strategies"
+    ],
+    "Comment[FractionIdentifier]": [
+      "B6"
+    ]
+  },
+  "PAB9129A26RW32_B7.raw": {
+    "Source Name": [
+      "mature schizonts and merozoites"
+    ],
+    "Assay Name": [
+      "mature schizonts and merozoites_PAB9129A26RW32_B7"
+    ],
+    "Raw Data File": [
+      "PAB9129A26RW32_B7.raw"
+    ],
+    "Characteristics[Organism]": [
+      "P. falciparum"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "mature schizonts and merozoites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "4 μg LysC (WAKO)",
+      "10 μg trypsin (Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "0.8 mg Tandem Mass Tag 10plex isobaric reagent kit (Thermo Scientific)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "two isobaric labelling experiments"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three DMSO-treated samples",
+      "the three RAP-treated"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sequential metal oxide affinity chromatography (SMOAC) strategy",
+      "High Select TiO2 and Fe-NTA enrichment kits (Thermo Scientific)"
+    ],
+    "Comment[FractionationMethod]": [
+      "Pierce High pH Reversed-Phase Peptide Fractionation kit (Thermo Scientific)"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "U3000 RSLCnano system (Thermo Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "3-h gradient run"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "MS2 HCD and MSA SPS MS3 strategies"
+    ],
+    "Comment[FractionIdentifier]": [
+      "B7"
+    ]
+  },
+  "PAB9129A25RW25_A3.raw": {
+    "Source Name": [
+      "mature schizonts and merozoites"
+    ],
+    "Assay Name": [
+      "mature schizonts and merozoites_PAB9129A25RW25_A3"
+    ],
+    "Raw Data File": [
+      "PAB9129A25RW25_A3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "P. falciparum"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "mature schizonts and merozoites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "4 μg LysC (WAKO)",
+      "10 μg trypsin (Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "0.8 mg Tandem Mass Tag 10plex isobaric reagent kit (Thermo Scientific)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "two isobaric labelling experiments"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three DMSO-treated samples",
+      "the three RAP-treated"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sequential metal oxide affinity chromatography (SMOAC) strategy",
+      "High Select TiO2 and Fe-NTA enrichment kits (Thermo Scientific)"
+    ],
+    "Comment[FractionationMethod]": [
+      "Pierce High pH Reversed-Phase Peptide Fractionation kit (Thermo Scientific)"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "U3000 RSLCnano system (Thermo Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "3-h gradient run"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "MS2 HCD and MSA SPS MS3 strategies"
+    ],
+    "Comment[FractionIdentifier]": [
+      "A3"
+    ]
+  },
+  "PAB9129A25RW33_A7.raw": {
+    "Source Name": [
+      "mature schizonts and merozoites"
+    ],
+    "Assay Name": [
+      "mature schizonts and merozoites_PAB9129A25RW33_A7"
+    ],
+    "Raw Data File": [
+      "PAB9129A25RW33_A7.raw"
+    ],
+    "Characteristics[Organism]": [
+      "P. falciparum"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "mature schizonts and merozoites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "4 μg LysC (WAKO)",
+      "10 μg trypsin (Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "0.8 mg Tandem Mass Tag 10plex isobaric reagent kit (Thermo Scientific)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "two isobaric labelling experiments"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three DMSO-treated samples",
+      "the three RAP-treated"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sequential metal oxide affinity chromatography (SMOAC) strategy",
+      "High Select TiO2 and Fe-NTA enrichment kits (Thermo Scientific)"
+    ],
+    "Comment[FractionationMethod]": [
+      "Pierce High pH Reversed-Phase Peptide Fractionation kit (Thermo Scientific)"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "U3000 RSLCnano system (Thermo Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "3-h gradient run"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "MS2 HCD and MSA SPS MS3 strategies"
+    ],
+    "Comment[FractionIdentifier]": [
+      "A7"
+    ]
+  },
+  "PAB9129A26RW24_B3.raw": {
+    "Source Name": [
+      "mature schizonts and merozoites"
+    ],
+    "Assay Name": [
+      "mature schizonts and merozoites_PAB9129A26RW24_B3"
+    ],
+    "Raw Data File": [
+      "PAB9129A26RW24_B3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "P. falciparum"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "mature schizonts and merozoites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "4 μg LysC (WAKO)",
+      "10 μg trypsin (Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "0.8 mg Tandem Mass Tag 10plex isobaric reagent kit (Thermo Scientific)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "two isobaric labelling experiments"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three DMSO-treated samples",
+      "the three RAP-treated"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sequential metal oxide affinity chromatography (SMOAC) strategy",
+      "High Select TiO2 and Fe-NTA enrichment kits (Thermo Scientific)"
+    ],
+    "Comment[FractionationMethod]": [
+      "Pierce High pH Reversed-Phase Peptide Fractionation kit (Thermo Scientific)"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "U3000 RSLCnano system (Thermo Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "3-h gradient run"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "MS2 HCD and MSA SPS MS3 strategies"
+    ],
+    "Comment[FractionIdentifier]": [
+      "B3"
+    ]
+  },
+  "PAB9129A26RW21_B1.raw": {
+    "Source Name": [
+      "mature schizonts and merozoites"
+    ],
+    "Assay Name": [
+      "mature schizonts and merozoites_PAB9129A26RW21_B1"
+    ],
+    "Raw Data File": [
+      "PAB9129A26RW21_B1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "P. falciparum"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "mature schizonts and merozoites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "4 μg LysC (WAKO)",
+      "10 μg trypsin (Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "0.8 mg Tandem Mass Tag 10plex isobaric reagent kit (Thermo Scientific)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "two isobaric labelling experiments"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three DMSO-treated samples",
+      "the three RAP-treated"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sequential metal oxide affinity chromatography (SMOAC) strategy",
+      "High Select TiO2 and Fe-NTA enrichment kits (Thermo Scientific)"
+    ],
+    "Comment[FractionationMethod]": [
+      "Pierce High pH Reversed-Phase Peptide Fractionation kit (Thermo Scientific)"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "U3000 RSLCnano system (Thermo Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "3-h gradient run"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "MS2 HCD and MSA SPS MS3 strategies"
+    ],
+    "Comment[FractionIdentifier]": [
+      "B1"
+    ]
+  },
+  "PAB9129A25RW30_A6.raw": {
+    "Source Name": [
+      "mature schizonts and merozoites"
+    ],
+    "Assay Name": [
+      "mature schizonts and merozoites_PAB9129A25RW30_A6"
+    ],
+    "Raw Data File": [
+      "PAB9129A25RW30_A6.raw"
+    ],
+    "Characteristics[Organism]": [
+      "P. falciparum"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "mature schizonts and merozoites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "4 μg LysC (WAKO)",
+      "10 μg trypsin (Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "0.8 mg Tandem Mass Tag 10plex isobaric reagent kit (Thermo Scientific)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "two isobaric labelling experiments"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three DMSO-treated samples",
+      "the three RAP-treated"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sequential metal oxide affinity chromatography (SMOAC) strategy",
+      "High Select TiO2 and Fe-NTA enrichment kits (Thermo Scientific)"
+    ],
+    "Comment[FractionationMethod]": [
+      "Pierce High pH Reversed-Phase Peptide Fractionation kit (Thermo Scientific)"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "U3000 RSLCnano system (Thermo Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "3-h gradient run"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "MS2 HCD and MSA SPS MS3 strategies"
+    ],
+    "Comment[FractionIdentifier]": [
+      "A6"
+    ]
+  },
+  "PAB9129A25RW34_A8.raw": {
+    "Source Name": [
+      "mature schizonts and merozoites"
+    ],
+    "Assay Name": [
+      "mature schizonts and merozoites_PAB9129A25RW34_A8"
+    ],
+    "Raw Data File": [
+      "PAB9129A25RW34_A8.raw"
+    ],
+    "Characteristics[Organism]": [
+      "P. falciparum"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "mature schizonts and merozoites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "4 μg LysC (WAKO)",
+      "10 μg trypsin (Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "0.8 mg Tandem Mass Tag 10plex isobaric reagent kit (Thermo Scientific)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "two isobaric labelling experiments"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three DMSO-treated samples",
+      "the three RAP-treated"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sequential metal oxide affinity chromatography (SMOAC) strategy",
+      "High Select TiO2 and Fe-NTA enrichment kits (Thermo Scientific)"
+    ],
+    "Comment[FractionationMethod]": [
+      "Pierce High pH Reversed-Phase Peptide Fractionation kit (Thermo Scientific)"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "U3000 RSLCnano system (Thermo Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "3-h gradient run"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "MS2 HCD and MSA SPS MS3 strategies"
+    ],
+    "Comment[FractionIdentifier]": [
+      "A8"
+    ]
+  },
+  "PAB9129A26RW22_B2.raw": {
+    "Source Name": [
+      "mature schizonts and merozoites"
+    ],
+    "Assay Name": [
+      "mature schizonts and merozoites_PAB9129A26RW22_B2"
+    ],
+    "Raw Data File": [
+      "PAB9129A26RW22_B2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "P. falciparum"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "mature schizonts and merozoites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "4 μg LysC (WAKO)",
+      "10 μg trypsin (Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "0.8 mg Tandem Mass Tag 10plex isobaric reagent kit (Thermo Scientific)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "two isobaric labelling experiments"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three DMSO-treated samples",
+      "the three RAP-treated"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sequential metal oxide affinity chromatography (SMOAC) strategy",
+      "High Select TiO2 and Fe-NTA enrichment kits (Thermo Scientific)"
+    ],
+    "Comment[FractionationMethod]": [
+      "Pierce High pH Reversed-Phase Peptide Fractionation kit (Thermo Scientific)"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "U3000 RSLCnano system (Thermo Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "3-h gradient run"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "MS2 HCD and MSA SPS MS3 strategies"
+    ],
+    "Comment[FractionIdentifier]": [
+      "B2"
+    ]
+  },
+  "PAB9129A26RW27_B4.raw": {
+    "Source Name": [
+      "mature schizonts and merozoites"
+    ],
+    "Assay Name": [
+      "mature schizonts and merozoites_PAB9129A26RW27_B4"
+    ],
+    "Raw Data File": [
+      "PAB9129A26RW27_B4.raw"
+    ],
+    "Characteristics[Organism]": [
+      "P. falciparum"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "mature schizonts and merozoites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "4 μg LysC (WAKO)",
+      "10 μg trypsin (Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "0.8 mg Tandem Mass Tag 10plex isobaric reagent kit (Thermo Scientific)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "two isobaric labelling experiments"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three DMSO-treated samples",
+      "the three RAP-treated"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sequential metal oxide affinity chromatography (SMOAC) strategy",
+      "High Select TiO2 and Fe-NTA enrichment kits (Thermo Scientific)"
+    ],
+    "Comment[FractionationMethod]": [
+      "Pierce High pH Reversed-Phase Peptide Fractionation kit (Thermo Scientific)"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "U3000 RSLCnano system (Thermo Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "3-h gradient run"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "MS2 HCD and MSA SPS MS3 strategies"
+    ],
+    "Comment[FractionIdentifier]": [
+      "B4"
+    ]
+  },
+  "PAB9129A26RW33_B7.raw": {
+    "Source Name": [
+      "mature schizonts and merozoites"
+    ],
+    "Assay Name": [
+      "mature schizonts and merozoites_PAB9129A26RW33_B7"
+    ],
+    "Raw Data File": [
+      "PAB9129A26RW33_B7.raw"
+    ],
+    "Characteristics[Organism]": [
+      "P. falciparum"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "mature schizonts and merozoites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "4 μg LysC (WAKO)",
+      "10 μg trypsin (Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "0.8 mg Tandem Mass Tag 10plex isobaric reagent kit (Thermo Scientific)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "two isobaric labelling experiments"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three DMSO-treated samples",
+      "the three RAP-treated"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sequential metal oxide affinity chromatography (SMOAC) strategy",
+      "High Select TiO2 and Fe-NTA enrichment kits (Thermo Scientific)"
+    ],
+    "Comment[FractionationMethod]": [
+      "Pierce High pH Reversed-Phase Peptide Fractionation kit (Thermo Scientific)"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "U3000 RSLCnano system (Thermo Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "3-h gradient run"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "MS2 HCD and MSA SPS MS3 strategies"
+    ],
+    "Comment[FractionIdentifier]": [
+      "B7"
+    ]
+  },
+  "PAB9129A25RW32_A7.raw": {
+    "Source Name": [
+      "mature schizonts and merozoites"
+    ],
+    "Assay Name": [
+      "mature schizonts and merozoites_PAB9129A25RW32_A7"
+    ],
+    "Raw Data File": [
+      "PAB9129A25RW32_A7.raw"
+    ],
+    "Characteristics[Organism]": [
+      "P. falciparum"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "mature schizonts and merozoites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "4 μg LysC (WAKO)",
+      "10 μg trypsin (Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "0.8 mg Tandem Mass Tag 10plex isobaric reagent kit (Thermo Scientific)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "two isobaric labelling experiments"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three DMSO-treated samples",
+      "the three RAP-treated"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sequential metal oxide affinity chromatography (SMOAC) strategy",
+      "High Select TiO2 and Fe-NTA enrichment kits (Thermo Scientific)"
+    ],
+    "Comment[FractionationMethod]": [
+      "Pierce High pH Reversed-Phase Peptide Fractionation kit (Thermo Scientific)"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "U3000 RSLCnano system (Thermo Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "3-h gradient run"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "MS2 HCD and MSA SPS MS3 strategies"
+    ],
+    "Comment[FractionIdentifier]": [
+      "A7"
+    ]
+  },
+  "PAB9129A25RW29_A5.raw": {
+    "Source Name": [
+      "mature schizonts and merozoites"
+    ],
+    "Assay Name": [
+      "mature schizonts and merozoites_PAB9129A25RW29_A5"
+    ],
+    "Raw Data File": [
+      "PAB9129A25RW29_A5.raw"
+    ],
+    "Characteristics[Organism]": [
+      "P. falciparum"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "mature schizonts and merozoites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "4 μg LysC (WAKO)",
+      "10 μg trypsin (Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "0.8 mg Tandem Mass Tag 10plex isobaric reagent kit (Thermo Scientific)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "two isobaric labelling experiments"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three DMSO-treated samples",
+      "the three RAP-treated"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sequential metal oxide affinity chromatography (SMOAC) strategy",
+      "High Select TiO2 and Fe-NTA enrichment kits (Thermo Scientific)"
+    ],
+    "Comment[FractionationMethod]": [
+      "Pierce High pH Reversed-Phase Peptide Fractionation kit (Thermo Scientific)"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "U3000 RSLCnano system (Thermo Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "3-h gradient run"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "MS2 HCD and MSA SPS MS3 strategies"
+    ],
+    "Comment[FractionIdentifier]": [
+      "A5"
+    ]
+  },
+  "PAB9129A26RW28_B5.raw": {
+    "Source Name": [
+      "mature schizonts and merozoites"
+    ],
+    "Assay Name": [
+      "mature schizonts and merozoites_PAB9129A26RW28_B5"
+    ],
+    "Raw Data File": [
+      "PAB9129A26RW28_B5.raw"
+    ],
+    "Characteristics[Organism]": [
+      "P. falciparum"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "mature schizonts and merozoites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "4 μg LysC (WAKO)",
+      "10 μg trypsin (Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "0.8 mg Tandem Mass Tag 10plex isobaric reagent kit (Thermo Scientific)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "two isobaric labelling experiments"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three DMSO-treated samples",
+      "the three RAP-treated"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sequential metal oxide affinity chromatography (SMOAC) strategy",
+      "High Select TiO2 and Fe-NTA enrichment kits (Thermo Scientific)"
+    ],
+    "Comment[FractionationMethod]": [
+      "Pierce High pH Reversed-Phase Peptide Fractionation kit (Thermo Scientific)"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "U3000 RSLCnano system (Thermo Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "3-h gradient run"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "MS2 HCD and MSA SPS MS3 strategies"
+    ],
+    "Comment[FractionIdentifier]": [
+      "B5"
+    ]
+  },
+  "PAB9129A25RW27_A4.raw": {
+    "Source Name": [
+      "mature schizonts and merozoites"
+    ],
+    "Assay Name": [
+      "mature schizonts and merozoites_PAB9129A25RW27_A4"
+    ],
+    "Raw Data File": [
+      "PAB9129A25RW27_A4.raw"
+    ],
+    "Characteristics[Organism]": [
+      "P. falciparum"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "mature schizonts and merozoites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "4 μg LysC (WAKO)",
+      "10 μg trypsin (Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "0.8 mg Tandem Mass Tag 10plex isobaric reagent kit (Thermo Scientific)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "two isobaric labelling experiments"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three DMSO-treated samples",
+      "the three RAP-treated"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sequential metal oxide affinity chromatography (SMOAC) strategy",
+      "High Select TiO2 and Fe-NTA enrichment kits (Thermo Scientific)"
+    ],
+    "Comment[FractionationMethod]": [
+      "Pierce High pH Reversed-Phase Peptide Fractionation kit (Thermo Scientific)"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "U3000 RSLCnano system (Thermo Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "3-h gradient run"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "MS2 HCD and MSA SPS MS3 strategies"
+    ],
+    "Comment[FractionIdentifier]": [
+      "A4"
+    ]
+  },
+  "PAB9129A26RW20_B1.raw": {
+    "Source Name": [
+      "mature schizonts and merozoites"
+    ],
+    "Assay Name": [
+      "mature schizonts and merozoites_PAB9129A26RW20_B1"
+    ],
+    "Raw Data File": [
+      "PAB9129A26RW20_B1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "P. falciparum"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "mature schizonts and merozoites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "4 μg LysC (WAKO)",
+      "10 μg trypsin (Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "0.8 mg Tandem Mass Tag 10plex isobaric reagent kit (Thermo Scientific)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "two isobaric labelling experiments"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three DMSO-treated samples",
+      "the three RAP-treated"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "sequential metal oxide affinity chromatography (SMOAC) strategy",
+      "High Select TiO2 and Fe-NTA enrichment kits (Thermo Scientific)"
+    ],
+    "Comment[FractionationMethod]": [
+      "Pierce High pH Reversed-Phase Peptide Fractionation kit (Thermo Scientific)"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "U3000 RSLCnano system (Thermo Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "3-h gradient run"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "MS2 HCD and MSA SPS MS3 strategies"
+    ],
+    "Comment[FractionIdentifier]": [
+      "B1"
+    ]
+  }
+}

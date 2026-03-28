@@ -1,0 +1,42 @@
+Organism: Escherichia coli  
+FactorValue: growth rate-dependent manner  
+FactorValue: high or low growth rates  
+AssayName: quantitative proteomics approach  
+Organism: Escherichia coli W3110  
+Organism: Escherichia coli BL21 Δarg/Δlys  
+ConcentrationOfCompound: ampicillin (Amp) 100 μg/mL  
+ConcentrationOfCompound: kanamycin (Kan) 50 μg/mL  
+ConcentrationOfCompound: chloramphenicol (Cm) 25 μg/mL  
+ConcentrationOfCompound: spectinomycin (Sp) 300 μg/mL  
+Temperature: 30°C  
+Temperature: 37°C  
+Temperature: 40°C  
+Temperature: 4°C  
+Compound: AHT  
+Compound: IPTG  
+EnrichmentMethod: Strep-tactin affinity purification  
+EnrichmentMethod: nickel-nitrilotriacetic acid (Ni-NTA) affinity purification  
+AssayName: LC-MS/MS  
+Instrument: Orbitrap Elite hybrid ion trap-Orbitrap mass spectrometer  
+FlowRateChromatogram: 30 μL/min  
+FlowRateChromatogram: 400 nL/min  
+GradientTime: 120 min  
+CollisionEnergy: 35%  
+PrecursorMassTolerance: 20 ppm  
+FragmentMassTolerance: 0.5 Da  
+NumberOfMissedCleavages: 2  
+CleavageAgent: trypsin  
+Compound: L-arginine: HCL (U-13C6, 15N4) (Arg10)  
+Compound: L-lysine: 2HCL (13C6, 15N2) (Lys8)  
+ConcentrationOfCompound: 1% glucose  
+NumberOfBiologicalReplicates: three biological replicates  
+NumberOfSamples: 36  
+Separation: SDS-PAGE  
+Time: 30 min  
+Time: overnight at 37°C  
+Time: 45 min  
+Time: 10 min  
+ConcentrationOfCompound: 0.1% arabinose  
+ConcentrationOfCompound: 0.1–0.5 mM IPTG  
+ConcentrationOfCompound: 0.05 mM IPTG  
+ConcentrationOfCompound: 300 μg/mL Sp

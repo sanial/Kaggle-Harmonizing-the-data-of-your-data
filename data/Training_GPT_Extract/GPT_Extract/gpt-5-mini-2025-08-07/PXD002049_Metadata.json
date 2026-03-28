@@ -1,0 +1,3107 @@
+{
+  "TCGA-AG-A01J-01A-22_W_VU_20121231_A0218_8F_R_FR02.raw": {
+    "Source Name": [
+      "TCGA-AG-A01J-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AG-A01J-01A-22_FR02"
+    ],
+    "Raw Data File": [
+      "TCGA-AG-A01J-01A-22_W_VU_20121231_A0218_8F_R_FR02.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor blocks"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue specimens"
+    ],
+    "Characteristics[OrganismPart]": [
+      "TCGA colorectal tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin,"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine (TCEP, 20 mM) and dithiothreitol (DTT, 50 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (IAM, 100 mM)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "95 carcinoma and 60 normal epithelial samples"
+    ],
+    "FactorValue[Treatment]": [
+      "carcinoma"
+    ],
+    "Comment[Instrument]": [
+      "Thermo LTQ Orbitrap Velos ion trap mass spectrometer equipped with an Eksigent NanoLC 2D pump and AS-1 autosampler"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "reverse phase liquid chromatography-tandem mass spectrometry.",
+      "eight data-dependent MS/MS scans"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reverse phase liquid chromatography (bRPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "15 concatenated peptide fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR02"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.5 ml/min",
+      "flow-rate of 1.5 μl min−1"
+    ],
+    "Comment[GradientTime]": [
+      "over the 105 min gradient",
+      "A 95 min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor tolerances of 10 ppm",
+      "used a 20 ppm window"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragments to vary by up to 0.5 m/z"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "ion trap"
+    ]
+  },
+  "TCGA-AG-A011-01A-32_W_VU_20120829_A0218_2I_R_FR14.raw": {
+    "Source Name": [
+      "TCGA-AG-A011-01A-32"
+    ],
+    "Assay Name": [
+      "TCGA-AG-A011-01A-32_FR14"
+    ],
+    "Raw Data File": [
+      "TCGA-AG-A011-01A-32_W_VU_20120829_A0218_2I_R_FR14.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor blocks"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue specimens"
+    ],
+    "Characteristics[OrganismPart]": [
+      "TCGA colorectal tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin,"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine (TCEP, 20 mM) and dithiothreitol (DTT, 50 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (IAM, 100 mM)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "95 carcinoma and 60 normal epithelial samples"
+    ],
+    "FactorValue[Treatment]": [
+      "carcinoma"
+    ],
+    "Comment[Instrument]": [
+      "Thermo LTQ Orbitrap Velos ion trap mass spectrometer equipped with an Eksigent NanoLC 2D pump and AS-1 autosampler"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "reverse phase liquid chromatography-tandem mass spectrometry.",
+      "eight data-dependent MS/MS scans"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reverse phase liquid chromatography (bRPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "15 concatenated peptide fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR14"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.5 ml/min",
+      "flow-rate of 1.5 μl min−1"
+    ],
+    "Comment[GradientTime]": [
+      "over the 105 min gradient",
+      "A 95 min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor tolerances of 10 ppm",
+      "used a 20 ppm window"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragments to vary by up to 0.5 m/z"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "ion trap"
+    ]
+  },
+  "TCGA-AG-A011-01A-32_W_VU_20120828_A0218_2I_R_FR05.raw": {
+    "Source Name": [
+      "TCGA-AG-A011-01A-32"
+    ],
+    "Assay Name": [
+      "TCGA-AG-A011-01A-32_FR05"
+    ],
+    "Raw Data File": [
+      "TCGA-AG-A011-01A-32_W_VU_20120828_A0218_2I_R_FR05.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor blocks"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue specimens"
+    ],
+    "Characteristics[OrganismPart]": [
+      "TCGA colorectal tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin,"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine (TCEP, 20 mM) and dithiothreitol (DTT, 50 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (IAM, 100 mM)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "95 carcinoma and 60 normal epithelial samples"
+    ],
+    "FactorValue[Treatment]": [
+      "carcinoma"
+    ],
+    "Comment[Instrument]": [
+      "Thermo LTQ Orbitrap Velos ion trap mass spectrometer equipped with an Eksigent NanoLC 2D pump and AS-1 autosampler"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "reverse phase liquid chromatography-tandem mass spectrometry.",
+      "eight data-dependent MS/MS scans"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reverse phase liquid chromatography (bRPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "15 concatenated peptide fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR05"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.5 ml/min",
+      "flow-rate of 1.5 μl min−1"
+    ],
+    "Comment[GradientTime]": [
+      "over the 105 min gradient",
+      "A 95 min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor tolerances of 10 ppm",
+      "used a 20 ppm window"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragments to vary by up to 0.5 m/z"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "ion trap"
+    ]
+  },
+  "TCGA-AG-A01J-01A-22_W_VU_20121231_A0218_8F_R_FR08.raw": {
+    "Source Name": [
+      "TCGA-AG-A01J-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AG-A01J-01A-22_FR08"
+    ],
+    "Raw Data File": [
+      "TCGA-AG-A01J-01A-22_W_VU_20121231_A0218_8F_R_FR08.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor blocks"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue specimens"
+    ],
+    "Characteristics[OrganismPart]": [
+      "TCGA colorectal tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin,"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine (TCEP, 20 mM) and dithiothreitol (DTT, 50 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (IAM, 100 mM)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "95 carcinoma and 60 normal epithelial samples"
+    ],
+    "FactorValue[Treatment]": [
+      "carcinoma"
+    ],
+    "Comment[Instrument]": [
+      "Thermo LTQ Orbitrap Velos ion trap mass spectrometer equipped with an Eksigent NanoLC 2D pump and AS-1 autosampler"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "reverse phase liquid chromatography-tandem mass spectrometry.",
+      "eight data-dependent MS/MS scans"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reverse phase liquid chromatography (bRPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "15 concatenated peptide fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR08"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.5 ml/min",
+      "flow-rate of 1.5 μl min−1"
+    ],
+    "Comment[GradientTime]": [
+      "over the 105 min gradient",
+      "A 95 min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor tolerances of 10 ppm",
+      "used a 20 ppm window"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragments to vary by up to 0.5 m/z"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "ion trap"
+    ]
+  },
+  "TCGA-AG-A01N-01A-23_W_VU_20130105_A0218_8I_R_FR12.raw": {
+    "Source Name": [
+      "TCGA-AG-A01N-01A-23"
+    ],
+    "Assay Name": [
+      "TCGA-AG-A01N-01A-23_FR12"
+    ],
+    "Raw Data File": [
+      "TCGA-AG-A01N-01A-23_W_VU_20130105_A0218_8I_R_FR12.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor blocks"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue specimens"
+    ],
+    "Characteristics[OrganismPart]": [
+      "TCGA colorectal tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin,"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine (TCEP, 20 mM) and dithiothreitol (DTT, 50 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (IAM, 100 mM)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "95 carcinoma and 60 normal epithelial samples"
+    ],
+    "FactorValue[Treatment]": [
+      "carcinoma"
+    ],
+    "Comment[Instrument]": [
+      "Thermo LTQ Orbitrap Velos ion trap mass spectrometer equipped with an Eksigent NanoLC 2D pump and AS-1 autosampler"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "reverse phase liquid chromatography-tandem mass spectrometry.",
+      "eight data-dependent MS/MS scans"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reverse phase liquid chromatography (bRPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "15 concatenated peptide fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR12"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.5 ml/min",
+      "flow-rate of 1.5 μl min−1"
+    ],
+    "Comment[GradientTime]": [
+      "over the 105 min gradient",
+      "A 95 min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor tolerances of 10 ppm",
+      "used a 20 ppm window"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragments to vary by up to 0.5 m/z"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "ion trap"
+    ]
+  },
+  "TCGA-AG-A01W-01A-23_W_VU_20121115_A0218_6C_R_FR01.raw": {
+    "Source Name": [
+      "TCGA-AG-A01W-01A-23"
+    ],
+    "Assay Name": [
+      "TCGA-AG-A01W-01A-23_FR01"
+    ],
+    "Raw Data File": [
+      "TCGA-AG-A01W-01A-23_W_VU_20121115_A0218_6C_R_FR01.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor blocks"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue specimens"
+    ],
+    "Characteristics[OrganismPart]": [
+      "TCGA colorectal tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin,"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine (TCEP, 20 mM) and dithiothreitol (DTT, 50 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (IAM, 100 mM)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "95 carcinoma and 60 normal epithelial samples"
+    ],
+    "FactorValue[Treatment]": [
+      "carcinoma"
+    ],
+    "Comment[Instrument]": [
+      "Thermo LTQ Orbitrap Velos ion trap mass spectrometer equipped with an Eksigent NanoLC 2D pump and AS-1 autosampler"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "reverse phase liquid chromatography-tandem mass spectrometry.",
+      "eight data-dependent MS/MS scans"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reverse phase liquid chromatography (bRPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "15 concatenated peptide fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR01"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.5 ml/min",
+      "flow-rate of 1.5 μl min−1"
+    ],
+    "Comment[GradientTime]": [
+      "over the 105 min gradient",
+      "A 95 min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor tolerances of 10 ppm",
+      "used a 20 ppm window"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragments to vary by up to 0.5 m/z"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "ion trap"
+    ]
+  },
+  "TCGA-AG-A01W-01A-23_W_VU_20121116_A0218_6C_R_FR10.raw": {
+    "Source Name": [
+      "TCGA-AG-A01W-01A-23"
+    ],
+    "Assay Name": [
+      "TCGA-AG-A01W-01A-23_FR10"
+    ],
+    "Raw Data File": [
+      "TCGA-AG-A01W-01A-23_W_VU_20121116_A0218_6C_R_FR10.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor blocks"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue specimens"
+    ],
+    "Characteristics[OrganismPart]": [
+      "TCGA colorectal tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin,"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine (TCEP, 20 mM) and dithiothreitol (DTT, 50 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (IAM, 100 mM)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "95 carcinoma and 60 normal epithelial samples"
+    ],
+    "FactorValue[Treatment]": [
+      "carcinoma"
+    ],
+    "Comment[Instrument]": [
+      "Thermo LTQ Orbitrap Velos ion trap mass spectrometer equipped with an Eksigent NanoLC 2D pump and AS-1 autosampler"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "reverse phase liquid chromatography-tandem mass spectrometry.",
+      "eight data-dependent MS/MS scans"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reverse phase liquid chromatography (bRPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "15 concatenated peptide fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR10"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.5 ml/min",
+      "flow-rate of 1.5 μl min−1"
+    ],
+    "Comment[GradientTime]": [
+      "over the 105 min gradient",
+      "A 95 min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor tolerances of 10 ppm",
+      "used a 20 ppm window"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragments to vary by up to 0.5 m/z"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "ion trap"
+    ]
+  },
+  "TCGA-AG-A00Y-01A-12_W_VU_20121016_A0218_4G_R_FR01.raw": {
+    "Source Name": [
+      "TCGA-AG-A00Y-01A-12"
+    ],
+    "Assay Name": [
+      "TCGA-AG-A00Y-01A-12_FR01"
+    ],
+    "Raw Data File": [
+      "TCGA-AG-A00Y-01A-12_W_VU_20121016_A0218_4G_R_FR01.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor blocks"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue specimens"
+    ],
+    "Characteristics[OrganismPart]": [
+      "TCGA colorectal tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin,"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine (TCEP, 20 mM) and dithiothreitol (DTT, 50 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (IAM, 100 mM)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "95 carcinoma and 60 normal epithelial samples"
+    ],
+    "FactorValue[Treatment]": [
+      "carcinoma"
+    ],
+    "Comment[Instrument]": [
+      "Thermo LTQ Orbitrap Velos ion trap mass spectrometer equipped with an Eksigent NanoLC 2D pump and AS-1 autosampler"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "reverse phase liquid chromatography-tandem mass spectrometry.",
+      "eight data-dependent MS/MS scans"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reverse phase liquid chromatography (bRPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "15 concatenated peptide fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR01"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.5 ml/min",
+      "flow-rate of 1.5 μl min−1"
+    ],
+    "Comment[GradientTime]": [
+      "over the 105 min gradient",
+      "A 95 min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor tolerances of 10 ppm",
+      "used a 20 ppm window"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragments to vary by up to 0.5 m/z"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "ion trap"
+    ]
+  },
+  "TCGA-AG-A01N-01A-23_W_VU_20130104_A0218_8I_R_FR02.raw": {
+    "Source Name": [
+      "TCGA-AG-A01N-01A-23"
+    ],
+    "Assay Name": [
+      "TCGA-AG-A01N-01A-23_FR02"
+    ],
+    "Raw Data File": [
+      "TCGA-AG-A01N-01A-23_W_VU_20130104_A0218_8I_R_FR02.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor blocks"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue specimens"
+    ],
+    "Characteristics[OrganismPart]": [
+      "TCGA colorectal tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin,"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine (TCEP, 20 mM) and dithiothreitol (DTT, 50 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (IAM, 100 mM)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "95 carcinoma and 60 normal epithelial samples"
+    ],
+    "FactorValue[Treatment]": [
+      "carcinoma"
+    ],
+    "Comment[Instrument]": [
+      "Thermo LTQ Orbitrap Velos ion trap mass spectrometer equipped with an Eksigent NanoLC 2D pump and AS-1 autosampler"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "reverse phase liquid chromatography-tandem mass spectrometry.",
+      "eight data-dependent MS/MS scans"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reverse phase liquid chromatography (bRPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "15 concatenated peptide fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR02"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.5 ml/min",
+      "flow-rate of 1.5 μl min−1"
+    ],
+    "Comment[GradientTime]": [
+      "over the 105 min gradient",
+      "A 95 min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor tolerances of 10 ppm",
+      "used a 20 ppm window"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragments to vary by up to 0.5 m/z"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "ion trap"
+    ]
+  },
+  "TCGA-AG-A01W-01A-23_W_VU_20121116_A0218_6C_R_FR15.raw": {
+    "Source Name": [
+      "TCGA-AG-A01W-01A-23"
+    ],
+    "Assay Name": [
+      "TCGA-AG-A01W-01A-23_FR15"
+    ],
+    "Raw Data File": [
+      "TCGA-AG-A01W-01A-23_W_VU_20121116_A0218_6C_R_FR15.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor blocks"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue specimens"
+    ],
+    "Characteristics[OrganismPart]": [
+      "TCGA colorectal tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin,"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine (TCEP, 20 mM) and dithiothreitol (DTT, 50 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (IAM, 100 mM)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "95 carcinoma and 60 normal epithelial samples"
+    ],
+    "FactorValue[Treatment]": [
+      "carcinoma"
+    ],
+    "Comment[Instrument]": [
+      "Thermo LTQ Orbitrap Velos ion trap mass spectrometer equipped with an Eksigent NanoLC 2D pump and AS-1 autosampler"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "reverse phase liquid chromatography-tandem mass spectrometry.",
+      "eight data-dependent MS/MS scans"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reverse phase liquid chromatography (bRPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "15 concatenated peptide fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR15"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.5 ml/min",
+      "flow-rate of 1.5 μl min−1"
+    ],
+    "Comment[GradientTime]": [
+      "over the 105 min gradient",
+      "A 95 min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor tolerances of 10 ppm",
+      "used a 20 ppm window"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragments to vary by up to 0.5 m/z"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "ion trap"
+    ]
+  },
+  "TCGA-AG-A01W-01A-23_W_VU_20121116_A0218_6C_R_FR09.raw": {
+    "Source Name": [
+      "TCGA-AG-A01W-01A-23"
+    ],
+    "Assay Name": [
+      "TCGA-AG-A01W-01A-23_FR09"
+    ],
+    "Raw Data File": [
+      "TCGA-AG-A01W-01A-23_W_VU_20121116_A0218_6C_R_FR09.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor blocks"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue specimens"
+    ],
+    "Characteristics[OrganismPart]": [
+      "TCGA colorectal tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin,"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine (TCEP, 20 mM) and dithiothreitol (DTT, 50 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (IAM, 100 mM)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "95 carcinoma and 60 normal epithelial samples"
+    ],
+    "FactorValue[Treatment]": [
+      "carcinoma"
+    ],
+    "Comment[Instrument]": [
+      "Thermo LTQ Orbitrap Velos ion trap mass spectrometer equipped with an Eksigent NanoLC 2D pump and AS-1 autosampler"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "reverse phase liquid chromatography-tandem mass spectrometry.",
+      "eight data-dependent MS/MS scans"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reverse phase liquid chromatography (bRPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "15 concatenated peptide fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR09"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.5 ml/min",
+      "flow-rate of 1.5 μl min−1"
+    ],
+    "Comment[GradientTime]": [
+      "over the 105 min gradient",
+      "A 95 min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor tolerances of 10 ppm",
+      "used a 20 ppm window"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragments to vary by up to 0.5 m/z"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "ion trap"
+    ]
+  },
+  "TCGA-AG-A00Y-01A-12_W_VU_20121017_A0218_4G_R_FR13.raw": {
+    "Source Name": [
+      "TCGA-AG-A00Y-01A-12"
+    ],
+    "Assay Name": [
+      "TCGA-AG-A00Y-01A-12_FR13"
+    ],
+    "Raw Data File": [
+      "TCGA-AG-A00Y-01A-12_W_VU_20121017_A0218_4G_R_FR13.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor blocks"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue specimens"
+    ],
+    "Characteristics[OrganismPart]": [
+      "TCGA colorectal tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin,"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine (TCEP, 20 mM) and dithiothreitol (DTT, 50 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (IAM, 100 mM)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "95 carcinoma and 60 normal epithelial samples"
+    ],
+    "FactorValue[Treatment]": [
+      "carcinoma"
+    ],
+    "Comment[Instrument]": [
+      "Thermo LTQ Orbitrap Velos ion trap mass spectrometer equipped with an Eksigent NanoLC 2D pump and AS-1 autosampler"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "reverse phase liquid chromatography-tandem mass spectrometry.",
+      "eight data-dependent MS/MS scans"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reverse phase liquid chromatography (bRPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "15 concatenated peptide fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR13"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.5 ml/min",
+      "flow-rate of 1.5 μl min−1"
+    ],
+    "Comment[GradientTime]": [
+      "over the 105 min gradient",
+      "A 95 min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor tolerances of 10 ppm",
+      "used a 20 ppm window"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragments to vary by up to 0.5 m/z"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "ion trap"
+    ]
+  },
+  "TCGA-AG-A01J-01A-22_W_VU_20121231_A0218_8F_R_FR11.raw": {
+    "Source Name": [
+      "TCGA-AG-A01J-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AG-A01J-01A-22_FR11"
+    ],
+    "Raw Data File": [
+      "TCGA-AG-A01J-01A-22_W_VU_20121231_A0218_8F_R_FR11.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor blocks"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue specimens"
+    ],
+    "Characteristics[OrganismPart]": [
+      "TCGA colorectal tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin,"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine (TCEP, 20 mM) and dithiothreitol (DTT, 50 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (IAM, 100 mM)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "95 carcinoma and 60 normal epithelial samples"
+    ],
+    "FactorValue[Treatment]": [
+      "carcinoma"
+    ],
+    "Comment[Instrument]": [
+      "Thermo LTQ Orbitrap Velos ion trap mass spectrometer equipped with an Eksigent NanoLC 2D pump and AS-1 autosampler"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "reverse phase liquid chromatography-tandem mass spectrometry.",
+      "eight data-dependent MS/MS scans"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reverse phase liquid chromatography (bRPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "15 concatenated peptide fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR11"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.5 ml/min",
+      "flow-rate of 1.5 μl min−1"
+    ],
+    "Comment[GradientTime]": [
+      "over the 105 min gradient",
+      "A 95 min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor tolerances of 10 ppm",
+      "used a 20 ppm window"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragments to vary by up to 0.5 m/z"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "ion trap"
+    ]
+  },
+  "TCGA-AG-A01N-01A-23_W_VU_20130105_A0218_8I_R_FR15.raw": {
+    "Source Name": [
+      "TCGA-AG-A01N-01A-23"
+    ],
+    "Assay Name": [
+      "TCGA-AG-A01N-01A-23_FR15"
+    ],
+    "Raw Data File": [
+      "TCGA-AG-A01N-01A-23_W_VU_20130105_A0218_8I_R_FR15.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor blocks"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue specimens"
+    ],
+    "Characteristics[OrganismPart]": [
+      "TCGA colorectal tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin,"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine (TCEP, 20 mM) and dithiothreitol (DTT, 50 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (IAM, 100 mM)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "95 carcinoma and 60 normal epithelial samples"
+    ],
+    "FactorValue[Treatment]": [
+      "carcinoma"
+    ],
+    "Comment[Instrument]": [
+      "Thermo LTQ Orbitrap Velos ion trap mass spectrometer equipped with an Eksigent NanoLC 2D pump and AS-1 autosampler"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "reverse phase liquid chromatography-tandem mass spectrometry.",
+      "eight data-dependent MS/MS scans"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reverse phase liquid chromatography (bRPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "15 concatenated peptide fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR15"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.5 ml/min",
+      "flow-rate of 1.5 μl min−1"
+    ],
+    "Comment[GradientTime]": [
+      "over the 105 min gradient",
+      "A 95 min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor tolerances of 10 ppm",
+      "used a 20 ppm window"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragments to vary by up to 0.5 m/z"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "ion trap"
+    ]
+  },
+  "TCGA-AG-A016-01A-23_W_VU_20120731_A0218_1D_R_FR12.raw": {
+    "Source Name": [
+      "TCGA-AG-A016-01A-23"
+    ],
+    "Assay Name": [
+      "TCGA-AG-A016-01A-23_FR12"
+    ],
+    "Raw Data File": [
+      "TCGA-AG-A016-01A-23_W_VU_20120731_A0218_1D_R_FR12.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor blocks"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue specimens"
+    ],
+    "Characteristics[OrganismPart]": [
+      "TCGA colorectal tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin,"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine (TCEP, 20 mM) and dithiothreitol (DTT, 50 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (IAM, 100 mM)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "95 carcinoma and 60 normal epithelial samples"
+    ],
+    "FactorValue[Treatment]": [
+      "carcinoma"
+    ],
+    "Comment[Instrument]": [
+      "Thermo LTQ Orbitrap Velos ion trap mass spectrometer equipped with an Eksigent NanoLC 2D pump and AS-1 autosampler"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "reverse phase liquid chromatography-tandem mass spectrometry.",
+      "eight data-dependent MS/MS scans"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reverse phase liquid chromatography (bRPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "15 concatenated peptide fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR12"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.5 ml/min",
+      "flow-rate of 1.5 μl min−1"
+    ],
+    "Comment[GradientTime]": [
+      "over the 105 min gradient",
+      "A 95 min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor tolerances of 10 ppm",
+      "used a 20 ppm window"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragments to vary by up to 0.5 m/z"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "ion trap"
+    ]
+  },
+  "TCGA-AG-A014-01A-12_W_VU_20120825_A0218_2F_R_FR10.raw": {
+    "Source Name": [
+      "TCGA-AG-A014-01A-12"
+    ],
+    "Assay Name": [
+      "TCGA-AG-A014-01A-12_FR10"
+    ],
+    "Raw Data File": [
+      "TCGA-AG-A014-01A-12_W_VU_20120825_A0218_2F_R_FR10.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor blocks"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue specimens"
+    ],
+    "Characteristics[OrganismPart]": [
+      "TCGA colorectal tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin,"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine (TCEP, 20 mM) and dithiothreitol (DTT, 50 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (IAM, 100 mM)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "95 carcinoma and 60 normal epithelial samples"
+    ],
+    "FactorValue[Treatment]": [
+      "carcinoma"
+    ],
+    "Comment[Instrument]": [
+      "Thermo LTQ Orbitrap Velos ion trap mass spectrometer equipped with an Eksigent NanoLC 2D pump and AS-1 autosampler"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "reverse phase liquid chromatography-tandem mass spectrometry.",
+      "eight data-dependent MS/MS scans"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reverse phase liquid chromatography (bRPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "15 concatenated peptide fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR10"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.5 ml/min",
+      "flow-rate of 1.5 μl min−1"
+    ],
+    "Comment[GradientTime]": [
+      "over the 105 min gradient",
+      "A 95 min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor tolerances of 10 ppm",
+      "used a 20 ppm window"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragments to vary by up to 0.5 m/z"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "ion trap"
+    ]
+  },
+  "TCGA-AG-A00H-01A-31_W_VU_20121008_A0218_4B_R_FR06.raw": {
+    "Source Name": [
+      "TCGA-AG-A00H-01A-31"
+    ],
+    "Assay Name": [
+      "TCGA-AG-A00H-01A-31_FR06"
+    ],
+    "Raw Data File": [
+      "TCGA-AG-A00H-01A-31_W_VU_20121008_A0218_4B_R_FR06.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor blocks"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue specimens"
+    ],
+    "Characteristics[OrganismPart]": [
+      "TCGA colorectal tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin,"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine (TCEP, 20 mM) and dithiothreitol (DTT, 50 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (IAM, 100 mM)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "95 carcinoma and 60 normal epithelial samples"
+    ],
+    "FactorValue[Treatment]": [
+      "carcinoma"
+    ],
+    "Comment[Instrument]": [
+      "Thermo LTQ Orbitrap Velos ion trap mass spectrometer equipped with an Eksigent NanoLC 2D pump and AS-1 autosampler"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "reverse phase liquid chromatography-tandem mass spectrometry.",
+      "eight data-dependent MS/MS scans"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reverse phase liquid chromatography (bRPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "15 concatenated peptide fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR06"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.5 ml/min",
+      "flow-rate of 1.5 μl min−1"
+    ],
+    "Comment[GradientTime]": [
+      "over the 105 min gradient",
+      "A 95 min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor tolerances of 10 ppm",
+      "used a 20 ppm window"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragments to vary by up to 0.5 m/z"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "ion trap"
+    ]
+  },
+  "TCGA-AG-A014-01A-12_W_VU_20120825_A0218_2F_R_FR11.raw": {
+    "Source Name": [
+      "TCGA-AG-A014-01A-12"
+    ],
+    "Assay Name": [
+      "TCGA-AG-A014-01A-12_FR11"
+    ],
+    "Raw Data File": [
+      "TCGA-AG-A014-01A-12_W_VU_20120825_A0218_2F_R_FR11.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor blocks"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue specimens"
+    ],
+    "Characteristics[OrganismPart]": [
+      "TCGA colorectal tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin,"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine (TCEP, 20 mM) and dithiothreitol (DTT, 50 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (IAM, 100 mM)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "95 carcinoma and 60 normal epithelial samples"
+    ],
+    "FactorValue[Treatment]": [
+      "carcinoma"
+    ],
+    "Comment[Instrument]": [
+      "Thermo LTQ Orbitrap Velos ion trap mass spectrometer equipped with an Eksigent NanoLC 2D pump and AS-1 autosampler"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "reverse phase liquid chromatography-tandem mass spectrometry.",
+      "eight data-dependent MS/MS scans"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reverse phase liquid chromatography (bRPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "15 concatenated peptide fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR11"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.5 ml/min",
+      "flow-rate of 1.5 μl min−1"
+    ],
+    "Comment[GradientTime]": [
+      "over the 105 min gradient",
+      "A 95 min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor tolerances of 10 ppm",
+      "used a 20 ppm window"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragments to vary by up to 0.5 m/z"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "ion trap"
+    ]
+  },
+  "TCGA-AG-A00H-01A-31_W_VU_20121008_A0218_4B_R_FR01.raw": {
+    "Source Name": [
+      "TCGA-AG-A00H-01A-31"
+    ],
+    "Assay Name": [
+      "TCGA-AG-A00H-01A-31_FR01"
+    ],
+    "Raw Data File": [
+      "TCGA-AG-A00H-01A-31_W_VU_20121008_A0218_4B_R_FR01.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor blocks"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue specimens"
+    ],
+    "Characteristics[OrganismPart]": [
+      "TCGA colorectal tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin,"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine (TCEP, 20 mM) and dithiothreitol (DTT, 50 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (IAM, 100 mM)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "95 carcinoma and 60 normal epithelial samples"
+    ],
+    "FactorValue[Treatment]": [
+      "carcinoma"
+    ],
+    "Comment[Instrument]": [
+      "Thermo LTQ Orbitrap Velos ion trap mass spectrometer equipped with an Eksigent NanoLC 2D pump and AS-1 autosampler"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "reverse phase liquid chromatography-tandem mass spectrometry.",
+      "eight data-dependent MS/MS scans"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reverse phase liquid chromatography (bRPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "15 concatenated peptide fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR01"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.5 ml/min",
+      "flow-rate of 1.5 μl min−1"
+    ],
+    "Comment[GradientTime]": [
+      "over the 105 min gradient",
+      "A 95 min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor tolerances of 10 ppm",
+      "used a 20 ppm window"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragments to vary by up to 0.5 m/z"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "ion trap"
+    ]
+  },
+  "TCGA-AG-A016-01A-23_W_VU_20120730_A0218_1D_R_FR01.raw": {
+    "Source Name": [
+      "TCGA-AG-A016-01A-23"
+    ],
+    "Assay Name": [
+      "TCGA-AG-A016-01A-23_FR01"
+    ],
+    "Raw Data File": [
+      "TCGA-AG-A016-01A-23_W_VU_20120730_A0218_1D_R_FR01.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor blocks"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue specimens"
+    ],
+    "Characteristics[OrganismPart]": [
+      "TCGA colorectal tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin,"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine (TCEP, 20 mM) and dithiothreitol (DTT, 50 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (IAM, 100 mM)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "95 carcinoma and 60 normal epithelial samples"
+    ],
+    "FactorValue[Treatment]": [
+      "carcinoma"
+    ],
+    "Comment[Instrument]": [
+      "Thermo LTQ Orbitrap Velos ion trap mass spectrometer equipped with an Eksigent NanoLC 2D pump and AS-1 autosampler"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "reverse phase liquid chromatography-tandem mass spectrometry.",
+      "eight data-dependent MS/MS scans"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reverse phase liquid chromatography (bRPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "15 concatenated peptide fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR01"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.5 ml/min",
+      "flow-rate of 1.5 μl min−1"
+    ],
+    "Comment[GradientTime]": [
+      "over the 105 min gradient",
+      "A 95 min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor tolerances of 10 ppm",
+      "used a 20 ppm window"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragments to vary by up to 0.5 m/z"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "ion trap"
+    ]
+  },
+  "TCGA-AG-A01W-01A-23_W_VU_20121116_A0218_6C_R_FR11.raw": {
+    "Source Name": [
+      "TCGA-AG-A01W-01A-23"
+    ],
+    "Assay Name": [
+      "TCGA-AG-A01W-01A-23_FR11"
+    ],
+    "Raw Data File": [
+      "TCGA-AG-A01W-01A-23_W_VU_20121116_A0218_6C_R_FR11.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor blocks"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue specimens"
+    ],
+    "Characteristics[OrganismPart]": [
+      "TCGA colorectal tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin,"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine (TCEP, 20 mM) and dithiothreitol (DTT, 50 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (IAM, 100 mM)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "95 carcinoma and 60 normal epithelial samples"
+    ],
+    "FactorValue[Treatment]": [
+      "carcinoma"
+    ],
+    "Comment[Instrument]": [
+      "Thermo LTQ Orbitrap Velos ion trap mass spectrometer equipped with an Eksigent NanoLC 2D pump and AS-1 autosampler"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "reverse phase liquid chromatography-tandem mass spectrometry.",
+      "eight data-dependent MS/MS scans"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reverse phase liquid chromatography (bRPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "15 concatenated peptide fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR11"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.5 ml/min",
+      "flow-rate of 1.5 μl min−1"
+    ],
+    "Comment[GradientTime]": [
+      "over the 105 min gradient",
+      "A 95 min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor tolerances of 10 ppm",
+      "used a 20 ppm window"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragments to vary by up to 0.5 m/z"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "ion trap"
+    ]
+  },
+  "TCGA-AG-A014-01A-12_W_VU_20120825_A0218_2F_R_FR14.raw": {
+    "Source Name": [
+      "TCGA-AG-A014-01A-12"
+    ],
+    "Assay Name": [
+      "TCGA-AG-A014-01A-12_FR14"
+    ],
+    "Raw Data File": [
+      "TCGA-AG-A014-01A-12_W_VU_20120825_A0218_2F_R_FR14.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor blocks"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue specimens"
+    ],
+    "Characteristics[OrganismPart]": [
+      "TCGA colorectal tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin,"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine (TCEP, 20 mM) and dithiothreitol (DTT, 50 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (IAM, 100 mM)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "95 carcinoma and 60 normal epithelial samples"
+    ],
+    "FactorValue[Treatment]": [
+      "carcinoma"
+    ],
+    "Comment[Instrument]": [
+      "Thermo LTQ Orbitrap Velos ion trap mass spectrometer equipped with an Eksigent NanoLC 2D pump and AS-1 autosampler"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "reverse phase liquid chromatography-tandem mass spectrometry.",
+      "eight data-dependent MS/MS scans"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reverse phase liquid chromatography (bRPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "15 concatenated peptide fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR14"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.5 ml/min",
+      "flow-rate of 1.5 μl min−1"
+    ],
+    "Comment[GradientTime]": [
+      "over the 105 min gradient",
+      "A 95 min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor tolerances of 10 ppm",
+      "used a 20 ppm window"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragments to vary by up to 0.5 m/z"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "ion trap"
+    ]
+  },
+  "TCGA-AG-A01N-01A-23_W_VU_20130105_A0218_8I_R_FR08.raw": {
+    "Source Name": [
+      "TCGA-AG-A01N-01A-23"
+    ],
+    "Assay Name": [
+      "TCGA-AG-A01N-01A-23_FR08"
+    ],
+    "Raw Data File": [
+      "TCGA-AG-A01N-01A-23_W_VU_20130105_A0218_8I_R_FR08.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor blocks"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue specimens"
+    ],
+    "Characteristics[OrganismPart]": [
+      "TCGA colorectal tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin,"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine (TCEP, 20 mM) and dithiothreitol (DTT, 50 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (IAM, 100 mM)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "95 carcinoma and 60 normal epithelial samples"
+    ],
+    "FactorValue[Treatment]": [
+      "carcinoma"
+    ],
+    "Comment[Instrument]": [
+      "Thermo LTQ Orbitrap Velos ion trap mass spectrometer equipped with an Eksigent NanoLC 2D pump and AS-1 autosampler"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "reverse phase liquid chromatography-tandem mass spectrometry.",
+      "eight data-dependent MS/MS scans"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reverse phase liquid chromatography (bRPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "15 concatenated peptide fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR08"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.5 ml/min",
+      "flow-rate of 1.5 μl min−1"
+    ],
+    "Comment[GradientTime]": [
+      "over the 105 min gradient",
+      "A 95 min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor tolerances of 10 ppm",
+      "used a 20 ppm window"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragments to vary by up to 0.5 m/z"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "ion trap"
+    ]
+  },
+  "TCGA-AG-A016-01A-23_W_VU_20120730_A0218_1D_R_FR04.raw": {
+    "Source Name": [
+      "TCGA-AG-A016-01A-23"
+    ],
+    "Assay Name": [
+      "TCGA-AG-A016-01A-23_FR04"
+    ],
+    "Raw Data File": [
+      "TCGA-AG-A016-01A-23_W_VU_20120730_A0218_1D_R_FR04.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor blocks"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue specimens"
+    ],
+    "Characteristics[OrganismPart]": [
+      "TCGA colorectal tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin,"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine (TCEP, 20 mM) and dithiothreitol (DTT, 50 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (IAM, 100 mM)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "95 carcinoma and 60 normal epithelial samples"
+    ],
+    "FactorValue[Treatment]": [
+      "carcinoma"
+    ],
+    "Comment[Instrument]": [
+      "Thermo LTQ Orbitrap Velos ion trap mass spectrometer equipped with an Eksigent NanoLC 2D pump and AS-1 autosampler"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "reverse phase liquid chromatography-tandem mass spectrometry.",
+      "eight data-dependent MS/MS scans"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reverse phase liquid chromatography (bRPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "15 concatenated peptide fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR04"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.5 ml/min",
+      "flow-rate of 1.5 μl min−1"
+    ],
+    "Comment[GradientTime]": [
+      "over the 105 min gradient",
+      "A 95 min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor tolerances of 10 ppm",
+      "used a 20 ppm window"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragments to vary by up to 0.5 m/z"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "ion trap"
+    ]
+  },
+  "TCGA-AG-A01J-01A-22_W_VU_20121231_A0218_8F_R_FR05.raw": {
+    "Source Name": [
+      "TCGA-AG-A01J-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AG-A01J-01A-22_FR05"
+    ],
+    "Raw Data File": [
+      "TCGA-AG-A01J-01A-22_W_VU_20121231_A0218_8F_R_FR05.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor blocks"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue specimens"
+    ],
+    "Characteristics[OrganismPart]": [
+      "TCGA colorectal tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin,"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine (TCEP, 20 mM) and dithiothreitol (DTT, 50 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (IAM, 100 mM)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "95 carcinoma and 60 normal epithelial samples"
+    ],
+    "FactorValue[Treatment]": [
+      "carcinoma"
+    ],
+    "Comment[Instrument]": [
+      "Thermo LTQ Orbitrap Velos ion trap mass spectrometer equipped with an Eksigent NanoLC 2D pump and AS-1 autosampler"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "reverse phase liquid chromatography-tandem mass spectrometry.",
+      "eight data-dependent MS/MS scans"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reverse phase liquid chromatography (bRPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "15 concatenated peptide fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR05"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.5 ml/min",
+      "flow-rate of 1.5 μl min−1"
+    ],
+    "Comment[GradientTime]": [
+      "over the 105 min gradient",
+      "A 95 min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor tolerances of 10 ppm",
+      "used a 20 ppm window"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragments to vary by up to 0.5 m/z"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "ion trap"
+    ]
+  },
+  "TCGA-AG-A01J-01A-22_W_VU_20121231_A0218_8F_R_FR01.raw": {
+    "Source Name": [
+      "TCGA-AG-A01J-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AG-A01J-01A-22_FR01"
+    ],
+    "Raw Data File": [
+      "TCGA-AG-A01J-01A-22_W_VU_20121231_A0218_8F_R_FR01.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor blocks"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue specimens"
+    ],
+    "Characteristics[OrganismPart]": [
+      "TCGA colorectal tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin,"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine (TCEP, 20 mM) and dithiothreitol (DTT, 50 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (IAM, 100 mM)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "95 carcinoma and 60 normal epithelial samples"
+    ],
+    "FactorValue[Treatment]": [
+      "carcinoma"
+    ],
+    "Comment[Instrument]": [
+      "Thermo LTQ Orbitrap Velos ion trap mass spectrometer equipped with an Eksigent NanoLC 2D pump and AS-1 autosampler"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "reverse phase liquid chromatography-tandem mass spectrometry.",
+      "eight data-dependent MS/MS scans"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reverse phase liquid chromatography (bRPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "15 concatenated peptide fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR01"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.5 ml/min",
+      "flow-rate of 1.5 μl min−1"
+    ],
+    "Comment[GradientTime]": [
+      "over the 105 min gradient",
+      "A 95 min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor tolerances of 10 ppm",
+      "used a 20 ppm window"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragments to vary by up to 0.5 m/z"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "ion trap"
+    ]
+  },
+  "TCGA-AG-A01L-01A-22_W_VU_20130130_A0218_9H_R_FR13.raw": {
+    "Source Name": [
+      "TCGA-AG-A01L-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AG-A01L-01A-22_FR13"
+    ],
+    "Raw Data File": [
+      "TCGA-AG-A01L-01A-22_W_VU_20130130_A0218_9H_R_FR13.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor blocks"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue specimens"
+    ],
+    "Characteristics[OrganismPart]": [
+      "TCGA colorectal tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin,"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine (TCEP, 20 mM) and dithiothreitol (DTT, 50 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (IAM, 100 mM)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "95 carcinoma and 60 normal epithelial samples"
+    ],
+    "FactorValue[Treatment]": [
+      "carcinoma"
+    ],
+    "Comment[Instrument]": [
+      "Thermo LTQ Orbitrap Velos ion trap mass spectrometer equipped with an Eksigent NanoLC 2D pump and AS-1 autosampler"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "reverse phase liquid chromatography-tandem mass spectrometry.",
+      "eight data-dependent MS/MS scans"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reverse phase liquid chromatography (bRPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "15 concatenated peptide fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR13"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.5 ml/min",
+      "flow-rate of 1.5 μl min−1"
+    ],
+    "Comment[GradientTime]": [
+      "over the 105 min gradient",
+      "A 95 min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor tolerances of 10 ppm",
+      "used a 20 ppm window"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragments to vary by up to 0.5 m/z"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "ion trap"
+    ]
+  },
+  "TCGA-AG-A01N-01A-23_W_VU_20130105_A0218_8I_R_FR13.raw": {
+    "Source Name": [
+      "TCGA-AG-A01N-01A-23"
+    ],
+    "Assay Name": [
+      "TCGA-AG-A01N-01A-23_FR13"
+    ],
+    "Raw Data File": [
+      "TCGA-AG-A01N-01A-23_W_VU_20130105_A0218_8I_R_FR13.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor blocks"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue specimens"
+    ],
+    "Characteristics[OrganismPart]": [
+      "TCGA colorectal tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin,"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine (TCEP, 20 mM) and dithiothreitol (DTT, 50 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (IAM, 100 mM)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "95 carcinoma and 60 normal epithelial samples"
+    ],
+    "FactorValue[Treatment]": [
+      "carcinoma"
+    ],
+    "Comment[Instrument]": [
+      "Thermo LTQ Orbitrap Velos ion trap mass spectrometer equipped with an Eksigent NanoLC 2D pump and AS-1 autosampler"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "reverse phase liquid chromatography-tandem mass spectrometry.",
+      "eight data-dependent MS/MS scans"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reverse phase liquid chromatography (bRPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "15 concatenated peptide fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR13"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.5 ml/min",
+      "flow-rate of 1.5 μl min−1"
+    ],
+    "Comment[GradientTime]": [
+      "over the 105 min gradient",
+      "A 95 min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor tolerances of 10 ppm",
+      "used a 20 ppm window"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragments to vary by up to 0.5 m/z"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "ion trap"
+    ]
+  },
+  "TCGA-AG-A01L-01A-22_W_VU_20130130_A0218_9H_R_FR08.raw": {
+    "Source Name": [
+      "TCGA-AG-A01L-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AG-A01L-01A-22_FR08"
+    ],
+    "Raw Data File": [
+      "TCGA-AG-A01L-01A-22_W_VU_20130130_A0218_9H_R_FR08.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor blocks"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue specimens"
+    ],
+    "Characteristics[OrganismPart]": [
+      "TCGA colorectal tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin,"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine (TCEP, 20 mM) and dithiothreitol (DTT, 50 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (IAM, 100 mM)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "95 carcinoma and 60 normal epithelial samples"
+    ],
+    "FactorValue[Treatment]": [
+      "carcinoma"
+    ],
+    "Comment[Instrument]": [
+      "Thermo LTQ Orbitrap Velos ion trap mass spectrometer equipped with an Eksigent NanoLC 2D pump and AS-1 autosampler"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "reverse phase liquid chromatography-tandem mass spectrometry.",
+      "eight data-dependent MS/MS scans"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reverse phase liquid chromatography (bRPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "15 concatenated peptide fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR08"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.5 ml/min",
+      "flow-rate of 1.5 μl min−1"
+    ],
+    "Comment[GradientTime]": [
+      "over the 105 min gradient",
+      "A 95 min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor tolerances of 10 ppm",
+      "used a 20 ppm window"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragments to vary by up to 0.5 m/z"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "ion trap"
+    ]
+  },
+  "TCGA-AG-A01L-01A-22_W_VU_20130129_A0218_9H_R_FR03.raw": {
+    "Source Name": [
+      "TCGA-AG-A01L-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AG-A01L-01A-22_FR03"
+    ],
+    "Raw Data File": [
+      "TCGA-AG-A01L-01A-22_W_VU_20130129_A0218_9H_R_FR03.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor blocks"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue specimens"
+    ],
+    "Characteristics[OrganismPart]": [
+      "TCGA colorectal tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin,"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine (TCEP, 20 mM) and dithiothreitol (DTT, 50 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (IAM, 100 mM)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "95 carcinoma and 60 normal epithelial samples"
+    ],
+    "FactorValue[Treatment]": [
+      "carcinoma"
+    ],
+    "Comment[Instrument]": [
+      "Thermo LTQ Orbitrap Velos ion trap mass spectrometer equipped with an Eksigent NanoLC 2D pump and AS-1 autosampler"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "reverse phase liquid chromatography-tandem mass spectrometry.",
+      "eight data-dependent MS/MS scans"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reverse phase liquid chromatography (bRPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "15 concatenated peptide fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR03"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.5 ml/min",
+      "flow-rate of 1.5 μl min−1"
+    ],
+    "Comment[GradientTime]": [
+      "over the 105 min gradient",
+      "A 95 min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor tolerances of 10 ppm",
+      "used a 20 ppm window"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragments to vary by up to 0.5 m/z"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "ion trap"
+    ]
+  },
+  "TCGA-AG-A01L-01A-22_W_VU_20130129_A0218_9H_R_FR05.raw": {
+    "Source Name": [
+      "TCGA-AG-A01L-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AG-A01L-01A-22_FR05"
+    ],
+    "Raw Data File": [
+      "TCGA-AG-A01L-01A-22_W_VU_20130129_A0218_9H_R_FR05.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor blocks"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue specimens"
+    ],
+    "Characteristics[OrganismPart]": [
+      "TCGA colorectal tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin,"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine (TCEP, 20 mM) and dithiothreitol (DTT, 50 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (IAM, 100 mM)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "95 carcinoma and 60 normal epithelial samples"
+    ],
+    "FactorValue[Treatment]": [
+      "carcinoma"
+    ],
+    "Comment[Instrument]": [
+      "Thermo LTQ Orbitrap Velos ion trap mass spectrometer equipped with an Eksigent NanoLC 2D pump and AS-1 autosampler"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "reverse phase liquid chromatography-tandem mass spectrometry.",
+      "eight data-dependent MS/MS scans"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reverse phase liquid chromatography (bRPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "15 concatenated peptide fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR05"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.5 ml/min",
+      "flow-rate of 1.5 μl min−1"
+    ],
+    "Comment[GradientTime]": [
+      "over the 105 min gradient",
+      "A 95 min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor tolerances of 10 ppm",
+      "used a 20 ppm window"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragments to vary by up to 0.5 m/z"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "ion trap"
+    ]
+  },
+  "TCGA-AG-A01J-01A-22_W_VU_20121231_A0218_8F_R_FR03.raw": {
+    "Source Name": [
+      "TCGA-AG-A01J-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AG-A01J-01A-22_FR03"
+    ],
+    "Raw Data File": [
+      "TCGA-AG-A01J-01A-22_W_VU_20121231_A0218_8F_R_FR03.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor blocks"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue specimens"
+    ],
+    "Characteristics[OrganismPart]": [
+      "TCGA colorectal tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin,"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine (TCEP, 20 mM) and dithiothreitol (DTT, 50 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (IAM, 100 mM)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "95 carcinoma and 60 normal epithelial samples"
+    ],
+    "FactorValue[Treatment]": [
+      "carcinoma"
+    ],
+    "Comment[Instrument]": [
+      "Thermo LTQ Orbitrap Velos ion trap mass spectrometer equipped with an Eksigent NanoLC 2D pump and AS-1 autosampler"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "reverse phase liquid chromatography-tandem mass spectrometry.",
+      "eight data-dependent MS/MS scans"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reverse phase liquid chromatography (bRPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "15 concatenated peptide fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR03"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.5 ml/min",
+      "flow-rate of 1.5 μl min−1"
+    ],
+    "Comment[GradientTime]": [
+      "over the 105 min gradient",
+      "A 95 min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor tolerances of 10 ppm",
+      "used a 20 ppm window"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragments to vary by up to 0.5 m/z"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "ion trap"
+    ]
+  },
+  "TCGA-AG-A01L-01A-22_W_VU_20130130_A0218_9H_R_FR09.raw": {
+    "Source Name": [
+      "TCGA-AG-A01L-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AG-A01L-01A-22_FR09"
+    ],
+    "Raw Data File": [
+      "TCGA-AG-A01L-01A-22_W_VU_20130130_A0218_9H_R_FR09.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor blocks"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue specimens"
+    ],
+    "Characteristics[OrganismPart]": [
+      "TCGA colorectal tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin,"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine (TCEP, 20 mM) and dithiothreitol (DTT, 50 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (IAM, 100 mM)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "95 carcinoma and 60 normal epithelial samples"
+    ],
+    "FactorValue[Treatment]": [
+      "carcinoma"
+    ],
+    "Comment[Instrument]": [
+      "Thermo LTQ Orbitrap Velos ion trap mass spectrometer equipped with an Eksigent NanoLC 2D pump and AS-1 autosampler"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "reverse phase liquid chromatography-tandem mass spectrometry.",
+      "eight data-dependent MS/MS scans"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reverse phase liquid chromatography (bRPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "15 concatenated peptide fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR09"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.5 ml/min",
+      "flow-rate of 1.5 μl min−1"
+    ],
+    "Comment[GradientTime]": [
+      "over the 105 min gradient",
+      "A 95 min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor tolerances of 10 ppm",
+      "used a 20 ppm window"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragments to vary by up to 0.5 m/z"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "ion trap"
+    ]
+  },
+  "TCGA-AG-A01N-01A-23_W_VU_20130104_A0218_8I_R_FR03.raw": {
+    "Source Name": [
+      "TCGA-AG-A01N-01A-23"
+    ],
+    "Assay Name": [
+      "TCGA-AG-A01N-01A-23_FR03"
+    ],
+    "Raw Data File": [
+      "TCGA-AG-A01N-01A-23_W_VU_20130104_A0218_8I_R_FR03.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor blocks"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue specimens"
+    ],
+    "Characteristics[OrganismPart]": [
+      "TCGA colorectal tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin,"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine (TCEP, 20 mM) and dithiothreitol (DTT, 50 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (IAM, 100 mM)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "95 carcinoma and 60 normal epithelial samples"
+    ],
+    "FactorValue[Treatment]": [
+      "carcinoma"
+    ],
+    "Comment[Instrument]": [
+      "Thermo LTQ Orbitrap Velos ion trap mass spectrometer equipped with an Eksigent NanoLC 2D pump and AS-1 autosampler"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "reverse phase liquid chromatography-tandem mass spectrometry.",
+      "eight data-dependent MS/MS scans"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reverse phase liquid chromatography (bRPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "15 concatenated peptide fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR03"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.5 ml/min",
+      "flow-rate of 1.5 μl min−1"
+    ],
+    "Comment[GradientTime]": [
+      "over the 105 min gradient",
+      "A 95 min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor tolerances of 10 ppm",
+      "used a 20 ppm window"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragments to vary by up to 0.5 m/z"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "ion trap"
+    ]
+  },
+  "TCGA-AG-A014-01A-12_W_VU_20120824_A0218_2F_R_FR02.raw": {
+    "Source Name": [
+      "TCGA-AG-A014-01A-12"
+    ],
+    "Assay Name": [
+      "TCGA-AG-A014-01A-12_FR02"
+    ],
+    "Raw Data File": [
+      "TCGA-AG-A014-01A-12_W_VU_20120824_A0218_2F_R_FR02.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor blocks"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue specimens"
+    ],
+    "Characteristics[OrganismPart]": [
+      "TCGA colorectal tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin,"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine (TCEP, 20 mM) and dithiothreitol (DTT, 50 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (IAM, 100 mM)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "95 carcinoma and 60 normal epithelial samples"
+    ],
+    "FactorValue[Treatment]": [
+      "carcinoma"
+    ],
+    "Comment[Instrument]": [
+      "Thermo LTQ Orbitrap Velos ion trap mass spectrometer equipped with an Eksigent NanoLC 2D pump and AS-1 autosampler"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "reverse phase liquid chromatography-tandem mass spectrometry.",
+      "eight data-dependent MS/MS scans"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reverse phase liquid chromatography (bRPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "15 concatenated peptide fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR02"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.5 ml/min",
+      "flow-rate of 1.5 μl min−1"
+    ],
+    "Comment[GradientTime]": [
+      "over the 105 min gradient",
+      "A 95 min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor tolerances of 10 ppm",
+      "used a 20 ppm window"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragments to vary by up to 0.5 m/z"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "ion trap"
+    ]
+  },
+  "TCGA-AG-A015-01A-51_W_VU_20120922_A0218_3H_R_FR06.raw": {
+    "Source Name": [
+      "TCGA-AG-A015-01A-51"
+    ],
+    "Assay Name": [
+      "TCGA-AG-A015-01A-51_FR06"
+    ],
+    "Raw Data File": [
+      "TCGA-AG-A015-01A-51_W_VU_20120922_A0218_3H_R_FR06.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor blocks"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue specimens"
+    ],
+    "Characteristics[OrganismPart]": [
+      "TCGA colorectal tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin,"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine (TCEP, 20 mM) and dithiothreitol (DTT, 50 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (IAM, 100 mM)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "95 carcinoma and 60 normal epithelial samples"
+    ],
+    "FactorValue[Treatment]": [
+      "carcinoma"
+    ],
+    "Comment[Instrument]": [
+      "Thermo LTQ Orbitrap Velos ion trap mass spectrometer equipped with an Eksigent NanoLC 2D pump and AS-1 autosampler"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "reverse phase liquid chromatography-tandem mass spectrometry.",
+      "eight data-dependent MS/MS scans"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reverse phase liquid chromatography (bRPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "15 concatenated peptide fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR06"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.5 ml/min",
+      "flow-rate of 1.5 μl min−1"
+    ],
+    "Comment[GradientTime]": [
+      "over the 105 min gradient",
+      "A 95 min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor tolerances of 10 ppm",
+      "used a 20 ppm window"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragments to vary by up to 0.5 m/z"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "ion trap"
+    ]
+  },
+  "TCGA-AG-A014-01A-12_W_VU_20120824_A0218_2F_R_FR01.raw": {
+    "Source Name": [
+      "TCGA-AG-A014-01A-12"
+    ],
+    "Assay Name": [
+      "TCGA-AG-A014-01A-12_FR01"
+    ],
+    "Raw Data File": [
+      "TCGA-AG-A014-01A-12_W_VU_20120824_A0218_2F_R_FR01.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor blocks"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue specimens"
+    ],
+    "Characteristics[OrganismPart]": [
+      "TCGA colorectal tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin,"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine (TCEP, 20 mM) and dithiothreitol (DTT, 50 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (IAM, 100 mM)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "95 carcinoma and 60 normal epithelial samples"
+    ],
+    "FactorValue[Treatment]": [
+      "carcinoma"
+    ],
+    "Comment[Instrument]": [
+      "Thermo LTQ Orbitrap Velos ion trap mass spectrometer equipped with an Eksigent NanoLC 2D pump and AS-1 autosampler"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "reverse phase liquid chromatography-tandem mass spectrometry.",
+      "eight data-dependent MS/MS scans"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reverse phase liquid chromatography (bRPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "15 concatenated peptide fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR01"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.5 ml/min",
+      "flow-rate of 1.5 μl min−1"
+    ],
+    "Comment[GradientTime]": [
+      "over the 105 min gradient",
+      "A 95 min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor tolerances of 10 ppm",
+      "used a 20 ppm window"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragments to vary by up to 0.5 m/z"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "ion trap"
+    ]
+  },
+  "TCGA-AG-A01W-01A-23_W_VU_20121115_A0218_6C_R_FR05.raw": {
+    "Source Name": [
+      "TCGA-AG-A01W-01A-23"
+    ],
+    "Assay Name": [
+      "TCGA-AG-A01W-01A-23_FR05"
+    ],
+    "Raw Data File": [
+      "TCGA-AG-A01W-01A-23_W_VU_20121115_A0218_6C_R_FR05.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor blocks"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue specimens"
+    ],
+    "Characteristics[OrganismPart]": [
+      "TCGA colorectal tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin,"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine (TCEP, 20 mM) and dithiothreitol (DTT, 50 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (IAM, 100 mM)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "95 carcinoma and 60 normal epithelial samples"
+    ],
+    "FactorValue[Treatment]": [
+      "carcinoma"
+    ],
+    "Comment[Instrument]": [
+      "Thermo LTQ Orbitrap Velos ion trap mass spectrometer equipped with an Eksigent NanoLC 2D pump and AS-1 autosampler"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "reverse phase liquid chromatography-tandem mass spectrometry.",
+      "eight data-dependent MS/MS scans"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reverse phase liquid chromatography (bRPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "15 concatenated peptide fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR05"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.5 ml/min",
+      "flow-rate of 1.5 μl min−1"
+    ],
+    "Comment[GradientTime]": [
+      "over the 105 min gradient",
+      "A 95 min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor tolerances of 10 ppm",
+      "used a 20 ppm window"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragments to vary by up to 0.5 m/z"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "ion trap"
+    ]
+  },
+  "TCGA-AG-A01N-01A-23_W_VU_20130105_A0218_8I_R_FR14.raw": {
+    "Source Name": [
+      "TCGA-AG-A01N-01A-23"
+    ],
+    "Assay Name": [
+      "TCGA-AG-A01N-01A-23_FR14"
+    ],
+    "Raw Data File": [
+      "TCGA-AG-A01N-01A-23_W_VU_20130105_A0218_8I_R_FR14.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor blocks"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue specimens"
+    ],
+    "Characteristics[OrganismPart]": [
+      "TCGA colorectal tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin,"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine (TCEP, 20 mM) and dithiothreitol (DTT, 50 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (IAM, 100 mM)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "95 carcinoma and 60 normal epithelial samples"
+    ],
+    "FactorValue[Treatment]": [
+      "carcinoma"
+    ],
+    "Comment[Instrument]": [
+      "Thermo LTQ Orbitrap Velos ion trap mass spectrometer equipped with an Eksigent NanoLC 2D pump and AS-1 autosampler"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "reverse phase liquid chromatography-tandem mass spectrometry.",
+      "eight data-dependent MS/MS scans"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reverse phase liquid chromatography (bRPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "15 concatenated peptide fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR14"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.5 ml/min",
+      "flow-rate of 1.5 μl min−1"
+    ],
+    "Comment[GradientTime]": [
+      "over the 105 min gradient",
+      "A 95 min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor tolerances of 10 ppm",
+      "used a 20 ppm window"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragments to vary by up to 0.5 m/z"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "ion trap"
+    ]
+  },
+  "TCGA-AG-A014-01A-12_W_VU_20120825_A0218_2F_R_FR13.raw": {
+    "Source Name": [
+      "TCGA-AG-A014-01A-12"
+    ],
+    "Assay Name": [
+      "TCGA-AG-A014-01A-12_FR13"
+    ],
+    "Raw Data File": [
+      "TCGA-AG-A014-01A-12_W_VU_20120825_A0218_2F_R_FR13.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor blocks"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue specimens"
+    ],
+    "Characteristics[OrganismPart]": [
+      "TCGA colorectal tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin,"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine (TCEP, 20 mM) and dithiothreitol (DTT, 50 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (IAM, 100 mM)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "95 carcinoma and 60 normal epithelial samples"
+    ],
+    "FactorValue[Treatment]": [
+      "carcinoma"
+    ],
+    "Comment[Instrument]": [
+      "Thermo LTQ Orbitrap Velos ion trap mass spectrometer equipped with an Eksigent NanoLC 2D pump and AS-1 autosampler"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "reverse phase liquid chromatography-tandem mass spectrometry.",
+      "eight data-dependent MS/MS scans"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reverse phase liquid chromatography (bRPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "15 concatenated peptide fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR13"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.5 ml/min",
+      "flow-rate of 1.5 μl min−1"
+    ],
+    "Comment[GradientTime]": [
+      "over the 105 min gradient",
+      "A 95 min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor tolerances of 10 ppm",
+      "used a 20 ppm window"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragments to vary by up to 0.5 m/z"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "ion trap"
+    ]
+  },
+  "TCGA-AG-A00H-01A-31_W_VU_20121009_A0218_4B_R_FR15.raw": {
+    "Source Name": [
+      "TCGA-AG-A00H-01A-31"
+    ],
+    "Assay Name": [
+      "TCGA-AG-A00H-01A-31_FR15"
+    ],
+    "Raw Data File": [
+      "TCGA-AG-A00H-01A-31_W_VU_20121009_A0218_4B_R_FR15.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor blocks"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue specimens"
+    ],
+    "Characteristics[OrganismPart]": [
+      "TCGA colorectal tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin,"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine (TCEP, 20 mM) and dithiothreitol (DTT, 50 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (IAM, 100 mM)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "95 carcinoma and 60 normal epithelial samples"
+    ],
+    "FactorValue[Treatment]": [
+      "carcinoma"
+    ],
+    "Comment[Instrument]": [
+      "Thermo LTQ Orbitrap Velos ion trap mass spectrometer equipped with an Eksigent NanoLC 2D pump and AS-1 autosampler"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "reverse phase liquid chromatography-tandem mass spectrometry.",
+      "eight data-dependent MS/MS scans"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reverse phase liquid chromatography (bRPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "15 concatenated peptide fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR15"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.5 ml/min",
+      "flow-rate of 1.5 μl min−1"
+    ],
+    "Comment[GradientTime]": [
+      "over the 105 min gradient",
+      "A 95 min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor tolerances of 10 ppm",
+      "used a 20 ppm window"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragments to vary by up to 0.5 m/z"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "ion trap"
+    ]
+  },
+  "TCGA-AG-A01J-01A-22_W_VU_20121231_A0218_8F_R_FR10.raw": {
+    "Source Name": [
+      "TCGA-AG-A01J-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AG-A01J-01A-22_FR10"
+    ],
+    "Raw Data File": [
+      "TCGA-AG-A01J-01A-22_W_VU_20121231_A0218_8F_R_FR10.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor blocks"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue specimens"
+    ],
+    "Characteristics[OrganismPart]": [
+      "TCGA colorectal tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin,"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine (TCEP, 20 mM) and dithiothreitol (DTT, 50 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (IAM, 100 mM)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "95 carcinoma and 60 normal epithelial samples"
+    ],
+    "FactorValue[Treatment]": [
+      "carcinoma"
+    ],
+    "Comment[Instrument]": [
+      "Thermo LTQ Orbitrap Velos ion trap mass spectrometer equipped with an Eksigent NanoLC 2D pump and AS-1 autosampler"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "reverse phase liquid chromatography-tandem mass spectrometry.",
+      "eight data-dependent MS/MS scans"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reverse phase liquid chromatography (bRPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "15 concatenated peptide fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR10"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.5 ml/min",
+      "flow-rate of 1.5 μl min−1"
+    ],
+    "Comment[GradientTime]": [
+      "over the 105 min gradient",
+      "A 95 min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor tolerances of 10 ppm",
+      "used a 20 ppm window"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragments to vary by up to 0.5 m/z"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "ion trap"
+    ]
+  },
+  "TCGA-AG-A014-01A-12_W_VU_20120824_A0218_2F_R_FR03.raw": {
+    "Source Name": [
+      "TCGA-AG-A014-01A-12"
+    ],
+    "Assay Name": [
+      "TCGA-AG-A014-01A-12_FR03"
+    ],
+    "Raw Data File": [
+      "TCGA-AG-A014-01A-12_W_VU_20120824_A0218_2F_R_FR03.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor blocks"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue specimens"
+    ],
+    "Characteristics[OrganismPart]": [
+      "TCGA colorectal tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin,"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine (TCEP, 20 mM) and dithiothreitol (DTT, 50 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (IAM, 100 mM)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "95 carcinoma and 60 normal epithelial samples"
+    ],
+    "FactorValue[Treatment]": [
+      "carcinoma"
+    ],
+    "Comment[Instrument]": [
+      "Thermo LTQ Orbitrap Velos ion trap mass spectrometer equipped with an Eksigent NanoLC 2D pump and AS-1 autosampler"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "reverse phase liquid chromatography-tandem mass spectrometry.",
+      "eight data-dependent MS/MS scans"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reverse phase liquid chromatography (bRPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "15 concatenated peptide fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR03"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.5 ml/min",
+      "flow-rate of 1.5 μl min−1"
+    ],
+    "Comment[GradientTime]": [
+      "over the 105 min gradient",
+      "A 95 min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor tolerances of 10 ppm",
+      "used a 20 ppm window"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragments to vary by up to 0.5 m/z"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "ion trap"
+    ]
+  },
+  "TCGA-AG-A011-01A-32_W_VU_20120828_A0218_2I_R_FR06.raw": {
+    "Source Name": [
+      "TCGA-AG-A011-01A-32"
+    ],
+    "Assay Name": [
+      "TCGA-AG-A011-01A-32_FR06"
+    ],
+    "Raw Data File": [
+      "TCGA-AG-A011-01A-32_W_VU_20120828_A0218_2I_R_FR06.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor blocks"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue specimens"
+    ],
+    "Characteristics[OrganismPart]": [
+      "TCGA colorectal tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin,"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine (TCEP, 20 mM) and dithiothreitol (DTT, 50 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (IAM, 100 mM)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "95 carcinoma and 60 normal epithelial samples"
+    ],
+    "FactorValue[Treatment]": [
+      "carcinoma"
+    ],
+    "Comment[Instrument]": [
+      "Thermo LTQ Orbitrap Velos ion trap mass spectrometer equipped with an Eksigent NanoLC 2D pump and AS-1 autosampler"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "reverse phase liquid chromatography-tandem mass spectrometry.",
+      "eight data-dependent MS/MS scans"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reverse phase liquid chromatography (bRPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "15 concatenated peptide fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR06"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.5 ml/min",
+      "flow-rate of 1.5 μl min−1"
+    ],
+    "Comment[GradientTime]": [
+      "over the 105 min gradient",
+      "A 95 min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor tolerances of 10 ppm",
+      "used a 20 ppm window"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragments to vary by up to 0.5 m/z"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "ion trap"
+    ]
+  },
+  "TCGA-AG-A016-01A-23_W_VU_20120730_A0218_1D_R_FR10.raw": {
+    "Source Name": [
+      "TCGA-AG-A016-01A-23"
+    ],
+    "Assay Name": [
+      "TCGA-AG-A016-01A-23_FR10"
+    ],
+    "Raw Data File": [
+      "TCGA-AG-A016-01A-23_W_VU_20120730_A0218_1D_R_FR10.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor blocks"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue specimens"
+    ],
+    "Characteristics[OrganismPart]": [
+      "TCGA colorectal tissue samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested with trypsin,"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine (TCEP, 20 mM) and dithiothreitol (DTT, 50 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (IAM, 100 mM)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "95 carcinoma and 60 normal epithelial samples"
+    ],
+    "FactorValue[Treatment]": [
+      "carcinoma"
+    ],
+    "Comment[Instrument]": [
+      "Thermo LTQ Orbitrap Velos ion trap mass spectrometer equipped with an Eksigent NanoLC 2D pump and AS-1 autosampler"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "reverse phase liquid chromatography-tandem mass spectrometry.",
+      "eight data-dependent MS/MS scans"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reverse phase liquid chromatography (bRPLC)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "15 concatenated peptide fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR10"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.5 ml/min",
+      "flow-rate of 1.5 μl min−1"
+    ],
+    "Comment[GradientTime]": [
+      "over the 105 min gradient",
+      "A 95 min gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor tolerances of 10 ppm",
+      "used a 20 ppm window"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragments to vary by up to 0.5 m/z"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "ion trap"
+    ]
+  }
+}

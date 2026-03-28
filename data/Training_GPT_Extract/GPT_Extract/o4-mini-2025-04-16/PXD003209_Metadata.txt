@@ -1,0 +1,48 @@
+CellLine: Human embryonic kidney 293T cells (HEK293T; ATCC® CRL-11268™)  
+CellLine: HeLa cells (ATCC® CCL-2™)  
+CellLine: HEK293 cells  
+
+GeneticModification: CD63-GFP  
+GeneticModification: pCT-CD63-GFP  
+
+Strain: C57BL/6  
+Strain: C3H genetic background  
+
+SourceName: mouse plasma  
+SourceName: human cerebral spinal fluid  
+SourceName: human urine  
+SourceName: human saliva  
+
+Compound: Dulbecco’s Modified Eagle’s Medium (DMEM; Lonza, 12-604Q)  
+Compound: fetal bovine serum (FBS; Seradigm, 1400–500)  
+Compound: phosphate buffered saline (PBS)  
+Compound: polyethylene glycol with Mn of 6000 (Sigma, 81260)  
+Compound: sodium chloride  
+Compound: dithiothreitol  
+Compound: iodoacetamide  
+Compound: Trypsin Gold protein digest enzyme  
+Compound: AOPI (Nexcelom Bioscience, CS2-0106)  
+Compound: DAPI (4′,6-diamidino-2-phenylindole; 1 mg/mL stock, Thermo Fisher Scientific Inc.)  
+Compound: Coomassie Brilliant Blue G-250 based stain  
+Compound: Ponceau S solution  
+
+Instrument: Thermo LTQ Orbitrap Velos nLC-ESI-LIT-Orbitrap  
+
+AssayName: nanoparticle tracking analysis  
+AssayName: liquid chromatography tandem mass spectrometry  
+AssayName: western blot analyses  
+AssayName: Transmission electron microscopy  
+AssayName: confocal microscopy studies  
+
+EnrichmentMethod: ExtraPEG  
+EnrichmentMethod: Total Exosome IsolationTM  
+EnrichmentMethod: ExoQuick-TC™  
+EnrichmentMethod: differential centrifugation method  
+EnrichmentMethod: sucrose cushion method  
+
+Temperature: 4 °C  
+Temperature: 37 °C  
+
+ConcentrationOfCompound: 0.5 M  
+
+SupplementaryFile: Table S1

@@ -1,3 +1,5 @@
+# CPU-only default. For GPU training install the CUDA wheel instead:
+#   pip install "torch==2.6.0+cu124" --index-url https://download.pytorch.org/whl/cu124 --force-reinstall --no-deps
 torch>=2.0.0
 transformers>=4.30.0
 pandas>=2.0.0

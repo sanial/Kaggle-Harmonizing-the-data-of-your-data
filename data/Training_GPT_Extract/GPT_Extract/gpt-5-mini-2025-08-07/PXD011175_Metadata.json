@@ -1,0 +1,1944 @@
+{
+  "MM_50ug_IMAC_Bravo_R3.raw": {
+    "Source Name": [
+      "pooled sample"
+    ],
+    "Assay Name": [
+      "pooled sample_MM_50ug_IMAC_Bravo_R3"
+    ],
+    "Raw Data File": [
+      "MM_50ug_IMAC_Bravo_R3.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "MM tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "sectioned, fresh-frozen tissues from human MM lymph node metastases tissues (10 μm)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lymph node metastases"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[PooledSample]": [
+      "a pool of eight MM tumor lysates"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R3"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Automated Fe(III)-IMAC-based workflow"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Easy-nLC 1000 HPLC coupled on-line to a Q Exactive mass spectrometer (Thermo Scientific, San Jose, CA)",
+      "Ultimate 3000 HPLC coupled to a Q Exactive HF-X mass spectrometer (Thermo Scientific, San Jose, CA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent analysis (DDA)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmentation in the HCD collision cell"
+    ],
+    "Comment[GradientTime]": [
+      "using a 120 min ACN gradient in 0.1% formic acid"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "A maximum of two missed cleavage sites were accepted."
+    ],
+    "FactorValue[Treatment]": [
+      "50ug"
+    ]
+  },
+  "MM1_R3.raw": {
+    "Source Name": [
+      "MM1"
+    ],
+    "Assay Name": [
+      "MM1_MM1_R3"
+    ],
+    "Raw Data File": [
+      "MM1_R3.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "MM tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "sectioned, fresh-frozen tissues from human MM lymph node metastases tissues (10 μm)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lymph node metastases"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "MM1"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R3"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Automated Fe(III)-IMAC-based workflow"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Easy-nLC 1000 HPLC coupled on-line to a Q Exactive mass spectrometer (Thermo Scientific, San Jose, CA)",
+      "Ultimate 3000 HPLC coupled to a Q Exactive HF-X mass spectrometer (Thermo Scientific, San Jose, CA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent analysis (DDA)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmentation in the HCD collision cell"
+    ],
+    "Comment[GradientTime]": [
+      "using a 120 min ACN gradient in 0.1% formic acid"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "A maximum of two missed cleavage sites were accepted."
+    ]
+  },
+  "MM_50ug_IMAC_Bravo_R1.raw": {
+    "Source Name": [
+      "pooled sample"
+    ],
+    "Assay Name": [
+      "pooled sample_MM_50ug_IMAC_Bravo_R1"
+    ],
+    "Raw Data File": [
+      "MM_50ug_IMAC_Bravo_R1.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "MM tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "sectioned, fresh-frozen tissues from human MM lymph node metastases tissues (10 μm)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lymph node metastases"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[PooledSample]": [
+      "a pool of eight MM tumor lysates"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Automated Fe(III)-IMAC-based workflow"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Easy-nLC 1000 HPLC coupled on-line to a Q Exactive mass spectrometer (Thermo Scientific, San Jose, CA)",
+      "Ultimate 3000 HPLC coupled to a Q Exactive HF-X mass spectrometer (Thermo Scientific, San Jose, CA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent analysis (DDA)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmentation in the HCD collision cell"
+    ],
+    "Comment[GradientTime]": [
+      "using a 120 min ACN gradient in 0.1% formic acid"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "A maximum of two missed cleavage sites were accepted."
+    ],
+    "FactorValue[Treatment]": [
+      "50ug"
+    ]
+  },
+  "MM_100ug_IMAC_Bravo_R3.raw": {
+    "Source Name": [
+      "pooled sample"
+    ],
+    "Assay Name": [
+      "pooled sample_MM_100ug_IMAC_Bravo_R3"
+    ],
+    "Raw Data File": [
+      "MM_100ug_IMAC_Bravo_R3.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "MM tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "sectioned, fresh-frozen tissues from human MM lymph node metastases tissues (10 μm)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lymph node metastases"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[PooledSample]": [
+      "a pool of eight MM tumor lysates"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R3"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Automated Fe(III)-IMAC-based workflow"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Easy-nLC 1000 HPLC coupled on-line to a Q Exactive mass spectrometer (Thermo Scientific, San Jose, CA)",
+      "Ultimate 3000 HPLC coupled to a Q Exactive HF-X mass spectrometer (Thermo Scientific, San Jose, CA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent analysis (DDA)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmentation in the HCD collision cell"
+    ],
+    "Comment[GradientTime]": [
+      "using a 120 min ACN gradient in 0.1% formic acid"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "A maximum of two missed cleavage sites were accepted."
+    ],
+    "FactorValue[Treatment]": [
+      "100ug"
+    ]
+  },
+  "F3_MM2.raw": {
+    "Source Name": [
+      "MM2"
+    ],
+    "Assay Name": [
+      "MM2_F3_MM2"
+    ],
+    "Raw Data File": [
+      "F3_MM2.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "MM tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "sectioned, fresh-frozen tissues from human MM lymph node metastases tissues (10 μm)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lymph node metastases"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "MM2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F3"
+    ],
+    "Comment[NumberOfFractions]": [
+      "collection of seven fractions that included the flow-through."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Automated Fe(III)-IMAC-based workflow"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Easy-nLC 1000 HPLC coupled on-line to a Q Exactive mass spectrometer (Thermo Scientific, San Jose, CA)",
+      "Ultimate 3000 HPLC coupled to a Q Exactive HF-X mass spectrometer (Thermo Scientific, San Jose, CA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent analysis (DDA)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmentation in the HCD collision cell"
+    ],
+    "Comment[GradientTime]": [
+      "using a 120 min ACN gradient in 0.1% formic acid"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "A maximum of two missed cleavage sites were accepted."
+    ]
+  },
+  "MM3_R2.raw": {
+    "Source Name": [
+      "MM3"
+    ],
+    "Assay Name": [
+      "MM3_MM3_R2"
+    ],
+    "Raw Data File": [
+      "MM3_R2.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "MM tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "sectioned, fresh-frozen tissues from human MM lymph node metastases tissues (10 μm)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lymph node metastases"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "MM3"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Automated Fe(III)-IMAC-based workflow"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Easy-nLC 1000 HPLC coupled on-line to a Q Exactive mass spectrometer (Thermo Scientific, San Jose, CA)",
+      "Ultimate 3000 HPLC coupled to a Q Exactive HF-X mass spectrometer (Thermo Scientific, San Jose, CA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent analysis (DDA)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmentation in the HCD collision cell"
+    ],
+    "Comment[GradientTime]": [
+      "using a 120 min ACN gradient in 0.1% formic acid"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "A maximum of two missed cleavage sites were accepted."
+    ]
+  },
+  "MM_50ug_IMAC_Bravo_R2.raw": {
+    "Source Name": [
+      "pooled sample"
+    ],
+    "Assay Name": [
+      "pooled sample_MM_50ug_IMAC_Bravo_R2"
+    ],
+    "Raw Data File": [
+      "MM_50ug_IMAC_Bravo_R2.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "MM tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "sectioned, fresh-frozen tissues from human MM lymph node metastases tissues (10 μm)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lymph node metastases"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[PooledSample]": [
+      "a pool of eight MM tumor lysates"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R2"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Automated Fe(III)-IMAC-based workflow"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Easy-nLC 1000 HPLC coupled on-line to a Q Exactive mass spectrometer (Thermo Scientific, San Jose, CA)",
+      "Ultimate 3000 HPLC coupled to a Q Exactive HF-X mass spectrometer (Thermo Scientific, San Jose, CA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent analysis (DDA)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmentation in the HCD collision cell"
+    ],
+    "Comment[GradientTime]": [
+      "using a 120 min ACN gradient in 0.1% formic acid"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "A maximum of two missed cleavage sites were accepted."
+    ],
+    "FactorValue[Treatment]": [
+      "50ug"
+    ]
+  },
+  "FT_MM2.raw": {
+    "Source Name": [
+      "MM2"
+    ],
+    "Assay Name": [
+      "MM2_FT_MM2"
+    ],
+    "Raw Data File": [
+      "FT_MM2.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "MM tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "sectioned, fresh-frozen tissues from human MM lymph node metastases tissues (10 μm)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lymph node metastases"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "MM2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FT"
+    ],
+    "Comment[NumberOfFractions]": [
+      "collection of seven fractions that included the flow-through."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Automated Fe(III)-IMAC-based workflow"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Easy-nLC 1000 HPLC coupled on-line to a Q Exactive mass spectrometer (Thermo Scientific, San Jose, CA)",
+      "Ultimate 3000 HPLC coupled to a Q Exactive HF-X mass spectrometer (Thermo Scientific, San Jose, CA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent analysis (DDA)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmentation in the HCD collision cell"
+    ],
+    "Comment[GradientTime]": [
+      "using a 120 min ACN gradient in 0.1% formic acid"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "A maximum of two missed cleavage sites were accepted."
+    ]
+  },
+  "MM_200ug_IMAC_Bravo_R3.raw": {
+    "Source Name": [
+      "pooled sample"
+    ],
+    "Assay Name": [
+      "pooled sample_MM_200ug_IMAC_Bravo_R3"
+    ],
+    "Raw Data File": [
+      "MM_200ug_IMAC_Bravo_R3.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "MM tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "sectioned, fresh-frozen tissues from human MM lymph node metastases tissues (10 μm)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lymph node metastases"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[PooledSample]": [
+      "a pool of eight MM tumor lysates"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R3"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Automated Fe(III)-IMAC-based workflow"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Easy-nLC 1000 HPLC coupled on-line to a Q Exactive mass spectrometer (Thermo Scientific, San Jose, CA)",
+      "Ultimate 3000 HPLC coupled to a Q Exactive HF-X mass spectrometer (Thermo Scientific, San Jose, CA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent analysis (DDA)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmentation in the HCD collision cell"
+    ],
+    "Comment[GradientTime]": [
+      "using a 120 min ACN gradient in 0.1% formic acid"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "A maximum of two missed cleavage sites were accepted."
+    ],
+    "FactorValue[Treatment]": [
+      "200ug"
+    ]
+  },
+  "F6_MM2.raw": {
+    "Source Name": [
+      "MM2"
+    ],
+    "Assay Name": [
+      "MM2_F6_MM2"
+    ],
+    "Raw Data File": [
+      "F6_MM2.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "MM tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "sectioned, fresh-frozen tissues from human MM lymph node metastases tissues (10 μm)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lymph node metastases"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "MM2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F6"
+    ],
+    "Comment[NumberOfFractions]": [
+      "collection of seven fractions that included the flow-through."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Automated Fe(III)-IMAC-based workflow"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Easy-nLC 1000 HPLC coupled on-line to a Q Exactive mass spectrometer (Thermo Scientific, San Jose, CA)",
+      "Ultimate 3000 HPLC coupled to a Q Exactive HF-X mass spectrometer (Thermo Scientific, San Jose, CA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent analysis (DDA)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmentation in the HCD collision cell"
+    ],
+    "Comment[GradientTime]": [
+      "using a 120 min ACN gradient in 0.1% formic acid"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "A maximum of two missed cleavage sites were accepted."
+    ]
+  },
+  "MM_100ug_IMAC_Bravo_R2.raw": {
+    "Source Name": [
+      "pooled sample"
+    ],
+    "Assay Name": [
+      "pooled sample_MM_100ug_IMAC_Bravo_R2"
+    ],
+    "Raw Data File": [
+      "MM_100ug_IMAC_Bravo_R2.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "MM tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "sectioned, fresh-frozen tissues from human MM lymph node metastases tissues (10 μm)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lymph node metastases"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[PooledSample]": [
+      "a pool of eight MM tumor lysates"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R2"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Automated Fe(III)-IMAC-based workflow"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Easy-nLC 1000 HPLC coupled on-line to a Q Exactive mass spectrometer (Thermo Scientific, San Jose, CA)",
+      "Ultimate 3000 HPLC coupled to a Q Exactive HF-X mass spectrometer (Thermo Scientific, San Jose, CA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent analysis (DDA)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmentation in the HCD collision cell"
+    ],
+    "Comment[GradientTime]": [
+      "using a 120 min ACN gradient in 0.1% formic acid"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "A maximum of two missed cleavage sites were accepted."
+    ],
+    "FactorValue[Treatment]": [
+      "100ug"
+    ]
+  },
+  "MM_200ug_IMAC_Bravo_R2.raw": {
+    "Source Name": [
+      "pooled sample"
+    ],
+    "Assay Name": [
+      "pooled sample_MM_200ug_IMAC_Bravo_R2"
+    ],
+    "Raw Data File": [
+      "MM_200ug_IMAC_Bravo_R2.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "MM tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "sectioned, fresh-frozen tissues from human MM lymph node metastases tissues (10 μm)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lymph node metastases"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[PooledSample]": [
+      "a pool of eight MM tumor lysates"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R2"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Automated Fe(III)-IMAC-based workflow"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Easy-nLC 1000 HPLC coupled on-line to a Q Exactive mass spectrometer (Thermo Scientific, San Jose, CA)",
+      "Ultimate 3000 HPLC coupled to a Q Exactive HF-X mass spectrometer (Thermo Scientific, San Jose, CA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent analysis (DDA)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmentation in the HCD collision cell"
+    ],
+    "Comment[GradientTime]": [
+      "using a 120 min ACN gradient in 0.1% formic acid"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "A maximum of two missed cleavage sites were accepted."
+    ],
+    "FactorValue[Treatment]": [
+      "200ug"
+    ]
+  },
+  "MM_12ug_IMAC_Bravo_R3.raw": {
+    "Source Name": [
+      "pooled sample"
+    ],
+    "Assay Name": [
+      "pooled sample_MM_12ug_IMAC_Bravo_R3"
+    ],
+    "Raw Data File": [
+      "MM_12ug_IMAC_Bravo_R3.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "MM tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "sectioned, fresh-frozen tissues from human MM lymph node metastases tissues (10 μm)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lymph node metastases"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[PooledSample]": [
+      "a pool of eight MM tumor lysates"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R3"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Automated Fe(III)-IMAC-based workflow"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Easy-nLC 1000 HPLC coupled on-line to a Q Exactive mass spectrometer (Thermo Scientific, San Jose, CA)",
+      "Ultimate 3000 HPLC coupled to a Q Exactive HF-X mass spectrometer (Thermo Scientific, San Jose, CA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent analysis (DDA)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmentation in the HCD collision cell"
+    ],
+    "Comment[GradientTime]": [
+      "using a 120 min ACN gradient in 0.1% formic acid"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "A maximum of two missed cleavage sites were accepted."
+    ],
+    "FactorValue[Treatment]": [
+      "12ug"
+    ]
+  },
+  "MM2_R2.raw": {
+    "Source Name": [
+      "MM2"
+    ],
+    "Assay Name": [
+      "MM2_MM2_R2"
+    ],
+    "Raw Data File": [
+      "MM2_R2.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "MM tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "sectioned, fresh-frozen tissues from human MM lymph node metastases tissues (10 μm)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lymph node metastases"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "MM2"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Automated Fe(III)-IMAC-based workflow"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Easy-nLC 1000 HPLC coupled on-line to a Q Exactive mass spectrometer (Thermo Scientific, San Jose, CA)",
+      "Ultimate 3000 HPLC coupled to a Q Exactive HF-X mass spectrometer (Thermo Scientific, San Jose, CA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent analysis (DDA)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmentation in the HCD collision cell"
+    ],
+    "Comment[GradientTime]": [
+      "using a 120 min ACN gradient in 0.1% formic acid"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "A maximum of two missed cleavage sites were accepted."
+    ]
+  },
+  "MM_100ug_IMAC_Bravo_R1.raw": {
+    "Source Name": [
+      "pooled sample"
+    ],
+    "Assay Name": [
+      "pooled sample_MM_100ug_IMAC_Bravo_R1"
+    ],
+    "Raw Data File": [
+      "MM_100ug_IMAC_Bravo_R1.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "MM tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "sectioned, fresh-frozen tissues from human MM lymph node metastases tissues (10 μm)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lymph node metastases"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[PooledSample]": [
+      "a pool of eight MM tumor lysates"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Automated Fe(III)-IMAC-based workflow"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Easy-nLC 1000 HPLC coupled on-line to a Q Exactive mass spectrometer (Thermo Scientific, San Jose, CA)",
+      "Ultimate 3000 HPLC coupled to a Q Exactive HF-X mass spectrometer (Thermo Scientific, San Jose, CA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent analysis (DDA)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmentation in the HCD collision cell"
+    ],
+    "Comment[GradientTime]": [
+      "using a 120 min ACN gradient in 0.1% formic acid"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "A maximum of two missed cleavage sites were accepted."
+    ],
+    "FactorValue[Treatment]": [
+      "100ug"
+    ]
+  },
+  "MM_25ug_IMAC_Bravo_R1.raw": {
+    "Source Name": [
+      "pooled sample"
+    ],
+    "Assay Name": [
+      "pooled sample_MM_25ug_IMAC_Bravo_R1"
+    ],
+    "Raw Data File": [
+      "MM_25ug_IMAC_Bravo_R1.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "MM tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "sectioned, fresh-frozen tissues from human MM lymph node metastases tissues (10 μm)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lymph node metastases"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[PooledSample]": [
+      "a pool of eight MM tumor lysates"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Automated Fe(III)-IMAC-based workflow"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Easy-nLC 1000 HPLC coupled on-line to a Q Exactive mass spectrometer (Thermo Scientific, San Jose, CA)",
+      "Ultimate 3000 HPLC coupled to a Q Exactive HF-X mass spectrometer (Thermo Scientific, San Jose, CA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent analysis (DDA)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmentation in the HCD collision cell"
+    ],
+    "Comment[GradientTime]": [
+      "using a 120 min ACN gradient in 0.1% formic acid"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "A maximum of two missed cleavage sites were accepted."
+    ],
+    "FactorValue[Treatment]": [
+      "25ug"
+    ]
+  },
+  "F1_MM2.raw": {
+    "Source Name": [
+      "MM2"
+    ],
+    "Assay Name": [
+      "MM2_F1_MM2"
+    ],
+    "Raw Data File": [
+      "F1_MM2.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "MM tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "sectioned, fresh-frozen tissues from human MM lymph node metastases tissues (10 μm)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lymph node metastases"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "MM2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F1"
+    ],
+    "Comment[NumberOfFractions]": [
+      "collection of seven fractions that included the flow-through."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Automated Fe(III)-IMAC-based workflow"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Easy-nLC 1000 HPLC coupled on-line to a Q Exactive mass spectrometer (Thermo Scientific, San Jose, CA)",
+      "Ultimate 3000 HPLC coupled to a Q Exactive HF-X mass spectrometer (Thermo Scientific, San Jose, CA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent analysis (DDA)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmentation in the HCD collision cell"
+    ],
+    "Comment[GradientTime]": [
+      "using a 120 min ACN gradient in 0.1% formic acid"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "A maximum of two missed cleavage sites were accepted."
+    ]
+  },
+  "MM_12ug_IMAC_Bravo_R1.raw": {
+    "Source Name": [
+      "pooled sample"
+    ],
+    "Assay Name": [
+      "pooled sample_MM_12ug_IMAC_Bravo_R1"
+    ],
+    "Raw Data File": [
+      "MM_12ug_IMAC_Bravo_R1.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "MM tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "sectioned, fresh-frozen tissues from human MM lymph node metastases tissues (10 μm)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lymph node metastases"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[PooledSample]": [
+      "a pool of eight MM tumor lysates"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Automated Fe(III)-IMAC-based workflow"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Easy-nLC 1000 HPLC coupled on-line to a Q Exactive mass spectrometer (Thermo Scientific, San Jose, CA)",
+      "Ultimate 3000 HPLC coupled to a Q Exactive HF-X mass spectrometer (Thermo Scientific, San Jose, CA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent analysis (DDA)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmentation in the HCD collision cell"
+    ],
+    "Comment[GradientTime]": [
+      "using a 120 min ACN gradient in 0.1% formic acid"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "A maximum of two missed cleavage sites were accepted."
+    ],
+    "FactorValue[Treatment]": [
+      "12ug"
+    ]
+  },
+  "MM_25ug_IMAC_Bravo_R2.raw": {
+    "Source Name": [
+      "pooled sample"
+    ],
+    "Assay Name": [
+      "pooled sample_MM_25ug_IMAC_Bravo_R2"
+    ],
+    "Raw Data File": [
+      "MM_25ug_IMAC_Bravo_R2.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "MM tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "sectioned, fresh-frozen tissues from human MM lymph node metastases tissues (10 μm)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lymph node metastases"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[PooledSample]": [
+      "a pool of eight MM tumor lysates"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R2"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Automated Fe(III)-IMAC-based workflow"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Easy-nLC 1000 HPLC coupled on-line to a Q Exactive mass spectrometer (Thermo Scientific, San Jose, CA)",
+      "Ultimate 3000 HPLC coupled to a Q Exactive HF-X mass spectrometer (Thermo Scientific, San Jose, CA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent analysis (DDA)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmentation in the HCD collision cell"
+    ],
+    "Comment[GradientTime]": [
+      "using a 120 min ACN gradient in 0.1% formic acid"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "A maximum of two missed cleavage sites were accepted."
+    ],
+    "FactorValue[Treatment]": [
+      "25ug"
+    ]
+  },
+  "F2_MM2.raw": {
+    "Source Name": [
+      "MM2"
+    ],
+    "Assay Name": [
+      "MM2_F2_MM2"
+    ],
+    "Raw Data File": [
+      "F2_MM2.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "MM tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "sectioned, fresh-frozen tissues from human MM lymph node metastases tissues (10 μm)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lymph node metastases"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "MM2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F2"
+    ],
+    "Comment[NumberOfFractions]": [
+      "collection of seven fractions that included the flow-through."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Automated Fe(III)-IMAC-based workflow"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Easy-nLC 1000 HPLC coupled on-line to a Q Exactive mass spectrometer (Thermo Scientific, San Jose, CA)",
+      "Ultimate 3000 HPLC coupled to a Q Exactive HF-X mass spectrometer (Thermo Scientific, San Jose, CA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent analysis (DDA)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmentation in the HCD collision cell"
+    ],
+    "Comment[GradientTime]": [
+      "using a 120 min ACN gradient in 0.1% formic acid"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "A maximum of two missed cleavage sites were accepted."
+    ]
+  },
+  "F4_MM2.raw": {
+    "Source Name": [
+      "MM2"
+    ],
+    "Assay Name": [
+      "MM2_F4_MM2"
+    ],
+    "Raw Data File": [
+      "F4_MM2.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "MM tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "sectioned, fresh-frozen tissues from human MM lymph node metastases tissues (10 μm)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lymph node metastases"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "MM2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F4"
+    ],
+    "Comment[NumberOfFractions]": [
+      "collection of seven fractions that included the flow-through."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Automated Fe(III)-IMAC-based workflow"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Easy-nLC 1000 HPLC coupled on-line to a Q Exactive mass spectrometer (Thermo Scientific, San Jose, CA)",
+      "Ultimate 3000 HPLC coupled to a Q Exactive HF-X mass spectrometer (Thermo Scientific, San Jose, CA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent analysis (DDA)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmentation in the HCD collision cell"
+    ],
+    "Comment[GradientTime]": [
+      "using a 120 min ACN gradient in 0.1% formic acid"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "A maximum of two missed cleavage sites were accepted."
+    ]
+  },
+  "MM_25ug_IMAC_Bravo_R3.raw": {
+    "Source Name": [
+      "pooled sample"
+    ],
+    "Assay Name": [
+      "pooled sample_MM_25ug_IMAC_Bravo_R3"
+    ],
+    "Raw Data File": [
+      "MM_25ug_IMAC_Bravo_R3.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "MM tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "sectioned, fresh-frozen tissues from human MM lymph node metastases tissues (10 μm)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lymph node metastases"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[PooledSample]": [
+      "a pool of eight MM tumor lysates"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R3"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Automated Fe(III)-IMAC-based workflow"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Easy-nLC 1000 HPLC coupled on-line to a Q Exactive mass spectrometer (Thermo Scientific, San Jose, CA)",
+      "Ultimate 3000 HPLC coupled to a Q Exactive HF-X mass spectrometer (Thermo Scientific, San Jose, CA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent analysis (DDA)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmentation in the HCD collision cell"
+    ],
+    "Comment[GradientTime]": [
+      "using a 120 min ACN gradient in 0.1% formic acid"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "A maximum of two missed cleavage sites were accepted."
+    ],
+    "FactorValue[Treatment]": [
+      "25ug"
+    ]
+  },
+  "F5_MM2.raw": {
+    "Source Name": [
+      "MM2"
+    ],
+    "Assay Name": [
+      "MM2_F5_MM2"
+    ],
+    "Raw Data File": [
+      "F5_MM2.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "MM tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "sectioned, fresh-frozen tissues from human MM lymph node metastases tissues (10 μm)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lymph node metastases"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "MM2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F5"
+    ],
+    "Comment[NumberOfFractions]": [
+      "collection of seven fractions that included the flow-through."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Automated Fe(III)-IMAC-based workflow"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Easy-nLC 1000 HPLC coupled on-line to a Q Exactive mass spectrometer (Thermo Scientific, San Jose, CA)",
+      "Ultimate 3000 HPLC coupled to a Q Exactive HF-X mass spectrometer (Thermo Scientific, San Jose, CA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent analysis (DDA)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmentation in the HCD collision cell"
+    ],
+    "Comment[GradientTime]": [
+      "using a 120 min ACN gradient in 0.1% formic acid"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "A maximum of two missed cleavage sites were accepted."
+    ]
+  },
+  "MM_200ug_IMAC_Bravo_R1.raw": {
+    "Source Name": [
+      "pooled sample"
+    ],
+    "Assay Name": [
+      "pooled sample_MM_200ug_IMAC_Bravo_R1"
+    ],
+    "Raw Data File": [
+      "MM_200ug_IMAC_Bravo_R1.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "MM tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "sectioned, fresh-frozen tissues from human MM lymph node metastases tissues (10 μm)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lymph node metastases"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[PooledSample]": [
+      "a pool of eight MM tumor lysates"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Automated Fe(III)-IMAC-based workflow"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Easy-nLC 1000 HPLC coupled on-line to a Q Exactive mass spectrometer (Thermo Scientific, San Jose, CA)",
+      "Ultimate 3000 HPLC coupled to a Q Exactive HF-X mass spectrometer (Thermo Scientific, San Jose, CA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent analysis (DDA)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmentation in the HCD collision cell"
+    ],
+    "Comment[GradientTime]": [
+      "using a 120 min ACN gradient in 0.1% formic acid"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "A maximum of two missed cleavage sites were accepted."
+    ],
+    "FactorValue[Treatment]": [
+      "200ug"
+    ]
+  },
+  "MM3_R1.raw": {
+    "Source Name": [
+      "MM3"
+    ],
+    "Assay Name": [
+      "MM3_MM3_R1"
+    ],
+    "Raw Data File": [
+      "MM3_R1.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "MM tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "sectioned, fresh-frozen tissues from human MM lymph node metastases tissues (10 μm)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lymph node metastases"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "MM3"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Automated Fe(III)-IMAC-based workflow"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Easy-nLC 1000 HPLC coupled on-line to a Q Exactive mass spectrometer (Thermo Scientific, San Jose, CA)",
+      "Ultimate 3000 HPLC coupled to a Q Exactive HF-X mass spectrometer (Thermo Scientific, San Jose, CA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent analysis (DDA)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmentation in the HCD collision cell"
+    ],
+    "Comment[GradientTime]": [
+      "using a 120 min ACN gradient in 0.1% formic acid"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "A maximum of two missed cleavage sites were accepted."
+    ]
+  },
+  "MM1_R1.raw": {
+    "Source Name": [
+      "MM1"
+    ],
+    "Assay Name": [
+      "MM1_MM1_R1"
+    ],
+    "Raw Data File": [
+      "MM1_R1.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "MM tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "sectioned, fresh-frozen tissues from human MM lymph node metastases tissues (10 μm)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lymph node metastases"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "MM1"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Automated Fe(III)-IMAC-based workflow"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Easy-nLC 1000 HPLC coupled on-line to a Q Exactive mass spectrometer (Thermo Scientific, San Jose, CA)",
+      "Ultimate 3000 HPLC coupled to a Q Exactive HF-X mass spectrometer (Thermo Scientific, San Jose, CA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent analysis (DDA)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmentation in the HCD collision cell"
+    ],
+    "Comment[GradientTime]": [
+      "using a 120 min ACN gradient in 0.1% formic acid"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "A maximum of two missed cleavage sites were accepted."
+    ]
+  },
+  "MM2_R1.raw": {
+    "Source Name": [
+      "MM2"
+    ],
+    "Assay Name": [
+      "MM2_MM2_R1"
+    ],
+    "Raw Data File": [
+      "MM2_R1.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "MM tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "sectioned, fresh-frozen tissues from human MM lymph node metastases tissues (10 μm)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lymph node metastases"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "MM2"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Automated Fe(III)-IMAC-based workflow"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Easy-nLC 1000 HPLC coupled on-line to a Q Exactive mass spectrometer (Thermo Scientific, San Jose, CA)",
+      "Ultimate 3000 HPLC coupled to a Q Exactive HF-X mass spectrometer (Thermo Scientific, San Jose, CA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent analysis (DDA)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmentation in the HCD collision cell"
+    ],
+    "Comment[GradientTime]": [
+      "using a 120 min ACN gradient in 0.1% formic acid"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "A maximum of two missed cleavage sites were accepted."
+    ]
+  },
+  "MM_12ug_IMAC_Bravo_R2.raw": {
+    "Source Name": [
+      "pooled sample"
+    ],
+    "Assay Name": [
+      "pooled sample_MM_12ug_IMAC_Bravo_R2"
+    ],
+    "Raw Data File": [
+      "MM_12ug_IMAC_Bravo_R2.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "MM tumor tissues"
+    ],
+    "Characteristics[Specimen]": [
+      "sectioned, fresh-frozen tissues from human MM lymph node metastases tissues (10 μm)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lymph node metastases"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[PooledSample]": [
+      "a pool of eight MM tumor lysates"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R2"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Automated Fe(III)-IMAC-based workflow"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Easy-nLC 1000 HPLC coupled on-line to a Q Exactive mass spectrometer (Thermo Scientific, San Jose, CA)",
+      "Ultimate 3000 HPLC coupled to a Q Exactive HF-X mass spectrometer (Thermo Scientific, San Jose, CA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent analysis (DDA)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmentation in the HCD collision cell"
+    ],
+    "Comment[GradientTime]": [
+      "using a 120 min ACN gradient in 0.1% formic acid"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "A maximum of two missed cleavage sites were accepted."
+    ],
+    "FactorValue[Treatment]": [
+      "12ug"
+    ]
+  }
+}

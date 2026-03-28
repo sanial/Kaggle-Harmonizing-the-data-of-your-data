@@ -1,0 +1,61 @@
+Disease: Melanoma  
+Treatment: Immunotherapy  
+AssayName: high-resolution mass spectrometry  
+GeneticModification: CRISPR-Cas9 knockouts  
+MaterialType: clinical samples  
+MaterialType: archival formalin-fixed paraffin-embedded (FFPE) tissues  
+Disease: metastatic melanoma  
+Treatment: TIL-based adoptive cell transfer  
+Experiment: “Young TIL” protocol  
+Experiment: “Selected TIL” protocol  
+Organism: mouse  
+CellLine: WM266–4  
+CellLine: WM115  
+CellLine: A375  
+CellLine: Mel526  
+CellLine: Mel624  
+CellLine: YUMMER1.7 (clone D4J)  
+Compound: Sodium dichloroacetate (DCA)  
+ConcentrationOfCompound: 30 mM  
+Compound: avasimibe  
+ConcentrationOfCompound: 3 μM  
+Compound: etomoxir  
+ConcentrationOfCompound: 100 μM  
+Compound: rotenone  
+ConcentrationOfCompound: 200 nM  
+Compound: antimycin  
+ConcentrationOfCompound: 250 nM  
+Compound: oligomycin  
+ConcentrationOfCompound: 50 nM  
+Compound: DMSO  
+SampleTreatment: DMSO treatment  
+Compound: sodium dodecyl sulfate (SDS)  
+Compound: Tris pH 7.6  
+ReductionReagent: DTT  
+AlkylationReagent: iodoacetamide  
+CleavageAgent: trypsin  
+Compound: trifluoroacetic acid  
+ConcentrationOfCompound: 1%  
+FractionationMethod: strong anion exchange (SAX) chromatography  
+Compound: 2–2-2 trifluoroethanol (TFE)  
+Compound: ABC  
+ConcentrationOfCompound: 25 mM  
+CleavageAgent: Lys-C-Trypsin mix  
+FractionationMethod: strong cation exchange (SCX) chromatography  
+Instrument: Q-Exactive Plus  
+Instrument: Q-Exactive HF mass spectrometers  
+Separation: 50 cm EASY-spray PepMap column  
+GradientTime: 220 min  
+GradientTime: 140 min  
+FlowRateChromatogram: 300 nL/min  
+Temperature: 40°C  
+Compound: formic acid  
+ConcentrationOfCompound: 0.1%  
+Compound: acetonitrile  
+ConcentrationOfCompound: 80%  
+FractionIdentifier: 3.5 μm  
+Instrument: Gallios flow cytometer  
+Instrument: BD LSRII flow cytometer  
+FactorValue: 10:1 Effector:Target ratio  
+Treatment: tumor infiltrating lymphocyte (TIL)-based immunotherapy  
+Treatment: anti- programmed death 1 (PD1) immunotherapy

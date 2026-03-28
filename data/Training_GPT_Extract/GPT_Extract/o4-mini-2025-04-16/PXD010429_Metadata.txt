@@ -1,0 +1,26 @@
+MaterialType: snap frozen tumor tissues  
+SampleTreatment: randomized  
+SampleTreatment: pulverized into homogenized powder  
+Instrument: BioPulverizer (Biospec)  
+Temperature: liquid nitrogen  
+ConcentrationOfCompound: 20 mM HEPES  
+ConcentrationOfCompound: 9 M urea  
+ConcentrationOfCompound: 1 mM sodium orthovanadate  
+ConcentrationOfCompound: 2.5 mM sodium pyrophosphate  
+ConcentrationOfCompound: 1 mM β-glycerophosphate  
+ReductionReagent: DTT  
+ConcentrationOfCompound: 4.5 mM DTT  
+AlkylationReagent: iodoacetamide  
+ConcentrationOfCompound: 11 mM iodoacetamide  
+CleavageAgent: trypsin  
+AssayName: LC-MS/MS  
+Label: tandem mass tag (TMT) chemical labeling experiments  
+Label: label-free LC-MS/MS  
+Instrument: nanoflow ultra-high performance liquid chromatograph (RSLC, Dionex, Sunnyvale, CA)  
+Instrument: electrospray quadrupole-orbital ion trap mass spectrometer (Q Exactive Plus, Thermo, San Jose, CA)  
+IonizationType: electrospray  
+CollisionEnergy: normalized collision energy 30  
+PrecursorMassTolerance: 10 p.p.m.  
+FragmentMassTolerance: 0.5 m/z  
+GradientTime: 90 min  
+FlowRateChromatogram: 300 nl/min

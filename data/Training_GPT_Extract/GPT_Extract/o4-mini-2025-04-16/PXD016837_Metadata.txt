@@ -1,0 +1,17 @@
+Instrument: UltiMate® 3000 Rapid Separation LC  
+Instrument: Orbitrap Elite mass detector  
+AssayName: LC-MS/MS  
+IonizationType: electrospray ionization  
+GradientTime: 44 min  
+FlowRateChromatogram: 300 nL per minute  
+CleavageAgent: trypsin (1.25 ng/μL, Promega, United States)  
+ReductionReagent: dithiothreitol (DTT, 1 h at 56°C)  
+AlkylationReagent: 55 mM iodoacetamide (37°C, 45 min, dark)  
+PrecursorMassTolerance: 5 PPM  
+FragmentMassTolerance: 0.50 Da  
+FractionationMethod: NuPage 4–12% Bis-Tris protein gels  
+ConcentrationOfCompound: 6 mM DTBP  
+ConcentrationOfCompound: 0.03 M Tris-HCl  
+NumberOfTechnicalReplicates: performed in triplicate for MDA-MB-435S and 3αV and in duplicate for 2αV  
+SourceName: MDA-MB-435S cells  
+CellLine: MDA-MB-435S

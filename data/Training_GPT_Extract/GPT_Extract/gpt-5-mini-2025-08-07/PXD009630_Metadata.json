@@ -1,0 +1,1612 @@
+{
+  "170520_MM64_03.raw": {
+    "Source Name": [
+      "MM64"
+    ],
+    "Assay Name": [
+      "170520_MM64_03"
+    ],
+    "Raw Data File": [
+      "170520_MM64_03.raw"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "111 lymph node metastasis samples from patients with malignant melanoma (Stage 3 and 4), archived in the local malignant melanoma biobank were obtained from Skåne University Hospital, Sweden."
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen tissue samples from BD20 were sectioned on a cryostat into 10\u2009\u00b5m thick slices (approximately 6\u00d76\u2009mm), placed into a 96 well plate and stored at \u221280\u2009\u00b0C until further use."
+    ],
+    "Characteristics[MaterialType]": [
+      "Frozen specimens (snap frozen immediately after surgery)"
+    ],
+    "Characteristics[Disease]": [
+      "malignant melanoma"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "The samples were spiked with 0.1\u2009mg of internal standard \u2013 chicken lysozyme (CL, Swiss-Prot accession no. P00698).",
+      "20\u2009\u00b5L of samples were mixed with 20\u2009\u00b5L of peptide retention time calibration mixture (PRTC, Pierce/Thermo Scientific, Rockford, IL, 20 fmoL/mL)."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Easy nLC 1000 system (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Scientific, San Jos\u00e9, CA)"
+    ],
+    "Comment[Separation]": [
+      "Online chromatography was performed with a Thermo Easy nLC 1000 system (Thermo Fisher Scientific) coupled online to a Q-Exactive Plus mass spectrometer (Thermo Scientific, San Jos\u00e9, CA)."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "Flow rate of 300 nL/min and a column temperature of 35\u2009\u00b0C were utilised."
+    ],
+    "Comment[GradientTime]": [
+      "the gradient went from 5% to 40% B in the first 120\u2009min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent top-15 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented in the HCD collision cell"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy of 30%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "tandem mass spectra were acquired in the Orbitrap mass analyzer with resolution of 17 500 (at m/z 200), target AGC value of 1\u2212106 and maximum injection time of 120\u2009ms."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm precursor tolerance"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02\u2009Da fragment tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to two missed cleavages for tryptic peptides was allowed."
+    ],
+    "Comment[Instrument]": [
+      "Thermo Easy nLC 1000 system (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Scientific, San Jos\u00e9, CA)"
+    ],
+    "Characteristics[Label]": [
+      "Label-free LC-MS/MS analysis"
+    ]
+  },
+  "160629_MM_31_03.raw": {
+    "Source Name": [
+      "MM_31"
+    ],
+    "Assay Name": [
+      "160629_MM_31_03"
+    ],
+    "Raw Data File": [
+      "160629_MM_31_03.raw"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "111 lymph node metastasis samples from patients with malignant melanoma (Stage 3 and 4), archived in the local malignant melanoma biobank were obtained from Skåne University Hospital, Sweden."
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen tissue samples from BD20 were sectioned on a cryostat into 10\u2009\u00b5m thick slices (approximately 6\u00d76\u2009mm), placed into a 96 well plate and stored at \u221280\u2009\u00b0C until further use."
+    ],
+    "Characteristics[MaterialType]": [
+      "Frozen specimens (snap frozen immediately after surgery)"
+    ],
+    "Characteristics[Disease]": [
+      "malignant melanoma"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "The samples were spiked with 0.1\u2009mg of internal standard \u2013 chicken lysozyme (CL, Swiss-Prot accession no. P00698).",
+      "20\u2009\u00b5L of samples were mixed with 20\u2009\u00b5L of peptide retention time calibration mixture (PRTC, Pierce/Thermo Scientific, Rockford, IL, 20 fmoL/mL)."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Easy nLC 1000 system (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Scientific, San Jos\u00e9, CA)"
+    ],
+    "Comment[Separation]": [
+      "Online chromatography was performed with a Thermo Easy nLC 1000 system (Thermo Fisher Scientific) coupled online to a Q-Exactive Plus mass spectrometer (Thermo Scientific, San Jos\u00e9, CA)."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "Flow rate of 300 nL/min and a column temperature of 35\u2009\u00b0C were utilised."
+    ],
+    "Comment[GradientTime]": [
+      "the gradient went from 5% to 40% B in the first 120\u2009min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent top-15 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented in the HCD collision cell"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy of 30%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "tandem mass spectra were acquired in the Orbitrap mass analyzer with resolution of 17 500 (at m/z 200), target AGC value of 1\u2212106 and maximum injection time of 120\u2009ms."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm precursor tolerance"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02\u2009Da fragment tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to two missed cleavages for tryptic peptides was allowed."
+    ],
+    "Characteristics[Label]": [
+      "Label-free LC-MS/MS analysis"
+    ]
+  },
+  "170517_MM110_03.raw": {
+    "Source Name": [
+      "MM110"
+    ],
+    "Assay Name": [
+      "170517_MM110_03"
+    ],
+    "Raw Data File": [
+      "170517_MM110_03.raw"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "111 lymph node metastasis samples from patients with malignant melanoma (Stage 3 and 4), archived in the local malignant melanoma biobank were obtained from Skåne University Hospital, Sweden."
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen tissue samples from BD20 were sectioned on a cryostat into 10\u2009\u00b5m thick slices (approximately 6\u00d76\u2009mm), placed into a 96 well plate and stored at \u221280\u2009\u00b0C until further use."
+    ],
+    "Characteristics[MaterialType]": [
+      "Frozen specimens (snap frozen immediately after surgery)"
+    ],
+    "Characteristics[Disease]": [
+      "malignant melanoma"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "The samples were spiked with 0.1\u2009mg of internal standard \u2013 chicken lysozyme (CL, Swiss-Prot accession no. P00698).",
+      "20\u2009\u00b5L of samples were mixed with 20\u2009\u00b5L of peptide retention time calibration mixture (PRTC, Pierce/Thermo Scientific, Rockford, IL, 20 fmoL/mL)."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Easy nLC 1000 system (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Scientific, San Jos\u00e9, CA)"
+    ],
+    "Comment[Separation]": [
+      "Online chromatography was performed with a Thermo Easy nLC 1000 system (Thermo Fisher Scientific) coupled online to a Q-Exactive Plus mass spectrometer (Thermo Scientific, San Jos\u00e9, CA)."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "Flow rate of 300 nL/min and a column temperature of 35\u2009\u00b0C were utilised."
+    ],
+    "Comment[GradientTime]": [
+      "the gradient went from 5% to 40% B in the first 120\u2009min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent top-15 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented in the HCD collision cell"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy of 30%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "tandem mass spectra were acquired in the Orbitrap mass analyzer with resolution of 17 500 (at m/z 200), target AGC value of 1\u2212106 and maximum injection time of 120\u2009ms."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm precursor tolerance"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02\u2009Da fragment tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to two missed cleavages for tryptic peptides was allowed."
+    ],
+    "Characteristics[Label]": [
+      "Label-free LC-MS/MS analysis"
+    ]
+  },
+  "170522_MM87_04.raw": {
+    "Source Name": [
+      "MM87"
+    ],
+    "Assay Name": [
+      "170522_MM87_04"
+    ],
+    "Raw Data File": [
+      "170522_MM87_04.raw"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "111 lymph node metastasis samples from patients with malignant melanoma (Stage 3 and 4), archived in the local malignant melanoma biobank were obtained from Skåne University Hospital, Sweden."
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen tissue samples from BD20 were sectioned on a cryostat into 10\u2009\u00b5m thick slices (approximately 6\u00d76\u2009mm), placed into a 96 well plate and stored at \u221280\u2009\u00b0C until further use."
+    ],
+    "Characteristics[MaterialType]": [
+      "Frozen specimens (snap frozen immediately after surgery)"
+    ],
+    "Characteristics[Disease]": [
+      "malignant melanoma"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "The samples were spiked with 0.1\u2009mg of internal standard \u2013 chicken lysozyme (CL, Swiss-Prot accession no. P00698).",
+      "20\u2009\u00b5L of samples were mixed with 20\u2009\u00b5L of peptide retention time calibration mixture (PRTC, Pierce/Thermo Scientific, Rockford, IL, 20 fmoL/mL)."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Easy nLC 1000 system (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Scientific, San Jos\u00e9, CA)"
+    ],
+    "Comment[Separation]": [
+      "Online chromatography was performed with a Thermo Easy nLC 1000 system (Thermo Fisher Scientific) coupled online to a Q-Exactive Plus mass spectrometer (Thermo Scientific, San Jos\u00e9, CA)."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "Flow rate of 300 nL/min and a column temperature of 35\u2009\u00b0C were utilised."
+    ],
+    "Comment[GradientTime]": [
+      "the gradient went from 5% to 40% B in the first 120\u2009min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent top-15 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented in the HCD collision cell"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy of 30%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "tandem mass spectra were acquired in the Orbitrap mass analyzer with resolution of 17 500 (at m/z 200), target AGC value of 1\u2212106 and maximum injection time of 120\u2009ms."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm precursor tolerance"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02\u2009Da fragment tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to two missed cleavages for tryptic peptides was allowed."
+    ],
+    "Characteristics[Label]": [
+      "Label-free LC-MS/MS analysis"
+    ]
+  },
+  "170521_MM115_04.raw": {
+    "Source Name": [
+      "MM115"
+    ],
+    "Assay Name": [
+      "170521_MM115_04"
+    ],
+    "Raw Data File": [
+      "170521_MM115_04.raw"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "111 lymph node metastasis samples from patients with malignant melanoma (Stage 3 and 4), archived in the local malignant melanoma biobank were obtained from Skåne University Hospital, Sweden."
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen tissue samples from BD20 were sectioned on a cryostat into 10\u2009\u00b5m thick slices (approximately 6\u00d76\u2009mm), placed into a 96 well plate and stored at \u221280\u2009\u00b0C until further use."
+    ],
+    "Characteristics[MaterialType]": [
+      "Frozen specimens (snap frozen immediately after surgery)"
+    ],
+    "Characteristics[Disease]": [
+      "malignant melanoma"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "The samples were spiked with 0.1\u2009mg of internal standard \u2013 chicken lysozyme (CL, Swiss-Prot accession no. P00698).",
+      "20\u2009\u00b5L of samples were mixed with 20\u2009\u00b5L of peptide retention time calibration mixture (PRTC, Pierce/Thermo Scientific, Rockford, IL, 20 fmoL/mL)."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Easy nLC 1000 system (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Scientific, San Jos\u00e9, CA)"
+    ],
+    "Comment[Separation]": [
+      "Online chromatography was performed with a Thermo Easy nLC 1000 system (Thermo Fisher Scientific) coupled online to a Q-Exactive Plus mass spectrometer (Thermo Scientific, San Jos\u00e9, CA)."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "Flow rate of 300 nL/min and a column temperature of 35\u2009\u00b0C were utilised."
+    ],
+    "Comment[GradientTime]": [
+      "the gradient went from 5% to 40% B in the first 120\u2009min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent top-15 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented in the HCD collision cell"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy of 30%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "tandem mass spectra were acquired in the Orbitrap mass analyzer with resolution of 17 500 (at m/z 200), target AGC value of 1\u2212106 and maximum injection time of 120\u2009ms."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm precursor tolerance"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02\u2009Da fragment tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to two missed cleavages for tryptic peptides was allowed."
+    ],
+    "Characteristics[Label]": [
+      "Label-free LC-MS/MS analysis"
+    ]
+  },
+  "160629_MM_90_02.raw": {
+    "Source Name": [
+      "MM_90"
+    ],
+    "Assay Name": [
+      "160629_MM_90_02"
+    ],
+    "Raw Data File": [
+      "160629_MM_90_02.raw"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "111 lymph node metastasis samples from patients with malignant melanoma (Stage 3 and 4), archived in the local malignant melanoma biobank were obtained from Skåne University Hospital, Sweden."
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen tissue samples from BD20 were sectioned on a cryostat into 10\u2009\u00b5m thick slices (approximately 6\u00d76\u2009mm), placed into a 96 well plate and stored at \u221280\u2009\u00b0C until further use."
+    ],
+    "Characteristics[MaterialType]": [
+      "Frozen specimens (snap frozen immediately after surgery)"
+    ],
+    "Characteristics[Disease]": [
+      "malignant melanoma"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "The samples were spiked with 0.1\u2009mg of internal standard \u2013 chicken lysozyme (CL, Swiss-Prot accession no. P00698).",
+      "20\u2009\u00b5L of samples were mixed with 20\u2009\u00b5L of peptide retention time calibration mixture (PRTC, Pierce/Thermo Scientific, Rockford, IL, 20 fmoL/mL)."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Easy nLC 1000 system (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Scientific, San Jos\u00e9, CA)"
+    ],
+    "Comment[Separation]": [
+      "Online chromatography was performed with a Thermo Easy nLC 1000 system (Thermo Fisher Scientific) coupled online to a Q-Exactive Plus mass spectrometer (Thermo Scientific, San Jos\u00e9, CA)."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "Flow rate of 300 nL/min and a column temperature of 35\u2009\u00b0C were utilised."
+    ],
+    "Comment[GradientTime]": [
+      "the gradient went from 5% to 40% B in the first 120\u2009min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent top-15 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented in the HCD collision cell"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy of 30%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "tandem mass spectra were acquired in the Orbitrap mass analyzer with resolution of 17 500 (at m/z 200), target AGC value of 1\u2212106 and maximum injection time of 120\u2009ms."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm precursor tolerance"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02\u2009Da fragment tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to two missed cleavages for tryptic peptides was allowed."
+    ],
+    "Characteristics[Label]": [
+      "Label-free LC-MS/MS analysis"
+    ]
+  },
+  "160629_MM_16_03.raw": {
+    "Source Name": [
+      "MM_16"
+    ],
+    "Assay Name": [
+      "160629_MM_16_03"
+    ],
+    "Raw Data File": [
+      "160629_MM_16_03.raw"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "111 lymph node metastasis samples from patients with malignant melanoma (Stage 3 and 4), archived in the local malignant melanoma biobank were obtained from Skåne University Hospital, Sweden."
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen tissue samples from BD20 were sectioned on a cryostat into 10\u2009\u00b5m thick slices (approximately 6\u00d76\u2009mm), placed into a 96 well plate and stored at \u221280\u2009\u00b0C until further use."
+    ],
+    "Characteristics[MaterialType]": [
+      "Frozen specimens (snap frozen immediately after surgery)"
+    ],
+    "Characteristics[Disease]": [
+      "malignant melanoma"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "The samples were spiked with 0.1\u2009mg of internal standard \u2013 chicken lysozyme (CL, Swiss-Prot accession no. P00698).",
+      "20\u2009\u00b5L of samples were mixed with 20\u2009\u00b5L of peptide retention time calibration mixture (PRTC, Pierce/Thermo Scientific, Rockford, IL, 20 fmoL/mL)."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Easy nLC 1000 system (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Scientific, San Jos\u00e9, CA)"
+    ],
+    "Comment[Separation]": [
+      "Online chromatography was performed with a Thermo Easy nLC 1000 system (Thermo Fisher Scientific) coupled online to a Q-Exactive Plus mass spectrometer (Thermo Scientific, San Jos\u00e9, CA)."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "Flow rate of 300 nL/min and a column temperature of 35\u2009\u00b0C were utilised."
+    ],
+    "Comment[GradientTime]": [
+      "the gradient went from 5% to 40% B in the first 120\u2009min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent top-15 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented in the HCD collision cell"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy of 30%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "tandem mass spectra were acquired in the Orbitrap mass analyzer with resolution of 17 500 (at m/z 200), target AGC value of 1\u2212106 and maximum injection time of 120\u2009ms."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm precursor tolerance"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02\u2009Da fragment tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to two missed cleavages for tryptic peptides was allowed."
+    ],
+    "Characteristics[Label]": [
+      "Label-free LC-MS/MS analysis"
+    ]
+  },
+  "151106_MM_56_03.raw": {
+    "Source Name": [
+      "MM_56"
+    ],
+    "Assay Name": [
+      "151106_MM_56_03"
+    ],
+    "Raw Data File": [
+      "151106_MM_56_03.raw"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "111 lymph node metastasis samples from patients with malignant melanoma (Stage 3 and 4), archived in the local malignant melanoma biobank were obtained from Skåne University Hospital, Sweden."
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen tissue samples from BD20 were sectioned on a cryostat into 10\u2009\u00b5m thick slices (approximately 6\u00d76\u2009mm), placed into a 96 well plate and stored at \u221280\u2009\u00b0C until further use."
+    ],
+    "Characteristics[MaterialType]": [
+      "Frozen specimens (snap frozen immediately after surgery)"
+    ],
+    "Characteristics[Disease]": [
+      "malignant melanoma"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "The samples were spiked with 0.1\u2009mg of internal standard \u2013 chicken lysozyme (CL, Swiss-Prot accession no. P00698).",
+      "20\u2009\u00b5L of samples were mixed with 20\u2009\u00b5L of peptide retention time calibration mixture (PRTC, Pierce/Thermo Scientific, Rockford, IL, 20 fmoL/mL)."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Easy nLC 1000 system (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Scientific, San Jos\u00e9, CA)"
+    ],
+    "Comment[Separation]": [
+      "Online chromatography was performed with a Thermo Easy nLC 1000 system (Thermo Fisher Scientific) coupled online to a Q-Exactive Plus mass spectrometer (Thermo Scientific, San Jos\u00e9, CA)."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "Flow rate of 300 nL/min and a column temperature of 35\u2009\u00b0C were utilised."
+    ],
+    "Comment[GradientTime]": [
+      "the gradient went from 5% to 40% B in the first 120\u2009min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent top-15 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented in the HCD collision cell"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy of 30%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "tandem mass spectra were acquired in the Orbitrap mass analyzer with resolution of 17 500 (at m/z 200), target AGC value of 1\u2212106 and maximum injection time of 120\u2009ms."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm precursor tolerance"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02\u2009Da fragment tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to two missed cleavages for tryptic peptides was allowed."
+    ],
+    "Characteristics[Label]": [
+      "Label-free LC-MS/MS analysis"
+    ]
+  },
+  "151215_MM_78_02.raw": {
+    "Source Name": [
+      "MM_78"
+    ],
+    "Assay Name": [
+      "151215_MM_78_02"
+    ],
+    "Raw Data File": [
+      "151215_MM_78_02.raw"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "111 lymph node metastasis samples from patients with malignant melanoma (Stage 3 and 4), archived in the local malignant melanoma biobank were obtained from Skåne University Hospital, Sweden."
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen tissue samples from BD20 were sectioned on a cryostat into 10\u2009\u00b5m thick slices (approximately 6\u00d76\u2009mm), placed into a 96 well plate and stored at \u221280\u2009\u00b0C until further use."
+    ],
+    "Characteristics[MaterialType]": [
+      "Frozen specimens (snap frozen immediately after surgery)"
+    ],
+    "Characteristics[Disease]": [
+      "malignant melanoma"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "The samples were spiked with 0.1\u2009mg of internal standard \u2013 chicken lysozyme (CL, Swiss-Prot accession no. P00698).",
+      "20\u2009\u00b5L of samples were mixed with 20\u2009\u00b5L of peptide retention time calibration mixture (PRTC, Pierce/Thermo Scientific, Rockford, IL, 20 fmoL/mL)."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Easy nLC 1000 system (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Scientific, San Jos\u00e9, CA)"
+    ],
+    "Comment[Separation]": [
+      "Online chromatography was performed with a Thermo Easy nLC 1000 system (Thermo Fisher Scientific) coupled online to a Q-Exactive Plus mass spectrometer (Thermo Scientific, San Jos\u00e9, CA)."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "Flow rate of 300 nL/min and a column temperature of 35\u2009\u00b0C were utilised."
+    ],
+    "Comment[GradientTime]": [
+      "the gradient went from 5% to 40% B in the first 120\u2009min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent top-15 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented in the HCD collision cell"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy of 30%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "tandem mass spectra were acquired in the Orbitrap mass analyzer with resolution of 17 500 (at m/z 200), target AGC value of 1\u2212106 and maximum injection time of 120\u2009ms."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm precursor tolerance"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02\u2009Da fragment tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to two missed cleavages for tryptic peptides was allowed."
+    ],
+    "Characteristics[Label]": [
+      "Label-free LC-MS/MS analysis"
+    ]
+  },
+  "160629_MM_14_03.raw": {
+    "Source Name": [
+      "MM_14"
+    ],
+    "Assay Name": [
+      "160629_MM_14_03"
+    ],
+    "Raw Data File": [
+      "160629_MM_14_03.raw"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "111 lymph node metastasis samples from patients with malignant melanoma (Stage 3 and 4), archived in the local malignant melanoma biobank were obtained from Skåne University Hospital, Sweden."
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen tissue samples from BD20 were sectioned on a cryostat into 10\u2009\u00b5m thick slices (approximately 6\u00d76\u2009mm), placed into a 96 well plate and stored at \u221280\u2009\u00b0C until further use."
+    ],
+    "Characteristics[MaterialType]": [
+      "Frozen specimens (snap frozen immediately after surgery)"
+    ],
+    "Characteristics[Disease]": [
+      "malignant melanoma"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "The samples were spiked with 0.1\u2009mg of internal standard \u2013 chicken lysozyme (CL, Swiss-Prot accession no. P00698).",
+      "20\u2009\u00b5L of samples were mixed with 20\u2009\u00b5L of peptide retention time calibration mixture (PRTC, Pierce/Thermo Scientific, Rockford, IL, 20 fmoL/mL)."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Easy nLC 1000 system (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Scientific, San Jos\u00e9, CA)"
+    ],
+    "Comment[Separation]": [
+      "Online chromatography was performed with a Thermo Easy nLC 1000 system (Thermo Fisher Scientific) coupled online to a Q-Exactive Plus mass spectrometer (Thermo Scientific, San Jos\u00e9, CA)."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "Flow rate of 300 nL/min and a column temperature of 35\u2009\u00b0C were utilised."
+    ],
+    "Comment[GradientTime]": [
+      "the gradient went from 5% to 40% B in the first 120\u2009min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent top-15 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented in the HCD collision cell"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy of 30%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "tandem mass spectra were acquired in the Orbitrap mass analyzer with resolution of 17 500 (at m/z 200), target AGC value of 1\u2212106 and maximum injection time of 120\u2009ms."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm precursor tolerance"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02\u2009Da fragment tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to two missed cleavages for tryptic peptides was allowed."
+    ],
+    "Characteristics[Label]": [
+      "Label-free LC-MS/MS analysis"
+    ]
+  },
+  "170518_MM109_03.raw": {
+    "Source Name": [
+      "MM109"
+    ],
+    "Assay Name": [
+      "170518_MM109_03"
+    ],
+    "Raw Data File": [
+      "170518_MM109_03.raw"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "111 lymph node metastasis samples from patients with malignant melanoma (Stage 3 and 4), archived in the local malignant melanoma biobank were obtained from Skåne University Hospital, Sweden."
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen tissue samples from BD20 were sectioned on a cryostat into 10\u2009\u00b5m thick slices (approximately 6\u00d76\u2009mm), placed into a 96 well plate and stored at \u221280\u2009\u00b0C until further use."
+    ],
+    "Characteristics[MaterialType]": [
+      "Frozen specimens (snap frozen immediately after surgery)"
+    ],
+    "Characteristics[Disease]": [
+      "malignant melanoma"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "The samples were spiked with 0.1\u2009mg of internal standard \u2013 chicken lysozyme (CL, Swiss-Prot accession no. P00698).",
+      "20\u2009\u00b5L of samples were mixed with 20\u2009\u00b5L of peptide retention time calibration mixture (PRTC, Pierce/Thermo Scientific, Rockford, IL, 20 fmoL/mL)."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Easy nLC 1000 system (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Scientific, San Jos\u00e9, CA)"
+    ],
+    "Comment[Separation]": [
+      "Online chromatography was performed with a Thermo Easy nLC 1000 system (Thermo Fisher Scientific) coupled online to a Q-Exactive Plus mass spectrometer (Thermo Scientific, San Jos\u00e9, CA)."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "Flow rate of 300 nL/min and a column temperature of 35\u2009\u00b0C were utilised."
+    ],
+    "Comment[GradientTime]": [
+      "the gradient went from 5% to 40% B in the first 120\u2009min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent top-15 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented in the HCD collision cell"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy of 30%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "tandem mass spectra were acquired in the Orbitrap mass analyzer with resolution of 17 500 (at m/z 200), target AGC value of 1\u2212106 and maximum injection time of 120\u2009ms."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm precursor tolerance"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02\u2009Da fragment tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to two missed cleavages for tryptic peptides was allowed."
+    ],
+    "Characteristics[Label]": [
+      "Label-free LC-MS/MS analysis"
+    ]
+  },
+  "170520_MM93_03.raw": {
+    "Source Name": [
+      "MM93"
+    ],
+    "Assay Name": [
+      "170520_MM93_03"
+    ],
+    "Raw Data File": [
+      "170520_MM93_03.raw"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "111 lymph node metastasis samples from patients with malignant melanoma (Stage 3 and 4), archived in the local malignant melanoma biobank were obtained from Skåne University Hospital, Sweden."
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen tissue samples from BD20 were sectioned on a cryostat into 10\u2009\u00b5m thick slices (approximately 6\u00d76\u2009mm), placed into a 96 well plate and stored at \u221280\u2009\u00b0C until further use."
+    ],
+    "Characteristics[MaterialType]": [
+      "Frozen specimens (snap frozen immediately after surgery)"
+    ],
+    "Characteristics[Disease]": [
+      "malignant melanoma"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "The samples were spiked with 0.1\u2009mg of internal standard \u2013 chicken lysozyme (CL, Swiss-Prot accession no. P00698).",
+      "20\u2009\u00b5L of samples were mixed with 20\u2009\u00b5L of peptide retention time calibration mixture (PRTC, Pierce/Thermo Scientific, Rockford, IL, 20 fmoL/mL)."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Easy nLC 1000 system (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Scientific, San Jos\u00e9, CA)"
+    ],
+    "Comment[Separation]": [
+      "Online chromatography was performed with a Thermo Easy nLC 1000 system (Thermo Fisher Scientific) coupled online to a Q-Exactive Plus mass spectrometer (Thermo Scientific, San Jos\u00e9, CA)."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "Flow rate of 300 nL/min and a column temperature of 35\u2009\u00b0C were utilised."
+    ],
+    "Comment[GradientTime]": [
+      "the gradient went from 5% to 40% B in the first 120\u2009min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent top-15 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented in the HCD collision cell"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy of 30%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "tandem mass spectra were acquired in the Orbitrap mass analyzer with resolution of 17 500 (at m/z 200), target AGC value of 1\u2212106 and maximum injection time of 120\u2009ms."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm precursor tolerance"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02\u2009Da fragment tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to two missed cleavages for tryptic peptides was allowed."
+    ],
+    "Characteristics[Label]": [
+      "Label-free LC-MS/MS analysis"
+    ]
+  },
+  "160617_MM82_03.raw": {
+    "Source Name": [
+      "MM82"
+    ],
+    "Assay Name": [
+      "160617_MM82_03"
+    ],
+    "Raw Data File": [
+      "160617_MM82_03.raw"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "111 lymph node metastasis samples from patients with malignant melanoma (Stage 3 and 4), archived in the local malignant melanoma biobank were obtained from Skåne University Hospital, Sweden."
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen tissue samples from BD20 were sectioned on a cryostat into 10\u2009\u00b5m thick slices (approximately 6\u00d76\u2009mm), placed into a 96 well plate and stored at \u221280\u2009\u00b0C until further use."
+    ],
+    "Characteristics[MaterialType]": [
+      "Frozen specimens (snap frozen immediately after surgery)"
+    ],
+    "Characteristics[Disease]": [
+      "malignant melanoma"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "The samples were spiked with 0.1\u2009mg of internal standard \u2013 chicken lysozyme (CL, Swiss-Prot accession no. P00698).",
+      "20\u2009\u00b5L of samples were mixed with 20\u2009\u00b5L of peptide retention time calibration mixture (PRTC, Pierce/Thermo Scientific, Rockford, IL, 20 fmoL/mL)."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Easy nLC 1000 system (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Scientific, San Jos\u00e9, CA)"
+    ],
+    "Comment[Separation]": [
+      "Online chromatography was performed with a Thermo Easy nLC 1000 system (Thermo Fisher Scientific) coupled online to a Q-Exactive Plus mass spectrometer (Thermo Scientific, San Jos\u00e9, CA)."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "Flow rate of 300 nL/min and a column temperature of 35\u2009\u00b0C were utilised."
+    ],
+    "Comment[GradientTime]": [
+      "the gradient went from 5% to 40% B in the first 120\u2009min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent top-15 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented in the HCD collision cell"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy of 30%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "tandem mass spectra were acquired in the Orbitrap mass analyzer with resolution of 17 500 (at m/z 200), target AGC value of 1\u2212106 and maximum injection time of 120\u2009ms."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm precursor tolerance"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02\u2009Da fragment tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to two missed cleavages for tryptic peptides was allowed."
+    ],
+    "Characteristics[Label]": [
+      "Label-free LC-MS/MS analysis"
+    ]
+  },
+  "160622_MM68_02.raw": {
+    "Source Name": [
+      "MM68"
+    ],
+    "Assay Name": [
+      "160622_MM68_02"
+    ],
+    "Raw Data File": [
+      "160622_MM68_02.raw"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "111 lymph node metastasis samples from patients with malignant melanoma (Stage 3 and 4), archived in the local malignant melanoma biobank were obtained from Skåne University Hospital, Sweden."
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen tissue samples from BD20 were sectioned on a cryostat into 10\u2009\u00b5m thick slices (approximately 6\u00d76\u2009mm), placed into a 96 well plate and stored at \u221280\u2009\u00b0C until further use."
+    ],
+    "Characteristics[MaterialType]": [
+      "Frozen specimens (snap frozen immediately after surgery)"
+    ],
+    "Characteristics[Disease]": [
+      "malignant melanoma"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "The samples were spiked with 0.1\u2009mg of internal standard \u2013 chicken lysozyme (CL, Swiss-Prot accession no. P00698).",
+      "20\u2009\u00b5L of samples were mixed with 20\u2009\u00b5L of peptide retention time calibration mixture (PRTC, Pierce/Thermo Scientific, Rockford, IL, 20 fmoL/mL)."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Easy nLC 1000 system (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Scientific, San Jos\u00e9, CA)"
+    ],
+    "Comment[Separation]": [
+      "Online chromatography was performed with a Thermo Easy nLC 1000 system (Thermo Fisher Scientific) coupled online to a Q-Exactive Plus mass spectrometer (Thermo Scientific, San Jos\u00e9, CA)."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "Flow rate of 300 nL/min and a column temperature of 35\u2009\u00b0C were utilised."
+    ],
+    "Comment[GradientTime]": [
+      "the gradient went from 5% to 40% B in the first 120\u2009min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent top-15 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented in the HCD collision cell"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy of 30%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "tandem mass spectra were acquired in the Orbitrap mass analyzer with resolution of 17 500 (at m/z 200), target AGC value of 1\u2212106 and maximum injection time of 120\u2009ms."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm precursor tolerance"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02\u2009Da fragment tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to two missed cleavages for tryptic peptides was allowed."
+    ],
+    "Characteristics[Label]": [
+      "Label-free LC-MS/MS analysis"
+    ]
+  },
+  "160623_MM107_02.raw": {
+    "Source Name": [
+      "MM107"
+    ],
+    "Assay Name": [
+      "160623_MM107_02"
+    ],
+    "Raw Data File": [
+      "160623_MM107_02.raw"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "111 lymph node metastasis samples from patients with malignant melanoma (Stage 3 and 4), archived in the local malignant melanoma biobank were obtained from Skåne University Hospital, Sweden."
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen tissue samples from BD20 were sectioned on a cryostat into 10\u2009\u00b5m thick slices (approximately 6\u00d76\u2009mm), placed into a 96 well plate and stored at \u221280\u2009\u00b0C until further use."
+    ],
+    "Characteristics[MaterialType]": [
+      "Frozen specimens (snap frozen immediately after surgery)"
+    ],
+    "Characteristics[Disease]": [
+      "malignant melanoma"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "The samples were spiked with 0.1\u2009mg of internal standard \u2013 chicken lysozyme (CL, Swiss-Prot accession no. P00698).",
+      "20\u2009\u00b5L of samples were mixed with 20\u2009\u00b5L of peptide retention time calibration mixture (PRTC, Pierce/Thermo Scientific, Rockford, IL, 20 fmoL/mL)."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Easy nLC 1000 system (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Scientific, San Jos\u00e9, CA)"
+    ],
+    "Comment[Separation]": [
+      "Online chromatography was performed with a Thermo Easy nLC 1000 system (Thermo Fisher Scientific) coupled online to a Q-Exactive Plus mass spectrometer (Thermo Scientific, San Jos\u00e9, CA)."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "Flow rate of 300 nL/min and a column temperature of 35\u2009\u00b0C were utilised."
+    ],
+    "Comment[GradientTime]": [
+      "the gradient went from 5% to 40% B in the first 120\u2009min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent top-15 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented in the HCD collision cell"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy of 30%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "tandem mass spectra were acquired in the Orbitrap mass analyzer with resolution of 17 500 (at m/z 200), target AGC value of 1\u2212106 and maximum injection time of 120\u2009ms."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm precursor tolerance"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02\u2009Da fragment tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to two missed cleavages for tryptic peptides was allowed."
+    ],
+    "Characteristics[Label]": [
+      "Label-free LC-MS/MS analysis"
+    ]
+  },
+  "170519_MM103_03.raw": {
+    "Source Name": [
+      "MM103"
+    ],
+    "Assay Name": [
+      "170519_MM103_03"
+    ],
+    "Raw Data File": [
+      "170519_MM103_03.raw"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "111 lymph node metastasis samples from patients with malignant melanoma (Stage 3 and 4), archived in the local malignant melanoma biobank were obtained from Skåne University Hospital, Sweden."
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen tissue samples from BD20 were sectioned on a cryostat into 10\u2009\u00b5m thick slices (approximately 6\u00d76\u2009mm), placed into a 96 well plate and stored at \u221280\u2009\u00b0C until further use."
+    ],
+    "Characteristics[MaterialType]": [
+      "Frozen specimens (snap frozen immediately after surgery)"
+    ],
+    "Characteristics[Disease]": [
+      "malignant melanoma"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "The samples were spiked with 0.1\u2009mg of internal standard \u2013 chicken lysozyme (CL, Swiss-Prot accession no. P00698).",
+      "20\u2009\u00b5L of samples were mixed with 20\u2009\u00b5L of peptide retention time calibration mixture (PRTC, Pierce/Thermo Scientific, Rockford, IL, 20 fmoL/mL)."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Easy nLC 1000 system (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Scientific, San Jos\u00e9, CA)"
+    ],
+    "Comment[Separation]": [
+      "Online chromatography was performed with a Thermo Easy nLC 1000 system (Thermo Fisher Scientific) coupled online to a Q-Exactive Plus mass spectrometer (Thermo Scientific, San Jos\u00e9, CA)."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "Flow rate of 300 nL/min and a column temperature of 35\u2009\u00b0C were utilised."
+    ],
+    "Comment[GradientTime]": [
+      "the gradient went from 5% to 40% B in the first 120\u2009min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent top-15 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented in the HCD collision cell"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy of 30%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "tandem mass spectra were acquired in the Orbitrap mass analyzer with resolution of 17 500 (at m/z 200), target AGC value of 1\u2212106 and maximum injection time of 120\u2009ms."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm precursor tolerance"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02\u2009Da fragment tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to two missed cleavages for tryptic peptides was allowed."
+    ],
+    "Characteristics[Label]": [
+      "Label-free LC-MS/MS analysis"
+    ]
+  },
+  "MM91.raw": {
+    "Source Name": [
+      "MM91"
+    ],
+    "Assay Name": [
+      "MM91"
+    ],
+    "Raw Data File": [
+      "MM91.raw"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "111 lymph node metastasis samples from patients with malignant melanoma (Stage 3 and 4), archived in the local malignant melanoma biobank were obtained from Skåne University Hospital, Sweden."
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen tissue samples from BD20 were sectioned on a cryostat into 10\u2009\u00b5m thick slices (approximately 6\u00d76\u2009mm), placed into a 96 well plate and stored at \u221280\u2009\u00b0C until further use."
+    ],
+    "Characteristics[MaterialType]": [
+      "Frozen specimens (snap frozen immediately after surgery)"
+    ],
+    "Characteristics[Disease]": [
+      "malignant melanoma"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "The samples were spiked with 0.1\u2009mg of internal standard \u2013 chicken lysozyme (CL, Swiss-Prot accession no. P00698).",
+      "20\u2009\u00b5L of samples were mixed with 20\u2009\u00b5L of peptide retention time calibration mixture (PRTC, Pierce/Thermo Scientific, Rockford, IL, 20 fmoL/mL)."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Easy nLC 1000 system (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Scientific, San Jos\u00e9, CA)"
+    ],
+    "Comment[Separation]": [
+      "Online chromatography was performed with a Thermo Easy nLC 1000 system (Thermo Fisher Scientific) coupled online to a Q-Exactive Plus mass spectrometer (Thermo Scientific, San Jos\u00e9, CA)."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "Flow rate of 300 nL/min and a column temperature of 35\u2009\u00b0C were utilised."
+    ],
+    "Comment[GradientTime]": [
+      "the gradient went from 5% to 40% B in the first 120\u2009min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent top-15 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented in the HCD collision cell"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy of 30%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "tandem mass spectra were acquired in the Orbitrap mass analyzer with resolution of 17 500 (at m/z 200), target AGC value of 1\u2212106 and maximum injection time of 120\u2009ms."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm precursor tolerance"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02\u2009Da fragment tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to two missed cleavages for tryptic peptides was allowed."
+    ],
+    "Characteristics[Label]": [
+      "Label-free LC-MS/MS analysis"
+    ]
+  },
+  "151215_MM_81_02.raw": {
+    "Source Name": [
+      "MM_81"
+    ],
+    "Assay Name": [
+      "151215_MM_81_02"
+    ],
+    "Raw Data File": [
+      "151215_MM_81_02.raw"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "111 lymph node metastasis samples from patients with malignant melanoma (Stage 3 and 4), archived in the local malignant melanoma biobank were obtained from Skåne University Hospital, Sweden."
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen tissue samples from BD20 were sectioned on a cryostat into 10\u2009\u00b5m thick slices (approximately 6\u00d76\u2009mm), placed into a 96 well plate and stored at \u221280\u2009\u00b0C until further use."
+    ],
+    "Characteristics[MaterialType]": [
+      "Frozen specimens (snap frozen immediately after surgery)"
+    ],
+    "Characteristics[Disease]": [
+      "malignant melanoma"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "The samples were spiked with 0.1\u2009mg of internal standard \u2013 chicken lysozyme (CL, Swiss-Prot accession no. P00698).",
+      "20\u2009\u00b5L of samples were mixed with 20\u2009\u00b5L of peptide retention time calibration mixture (PRTC, Pierce/Thermo Scientific, Rockford, IL, 20 fmoL/mL)."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Easy nLC 1000 system (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Scientific, San Jos\u00e9, CA)"
+    ],
+    "Comment[Separation]": [
+      "Online chromatography was performed with a Thermo Easy nLC 1000 system (Thermo Fisher Scientific) coupled online to a Q-Exactive Plus mass spectrometer (Thermo Scientific, San Jos\u00e9, CA)."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "Flow rate of 300 nL/min and a column temperature of 35\u2009\u00b0C were utilised."
+    ],
+    "Comment[GradientTime]": [
+      "the gradient went from 5% to 40% B in the first 120\u2009min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent top-15 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented in the HCD collision cell"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy of 30%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "tandem mass spectra were acquired in the Orbitrap mass analyzer with resolution of 17 500 (at m/z 200), target AGC value of 1\u2212106 and maximum injection time of 120\u2009ms."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm precursor tolerance"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02\u2009Da fragment tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to two missed cleavages for tryptic peptides was allowed."
+    ],
+    "Characteristics[Label]": [
+      "Label-free LC-MS/MS analysis"
+    ]
+  },
+  "151215_MM_79_02.raw": {
+    "Source Name": [
+      "MM_79"
+    ],
+    "Assay Name": [
+      "151215_MM_79_02"
+    ],
+    "Raw Data File": [
+      "151215_MM_79_02.raw"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "111 lymph node metastasis samples from patients with malignant melanoma (Stage 3 and 4), archived in the local malignant melanoma biobank were obtained from Skåne University Hospital, Sweden."
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen tissue samples from BD20 were sectioned on a cryostat into 10\u2009\u00b5m thick slices (approximately 6\u00d76\u2009mm), placed into a 96 well plate and stored at \u221280\u2009\u00b0C until further use."
+    ],
+    "Characteristics[MaterialType]": [
+      "Frozen specimens (snap frozen immediately after surgery)"
+    ],
+    "Characteristics[Disease]": [
+      "malignant melanoma"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "The samples were spiked with 0.1\u2009mg of internal standard \u2013 chicken lysozyme (CL, Swiss-Prot accession no. P00698).",
+      "20\u2009\u00b5L of samples were mixed with 20\u2009\u00b5L of peptide retention time calibration mixture (PRTC, Pierce/Thermo Scientific, Rockford, IL, 20 fmoL/mL)."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Easy nLC 1000 system (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Scientific, San Jos\u00e9, CA)"
+    ],
+    "Comment[Separation]": [
+      "Online chromatography was performed with a Thermo Easy nLC 1000 system (Thermo Fisher Scientific) coupled online to a Q-Exactive Plus mass spectrometer (Thermo Scientific, San Jos\u00e9, CA)."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "Flow rate of 300 nL/min and a column temperature of 35\u2009\u00b0C were utilised."
+    ],
+    "Comment[GradientTime]": [
+      "the gradient went from 5% to 40% B in the first 120\u2009min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent top-15 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented in the HCD collision cell"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy of 30%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "tandem mass spectra were acquired in the Orbitrap mass analyzer with resolution of 17 500 (at m/z 200), target AGC value of 1\u2212106 and maximum injection time of 120\u2009ms."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm precursor tolerance"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02\u2009Da fragment tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to two missed cleavages for tryptic peptides was allowed."
+    ],
+    "Characteristics[Label]": [
+      "Label-free LC-MS/MS analysis"
+    ]
+  },
+  "160617_MM7_03.raw": {
+    "Source Name": [
+      "MM7"
+    ],
+    "Assay Name": [
+      "160617_MM7_03"
+    ],
+    "Raw Data File": [
+      "160617_MM7_03.raw"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "111 lymph node metastasis samples from patients with malignant melanoma (Stage 3 and 4), archived in the local malignant melanoma biobank were obtained from Skåne University Hospital, Sweden."
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen tissue samples from BD20 were sectioned on a cryostat into 10\u2009\u00b5m thick slices (approximately 6\u00d76\u2009mm), placed into a 96 well plate and stored at \u221280\u2009\u00b0C until further use."
+    ],
+    "Characteristics[MaterialType]": [
+      "Frozen specimens (snap frozen immediately after surgery)"
+    ],
+    "Characteristics[Disease]": [
+      "malignant melanoma"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "The samples were spiked with 0.1\u2009mg of internal standard \u2013 chicken lysozyme (CL, Swiss-Prot accession no. P00698).",
+      "20\u2009\u00b5L of samples were mixed with 20\u2009\u00b5L of peptide retention time calibration mixture (PRTC, Pierce/Thermo Scientific, Rockford, IL, 20 fmoL/mL)."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Easy nLC 1000 system (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Scientific, San Jos\u00e9, CA)"
+    ],
+    "Comment[Separation]": [
+      "Online chromatography was performed with a Thermo Easy nLC 1000 system (Thermo Fisher Scientific) coupled online to a Q-Exactive Plus mass spectrometer (Thermo Scientific, San Jos\u00e9, CA)."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "Flow rate of 300 nL/min and a column temperature of 35\u2009\u00b0C were utilised."
+    ],
+    "Comment[GradientTime]": [
+      "the gradient went from 5% to 40% B in the first 120\u2009min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent top-15 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented in the HCD collision cell"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy of 30%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "tandem mass spectra were acquired in the Orbitrap mass analyzer with resolution of 17 500 (at m/z 200), target AGC value of 1\u2212106 and maximum injection time of 120\u2009ms."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm precursor tolerance"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02\u2009Da fragment tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to two missed cleavages for tryptic peptides was allowed."
+    ],
+    "Characteristics[Label]": [
+      "Label-free LC-MS/MS analysis"
+    ]
+  },
+  "160629_MM_34_02.raw": {
+    "Source Name": [
+      "MM_34"
+    ],
+    "Assay Name": [
+      "160629_MM_34_02"
+    ],
+    "Raw Data File": [
+      "160629_MM_34_02.raw"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "111 lymph node metastasis samples from patients with malignant melanoma (Stage 3 and 4), archived in the local malignant melanoma biobank were obtained from Skåne University Hospital, Sweden."
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen tissue samples from BD20 were sectioned on a cryostat into 10\u2009\u00b5m thick slices (approximately 6\u00d76\u2009mm), placed into a 96 well plate and stored at \u221280\u2009\u00b0C until further use."
+    ],
+    "Characteristics[MaterialType]": [
+      "Frozen specimens (snap frozen immediately after surgery)"
+    ],
+    "Characteristics[Disease]": [
+      "malignant melanoma"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "The samples were spiked with 0.1\u2009mg of internal standard \u2013 chicken lysozyme (CL, Swiss-Prot accession no. P00698).",
+      "20\u2009\u00b5L of samples were mixed with 20\u2009\u00b5L of peptide retention time calibration mixture (PRTC, Pierce/Thermo Scientific, Rockford, IL, 20 fmoL/mL)."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Easy nLC 1000 system (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Scientific, San Jos\u00e9, CA)"
+    ],
+    "Comment[Separation]": [
+      "Online chromatography was performed with a Thermo Easy nLC 1000 system (Thermo Fisher Scientific) coupled online to a Q-Exactive Plus mass spectrometer (Thermo Scientific, San Jos\u00e9, CA)."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "Flow rate of 300 nL/min and a column temperature of 35\u2009\u00b0C were utilised."
+    ],
+    "Comment[GradientTime]": [
+      "the gradient went from 5% to 40% B in the first 120\u2009min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent top-15 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented in the HCD collision cell"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy of 30%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "tandem mass spectra were acquired in the Orbitrap mass analyzer with resolution of 17 500 (at m/z 200), target AGC value of 1\u2212106 and maximum injection time of 120\u2009ms."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm precursor tolerance"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02\u2009Da fragment tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to two missed cleavages for tryptic peptides was allowed."
+    ],
+    "Characteristics[Label]": [
+      "Label-free LC-MS/MS analysis"
+    ]
+  },
+  "151106_MM_21_02.raw": {
+    "Source Name": [
+      "MM_21"
+    ],
+    "Assay Name": [
+      "151106_MM_21_02"
+    ],
+    "Raw Data File": [
+      "151106_MM_21_02.raw"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "111 lymph node metastasis samples from patients with malignant melanoma (Stage 3 and 4), archived in the local malignant melanoma biobank were obtained from Skåne University Hospital, Sweden."
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen tissue samples from BD20 were sectioned on a cryostat into 10\u2009\u00b5m thick slices (approximately 6\u00d76\u2009mm), placed into a 96 well plate and stored at \u221280\u2009\u00b0C until further use."
+    ],
+    "Characteristics[MaterialType]": [
+      "Frozen specimens (snap frozen immediately after surgery)"
+    ],
+    "Characteristics[Disease]": [
+      "malignant melanoma"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "The samples were spiked with 0.1\u2009mg of internal standard \u2013 chicken lysozyme (CL, Swiss-Prot accession no. P00698).",
+      "20\u2009\u00b5L of samples were mixed with 20\u2009\u00b5L of peptide retention time calibration mixture (PRTC, Pierce/Thermo Scientific, Rockford, IL, 20 fmoL/mL)."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Easy nLC 1000 system (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Scientific, San Jos\u00e9, CA)"
+    ],
+    "Comment[Separation]": [
+      "Online chromatography was performed with a Thermo Easy nLC 1000 system (Thermo Fisher Scientific) coupled online to a Q-Exactive Plus mass spectrometer (Thermo Scientific, San Jos\u00e9, CA)."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "Flow rate of 300 nL/min and a column temperature of 35\u2009\u00b0C were utilised."
+    ],
+    "Comment[GradientTime]": [
+      "the gradient went from 5% to 40% B in the first 120\u2009min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent top-15 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented in the HCD collision cell"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalised collision energy of 30%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "tandem mass spectra were acquired in the Orbitrap mass analyzer with resolution of 17 500 (at m/z 200), target AGC value of 1\u2212106 and maximum injection time of 120\u2009ms."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm precursor tolerance"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02\u2009Da fragment tolerance"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to two missed cleavages for tryptic peptides was allowed."
+    ],
+    "Characteristics[Label]": [
+      "Label-free LC-MS/MS analysis"
+    ]
+  }
+}

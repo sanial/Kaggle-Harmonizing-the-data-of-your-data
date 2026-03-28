@@ -1,0 +1,3590 @@
+{
+  "FL0026_RFI_261114_Deep_High_ET_F27_hybrid.raw": {
+    "Source Name": [
+      "MCF-7_Post Digest Mix_F27"
+    ],
+    "Assay Name": [
+      "MCF-7_Post Digest Mix_F27_FL0026_RFI_261114_Deep_High_ET_F27_hybrid.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_ET_F27_hybrid.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "Post Digest Mix"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "CHOPIN"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT",
+      "HCD/FT"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F27"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_ET_F22F37_hybrid.raw": {
+    "Source Name": [
+      "MCF-7_Post Digest Mix_F22F37"
+    ],
+    "Assay Name": [
+      "MCF-7_Post Digest Mix_F22F37_FL0026_RFI_261114_Deep_High_ET_F22F37_hybrid.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_ET_F22F37_hybrid.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "Post Digest Mix"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "CHOPIN"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT",
+      "HCD/FT"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F22F37"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_ET_F25F40_uni.raw": {
+    "Source Name": [
+      "MCF-7_Post Digest Mix_F25F40"
+    ],
+    "Assay Name": [
+      "MCF-7_Post Digest Mix_F25F40_FL0026_RFI_261114_Deep_High_ET_F25F40_uni.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_ET_F25F40_uni.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "Post Digest Mix"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Universal Method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35%"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F25F40"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_E_F24F39_uni.raw": {
+    "Source Name": [
+      "MCF-7_elastase_F24F39"
+    ],
+    "Assay Name": [
+      "MCF-7_elastase_F24F39_FL0026_RFI_261114_Deep_High_E_F24F39_uni.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_E_F24F39_uni.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "elastase"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Universal Method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35%"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F24F39"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_ET_F23F38_hybrid.raw": {
+    "Source Name": [
+      "MCF-7_Post Digest Mix_F23F38"
+    ],
+    "Assay Name": [
+      "MCF-7_Post Digest Mix_F23F38_FL0026_RFI_261114_Deep_High_ET_F23F38_hybrid.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_ET_F23F38_hybrid.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "Post Digest Mix"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "CHOPIN"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT",
+      "HCD/FT"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F23F38"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_Trypsin_F13F28_hybrid.raw": {
+    "Source Name": [
+      "MCF-7_trypsin_F13F28"
+    ],
+    "Assay Name": [
+      "MCF-7_trypsin_F13F28_FL0026_RFI_261114_Deep_High_Trypsin_F13F28_hybrid.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_Trypsin_F13F28_hybrid.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "trypsin"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "CHOPIN"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT",
+      "HCD/FT"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F13F28"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_E_F14F29_hybrid.raw": {
+    "Source Name": [
+      "MCF-7_elastase_F14F29"
+    ],
+    "Assay Name": [
+      "MCF-7_elastase_F14F29_FL0026_RFI_261114_Deep_High_E_F14F29_hybrid.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_E_F14F29_hybrid.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "elastase"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "CHOPIN"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT",
+      "HCD/FT"
+    ],
+    "Comment[CollisionEnergy]": [
+      "32%"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F14F29"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_ET_F13F28_hybrid.raw": {
+    "Source Name": [
+      "MCF-7_Post Digest Mix_F13F28"
+    ],
+    "Assay Name": [
+      "MCF-7_Post Digest Mix_F13F28_FL0026_RFI_261114_Deep_High_ET_F13F28_hybrid.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_ET_F13F28_hybrid.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "Post Digest Mix"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "CHOPIN"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT",
+      "HCD/FT"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F13F28"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_Trypsin_F23F38_hybrid.raw": {
+    "Source Name": [
+      "MCF-7_trypsin_F23F38"
+    ],
+    "Assay Name": [
+      "MCF-7_trypsin_F23F38_FL0026_RFI_261114_Deep_High_Trypsin_F23F38_hybrid.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_Trypsin_F23F38_hybrid.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "trypsin"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "CHOPIN"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT",
+      "HCD/FT"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F23F38"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_E_F20F35_hybrid.raw": {
+    "Source Name": [
+      "MCF-7_elastase_F20F35"
+    ],
+    "Assay Name": [
+      "MCF-7_elastase_F20F35_FL0026_RFI_261114_Deep_High_E_F20F35_hybrid.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_E_F20F35_hybrid.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "elastase"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "CHOPIN"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT",
+      "HCD/FT"
+    ],
+    "Comment[CollisionEnergy]": [
+      "32%"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F20F35"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_ET_F40_hybrid_151219140953.raw": {
+    "Source Name": [
+      "MCF-7_Post Digest Mix_F40"
+    ],
+    "Assay Name": [
+      "MCF-7_Post Digest Mix_F40_FL0026_RFI_261114_Deep_High_ET_F40_hybrid_151219140953.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_ET_F40_hybrid_151219140953.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "Post Digest Mix"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "CHOPIN"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT",
+      "HCD/FT"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F40"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_E_F23F38_hybrid.raw": {
+    "Source Name": [
+      "MCF-7_elastase_F23F38"
+    ],
+    "Assay Name": [
+      "MCF-7_elastase_F23F38_FL0026_RFI_261114_Deep_High_E_F23F38_hybrid.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_E_F23F38_hybrid.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "elastase"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "CHOPIN"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT",
+      "HCD/FT"
+    ],
+    "Comment[CollisionEnergy]": [
+      "32%"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F23F38"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_ET_F25F40_hybrid.raw": {
+    "Source Name": [
+      "MCF-7_Post Digest Mix_F25F40"
+    ],
+    "Assay Name": [
+      "MCF-7_Post Digest Mix_F25F40_FL0026_RFI_261114_Deep_High_ET_F25F40_hybrid.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_ET_F25F40_hybrid.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "Post Digest Mix"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "CHOPIN"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT",
+      "HCD/FT"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F25F40"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_ET_F37_hybrid.raw": {
+    "Source Name": [
+      "MCF-7_Post Digest Mix_F37"
+    ],
+    "Assay Name": [
+      "MCF-7_Post Digest Mix_F37_FL0026_RFI_261114_Deep_High_ET_F37_hybrid.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_ET_F37_hybrid.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "Post Digest Mix"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "CHOPIN"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT",
+      "HCD/FT"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F37"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_Trypsin_F24F39_uni.raw": {
+    "Source Name": [
+      "MCF-7_trypsin_F24F39"
+    ],
+    "Assay Name": [
+      "MCF-7_trypsin_F24F39_FL0026_RFI_261114_Deep_High_Trypsin_F24F39_uni.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_Trypsin_F24F39_uni.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "trypsin"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Universal Method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35%"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F24F39"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_E_F17F32_hybrid.raw": {
+    "Source Name": [
+      "MCF-7_elastase_F17F32"
+    ],
+    "Assay Name": [
+      "MCF-7_elastase_F17F32_FL0026_RFI_261114_Deep_High_E_F17F32_hybrid.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_E_F17F32_hybrid.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "elastase"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "CHOPIN"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT",
+      "HCD/FT"
+    ],
+    "Comment[CollisionEnergy]": [
+      "32%"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F17F32"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_ET_F13F28_uni.raw": {
+    "Source Name": [
+      "MCF-7_Post Digest Mix_F13F28"
+    ],
+    "Assay Name": [
+      "MCF-7_Post Digest Mix_F13F28_FL0026_RFI_261114_Deep_High_ET_F13F28_uni.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_ET_F13F28_uni.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "Post Digest Mix"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Universal Method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35%"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F13F28"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_ET_F21F36_hybrid.raw": {
+    "Source Name": [
+      "MCF-7_Post Digest Mix_F21F36"
+    ],
+    "Assay Name": [
+      "MCF-7_Post Digest Mix_F21F36_FL0026_RFI_261114_Deep_High_ET_F21F36_hybrid.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_ET_F21F36_hybrid.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "Post Digest Mix"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "CHOPIN"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT",
+      "HCD/FT"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F21F36"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_ET_F36_hybrid.raw": {
+    "Source Name": [
+      "MCF-7_Post Digest Mix_F36"
+    ],
+    "Assay Name": [
+      "MCF-7_Post Digest Mix_F36_FL0026_RFI_261114_Deep_High_ET_F36_hybrid.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_ET_F36_hybrid.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "Post Digest Mix"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "CHOPIN"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT",
+      "HCD/FT"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F36"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_Trypsin_F22F37_uni.raw": {
+    "Source Name": [
+      "MCF-7_trypsin_F22F37"
+    ],
+    "Assay Name": [
+      "MCF-7_trypsin_F22F37_FL0026_RFI_261114_Deep_High_Trypsin_F22F37_uni.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_Trypsin_F22F37_uni.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "trypsin"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Universal Method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35%"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F22F37"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_Trypsin_F17F32_uni.raw": {
+    "Source Name": [
+      "MCF-7_trypsin_F17F32"
+    ],
+    "Assay Name": [
+      "MCF-7_trypsin_F17F32_FL0026_RFI_261114_Deep_High_Trypsin_F17F32_uni.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_Trypsin_F17F32_uni.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "trypsin"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Universal Method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35%"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F17F32"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_ET_F15_hybrid.raw": {
+    "Source Name": [
+      "MCF-7_Post Digest Mix_F15"
+    ],
+    "Assay Name": [
+      "MCF-7_Post Digest Mix_F15_FL0026_RFI_261114_Deep_High_ET_F15_hybrid.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_ET_F15_hybrid.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "Post Digest Mix"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "CHOPIN"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT",
+      "HCD/FT"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F15"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_E_F23F38_uni.raw": {
+    "Source Name": [
+      "MCF-7_elastase_F23F38"
+    ],
+    "Assay Name": [
+      "MCF-7_elastase_F23F38_FL0026_RFI_261114_Deep_High_E_F23F38_uni.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_E_F23F38_uni.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "elastase"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Universal Method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35%"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F23F38"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_ET_F15F30_uni.raw": {
+    "Source Name": [
+      "MCF-7_Post Digest Mix_F15F30"
+    ],
+    "Assay Name": [
+      "MCF-7_Post Digest Mix_F15F30_FL0026_RFI_261114_Deep_High_ET_F15F30_uni.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_ET_F15F30_uni.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "Post Digest Mix"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Universal Method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35%"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F15F30"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_ET_F13_hybrid.raw": {
+    "Source Name": [
+      "MCF-7_Post Digest Mix_F13"
+    ],
+    "Assay Name": [
+      "MCF-7_Post Digest Mix_F13_FL0026_RFI_261114_Deep_High_ET_F13_hybrid.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_ET_F13_hybrid.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "Post Digest Mix"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "CHOPIN"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT",
+      "HCD/FT"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F13"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_Trypsin_F16F31_uni.raw": {
+    "Source Name": [
+      "MCF-7_trypsin_F16F31"
+    ],
+    "Assay Name": [
+      "MCF-7_trypsin_F16F31_FL0026_RFI_261114_Deep_High_Trypsin_F16F31_uni.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_Trypsin_F16F31_uni.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "trypsin"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Universal Method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35%"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F16F31"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_ET_F19_hybrid.raw": {
+    "Source Name": [
+      "MCF-7_Post Digest Mix_F19"
+    ],
+    "Assay Name": [
+      "MCF-7_Post Digest Mix_F19_FL0026_RFI_261114_Deep_High_ET_F19_hybrid.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_ET_F19_hybrid.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "Post Digest Mix"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "CHOPIN"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT",
+      "HCD/FT"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F19"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_ET_F17F32_hybrid.raw": {
+    "Source Name": [
+      "MCF-7_Post Digest Mix_F17F32"
+    ],
+    "Assay Name": [
+      "MCF-7_Post Digest Mix_F17F32_FL0026_RFI_261114_Deep_High_ET_F17F32_hybrid.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_ET_F17F32_hybrid.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "Post Digest Mix"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "CHOPIN"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT",
+      "HCD/FT"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F17F32"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_ET_F12F27_hybrid.raw": {
+    "Source Name": [
+      "MCF-7_Post Digest Mix_F12F27"
+    ],
+    "Assay Name": [
+      "MCF-7_Post Digest Mix_F12F27_FL0026_RFI_261114_Deep_High_ET_F12F27_hybrid.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_ET_F12F27_hybrid.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "Post Digest Mix"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "CHOPIN"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT",
+      "HCD/FT"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F12F27"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_ET_F16_hybrid.raw": {
+    "Source Name": [
+      "MCF-7_Post Digest Mix_F16"
+    ],
+    "Assay Name": [
+      "MCF-7_Post Digest Mix_F16_FL0026_RFI_261114_Deep_High_ET_F16_hybrid.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_ET_F16_hybrid.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "Post Digest Mix"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "CHOPIN"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT",
+      "HCD/FT"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F16"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_ET_F17F32_uni.raw": {
+    "Source Name": [
+      "MCF-7_Post Digest Mix_F17F32"
+    ],
+    "Assay Name": [
+      "MCF-7_Post Digest Mix_F17F32_FL0026_RFI_261114_Deep_High_ET_F17F32_uni.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_ET_F17F32_uni.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "Post Digest Mix"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Universal Method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35%"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F17F32"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_ET_F39_hybrid.raw": {
+    "Source Name": [
+      "MCF-7_Post Digest Mix_F39"
+    ],
+    "Assay Name": [
+      "MCF-7_Post Digest Mix_F39_FL0026_RFI_261114_Deep_High_ET_F39_hybrid.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_ET_F39_hybrid.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "Post Digest Mix"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "CHOPIN"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT",
+      "HCD/FT"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F39"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_ET_F23F38_uni.raw": {
+    "Source Name": [
+      "MCF-7_Post Digest Mix_F23F38"
+    ],
+    "Assay Name": [
+      "MCF-7_Post Digest Mix_F23F38_FL0026_RFI_261114_Deep_High_ET_F23F38_uni.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_ET_F23F38_uni.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "Post Digest Mix"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Universal Method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35%"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F23F38"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_ET_F25_hybrid.raw": {
+    "Source Name": [
+      "MCF-7_Post Digest Mix_F25"
+    ],
+    "Assay Name": [
+      "MCF-7_Post Digest Mix_F25_FL0026_RFI_261114_Deep_High_ET_F25_hybrid.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_ET_F25_hybrid.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "Post Digest Mix"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "CHOPIN"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT",
+      "HCD/FT"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F25"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_E_F12F27_uni.raw": {
+    "Source Name": [
+      "MCF-7_elastase_F12F27"
+    ],
+    "Assay Name": [
+      "MCF-7_elastase_F12F27_FL0026_RFI_261114_Deep_High_E_F12F27_uni.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_E_F12F27_uni.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "elastase"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Universal Method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35%"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F12F27"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_ET_F20_hybrid.raw": {
+    "Source Name": [
+      "MCF-7_Post Digest Mix_F20"
+    ],
+    "Assay Name": [
+      "MCF-7_Post Digest Mix_F20_FL0026_RFI_261114_Deep_High_ET_F20_hybrid.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_ET_F20_hybrid.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "Post Digest Mix"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "CHOPIN"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT",
+      "HCD/FT"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F20"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_ET_F21F36_uni.raw": {
+    "Source Name": [
+      "MCF-7_Post Digest Mix_F21F36"
+    ],
+    "Assay Name": [
+      "MCF-7_Post Digest Mix_F21F36_FL0026_RFI_261114_Deep_High_ET_F21F36_uni.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_ET_F21F36_uni.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "Post Digest Mix"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Universal Method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35%"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F21F36"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_Trypsin_F14F29_uni.raw": {
+    "Source Name": [
+      "MCF-7_trypsin_F14F29"
+    ],
+    "Assay Name": [
+      "MCF-7_trypsin_F14F29_FL0026_RFI_261114_Deep_High_Trypsin_F14F29_uni.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_Trypsin_F14F29_uni.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "trypsin"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Universal Method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35%"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F14F29"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_Trypsin_F16F31_hybrid.raw": {
+    "Source Name": [
+      "MCF-7_trypsin_F16F31"
+    ],
+    "Assay Name": [
+      "MCF-7_trypsin_F16F31_FL0026_RFI_261114_Deep_High_Trypsin_F16F31_hybrid.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_Trypsin_F16F31_hybrid.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "trypsin"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "CHOPIN"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT",
+      "HCD/FT"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F16F31"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_ET_F35_hybrid.raw": {
+    "Source Name": [
+      "MCF-7_Post Digest Mix_F35"
+    ],
+    "Assay Name": [
+      "MCF-7_Post Digest Mix_F35_FL0026_RFI_261114_Deep_High_ET_F35_hybrid.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_ET_F35_hybrid.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "Post Digest Mix"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "CHOPIN"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT",
+      "HCD/FT"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F35"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_Trypsin_F19F34_hybrid.raw": {
+    "Source Name": [
+      "MCF-7_trypsin_F19F34"
+    ],
+    "Assay Name": [
+      "MCF-7_trypsin_F19F34_FL0026_RFI_261114_Deep_High_Trypsin_F19F34_hybrid.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_Trypsin_F19F34_hybrid.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "trypsin"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "CHOPIN"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT",
+      "HCD/FT"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F19F34"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_E_F14F29_uni.raw": {
+    "Source Name": [
+      "MCF-7_elastase_F14F29"
+    ],
+    "Assay Name": [
+      "MCF-7_elastase_F14F29_FL0026_RFI_261114_Deep_High_E_F14F29_uni.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_E_F14F29_uni.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "elastase"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Universal Method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35%"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F14F29"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_Trypsin_F21F36_hybrid.raw": {
+    "Source Name": [
+      "MCF-7_trypsin_F21F36"
+    ],
+    "Assay Name": [
+      "MCF-7_trypsin_F21F36_FL0026_RFI_261114_Deep_High_Trypsin_F21F36_hybrid.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_Trypsin_F21F36_hybrid.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "trypsin"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "CHOPIN"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT",
+      "HCD/FT"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F21F36"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_ET_F19F34_uni.raw": {
+    "Source Name": [
+      "MCF-7_Post Digest Mix_F19F34"
+    ],
+    "Assay Name": [
+      "MCF-7_Post Digest Mix_F19F34_FL0026_RFI_261114_Deep_High_ET_F19F34_uni.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_ET_F19F34_uni.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "Post Digest Mix"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Universal Method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35%"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F19F34"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_Trypsin_F26F41_uni.raw": {
+    "Source Name": [
+      "MCF-7_trypsin_F26F41"
+    ],
+    "Assay Name": [
+      "MCF-7_trypsin_F26F41_FL0026_RFI_261114_Deep_High_Trypsin_F26F41_uni.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_Trypsin_F26F41_uni.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "trypsin"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Universal Method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35%"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F26F41"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_ET_F19F34_hybrid.raw": {
+    "Source Name": [
+      "MCF-7_Post Digest Mix_F19F34"
+    ],
+    "Assay Name": [
+      "MCF-7_Post Digest Mix_F19F34_FL0026_RFI_261114_Deep_High_ET_F19F34_hybrid.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_ET_F19F34_hybrid.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "Post Digest Mix"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "CHOPIN"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT",
+      "HCD/FT"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F19F34"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_Trypsin_F21F36_hybrid.raw": {
+    "Source Name": [
+      "MCF-7_trypsin_F21F36"
+    ],
+    "Assay Name": [
+      "MCF-7_trypsin_F21F36_FL0026_RFI_261114_Deep_High_Trypsin_F21F36_hybrid.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_Trypsin_F21F36_hybrid.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "trypsin"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "CHOPIN"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT",
+      "HCD/FT"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F21F36"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_ET_F24F39_hybrid.raw": {
+    "Source Name": [
+      "MCF-7_Post Digest Mix_F24F39"
+    ],
+    "Assay Name": [
+      "MCF-7_Post Digest Mix_F24F39_FL0026_RFI_261114_Deep_High_ET_F24F39_hybrid.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_ET_F24F39_hybrid.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "Post Digest Mix"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "CHOPIN"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT",
+      "HCD/FT"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F24F39"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_ET_F24_hybrid.raw": {
+    "Source Name": [
+      "MCF-7_Post Digest Mix_F24"
+    ],
+    "Assay Name": [
+      "MCF-7_Post Digest Mix_F24_FL0026_RFI_261114_Deep_High_ET_F24_hybrid.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_ET_F24_hybrid.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "Post Digest Mix"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "CHOPIN"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT",
+      "HCD/FT"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F24"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_Trypsin_F12F27_hybrid.raw": {
+    "Source Name": [
+      "MCF-7_trypsin_F12F27"
+    ],
+    "Assay Name": [
+      "MCF-7_trypsin_F12F27_FL0026_RFI_261114_Deep_High_Trypsin_F12F27_hybrid.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_Trypsin_F12F27_hybrid.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "trypsin"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "CHOPIN"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT",
+      "HCD/FT"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F12F27"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_E_F13F28_uni.raw": {
+    "Source Name": [
+      "MCF-7_elastase_F13F28"
+    ],
+    "Assay Name": [
+      "MCF-7_elastase_F13F28_FL0026_RFI_261114_Deep_High_E_F13F28_uni.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_E_F13F28_uni.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "elastase"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Universal Method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35%"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F13F28"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_ET_F12F27_uni.raw": {
+    "Source Name": [
+      "MCF-7_Post Digest Mix_F12F27"
+    ],
+    "Assay Name": [
+      "MCF-7_Post Digest Mix_F12F27_FL0026_RFI_261114_Deep_High_ET_F12F27_uni.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_ET_F12F27_uni.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "Post Digest Mix"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Universal Method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35%"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F12F27"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_ET_F18_hybrid.raw": {
+    "Source Name": [
+      "MCF-7_Post Digest Mix_F18"
+    ],
+    "Assay Name": [
+      "MCF-7_Post Digest Mix_F18_FL0026_RFI_261114_Deep_High_ET_F18_hybrid.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_ET_F18_hybrid.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "Post Digest Mix"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "CHOPIN"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT",
+      "HCD/FT"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F18"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_E_F19F34_hybrid.raw": {
+    "Source Name": [
+      "MCF-7_elastase_F19F34"
+    ],
+    "Assay Name": [
+      "MCF-7_elastase_F19F34_FL0026_RFI_261114_Deep_High_E_F19F34_hybrid.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_E_F19F34_hybrid.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "elastase"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "CHOPIN"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT",
+      "HCD/FT"
+    ],
+    "Comment[CollisionEnergy]": [
+      "32%"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F19F34"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_ET_F12_hybrid.raw": {
+    "Source Name": [
+      "MCF-7_Post Digest Mix_F12"
+    ],
+    "Assay Name": [
+      "MCF-7_Post Digest Mix_F12_FL0026_RFI_261114_Deep_High_ET_F12_hybrid.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_ET_F12_hybrid.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "Post Digest Mix"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "CHOPIN"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT",
+      "HCD/FT"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F12"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_ET_F21_hybrid.raw": {
+    "Source Name": [
+      "MCF-7_Post Digest Mix_F21"
+    ],
+    "Assay Name": [
+      "MCF-7_Post Digest Mix_F21_FL0026_RFI_261114_Deep_High_ET_F21_hybrid.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_ET_F21_hybrid.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "Post Digest Mix"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "CHOPIN"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT",
+      "HCD/FT"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F21"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_ET_F15F30_hybrid.raw": {
+    "Source Name": [
+      "MCF-7_Post Digest Mix_F15F30"
+    ],
+    "Assay Name": [
+      "MCF-7_Post Digest Mix_F15F30_FL0026_RFI_261114_Deep_High_ET_F15F30_hybrid.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_ET_F15F30_hybrid.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "Post Digest Mix"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "CHOPIN"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT",
+      "HCD/FT"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F15F30"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_ET_F20F35_hybrid.raw": {
+    "Source Name": [
+      "MCF-7_Post Digest Mix_F20F35"
+    ],
+    "Assay Name": [
+      "MCF-7_Post Digest Mix_F20F35_FL0026_RFI_261114_Deep_High_ET_F20F35_hybrid.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_ET_F20F35_hybrid.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "Post Digest Mix"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "CHOPIN"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT",
+      "HCD/FT"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F20F35"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_E_F21F36_uni.raw": {
+    "Source Name": [
+      "MCF-7_elastase_F21F36"
+    ],
+    "Assay Name": [
+      "MCF-7_elastase_F21F36_FL0026_RFI_261114_Deep_High_E_F21F36_uni.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_E_F21F36_uni.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "elastase"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Universal Method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35%"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F21F36"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_Trypsin_F13F28_uni.raw": {
+    "Source Name": [
+      "MCF-7_trypsin_F13F28"
+    ],
+    "Assay Name": [
+      "MCF-7_trypsin_F13F28_FL0026_RFI_261114_Deep_High_Trypsin_F13F28_uni.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_Trypsin_F13F28_uni.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "trypsin"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Universal Method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35%"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F13F28"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_E_F16F31_hybrid.raw": {
+    "Source Name": [
+      "MCF-7_elastase_F16F31"
+    ],
+    "Assay Name": [
+      "MCF-7_elastase_F16F31_FL0026_RFI_261114_Deep_High_E_F16F31_hybrid.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_E_F16F31_hybrid.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "elastase"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "CHOPIN"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT",
+      "HCD/FT"
+    ],
+    "Comment[CollisionEnergy]": [
+      "32%"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F16F31"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_ET_F35_hybrid.raw": {
+    "Source Name": [
+      "MCF-7_Post Digest Mix_F35"
+    ],
+    "Assay Name": [
+      "MCF-7_Post Digest Mix_F35_FL0026_RFI_261114_Deep_High_ET_F35_hybrid.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_ET_F35_hybrid.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "Post Digest Mix"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "CHOPIN"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT",
+      "HCD/FT"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F35"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_Trypsin_F19F34_hybrid.raw": {
+    "Source Name": [
+      "MCF-7_trypsin_F19F34"
+    ],
+    "Assay Name": [
+      "MCF-7_trypsin_F19F34_FL0026_RFI_261114_Deep_High_Trypsin_F19F34_hybrid.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_Trypsin_F19F34_hybrid.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "trypsin"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "CHOPIN"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT",
+      "HCD/FT"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F19F34"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_E_F25F40_hybrid.raw": {
+    "Source Name": [
+      "MCF-7_elastase_F25F40"
+    ],
+    "Assay Name": [
+      "MCF-7_elastase_F25F40_FL0026_RFI_261114_Deep_High_E_F25F40_hybrid.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_E_F25F40_hybrid.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "elastase"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "CHOPIN"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT",
+      "HCD/FT"
+    ],
+    "Comment[CollisionEnergy]": [
+      "32%"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F25F40"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_ET_F14_hybrid.raw": {
+    "Source Name": [
+      "MCF-7_Post Digest Mix_F14"
+    ],
+    "Assay Name": [
+      "MCF-7_Post Digest Mix_F14_FL0026_RFI_261114_Deep_High_ET_F14_hybrid.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_ET_F14_hybrid.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "Post Digest Mix"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "CHOPIN"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT",
+      "HCD/FT"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F14"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_E_F26F41_hybrid.raw": {
+    "Source Name": [
+      "MCF-7_elastase_F26F41"
+    ],
+    "Assay Name": [
+      "MCF-7_elastase_F26F41_FL0026_RFI_261114_Deep_High_E_F26F41_hybrid.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_E_F26F41_hybrid.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "elastase"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "CHOPIN"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT",
+      "HCD/FT"
+    ],
+    "Comment[CollisionEnergy]": [
+      "32%"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F26F41"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_Trypsin_F17F32_hybrid.raw": {
+    "Source Name": [
+      "MCF-7_trypsin_F17F32"
+    ],
+    "Assay Name": [
+      "MCF-7_trypsin_F17F32_FL0026_RFI_261114_Deep_High_Trypsin_F17F32_hybrid.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_Trypsin_F17F32_hybrid.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "trypsin"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "CHOPIN"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT",
+      "HCD/FT"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F17F32"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_E_F25F40_uni.raw": {
+    "Source Name": [
+      "MCF-7_elastase_F25F40"
+    ],
+    "Assay Name": [
+      "MCF-7_elastase_F25F40_FL0026_RFI_261114_Deep_High_E_F25F40_uni.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_E_F25F40_uni.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "elastase"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Universal Method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35%"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F25F40"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_ET_F22_hybrid.raw": {
+    "Source Name": [
+      "MCF-7_Post Digest Mix_F22"
+    ],
+    "Assay Name": [
+      "MCF-7_Post Digest Mix_F22_FL0026_RFI_261114_Deep_High_ET_F22_hybrid.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_ET_F22_hybrid.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "Post Digest Mix"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "CHOPIN"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT",
+      "HCD/FT"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F22"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_E_F21F36_hybrid.raw": {
+    "Source Name": [
+      "MCF-7_elastase_F21F36"
+    ],
+    "Assay Name": [
+      "MCF-7_elastase_F21F36_FL0026_RFI_261114_Deep_High_E_F21F36_hybrid.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_E_F21F36_hybrid.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "elastase"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "CHOPIN"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT",
+      "HCD/FT"
+    ],
+    "Comment[CollisionEnergy]": [
+      "32%"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F21F36"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_E_F18F33_hybrid.raw": {
+    "Source Name": [
+      "MCF-7_elastase_F18F33"
+    ],
+    "Assay Name": [
+      "MCF-7_elastase_F18F33_FL0026_RFI_261114_Deep_High_E_F18F33_hybrid.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_E_F18F33_hybrid.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "elastase"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "CHOPIN"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT",
+      "HCD/FT"
+    ],
+    "Comment[CollisionEnergy]": [
+      "32%"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F18F33"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_Trypsin_F18F33_hybrid.raw": {
+    "Source Name": [
+      "MCF-7_trypsin_F18F33"
+    ],
+    "Assay Name": [
+      "MCF-7_trypsin_F18F33_FL0026_RFI_261114_Deep_High_Trypsin_F18F33_hybrid.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_Trypsin_F18F33_hybrid.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "trypsin"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "CHOPIN"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT",
+      "HCD/FT"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F18F33"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_ET_F29_hybrid.raw": {
+    "Source Name": [
+      "MCF-7_Post Digest Mix_F29"
+    ],
+    "Assay Name": [
+      "MCF-7_Post Digest Mix_F29_FL0026_RFI_261114_Deep_High_ET_F29_hybrid.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_ET_F29_hybrid.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "Post Digest Mix"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "CHOPIN"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT",
+      "HCD/FT"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F29"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_ET_F14F29_hybrid.raw": {
+    "Source Name": [
+      "MCF-7_Post Digest Mix_F14F29"
+    ],
+    "Assay Name": [
+      "MCF-7_Post Digest Mix_F14F29_FL0026_RFI_261114_Deep_High_ET_F14F29_hybrid.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_ET_F14F29_hybrid.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "Post Digest Mix"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "CHOPIN"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT",
+      "HCD/FT"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F14F29"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_Trypsin_F19F34_uni.raw": {
+    "Source Name": [
+      "MCF-7_trypsin_F19F34"
+    ],
+    "Assay Name": [
+      "MCF-7_trypsin_F19F34_FL0026_RFI_261114_Deep_High_Trypsin_F19F34_uni.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_Trypsin_F19F34_uni.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "trypsin"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Universal Method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35%"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F19F34"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_ET_F26F41_hybrid.raw": {
+    "Source Name": [
+      "MCF-7_Post Digest Mix_F26F41"
+    ],
+    "Assay Name": [
+      "MCF-7_Post Digest Mix_F26F41_FL0026_RFI_261114_Deep_High_ET_F26F41_hybrid.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_ET_F26F41_hybrid.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "Post Digest Mix"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "CHOPIN"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT",
+      "HCD/FT"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F26F41"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_ET_F28_hybrid.raw": {
+    "Source Name": [
+      "MCF-7_Post Digest Mix_F28"
+    ],
+    "Assay Name": [
+      "MCF-7_Post Digest Mix_F28_FL0026_RFI_261114_Deep_High_ET_F28_hybrid.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_ET_F28_hybrid.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "Post Digest Mix"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "CHOPIN"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT",
+      "HCD/FT"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F28"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  },
+  "FL0026_RFI_261114_Deep_High_E_F26F41_uni.raw": {
+    "Source Name": [
+      "MCF-7_elastase_F26F41"
+    ],
+    "Assay Name": [
+      "MCF-7_elastase_F26F41_FL0026_RFI_261114_Deep_High_E_F26F41_uni.raw"
+    ],
+    "Raw Data File": [
+      "FL0026_RFI_261114_Deep_High_E_F26F41_uni.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF-7 breast cancer cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "total cell lysate of MCF-7 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "FactorValue[Treatment]": [
+      "elastase"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Universal Method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID/IT"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35%"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F26F41"
+    ],
+    "Comment[FractionationMethod]": [
+      "Off-line high-pH reverse-phase prefractionation"
+    ],
+    "Comment[Separation]": [
+      "Dionex Ultimate 3000 nano-UPLC"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ]
+  }
+}

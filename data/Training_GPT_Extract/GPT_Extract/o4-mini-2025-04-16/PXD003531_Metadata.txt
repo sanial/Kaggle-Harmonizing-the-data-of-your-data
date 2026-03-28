@@ -1,0 +1,36 @@
+AssayName: Phosphoproteomics of Primary Cells  
+Disease: Ovarian Cancer  
+SourceName: patient-derived epithelial cells  
+AssayName: single-shot mass-spectrometry-based phosphoproteomics  
+Disease: epithelial ovarian cancer (EOC)  
+CellLine: ovarian cancer cell lines  
+SourceName: ex-vivo-cultured primary cells  
+Age: 45–75 years  
+Sex: women  
+SourceName: tissue samples  
+OrganismPart: ovarian cortical tissues  
+OrganismPart: fimbriae  
+Compound: dispase  
+MaterialType: peritoneal fluid (ascites)  
+MaterialType: tumor biopsy specimens  
+AssayName: immunoblotting  
+AssayName: cell proliferation assay  
+Compound: 4% paraformaldehyde (PFA)  
+Time: 2 hr  
+Temperature: room temperature  
+Time: 1 hr  
+Compound: DAPI  
+Compound: Mowiol  
+Instrument: OLYMPUS BX63 microscope  
+NumberOfSamples: four healthy ovaries  
+NumberOfSamples: four healthy FTE  
+NumberOfSamples: four primary EOC  
+NumberOfSamples: 14 recurrent EOC  
+CellLine: OVCAR3 cells  
+Compound: denaturation buffer  
+CleavageAgent: endoproteinase Lys-C  
+CleavageAgent: sequencing grade modified trypsin  
+ConcentrationOfCompound: 50% acetonitrile  
+AssayName: analysis of phosphoproteome  
+Instrument: EASY-nLC system (Proxeon)  
+Instrument: Q-Exactive mass spectrometer (Thermo Fisher Scientific)

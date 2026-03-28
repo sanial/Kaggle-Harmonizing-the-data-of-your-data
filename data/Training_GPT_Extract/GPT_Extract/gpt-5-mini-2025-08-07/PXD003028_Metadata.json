@@ -1,0 +1,4622 @@
+{
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_5_fractionated5.raw": {
+    "Source Name": [
+      "Saliva_5"
+    ],
+    "Assay Name": [
+      "Saliva_5_fractionated5"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_5_fractionated5.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reversed-phase chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "eight fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fractionated5"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20141116_QEp1_LC7_PhGe_4_53_M1_2.raw": {
+    "Source Name": [
+      "PhGe_4_53_M1_2"
+    ],
+    "Assay Name": [
+      "PhGe_4_53_M1_2_singleRun"
+    ],
+    "Raw Data File": [
+      "20141116_QEp1_LC7_PhGe_4_53_M1_2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_8_fractionated6.raw": {
+    "Source Name": [
+      "Saliva_8"
+    ],
+    "Assay Name": [
+      "Saliva_8_fractionated6"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_8_fractionated6.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reversed-phase chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "eight fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fractionated6"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_7_fractionated3.raw": {
+    "Source Name": [
+      "Saliva_7"
+    ],
+    "Assay Name": [
+      "Saliva_7_fractionated3"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_7_fractionated3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reversed-phase chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "eight fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fractionated3"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_5_fractionated3.raw": {
+    "Source Name": [
+      "Saliva_5"
+    ],
+    "Assay Name": [
+      "Saliva_5_fractionated3"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_5_fractionated3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reversed-phase chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "eight fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fractionated3"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150602_QEp3_NiGr_SA_saliva3_4_frac5.raw": {
+    "Source Name": [
+      "saliva3_4"
+    ],
+    "Assay Name": [
+      "saliva3_4_frac5"
+    ],
+    "Raw Data File": [
+      "20150602_QEp3_NiGr_SA_saliva3_4_frac5.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[FractionIdentifier]": [
+      "frac5"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150602_QEp3_NiGr_SA_saliva3_4_frac1.raw": {
+    "Source Name": [
+      "saliva3_4"
+    ],
+    "Assay Name": [
+      "saliva3_4_frac1"
+    ],
+    "Raw Data File": [
+      "20150602_QEp3_NiGr_SA_saliva3_4_frac1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[FractionIdentifier]": [
+      "frac1"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_3_fractionated8.raw": {
+    "Source Name": [
+      "Saliva_3"
+    ],
+    "Assay Name": [
+      "Saliva_3_fractionated8"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_3_fractionated8.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reversed-phase chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "eight fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fractionated8"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_6_fractionated5.raw": {
+    "Source Name": [
+      "Saliva_6"
+    ],
+    "Assay Name": [
+      "Saliva_6_fractionated5"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_6_fractionated5.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reversed-phase chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "eight fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fractionated5"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_3_fractionated5.raw": {
+    "Source Name": [
+      "Saliva_3"
+    ],
+    "Assay Name": [
+      "Saliva_3_fractionated5"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_3_fractionated5.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reversed-phase chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "eight fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fractionated5"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_3_fractionated6.raw": {
+    "Source Name": [
+      "Saliva_3"
+    ],
+    "Assay Name": [
+      "Saliva_3_fractionated6"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_3_fractionated6.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reversed-phase chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "eight fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fractionated6"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20141116_QEp1_LC7_PhGe_4_53_M1_4.raw": {
+    "Source Name": [
+      "PhGe_4_53_M1_4"
+    ],
+    "Assay Name": [
+      "PhGe_4_53_M1_4_singleRun"
+    ],
+    "Raw Data File": [
+      "20141116_QEp1_LC7_PhGe_4_53_M1_4.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150602_QEp3_NiGr_SA_saliva3_4_frac6.raw": {
+    "Source Name": [
+      "saliva3_4"
+    ],
+    "Assay Name": [
+      "saliva3_4_frac6"
+    ],
+    "Raw Data File": [
+      "20150602_QEp3_NiGr_SA_saliva3_4_frac6.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[FractionIdentifier]": [
+      "frac6"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_7m.raw": {
+    "Source Name": [
+      "Saliva_7m"
+    ],
+    "Assay Name": [
+      "Saliva_7m_singleRun"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_7m.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_6_fractionated7.raw": {
+    "Source Name": [
+      "Saliva_6"
+    ],
+    "Assay Name": [
+      "Saliva_6_fractionated7"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_6_fractionated7.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reversed-phase chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "eight fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fractionated7"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_1m.raw": {
+    "Source Name": [
+      "Saliva_1m"
+    ],
+    "Assay Name": [
+      "Saliva_1m_singleRun"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_1m.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20141116_QEp1_LC7_PhGe_4_53_M1_3.raw": {
+    "Source Name": [
+      "PhGe_4_53_M1_3"
+    ],
+    "Assay Name": [
+      "PhGe_4_53_M1_3_singleRun"
+    ],
+    "Raw Data File": [
+      "20141116_QEp1_LC7_PhGe_4_53_M1_3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_5_fractionated6.raw": {
+    "Source Name": [
+      "Saliva_5"
+    ],
+    "Assay Name": [
+      "Saliva_5_fractionated6"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_5_fractionated6.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reversed-phase chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "eight fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fractionated6"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_6_fractionated8.raw": {
+    "Source Name": [
+      "Saliva_6"
+    ],
+    "Assay Name": [
+      "Saliva_6_fractionated8"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_6_fractionated8.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reversed-phase chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "eight fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fractionated8"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_1.raw": {
+    "Source Name": [
+      "Saliva_1"
+    ],
+    "Assay Name": [
+      "Saliva_1_singleRun"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_2_fractionated4.raw": {
+    "Source Name": [
+      "Saliva_2"
+    ],
+    "Assay Name": [
+      "Saliva_2_fractionated4"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_2_fractionated4.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reversed-phase chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "eight fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fractionated4"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_8_fractionated7.raw": {
+    "Source Name": [
+      "Saliva_8"
+    ],
+    "Assay Name": [
+      "Saliva_8_fractionated7"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_8_fractionated7.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reversed-phase chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "eight fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fractionated7"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_2_fractionated6.raw": {
+    "Source Name": [
+      "Saliva_2"
+    ],
+    "Assay Name": [
+      "Saliva_2_fractionated6"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_2_fractionated6.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reversed-phase chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "eight fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fractionated6"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_1_fractionated2.raw": {
+    "Source Name": [
+      "Saliva_1"
+    ],
+    "Assay Name": [
+      "Saliva_1_fractionated2"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_1_fractionated2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reversed-phase chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "eight fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fractionated2"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_7_fractionated8.raw": {
+    "Source Name": [
+      "Saliva_7"
+    ],
+    "Assay Name": [
+      "Saliva_7_fractionated8"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_7_fractionated8.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reversed-phase chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "eight fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fractionated8"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_6_fractionated6.raw": {
+    "Source Name": [
+      "Saliva_6"
+    ],
+    "Assay Name": [
+      "Saliva_6_fractionated6"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_6_fractionated6.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reversed-phase chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "eight fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fractionated6"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150602_QEp3_NiGr_SA_saliva3_4_frac3.raw": {
+    "Source Name": [
+      "saliva3_4"
+    ],
+    "Assay Name": [
+      "saliva3_4_frac3"
+    ],
+    "Raw Data File": [
+      "20150602_QEp3_NiGr_SA_saliva3_4_frac3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[FractionIdentifier]": [
+      "frac3"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_3_fractionated2.raw": {
+    "Source Name": [
+      "Saliva_3"
+    ],
+    "Assay Name": [
+      "Saliva_3_fractionated2"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_3_fractionated2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reversed-phase chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "eight fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fractionated2"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150513_QEp4_NiGr_SA_workflow_rep1.raw": {
+    "Source Name": [
+      "workflow_rep1"
+    ],
+    "Assay Name": [
+      "workflow_rep1_singleRun"
+    ],
+    "Raw Data File": [
+      "20150513_QEp4_NiGr_SA_workflow_rep1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "rep1"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_8_fractionated2.raw": {
+    "Source Name": [
+      "Saliva_8"
+    ],
+    "Assay Name": [
+      "Saliva_8_fractionated2"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_8_fractionated2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reversed-phase chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "eight fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fractionated2"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_8m.raw": {
+    "Source Name": [
+      "Saliva_8m"
+    ],
+    "Assay Name": [
+      "Saliva_8m_singleRun"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_8m.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_1_fractionated4.raw": {
+    "Source Name": [
+      "Saliva_1"
+    ],
+    "Assay Name": [
+      "Saliva_1_fractionated4"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_1_fractionated4.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reversed-phase chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "eight fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fractionated4"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150513_QEp4_NiGr_SA_workflow_rep3.raw": {
+    "Source Name": [
+      "workflow_rep3"
+    ],
+    "Assay Name": [
+      "workflow_rep3_singleRun"
+    ],
+    "Raw Data File": [
+      "20150513_QEp4_NiGr_SA_workflow_rep3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "rep3"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_7_fractionated2.raw": {
+    "Source Name": [
+      "Saliva_7"
+    ],
+    "Assay Name": [
+      "Saliva_7_fractionated2"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_7_fractionated2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reversed-phase chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "eight fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fractionated2"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_2_fractionated1.raw": {
+    "Source Name": [
+      "Saliva_2"
+    ],
+    "Assay Name": [
+      "Saliva_2_fractionated1"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_2_fractionated1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reversed-phase chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "eight fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fractionated1"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_2_fractionated3.raw": {
+    "Source Name": [
+      "Saliva_2"
+    ],
+    "Assay Name": [
+      "Saliva_2_fractionated3"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_2_fractionated3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reversed-phase chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "eight fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fractionated3"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_QC_SA_Saliva2_2.raw": {
+    "Source Name": [
+      "QC_SA_Saliva2_2"
+    ],
+    "Assay Name": [
+      "QC_SA_Saliva2_2_singleRun"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_QC_SA_Saliva2_2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_6.raw": {
+    "Source Name": [
+      "Saliva_6"
+    ],
+    "Assay Name": [
+      "Saliva_6_singleRun"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_6.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_5m.raw": {
+    "Source Name": [
+      "Saliva_5m"
+    ],
+    "Assay Name": [
+      "Saliva_5m_singleRun"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_5m.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_5.raw": {
+    "Source Name": [
+      "Saliva_5"
+    ],
+    "Assay Name": [
+      "Saliva_5_singleRun"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_5.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_5_fractionated1.raw": {
+    "Source Name": [
+      "Saliva_5"
+    ],
+    "Assay Name": [
+      "Saliva_5_fractionated1"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_5_fractionated1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reversed-phase chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "eight fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fractionated1"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_8_fractionated8.raw": {
+    "Source Name": [
+      "Saliva_8"
+    ],
+    "Assay Name": [
+      "Saliva_8_fractionated8"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_8_fractionated8.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reversed-phase chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "eight fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fractionated8"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_8_fractionated5.raw": {
+    "Source Name": [
+      "Saliva_8"
+    ],
+    "Assay Name": [
+      "Saliva_8_fractionated5"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_8_fractionated5.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reversed-phase chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "eight fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fractionated5"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_6_fractionated2.raw": {
+    "Source Name": [
+      "Saliva_6"
+    ],
+    "Assay Name": [
+      "Saliva_6_fractionated2"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_6_fractionated2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reversed-phase chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "eight fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fractionated2"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150602_QEp3_NiGr_SA_saliva3_4_frac7.raw": {
+    "Source Name": [
+      "saliva3_4"
+    ],
+    "Assay Name": [
+      "saliva3_4_frac7"
+    ],
+    "Raw Data File": [
+      "20150602_QEp3_NiGr_SA_saliva3_4_frac7.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[FractionIdentifier]": [
+      "frac7"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_1_fractionated5.raw": {
+    "Source Name": [
+      "Saliva_1"
+    ],
+    "Assay Name": [
+      "Saliva_1_fractionated5"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_1_fractionated5.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reversed-phase chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "eight fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fractionated5"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_3_fractionated3.raw": {
+    "Source Name": [
+      "Saliva_3"
+    ],
+    "Assay Name": [
+      "Saliva_3_fractionated3"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_3_fractionated3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reversed-phase chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "eight fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fractionated3"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_7_fractionated1.raw": {
+    "Source Name": [
+      "Saliva_7"
+    ],
+    "Assay Name": [
+      "Saliva_7_fractionated1"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_7_fractionated1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reversed-phase chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "eight fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fractionated1"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20141116_QEp1_LC7_PhGe_4_53_M2_1.raw": {
+    "Source Name": [
+      "PhGe_4_53_M2_1"
+    ],
+    "Assay Name": [
+      "PhGe_4_53_M2_1_singleRun"
+    ],
+    "Raw Data File": [
+      "20141116_QEp1_LC7_PhGe_4_53_M2_1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_2_fractionated2.raw": {
+    "Source Name": [
+      "Saliva_2"
+    ],
+    "Assay Name": [
+      "Saliva_2_fractionated2"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_2_fractionated2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reversed-phase chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "eight fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fractionated2"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_2_fractionated5.raw": {
+    "Source Name": [
+      "Saliva_2"
+    ],
+    "Assay Name": [
+      "Saliva_2_fractionated5"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_2_fractionated5.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reversed-phase chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "eight fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fractionated5"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_6m.raw": {
+    "Source Name": [
+      "Saliva_6m"
+    ],
+    "Assay Name": [
+      "Saliva_6m_singleRun"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_6m.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_6_fractionated1.raw": {
+    "Source Name": [
+      "Saliva_6"
+    ],
+    "Assay Name": [
+      "Saliva_6_fractionated1"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_6_fractionated1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reversed-phase chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "eight fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fractionated1"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_7_fractionated7.raw": {
+    "Source Name": [
+      "Saliva_7"
+    ],
+    "Assay Name": [
+      "Saliva_7_fractionated7"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_7_fractionated7.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reversed-phase chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "eight fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fractionated7"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_7_fractionated5.raw": {
+    "Source Name": [
+      "Saliva_7"
+    ],
+    "Assay Name": [
+      "Saliva_7_fractionated5"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_7_fractionated5.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reversed-phase chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "eight fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fractionated5"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_4.raw": {
+    "Source Name": [
+      "Saliva_4"
+    ],
+    "Assay Name": [
+      "Saliva_4_singleRun"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_4.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_7.raw": {
+    "Source Name": [
+      "Saliva_7"
+    ],
+    "Assay Name": [
+      "Saliva_7_singleRun"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_7.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_2_fractionated8.raw": {
+    "Source Name": [
+      "Saliva_2"
+    ],
+    "Assay Name": [
+      "Saliva_2_fractionated8"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_2_fractionated8.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reversed-phase chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "eight fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fractionated8"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_8.raw": {
+    "Source Name": [
+      "Saliva_8"
+    ],
+    "Assay Name": [
+      "Saliva_8_singleRun"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_8.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_7_fractionated6.raw": {
+    "Source Name": [
+      "Saliva_7"
+    ],
+    "Assay Name": [
+      "Saliva_7_fractionated6"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_7_fractionated6.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reversed-phase chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "eight fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fractionated6"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_8_fractionated4.raw": {
+    "Source Name": [
+      "Saliva_8"
+    ],
+    "Assay Name": [
+      "Saliva_8_fractionated4"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_8_fractionated4.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reversed-phase chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "eight fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fractionated4"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_6_fractionated4.raw": {
+    "Source Name": [
+      "Saliva_6"
+    ],
+    "Assay Name": [
+      "Saliva_6_fractionated4"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_6_fractionated4.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reversed-phase chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "eight fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fractionated4"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_5_fractionated7.raw": {
+    "Source Name": [
+      "Saliva_5"
+    ],
+    "Assay Name": [
+      "Saliva_5_fractionated7"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_5_fractionated7.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reversed-phase chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "eight fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fractionated7"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_2m.raw": {
+    "Source Name": [
+      "Saliva_2m"
+    ],
+    "Assay Name": [
+      "Saliva_2m_singleRun"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_2m.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_1_fractionated3.raw": {
+    "Source Name": [
+      "Saliva_1"
+    ],
+    "Assay Name": [
+      "Saliva_1_fractionated3"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_1_fractionated3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reversed-phase chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "eight fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fractionated3"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_7_fractionated4.raw": {
+    "Source Name": [
+      "Saliva_7"
+    ],
+    "Assay Name": [
+      "Saliva_7_fractionated4"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_7_fractionated4.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reversed-phase chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "eight fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fractionated4"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_5_fractionated4.raw": {
+    "Source Name": [
+      "Saliva_5"
+    ],
+    "Assay Name": [
+      "Saliva_5_fractionated4"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_5_fractionated4.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reversed-phase chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "eight fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fractionated4"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_2_fractionated7.raw": {
+    "Source Name": [
+      "Saliva_2"
+    ],
+    "Assay Name": [
+      "Saliva_2_fractionated7"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_2_fractionated7.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reversed-phase chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "eight fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fractionated7"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_3m.raw": {
+    "Source Name": [
+      "Saliva_3m"
+    ],
+    "Assay Name": [
+      "Saliva_3m_singleRun"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_3m.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150602_QEp3_NiGr_SA_saliva3_4_frac4.raw": {
+    "Source Name": [
+      "saliva3_4"
+    ],
+    "Assay Name": [
+      "saliva3_4_frac4"
+    ],
+    "Raw Data File": [
+      "20150602_QEp3_NiGr_SA_saliva3_4_frac4.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[FractionIdentifier]": [
+      "frac4"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150513_QEp4_NiGr_SA_workflow_rep2.raw": {
+    "Source Name": [
+      "workflow_rep2"
+    ],
+    "Assay Name": [
+      "workflow_rep2_singleRun"
+    ],
+    "Raw Data File": [
+      "20150513_QEp4_NiGr_SA_workflow_rep2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "rep2"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150602_QEp3_NiGr_SA_saliva3_4_frac8.raw": {
+    "Source Name": [
+      "saliva3_4"
+    ],
+    "Assay Name": [
+      "saliva3_4_frac8"
+    ],
+    "Raw Data File": [
+      "20150602_QEp3_NiGr_SA_saliva3_4_frac8.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[FractionIdentifier]": [
+      "frac8"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_1_fractionated1.raw": {
+    "Source Name": [
+      "Saliva_1"
+    ],
+    "Assay Name": [
+      "Saliva_1_fractionated1"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_1_fractionated1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reversed-phase chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "eight fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fractionated1"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_1_fractionated7.raw": {
+    "Source Name": [
+      "Saliva_1"
+    ],
+    "Assay Name": [
+      "Saliva_1_fractionated7"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_1_fractionated7.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reversed-phase chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "eight fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fractionated7"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_1_fractionated8.raw": {
+    "Source Name": [
+      "Saliva_1"
+    ],
+    "Assay Name": [
+      "Saliva_1_fractionated8"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_1_fractionated8.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reversed-phase chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "eight fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fractionated8"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_4m.raw": {
+    "Source Name": [
+      "Saliva_4m"
+    ],
+    "Assay Name": [
+      "Saliva_4m_singleRun"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_4m.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20141116_QEp1_LC7_PhGe_4_53_M2_3.raw": {
+    "Source Name": [
+      "PhGe_4_53_M2_3"
+    ],
+    "Assay Name": [
+      "PhGe_4_53_M2_3_singleRun"
+    ],
+    "Raw Data File": [
+      "20141116_QEp1_LC7_PhGe_4_53_M2_3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_3_fractionated7.raw": {
+    "Source Name": [
+      "Saliva_3"
+    ],
+    "Assay Name": [
+      "Saliva_3_fractionated7"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_3_fractionated7.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reversed-phase chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "eight fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fractionated7"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_3_fractionated1.raw": {
+    "Source Name": [
+      "Saliva_3"
+    ],
+    "Assay Name": [
+      "Saliva_3_fractionated1"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_3_fractionated1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reversed-phase chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "eight fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fractionated1"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_5_fractionated2.raw": {
+    "Source Name": [
+      "Saliva_5"
+    ],
+    "Assay Name": [
+      "Saliva_5_fractionated2"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_5_fractionated2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reversed-phase chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "eight fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fractionated2"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  },
+  "20150414_QEp1_LC7_NiGr_SA_Saliva_8_fractionated1.raw": {
+    "Source Name": [
+      "Saliva_8"
+    ],
+    "Assay Name": [
+      "Saliva_8_fractionated1"
+    ],
+    "Raw Data File": [
+      "20150414_QEp1_LC7_NiGr_SA_Saliva_8_fractionated1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Specimen]": [
+      "sterile cotton swabs",
+      "saliva"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "0.4 μg trypsin and LysC"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM tris (2-carboxyethyl) phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM 2-chloroacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "16 single-run proteomes"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic reversed-phase chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "eight fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fractionated1"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer"
+    ],
+    "Comment[Separation]": [
+      "EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "100-min chromatography gradient"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm at the MS level"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da at the MS/MS level"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages"
+    ]
+  }
+}

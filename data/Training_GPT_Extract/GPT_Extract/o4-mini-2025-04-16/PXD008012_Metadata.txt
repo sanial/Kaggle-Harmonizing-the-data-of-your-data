@@ -1,0 +1,28 @@
+Disease: triple-negative breast cancer
+AssayName: phosphoproteomics
+Experiment: In vivo phosphoproteomics
+NumberOfSamples: 34 patients
+CleavageAgent: trypsin
+CleavageAgent: endoproteinase Lys-C
+ReductionReagent: TCEP
+ReductionReagent: DTT
+AlkylationReagent: chloro-acetamide
+AlkylationReagent: IAA
+Instrument: UltiMate 3000 HPLC system
+Instrument: Q Exactive Plus mass spectrometer
+Instrument: Proxeon EASY-nLC 1000
+Instrument: LTQ-Orbitrap Elite
+IonizationType: electrosprayed (1.9 kV)
+IonizationType: electrospray voltage was set at 1.7 kV
+Temperature: 250 °C
+FlowRateChromatogram: 250 nL/min
+FlowRateChromatogram: 100 nL/min
+GradientTime: 60 min
+GradientTime: 90-min
+Separation: reverse phase nano-LC-MS/MS
+AcquisitionMethod: data-dependent mode
+FragmentationMethod: higher-energy collisional dissociation (HCD)
+PrecursorMassTolerance: 10 ppm
+FragmentMassTolerance: 0.025 Da
+MS2MassAnalyzer: Orbitrap
+EnrichmentMethod: Ti4+-IMAC

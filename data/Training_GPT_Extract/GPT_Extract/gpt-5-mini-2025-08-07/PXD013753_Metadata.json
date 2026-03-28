@@ -1,0 +1,1402 @@
+{
+  "TW-19.raw": {
+    "Source Name": [
+      "pool_TMT8_concat20"
+    ],
+    "Assay Name": [
+      "pool_TMT8_concat20_TW-19"
+    ],
+    "Raw Data File": [
+      "TW-19.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "synaptoneurosome preparations"
+    ],
+    "Characteristics[Organism]": [
+      "human post-mortem brain tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Fresh frozen brain tissue"
+    ],
+    "Characteristics[OrganismPart]": [
+      "superior temporal gyrus (BA41/42)",
+      "primary visual cortex (BA17)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "100 mM DTT"
+    ],
+    "Characteristics[Label]": [
+      "8-plex TMT LC-MS/MS analysis",
+      "TMT8plex_Nter and TMT 8plex-Lys"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "We examined brain tissue from 33 subjects (7–10 per group)."
+    ],
+    "Comment[Instrument]": [
+      "Analysis of peptides was performed using a Q-Exactive-HF (Thermo Scientific) mass spectrometer coupled with a UltiMate 3000 RSLCnano (Thermo Scientific) UHPLC system."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data dependent mode"
+    ],
+    "Comment[Separation]": [
+      "nLC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptides fractionated using High pH RP HPLC."
+    ],
+    "Comment[NumberOfFractions]": [
+      "The total number of fractions concatenated was set to 20"
+    ],
+    "Comment[FractionIdentifier]": [
+      "19"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "linear gradient from 95% buffer A to 40% buffer B in 122 min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "FTMS- 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "ITMS- 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum missed cleavages, 2"
+    ]
+  },
+  "TW-2.raw": {
+    "Source Name": [
+      "pool_TMT8_concat20"
+    ],
+    "Assay Name": [
+      "pool_TMT8_concat20_TW-2"
+    ],
+    "Raw Data File": [
+      "TW-2.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "synaptoneurosome preparations"
+    ],
+    "Characteristics[Organism]": [
+      "human post-mortem brain tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Fresh frozen brain tissue"
+    ],
+    "Characteristics[OrganismPart]": [
+      "superior temporal gyrus (BA41/42)",
+      "primary visual cortex (BA17)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "100 mM DTT"
+    ],
+    "Characteristics[Label]": [
+      "8-plex TMT LC-MS/MS analysis",
+      "TMT8plex_Nter and TMT 8plex-Lys"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "We examined brain tissue from 33 subjects (7–10 per group)."
+    ],
+    "Comment[Instrument]": [
+      "Analysis of peptides was performed using a Q-Exactive-HF (Thermo Scientific) mass spectrometer coupled with a UltiMate 3000 RSLCnano (Thermo Scientific) UHPLC system."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data dependent mode"
+    ],
+    "Comment[Separation]": [
+      "nLC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptides fractionated using High pH RP HPLC."
+    ],
+    "Comment[NumberOfFractions]": [
+      "The total number of fractions concatenated was set to 20"
+    ],
+    "Comment[FractionIdentifier]": [
+      "2"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "linear gradient from 95% buffer A to 40% buffer B in 122 min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "FTMS- 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "ITMS- 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum missed cleavages, 2"
+    ]
+  },
+  "TW-12.raw": {
+    "Source Name": [
+      "pool_TMT8_concat20"
+    ],
+    "Assay Name": [
+      "pool_TMT8_concat20_TW-12"
+    ],
+    "Raw Data File": [
+      "TW-12.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "synaptoneurosome preparations"
+    ],
+    "Characteristics[Organism]": [
+      "human post-mortem brain tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Fresh frozen brain tissue"
+    ],
+    "Characteristics[OrganismPart]": [
+      "superior temporal gyrus (BA41/42)",
+      "primary visual cortex (BA17)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "100 mM DTT"
+    ],
+    "Characteristics[Label]": [
+      "8-plex TMT LC-MS/MS analysis",
+      "TMT8plex_Nter and TMT 8plex-Lys"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "We examined brain tissue from 33 subjects (7–10 per group)."
+    ],
+    "Comment[Instrument]": [
+      "Analysis of peptides was performed using a Q-Exactive-HF (Thermo Scientific) mass spectrometer coupled with a UltiMate 3000 RSLCnano (Thermo Scientific) UHPLC system."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data dependent mode"
+    ],
+    "Comment[Separation]": [
+      "nLC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptides fractionated using High pH RP HPLC."
+    ],
+    "Comment[NumberOfFractions]": [
+      "The total number of fractions concatenated was set to 20"
+    ],
+    "Comment[FractionIdentifier]": [
+      "12"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "linear gradient from 95% buffer A to 40% buffer B in 122 min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "FTMS- 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "ITMS- 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum missed cleavages, 2"
+    ]
+  },
+  "TW-20.raw": {
+    "Source Name": [
+      "pool_TMT8_concat20"
+    ],
+    "Assay Name": [
+      "pool_TMT8_concat20_TW-20"
+    ],
+    "Raw Data File": [
+      "TW-20.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "synaptoneurosome preparations"
+    ],
+    "Characteristics[Organism]": [
+      "human post-mortem brain tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Fresh frozen brain tissue"
+    ],
+    "Characteristics[OrganismPart]": [
+      "superior temporal gyrus (BA41/42)",
+      "primary visual cortex (BA17)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "100 mM DTT"
+    ],
+    "Characteristics[Label]": [
+      "8-plex TMT LC-MS/MS analysis",
+      "TMT8plex_Nter and TMT 8plex-Lys"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "We examined brain tissue from 33 subjects (7–10 per group)."
+    ],
+    "Comment[Instrument]": [
+      "Analysis of peptides was performed using a Q-Exactive-HF (Thermo Scientific) mass spectrometer coupled with a UltiMate 3000 RSLCnano (Thermo Scientific) UHPLC system."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data dependent mode"
+    ],
+    "Comment[Separation]": [
+      "nLC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptides fractionated using High pH RP HPLC."
+    ],
+    "Comment[NumberOfFractions]": [
+      "The total number of fractions concatenated was set to 20"
+    ],
+    "Comment[FractionIdentifier]": [
+      "20"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "linear gradient from 95% buffer A to 40% buffer B in 122 min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "FTMS- 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "ITMS- 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum missed cleavages, 2"
+    ]
+  },
+  "TW-7.raw": {
+    "Source Name": [
+      "pool_TMT8_concat20"
+    ],
+    "Assay Name": [
+      "pool_TMT8_concat20_TW-7"
+    ],
+    "Raw Data File": [
+      "TW-7.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "synaptoneurosome preparations"
+    ],
+    "Characteristics[Organism]": [
+      "human post-mortem brain tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Fresh frozen brain tissue"
+    ],
+    "Characteristics[OrganismPart]": [
+      "superior temporal gyrus (BA41/42)",
+      "primary visual cortex (BA17)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "100 mM DTT"
+    ],
+    "Characteristics[Label]": [
+      "8-plex TMT LC-MS/MS analysis",
+      "TMT8plex_Nter and TMT 8plex-Lys"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "We examined brain tissue from 33 subjects (7–10 per group)."
+    ],
+    "Comment[Instrument]": [
+      "Analysis of peptides was performed using a Q-Exactive-HF (Thermo Scientific) mass spectrometer coupled with a UltiMate 3000 RSLCnano (Thermo Scientific) UHPLC system."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data dependent mode"
+    ],
+    "Comment[Separation]": [
+      "nLC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptides fractionated using High pH RP HPLC."
+    ],
+    "Comment[NumberOfFractions]": [
+      "The total number of fractions concatenated was set to 20"
+    ],
+    "Comment[FractionIdentifier]": [
+      "7"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "linear gradient from 95% buffer A to 40% buffer B in 122 min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "FTMS- 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "ITMS- 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum missed cleavages, 2"
+    ]
+  },
+  "TW-1.raw": {
+    "Source Name": [
+      "pool_TMT8_concat20"
+    ],
+    "Assay Name": [
+      "pool_TMT8_concat20_TW-1"
+    ],
+    "Raw Data File": [
+      "TW-1.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "synaptoneurosome preparations"
+    ],
+    "Characteristics[Organism]": [
+      "human post-mortem brain tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Fresh frozen brain tissue"
+    ],
+    "Characteristics[OrganismPart]": [
+      "superior temporal gyrus (BA41/42)",
+      "primary visual cortex (BA17)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "100 mM DTT"
+    ],
+    "Characteristics[Label]": [
+      "8-plex TMT LC-MS/MS analysis",
+      "TMT8plex_Nter and TMT 8plex-Lys"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "We examined brain tissue from 33 subjects (7–10 per group)."
+    ],
+    "Comment[Instrument]": [
+      "Analysis of peptides was performed using a Q-Exactive-HF (Thermo Scientific) mass spectrometer coupled with a UltiMate 3000 RSLCnano (Thermo Scientific) UHPLC system."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data dependent mode"
+    ],
+    "Comment[Separation]": [
+      "nLC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptides fractionated using High pH RP HPLC."
+    ],
+    "Comment[NumberOfFractions]": [
+      "The total number of fractions concatenated was set to 20"
+    ],
+    "Comment[FractionIdentifier]": [
+      "1"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "linear gradient from 95% buffer A to 40% buffer B in 122 min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "FTMS- 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "ITMS- 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum missed cleavages, 2"
+    ]
+  },
+  "TW-10.raw": {
+    "Source Name": [
+      "pool_TMT8_concat20"
+    ],
+    "Assay Name": [
+      "pool_TMT8_concat20_TW-10"
+    ],
+    "Raw Data File": [
+      "TW-10.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "synaptoneurosome preparations"
+    ],
+    "Characteristics[Organism]": [
+      "human post-mortem brain tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Fresh frozen brain tissue"
+    ],
+    "Characteristics[OrganismPart]": [
+      "superior temporal gyrus (BA41/42)",
+      "primary visual cortex (BA17)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "100 mM DTT"
+    ],
+    "Characteristics[Label]": [
+      "8-plex TMT LC-MS/MS analysis",
+      "TMT8plex_Nter and TMT 8plex-Lys"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "We examined brain tissue from 33 subjects (7–10 per group)."
+    ],
+    "Comment[Instrument]": [
+      "Analysis of peptides was performed using a Q-Exactive-HF (Thermo Scientific) mass spectrometer coupled with a UltiMate 3000 RSLCnano (Thermo Scientific) UHPLC system."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data dependent mode"
+    ],
+    "Comment[Separation]": [
+      "nLC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptides fractionated using High pH RP HPLC."
+    ],
+    "Comment[NumberOfFractions]": [
+      "The total number of fractions concatenated was set to 20"
+    ],
+    "Comment[FractionIdentifier]": [
+      "10"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "linear gradient from 95% buffer A to 40% buffer B in 122 min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "FTMS- 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "ITMS- 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum missed cleavages, 2"
+    ]
+  },
+  "TW-4.raw": {
+    "Source Name": [
+      "pool_TMT8_concat20"
+    ],
+    "Assay Name": [
+      "pool_TMT8_concat20_TW-4"
+    ],
+    "Raw Data File": [
+      "TW-4.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "synaptoneurosome preparations"
+    ],
+    "Characteristics[Organism]": [
+      "human post-mortem brain tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Fresh frozen brain tissue"
+    ],
+    "Characteristics[OrganismPart]": [
+      "superior temporal gyrus (BA41/42)",
+      "primary visual cortex (BA17)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "100 mM DTT"
+    ],
+    "Characteristics[Label]": [
+      "8-plex TMT LC-MS/MS analysis",
+      "TMT8plex_Nter and TMT 8plex-Lys"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "We examined brain tissue from 33 subjects (7–10 per group)."
+    ],
+    "Comment[Instrument]": [
+      "Analysis of peptides was performed using a Q-Exactive-HF (Thermo Scientific) mass spectrometer coupled with a UltiMate 3000 RSLCnano (Thermo Scientific) UHPLC system."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data dependent mode"
+    ],
+    "Comment[Separation]": [
+      "nLC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptides fractionated using High pH RP HPLC."
+    ],
+    "Comment[NumberOfFractions]": [
+      "The total number of fractions concatenated was set to 20"
+    ],
+    "Comment[FractionIdentifier]": [
+      "4"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "linear gradient from 95% buffer A to 40% buffer B in 122 min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "FTMS- 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "ITMS- 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum missed cleavages, 2"
+    ]
+  },
+  "TW-11.raw": {
+    "Source Name": [
+      "pool_TMT8_concat20"
+    ],
+    "Assay Name": [
+      "pool_TMT8_concat20_TW-11"
+    ],
+    "Raw Data File": [
+      "TW-11.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "synaptoneurosome preparations"
+    ],
+    "Characteristics[Organism]": [
+      "human post-mortem brain tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Fresh frozen brain tissue"
+    ],
+    "Characteristics[OrganismPart]": [
+      "superior temporal gyrus (BA41/42)",
+      "primary visual cortex (BA17)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "100 mM DTT"
+    ],
+    "Characteristics[Label]": [
+      "8-plex TMT LC-MS/MS analysis",
+      "TMT8plex_Nter and TMT 8plex-Lys"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "We examined brain tissue from 33 subjects (7–10 per group)."
+    ],
+    "Comment[Instrument]": [
+      "Analysis of peptides was performed using a Q-Exactive-HF (Thermo Scientific) mass spectrometer coupled with a UltiMate 3000 RSLCnano (Thermo Scientific) UHPLC system."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data dependent mode"
+    ],
+    "Comment[Separation]": [
+      "nLC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptides fractionated using High pH RP HPLC."
+    ],
+    "Comment[NumberOfFractions]": [
+      "The total number of fractions concatenated was set to 20"
+    ],
+    "Comment[FractionIdentifier]": [
+      "11"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "linear gradient from 95% buffer A to 40% buffer B in 122 min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "FTMS- 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "ITMS- 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum missed cleavages, 2"
+    ]
+  },
+  "TW-13.raw": {
+    "Source Name": [
+      "pool_TMT8_concat20"
+    ],
+    "Assay Name": [
+      "pool_TMT8_concat20_TW-13"
+    ],
+    "Raw Data File": [
+      "TW-13.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "synaptoneurosome preparations"
+    ],
+    "Characteristics[Organism]": [
+      "human post-mortem brain tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Fresh frozen brain tissue"
+    ],
+    "Characteristics[OrganismPart]": [
+      "superior temporal gyrus (BA41/42)",
+      "primary visual cortex (BA17)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "100 mM DTT"
+    ],
+    "Characteristics[Label]": [
+      "8-plex TMT LC-MS/MS analysis",
+      "TMT8plex_Nter and TMT 8plex-Lys"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "We examined brain tissue from 33 subjects (7–10 per group)."
+    ],
+    "Comment[Instrument]": [
+      "Analysis of peptides was performed using a Q-Exactive-HF (Thermo Scientific) mass spectrometer coupled with a UltiMate 3000 RSLCnano (Thermo Scientific) UHPLC system."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data dependent mode"
+    ],
+    "Comment[Separation]": [
+      "nLC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptides fractionated using High pH RP HPLC."
+    ],
+    "Comment[NumberOfFractions]": [
+      "The total number of fractions concatenated was set to 20"
+    ],
+    "Comment[FractionIdentifier]": [
+      "13"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "linear gradient from 95% buffer A to 40% buffer B in 122 min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "FTMS- 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "ITMS- 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum missed cleavages, 2"
+    ]
+  },
+  "TW-6.raw": {
+    "Source Name": [
+      "pool_TMT8_concat20"
+    ],
+    "Assay Name": [
+      "pool_TMT8_concat20_TW-6"
+    ],
+    "Raw Data File": [
+      "TW-6.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "synaptoneurosome preparations"
+    ],
+    "Characteristics[Organism]": [
+      "human post-mortem brain tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Fresh frozen brain tissue"
+    ],
+    "Characteristics[OrganismPart]": [
+      "superior temporal gyrus (BA41/42)",
+      "primary visual cortex (BA17)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "100 mM DTT"
+    ],
+    "Characteristics[Label]": [
+      "8-plex TMT LC-MS/MS analysis",
+      "TMT8plex_Nter and TMT 8plex-Lys"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "We examined brain tissue from 33 subjects (7–10 per group)."
+    ],
+    "Comment[Instrument]": [
+      "Analysis of peptides was performed using a Q-Exactive-HF (Thermo Scientific) mass spectrometer coupled with a UltiMate 3000 RSLCnano (Thermo Scientific) UHPLC system."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data dependent mode"
+    ],
+    "Comment[Separation]": [
+      "nLC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptides fractionated using High pH RP HPLC."
+    ],
+    "Comment[NumberOfFractions]": [
+      "The total number of fractions concatenated was set to 20"
+    ],
+    "Comment[FractionIdentifier]": [
+      "6"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "linear gradient from 95% buffer A to 40% buffer B in 122 min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "FTMS- 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "ITMS- 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum missed cleavages, 2"
+    ]
+  },
+  "TW-17.raw": {
+    "Source Name": [
+      "pool_TMT8_concat20"
+    ],
+    "Assay Name": [
+      "pool_TMT8_concat20_TW-17"
+    ],
+    "Raw Data File": [
+      "TW-17.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "synaptoneurosome preparations"
+    ],
+    "Characteristics[Organism]": [
+      "human post-mortem brain tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Fresh frozen brain tissue"
+    ],
+    "Characteristics[OrganismPart]": [
+      "superior temporal gyrus (BA41/42)",
+      "primary visual cortex (BA17)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "100 mM DTT"
+    ],
+    "Characteristics[Label]": [
+      "8-plex TMT LC-MS/MS analysis",
+      "TMT8plex_Nter and TMT 8plex-Lys"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "We examined brain tissue from 33 subjects (7–10 per group)."
+    ],
+    "Comment[Instrument]": [
+      "Analysis of peptides was performed using a Q-Exactive-HF (Thermo Scientific) mass spectrometer coupled with a UltiMate 3000 RSLCnano (Thermo Scientific) UHPLC system."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data dependent mode"
+    ],
+    "Comment[Separation]": [
+      "nLC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptides fractionated using High pH RP HPLC."
+    ],
+    "Comment[NumberOfFractions]": [
+      "The total number of fractions concatenated was set to 20"
+    ],
+    "Comment[FractionIdentifier]": [
+      "17"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "linear gradient from 95% buffer A to 40% buffer B in 122 min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "FTMS- 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "ITMS- 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum missed cleavages, 2"
+    ]
+  },
+  "TW-8.raw": {
+    "Source Name": [
+      "pool_TMT8_concat20"
+    ],
+    "Assay Name": [
+      "pool_TMT8_concat20_TW-8"
+    ],
+    "Raw Data File": [
+      "TW-8.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "synaptoneurosome preparations"
+    ],
+    "Characteristics[Organism]": [
+      "human post-mortem brain tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Fresh frozen brain tissue"
+    ],
+    "Characteristics[OrganismPart]": [
+      "superior temporal gyrus (BA41/42)",
+      "primary visual cortex (BA17)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "100 mM DTT"
+    ],
+    "Characteristics[Label]": [
+      "8-plex TMT LC-MS/MS analysis",
+      "TMT8plex_Nter and TMT 8plex-Lys"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "We examined brain tissue from 33 subjects (7–10 per group)."
+    ],
+    "Comment[Instrument]": [
+      "Analysis of peptides was performed using a Q-Exactive-HF (Thermo Scientific) mass spectrometer coupled with a UltiMate 3000 RSLCnano (Thermo Scientific) UHPLC system."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data dependent mode"
+    ],
+    "Comment[Separation]": [
+      "nLC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptides fractionated using High pH RP HPLC."
+    ],
+    "Comment[NumberOfFractions]": [
+      "The total number of fractions concatenated was set to 20"
+    ],
+    "Comment[FractionIdentifier]": [
+      "8"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "linear gradient from 95% buffer A to 40% buffer B in 122 min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "FTMS- 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "ITMS- 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum missed cleavages, 2"
+    ]
+  },
+  "TW-16.raw": {
+    "Source Name": [
+      "pool_TMT8_concat20"
+    ],
+    "Assay Name": [
+      "pool_TMT8_concat20_TW-16"
+    ],
+    "Raw Data File": [
+      "TW-16.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "synaptoneurosome preparations"
+    ],
+    "Characteristics[Organism]": [
+      "human post-mortem brain tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Fresh frozen brain tissue"
+    ],
+    "Characteristics[OrganismPart]": [
+      "superior temporal gyrus (BA41/42)",
+      "primary visual cortex (BA17)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "100 mM DTT"
+    ],
+    "Characteristics[Label]": [
+      "8-plex TMT LC-MS/MS analysis",
+      "TMT8plex_Nter and TMT 8plex-Lys"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "We examined brain tissue from 33 subjects (7–10 per group)."
+    ],
+    "Comment[Instrument]": [
+      "Analysis of peptides was performed using a Q-Exactive-HF (Thermo Scientific) mass spectrometer coupled with a UltiMate 3000 RSLCnano (Thermo Scientific) UHPLC system."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data dependent mode"
+    ],
+    "Comment[Separation]": [
+      "nLC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptides fractionated using High pH RP HPLC."
+    ],
+    "Comment[NumberOfFractions]": [
+      "The total number of fractions concatenated was set to 20"
+    ],
+    "Comment[FractionIdentifier]": [
+      "16"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "linear gradient from 95% buffer A to 40% buffer B in 122 min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "FTMS- 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "ITMS- 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum missed cleavages, 2"
+    ]
+  },
+  "TW-5.raw": {
+    "Source Name": [
+      "pool_TMT8_concat20"
+    ],
+    "Assay Name": [
+      "pool_TMT8_concat20_TW-5"
+    ],
+    "Raw Data File": [
+      "TW-5.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "synaptoneurosome preparations"
+    ],
+    "Characteristics[Organism]": [
+      "human post-mortem brain tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Fresh frozen brain tissue"
+    ],
+    "Characteristics[OrganismPart]": [
+      "superior temporal gyrus (BA41/42)",
+      "primary visual cortex (BA17)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "100 mM DTT"
+    ],
+    "Characteristics[Label]": [
+      "8-plex TMT LC-MS/MS analysis",
+      "TMT8plex_Nter and TMT 8plex-Lys"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "We examined brain tissue from 33 subjects (7–10 per group)."
+    ],
+    "Comment[Instrument]": [
+      "Analysis of peptides was performed using a Q-Exactive-HF (Thermo Scientific) mass spectrometer coupled with a UltiMate 3000 RSLCnano (Thermo Scientific) UHPLC system."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data dependent mode"
+    ],
+    "Comment[Separation]": [
+      "nLC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptides fractionated using High pH RP HPLC."
+    ],
+    "Comment[NumberOfFractions]": [
+      "The total number of fractions concatenated was set to 20"
+    ],
+    "Comment[FractionIdentifier]": [
+      "5"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "linear gradient from 95% buffer A to 40% buffer B in 122 min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "FTMS- 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "ITMS- 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum missed cleavages, 2"
+    ]
+  },
+  "TW-14.raw": {
+    "Source Name": [
+      "pool_TMT8_concat20"
+    ],
+    "Assay Name": [
+      "pool_TMT8_concat20_TW-14"
+    ],
+    "Raw Data File": [
+      "TW-14.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "synaptoneurosome preparations"
+    ],
+    "Characteristics[Organism]": [
+      "human post-mortem brain tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Fresh frozen brain tissue"
+    ],
+    "Characteristics[OrganismPart]": [
+      "superior temporal gyrus (BA41/42)",
+      "primary visual cortex (BA17)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "100 mM DTT"
+    ],
+    "Characteristics[Label]": [
+      "8-plex TMT LC-MS/MS analysis",
+      "TMT8plex_Nter and TMT 8plex-Lys"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "We examined brain tissue from 33 subjects (7–10 per group)."
+    ],
+    "Comment[Instrument]": [
+      "Analysis of peptides was performed using a Q-Exactive-HF (Thermo Scientific) mass spectrometer coupled with a UltiMate 3000 RSLCnano (Thermo Scientific) UHPLC system."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data dependent mode"
+    ],
+    "Comment[Separation]": [
+      "nLC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptides fractionated using High pH RP HPLC."
+    ],
+    "Comment[NumberOfFractions]": [
+      "The total number of fractions concatenated was set to 20"
+    ],
+    "Comment[FractionIdentifier]": [
+      "14"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "linear gradient from 95% buffer A to 40% buffer B in 122 min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "FTMS- 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "ITMS- 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum missed cleavages, 2"
+    ]
+  },
+  "TW-3.raw": {
+    "Source Name": [
+      "pool_TMT8_concat20"
+    ],
+    "Assay Name": [
+      "pool_TMT8_concat20_TW-3"
+    ],
+    "Raw Data File": [
+      "TW-3.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "synaptoneurosome preparations"
+    ],
+    "Characteristics[Organism]": [
+      "human post-mortem brain tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Fresh frozen brain tissue"
+    ],
+    "Characteristics[OrganismPart]": [
+      "superior temporal gyrus (BA41/42)",
+      "primary visual cortex (BA17)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "100 mM DTT"
+    ],
+    "Characteristics[Label]": [
+      "8-plex TMT LC-MS/MS analysis",
+      "TMT8plex_Nter and TMT 8plex-Lys"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "We examined brain tissue from 33 subjects (7–10 per group)."
+    ],
+    "Comment[Instrument]": [
+      "Analysis of peptides was performed using a Q-Exactive-HF (Thermo Scientific) mass spectrometer coupled with a UltiMate 3000 RSLCnano (Thermo Scientific) UHPLC system."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data dependent mode"
+    ],
+    "Comment[Separation]": [
+      "nLC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptides fractionated using High pH RP HPLC."
+    ],
+    "Comment[NumberOfFractions]": [
+      "The total number of fractions concatenated was set to 20"
+    ],
+    "Comment[FractionIdentifier]": [
+      "3"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "linear gradient from 95% buffer A to 40% buffer B in 122 min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "FTMS- 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "ITMS- 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum missed cleavages, 2"
+    ]
+  },
+  "TW-15.raw": {
+    "Source Name": [
+      "pool_TMT8_concat20"
+    ],
+    "Assay Name": [
+      "pool_TMT8_concat20_TW-15"
+    ],
+    "Raw Data File": [
+      "TW-15.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "synaptoneurosome preparations"
+    ],
+    "Characteristics[Organism]": [
+      "human post-mortem brain tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Fresh frozen brain tissue"
+    ],
+    "Characteristics[OrganismPart]": [
+      "superior temporal gyrus (BA41/42)",
+      "primary visual cortex (BA17)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "100 mM DTT"
+    ],
+    "Characteristics[Label]": [
+      "8-plex TMT LC-MS/MS analysis",
+      "TMT8plex_Nter and TMT 8plex-Lys"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "We examined brain tissue from 33 subjects (7–10 per group)."
+    ],
+    "Comment[Instrument]": [
+      "Analysis of peptides was performed using a Q-Exactive-HF (Thermo Scientific) mass spectrometer coupled with a UltiMate 3000 RSLCnano (Thermo Scientific) UHPLC system."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data dependent mode"
+    ],
+    "Comment[Separation]": [
+      "nLC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptides fractionated using High pH RP HPLC."
+    ],
+    "Comment[NumberOfFractions]": [
+      "The total number of fractions concatenated was set to 20"
+    ],
+    "Comment[FractionIdentifier]": [
+      "15"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "linear gradient from 95% buffer A to 40% buffer B in 122 min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "FTMS- 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "ITMS- 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum missed cleavages, 2"
+    ]
+  },
+  "TW-18.raw": {
+    "Source Name": [
+      "pool_TMT8_concat20"
+    ],
+    "Assay Name": [
+      "pool_TMT8_concat20_TW-18"
+    ],
+    "Raw Data File": [
+      "TW-18.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "synaptoneurosome preparations"
+    ],
+    "Characteristics[Organism]": [
+      "human post-mortem brain tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Fresh frozen brain tissue"
+    ],
+    "Characteristics[OrganismPart]": [
+      "superior temporal gyrus (BA41/42)",
+      "primary visual cortex (BA17)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "100 mM DTT"
+    ],
+    "Characteristics[Label]": [
+      "8-plex TMT LC-MS/MS analysis",
+      "TMT8plex_Nter and TMT 8plex-Lys"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "We examined brain tissue from 33 subjects (7–10 per group)."
+    ],
+    "Comment[Instrument]": [
+      "Analysis of peptides was performed using a Q-Exactive-HF (Thermo Scientific) mass spectrometer coupled with a UltiMate 3000 RSLCnano (Thermo Scientific) UHPLC system."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data dependent mode"
+    ],
+    "Comment[Separation]": [
+      "nLC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptides fractionated using High pH RP HPLC."
+    ],
+    "Comment[NumberOfFractions]": [
+      "The total number of fractions concatenated was set to 20"
+    ],
+    "Comment[FractionIdentifier]": [
+      "18"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "linear gradient from 95% buffer A to 40% buffer B in 122 min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "FTMS- 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "ITMS- 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum missed cleavages, 2"
+    ]
+  },
+  "TW-9.raw": {
+    "Source Name": [
+      "pool_TMT8_concat20"
+    ],
+    "Assay Name": [
+      "pool_TMT8_concat20_TW-9"
+    ],
+    "Raw Data File": [
+      "TW-9.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "synaptoneurosome preparations"
+    ],
+    "Characteristics[Organism]": [
+      "human post-mortem brain tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Fresh frozen brain tissue"
+    ],
+    "Characteristics[OrganismPart]": [
+      "superior temporal gyrus (BA41/42)",
+      "primary visual cortex (BA17)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "100 mM DTT"
+    ],
+    "Characteristics[Label]": [
+      "8-plex TMT LC-MS/MS analysis",
+      "TMT8plex_Nter and TMT 8plex-Lys"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "We examined brain tissue from 33 subjects (7–10 per group)."
+    ],
+    "Comment[Instrument]": [
+      "Analysis of peptides was performed using a Q-Exactive-HF (Thermo Scientific) mass spectrometer coupled with a UltiMate 3000 RSLCnano (Thermo Scientific) UHPLC system."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data dependent mode"
+    ],
+    "Comment[Separation]": [
+      "nLC-MS/MS"
+    ],
+    "Comment[FractionationMethod]": [
+      "peptides fractionated using High pH RP HPLC."
+    ],
+    "Comment[NumberOfFractions]": [
+      "The total number of fractions concatenated was set to 20"
+    ],
+    "Comment[FractionIdentifier]": [
+      "9"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "linear gradient from 95% buffer A to 40% buffer B in 122 min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "FTMS- 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "ITMS- 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum missed cleavages, 2"
+    ]
+  }
+}

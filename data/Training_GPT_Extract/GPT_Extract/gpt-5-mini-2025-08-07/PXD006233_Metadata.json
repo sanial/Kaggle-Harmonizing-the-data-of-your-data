@@ -1,0 +1,2293 @@
+{
+  "BA21_C2_S_04.raw": {
+    "Source Name": [
+      "BA21_C2"
+    ],
+    "Assay Name": [
+      "BA21_C2_S_04"
+    ],
+    "Raw Data File": [
+      "BA21_C2_S_04.raw"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "C2"
+    ],
+    "Characteristics[Specimen]": [
+      "autopsied human brain tissues (middle temporal lobe, BA21 region)"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "middle temporal lobe, BA21 region"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing-grade-modified trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates were independently analyzed in this study for each experimental condition (soluble and particulate proteomes)."
+    ],
+    "Characteristics[MaterialType]": [
+      "soluble and particulate brain proteomes"
+    ],
+    "FactorValue[Treatment]": [
+      "healthy age-matched control (Ctrl)"
+    ],
+    "FactorValue[Experimental]": [
+      "soluble fraction"
+    ],
+    "Comment[FractionIdentifier]": [
+      "04"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Elite mass spectrometer coupled with a Dionex UltiMate 3000 UHPLC system from Thermo Fisher Scientific Inc. (Bremen, Germany)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "ultracentrifugation-electrostatic repulsion hydrophilic interaction chromatography (UC-ERLIC)-coupled mass spectrometry-based proteomics",
+      "alternating between full Fourier transform-mass spectrometry (FT-MS; 350–2000 m/z, resolution 60,000, 1 μscan per spectrum) and FT-MS/MS (150–2000 m/z, resolution 30,000, 1 μscan per spectrum) for the ten most intense ions above 500 count threshold with charge > +2"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collisional dissociation (HCD) mode"
+    ],
+    "Comment[CollisionEnergy]": [
+      "32% normalized collision energy"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[GradientTime]": [
+      "72-min gradient",
+      "60-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3 μL/min"
+    ],
+    "Comment[IonizationType]": [
+      "Michrom’s Thermo Captive Spray nanoelectrospray ion source (Bruker-Michrom Inc., Auburn, CA, USA) with 1.5 kV spray voltage."
+    ],
+    "Comment[FractionationMethod]": [
+      "Reconstituted tryptic peptides after in-solution digestion were fractionated by a PolyWAX column (4.6 × 200 mm, 3 μm, PolyLC, Columbia, MD, USA) using a Shimadzu Prominence UFLC system (Kyoto, Japan)."
+    ]
+  },
+  "BA21_D1_P_29.raw": {
+    "Source Name": [
+      "BA21_D1"
+    ],
+    "Assay Name": [
+      "BA21_D1_P_29"
+    ],
+    "Raw Data File": [
+      "BA21_D1_P_29.raw"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "D1"
+    ],
+    "Characteristics[Specimen]": [
+      "autopsied human brain tissues (middle temporal lobe, BA21 region)"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "middle temporal lobe, BA21 region"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing-grade-modified trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates were independently analyzed in this study for each experimental condition (soluble and particulate proteomes)."
+    ],
+    "Characteristics[MaterialType]": [
+      "soluble and particulate brain proteomes"
+    ],
+    "FactorValue[Treatment]": [
+      "AD + CVD"
+    ],
+    "FactorValue[Experimental]": [
+      "particulate fraction"
+    ],
+    "Comment[FractionIdentifier]": [
+      "29"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Elite mass spectrometer coupled with a Dionex UltiMate 3000 UHPLC system from Thermo Fisher Scientific Inc. (Bremen, Germany)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "ultracentrifugation-electrostatic repulsion hydrophilic interaction chromatography (UC-ERLIC)-coupled mass spectrometry-based proteomics",
+      "alternating between full Fourier transform-mass spectrometry (FT-MS; 350–2000 m/z, resolution 60,000, 1 μscan per spectrum) and FT-MS/MS (150–2000 m/z, resolution 30,000, 1 μscan per spectrum) for the ten most intense ions above 500 count threshold with charge > +2"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collisional dissociation (HCD) mode"
+    ],
+    "Comment[CollisionEnergy]": [
+      "32% normalized collision energy"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[GradientTime]": [
+      "72-min gradient",
+      "60-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3 μL/min"
+    ],
+    "Comment[IonizationType]": [
+      "Michrom’s Thermo Captive Spray nanoelectrospray ion source (Bruker-Michrom Inc., Auburn, CA, USA) with 1.5 kV spray voltage."
+    ],
+    "Comment[FractionationMethod]": [
+      "Reconstituted tryptic peptides after in-solution digestion were fractionated by a PolyWAX column (4.6 × 200 mm, 3 μm, PolyLC, Columbia, MD, USA) using a Shimadzu Prominence UFLC system (Kyoto, Japan)."
+    ]
+  },
+  "BA21_D1_S_31.raw": {
+    "Source Name": [
+      "BA21_D1"
+    ],
+    "Assay Name": [
+      "BA21_D1_S_31"
+    ],
+    "Raw Data File": [
+      "BA21_D1_S_31.raw"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "D1"
+    ],
+    "Characteristics[Specimen]": [
+      "autopsied human brain tissues (middle temporal lobe, BA21 region)"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "middle temporal lobe, BA21 region"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing-grade-modified trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates were independently analyzed in this study for each experimental condition (soluble and particulate proteomes)."
+    ],
+    "Characteristics[MaterialType]": [
+      "soluble and particulate brain proteomes"
+    ],
+    "FactorValue[Treatment]": [
+      "AD + CVD"
+    ],
+    "FactorValue[Experimental]": [
+      "soluble fraction"
+    ],
+    "Comment[FractionIdentifier]": [
+      "31"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Elite mass spectrometer coupled with a Dionex UltiMate 3000 UHPLC system from Thermo Fisher Scientific Inc. (Bremen, Germany)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "ultracentrifugation-electrostatic repulsion hydrophilic interaction chromatography (UC-ERLIC)-coupled mass spectrometry-based proteomics",
+      "alternating between full Fourier transform-mass spectrometry (FT-MS; 350–2000 m/z, resolution 60,000, 1 μscan per spectrum) and FT-MS/MS (150–2000 m/z, resolution 30,000, 1 μscan per spectrum) for the ten most intense ions above 500 count threshold with charge > +2"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collisional dissociation (HCD) mode"
+    ],
+    "Comment[CollisionEnergy]": [
+      "32% normalized collision energy"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[GradientTime]": [
+      "72-min gradient",
+      "60-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3 μL/min"
+    ],
+    "Comment[IonizationType]": [
+      "Michrom’s Thermo Captive Spray nanoelectrospray ion source (Bruker-Michrom Inc., Auburn, CA, USA) with 1.5 kV spray voltage."
+    ],
+    "Comment[FractionationMethod]": [
+      "Reconstituted tryptic peptides after in-solution digestion were fractionated by a PolyWAX column (4.6 × 200 mm, 3 μm, PolyLC, Columbia, MD, USA) using a Shimadzu Prominence UFLC system (Kyoto, Japan)."
+    ]
+  },
+  "BA21_D3_S_02.raw": {
+    "Source Name": [
+      "BA21_D3"
+    ],
+    "Assay Name": [
+      "BA21_D3_S_02"
+    ],
+    "Raw Data File": [
+      "BA21_D3_S_02.raw"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "D3"
+    ],
+    "Characteristics[Specimen]": [
+      "autopsied human brain tissues (middle temporal lobe, BA21 region)"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "middle temporal lobe, BA21 region"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing-grade-modified trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates were independently analyzed in this study for each experimental condition (soluble and particulate proteomes)."
+    ],
+    "Characteristics[MaterialType]": [
+      "soluble and particulate brain proteomes"
+    ],
+    "FactorValue[Treatment]": [
+      "AD + CVD"
+    ],
+    "FactorValue[Experimental]": [
+      "soluble fraction"
+    ],
+    "Comment[FractionIdentifier]": [
+      "02"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Elite mass spectrometer coupled with a Dionex UltiMate 3000 UHPLC system from Thermo Fisher Scientific Inc. (Bremen, Germany)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "ultracentrifugation-electrostatic repulsion hydrophilic interaction chromatography (UC-ERLIC)-coupled mass spectrometry-based proteomics",
+      "alternating between full Fourier transform-mass spectrometry (FT-MS; 350–2000 m/z, resolution 60,000, 1 μscan per spectrum) and FT-MS/MS (150–2000 m/z, resolution 30,000, 1 μscan per spectrum) for the ten most intense ions above 500 count threshold with charge > +2"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collisional dissociation (HCD) mode"
+    ],
+    "Comment[CollisionEnergy]": [
+      "32% normalized collision energy"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[GradientTime]": [
+      "72-min gradient",
+      "60-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3 μL/min"
+    ],
+    "Comment[IonizationType]": [
+      "Michrom’s Thermo Captive Spray nanoelectrospray ion source (Bruker-Michrom Inc., Auburn, CA, USA) with 1.5 kV spray voltage."
+    ],
+    "Comment[FractionationMethod]": [
+      "Reconstituted tryptic peptides after in-solution digestion were fractionated by a PolyWAX column (4.6 × 200 mm, 3 μm, PolyLC, Columbia, MD, USA) using a Shimadzu Prominence UFLC system (Kyoto, Japan)."
+    ]
+  },
+  "BA21_C3_P_24.raw": {
+    "Source Name": [
+      "BA21_C3"
+    ],
+    "Assay Name": [
+      "BA21_C3_P_24"
+    ],
+    "Raw Data File": [
+      "BA21_C3_P_24.raw"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "C3"
+    ],
+    "Characteristics[Specimen]": [
+      "autopsied human brain tissues (middle temporal lobe, BA21 region)"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "middle temporal lobe, BA21 region"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing-grade-modified trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates were independently analyzed in this study for each experimental condition (soluble and particulate proteomes)."
+    ],
+    "Characteristics[MaterialType]": [
+      "soluble and particulate brain proteomes"
+    ],
+    "FactorValue[Treatment]": [
+      "healthy age-matched control (Ctrl)"
+    ],
+    "FactorValue[Experimental]": [
+      "particulate fraction"
+    ],
+    "Comment[FractionIdentifier]": [
+      "24"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Elite mass spectrometer coupled with a Dionex UltiMate 3000 UHPLC system from Thermo Fisher Scientific Inc. (Bremen, Germany)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "ultracentrifugation-electrostatic repulsion hydrophilic interaction chromatography (UC-ERLIC)-coupled mass spectrometry-based proteomics",
+      "alternating between full Fourier transform-mass spectrometry (FT-MS; 350–2000 m/z, resolution 60,000, 1 μscan per spectrum) and FT-MS/MS (150–2000 m/z, resolution 30,000, 1 μscan per spectrum) for the ten most intense ions above 500 count threshold with charge > +2"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collisional dissociation (HCD) mode"
+    ],
+    "Comment[CollisionEnergy]": [
+      "32% normalized collision energy"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[GradientTime]": [
+      "72-min gradient",
+      "60-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3 μL/min"
+    ],
+    "Comment[IonizationType]": [
+      "Michrom’s Thermo Captive Spray nanoelectrospray ion source (Bruker-Michrom Inc., Auburn, CA, USA) with 1.5 kV spray voltage."
+    ],
+    "Comment[FractionationMethod]": [
+      "Reconstituted tryptic peptides after in-solution digestion were fractionated by a PolyWAX column (4.6 × 200 mm, 3 μm, PolyLC, Columbia, MD, USA) using a Shimadzu Prominence UFLC system (Kyoto, Japan)."
+    ]
+  },
+  "BA21_D1_P_26.raw": {
+    "Source Name": [
+      "BA21_D1"
+    ],
+    "Assay Name": [
+      "BA21_D1_P_26"
+    ],
+    "Raw Data File": [
+      "BA21_D1_P_26.raw"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "D1"
+    ],
+    "Characteristics[Specimen]": [
+      "autopsied human brain tissues (middle temporal lobe, BA21 region)"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "middle temporal lobe, BA21 region"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing-grade-modified trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates were independently analyzed in this study for each experimental condition (soluble and particulate proteomes)."
+    ],
+    "Characteristics[MaterialType]": [
+      "soluble and particulate brain proteomes"
+    ],
+    "FactorValue[Treatment]": [
+      "AD + CVD"
+    ],
+    "FactorValue[Experimental]": [
+      "particulate fraction"
+    ],
+    "Comment[FractionIdentifier]": [
+      "26"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Elite mass spectrometer coupled with a Dionex UltiMate 3000 UHPLC system from Thermo Fisher Scientific Inc. (Bremen, Germany)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "ultracentrifugation-electrostatic repulsion hydrophilic interaction chromatography (UC-ERLIC)-coupled mass spectrometry-based proteomics",
+      "alternating between full Fourier transform-mass spectrometry (FT-MS; 350–2000 m/z, resolution 60,000, 1 μscan per spectrum) and FT-MS/MS (150–2000 m/z, resolution 30,000, 1 μscan per spectrum) for the ten most intense ions above 500 count threshold with charge > +2"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collisional dissociation (HCD) mode"
+    ],
+    "Comment[CollisionEnergy]": [
+      "32% normalized collision energy"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[GradientTime]": [
+      "72-min gradient",
+      "60-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3 μL/min"
+    ],
+    "Comment[IonizationType]": [
+      "Michrom’s Thermo Captive Spray nanoelectrospray ion source (Bruker-Michrom Inc., Auburn, CA, USA) with 1.5 kV spray voltage."
+    ],
+    "Comment[FractionationMethod]": [
+      "Reconstituted tryptic peptides after in-solution digestion were fractionated by a PolyWAX column (4.6 × 200 mm, 3 μm, PolyLC, Columbia, MD, USA) using a Shimadzu Prominence UFLC system (Kyoto, Japan)."
+    ]
+  },
+  "BA21_D2_P_28.raw": {
+    "Source Name": [
+      "BA21_D2"
+    ],
+    "Assay Name": [
+      "BA21_D2_P_28"
+    ],
+    "Raw Data File": [
+      "BA21_D2_P_28.raw"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "D2"
+    ],
+    "Characteristics[Specimen]": [
+      "autopsied human brain tissues (middle temporal lobe, BA21 region)"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "middle temporal lobe, BA21 region"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing-grade-modified trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates were independently analyzed in this study for each experimental condition (soluble and particulate proteomes)."
+    ],
+    "Characteristics[MaterialType]": [
+      "soluble and particulate brain proteomes"
+    ],
+    "FactorValue[Treatment]": [
+      "AD + CVD"
+    ],
+    "FactorValue[Experimental]": [
+      "particulate fraction"
+    ],
+    "Comment[FractionIdentifier]": [
+      "28"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Elite mass spectrometer coupled with a Dionex UltiMate 3000 UHPLC system from Thermo Fisher Scientific Inc. (Bremen, Germany)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "ultracentrifugation-electrostatic repulsion hydrophilic interaction chromatography (UC-ERLIC)-coupled mass spectrometry-based proteomics",
+      "alternating between full Fourier transform-mass spectrometry (FT-MS; 350–2000 m/z, resolution 60,000, 1 μscan per spectrum) and FT-MS/MS (150–2000 m/z, resolution 30,000, 1 μscan per spectrum) for the ten most intense ions above 500 count threshold with charge > +2"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collisional dissociation (HCD) mode"
+    ],
+    "Comment[CollisionEnergy]": [
+      "32% normalized collision energy"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[GradientTime]": [
+      "72-min gradient",
+      "60-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3 μL/min"
+    ],
+    "Comment[IonizationType]": [
+      "Michrom’s Thermo Captive Spray nanoelectrospray ion source (Bruker-Michrom Inc., Auburn, CA, USA) with 1.5 kV spray voltage."
+    ],
+    "Comment[FractionationMethod]": [
+      "Reconstituted tryptic peptides after in-solution digestion were fractionated by a PolyWAX column (4.6 × 200 mm, 3 μm, PolyLC, Columbia, MD, USA) using a Shimadzu Prominence UFLC system (Kyoto, Japan)."
+    ]
+  },
+  "BA21_C1_P_07.raw": {
+    "Source Name": [
+      "BA21_C1"
+    ],
+    "Assay Name": [
+      "BA21_C1_P_07"
+    ],
+    "Raw Data File": [
+      "BA21_C1_P_07.raw"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "C1"
+    ],
+    "Characteristics[Specimen]": [
+      "autopsied human brain tissues (middle temporal lobe, BA21 region)"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "middle temporal lobe, BA21 region"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing-grade-modified trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates were independently analyzed in this study for each experimental condition (soluble and particulate proteomes)."
+    ],
+    "Characteristics[MaterialType]": [
+      "soluble and particulate brain proteomes"
+    ],
+    "FactorValue[Treatment]": [
+      "healthy age-matched control (Ctrl)"
+    ],
+    "FactorValue[Experimental]": [
+      "particulate fraction"
+    ],
+    "Comment[FractionIdentifier]": [
+      "07"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Elite mass spectrometer coupled with a Dionex UltiMate 3000 UHPLC system from Thermo Fisher Scientific Inc. (Bremen, Germany)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "ultracentrifugation-electrostatic repulsion hydrophilic interaction chromatography (UC-ERLIC)-coupled mass spectrometry-based proteomics",
+      "alternating between full Fourier transform-mass spectrometry (FT-MS; 350–2000 m/z, resolution 60,000, 1 μscan per spectrum) and FT-MS/MS (150–2000 m/z, resolution 30,000, 1 μscan per spectrum) for the ten most intense ions above 500 count threshold with charge > +2"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collisional dissociation (HCD) mode"
+    ],
+    "Comment[CollisionEnergy]": [
+      "32% normalized collision energy"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[GradientTime]": [
+      "72-min gradient",
+      "60-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3 μL/min"
+    ],
+    "Comment[IonizationType]": [
+      "Michrom’s Thermo Captive Spray nanoelectrospray ion source (Bruker-Michrom Inc., Auburn, CA, USA) with 1.5 kV spray voltage."
+    ],
+    "Comment[FractionationMethod]": [
+      "Reconstituted tryptic peptides after in-solution digestion were fractionated by a PolyWAX column (4.6 × 200 mm, 3 μm, PolyLC, Columbia, MD, USA) using a Shimadzu Prominence UFLC system (Kyoto, Japan)."
+    ]
+  },
+  "BA21_D1_P_23.raw": {
+    "Source Name": [
+      "BA21_D1"
+    ],
+    "Assay Name": [
+      "BA21_D1_P_23"
+    ],
+    "Raw Data File": [
+      "BA21_D1_P_23.raw"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "D1"
+    ],
+    "Characteristics[Specimen]": [
+      "autopsied human brain tissues (middle temporal lobe, BA21 region)"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "middle temporal lobe, BA21 region"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing-grade-modified trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates were independently analyzed in this study for each experimental condition (soluble and particulate proteomes)."
+    ],
+    "Characteristics[MaterialType]": [
+      "soluble and particulate brain proteomes"
+    ],
+    "FactorValue[Treatment]": [
+      "AD + CVD"
+    ],
+    "FactorValue[Experimental]": [
+      "particulate fraction"
+    ],
+    "Comment[FractionIdentifier]": [
+      "23"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Elite mass spectrometer coupled with a Dionex UltiMate 3000 UHPLC system from Thermo Fisher Scientific Inc. (Bremen, Germany)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "ultracentrifugation-electrostatic repulsion hydrophilic interaction chromatography (UC-ERLIC)-coupled mass spectrometry-based proteomics",
+      "alternating between full Fourier transform-mass spectrometry (FT-MS; 350–2000 m/z, resolution 60,000, 1 μscan per spectrum) and FT-MS/MS (150–2000 m/z, resolution 30,000, 1 μscan per spectrum) for the ten most intense ions above 500 count threshold with charge > +2"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collisional dissociation (HCD) mode"
+    ],
+    "Comment[CollisionEnergy]": [
+      "32% normalized collision energy"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[GradientTime]": [
+      "72-min gradient",
+      "60-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3 μL/min"
+    ],
+    "Comment[IonizationType]": [
+      "Michrom’s Thermo Captive Spray nanoelectrospray ion source (Bruker-Michrom Inc., Auburn, CA, USA) with 1.5 kV spray voltage."
+    ],
+    "Comment[FractionationMethod]": [
+      "Reconstituted tryptic peptides after in-solution digestion were fractionated by a PolyWAX column (4.6 × 200 mm, 3 μm, PolyLC, Columbia, MD, USA) using a Shimadzu Prominence UFLC system (Kyoto, Japan)."
+    ]
+  },
+  "BA21_D2_S_24.raw": {
+    "Source Name": [
+      "BA21_D2"
+    ],
+    "Assay Name": [
+      "BA21_D2_S_24"
+    ],
+    "Raw Data File": [
+      "BA21_D2_S_24.raw"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "D2"
+    ],
+    "Characteristics[Specimen]": [
+      "autopsied human brain tissues (middle temporal lobe, BA21 region)"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "middle temporal lobe, BA21 region"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing-grade-modified trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates were independently analyzed in this study for each experimental condition (soluble and particulate proteomes)."
+    ],
+    "Characteristics[MaterialType]": [
+      "soluble and particulate brain proteomes"
+    ],
+    "FactorValue[Treatment]": [
+      "AD + CVD"
+    ],
+    "FactorValue[Experimental]": [
+      "soluble fraction"
+    ],
+    "Comment[FractionIdentifier]": [
+      "24"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Elite mass spectrometer coupled with a Dionex UltiMate 3000 UHPLC system from Thermo Fisher Scientific Inc. (Bremen, Germany)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "ultracentrifugation-electrostatic repulsion hydrophilic interaction chromatography (UC-ERLIC)-coupled mass spectrometry-based proteomics",
+      "alternating between full Fourier transform-mass spectrometry (FT-MS; 350–2000 m/z, resolution 60,000, 1 μscan per spectrum) and FT-MS/MS (150–2000 m/z, resolution 30,000, 1 μscan per spectrum) for the ten most intense ions above 500 count threshold with charge > +2"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collisional dissociation (HCD) mode"
+    ],
+    "Comment[CollisionEnergy]": [
+      "32% normalized collision energy"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[GradientTime]": [
+      "72-min gradient",
+      "60-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3 μL/min"
+    ],
+    "Comment[IonizationType]": [
+      "Michrom’s Thermo Captive Spray nanoelectrospray ion source (Bruker-Michrom Inc., Auburn, CA, USA) with 1.5 kV spray voltage."
+    ],
+    "Comment[FractionationMethod]": [
+      "Reconstituted tryptic peptides after in-solution digestion were fractionated by a PolyWAX column (4.6 × 200 mm, 3 μm, PolyLC, Columbia, MD, USA) using a Shimadzu Prominence UFLC system (Kyoto, Japan)."
+    ]
+  },
+  "BA21_C1_S_06.raw": {
+    "Source Name": [
+      "BA21_C1"
+    ],
+    "Assay Name": [
+      "BA21_C1_S_06"
+    ],
+    "Raw Data File": [
+      "BA21_C1_S_06.raw"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "C1"
+    ],
+    "Characteristics[Specimen]": [
+      "autopsied human brain tissues (middle temporal lobe, BA21 region)"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "middle temporal lobe, BA21 region"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing-grade-modified trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates were independently analyzed in this study for each experimental condition (soluble and particulate proteomes)."
+    ],
+    "Characteristics[MaterialType]": [
+      "soluble and particulate brain proteomes"
+    ],
+    "FactorValue[Treatment]": [
+      "healthy age-matched control (Ctrl)"
+    ],
+    "FactorValue[Experimental]": [
+      "soluble fraction"
+    ],
+    "Comment[FractionIdentifier]": [
+      "06"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Elite mass spectrometer coupled with a Dionex UltiMate 3000 UHPLC system from Thermo Fisher Scientific Inc. (Bremen, Germany)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "ultracentrifugation-electrostatic repulsion hydrophilic interaction chromatography (UC-ERLIC)-coupled mass spectrometry-based proteomics",
+      "alternating between full Fourier transform-mass spectrometry (FT-MS; 350–2000 m/z, resolution 60,000, 1 μscan per spectrum) and FT-MS/MS (150–2000 m/z, resolution 30,000, 1 μscan per spectrum) for the ten most intense ions above 500 count threshold with charge > +2"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collisional dissociation (HCD) mode"
+    ],
+    "Comment[CollisionEnergy]": [
+      "32% normalized collision energy"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[GradientTime]": [
+      "72-min gradient",
+      "60-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3 μL/min"
+    ],
+    "Comment[IonizationType]": [
+      "Michrom’s Thermo Captive Spray nanoelectrospray ion source (Bruker-Michrom Inc., Auburn, CA, USA) with 1.5 kV spray voltage."
+    ],
+    "Comment[FractionationMethod]": [
+      "Reconstituted tryptic peptides after in-solution digestion were fractionated by a PolyWAX column (4.6 × 200 mm, 3 μm, PolyLC, Columbia, MD, USA) using a Shimadzu Prominence UFLC system (Kyoto, Japan)."
+    ]
+  },
+  "BA21_C3_S_20.raw": {
+    "Source Name": [
+      "BA21_C3"
+    ],
+    "Assay Name": [
+      "BA21_C3_S_20"
+    ],
+    "Raw Data File": [
+      "BA21_C3_S_20.raw"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "C3"
+    ],
+    "Characteristics[Specimen]": [
+      "autopsied human brain tissues (middle temporal lobe, BA21 region)"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "middle temporal lobe, BA21 region"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing-grade-modified trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates were independently analyzed in this study for each experimental condition (soluble and particulate proteomes)."
+    ],
+    "Characteristics[MaterialType]": [
+      "soluble and particulate brain proteomes"
+    ],
+    "FactorValue[Treatment]": [
+      "healthy age-matched control (Ctrl)"
+    ],
+    "FactorValue[Experimental]": [
+      "soluble fraction"
+    ],
+    "Comment[FractionIdentifier]": [
+      "20"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Elite mass spectrometer coupled with a Dionex UltiMate 3000 UHPLC system from Thermo Fisher Scientific Inc. (Bremen, Germany)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "ultracentrifugation-electrostatic repulsion hydrophilic interaction chromatography (UC-ERLIC)-coupled mass spectrometry-based proteomics",
+      "alternating between full Fourier transform-mass spectrometry (FT-MS; 350–2000 m/z, resolution 60,000, 1 μscan per spectrum) and FT-MS/MS (150–2000 m/z, resolution 30,000, 1 μscan per spectrum) for the ten most intense ions above 500 count threshold with charge > +2"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collisional dissociation (HCD) mode"
+    ],
+    "Comment[CollisionEnergy]": [
+      "32% normalized collision energy"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[GradientTime]": [
+      "72-min gradient",
+      "60-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3 μL/min"
+    ],
+    "Comment[IonizationType]": [
+      "Michrom’s Thermo Captive Spray nanoelectrospray ion source (Bruker-Michrom Inc., Auburn, CA, USA) with 1.5 kV spray voltage."
+    ],
+    "Comment[FractionationMethod]": [
+      "Reconstituted tryptic peptides after in-solution digestion were fractionated by a PolyWAX column (4.6 × 200 mm, 3 μm, PolyLC, Columbia, MD, USA) using a Shimadzu Prominence UFLC system (Kyoto, Japan)."
+    ]
+  },
+  "BA21_D1_P_21.raw": {
+    "Source Name": [
+      "BA21_D1"
+    ],
+    "Assay Name": [
+      "BA21_D1_P_21"
+    ],
+    "Raw Data File": [
+      "BA21_D1_P_21.raw"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "D1"
+    ],
+    "Characteristics[Specimen]": [
+      "autopsied human brain tissues (middle temporal lobe, BA21 region)"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "middle temporal lobe, BA21 region"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing-grade-modified trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates were independently analyzed in this study for each experimental condition (soluble and particulate proteomes)."
+    ],
+    "Characteristics[MaterialType]": [
+      "soluble and particulate brain proteomes"
+    ],
+    "FactorValue[Treatment]": [
+      "AD + CVD"
+    ],
+    "FactorValue[Experimental]": [
+      "particulate fraction"
+    ],
+    "Comment[FractionIdentifier]": [
+      "21"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Elite mass spectrometer coupled with a Dionex UltiMate 3000 UHPLC system from Thermo Fisher Scientific Inc. (Bremen, Germany)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "ultracentrifugation-electrostatic repulsion hydrophilic interaction chromatography (UC-ERLIC)-coupled mass spectrometry-based proteomics",
+      "alternating between full Fourier transform-mass spectrometry (FT-MS; 350–2000 m/z, resolution 60,000, 1 μscan per spectrum) and FT-MS/MS (150–2000 m/z, resolution 30,000, 1 μscan per spectrum) for the ten most intense ions above 500 count threshold with charge > +2"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collisional dissociation (HCD) mode"
+    ],
+    "Comment[CollisionEnergy]": [
+      "32% normalized collision energy"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[GradientTime]": [
+      "72-min gradient",
+      "60-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3 μL/min"
+    ],
+    "Comment[IonizationType]": [
+      "Michrom’s Thermo Captive Spray nanoelectrospray ion source (Bruker-Michrom Inc., Auburn, CA, USA) with 1.5 kV spray voltage."
+    ],
+    "Comment[FractionationMethod]": [
+      "Reconstituted tryptic peptides after in-solution digestion were fractionated by a PolyWAX column (4.6 × 200 mm, 3 μm, PolyLC, Columbia, MD, USA) using a Shimadzu Prominence UFLC system (Kyoto, Japan)."
+    ]
+  },
+  "BA21_C3_P_05.raw": {
+    "Source Name": [
+      "BA21_C3"
+    ],
+    "Assay Name": [
+      "BA21_C3_P_05"
+    ],
+    "Raw Data File": [
+      "BA21_C3_P_05.raw"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "C3"
+    ],
+    "Characteristics[Specimen]": [
+      "autopsied human brain tissues (middle temporal lobe, BA21 region)"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "middle temporal lobe, BA21 region"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing-grade-modified trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates were independently analyzed in this study for each experimental condition (soluble and particulate proteomes)."
+    ],
+    "Characteristics[MaterialType]": [
+      "soluble and particulate brain proteomes"
+    ],
+    "FactorValue[Treatment]": [
+      "healthy age-matched control (Ctrl)"
+    ],
+    "FactorValue[Experimental]": [
+      "particulate fraction"
+    ],
+    "Comment[FractionIdentifier]": [
+      "05"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Elite mass spectrometer coupled with a Dionex UltiMate 3000 UHPLC system from Thermo Fisher Scientific Inc. (Bremen, Germany)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "ultracentrifugation-electrostatic repulsion hydrophilic interaction chromatography (UC-ERLIC)-coupled mass spectrometry-based proteomics",
+      "alternating between full Fourier transform-mass spectrometry (FT-MS; 350–2000 m/z, resolution 60,000, 1 μscan per spectrum) and FT-MS/MS (150–2000 m/z, resolution 30,000, 1 μscan per spectrum) for the ten most intense ions above 500 count threshold with charge > +2"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collisional dissociation (HCD) mode"
+    ],
+    "Comment[CollisionEnergy]": [
+      "32% normalized collision energy"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[GradientTime]": [
+      "72-min gradient",
+      "60-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3 μL/min"
+    ],
+    "Comment[IonizationType]": [
+      "Michrom’s Thermo Captive Spray nanoelectrospray ion source (Bruker-Michrom Inc., Auburn, CA, USA) with 1.5 kV spray voltage."
+    ],
+    "Comment[FractionationMethod]": [
+      "Reconstituted tryptic peptides after in-solution digestion were fractionated by a PolyWAX column (4.6 × 200 mm, 3 μm, PolyLC, Columbia, MD, USA) using a Shimadzu Prominence UFLC system (Kyoto, Japan)."
+    ]
+  },
+  "BA21_C3_P_27.raw": {
+    "Source Name": [
+      "BA21_C3"
+    ],
+    "Assay Name": [
+      "BA21_C3_P_27"
+    ],
+    "Raw Data File": [
+      "BA21_C3_P_27.raw"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "C3"
+    ],
+    "Characteristics[Specimen]": [
+      "autopsied human brain tissues (middle temporal lobe, BA21 region)"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "middle temporal lobe, BA21 region"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing-grade-modified trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates were independently analyzed in this study for each experimental condition (soluble and particulate proteomes)."
+    ],
+    "Characteristics[MaterialType]": [
+      "soluble and particulate brain proteomes"
+    ],
+    "FactorValue[Treatment]": [
+      "healthy age-matched control (Ctrl)"
+    ],
+    "FactorValue[Experimental]": [
+      "particulate fraction"
+    ],
+    "Comment[FractionIdentifier]": [
+      "27"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Elite mass spectrometer coupled with a Dionex UltiMate 3000 UHPLC system from Thermo Fisher Scientific Inc. (Bremen, Germany)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "ultracentrifugation-electrostatic repulsion hydrophilic interaction chromatography (UC-ERLIC)-coupled mass spectrometry-based proteomics",
+      "alternating between full Fourier transform-mass spectrometry (FT-MS; 350–2000 m/z, resolution 60,000, 1 μscan per spectrum) and FT-MS/MS (150–2000 m/z, resolution 30,000, 1 μscan per spectrum) for the ten most intense ions above 500 count threshold with charge > +2"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collisional dissociation (HCD) mode"
+    ],
+    "Comment[CollisionEnergy]": [
+      "32% normalized collision energy"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[GradientTime]": [
+      "72-min gradient",
+      "60-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3 μL/min"
+    ],
+    "Comment[IonizationType]": [
+      "Michrom’s Thermo Captive Spray nanoelectrospray ion source (Bruker-Michrom Inc., Auburn, CA, USA) with 1.5 kV spray voltage."
+    ],
+    "Comment[FractionationMethod]": [
+      "Reconstituted tryptic peptides after in-solution digestion were fractionated by a PolyWAX column (4.6 × 200 mm, 3 μm, PolyLC, Columbia, MD, USA) using a Shimadzu Prominence UFLC system (Kyoto, Japan)."
+    ]
+  },
+  "BA21_D1_S_19.raw": {
+    "Source Name": [
+      "BA21_D1"
+    ],
+    "Assay Name": [
+      "BA21_D1_S_19"
+    ],
+    "Raw Data File": [
+      "BA21_D1_S_19.raw"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "D1"
+    ],
+    "Characteristics[Specimen]": [
+      "autopsied human brain tissues (middle temporal lobe, BA21 region)"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "middle temporal lobe, BA21 region"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing-grade-modified trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates were independently analyzed in this study for each experimental condition (soluble and particulate proteomes)."
+    ],
+    "Characteristics[MaterialType]": [
+      "soluble and particulate brain proteomes"
+    ],
+    "FactorValue[Treatment]": [
+      "AD + CVD"
+    ],
+    "FactorValue[Experimental]": [
+      "soluble fraction"
+    ],
+    "Comment[FractionIdentifier]": [
+      "19"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Elite mass spectrometer coupled with a Dionex UltiMate 3000 UHPLC system from Thermo Fisher Scientific Inc. (Bremen, Germany)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "ultracentrifugation-electrostatic repulsion hydrophilic interaction chromatography (UC-ERLIC)-coupled mass spectrometry-based proteomics",
+      "alternating between full Fourier transform-mass spectrometry (FT-MS; 350–2000 m/z, resolution 60,000, 1 μscan per spectrum) and FT-MS/MS (150–2000 m/z, resolution 30,000, 1 μscan per spectrum) for the ten most intense ions above 500 count threshold with charge > +2"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collisional dissociation (HCD) mode"
+    ],
+    "Comment[CollisionEnergy]": [
+      "32% normalized collision energy"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[GradientTime]": [
+      "72-min gradient",
+      "60-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3 μL/min"
+    ],
+    "Comment[IonizationType]": [
+      "Michrom’s Thermo Captive Spray nanoelectrospray ion source (Bruker-Michrom Inc., Auburn, CA, USA) with 1.5 kV spray voltage."
+    ],
+    "Comment[FractionationMethod]": [
+      "Reconstituted tryptic peptides after in-solution digestion were fractionated by a PolyWAX column (4.6 × 200 mm, 3 μm, PolyLC, Columbia, MD, USA) using a Shimadzu Prominence UFLC system (Kyoto, Japan)."
+    ]
+  },
+  "BA21_C1_S_26.raw": {
+    "Source Name": [
+      "BA21_C1"
+    ],
+    "Assay Name": [
+      "BA21_C1_S_26"
+    ],
+    "Raw Data File": [
+      "BA21_C1_S_26.raw"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "C1"
+    ],
+    "Characteristics[Specimen]": [
+      "autopsied human brain tissues (middle temporal lobe, BA21 region)"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "middle temporal lobe, BA21 region"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing-grade-modified trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates were independently analyzed in this study for each experimental condition (soluble and particulate proteomes)."
+    ],
+    "Characteristics[MaterialType]": [
+      "soluble and particulate brain proteomes"
+    ],
+    "FactorValue[Treatment]": [
+      "healthy age-matched control (Ctrl)"
+    ],
+    "FactorValue[Experimental]": [
+      "soluble fraction"
+    ],
+    "Comment[FractionIdentifier]": [
+      "26"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Elite mass spectrometer coupled with a Dionex UltiMate 3000 UHPLC system from Thermo Fisher Scientific Inc. (Bremen, Germany)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "ultracentrifugation-electrostatic repulsion hydrophilic interaction chromatography (UC-ERLIC)-coupled mass spectrometry-based proteomics",
+      "alternating between full Fourier transform-mass spectrometry (FT-MS; 350–2000 m/z, resolution 60,000, 1 μscan per spectrum) and FT-MS/MS (150–2000 m/z, resolution 30,000, 1 μscan per spectrum) for the ten most intense ions above 500 count threshold with charge > +2"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collisional dissociation (HCD) mode"
+    ],
+    "Comment[CollisionEnergy]": [
+      "32% normalized collision energy"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[GradientTime]": [
+      "72-min gradient",
+      "60-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3 μL/min"
+    ],
+    "Comment[IonizationType]": [
+      "Michrom’s Thermo Captive Spray nanoelectrospray ion source (Bruker-Michrom Inc., Auburn, CA, USA) with 1.5 kV spray voltage."
+    ],
+    "Comment[FractionationMethod]": [
+      "Reconstituted tryptic peptides after in-solution digestion were fractionated by a PolyWAX column (4.6 × 200 mm, 3 μm, PolyLC, Columbia, MD, USA) using a Shimadzu Prominence UFLC system (Kyoto, Japan)."
+    ]
+  },
+  "BA21_C3_P_12.raw": {
+    "Source Name": [
+      "BA21_C3"
+    ],
+    "Assay Name": [
+      "BA21_C3_P_12"
+    ],
+    "Raw Data File": [
+      "BA21_C3_P_12.raw"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "C3"
+    ],
+    "Characteristics[Specimen]": [
+      "autopsied human brain tissues (middle temporal lobe, BA21 region)"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "middle temporal lobe, BA21 region"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing-grade-modified trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates were independently analyzed in this study for each experimental condition (soluble and particulate proteomes)."
+    ],
+    "Characteristics[MaterialType]": [
+      "soluble and particulate brain proteomes"
+    ],
+    "FactorValue[Treatment]": [
+      "healthy age-matched control (Ctrl)"
+    ],
+    "FactorValue[Experimental]": [
+      "particulate fraction"
+    ],
+    "Comment[FractionIdentifier]": [
+      "12"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Elite mass spectrometer coupled with a Dionex UltiMate 3000 UHPLC system from Thermo Fisher Scientific Inc. (Bremen, Germany)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "ultracentrifugation-electrostatic repulsion hydrophilic interaction chromatography (UC-ERLIC)-coupled mass spectrometry-based proteomics",
+      "alternating between full Fourier transform-mass spectrometry (FT-MS; 350–2000 m/z, resolution 60,000, 1 μscan per spectrum) and FT-MS/MS (150–2000 m/z, resolution 30,000, 1 μscan per spectrum) for the ten most intense ions above 500 count threshold with charge > +2"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collisional dissociation (HCD) mode"
+    ],
+    "Comment[CollisionEnergy]": [
+      "32% normalized collision energy"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[GradientTime]": [
+      "72-min gradient",
+      "60-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3 μL/min"
+    ],
+    "Comment[IonizationType]": [
+      "Michrom’s Thermo Captive Spray nanoelectrospray ion source (Bruker-Michrom Inc., Auburn, CA, USA) with 1.5 kV spray voltage."
+    ],
+    "Comment[FractionationMethod]": [
+      "Reconstituted tryptic peptides after in-solution digestion were fractionated by a PolyWAX column (4.6 × 200 mm, 3 μm, PolyLC, Columbia, MD, USA) using a Shimadzu Prominence UFLC system (Kyoto, Japan)."
+    ]
+  },
+  "BA21_D2_S_27.raw": {
+    "Source Name": [
+      "BA21_D2"
+    ],
+    "Assay Name": [
+      "BA21_D2_S_27"
+    ],
+    "Raw Data File": [
+      "BA21_D2_S_27.raw"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "D2"
+    ],
+    "Characteristics[Specimen]": [
+      "autopsied human brain tissues (middle temporal lobe, BA21 region)"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "middle temporal lobe, BA21 region"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing-grade-modified trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates were independently analyzed in this study for each experimental condition (soluble and particulate proteomes)."
+    ],
+    "Characteristics[MaterialType]": [
+      "soluble and particulate brain proteomes"
+    ],
+    "FactorValue[Treatment]": [
+      "AD + CVD"
+    ],
+    "FactorValue[Experimental]": [
+      "soluble fraction"
+    ],
+    "Comment[FractionIdentifier]": [
+      "27"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Elite mass spectrometer coupled with a Dionex UltiMate 3000 UHPLC system from Thermo Fisher Scientific Inc. (Bremen, Germany)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "ultracentrifugation-electrostatic repulsion hydrophilic interaction chromatography (UC-ERLIC)-coupled mass spectrometry-based proteomics",
+      "alternating between full Fourier transform-mass spectrometry (FT-MS; 350–2000 m/z, resolution 60,000, 1 μscan per spectrum) and FT-MS/MS (150–2000 m/z, resolution 30,000, 1 μscan per spectrum) for the ten most intense ions above 500 count threshold with charge > +2"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collisional dissociation (HCD) mode"
+    ],
+    "Comment[CollisionEnergy]": [
+      "32% normalized collision energy"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[GradientTime]": [
+      "72-min gradient",
+      "60-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3 μL/min"
+    ],
+    "Comment[IonizationType]": [
+      "Michrom’s Thermo Captive Spray nanoelectrospray ion source (Bruker-Michrom Inc., Auburn, CA, USA) with 1.5 kV spray voltage."
+    ],
+    "Comment[FractionationMethod]": [
+      "Reconstituted tryptic peptides after in-solution digestion were fractionated by a PolyWAX column (4.6 × 200 mm, 3 μm, PolyLC, Columbia, MD, USA) using a Shimadzu Prominence UFLC system (Kyoto, Japan)."
+    ]
+  },
+  "BA21_D3_S_08.raw": {
+    "Source Name": [
+      "BA21_D3"
+    ],
+    "Assay Name": [
+      "BA21_D3_S_08"
+    ],
+    "Raw Data File": [
+      "BA21_D3_S_08.raw"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "D3"
+    ],
+    "Characteristics[Specimen]": [
+      "autopsied human brain tissues (middle temporal lobe, BA21 region)"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "middle temporal lobe, BA21 region"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing-grade-modified trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates were independently analyzed in this study for each experimental condition (soluble and particulate proteomes)."
+    ],
+    "Characteristics[MaterialType]": [
+      "soluble and particulate brain proteomes"
+    ],
+    "FactorValue[Treatment]": [
+      "AD + CVD"
+    ],
+    "FactorValue[Experimental]": [
+      "soluble fraction"
+    ],
+    "Comment[FractionIdentifier]": [
+      "08"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Elite mass spectrometer coupled with a Dionex UltiMate 3000 UHPLC system from Thermo Fisher Scientific Inc. (Bremen, Germany)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "ultracentrifugation-electrostatic repulsion hydrophilic interaction chromatography (UC-ERLIC)-coupled mass spectrometry-based proteomics",
+      "alternating between full Fourier transform-mass spectrometry (FT-MS; 350–2000 m/z, resolution 60,000, 1 μscan per spectrum) and FT-MS/MS (150–2000 m/z, resolution 30,000, 1 μscan per spectrum) for the ten most intense ions above 500 count threshold with charge > +2"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collisional dissociation (HCD) mode"
+    ],
+    "Comment[CollisionEnergy]": [
+      "32% normalized collision energy"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[GradientTime]": [
+      "72-min gradient",
+      "60-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3 μL/min"
+    ],
+    "Comment[IonizationType]": [
+      "Michrom’s Thermo Captive Spray nanoelectrospray ion source (Bruker-Michrom Inc., Auburn, CA, USA) with 1.5 kV spray voltage."
+    ],
+    "Comment[FractionationMethod]": [
+      "Reconstituted tryptic peptides after in-solution digestion were fractionated by a PolyWAX column (4.6 × 200 mm, 3 μm, PolyLC, Columbia, MD, USA) using a Shimadzu Prominence UFLC system (Kyoto, Japan)."
+    ]
+  },
+  "BA21_C3_P_14.raw": {
+    "Source Name": [
+      "BA21_C3"
+    ],
+    "Assay Name": [
+      "BA21_C3_P_14"
+    ],
+    "Raw Data File": [
+      "BA21_C3_P_14.raw"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "C3"
+    ],
+    "Characteristics[Specimen]": [
+      "autopsied human brain tissues (middle temporal lobe, BA21 region)"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "middle temporal lobe, BA21 region"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing-grade-modified trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates were independently analyzed in this study for each experimental condition (soluble and particulate proteomes)."
+    ],
+    "Characteristics[MaterialType]": [
+      "soluble and particulate brain proteomes"
+    ],
+    "FactorValue[Treatment]": [
+      "healthy age-matched control (Ctrl)"
+    ],
+    "FactorValue[Experimental]": [
+      "particulate fraction"
+    ],
+    "Comment[FractionIdentifier]": [
+      "14"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Elite mass spectrometer coupled with a Dionex UltiMate 3000 UHPLC system from Thermo Fisher Scientific Inc. (Bremen, Germany)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "ultracentrifugation-electrostatic repulsion hydrophilic interaction chromatography (UC-ERLIC)-coupled mass spectrometry-based proteomics",
+      "alternating between full Fourier transform-mass spectrometry (FT-MS; 350–2000 m/z, resolution 60,000, 1 μscan per spectrum) and FT-MS/MS (150–2000 m/z, resolution 30,000, 1 μscan per spectrum) for the ten most intense ions above 500 count threshold with charge > +2"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collisional dissociation (HCD) mode"
+    ],
+    "Comment[CollisionEnergy]": [
+      "32% normalized collision energy"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[GradientTime]": [
+      "72-min gradient",
+      "60-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3 μL/min"
+    ],
+    "Comment[IonizationType]": [
+      "Michrom’s Thermo Captive Spray nanoelectrospray ion source (Bruker-Michrom Inc., Auburn, CA, USA) with 1.5 kV spray voltage."
+    ],
+    "Comment[FractionationMethod]": [
+      "Reconstituted tryptic peptides after in-solution digestion were fractionated by a PolyWAX column (4.6 × 200 mm, 3 μm, PolyLC, Columbia, MD, USA) using a Shimadzu Prominence UFLC system (Kyoto, Japan)."
+    ]
+  },
+  "BA21_D1_S_28.raw": {
+    "Source Name": [
+      "BA21_D1"
+    ],
+    "Assay Name": [
+      "BA21_D1_S_28"
+    ],
+    "Raw Data File": [
+      "BA21_D1_S_28.raw"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "D1"
+    ],
+    "Characteristics[Specimen]": [
+      "autopsied human brain tissues (middle temporal lobe, BA21 region)"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "middle temporal lobe, BA21 region"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing-grade-modified trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates were independently analyzed in this study for each experimental condition (soluble and particulate proteomes)."
+    ],
+    "Characteristics[MaterialType]": [
+      "soluble and particulate brain proteomes"
+    ],
+    "FactorValue[Treatment]": [
+      "AD + CVD"
+    ],
+    "FactorValue[Experimental]": [
+      "soluble fraction"
+    ],
+    "Comment[FractionIdentifier]": [
+      "28"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Elite mass spectrometer coupled with a Dionex UltiMate 3000 UHPLC system from Thermo Fisher Scientific Inc. (Bremen, Germany)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "ultracentrifugation-electrostatic repulsion hydrophilic interaction chromatography (UC-ERLIC)-coupled mass spectrometry-based proteomics",
+      "alternating between full Fourier transform-mass spectrometry (FT-MS; 350–2000 m/z, resolution 60,000, 1 μscan per spectrum) and FT-MS/MS (150–2000 m/z, resolution 30,000, 1 μscan per spectrum) for the ten most intense ions above 500 count threshold with charge > +2"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collisional dissociation (HCD) mode"
+    ],
+    "Comment[CollisionEnergy]": [
+      "32% normalized collision energy"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[GradientTime]": [
+      "72-min gradient",
+      "60-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3 μL/min"
+    ],
+    "Comment[IonizationType]": [
+      "Michrom’s Thermo Captive Spray nanoelectrospray ion source (Bruker-Michrom Inc., Auburn, CA, USA) with 1.5 kV spray voltage."
+    ],
+    "Comment[FractionationMethod]": [
+      "Reconstituted tryptic peptides after in-solution digestion were fractionated by a PolyWAX column (4.6 × 200 mm, 3 μm, PolyLC, Columbia, MD, USA) using a Shimadzu Prominence UFLC system (Kyoto, Japan)."
+    ]
+  },
+  "BA21_D1_S_32.raw": {
+    "Source Name": [
+      "BA21_D1"
+    ],
+    "Assay Name": [
+      "BA21_D1_S_32"
+    ],
+    "Raw Data File": [
+      "BA21_D1_S_32.raw"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "D1"
+    ],
+    "Characteristics[Specimen]": [
+      "autopsied human brain tissues (middle temporal lobe, BA21 region)"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "middle temporal lobe, BA21 region"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing-grade-modified trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates were independently analyzed in this study for each experimental condition (soluble and particulate proteomes)."
+    ],
+    "Characteristics[MaterialType]": [
+      "soluble and particulate brain proteomes"
+    ],
+    "FactorValue[Treatment]": [
+      "AD + CVD"
+    ],
+    "FactorValue[Experimental]": [
+      "soluble fraction"
+    ],
+    "Comment[FractionIdentifier]": [
+      "32"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Elite mass spectrometer coupled with a Dionex UltiMate 3000 UHPLC system from Thermo Fisher Scientific Inc. (Bremen, Germany)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "ultracentrifugation-electrostatic repulsion hydrophilic interaction chromatography (UC-ERLIC)-coupled mass spectrometry-based proteomics",
+      "alternating between full Fourier transform-mass spectrometry (FT-MS; 350–2000 m/z, resolution 60,000, 1 μscan per spectrum) and FT-MS/MS (150–2000 m/z, resolution 30,000, 1 μscan per spectrum) for the ten most intense ions above 500 count threshold with charge > +2"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collisional dissociation (HCD) mode"
+    ],
+    "Comment[CollisionEnergy]": [
+      "32% normalized collision energy"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[GradientTime]": [
+      "72-min gradient",
+      "60-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3 μL/min"
+    ],
+    "Comment[IonizationType]": [
+      "Michrom’s Thermo Captive Spray nanoelectrospray ion source (Bruker-Michrom Inc., Auburn, CA, USA) with 1.5 kV spray voltage."
+    ],
+    "Comment[FractionationMethod]": [
+      "Reconstituted tryptic peptides after in-solution digestion were fractionated by a PolyWAX column (4.6 × 200 mm, 3 μm, PolyLC, Columbia, MD, USA) using a Shimadzu Prominence UFLC system (Kyoto, Japan)."
+    ]
+  },
+  "BA21_D3_S_27.raw": {
+    "Source Name": [
+      "BA21_D3"
+    ],
+    "Assay Name": [
+      "BA21_D3_S_27"
+    ],
+    "Raw Data File": [
+      "BA21_D3_S_27.raw"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "D3"
+    ],
+    "Characteristics[Specimen]": [
+      "autopsied human brain tissues (middle temporal lobe, BA21 region)"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "middle temporal lobe, BA21 region"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing-grade-modified trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates were independently analyzed in this study for each experimental condition (soluble and particulate proteomes)."
+    ],
+    "Characteristics[MaterialType]": [
+      "soluble and particulate brain proteomes"
+    ],
+    "FactorValue[Treatment]": [
+      "AD + CVD"
+    ],
+    "FactorValue[Experimental]": [
+      "soluble fraction"
+    ],
+    "Comment[FractionIdentifier]": [
+      "27"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Elite mass spectrometer coupled with a Dionex UltiMate 3000 UHPLC system from Thermo Fisher Scientific Inc. (Bremen, Germany)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "ultracentrifugation-electrostatic repulsion hydrophilic interaction chromatography (UC-ERLIC)-coupled mass spectrometry-based proteomics",
+      "alternating between full Fourier transform-mass spectrometry (FT-MS; 350–2000 m/z, resolution 60,000, 1 μscan per spectrum) and FT-MS/MS (150–2000 m/z, resolution 30,000, 1 μscan per spectrum) for the ten most intense ions above 500 count threshold with charge > +2"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collisional dissociation (HCD) mode"
+    ],
+    "Comment[CollisionEnergy]": [
+      "32% normalized collision energy"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[GradientTime]": [
+      "72-min gradient",
+      "60-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3 μL/min"
+    ],
+    "Comment[IonizationType]": [
+      "Michrom’s Thermo Captive Spray nanoelectrospray ion source (Bruker-Michrom Inc., Auburn, CA, USA) with 1.5 kV spray voltage."
+    ],
+    "Comment[FractionationMethod]": [
+      "Reconstituted tryptic peptides after in-solution digestion were fractionated by a PolyWAX column (4.6 × 200 mm, 3 μm, PolyLC, Columbia, MD, USA) using a Shimadzu Prominence UFLC system (Kyoto, Japan)."
+    ]
+  },
+  "BA21_D1_S_08.raw": {
+    "Source Name": [
+      "BA21_D1"
+    ],
+    "Assay Name": [
+      "BA21_D1_S_08"
+    ],
+    "Raw Data File": [
+      "BA21_D1_S_08.raw"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "D1"
+    ],
+    "Characteristics[Specimen]": [
+      "autopsied human brain tissues (middle temporal lobe, BA21 region)"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "middle temporal lobe, BA21 region"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing-grade-modified trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates were independently analyzed in this study for each experimental condition (soluble and particulate proteomes)."
+    ],
+    "Characteristics[MaterialType]": [
+      "soluble and particulate brain proteomes"
+    ],
+    "FactorValue[Treatment]": [
+      "AD + CVD"
+    ],
+    "FactorValue[Experimental]": [
+      "soluble fraction"
+    ],
+    "Comment[FractionIdentifier]": [
+      "08"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Elite mass spectrometer coupled with a Dionex UltiMate 3000 UHPLC system from Thermo Fisher Scientific Inc. (Bremen, Germany)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "ultracentrifugation-electrostatic repulsion hydrophilic interaction chromatography (UC-ERLIC)-coupled mass spectrometry-based proteomics",
+      "alternating between full Fourier transform-mass spectrometry (FT-MS; 350–2000 m/z, resolution 60,000, 1 μscan per spectrum) and FT-MS/MS (150–2000 m/z, resolution 30,000, 1 μscan per spectrum) for the ten most intense ions above 500 count threshold with charge > +2"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collisional dissociation (HCD) mode"
+    ],
+    "Comment[CollisionEnergy]": [
+      "32% normalized collision energy"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[GradientTime]": [
+      "72-min gradient",
+      "60-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3 μL/min"
+    ],
+    "Comment[IonizationType]": [
+      "Michrom’s Thermo Captive Spray nanoelectrospray ion source (Bruker-Michrom Inc., Auburn, CA, USA) with 1.5 kV spray voltage."
+    ],
+    "Comment[FractionationMethod]": [
+      "Reconstituted tryptic peptides after in-solution digestion were fractionated by a PolyWAX column (4.6 × 200 mm, 3 μm, PolyLC, Columbia, MD, USA) using a Shimadzu Prominence UFLC system (Kyoto, Japan)."
+    ]
+  },
+  "BA21_C3_P_20.raw": {
+    "Source Name": [
+      "BA21_C3"
+    ],
+    "Assay Name": [
+      "BA21_C3_P_20"
+    ],
+    "Raw Data File": [
+      "BA21_C3_P_20.raw"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "C3"
+    ],
+    "Characteristics[Specimen]": [
+      "autopsied human brain tissues (middle temporal lobe, BA21 region)"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "middle temporal lobe, BA21 region"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing-grade-modified trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates were independently analyzed in this study for each experimental condition (soluble and particulate proteomes)."
+    ],
+    "Characteristics[MaterialType]": [
+      "soluble and particulate brain proteomes"
+    ],
+    "FactorValue[Treatment]": [
+      "healthy age-matched control (Ctrl)"
+    ],
+    "FactorValue[Experimental]": [
+      "particulate fraction"
+    ],
+    "Comment[FractionIdentifier]": [
+      "20"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Elite mass spectrometer coupled with a Dionex UltiMate 3000 UHPLC system from Thermo Fisher Scientific Inc. (Bremen, Germany)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "ultracentrifugation-electrostatic repulsion hydrophilic interaction chromatography (UC-ERLIC)-coupled mass spectrometry-based proteomics",
+      "alternating between full Fourier transform-mass spectrometry (FT-MS; 350–2000 m/z, resolution 60,000, 1 μscan per spectrum) and FT-MS/MS (150–2000 m/z, resolution 30,000, 1 μscan per spectrum) for the ten most intense ions above 500 count threshold with charge > +2"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collisional dissociation (HCD) mode"
+    ],
+    "Comment[CollisionEnergy]": [
+      "32% normalized collision energy"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[GradientTime]": [
+      "72-min gradient",
+      "60-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3 μL/min"
+    ],
+    "Comment[IonizationType]": [
+      "Michrom’s Thermo Captive Spray nanoelectrospray ion source (Bruker-Michrom Inc., Auburn, CA, USA) with 1.5 kV spray voltage."
+    ],
+    "Comment[FractionationMethod]": [
+      "Reconstituted tryptic peptides after in-solution digestion were fractionated by a PolyWAX column (4.6 × 200 mm, 3 μm, PolyLC, Columbia, MD, USA) using a Shimadzu Prominence UFLC system (Kyoto, Japan)."
+    ]
+  },
+  "BA21_D3_S_33.raw": {
+    "Source Name": [
+      "BA21_D3"
+    ],
+    "Assay Name": [
+      "BA21_D3_S_33"
+    ],
+    "Raw Data File": [
+      "BA21_D3_S_33.raw"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "D3"
+    ],
+    "Characteristics[Specimen]": [
+      "autopsied human brain tissues (middle temporal lobe, BA21 region)"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "middle temporal lobe, BA21 region"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing-grade-modified trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates were independently analyzed in this study for each experimental condition (soluble and particulate proteomes)."
+    ],
+    "Characteristics[MaterialType]": [
+      "soluble and particulate brain proteomes"
+    ],
+    "FactorValue[Treatment]": [
+      "AD + CVD"
+    ],
+    "FactorValue[Experimental]": [
+      "soluble fraction"
+    ],
+    "Comment[FractionIdentifier]": [
+      "33"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Elite mass spectrometer coupled with a Dionex UltiMate 3000 UHPLC system from Thermo Fisher Scientific Inc. (Bremen, Germany)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "ultracentrifugation-electrostatic repulsion hydrophilic interaction chromatography (UC-ERLIC)-coupled mass spectrometry-based proteomics",
+      "alternating between full Fourier transform-mass spectrometry (FT-MS; 350–2000 m/z, resolution 60,000, 1 μscan per spectrum) and FT-MS/MS (150–2000 m/z, resolution 30,000, 1 μscan per spectrum) for the ten most intense ions above 500 count threshold with charge > +2"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collisional dissociation (HCD) mode"
+    ],
+    "Comment[CollisionEnergy]": [
+      "32% normalized collision energy"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[GradientTime]": [
+      "72-min gradient",
+      "60-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3 μL/min"
+    ],
+    "Comment[IonizationType]": [
+      "Michrom’s Thermo Captive Spray nanoelectrospray ion source (Bruker-Michrom Inc., Auburn, CA, USA) with 1.5 kV spray voltage."
+    ],
+    "Comment[FractionationMethod]": [
+      "Reconstituted tryptic peptides after in-solution digestion were fractionated by a PolyWAX column (4.6 × 200 mm, 3 μm, PolyLC, Columbia, MD, USA) using a Shimadzu Prominence UFLC system (Kyoto, Japan)."
+    ]
+  },
+  "BA21_D3_S_30.raw": {
+    "Source Name": [
+      "BA21_D3"
+    ],
+    "Assay Name": [
+      "BA21_D3_S_30"
+    ],
+    "Raw Data File": [
+      "BA21_D3_S_30.raw"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "D3"
+    ],
+    "Characteristics[Specimen]": [
+      "autopsied human brain tissues (middle temporal lobe, BA21 region)"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "middle temporal lobe, BA21 region"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing-grade-modified trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates were independently analyzed in this study for each experimental condition (soluble and particulate proteomes)."
+    ],
+    "Characteristics[MaterialType]": [
+      "soluble and particulate brain proteomes"
+    ],
+    "FactorValue[Treatment]": [
+      "AD + CVD"
+    ],
+    "FactorValue[Experimental]": [
+      "soluble fraction"
+    ],
+    "Comment[FractionIdentifier]": [
+      "30"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Elite mass spectrometer coupled with a Dionex UltiMate 3000 UHPLC system from Thermo Fisher Scientific Inc. (Bremen, Germany)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "ultracentrifugation-electrostatic repulsion hydrophilic interaction chromatography (UC-ERLIC)-coupled mass spectrometry-based proteomics",
+      "alternating between full Fourier transform-mass spectrometry (FT-MS; 350–2000 m/z, resolution 60,000, 1 μscan per spectrum) and FT-MS/MS (150–2000 m/z, resolution 30,000, 1 μscan per spectrum) for the ten most intense ions above 500 count threshold with charge > +2"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collisional dissociation (HCD) mode"
+    ],
+    "Comment[CollisionEnergy]": [
+      "32% normalized collision energy"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[GradientTime]": [
+      "72-min gradient",
+      "60-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3 μL/min"
+    ],
+    "Comment[IonizationType]": [
+      "Michrom’s Thermo Captive Spray nanoelectrospray ion source (Bruker-Michrom Inc., Auburn, CA, USA) with 1.5 kV spray voltage."
+    ],
+    "Comment[FractionationMethod]": [
+      "Reconstituted tryptic peptides after in-solution digestion were fractionated by a PolyWAX column (4.6 × 200 mm, 3 μm, PolyLC, Columbia, MD, USA) using a Shimadzu Prominence UFLC system (Kyoto, Japan)."
+    ]
+  },
+  "BA21_C2_P_05.raw": {
+    "Source Name": [
+      "BA21_C2"
+    ],
+    "Assay Name": [
+      "BA21_C2_P_05"
+    ],
+    "Raw Data File": [
+      "BA21_C2_P_05.raw"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "C2"
+    ],
+    "Characteristics[Specimen]": [
+      "autopsied human brain tissues (middle temporal lobe, BA21 region)"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "middle temporal lobe, BA21 region"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing-grade-modified trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates were independently analyzed in this study for each experimental condition (soluble and particulate proteomes)."
+    ],
+    "Characteristics[MaterialType]": [
+      "soluble and particulate brain proteomes"
+    ],
+    "FactorValue[Treatment]": [
+      "healthy age-matched control (Ctrl)"
+    ],
+    "FactorValue[Experimental]": [
+      "particulate fraction"
+    ],
+    "Comment[FractionIdentifier]": [
+      "05"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Elite mass spectrometer coupled with a Dionex UltiMate 3000 UHPLC system from Thermo Fisher Scientific Inc. (Bremen, Germany)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "ultracentrifugation-electrostatic repulsion hydrophilic interaction chromatography (UC-ERLIC)-coupled mass spectrometry-based proteomics",
+      "alternating between full Fourier transform-mass spectrometry (FT-MS; 350–2000 m/z, resolution 60,000, 1 μscan per spectrum) and FT-MS/MS (150–2000 m/z, resolution 30,000, 1 μscan per spectrum) for the ten most intense ions above 500 count threshold with charge > +2"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collisional dissociation (HCD) mode"
+    ],
+    "Comment[CollisionEnergy]": [
+      "32% normalized collision energy"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[GradientTime]": [
+      "72-min gradient",
+      "60-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3 μL/min"
+    ],
+    "Comment[IonizationType]": [
+      "Michrom’s Thermo Captive Spray nanoelectrospray ion source (Bruker-Michrom Inc., Auburn, CA, USA) with 1.5 kV spray voltage."
+    ],
+    "Comment[FractionationMethod]": [
+      "Reconstituted tryptic peptides after in-solution digestion were fractionated by a PolyWAX column (4.6 × 200 mm, 3 μm, PolyLC, Columbia, MD, USA) using a Shimadzu Prominence UFLC system (Kyoto, Japan)."
+    ]
+  }
+}

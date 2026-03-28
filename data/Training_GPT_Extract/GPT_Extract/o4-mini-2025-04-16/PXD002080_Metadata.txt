@@ -1,0 +1,11 @@
+Disease: human colon and rectal cancer  
+AnatomicSiteTumor: colon and rectal tumors  
+SourceName: TCGA Biospecimen Core Resource  
+MaterialType: Patient-derived xenograft tumors  
+FactorValue: Basal  
+FactorValue: Luminal-B  
+Specimen: Normal colon biopsies  
+SamplingTime: between July 2006 and October 2010  
+AssayName: multidimensional liquid chromatography-tandem mass spectrometry  
+AssayName: LC-MS/MS analysis  
+SupplementaryFile: raw and mzML files

@@ -1,0 +1,1302 @@
+{
+  "Q10465_MS20-17_CoV2_J3MOI-01r.raw": {
+    "Source Name": [
+      "CoV2_J3MOI-01"
+    ],
+    "Assay Name": [
+      "Q10465_MS20-17_CoV2_J3MOI-01r"
+    ],
+    "Raw Data File": [
+      "Q10465_MS20-17_CoV2_J3MOI-01r.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 (ATCC, CLR-1586)"
+    ],
+    "Characteristics[Temperature]": [
+      "37°C"
+    ],
+    "Characteristics[Specimen]": [
+      "cell culture supernatant samples, and supernatant plus cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-gel trypsin proteolysis"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5% beta-mercaptoethanol (vol/vol)"
+    ],
+    "Characteristics[Staining]": [
+      "Coomassie SimplyBlue SafeStain (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[Treatment]": [
+      "The virus was inactivated and the cells lysed by autoclaving the samples at 125°C for 40 min."
+    ],
+    "FactorValue[Treatment]": [
+      "MOI-01",
+      "infected at two multiplicities of infection (MOI; 0.01 and 0.001)"
+    ],
+    "FactorValue[Time]": [
+      "J3",
+      "1, 2, 3, 4 and 7 days post-infection (dpi)"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive HF mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[Separation]": [
+      "ultimate 3000 nano-LC system (Thermo Fisher Scientific)",
+      "nanoscale PepMap 100 C18 nano-LC column (3 μm, 100 Å, 75 μm i.d. × 50 cm, Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "120 min gradient (100 min from 4% to 25% solvent B, and 20 min from 25% to 40% of solvent B)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.2 μL per min."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in Top20 mode."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da on the MS/MS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ]
+  },
+  "Q10451_MS20-17_CoV2_J4MOI-01.raw": {
+    "Source Name": [
+      "CoV2_J4MOI-01"
+    ],
+    "Assay Name": [
+      "Q10451_MS20-17_CoV2_J4MOI-01"
+    ],
+    "Raw Data File": [
+      "Q10451_MS20-17_CoV2_J4MOI-01.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 (ATCC, CLR-1586)"
+    ],
+    "Characteristics[Temperature]": [
+      "37°C"
+    ],
+    "Characteristics[Specimen]": [
+      "cell culture supernatant samples, and supernatant plus cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-gel trypsin proteolysis"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5% beta-mercaptoethanol (vol/vol)"
+    ],
+    "Characteristics[Staining]": [
+      "Coomassie SimplyBlue SafeStain (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[Treatment]": [
+      "The virus was inactivated and the cells lysed by autoclaving the samples at 125°C for 40 min."
+    ],
+    "FactorValue[Treatment]": [
+      "MOI-01",
+      "infected at two multiplicities of infection (MOI; 0.01 and 0.001)"
+    ],
+    "FactorValue[Time]": [
+      "J4",
+      "1, 2, 3, 4 and 7 days post-infection (dpi)"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive HF mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[Separation]": [
+      "ultimate 3000 nano-LC system (Thermo Fisher Scientific)",
+      "nanoscale PepMap 100 C18 nano-LC column (3 μm, 100 Å, 75 μm i.d. × 50 cm, Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "120 min gradient (100 min from 4% to 25% solvent B, and 20 min from 25% to 40% of solvent B)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.2 μL per min."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in Top20 mode."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da on the MS/MS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ]
+  },
+  "Q10468_MS20-17_CoV2_J4MOI-001r.raw": {
+    "Source Name": [
+      "CoV2_J4MOI-001"
+    ],
+    "Assay Name": [
+      "Q10468_MS20-17_CoV2_J4MOI-001r"
+    ],
+    "Raw Data File": [
+      "Q10468_MS20-17_CoV2_J4MOI-001r.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 (ATCC, CLR-1586)"
+    ],
+    "Characteristics[Temperature]": [
+      "37°C"
+    ],
+    "Characteristics[Specimen]": [
+      "cell culture supernatant samples, and supernatant plus cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-gel trypsin proteolysis"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5% beta-mercaptoethanol (vol/vol)"
+    ],
+    "Characteristics[Staining]": [
+      "Coomassie SimplyBlue SafeStain (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[Treatment]": [
+      "The virus was inactivated and the cells lysed by autoclaving the samples at 125°C for 40 min."
+    ],
+    "FactorValue[Treatment]": [
+      "MOI-001",
+      "infected at two multiplicities of infection (MOI; 0.01 and 0.001)"
+    ],
+    "FactorValue[Time]": [
+      "J4",
+      "1, 2, 3, 4 and 7 days post-infection (dpi)"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive HF mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[Separation]": [
+      "ultimate 3000 nano-LC system (Thermo Fisher Scientific)",
+      "nanoscale PepMap 100 C18 nano-LC column (3 μm, 100 Å, 75 μm i.d. × 50 cm, Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "120 min gradient (100 min from 4% to 25% solvent B, and 20 min from 25% to 40% of solvent B)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.2 μL per min."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in Top20 mode."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da on the MS/MS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ]
+  },
+  "Q10466_MS20-17_CoV2_J3MOI-001r.raw": {
+    "Source Name": [
+      "CoV2_J3MOI-001"
+    ],
+    "Assay Name": [
+      "Q10466_MS20-17_CoV2_J3MOI-001r"
+    ],
+    "Raw Data File": [
+      "Q10466_MS20-17_CoV2_J3MOI-001r.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 (ATCC, CLR-1586)"
+    ],
+    "Characteristics[Temperature]": [
+      "37°C"
+    ],
+    "Characteristics[Specimen]": [
+      "cell culture supernatant samples, and supernatant plus cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-gel trypsin proteolysis"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5% beta-mercaptoethanol (vol/vol)"
+    ],
+    "Characteristics[Staining]": [
+      "Coomassie SimplyBlue SafeStain (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[Treatment]": [
+      "The virus was inactivated and the cells lysed by autoclaving the samples at 125°C for 40 min."
+    ],
+    "FactorValue[Treatment]": [
+      "MOI-001",
+      "infected at two multiplicities of infection (MOI; 0.01 and 0.001)"
+    ],
+    "FactorValue[Time]": [
+      "J3",
+      "1, 2, 3, 4 and 7 days post-infection (dpi)"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive HF mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[Separation]": [
+      "ultimate 3000 nano-LC system (Thermo Fisher Scientific)",
+      "nanoscale PepMap 100 C18 nano-LC column (3 μm, 100 Å, 75 μm i.d. × 50 cm, Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "120 min gradient (100 min from 4% to 25% solvent B, and 20 min from 25% to 40% of solvent B)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.2 μL per min."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in Top20 mode."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da on the MS/MS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ]
+  },
+  "Q10448_MS20-17_CoV2_J2MOI-001.raw": {
+    "Source Name": [
+      "CoV2_J2MOI-001"
+    ],
+    "Assay Name": [
+      "Q10448_MS20-17_CoV2_J2MOI-001"
+    ],
+    "Raw Data File": [
+      "Q10448_MS20-17_CoV2_J2MOI-001.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 (ATCC, CLR-1586)"
+    ],
+    "Characteristics[Temperature]": [
+      "37°C"
+    ],
+    "Characteristics[Specimen]": [
+      "cell culture supernatant samples, and supernatant plus cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-gel trypsin proteolysis"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5% beta-mercaptoethanol (vol/vol)"
+    ],
+    "Characteristics[Staining]": [
+      "Coomassie SimplyBlue SafeStain (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[Treatment]": [
+      "The virus was inactivated and the cells lysed by autoclaving the samples at 125°C for 40 min."
+    ],
+    "FactorValue[Treatment]": [
+      "MOI-001",
+      "infected at two multiplicities of infection (MOI; 0.01 and 0.001)"
+    ],
+    "FactorValue[Time]": [
+      "J2",
+      "1, 2, 3, 4 and 7 days post-infection (dpi)"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive HF mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[Separation]": [
+      "ultimate 3000 nano-LC system (Thermo Fisher Scientific)",
+      "nanoscale PepMap 100 C18 nano-LC column (3 μm, 100 Å, 75 μm i.d. × 50 cm, Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "120 min gradient (100 min from 4% to 25% solvent B, and 20 min from 25% to 40% of solvent B)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.2 μL per min."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in Top20 mode."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da on the MS/MS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ]
+  },
+  "Q10467_MS20-17_CoV2_J4MOI-01r.raw": {
+    "Source Name": [
+      "CoV2_J4MOI-01"
+    ],
+    "Assay Name": [
+      "Q10467_MS20-17_CoV2_J4MOI-01r"
+    ],
+    "Raw Data File": [
+      "Q10467_MS20-17_CoV2_J4MOI-01r.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 (ATCC, CLR-1586)"
+    ],
+    "Characteristics[Temperature]": [
+      "37°C"
+    ],
+    "Characteristics[Specimen]": [
+      "cell culture supernatant samples, and supernatant plus cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-gel trypsin proteolysis"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5% beta-mercaptoethanol (vol/vol)"
+    ],
+    "Characteristics[Staining]": [
+      "Coomassie SimplyBlue SafeStain (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[Treatment]": [
+      "The virus was inactivated and the cells lysed by autoclaving the samples at 125°C for 40 min."
+    ],
+    "FactorValue[Treatment]": [
+      "MOI-01",
+      "infected at two multiplicities of infection (MOI; 0.01 and 0.001)"
+    ],
+    "FactorValue[Time]": [
+      "J4",
+      "1, 2, 3, 4 and 7 days post-infection (dpi)"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive HF mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[Separation]": [
+      "ultimate 3000 nano-LC system (Thermo Fisher Scientific)",
+      "nanoscale PepMap 100 C18 nano-LC column (3 μm, 100 Å, 75 μm i.d. × 50 cm, Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "120 min gradient (100 min from 4% to 25% solvent B, and 20 min from 25% to 40% of solvent B)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.2 μL per min."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in Top20 mode."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da on the MS/MS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ]
+  },
+  "Q10453_MS20-17_CoV2_J7MOI-01.raw": {
+    "Source Name": [
+      "CoV2_J7MOI-01"
+    ],
+    "Assay Name": [
+      "Q10453_MS20-17_CoV2_J7MOI-01"
+    ],
+    "Raw Data File": [
+      "Q10453_MS20-17_CoV2_J7MOI-01.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 (ATCC, CLR-1586)"
+    ],
+    "Characteristics[Temperature]": [
+      "37°C"
+    ],
+    "Characteristics[Specimen]": [
+      "cell culture supernatant samples, and supernatant plus cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-gel trypsin proteolysis"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5% beta-mercaptoethanol (vol/vol)"
+    ],
+    "Characteristics[Staining]": [
+      "Coomassie SimplyBlue SafeStain (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[Treatment]": [
+      "The virus was inactivated and the cells lysed by autoclaving the samples at 125°C for 40 min."
+    ],
+    "FactorValue[Treatment]": [
+      "MOI-01",
+      "infected at two multiplicities of infection (MOI; 0.01 and 0.001)"
+    ],
+    "FactorValue[Time]": [
+      "J7",
+      "1, 2, 3, 4 and 7 days post-infection (dpi)"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive HF mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[Separation]": [
+      "ultimate 3000 nano-LC system (Thermo Fisher Scientific)",
+      "nanoscale PepMap 100 C18 nano-LC column (3 μm, 100 Å, 75 μm i.d. × 50 cm, Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "120 min gradient (100 min from 4% to 25% solvent B, and 20 min from 25% to 40% of solvent B)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.2 μL per min."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in Top20 mode."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da on the MS/MS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ]
+  },
+  "Q10469_MS20-17_CoV2_J7MOI-01r.raw": {
+    "Source Name": [
+      "CoV2_J7MOI-01"
+    ],
+    "Assay Name": [
+      "Q10469_MS20-17_CoV2_J7MOI-01r"
+    ],
+    "Raw Data File": [
+      "Q10469_MS20-17_CoV2_J7MOI-01r.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 (ATCC, CLR-1586)"
+    ],
+    "Characteristics[Temperature]": [
+      "37°C"
+    ],
+    "Characteristics[Specimen]": [
+      "cell culture supernatant samples, and supernatant plus cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-gel trypsin proteolysis"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5% beta-mercaptoethanol (vol/vol)"
+    ],
+    "Characteristics[Staining]": [
+      "Coomassie SimplyBlue SafeStain (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[Treatment]": [
+      "The virus was inactivated and the cells lysed by autoclaving the samples at 125°C for 40 min."
+    ],
+    "FactorValue[Treatment]": [
+      "MOI-01",
+      "infected at two multiplicities of infection (MOI; 0.01 and 0.001)"
+    ],
+    "FactorValue[Time]": [
+      "J7",
+      "1, 2, 3, 4 and 7 days post-infection (dpi)"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive HF mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[Separation]": [
+      "ultimate 3000 nano-LC system (Thermo Fisher Scientific)",
+      "nanoscale PepMap 100 C18 nano-LC column (3 μm, 100 Å, 75 μm i.d. × 50 cm, Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "120 min gradient (100 min from 4% to 25% solvent B, and 20 min from 25% to 40% of solvent B)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.2 μL per min."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in Top20 mode."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da on the MS/MS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ]
+  },
+  "Q10470_MS20-17_CoV2_J7MOI-001r.raw": {
+    "Source Name": [
+      "CoV2_J7MOI-001"
+    ],
+    "Assay Name": [
+      "Q10470_MS20-17_CoV2_J7MOI-001r"
+    ],
+    "Raw Data File": [
+      "Q10470_MS20-17_CoV2_J7MOI-001r.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 (ATCC, CLR-1586)"
+    ],
+    "Characteristics[Temperature]": [
+      "37°C"
+    ],
+    "Characteristics[Specimen]": [
+      "cell culture supernatant samples, and supernatant plus cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-gel trypsin proteolysis"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5% beta-mercaptoethanol (vol/vol)"
+    ],
+    "Characteristics[Staining]": [
+      "Coomassie SimplyBlue SafeStain (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[Treatment]": [
+      "The virus was inactivated and the cells lysed by autoclaving the samples at 125°C for 40 min."
+    ],
+    "FactorValue[Treatment]": [
+      "MOI-001",
+      "infected at two multiplicities of infection (MOI; 0.01 and 0.001)"
+    ],
+    "FactorValue[Time]": [
+      "J7",
+      "1, 2, 3, 4 and 7 days post-infection (dpi)"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive HF mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[Separation]": [
+      "ultimate 3000 nano-LC system (Thermo Fisher Scientific)",
+      "nanoscale PepMap 100 C18 nano-LC column (3 μm, 100 Å, 75 μm i.d. × 50 cm, Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "120 min gradient (100 min from 4% to 25% solvent B, and 20 min from 25% to 40% of solvent B)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.2 μL per min."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in Top20 mode."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da on the MS/MS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ]
+  },
+  "Q10452_MS20-17_CoV2_J4MOI-001.raw": {
+    "Source Name": [
+      "CoV2_J4MOI-001"
+    ],
+    "Assay Name": [
+      "Q10452_MS20-17_CoV2_J4MOI-001"
+    ],
+    "Raw Data File": [
+      "Q10452_MS20-17_CoV2_J4MOI-001.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 (ATCC, CLR-1586)"
+    ],
+    "Characteristics[Temperature]": [
+      "37°C"
+    ],
+    "Characteristics[Specimen]": [
+      "cell culture supernatant samples, and supernatant plus cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-gel trypsin proteolysis"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5% beta-mercaptoethanol (vol/vol)"
+    ],
+    "Characteristics[Staining]": [
+      "Coomassie SimplyBlue SafeStain (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[Treatment]": [
+      "The virus was inactivated and the cells lysed by autoclaving the samples at 125°C for 40 min."
+    ],
+    "FactorValue[Treatment]": [
+      "MOI-001",
+      "infected at two multiplicities of infection (MOI; 0.01 and 0.001)"
+    ],
+    "FactorValue[Time]": [
+      "J4",
+      "1, 2, 3, 4 and 7 days post-infection (dpi)"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive HF mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[Separation]": [
+      "ultimate 3000 nano-LC system (Thermo Fisher Scientific)",
+      "nanoscale PepMap 100 C18 nano-LC column (3 μm, 100 Å, 75 μm i.d. × 50 cm, Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "120 min gradient (100 min from 4% to 25% solvent B, and 20 min from 25% to 40% of solvent B)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.2 μL per min."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in Top20 mode."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da on the MS/MS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ]
+  },
+  "Q10454_MS20-17_CoV2_J7MOI-001.raw": {
+    "Source Name": [
+      "CoV2_J7MOI-001"
+    ],
+    "Assay Name": [
+      "Q10454_MS20-17_CoV2_J7MOI-001"
+    ],
+    "Raw Data File": [
+      "Q10454_MS20-17_CoV2_J7MOI-001.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 (ATCC, CLR-1586)"
+    ],
+    "Characteristics[Temperature]": [
+      "37°C"
+    ],
+    "Characteristics[Specimen]": [
+      "cell culture supernatant samples, and supernatant plus cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-gel trypsin proteolysis"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5% beta-mercaptoethanol (vol/vol)"
+    ],
+    "Characteristics[Staining]": [
+      "Coomassie SimplyBlue SafeStain (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[Treatment]": [
+      "The virus was inactivated and the cells lysed by autoclaving the samples at 125°C for 40 min."
+    ],
+    "FactorValue[Treatment]": [
+      "MOI-001",
+      "infected at two multiplicities of infection (MOI; 0.01 and 0.001)"
+    ],
+    "FactorValue[Time]": [
+      "J7",
+      "1, 2, 3, 4 and 7 days post-infection (dpi)"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive HF mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[Separation]": [
+      "ultimate 3000 nano-LC system (Thermo Fisher Scientific)",
+      "nanoscale PepMap 100 C18 nano-LC column (3 μm, 100 Å, 75 μm i.d. × 50 cm, Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "120 min gradient (100 min from 4% to 25% solvent B, and 20 min from 25% to 40% of solvent B)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.2 μL per min."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in Top20 mode."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da on the MS/MS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ]
+  },
+  "Q10462_MS20-17_CoV2_J1MOI-001r.raw": {
+    "Source Name": [
+      "CoV2_J1MOI-001"
+    ],
+    "Assay Name": [
+      "Q10462_MS20-17_CoV2_J1MOI-001r"
+    ],
+    "Raw Data File": [
+      "Q10462_MS20-17_CoV2_J1MOI-001r.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 (ATCC, CLR-1586)"
+    ],
+    "Characteristics[Temperature]": [
+      "37°C"
+    ],
+    "Characteristics[Specimen]": [
+      "cell culture supernatant samples, and supernatant plus cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-gel trypsin proteolysis"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5% beta-mercaptoethanol (vol/vol)"
+    ],
+    "Characteristics[Staining]": [
+      "Coomassie SimplyBlue SafeStain (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[Treatment]": [
+      "The virus was inactivated and the cells lysed by autoclaving the samples at 125°C for 40 min."
+    ],
+    "FactorValue[Treatment]": [
+      "MOI-001",
+      "infected at two multiplicities of infection (MOI; 0.01 and 0.001)"
+    ],
+    "FactorValue[Time]": [
+      "J1",
+      "1, 2, 3, 4 and 7 days post-infection (dpi)"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive HF mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[Separation]": [
+      "ultimate 3000 nano-LC system (Thermo Fisher Scientific)",
+      "nanoscale PepMap 100 C18 nano-LC column (3 μm, 100 Å, 75 μm i.d. × 50 cm, Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "120 min gradient (100 min from 4% to 25% solvent B, and 20 min from 25% to 40% of solvent B)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.2 μL per min."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in Top20 mode."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da on the MS/MS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ]
+  },
+  "Q10449_MS20-17_CoV2_J3MOI-01.raw": {
+    "Source Name": [
+      "CoV2_J3MOI-01"
+    ],
+    "Assay Name": [
+      "Q10449_MS20-17_CoV2_J3MOI-01"
+    ],
+    "Raw Data File": [
+      "Q10449_MS20-17_CoV2_J3MOI-01.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 (ATCC, CLR-1586)"
+    ],
+    "Characteristics[Temperature]": [
+      "37°C"
+    ],
+    "Characteristics[Specimen]": [
+      "cell culture supernatant samples, and supernatant plus cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-gel trypsin proteolysis"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5% beta-mercaptoethanol (vol/vol)"
+    ],
+    "Characteristics[Staining]": [
+      "Coomassie SimplyBlue SafeStain (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[Treatment]": [
+      "The virus was inactivated and the cells lysed by autoclaving the samples at 125°C for 40 min."
+    ],
+    "FactorValue[Treatment]": [
+      "MOI-01",
+      "infected at two multiplicities of infection (MOI; 0.01 and 0.001)"
+    ],
+    "FactorValue[Time]": [
+      "J3",
+      "1, 2, 3, 4 and 7 days post-infection (dpi)"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive HF mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[Separation]": [
+      "ultimate 3000 nano-LC system (Thermo Fisher Scientific)",
+      "nanoscale PepMap 100 C18 nano-LC column (3 μm, 100 Å, 75 μm i.d. × 50 cm, Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "120 min gradient (100 min from 4% to 25% solvent B, and 20 min from 25% to 40% of solvent B)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.2 μL per min."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in Top20 mode."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da on the MS/MS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ]
+  },
+  "Q10464_MS20-17_CoV2_J2MOI-001r.raw": {
+    "Source Name": [
+      "CoV2_J2MOI-001"
+    ],
+    "Assay Name": [
+      "Q10464_MS20-17_CoV2_J2MOI-001r"
+    ],
+    "Raw Data File": [
+      "Q10464_MS20-17_CoV2_J2MOI-001r.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 (ATCC, CLR-1586)"
+    ],
+    "Characteristics[Temperature]": [
+      "37°C"
+    ],
+    "Characteristics[Specimen]": [
+      "cell culture supernatant samples, and supernatant plus cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-gel trypsin proteolysis"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5% beta-mercaptoethanol (vol/vol)"
+    ],
+    "Characteristics[Staining]": [
+      "Coomassie SimplyBlue SafeStain (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[Treatment]": [
+      "The virus was inactivated and the cells lysed by autoclaving the samples at 125°C for 40 min."
+    ],
+    "FactorValue[Treatment]": [
+      "MOI-001",
+      "infected at two multiplicities of infection (MOI; 0.01 and 0.001)"
+    ],
+    "FactorValue[Time]": [
+      "J2",
+      "1, 2, 3, 4 and 7 days post-infection (dpi)"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive HF mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[Separation]": [
+      "ultimate 3000 nano-LC system (Thermo Fisher Scientific)",
+      "nanoscale PepMap 100 C18 nano-LC column (3 μm, 100 Å, 75 μm i.d. × 50 cm, Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "120 min gradient (100 min from 4% to 25% solvent B, and 20 min from 25% to 40% of solvent B)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.2 μL per min."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in Top20 mode."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da on the MS/MS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ]
+  },
+  "Q10450_MS20-17_CoV2_J3MOI-001.raw": {
+    "Source Name": [
+      "CoV2_J3MOI-001"
+    ],
+    "Assay Name": [
+      "Q10450_MS20-17_CoV2_J3MOI-001"
+    ],
+    "Raw Data File": [
+      "Q10450_MS20-17_CoV2_J3MOI-001.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 (ATCC, CLR-1586)"
+    ],
+    "Characteristics[Temperature]": [
+      "37°C"
+    ],
+    "Characteristics[Specimen]": [
+      "cell culture supernatant samples, and supernatant plus cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-gel trypsin proteolysis"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5% beta-mercaptoethanol (vol/vol)"
+    ],
+    "Characteristics[Staining]": [
+      "Coomassie SimplyBlue SafeStain (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[Treatment]": [
+      "The virus was inactivated and the cells lysed by autoclaving the samples at 125°C for 40 min."
+    ],
+    "FactorValue[Treatment]": [
+      "MOI-001",
+      "infected at two multiplicities of infection (MOI; 0.01 and 0.001)"
+    ],
+    "FactorValue[Time]": [
+      "J3",
+      "1, 2, 3, 4 and 7 days post-infection (dpi)"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive HF mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[Separation]": [
+      "ultimate 3000 nano-LC system (Thermo Fisher Scientific)",
+      "nanoscale PepMap 100 C18 nano-LC column (3 μm, 100 Å, 75 μm i.d. × 50 cm, Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "120 min gradient (100 min from 4% to 25% solvent B, and 20 min from 25% to 40% of solvent B)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.2 μL per min."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in Top20 mode."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da on the MS/MS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ]
+  },
+  "Q10445_MS20-17_CoV2_J1MOI-01.raw": {
+    "Source Name": [
+      "CoV2_J1MOI-01"
+    ],
+    "Assay Name": [
+      "Q10445_MS20-17_CoV2_J1MOI-01"
+    ],
+    "Raw Data File": [
+      "Q10445_MS20-17_CoV2_J1MOI-01.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 (ATCC, CLR-1586)"
+    ],
+    "Characteristics[Temperature]": [
+      "37°C"
+    ],
+    "Characteristics[Specimen]": [
+      "cell culture supernatant samples, and supernatant plus cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-gel trypsin proteolysis"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5% beta-mercaptoethanol (vol/vol)"
+    ],
+    "Characteristics[Staining]": [
+      "Coomassie SimplyBlue SafeStain (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[Treatment]": [
+      "The virus was inactivated and the cells lysed by autoclaving the samples at 125°C for 40 min."
+    ],
+    "FactorValue[Treatment]": [
+      "MOI-01",
+      "infected at two multiplicities of infection (MOI; 0.01 and 0.001)"
+    ],
+    "FactorValue[Time]": [
+      "J1",
+      "1, 2, 3, 4 and 7 days post-infection (dpi)"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive HF mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[Separation]": [
+      "ultimate 3000 nano-LC system (Thermo Fisher Scientific)",
+      "nanoscale PepMap 100 C18 nano-LC column (3 μm, 100 Å, 75 μm i.d. × 50 cm, Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "120 min gradient (100 min from 4% to 25% solvent B, and 20 min from 25% to 40% of solvent B)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.2 μL per min."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in Top20 mode."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da on the MS/MS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ]
+  },
+  "Q10463_MS20-17_CoV2_J2MOI-01r.raw": {
+    "Source Name": [
+      "CoV2_J2MOI-01"
+    ],
+    "Assay Name": [
+      "Q10463_MS20-17_CoV2_J2MOI-01r"
+    ],
+    "Raw Data File": [
+      "Q10463_MS20-17_CoV2_J2MOI-01r.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 (ATCC, CLR-1586)"
+    ],
+    "Characteristics[Temperature]": [
+      "37°C"
+    ],
+    "Characteristics[Specimen]": [
+      "cell culture supernatant samples, and supernatant plus cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-gel trypsin proteolysis"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5% beta-mercaptoethanol (vol/vol)"
+    ],
+    "Characteristics[Staining]": [
+      "Coomassie SimplyBlue SafeStain (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[Treatment]": [
+      "The virus was inactivated and the cells lysed by autoclaving the samples at 125°C for 40 min."
+    ],
+    "FactorValue[Treatment]": [
+      "MOI-01",
+      "infected at two multiplicities of infection (MOI; 0.01 and 0.001)"
+    ],
+    "FactorValue[Time]": [
+      "J2",
+      "1, 2, 3, 4 and 7 days post-infection (dpi)"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive HF mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[Separation]": [
+      "ultimate 3000 nano-LC system (Thermo Fisher Scientific)",
+      "nanoscale PepMap 100 C18 nano-LC column (3 μm, 100 Å, 75 μm i.d. × 50 cm, Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "120 min gradient (100 min from 4% to 25% solvent B, and 20 min from 25% to 40% of solvent B)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.2 μL per min."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in Top20 mode."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da on the MS/MS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ]
+  },
+  "Q10447_MS20-17_CoV2_J2MOI-01.raw": {
+    "Source Name": [
+      "CoV2_J2MOI-01"
+    ],
+    "Assay Name": [
+      "Q10447_MS20-17_CoV2_J2MOI-01"
+    ],
+    "Raw Data File": [
+      "Q10447_MS20-17_CoV2_J2MOI-01.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 (ATCC, CLR-1586)"
+    ],
+    "Characteristics[Temperature]": [
+      "37°C"
+    ],
+    "Characteristics[Specimen]": [
+      "cell culture supernatant samples, and supernatant plus cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-gel trypsin proteolysis"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5% beta-mercaptoethanol (vol/vol)"
+    ],
+    "Characteristics[Staining]": [
+      "Coomassie SimplyBlue SafeStain (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[Treatment]": [
+      "The virus was inactivated and the cells lysed by autoclaving the samples at 125°C for 40 min."
+    ],
+    "FactorValue[Treatment]": [
+      "MOI-01",
+      "infected at two multiplicities of infection (MOI; 0.01 and 0.001)"
+    ],
+    "FactorValue[Time]": [
+      "J2",
+      "1, 2, 3, 4 and 7 days post-infection (dpi)"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive HF mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[Separation]": [
+      "ultimate 3000 nano-LC system (Thermo Fisher Scientific)",
+      "nanoscale PepMap 100 C18 nano-LC column (3 μm, 100 Å, 75 μm i.d. × 50 cm, Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "120 min gradient (100 min from 4% to 25% solvent B, and 20 min from 25% to 40% of solvent B)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.2 μL per min."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in Top20 mode."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da on the MS/MS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ]
+  },
+  "Q10461_MS20-17_CoV2_J1MOI-01r.raw": {
+    "Source Name": [
+      "CoV2_J1MOI-01"
+    ],
+    "Assay Name": [
+      "Q10461_MS20-17_CoV2_J1MOI-01r"
+    ],
+    "Raw Data File": [
+      "Q10461_MS20-17_CoV2_J1MOI-01r.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 (ATCC, CLR-1586)"
+    ],
+    "Characteristics[Temperature]": [
+      "37°C"
+    ],
+    "Characteristics[Specimen]": [
+      "cell culture supernatant samples, and supernatant plus cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-gel trypsin proteolysis"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5% beta-mercaptoethanol (vol/vol)"
+    ],
+    "Characteristics[Staining]": [
+      "Coomassie SimplyBlue SafeStain (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[Treatment]": [
+      "The virus was inactivated and the cells lysed by autoclaving the samples at 125°C for 40 min."
+    ],
+    "FactorValue[Treatment]": [
+      "MOI-01",
+      "infected at two multiplicities of infection (MOI; 0.01 and 0.001)"
+    ],
+    "FactorValue[Time]": [
+      "J1",
+      "1, 2, 3, 4 and 7 days post-infection (dpi)"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive HF mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[Separation]": [
+      "ultimate 3000 nano-LC system (Thermo Fisher Scientific)",
+      "nanoscale PepMap 100 C18 nano-LC column (3 μm, 100 Å, 75 μm i.d. × 50 cm, Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "120 min gradient (100 min from 4% to 25% solvent B, and 20 min from 25% to 40% of solvent B)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.2 μL per min."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in Top20 mode."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da on the MS/MS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ]
+  },
+  "Q10446_MS20-17_CoV2_J1MOI-001.raw": {
+    "Source Name": [
+      "CoV2_J1MOI-001"
+    ],
+    "Assay Name": [
+      "Q10446_MS20-17_CoV2_J1MOI-001"
+    ],
+    "Raw Data File": [
+      "Q10446_MS20-17_CoV2_J1MOI-001.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 (ATCC, CLR-1586)"
+    ],
+    "Characteristics[Temperature]": [
+      "37°C"
+    ],
+    "Characteristics[Specimen]": [
+      "cell culture supernatant samples, and supernatant plus cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "in-gel trypsin proteolysis"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5% beta-mercaptoethanol (vol/vol)"
+    ],
+    "Characteristics[Staining]": [
+      "Coomassie SimplyBlue SafeStain (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[Treatment]": [
+      "The virus was inactivated and the cells lysed by autoclaving the samples at 125°C for 40 min."
+    ],
+    "FactorValue[Treatment]": [
+      "MOI-001",
+      "infected at two multiplicities of infection (MOI; 0.01 and 0.001)"
+    ],
+    "FactorValue[Time]": [
+      "J1",
+      "1, 2, 3, 4 and 7 days post-infection (dpi)"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive HF mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[Separation]": [
+      "ultimate 3000 nano-LC system (Thermo Fisher Scientific)",
+      "nanoscale PepMap 100 C18 nano-LC column (3 μm, 100 Å, 75 μm i.d. × 50 cm, Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "120 min gradient (100 min from 4% to 25% solvent B, and 20 min from 25% to 40% of solvent B)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 0.2 μL per min."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in Top20 mode."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da on the MS/MS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ]
+  }
+}

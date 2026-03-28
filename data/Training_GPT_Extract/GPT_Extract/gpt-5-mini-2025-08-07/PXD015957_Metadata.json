@@ -1,0 +1,2012 @@
+{
+  "12T_NT1.raw": {
+    "Source Name": [
+      "12T_NT1"
+    ],
+    "Assay Name": [
+      "12T_NT1_assay"
+    ],
+    "Raw Data File": [
+      "12T_NT1.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "12T"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "NT1"
+    ],
+    "FactorValue[Treatment]": [
+      "non-treated"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic melanoma tumor resections"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three experimental replicates per each cell line and each condition"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "0.2\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "unspecific"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive-Plus (Thermo Fisher Scientific)",
+      "UltiMate 3000 RSLCnano-capillary UHPLC system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent \u201ctop 10\u201d method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "electrospray"
+    ],
+    "Comment[GradientTime]": [
+      "linear gradient over 2\u2009h"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.15\u2009\u00b5l/min"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA peptidomics",
+      "HLA molecules were immunoaffinity purified"
+    ],
+    "Comment[CollisionEnergy]": [
+      "Normalized collision energy was set to 25%"
+    ]
+  },
+  "12T_NT3.raw": {
+    "Source Name": [
+      "12T_NT3"
+    ],
+    "Assay Name": [
+      "12T_NT3_assay"
+    ],
+    "Raw Data File": [
+      "12T_NT3.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "12T"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "NT3"
+    ],
+    "FactorValue[Treatment]": [
+      "non-treated"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic melanoma tumor resections"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three experimental replicates per each cell line and each condition"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "0.2\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "unspecific"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive-Plus (Thermo Fisher Scientific)",
+      "UltiMate 3000 RSLCnano-capillary UHPLC system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent \u201ctop 10\u201d method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "electrospray"
+    ],
+    "Comment[GradientTime]": [
+      "linear gradient over 2\u2009h"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.15\u2009\u00b5l/min"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA peptidomics",
+      "HLA molecules were immunoaffinity purified"
+    ],
+    "Comment[CollisionEnergy]": [
+      "Normalized collision energy was set to 25%"
+    ]
+  },
+  "A375_OE2.raw": {
+    "Source Name": [
+      "A375_OE2"
+    ],
+    "Assay Name": [
+      "A375_OE2_assay"
+    ],
+    "Raw Data File": [
+      "A375_OE2.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "A375"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "OE2"
+    ],
+    "FactorValue[Treatment]": [
+      "overexpressed both PSMB8 and PSMB9 (OE)"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic melanoma tumor resections"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three experimental replicates per each cell line and each condition"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "0.2\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "unspecific"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive-Plus (Thermo Fisher Scientific)",
+      "UltiMate 3000 RSLCnano-capillary UHPLC system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent \u201ctop 10\u201d method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "electrospray"
+    ],
+    "Comment[GradientTime]": [
+      "linear gradient over 2\u2009h"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.15\u2009\u00b5l/min"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA peptidomics",
+      "HLA molecules were immunoaffinity purified"
+    ],
+    "Comment[CollisionEnergy]": [
+      "Normalized collision energy was set to 25%"
+    ]
+  },
+  "12T_NT2.raw": {
+    "Source Name": [
+      "12T_NT2"
+    ],
+    "Assay Name": [
+      "12T_NT2_assay"
+    ],
+    "Raw Data File": [
+      "12T_NT2.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "12T"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "NT2"
+    ],
+    "FactorValue[Treatment]": [
+      "non-treated"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic melanoma tumor resections"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three experimental replicates per each cell line and each condition"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "0.2\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "unspecific"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive-Plus (Thermo Fisher Scientific)",
+      "UltiMate 3000 RSLCnano-capillary UHPLC system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent \u201ctop 10\u201d method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "electrospray"
+    ],
+    "Comment[GradientTime]": [
+      "linear gradient over 2\u2009h"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.15\u2009\u00b5l/min"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA peptidomics",
+      "HLA molecules were immunoaffinity purified"
+    ],
+    "Comment[CollisionEnergy]": [
+      "Normalized collision energy was set to 25%"
+    ]
+  },
+  "108T_IFN1.raw": {
+    "Source Name": [
+      "108T_IFN1"
+    ],
+    "Assay Name": [
+      "108T_IFN1_assay"
+    ],
+    "Raw Data File": [
+      "108T_IFN1.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "108T"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "IFN1"
+    ],
+    "FactorValue[Treatment]": [
+      "treated with 250\u2009U/ml IFN\u03b3 (Peprotech) for 48\u2009h"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic melanoma tumor resections"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three experimental replicates per each cell line and each condition"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "0.2\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "unspecific"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive-Plus (Thermo Fisher Scientific)",
+      "UltiMate 3000 RSLCnano-capillary UHPLC system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent \u201ctop 10\u201d method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "electrospray"
+    ],
+    "Comment[GradientTime]": [
+      "linear gradient over 2\u2009h"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.15\u2009\u00b5l/min"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA peptidomics",
+      "HLA molecules were immunoaffinity purified"
+    ],
+    "Comment[CollisionEnergy]": [
+      "Normalized collision energy was set to 25%"
+    ]
+  },
+  "108T_EV2.raw": {
+    "Source Name": [
+      "108T_EV2"
+    ],
+    "Assay Name": [
+      "108T_EV2_assay"
+    ],
+    "Raw Data File": [
+      "108T_EV2.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "108T"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "EV2"
+    ],
+    "FactorValue[Treatment]": [
+      "empty vector control"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic melanoma tumor resections"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three experimental replicates per each cell line and each condition"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "0.2\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "unspecific"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive-Plus (Thermo Fisher Scientific)",
+      "UltiMate 3000 RSLCnano-capillary UHPLC system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent \u201ctop 10\u201d method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "electrospray"
+    ],
+    "Comment[GradientTime]": [
+      "linear gradient over 2\u2009h"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.15\u2009\u00b5l/min"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA peptidomics",
+      "HLA molecules were immunoaffinity purified"
+    ],
+    "Comment[CollisionEnergy]": [
+      "Normalized collision energy was set to 25%"
+    ]
+  },
+  "108T_OE1.raw": {
+    "Source Name": [
+      "108T_OE1"
+    ],
+    "Assay Name": [
+      "108T_OE1_assay"
+    ],
+    "Raw Data File": [
+      "108T_OE1.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "108T"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "OE1"
+    ],
+    "FactorValue[Treatment]": [
+      "overexpressed both PSMB8 and PSMB9 (OE)"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic melanoma tumor resections"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three experimental replicates per each cell line and each condition"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "0.2\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "unspecific"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive-Plus (Thermo Fisher Scientific)",
+      "UltiMate 3000 RSLCnano-capillary UHPLC system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent \u201ctop 10\u201d method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "electrospray"
+    ],
+    "Comment[GradientTime]": [
+      "linear gradient over 2\u2009h"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.15\u2009\u00b5l/min"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA peptidomics",
+      "HLA molecules were immunoaffinity purified"
+    ],
+    "Comment[CollisionEnergy]": [
+      "Normalized collision energy was set to 25%"
+    ]
+  },
+  "108T_IFN2.raw": {
+    "Source Name": [
+      "108T_IFN2"
+    ],
+    "Assay Name": [
+      "108T_IFN2_assay"
+    ],
+    "Raw Data File": [
+      "108T_IFN2.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "108T"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "IFN2"
+    ],
+    "FactorValue[Treatment]": [
+      "treated with 250\u2009U/ml IFN\u03b3 (Peprotech) for 48\u2009h"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic melanoma tumor resections"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three experimental replicates per each cell line and each condition"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "0.2\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "unspecific"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive-Plus (Thermo Fisher Scientific)",
+      "UltiMate 3000 RSLCnano-capillary UHPLC system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent \u201ctop 10\u201d method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "electrospray"
+    ],
+    "Comment[GradientTime]": [
+      "linear gradient over 2\u2009h"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.15\u2009\u00b5l/min"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA peptidomics",
+      "HLA molecules were immunoaffinity purified"
+    ],
+    "Comment[CollisionEnergy]": [
+      "Normalized collision energy was set to 25%"
+    ]
+  },
+  "108T_EV1.raw": {
+    "Source Name": [
+      "108T_EV1"
+    ],
+    "Assay Name": [
+      "108T_EV1_assay"
+    ],
+    "Raw Data File": [
+      "108T_EV1.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "108T"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "EV1"
+    ],
+    "FactorValue[Treatment]": [
+      "empty vector control"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic melanoma tumor resections"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three experimental replicates per each cell line and each condition"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "0.2\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "unspecific"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive-Plus (Thermo Fisher Scientific)",
+      "UltiMate 3000 RSLCnano-capillary UHPLC system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent \u201ctop 10\u201d method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "electrospray"
+    ],
+    "Comment[GradientTime]": [
+      "linear gradient over 2\u2009h"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.15\u2009\u00b5l/min"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA peptidomics",
+      "HLA molecules were immunoaffinity purified"
+    ],
+    "Comment[CollisionEnergy]": [
+      "Normalized collision energy was set to 25%"
+    ]
+  },
+  "108T_EV3.raw": {
+    "Source Name": [
+      "108T_EV3"
+    ],
+    "Assay Name": [
+      "108T_EV3_assay"
+    ],
+    "Raw Data File": [
+      "108T_EV3.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "108T"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "EV3"
+    ],
+    "FactorValue[Treatment]": [
+      "empty vector control"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic melanoma tumor resections"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three experimental replicates per each cell line and each condition"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "0.2\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "unspecific"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive-Plus (Thermo Fisher Scientific)",
+      "UltiMate 3000 RSLCnano-capillary UHPLC system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent \u201ctop 10\u201d method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "electrospray"
+    ],
+    "Comment[GradientTime]": [
+      "linear gradient over 2\u2009h"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.15\u2009\u00b5l/min"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA peptidomics",
+      "HLA molecules were immunoaffinity purified"
+    ],
+    "Comment[CollisionEnergy]": [
+      "Normalized collision energy was set to 25%"
+    ]
+  },
+  "12T_IFN3.raw": {
+    "Source Name": [
+      "12T_IFN3"
+    ],
+    "Assay Name": [
+      "12T_IFN3_assay"
+    ],
+    "Raw Data File": [
+      "12T_IFN3.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "12T"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "IFN3"
+    ],
+    "FactorValue[Treatment]": [
+      "treated with 250\u2009U/ml IFN\u03b3 (Peprotech) for 48\u2009h"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic melanoma tumor resections"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three experimental replicates per each cell line and each condition"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "0.2\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "unspecific"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive-Plus (Thermo Fisher Scientific)",
+      "UltiMate 3000 RSLCnano-capillary UHPLC system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent \u201ctop 10\u201d method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "electrospray"
+    ],
+    "Comment[GradientTime]": [
+      "linear gradient over 2\u2009h"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.15\u2009\u00b5l/min"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA peptidomics",
+      "HLA molecules were immunoaffinity purified"
+    ],
+    "Comment[CollisionEnergy]": [
+      "Normalized collision energy was set to 25%"
+    ]
+  },
+  "12T_OE3.raw": {
+    "Source Name": [
+      "12T_OE3"
+    ],
+    "Assay Name": [
+      "12T_OE3_assay"
+    ],
+    "Raw Data File": [
+      "12T_OE3.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "12T"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "OE3"
+    ],
+    "FactorValue[Treatment]": [
+      "overexpressed both PSMB8 and PSMB9 (OE)"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic melanoma tumor resections"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three experimental replicates per each cell line and each condition"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "0.2\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "unspecific"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive-Plus (Thermo Fisher Scientific)",
+      "UltiMate 3000 RSLCnano-capillary UHPLC system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent \u201ctop 10\u201d method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "electrospray"
+    ],
+    "Comment[GradientTime]": [
+      "linear gradient over 2\u2009h"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.15\u2009\u00b5l/min"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA peptidomics",
+      "HLA molecules were immunoaffinity purified"
+    ],
+    "Comment[CollisionEnergy]": [
+      "Normalized collision energy was set to 25%"
+    ]
+  },
+  "108T_IFN3.raw": {
+    "Source Name": [
+      "108T_IFN3"
+    ],
+    "Assay Name": [
+      "108T_IFN3_assay"
+    ],
+    "Raw Data File": [
+      "108T_IFN3.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "108T"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "IFN3"
+    ],
+    "FactorValue[Treatment]": [
+      "treated with 250\u2009U/ml IFN\u03b3 (Peprotech) for 48\u2009h"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic melanoma tumor resections"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three experimental replicates per each cell line and each condition"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "0.2\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "unspecific"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive-Plus (Thermo Fisher Scientific)",
+      "UltiMate 3000 RSLCnano-capillary UHPLC system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent \u201ctop 10\u201d method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "electrospray"
+    ],
+    "Comment[GradientTime]": [
+      "linear gradient over 2\u2009h"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.15\u2009\u00b5l/min"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA peptidomics",
+      "HLA molecules were immunoaffinity purified"
+    ],
+    "Comment[CollisionEnergy]": [
+      "Normalized collision energy was set to 25%"
+    ]
+  },
+  "A375_EV3.raw": {
+    "Source Name": [
+      "A375_EV3"
+    ],
+    "Assay Name": [
+      "A375_EV3_assay"
+    ],
+    "Raw Data File": [
+      "A375_EV3.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "A375"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "EV3"
+    ],
+    "FactorValue[Treatment]": [
+      "empty vector control"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic melanoma tumor resections"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three experimental replicates per each cell line and each condition"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "0.2\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "unspecific"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive-Plus (Thermo Fisher Scientific)",
+      "UltiMate 3000 RSLCnano-capillary UHPLC system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent \u201ctop 10\u201d method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "electrospray"
+    ],
+    "Comment[GradientTime]": [
+      "linear gradient over 2\u2009h"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.15\u2009\u00b5l/min"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA peptidomics",
+      "HLA molecules were immunoaffinity purified"
+    ],
+    "Comment[CollisionEnergy]": [
+      "Normalized collision energy was set to 25%"
+    ]
+  },
+  "12T_EV2.raw": {
+    "Source Name": [
+      "12T_EV2"
+    ],
+    "Assay Name": [
+      "12T_EV2_assay"
+    ],
+    "Raw Data File": [
+      "12T_EV2.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "12T"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "EV2"
+    ],
+    "FactorValue[Treatment]": [
+      "empty vector control"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic melanoma tumor resections"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three experimental replicates per each cell line and each condition"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "0.2\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "unspecific"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive-Plus (Thermo Fisher Scientific)",
+      "UltiMate 3000 RSLCnano-capillary UHPLC system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent \u201ctop 10\u201d method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "electrospray"
+    ],
+    "Comment[GradientTime]": [
+      "linear gradient over 2\u2009h"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.15\u2009\u00b5l/min"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA peptidomics",
+      "HLA molecules were immunoaffinity purified"
+    ],
+    "Comment[CollisionEnergy]": [
+      "Normalized collision energy was set to 25%"
+    ]
+  },
+  "12T_IFN1.raw": {
+    "Source Name": [
+      "12T_IFN1"
+    ],
+    "Assay Name": [
+      "12T_IFN1_assay"
+    ],
+    "Raw Data File": [
+      "12T_IFN1.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "12T"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "IFN1"
+    ],
+    "FactorValue[Treatment]": [
+      "treated with 250\u2009U/ml IFN\u03b3 (Peprotech) for 48\u2009h"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic melanoma tumor resections"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three experimental replicates per each cell line and each condition"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "0.2\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "unspecific"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive-Plus (Thermo Fisher Scientific)",
+      "UltiMate 3000 RSLCnano-capillary UHPLC system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent \u201ctop 10\u201d method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "electrospray"
+    ],
+    "Comment[GradientTime]": [
+      "linear gradient over 2\u2009h"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.15\u2009\u00b5l/min"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA peptidomics",
+      "HLA molecules were immunoaffinity purified"
+    ],
+    "Comment[CollisionEnergy]": [
+      "Normalized collision energy was set to 25%"
+    ]
+  },
+  "108T_OE2.raw": {
+    "Source Name": [
+      "108T_OE2"
+    ],
+    "Assay Name": [
+      "108T_OE2_assay"
+    ],
+    "Raw Data File": [
+      "108T_OE2.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "108T"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "OE2"
+    ],
+    "FactorValue[Treatment]": [
+      "overexpressed both PSMB8 and PSMB9 (OE)"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic melanoma tumor resections"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three experimental replicates per each cell line and each condition"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "0.2\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "unspecific"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive-Plus (Thermo Fisher Scientific)",
+      "UltiMate 3000 RSLCnano-capillary UHPLC system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent \u201ctop 10\u201d method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "electrospray"
+    ],
+    "Comment[GradientTime]": [
+      "linear gradient over 2\u2009h"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.15\u2009\u00b5l/min"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA peptidomics",
+      "HLA molecules were immunoaffinity purified"
+    ],
+    "Comment[CollisionEnergy]": [
+      "Normalized collision energy was set to 25%"
+    ]
+  },
+  "12T_OE2.raw": {
+    "Source Name": [
+      "12T_OE2"
+    ],
+    "Assay Name": [
+      "12T_OE2_assay"
+    ],
+    "Raw Data File": [
+      "12T_OE2.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "12T"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "OE2"
+    ],
+    "FactorValue[Treatment]": [
+      "overexpressed both PSMB8 and PSMB9 (OE)"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic melanoma tumor resections"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three experimental replicates per each cell line and each condition"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "0.2\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "unspecific"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive-Plus (Thermo Fisher Scientific)",
+      "UltiMate 3000 RSLCnano-capillary UHPLC system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent \u201ctop 10\u201d method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "electrospray"
+    ],
+    "Comment[GradientTime]": [
+      "linear gradient over 2\u2009h"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.15\u2009\u00b5l/min"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA peptidomics",
+      "HLA molecules were immunoaffinity purified"
+    ],
+    "Comment[CollisionEnergy]": [
+      "Normalized collision energy was set to 25%"
+    ]
+  },
+  "A375_EV1.raw": {
+    "Source Name": [
+      "A375_EV1"
+    ],
+    "Assay Name": [
+      "A375_EV1_assay"
+    ],
+    "Raw Data File": [
+      "A375_EV1.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "A375"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "EV1"
+    ],
+    "FactorValue[Treatment]": [
+      "empty vector control"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic melanoma tumor resections"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three experimental replicates per each cell line and each condition"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "0.2\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "unspecific"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive-Plus (Thermo Fisher Scientific)",
+      "UltiMate 3000 RSLCnano-capillary UHPLC system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent \u201ctop 10\u201d method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "electrospray"
+    ],
+    "Comment[GradientTime]": [
+      "linear gradient over 2\u2009h"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.15\u2009\u00b5l/min"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA peptidomics",
+      "HLA molecules were immunoaffinity purified"
+    ],
+    "Comment[CollisionEnergy]": [
+      "Normalized collision energy was set to 25%"
+    ]
+  },
+  "12T_OE1.raw": {
+    "Source Name": [
+      "12T_OE1"
+    ],
+    "Assay Name": [
+      "12T_OE1_assay"
+    ],
+    "Raw Data File": [
+      "12T_OE1.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "12T"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "OE1"
+    ],
+    "FactorValue[Treatment]": [
+      "overexpressed both PSMB8 and PSMB9 (OE)"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic melanoma tumor resections"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three experimental replicates per each cell line and each condition"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "0.2\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "unspecific"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive-Plus (Thermo Fisher Scientific)",
+      "UltiMate 3000 RSLCnano-capillary UHPLC system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent \u201ctop 10\u201d method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "electrospray"
+    ],
+    "Comment[GradientTime]": [
+      "linear gradient over 2\u2009h"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.15\u2009\u00b5l/min"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA peptidomics",
+      "HLA molecules were immunoaffinity purified"
+    ],
+    "Comment[CollisionEnergy]": [
+      "Normalized collision energy was set to 25%"
+    ]
+  },
+  "12T_EV3.raw": {
+    "Source Name": [
+      "12T_EV3"
+    ],
+    "Assay Name": [
+      "12T_EV3_assay"
+    ],
+    "Raw Data File": [
+      "12T_EV3.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "12T"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "EV3"
+    ],
+    "FactorValue[Treatment]": [
+      "empty vector control"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic melanoma tumor resections"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three experimental replicates per each cell line and each condition"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "0.2\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "unspecific"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive-Plus (Thermo Fisher Scientific)",
+      "UltiMate 3000 RSLCnano-capillary UHPLC system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent \u201ctop 10\u201d method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "electrospray"
+    ],
+    "Comment[GradientTime]": [
+      "linear gradient over 2\u2009h"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.15\u2009\u00b5l/min"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA peptidomics",
+      "HLA molecules were immunoaffinity purified"
+    ],
+    "Comment[CollisionEnergy]": [
+      "Normalized collision energy was set to 25%"
+    ]
+  },
+  "108T_OE3.raw": {
+    "Source Name": [
+      "108T_OE3"
+    ],
+    "Assay Name": [
+      "108T_OE3_assay"
+    ],
+    "Raw Data File": [
+      "108T_OE3.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "108T"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "OE3"
+    ],
+    "FactorValue[Treatment]": [
+      "overexpressed both PSMB8 and PSMB9 (OE)"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic melanoma tumor resections"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three experimental replicates per each cell line and each condition"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "0.2\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "unspecific"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive-Plus (Thermo Fisher Scientific)",
+      "UltiMate 3000 RSLCnano-capillary UHPLC system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent \u201ctop 10\u201d method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "electrospray"
+    ],
+    "Comment[GradientTime]": [
+      "linear gradient over 2\u2009h"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.15\u2009\u00b5l/min"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA peptidomics",
+      "HLA molecules were immunoaffinity purified"
+    ],
+    "Comment[CollisionEnergy]": [
+      "Normalized collision energy was set to 25%"
+    ]
+  },
+  "108T_NT2.raw": {
+    "Source Name": [
+      "108T_NT2"
+    ],
+    "Assay Name": [
+      "108T_NT2_assay"
+    ],
+    "Raw Data File": [
+      "108T_NT2.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "108T"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "NT2"
+    ],
+    "FactorValue[Treatment]": [
+      "non-treated"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic melanoma tumor resections"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three experimental replicates per each cell line and each condition"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "0.2\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "unspecific"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive-Plus (Thermo Fisher Scientific)",
+      "UltiMate 3000 RSLCnano-capillary UHPLC system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent \u201ctop 10\u201d method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "electrospray"
+    ],
+    "Comment[GradientTime]": [
+      "linear gradient over 2\u2009h"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.15\u2009\u00b5l/min"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA peptidomics",
+      "HLA molecules were immunoaffinity purified"
+    ],
+    "Comment[CollisionEnergy]": [
+      "Normalized collision energy was set to 25%"
+    ]
+  },
+  "108T_NT1.raw": {
+    "Source Name": [
+      "108T_NT1"
+    ],
+    "Assay Name": [
+      "108T_NT1_assay"
+    ],
+    "Raw Data File": [
+      "108T_NT1.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "108T"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "NT1"
+    ],
+    "FactorValue[Treatment]": [
+      "non-treated"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic melanoma tumor resections"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three experimental replicates per each cell line and each condition"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "0.2\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "unspecific"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive-Plus (Thermo Fisher Scientific)",
+      "UltiMate 3000 RSLCnano-capillary UHPLC system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent \u201ctop 10\u201d method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "electrospray"
+    ],
+    "Comment[GradientTime]": [
+      "linear gradient over 2\u2009h"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.15\u2009\u00b5l/min"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA peptidomics",
+      "HLA molecules were immunoaffinity purified"
+    ],
+    "Comment[CollisionEnergy]": [
+      "Normalized collision energy was set to 25%"
+    ]
+  },
+  "108T_NT3.raw": {
+    "Source Name": [
+      "108T_NT3"
+    ],
+    "Assay Name": [
+      "108T_NT3_assay"
+    ],
+    "Raw Data File": [
+      "108T_NT3.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "108T"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "NT3"
+    ],
+    "FactorValue[Treatment]": [
+      "non-treated"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic melanoma tumor resections"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three experimental replicates per each cell line and each condition"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "0.2\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "unspecific"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive-Plus (Thermo Fisher Scientific)",
+      "UltiMate 3000 RSLCnano-capillary UHPLC system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent \u201ctop 10\u201d method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "electrospray"
+    ],
+    "Comment[GradientTime]": [
+      "linear gradient over 2\u2009h"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.15\u2009\u00b5l/min"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA peptidomics",
+      "HLA molecules were immunoaffinity purified"
+    ],
+    "Comment[CollisionEnergy]": [
+      "Normalized collision energy was set to 25%"
+    ]
+  },
+  "A375_EV2.raw": {
+    "Source Name": [
+      "A375_EV2"
+    ],
+    "Assay Name": [
+      "A375_EV2_assay"
+    ],
+    "Raw Data File": [
+      "A375_EV2.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "A375"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "EV2"
+    ],
+    "FactorValue[Treatment]": [
+      "empty vector control"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic melanoma tumor resections"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three experimental replicates per each cell line and each condition"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "0.2\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "unspecific"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive-Plus (Thermo Fisher Scientific)",
+      "UltiMate 3000 RSLCnano-capillary UHPLC system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent \u201ctop 10\u201d method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "electrospray"
+    ],
+    "Comment[GradientTime]": [
+      "linear gradient over 2\u2009h"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.15\u2009\u00b5l/min"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA peptidomics",
+      "HLA molecules were immunoaffinity purified"
+    ],
+    "Comment[CollisionEnergy]": [
+      "Normalized collision energy was set to 25%"
+    ]
+  },
+  "A375_OE1.raw": {
+    "Source Name": [
+      "A375_OE1"
+    ],
+    "Assay Name": [
+      "A375_OE1_assay"
+    ],
+    "Raw Data File": [
+      "A375_OE1.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "A375"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "OE1"
+    ],
+    "FactorValue[Treatment]": [
+      "overexpressed both PSMB8 and PSMB9 (OE)"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic melanoma tumor resections"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three experimental replicates per each cell line and each condition"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "0.2\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "unspecific"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive-Plus (Thermo Fisher Scientific)",
+      "UltiMate 3000 RSLCnano-capillary UHPLC system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent \u201ctop 10\u201d method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "electrospray"
+    ],
+    "Comment[GradientTime]": [
+      "linear gradient over 2\u2009h"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.15\u2009\u00b5l/min"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA peptidomics",
+      "HLA molecules were immunoaffinity purified"
+    ],
+    "Comment[CollisionEnergy]": [
+      "Normalized collision energy was set to 25%"
+    ]
+  },
+  "A375_OE3.raw": {
+    "Source Name": [
+      "A375_OE3"
+    ],
+    "Assay Name": [
+      "A375_OE3_assay"
+    ],
+    "Raw Data File": [
+      "A375_OE3.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "A375"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "OE3"
+    ],
+    "FactorValue[Treatment]": [
+      "overexpressed both PSMB8 and PSMB9 (OE)"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic melanoma tumor resections"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three experimental replicates per each cell line and each condition"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "0.2\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "unspecific"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive-Plus (Thermo Fisher Scientific)",
+      "UltiMate 3000 RSLCnano-capillary UHPLC system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent \u201ctop 10\u201d method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "electrospray"
+    ],
+    "Comment[GradientTime]": [
+      "linear gradient over 2\u2009h"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.15\u2009\u00b5l/min"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA peptidomics",
+      "HLA molecules were immunoaffinity purified"
+    ],
+    "Comment[CollisionEnergy]": [
+      "Normalized collision energy was set to 25%"
+    ]
+  },
+  "12T_IFN2.raw": {
+    "Source Name": [
+      "12T_IFN2"
+    ],
+    "Assay Name": [
+      "12T_IFN2_assay"
+    ],
+    "Raw Data File": [
+      "12T_IFN2.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "12T"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "IFN2"
+    ],
+    "FactorValue[Treatment]": [
+      "treated with 250\u2009U/ml IFN\u03b3 (Peprotech) for 48\u2009h"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic melanoma tumor resections"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three experimental replicates per each cell line and each condition"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "0.2\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "unspecific"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive-Plus (Thermo Fisher Scientific)",
+      "UltiMate 3000 RSLCnano-capillary UHPLC system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent \u201ctop 10\u201d method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "electrospray"
+    ],
+    "Comment[GradientTime]": [
+      "linear gradient over 2\u2009h"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.15\u2009\u00b5l/min"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA peptidomics",
+      "HLA molecules were immunoaffinity purified"
+    ],
+    "Comment[CollisionEnergy]": [
+      "Normalized collision energy was set to 25%"
+    ]
+  },
+  "12T_EV1.raw": {
+    "Source Name": [
+      "12T_EV1"
+    ],
+    "Assay Name": [
+      "12T_EV1_assay"
+    ],
+    "Raw Data File": [
+      "12T_EV1.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "12T"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "EV1"
+    ],
+    "FactorValue[Treatment]": [
+      "empty vector control"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[Disease]": [
+      "metastatic melanoma tumor resections"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three experimental replicates per each cell line and each condition"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "0.2\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "unspecific"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive-Plus (Thermo Fisher Scientific)",
+      "UltiMate 3000 RSLCnano-capillary UHPLC system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent \u201ctop 10\u201d method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[IonizationType]": [
+      "electrospray"
+    ],
+    "Comment[GradientTime]": [
+      "linear gradient over 2\u2009h"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "0.15\u2009\u00b5l/min"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA peptidomics",
+      "HLA molecules were immunoaffinity purified"
+    ],
+    "Comment[CollisionEnergy]": [
+      "Normalized collision energy was set to 25%"
+    ]
+  }
+}

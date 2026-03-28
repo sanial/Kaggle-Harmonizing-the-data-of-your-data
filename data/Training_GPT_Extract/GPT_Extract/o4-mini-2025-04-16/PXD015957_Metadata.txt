@@ -1,0 +1,35 @@
+Instrument: Typhoon-9410 laser flatbed scanner (GE Healthcare, USA)  
+Instrument: UltiMate 3000 RSLCnano-capillary UHPLC system (Thermo Fisher Scientific)  
+Instrument: Q-Exactive-Plus (Thermo Fisher Scientific)  
+Instrument: Countess II Automated Cell Counter (Thermo Fisher Scientific)  
+Separation: capillary reversed-phase chromatography on 075 × 300 mm laser-pulled capillaries, self-packed with C18 reversed-phase 3.5 μm beads  
+FlowRateChromatogram: 0.15 µl/min  
+GradientTime: 2 h  
+FragmentationMethod: higher-energy collisional dissociation (HCD)  
+CollisionEnergy: 25%  
+IonizationType: electrospray  
+EnrichmentMethod: HLA peptidomics  
+MaterialType: Protein-A Sepharose beads  
+MaterialType: C18 reversed-phase 3.5 μm beads (Reprosil-C18-Aqua, Dr. Maisch GmbH)  
+ConcentrationOfCompound: 0.1 mM suc-LLVY-AMC  
+ConcentrationOfCompound: 0.1 mM ac-PAL-AMC  
+ConcentrationOfCompound: 0.04 mM MG132 proteasome inhibitor  
+ConcentrationOfCompound: 0.2 mM iodoacetamide  
+ConcentrationOfCompound: 1 mM DTT  
+ConcentrationOfCompound: 250 U/ml IFNγ  
+Compound: suc-LLVY-AMC  
+Compound: ac-PAL-AMC  
+Compound: MG132 proteasome inhibitor  
+Compound: iodoacetamide  
+Compound: DTT  
+Compound: IFNγ  
+SamplingTime: 30 min  
+SamplingTime: 48 h  
+Temperature: on ice  
+AssayName: PierceTM BCA protein assay kit  
+CellLine: 108T  
+CellLine: 12T  
+CellLine: A375  
+CellLine: HB95  
+CellLine: EBV-transformed B-cells  
+Staining: PE/Cy7 anti-HLA-A, B, C (W6/32) antibody (311429, Biolegend)

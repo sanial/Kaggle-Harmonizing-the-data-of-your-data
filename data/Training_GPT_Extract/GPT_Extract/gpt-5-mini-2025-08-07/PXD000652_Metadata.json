@@ -1,0 +1,2578 @@
+{
+  "HV_map_B9.raw": {
+    "Source Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Assay Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool._B9"
+    ],
+    "Raw Data File": [
+      "HV_map_B9.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[PooledSample]": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min and the gradient length was 70 min."
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE and mixed mode reversed phase-anion exchange for mapping the global CSF proteome, and hydrazide-based glycopeptide capture for mapping glycopeptides.",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "The lanes were cut into a total of 83 gel slices as described in Fig. 1B, 37 slices from the lane with the bound (high abundant) protein fraction and 46 slices from the lane with the depleted fraction."
+    ],
+    "Comment[FractionIdentifier]": [
+      "B9"
+    ]
+  },
+  "HV_map_B15.raw": {
+    "Source Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Assay Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool._B15"
+    ],
+    "Raw Data File": [
+      "HV_map_B15.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[PooledSample]": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min and the gradient length was 70 min."
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE and mixed mode reversed phase-anion exchange for mapping the global CSF proteome, and hydrazide-based glycopeptide capture for mapping glycopeptides.",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "The lanes were cut into a total of 83 gel slices as described in Fig. 1B, 37 slices from the lane with the bound (high abundant) protein fraction and 46 slices from the lane with the depleted fraction."
+    ],
+    "Comment[FractionIdentifier]": [
+      "B15"
+    ]
+  },
+  "HV_map_B30.raw": {
+    "Source Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Assay Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool._B30"
+    ],
+    "Raw Data File": [
+      "HV_map_B30.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[PooledSample]": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min and the gradient length was 70 min."
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE and mixed mode reversed phase-anion exchange for mapping the global CSF proteome, and hydrazide-based glycopeptide capture for mapping glycopeptides.",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "The lanes were cut into a total of 83 gel slices as described in Fig. 1B, 37 slices from the lane with the bound (high abundant) protein fraction and 46 slices from the lane with the depleted fraction."
+    ],
+    "Comment[FractionIdentifier]": [
+      "B30"
+    ]
+  },
+  "HV_map_B17.raw": {
+    "Source Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Assay Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool._B17"
+    ],
+    "Raw Data File": [
+      "HV_map_B17.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[PooledSample]": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min and the gradient length was 70 min."
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE and mixed mode reversed phase-anion exchange for mapping the global CSF proteome, and hydrazide-based glycopeptide capture for mapping glycopeptides.",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "The lanes were cut into a total of 83 gel slices as described in Fig. 1B, 37 slices from the lane with the bound (high abundant) protein fraction and 46 slices from the lane with the depleted fraction."
+    ],
+    "Comment[FractionIdentifier]": [
+      "B17"
+    ]
+  },
+  "HV_map_B12.raw": {
+    "Source Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Assay Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool._B12"
+    ],
+    "Raw Data File": [
+      "HV_map_B12.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[PooledSample]": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min and the gradient length was 70 min."
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE and mixed mode reversed phase-anion exchange for mapping the global CSF proteome, and hydrazide-based glycopeptide capture for mapping glycopeptides.",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "The lanes were cut into a total of 83 gel slices as described in Fig. 1B, 37 slices from the lane with the bound (high abundant) protein fraction and 46 slices from the lane with the depleted fraction."
+    ],
+    "Comment[FractionIdentifier]": [
+      "B12"
+    ]
+  },
+  "HV_map_B13.raw": {
+    "Source Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Assay Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool._B13"
+    ],
+    "Raw Data File": [
+      "HV_map_B13.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[PooledSample]": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min and the gradient length was 70 min."
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE and mixed mode reversed phase-anion exchange for mapping the global CSF proteome, and hydrazide-based glycopeptide capture for mapping glycopeptides.",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "The lanes were cut into a total of 83 gel slices as described in Fig. 1B, 37 slices from the lane with the bound (high abundant) protein fraction and 46 slices from the lane with the depleted fraction."
+    ],
+    "Comment[FractionIdentifier]": [
+      "B13"
+    ]
+  },
+  "HV_map_B5.raw": {
+    "Source Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Assay Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool._B5"
+    ],
+    "Raw Data File": [
+      "HV_map_B5.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[PooledSample]": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min and the gradient length was 70 min."
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE and mixed mode reversed phase-anion exchange for mapping the global CSF proteome, and hydrazide-based glycopeptide capture for mapping glycopeptides.",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "The lanes were cut into a total of 83 gel slices as described in Fig. 1B, 37 slices from the lane with the bound (high abundant) protein fraction and 46 slices from the lane with the depleted fraction."
+    ],
+    "Comment[FractionIdentifier]": [
+      "B5"
+    ]
+  },
+  "HV_map_B2.raw": {
+    "Source Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Assay Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool._B2"
+    ],
+    "Raw Data File": [
+      "HV_map_B2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[PooledSample]": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min and the gradient length was 70 min."
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE and mixed mode reversed phase-anion exchange for mapping the global CSF proteome, and hydrazide-based glycopeptide capture for mapping glycopeptides.",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "The lanes were cut into a total of 83 gel slices as described in Fig. 1B, 37 slices from the lane with the bound (high abundant) protein fraction and 46 slices from the lane with the depleted fraction."
+    ],
+    "Comment[FractionIdentifier]": [
+      "B2"
+    ]
+  },
+  "HV_map_B42ny.raw": {
+    "Source Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Assay Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool._B42ny"
+    ],
+    "Raw Data File": [
+      "HV_map_B42ny.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[PooledSample]": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min and the gradient length was 70 min."
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE and mixed mode reversed phase-anion exchange for mapping the global CSF proteome, and hydrazide-based glycopeptide capture for mapping glycopeptides.",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "The lanes were cut into a total of 83 gel slices as described in Fig. 1B, 37 slices from the lane with the bound (high abundant) protein fraction and 46 slices from the lane with the depleted fraction."
+    ],
+    "Comment[FractionIdentifier]": [
+      "B42ny"
+    ]
+  },
+  "HV_map_B21.raw": {
+    "Source Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Assay Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool._B21"
+    ],
+    "Raw Data File": [
+      "HV_map_B21.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[PooledSample]": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min and the gradient length was 70 min."
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE and mixed mode reversed phase-anion exchange for mapping the global CSF proteome, and hydrazide-based glycopeptide capture for mapping glycopeptides.",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "The lanes were cut into a total of 83 gel slices as described in Fig. 1B, 37 slices from the lane with the bound (high abundant) protein fraction and 46 slices from the lane with the depleted fraction."
+    ],
+    "Comment[FractionIdentifier]": [
+      "B21"
+    ]
+  },
+  "HV_map_B7B8.raw": {
+    "Source Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Assay Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool._B7B8"
+    ],
+    "Raw Data File": [
+      "HV_map_B7B8.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[PooledSample]": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min and the gradient length was 70 min."
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE and mixed mode reversed phase-anion exchange for mapping the global CSF proteome, and hydrazide-based glycopeptide capture for mapping glycopeptides.",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "The lanes were cut into a total of 83 gel slices as described in Fig. 1B, 37 slices from the lane with the bound (high abundant) protein fraction and 46 slices from the lane with the depleted fraction."
+    ],
+    "Comment[FractionIdentifier]": [
+      "B7B8"
+    ]
+  },
+  "HV_map_B41.raw": {
+    "Source Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Assay Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool._B41"
+    ],
+    "Raw Data File": [
+      "HV_map_B41.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[PooledSample]": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min and the gradient length was 70 min."
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE and mixed mode reversed phase-anion exchange for mapping the global CSF proteome, and hydrazide-based glycopeptide capture for mapping glycopeptides.",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "The lanes were cut into a total of 83 gel slices as described in Fig. 1B, 37 slices from the lane with the bound (high abundant) protein fraction and 46 slices from the lane with the depleted fraction."
+    ],
+    "Comment[FractionIdentifier]": [
+      "B41"
+    ]
+  },
+  "HV_map_B43.raw": {
+    "Source Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Assay Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool._B43"
+    ],
+    "Raw Data File": [
+      "HV_map_B43.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[PooledSample]": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min and the gradient length was 70 min."
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE and mixed mode reversed phase-anion exchange for mapping the global CSF proteome, and hydrazide-based glycopeptide capture for mapping glycopeptides.",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "The lanes were cut into a total of 83 gel slices as described in Fig. 1B, 37 slices from the lane with the bound (high abundant) protein fraction and 46 slices from the lane with the depleted fraction."
+    ],
+    "Comment[FractionIdentifier]": [
+      "B43"
+    ]
+  },
+  "HV_map_B11.raw": {
+    "Source Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Assay Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool._B11"
+    ],
+    "Raw Data File": [
+      "HV_map_B11.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[PooledSample]": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min and the gradient length was 70 min."
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE and mixed mode reversed phase-anion exchange for mapping the global CSF proteome, and hydrazide-based glycopeptide capture for mapping glycopeptides.",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "The lanes were cut into a total of 83 gel slices as described in Fig. 1B, 37 slices from the lane with the bound (high abundant) protein fraction and 46 slices from the lane with the depleted fraction."
+    ],
+    "Comment[FractionIdentifier]": [
+      "B11"
+    ]
+  },
+  "HV_map_B36.raw": {
+    "Source Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Assay Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool._B36"
+    ],
+    "Raw Data File": [
+      "HV_map_B36.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[PooledSample]": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min and the gradient length was 70 min."
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE and mixed mode reversed phase-anion exchange for mapping the global CSF proteome, and hydrazide-based glycopeptide capture for mapping glycopeptides.",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "The lanes were cut into a total of 83 gel slices as described in Fig. 1B, 37 slices from the lane with the bound (high abundant) protein fraction and 46 slices from the lane with the depleted fraction."
+    ],
+    "Comment[FractionIdentifier]": [
+      "B36"
+    ]
+  },
+  "HV_map_B23.raw": {
+    "Source Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Assay Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool._B23"
+    ],
+    "Raw Data File": [
+      "HV_map_B23.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[PooledSample]": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min and the gradient length was 70 min."
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE and mixed mode reversed phase-anion exchange for mapping the global CSF proteome, and hydrazide-based glycopeptide capture for mapping glycopeptides.",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "The lanes were cut into a total of 83 gel slices as described in Fig. 1B, 37 slices from the lane with the bound (high abundant) protein fraction and 46 slices from the lane with the depleted fraction."
+    ],
+    "Comment[FractionIdentifier]": [
+      "B23"
+    ]
+  },
+  "HV_map_B25.raw": {
+    "Source Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Assay Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool._B25"
+    ],
+    "Raw Data File": [
+      "HV_map_B25.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[PooledSample]": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min and the gradient length was 70 min."
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE and mixed mode reversed phase-anion exchange for mapping the global CSF proteome, and hydrazide-based glycopeptide capture for mapping glycopeptides.",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "The lanes were cut into a total of 83 gel slices as described in Fig. 1B, 37 slices from the lane with the bound (high abundant) protein fraction and 46 slices from the lane with the depleted fraction."
+    ],
+    "Comment[FractionIdentifier]": [
+      "B25"
+    ]
+  },
+  "HV_map_B37.raw": {
+    "Source Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Assay Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool._B37"
+    ],
+    "Raw Data File": [
+      "HV_map_B37.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[PooledSample]": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min and the gradient length was 70 min."
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE and mixed mode reversed phase-anion exchange for mapping the global CSF proteome, and hydrazide-based glycopeptide capture for mapping glycopeptides.",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "The lanes were cut into a total of 83 gel slices as described in Fig. 1B, 37 slices from the lane with the bound (high abundant) protein fraction and 46 slices from the lane with the depleted fraction."
+    ],
+    "Comment[FractionIdentifier]": [
+      "B37"
+    ]
+  },
+  "HV_map_B20.raw": {
+    "Source Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Assay Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool._B20"
+    ],
+    "Raw Data File": [
+      "HV_map_B20.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[PooledSample]": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min and the gradient length was 70 min."
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE and mixed mode reversed phase-anion exchange for mapping the global CSF proteome, and hydrazide-based glycopeptide capture for mapping glycopeptides.",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "The lanes were cut into a total of 83 gel slices as described in Fig. 1B, 37 slices from the lane with the bound (high abundant) protein fraction and 46 slices from the lane with the depleted fraction."
+    ],
+    "Comment[FractionIdentifier]": [
+      "B20"
+    ]
+  },
+  "HV_map_B22.raw": {
+    "Source Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Assay Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool._B22"
+    ],
+    "Raw Data File": [
+      "HV_map_B22.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[PooledSample]": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min and the gradient length was 70 min."
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE and mixed mode reversed phase-anion exchange for mapping the global CSF proteome, and hydrazide-based glycopeptide capture for mapping glycopeptides.",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "The lanes were cut into a total of 83 gel slices as described in Fig. 1B, 37 slices from the lane with the bound (high abundant) protein fraction and 46 slices from the lane with the depleted fraction."
+    ],
+    "Comment[FractionIdentifier]": [
+      "B22"
+    ]
+  },
+  "HV_map_B26.raw": {
+    "Source Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Assay Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool._B26"
+    ],
+    "Raw Data File": [
+      "HV_map_B26.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[PooledSample]": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min and the gradient length was 70 min."
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE and mixed mode reversed phase-anion exchange for mapping the global CSF proteome, and hydrazide-based glycopeptide capture for mapping glycopeptides.",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "The lanes were cut into a total of 83 gel slices as described in Fig. 1B, 37 slices from the lane with the bound (high abundant) protein fraction and 46 slices from the lane with the depleted fraction."
+    ],
+    "Comment[FractionIdentifier]": [
+      "B26"
+    ]
+  },
+  "HV_map_B3.raw": {
+    "Source Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Assay Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool._B3"
+    ],
+    "Raw Data File": [
+      "HV_map_B3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[PooledSample]": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min and the gradient length was 70 min."
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE and mixed mode reversed phase-anion exchange for mapping the global CSF proteome, and hydrazide-based glycopeptide capture for mapping glycopeptides.",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "The lanes were cut into a total of 83 gel slices as described in Fig. 1B, 37 slices from the lane with the bound (high abundant) protein fraction and 46 slices from the lane with the depleted fraction."
+    ],
+    "Comment[FractionIdentifier]": [
+      "B3"
+    ]
+  },
+  "HV_map_B32.raw": {
+    "Source Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Assay Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool._B32"
+    ],
+    "Raw Data File": [
+      "HV_map_B32.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[PooledSample]": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min and the gradient length was 70 min."
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE and mixed mode reversed phase-anion exchange for mapping the global CSF proteome, and hydrazide-based glycopeptide capture for mapping glycopeptides.",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "The lanes were cut into a total of 83 gel slices as described in Fig. 1B, 37 slices from the lane with the bound (high abundant) protein fraction and 46 slices from the lane with the depleted fraction."
+    ],
+    "Comment[FractionIdentifier]": [
+      "B32"
+    ]
+  },
+  "HV_map_B4.raw": {
+    "Source Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Assay Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool._B4"
+    ],
+    "Raw Data File": [
+      "HV_map_B4.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[PooledSample]": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min and the gradient length was 70 min."
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE and mixed mode reversed phase-anion exchange for mapping the global CSF proteome, and hydrazide-based glycopeptide capture for mapping glycopeptides.",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "The lanes were cut into a total of 83 gel slices as described in Fig. 1B, 37 slices from the lane with the bound (high abundant) protein fraction and 46 slices from the lane with the depleted fraction."
+    ],
+    "Comment[FractionIdentifier]": [
+      "B4"
+    ]
+  },
+  "HV_map_B46.raw": {
+    "Source Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Assay Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool._B46"
+    ],
+    "Raw Data File": [
+      "HV_map_B46.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[PooledSample]": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min and the gradient length was 70 min."
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE and mixed mode reversed phase-anion exchange for mapping the global CSF proteome, and hydrazide-based glycopeptide capture for mapping glycopeptides.",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "The lanes were cut into a total of 83 gel slices as described in Fig. 1B, 37 slices from the lane with the bound (high abundant) protein fraction and 46 slices from the lane with the depleted fraction."
+    ],
+    "Comment[FractionIdentifier]": [
+      "B46"
+    ]
+  },
+  "HV_map_B34.raw": {
+    "Source Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Assay Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool._B34"
+    ],
+    "Raw Data File": [
+      "HV_map_B34.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[PooledSample]": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min and the gradient length was 70 min."
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE and mixed mode reversed phase-anion exchange for mapping the global CSF proteome, and hydrazide-based glycopeptide capture for mapping glycopeptides.",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "The lanes were cut into a total of 83 gel slices as described in Fig. 1B, 37 slices from the lane with the bound (high abundant) protein fraction and 46 slices from the lane with the depleted fraction."
+    ],
+    "Comment[FractionIdentifier]": [
+      "B34"
+    ]
+  },
+  "HV_map_B18.raw": {
+    "Source Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Assay Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool._B18"
+    ],
+    "Raw Data File": [
+      "HV_map_B18.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[PooledSample]": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min and the gradient length was 70 min."
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE and mixed mode reversed phase-anion exchange for mapping the global CSF proteome, and hydrazide-based glycopeptide capture for mapping glycopeptides.",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "The lanes were cut into a total of 83 gel slices as described in Fig. 1B, 37 slices from the lane with the bound (high abundant) protein fraction and 46 slices from the lane with the depleted fraction."
+    ],
+    "Comment[FractionIdentifier]": [
+      "B18"
+    ]
+  },
+  "HV_map_B27.raw": {
+    "Source Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Assay Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool._B27"
+    ],
+    "Raw Data File": [
+      "HV_map_B27.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[PooledSample]": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min and the gradient length was 70 min."
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE and mixed mode reversed phase-anion exchange for mapping the global CSF proteome, and hydrazide-based glycopeptide capture for mapping glycopeptides.",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "The lanes were cut into a total of 83 gel slices as described in Fig. 1B, 37 slices from the lane with the bound (high abundant) protein fraction and 46 slices from the lane with the depleted fraction."
+    ],
+    "Comment[FractionIdentifier]": [
+      "B27"
+    ]
+  },
+  "HV_map_B35.raw": {
+    "Source Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Assay Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool._B35"
+    ],
+    "Raw Data File": [
+      "HV_map_B35.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[PooledSample]": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min and the gradient length was 70 min."
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE and mixed mode reversed phase-anion exchange for mapping the global CSF proteome, and hydrazide-based glycopeptide capture for mapping glycopeptides.",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "The lanes were cut into a total of 83 gel slices as described in Fig. 1B, 37 slices from the lane with the bound (high abundant) protein fraction and 46 slices from the lane with the depleted fraction."
+    ],
+    "Comment[FractionIdentifier]": [
+      "B35"
+    ]
+  },
+  "HV_map_B24.raw": {
+    "Source Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Assay Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool._B24"
+    ],
+    "Raw Data File": [
+      "HV_map_B24.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[PooledSample]": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min and the gradient length was 70 min."
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE and mixed mode reversed phase-anion exchange for mapping the global CSF proteome, and hydrazide-based glycopeptide capture for mapping glycopeptides.",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "The lanes were cut into a total of 83 gel slices as described in Fig. 1B, 37 slices from the lane with the bound (high abundant) protein fraction and 46 slices from the lane with the depleted fraction."
+    ],
+    "Comment[FractionIdentifier]": [
+      "B24"
+    ]
+  },
+  "HV_map_B40.raw": {
+    "Source Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Assay Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool._B40"
+    ],
+    "Raw Data File": [
+      "HV_map_B40.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[PooledSample]": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min and the gradient length was 70 min."
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE and mixed mode reversed phase-anion exchange for mapping the global CSF proteome, and hydrazide-based glycopeptide capture for mapping glycopeptides.",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "The lanes were cut into a total of 83 gel slices as described in Fig. 1B, 37 slices from the lane with the bound (high abundant) protein fraction and 46 slices from the lane with the depleted fraction."
+    ],
+    "Comment[FractionIdentifier]": [
+      "B40"
+    ]
+  },
+  "HV_map_B39.raw": {
+    "Source Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Assay Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool._B39"
+    ],
+    "Raw Data File": [
+      "HV_map_B39.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[PooledSample]": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min and the gradient length was 70 min."
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE and mixed mode reversed phase-anion exchange for mapping the global CSF proteome, and hydrazide-based glycopeptide capture for mapping glycopeptides.",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "The lanes were cut into a total of 83 gel slices as described in Fig. 1B, 37 slices from the lane with the bound (high abundant) protein fraction and 46 slices from the lane with the depleted fraction."
+    ],
+    "Comment[FractionIdentifier]": [
+      "B39"
+    ]
+  },
+  "HV_map_B38.raw": {
+    "Source Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Assay Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool._B38"
+    ],
+    "Raw Data File": [
+      "HV_map_B38.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[PooledSample]": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min and the gradient length was 70 min."
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE and mixed mode reversed phase-anion exchange for mapping the global CSF proteome, and hydrazide-based glycopeptide capture for mapping glycopeptides.",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "The lanes were cut into a total of 83 gel slices as described in Fig. 1B, 37 slices from the lane with the bound (high abundant) protein fraction and 46 slices from the lane with the depleted fraction."
+    ],
+    "Comment[FractionIdentifier]": [
+      "B38"
+    ]
+  },
+  "HV_map_B31.raw": {
+    "Source Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Assay Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool._B31"
+    ],
+    "Raw Data File": [
+      "HV_map_B31.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[PooledSample]": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min and the gradient length was 70 min."
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE and mixed mode reversed phase-anion exchange for mapping the global CSF proteome, and hydrazide-based glycopeptide capture for mapping glycopeptides.",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "The lanes were cut into a total of 83 gel slices as described in Fig. 1B, 37 slices from the lane with the bound (high abundant) protein fraction and 46 slices from the lane with the depleted fraction."
+    ],
+    "Comment[FractionIdentifier]": [
+      "B31"
+    ]
+  },
+  "HV_map_B47.raw": {
+    "Source Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Assay Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool._B47"
+    ],
+    "Raw Data File": [
+      "HV_map_B47.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[PooledSample]": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min and the gradient length was 70 min."
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE and mixed mode reversed phase-anion exchange for mapping the global CSF proteome, and hydrazide-based glycopeptide capture for mapping glycopeptides.",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "The lanes were cut into a total of 83 gel slices as described in Fig. 1B, 37 slices from the lane with the bound (high abundant) protein fraction and 46 slices from the lane with the depleted fraction."
+    ],
+    "Comment[FractionIdentifier]": [
+      "B47"
+    ]
+  },
+  "HV_map_B44.raw": {
+    "Source Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Assay Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool._B44"
+    ],
+    "Raw Data File": [
+      "HV_map_B44.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[PooledSample]": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min and the gradient length was 70 min."
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE and mixed mode reversed phase-anion exchange for mapping the global CSF proteome, and hydrazide-based glycopeptide capture for mapping glycopeptides.",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "The lanes were cut into a total of 83 gel slices as described in Fig. 1B, 37 slices from the lane with the bound (high abundant) protein fraction and 46 slices from the lane with the depleted fraction."
+    ],
+    "Comment[FractionIdentifier]": [
+      "B44"
+    ]
+  },
+  "HV_map_B33.raw": {
+    "Source Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Assay Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool._B33"
+    ],
+    "Raw Data File": [
+      "HV_map_B33.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[PooledSample]": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min and the gradient length was 70 min."
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE and mixed mode reversed phase-anion exchange for mapping the global CSF proteome, and hydrazide-based glycopeptide capture for mapping glycopeptides.",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "The lanes were cut into a total of 83 gel slices as described in Fig. 1B, 37 slices from the lane with the bound (high abundant) protein fraction and 46 slices from the lane with the depleted fraction."
+    ],
+    "Comment[FractionIdentifier]": [
+      "B33"
+    ]
+  },
+  "HV_map_B1.raw": {
+    "Source Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Assay Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool._B1"
+    ],
+    "Raw Data File": [
+      "HV_map_B1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[PooledSample]": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min and the gradient length was 70 min."
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE and mixed mode reversed phase-anion exchange for mapping the global CSF proteome, and hydrazide-based glycopeptide capture for mapping glycopeptides.",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "The lanes were cut into a total of 83 gel slices as described in Fig. 1B, 37 slices from the lane with the bound (high abundant) protein fraction and 46 slices from the lane with the depleted fraction."
+    ],
+    "Comment[FractionIdentifier]": [
+      "B1"
+    ]
+  },
+  "HV_map_B19.raw": {
+    "Source Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Assay Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool._B19"
+    ],
+    "Raw Data File": [
+      "HV_map_B19.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[PooledSample]": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min and the gradient length was 70 min."
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE and mixed mode reversed phase-anion exchange for mapping the global CSF proteome, and hydrazide-based glycopeptide capture for mapping glycopeptides.",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "The lanes were cut into a total of 83 gel slices as described in Fig. 1B, 37 slices from the lane with the bound (high abundant) protein fraction and 46 slices from the lane with the depleted fraction."
+    ],
+    "Comment[FractionIdentifier]": [
+      "B19"
+    ]
+  },
+  "HV_map_B6.raw": {
+    "Source Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Assay Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool._B6"
+    ],
+    "Raw Data File": [
+      "HV_map_B6.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[PooledSample]": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min and the gradient length was 70 min."
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE and mixed mode reversed phase-anion exchange for mapping the global CSF proteome, and hydrazide-based glycopeptide capture for mapping glycopeptides.",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "The lanes were cut into a total of 83 gel slices as described in Fig. 1B, 37 slices from the lane with the bound (high abundant) protein fraction and 46 slices from the lane with the depleted fraction."
+    ],
+    "Comment[FractionIdentifier]": [
+      "B6"
+    ]
+  },
+  "HV_map_B29ny.raw": {
+    "Source Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Assay Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool._B29ny"
+    ],
+    "Raw Data File": [
+      "HV_map_B29ny.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[PooledSample]": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min and the gradient length was 70 min."
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE and mixed mode reversed phase-anion exchange for mapping the global CSF proteome, and hydrazide-based glycopeptide capture for mapping glycopeptides.",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "The lanes were cut into a total of 83 gel slices as described in Fig. 1B, 37 slices from the lane with the bound (high abundant) protein fraction and 46 slices from the lane with the depleted fraction."
+    ],
+    "Comment[FractionIdentifier]": [
+      "B29ny"
+    ]
+  },
+  "HV_map_B28.raw": {
+    "Source Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Assay Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool._B28"
+    ],
+    "Raw Data File": [
+      "HV_map_B28.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[PooledSample]": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min and the gradient length was 70 min."
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE and mixed mode reversed phase-anion exchange for mapping the global CSF proteome, and hydrazide-based glycopeptide capture for mapping glycopeptides.",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "The lanes were cut into a total of 83 gel slices as described in Fig. 1B, 37 slices from the lane with the bound (high abundant) protein fraction and 46 slices from the lane with the depleted fraction."
+    ],
+    "Comment[FractionIdentifier]": [
+      "B28"
+    ]
+  },
+  "HV_map_B45.raw": {
+    "Source Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Assay Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool._B45"
+    ],
+    "Raw Data File": [
+      "HV_map_B45.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[PooledSample]": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min and the gradient length was 70 min."
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE and mixed mode reversed phase-anion exchange for mapping the global CSF proteome, and hydrazide-based glycopeptide capture for mapping glycopeptides.",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "The lanes were cut into a total of 83 gel slices as described in Fig. 1B, 37 slices from the lane with the bound (high abundant) protein fraction and 46 slices from the lane with the depleted fraction."
+    ],
+    "Comment[FractionIdentifier]": [
+      "B45"
+    ]
+  },
+  "HV_map_B16.raw": {
+    "Source Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Assay Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool._B16"
+    ],
+    "Raw Data File": [
+      "HV_map_B16.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[PooledSample]": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min and the gradient length was 70 min."
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE and mixed mode reversed phase-anion exchange for mapping the global CSF proteome, and hydrazide-based glycopeptide capture for mapping glycopeptides.",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "The lanes were cut into a total of 83 gel slices as described in Fig. 1B, 37 slices from the lane with the bound (high abundant) protein fraction and 46 slices from the lane with the depleted fraction."
+    ],
+    "Comment[FractionIdentifier]": [
+      "B16"
+    ]
+  },
+  "HV_map_B14.raw": {
+    "Source Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Assay Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool._B14"
+    ],
+    "Raw Data File": [
+      "HV_map_B14.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[PooledSample]": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min and the gradient length was 70 min."
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE and mixed mode reversed phase-anion exchange for mapping the global CSF proteome, and hydrazide-based glycopeptide capture for mapping glycopeptides.",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "The lanes were cut into a total of 83 gel slices as described in Fig. 1B, 37 slices from the lane with the bound (high abundant) protein fraction and 46 slices from the lane with the depleted fraction."
+    ],
+    "Comment[FractionIdentifier]": [
+      "B14"
+    ]
+  },
+  "HV_map_B10.raw": {
+    "Source Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Assay Name": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool._B10"
+    ],
+    "Raw Data File": [
+      "HV_map_B10.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[PooledSample]": [
+      "Aliquots of 500 μl CSF from each of the 21 individuals included in this study were combined into a pool."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min and the gradient length was 70 min."
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE and mixed mode reversed phase-anion exchange for mapping the global CSF proteome, and hydrazide-based glycopeptide capture for mapping glycopeptides.",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "The lanes were cut into a total of 83 gel slices as described in Fig. 1B, 37 slices from the lane with the bound (high abundant) protein fraction and 46 slices from the lane with the depleted fraction."
+    ],
+    "Comment[FractionIdentifier]": [
+      "B10"
+    ]
+  }
+}

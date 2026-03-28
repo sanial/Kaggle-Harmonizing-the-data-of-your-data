@@ -1,0 +1,62 @@
+AcquisitionMethod: Spectral Library-based Data-independent Acquisition  
+AcquisitionMethod: data-independent acquisition  
+AcquisitionMethod: data-dependent acquisition  
+AcquisitionMethod: DirectDIA  
+Experiment: gold standard spike-in sample set  
+FractionationMethod: peptide pre-fractionation  
+FractionationMethod: protein pre-fractionation  
+Specimen: Frozen C2C12 cells  
+CellLine: C2C12 cells  
+MaterialType: DMEM standard medium  
+ConcentrationOfCompound: 15% (v/v) FCS  
+ConcentrationOfCompound: 2% (v/v) sodium pyruvate  
+ConcentrationOfCompound: 1% (v/v) non-essential amino acids  
+ConcentrationOfCompound: 1% (v/v) penicillin/streptomycin  
+ReductionReagent: dithiothreitol (DTT)  
+ConcentrationOfCompound: 5 mm  
+AlkylationReagent: iodoacetamide  
+ConcentrationOfCompound: 13.75 mm  
+CleavageAgent: trypsin  
+SampleTreatment: sonication  
+SamplingTime: 4 × 1 min on ice  
+MaterialType: C2C12 lysate  
+ConcentrationOfCompound: 30 mm TrisHCl  
+FactorValue: pH 8.5  
+ConcentrationOfCompound: 7 m urea  
+ConcentrationOfCompound: 2 m thiourea  
+SpikedCompound: human α-synuclein  
+SpikedCompound: β-lactoglobulin from bovine milk  
+SpikedCompound: fibrinogen α  
+SpikedCompound: fibrinogen β  
+SpikedCompound: fibrinogen γ  
+SpikedCompound: glucose oxidase from Aspergillus niger  
+SpikedCompound: human hemoglobin α  
+SpikedCompound: human hemoglobin β  
+SpikedCompound: lipases 1, 2 and 3 from Candida rugosa  
+SpikedCompound: lysozyme from chicken egg white  
+SpikedCompound: myoglobin from equine skeletal muscle  
+Staining: SimplyBlue SafeStain  
+FractionationMethod: SDS-PAGE  
+FractionationMethod: High pH Reversed-Phase Peptide Fractionation  
+NumberOfFractions: 8  
+Instrument: nanoHPLC system Ultimate 3000  
+Instrument: Q Exactive HF mass spectrometer  
+Separation: PepMap 100 C18  
+Separation: PepMap C18  
+GradientTime: 120 min  
+ConcentrationOfCompound: 0.1% formic acid (FA)  
+ConcentrationOfCompound: 84% ACN in 0.1% FA  
+IonizationType: electrospray ionization  
+Temperature: 250 °C  
+FragmentationMethod: HCD fragmentation  
+CollisionEnergy: 27% NCE  
+CollisionEnergy: 25.5% NCE  
+CollisionEnergy: 30% NCE  
+PrecursorMassTolerance: 5 ppm  
+FragmentMassTolerance: 20 mmu  
+Modification: aarbamidomethylation at C  
+Modification: oxidation (M)  
+Modification: Gln->pyro-Glu (N-terminal Q)  
+Modification: deamidated (NQ)  
+Modification: ammonium (DE)  
+Modification: ammonia-loss (N, N-terminal C)

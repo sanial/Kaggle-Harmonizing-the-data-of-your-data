@@ -1,0 +1,26 @@
+AssayName: proteome profiling  
+AssayName: fast-seq  
+AssayName: targeted exome sequencing  
+CleavageAgent: trypsin  
+ReductionReagent: 10 mM dithiothreitol  
+AlkylationReagent: 10 mM iodoacetamide  
+EnrichmentMethod: capture panel  
+Instrument: Orbitrap Fusion  
+Instrument: Orbitrap Fusion Lumos  
+Instrument: Q Exactive Plus  
+Instrument: Q Exactive HF  
+Instrument: Illumina HiSeq 2000  
+FragmentationMethod: higher-energy collision dissociation (HCD)  
+FlowRateChromatogram: 600 nl/min  
+GradientTime: 75 min  
+MS2MassAnalyzer: linear ion trap  
+PrecursorMassTolerance: 20 ppm  
+FragmentMassTolerance: 50 mmu  
+FragmentMassTolerance: 0.5 Da  
+NumberOfSamples: 84 DGC patients  
+NumberOfSamples: 168 samples (84 tumors and 84 nearby tissues)  
+NumberOfSamples: 84 diffuse type  
+NumberOfSamples: 83  
+FractionIdentifier: six fractions  
+SamplingTime: within 30 min after operation  
+Temperature: −80 °C

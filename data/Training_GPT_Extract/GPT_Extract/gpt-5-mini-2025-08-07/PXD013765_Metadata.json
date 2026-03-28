@@ -1,0 +1,2994 @@
+{
+  "DP-CB2_CYT_1_1.raw": {
+    "Source Name": [
+      "DP-CB"
+    ],
+    "Assay Name": [
+      "DP-CB_DP-CB2_CYT_1_1.raw"
+    ],
+    "Raw Data File": [
+      "DP-CB2_CYT_1_1.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "DP-CB"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell-lines"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma cells"
+    ],
+    "Characteristics[CellPart]": [
+      "cytoplasm (CYT)"
+    ],
+    "FactorValue[Treatment]": [
+      "cerebellar (CB)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three independent cell culture experiments were carried out for every cell line."
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "2 technical replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "resulting in eight cell-lines presently investigated."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin/Lys-C (MS grade; Promega Corporation, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodacetamid (both Sigma-Aldrich)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Label-free proteome profiling"
+    ],
+    "Comment[Instrument]": [
+      "Dionex UltiMate 3000 RSLCnano LC system coupled to the QExactive Orbitrap MS (all Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "The 135 min HPLC method included a 95 min gradient from 8% to 40% mobile phase B at a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30% normalized collision energy"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "peptide mass tolerance was set to 50 ppm for the first search and to 25 ppm for the main search."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Each peptide was allowed to have a maximum of two missed cleavages"
+    ]
+  },
+  "M16-CB3_CYT_1_2.raw": {
+    "Source Name": [
+      "M16-CB"
+    ],
+    "Assay Name": [
+      "M16-CB_M16-CB3_CYT_1_2.raw"
+    ],
+    "Raw Data File": [
+      "M16-CB3_CYT_1_2.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "M16-CB"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell-lines"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma cells"
+    ],
+    "Characteristics[CellPart]": [
+      "cytoplasm (CYT)"
+    ],
+    "FactorValue[Treatment]": [
+      "cerebellar (CB)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three independent cell culture experiments were carried out for every cell line."
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "2 technical replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "resulting in eight cell-lines presently investigated."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin/Lys-C (MS grade; Promega Corporation, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodacetamid (both Sigma-Aldrich)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Label-free proteome profiling"
+    ],
+    "Comment[Instrument]": [
+      "Dionex UltiMate 3000 RSLCnano LC system coupled to the QExactive Orbitrap MS (all Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "The 135 min HPLC method included a 95 min gradient from 8% to 40% mobile phase B at a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30% normalized collision energy"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "peptide mass tolerance was set to 50 ppm for the first search and to 25 ppm for the main search."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Each peptide was allowed to have a maximum of two missed cleavages"
+    ]
+  },
+  "M16-C_SN_3_2.raw": {
+    "Source Name": [
+      "M16-C"
+    ],
+    "Assay Name": [
+      "M16-C_M16-C_SN_3_2.raw"
+    ],
+    "Raw Data File": [
+      "M16-C_SN_3_2.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "M16-C"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell-lines"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma cells"
+    ],
+    "Characteristics[CellPart]": [
+      "cell supernatants (SN)"
+    ],
+    "FactorValue[Treatment]": [
+      "cutaneous (C)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three independent cell culture experiments were carried out for every cell line."
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "2 technical replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "resulting in eight cell-lines presently investigated."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin/Lys-C (MS grade; Promega Corporation, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodacetamid (both Sigma-Aldrich)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Label-free proteome profiling"
+    ],
+    "Comment[Instrument]": [
+      "Dionex UltiMate 3000 RSLCnano LC system coupled to the QExactive Orbitrap MS (all Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "The 85 min HPLC method included a 43 min gradient from 7% to 40% mobile phase B (79.9% acetonitrile, 20% H2O, 0.1% formic acid) at a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30% normalized collision energy"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "peptide mass tolerance was set to 50 ppm for the first search and to 25 ppm for the main search."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Each peptide was allowed to have a maximum of two missed cleavages"
+    ]
+  },
+  "M12-C_CYT_1_2.raw": {
+    "Source Name": [
+      "M12-C"
+    ],
+    "Assay Name": [
+      "M12-C_M12-C_CYT_1_2.raw"
+    ],
+    "Raw Data File": [
+      "M12-C_CYT_1_2.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "M12-C"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell-lines"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma cells"
+    ],
+    "Characteristics[CellPart]": [
+      "cytoplasm (CYT)"
+    ],
+    "FactorValue[Treatment]": [
+      "cutaneous (C)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three independent cell culture experiments were carried out for every cell line."
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "2 technical replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "resulting in eight cell-lines presently investigated."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin/Lys-C (MS grade; Promega Corporation, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodacetamid (both Sigma-Aldrich)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Label-free proteome profiling"
+    ],
+    "Comment[Instrument]": [
+      "Dionex UltiMate 3000 RSLCnano LC system coupled to the QExactive Orbitrap MS (all Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "The 135 min HPLC method included a 95 min gradient from 8% to 40% mobile phase B at a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30% normalized collision energy"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "peptide mass tolerance was set to 50 ppm for the first search and to 25 ppm for the main search."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Each peptide was allowed to have a maximum of two missed cleavages"
+    ]
+  },
+  "M12-C_NE_1_1.raw": {
+    "Source Name": [
+      "M12-C"
+    ],
+    "Assay Name": [
+      "M12-C_M12-C_NE_1_1.raw"
+    ],
+    "Raw Data File": [
+      "M12-C_NE_1_1.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "M12-C"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell-lines"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma cells"
+    ],
+    "Characteristics[CellPart]": [
+      "nuclear extracts (NE)"
+    ],
+    "FactorValue[Treatment]": [
+      "cutaneous (C)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three independent cell culture experiments were carried out for every cell line."
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "2 technical replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "resulting in eight cell-lines presently investigated."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin/Lys-C (MS grade; Promega Corporation, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodacetamid (both Sigma-Aldrich)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Label-free proteome profiling"
+    ],
+    "Comment[Instrument]": [
+      "Dionex UltiMate 3000 RSLCnano LC system coupled to the QExactive Orbitrap MS (all Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "The 135 min HPLC method included a 95 min gradient from 8% to 40% mobile phase B at a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30% normalized collision energy"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "peptide mass tolerance was set to 50 ppm for the first search and to 25 ppm for the main search."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Each peptide was allowed to have a maximum of two missed cleavages"
+    ]
+  },
+  "DP-CB2_CYT_1_2.raw": {
+    "Source Name": [
+      "DP-CB"
+    ],
+    "Assay Name": [
+      "DP-CB_DP-CB2_CYT_1_2.raw"
+    ],
+    "Raw Data File": [
+      "DP-CB2_CYT_1_2.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "DP-CB"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell-lines"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma cells"
+    ],
+    "Characteristics[CellPart]": [
+      "cytoplasm (CYT)"
+    ],
+    "FactorValue[Treatment]": [
+      "cerebellar (CB)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three independent cell culture experiments were carried out for every cell line."
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "2 technical replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "resulting in eight cell-lines presently investigated."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin/Lys-C (MS grade; Promega Corporation, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodacetamid (both Sigma-Aldrich)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Label-free proteome profiling"
+    ],
+    "Comment[Instrument]": [
+      "Dionex UltiMate 3000 RSLCnano LC system coupled to the QExactive Orbitrap MS (all Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "The 135 min HPLC method included a 95 min gradient from 8% to 40% mobile phase B at a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30% normalized collision energy"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "peptide mass tolerance was set to 50 ppm for the first search and to 25 ppm for the main search."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Each peptide was allowed to have a maximum of two missed cleavages"
+    ]
+  },
+  "M16-CB_SN_3_2.raw": {
+    "Source Name": [
+      "M16-CB"
+    ],
+    "Assay Name": [
+      "M16-CB_M16-CB_SN_3_2.raw"
+    ],
+    "Raw Data File": [
+      "M16-CB_SN_3_2.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "M16-CB"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell-lines"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma cells"
+    ],
+    "Characteristics[CellPart]": [
+      "cell supernatants (SN)"
+    ],
+    "FactorValue[Treatment]": [
+      "cerebellar (CB)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three independent cell culture experiments were carried out for every cell line."
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "2 technical replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "resulting in eight cell-lines presently investigated."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin/Lys-C (MS grade; Promega Corporation, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodacetamid (both Sigma-Aldrich)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Label-free proteome profiling"
+    ],
+    "Comment[Instrument]": [
+      "Dionex UltiMate 3000 RSLCnano LC system coupled to the QExactive Orbitrap MS (all Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "The 85 min HPLC method included a 43 min gradient from 7% to 40% mobile phase B (79.9% acetonitrile, 20% H2O, 0.1% formic acid) at a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30% normalized collision energy"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "peptide mass tolerance was set to 50 ppm for the first search and to 25 ppm for the main search."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Each peptide was allowed to have a maximum of two missed cleavages"
+    ]
+  },
+  "M16-C_CYT_3_2.raw": {
+    "Source Name": [
+      "M16-C"
+    ],
+    "Assay Name": [
+      "M16-C_M16-C_CYT_3_2.raw"
+    ],
+    "Raw Data File": [
+      "M16-C_CYT_3_2.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "M16-C"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell-lines"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma cells"
+    ],
+    "Characteristics[CellPart]": [
+      "cytoplasm (CYT)"
+    ],
+    "FactorValue[Treatment]": [
+      "cutaneous (C)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three independent cell culture experiments were carried out for every cell line."
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "2 technical replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "resulting in eight cell-lines presently investigated."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin/Lys-C (MS grade; Promega Corporation, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodacetamid (both Sigma-Aldrich)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Label-free proteome profiling"
+    ],
+    "Comment[Instrument]": [
+      "Dionex UltiMate 3000 RSLCnano LC system coupled to the QExactive Orbitrap MS (all Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "The 135 min HPLC method included a 95 min gradient from 8% to 40% mobile phase B at a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30% normalized collision energy"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "peptide mass tolerance was set to 50 ppm for the first search and to 25 ppm for the main search."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Each peptide was allowed to have a maximum of two missed cleavages"
+    ]
+  },
+  "YDFR-C_CYT_3_2.raw": {
+    "Source Name": [
+      "YDFR-C"
+    ],
+    "Assay Name": [
+      "YDFR-C_YDFR-C_CYT_3_2.raw"
+    ],
+    "Raw Data File": [
+      "YDFR-C_CYT_3_2.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "YDFR-C"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell-lines"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma cells"
+    ],
+    "Characteristics[CellPart]": [
+      "cytoplasm (CYT)"
+    ],
+    "FactorValue[Treatment]": [
+      "cutaneous (C)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three independent cell culture experiments were carried out for every cell line."
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "2 technical replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "resulting in eight cell-lines presently investigated."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin/Lys-C (MS grade; Promega Corporation, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodacetamid (both Sigma-Aldrich)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Label-free proteome profiling"
+    ],
+    "Comment[Instrument]": [
+      "Dionex UltiMate 3000 RSLCnano LC system coupled to the QExactive Orbitrap MS (all Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "The 135 min HPLC method included a 95 min gradient from 8% to 40% mobile phase B at a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30% normalized collision energy"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "peptide mass tolerance was set to 50 ppm for the first search and to 25 ppm for the main search."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Each peptide was allowed to have a maximum of two missed cleavages"
+    ]
+  },
+  "M12-C_SN_3_2.raw": {
+    "Source Name": [
+      "M12-C"
+    ],
+    "Assay Name": [
+      "M12-C_M12-C_SN_3_2.raw"
+    ],
+    "Raw Data File": [
+      "M12-C_SN_3_2.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "M12-C"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell-lines"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma cells"
+    ],
+    "Characteristics[CellPart]": [
+      "cell supernatants (SN)"
+    ],
+    "FactorValue[Treatment]": [
+      "cutaneous (C)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three independent cell culture experiments were carried out for every cell line."
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "2 technical replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "resulting in eight cell-lines presently investigated."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin/Lys-C (MS grade; Promega Corporation, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodacetamid (both Sigma-Aldrich)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Label-free proteome profiling"
+    ],
+    "Comment[Instrument]": [
+      "Dionex UltiMate 3000 RSLCnano LC system coupled to the QExactive Orbitrap MS (all Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "The 85 min HPLC method included a 43 min gradient from 7% to 40% mobile phase B (79.9% acetonitrile, 20% H2O, 0.1% formic acid) at a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30% normalized collision energy"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "peptide mass tolerance was set to 50 ppm for the first search and to 25 ppm for the main search."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Each peptide was allowed to have a maximum of two missed cleavages"
+    ]
+  },
+  "M12-C_SN_1_1.raw": {
+    "Source Name": [
+      "M12-C"
+    ],
+    "Assay Name": [
+      "M12-C_M12-C_SN_1_1.raw"
+    ],
+    "Raw Data File": [
+      "M12-C_SN_1_1.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "M12-C"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell-lines"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma cells"
+    ],
+    "Characteristics[CellPart]": [
+      "cell supernatants (SN)"
+    ],
+    "FactorValue[Treatment]": [
+      "cutaneous (C)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three independent cell culture experiments were carried out for every cell line."
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "2 technical replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "resulting in eight cell-lines presently investigated."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin/Lys-C (MS grade; Promega Corporation, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodacetamid (both Sigma-Aldrich)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Label-free proteome profiling"
+    ],
+    "Comment[Instrument]": [
+      "Dionex UltiMate 3000 RSLCnano LC system coupled to the QExactive Orbitrap MS (all Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "The 85 min HPLC method included a 43 min gradient from 7% to 40% mobile phase B (79.9% acetonitrile, 20% H2O, 0.1% formic acid) at a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30% normalized collision energy"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "peptide mass tolerance was set to 50 ppm for the first search and to 25 ppm for the main search."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Each peptide was allowed to have a maximum of two missed cleavages"
+    ]
+  },
+  "M12-CB3_NE_1_1.raw": {
+    "Source Name": [
+      "M12-CB"
+    ],
+    "Assay Name": [
+      "M12-CB_M12-CB3_NE_1_1.raw"
+    ],
+    "Raw Data File": [
+      "M12-CB3_NE_1_1.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "M12-CB"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell-lines"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma cells"
+    ],
+    "Characteristics[CellPart]": [
+      "nuclear extracts (NE)"
+    ],
+    "FactorValue[Treatment]": [
+      "cerebellar (CB)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three independent cell culture experiments were carried out for every cell line."
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "2 technical replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "resulting in eight cell-lines presently investigated."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin/Lys-C (MS grade; Promega Corporation, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodacetamid (both Sigma-Aldrich)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Label-free proteome profiling"
+    ],
+    "Comment[Instrument]": [
+      "Dionex UltiMate 3000 RSLCnano LC system coupled to the QExactive Orbitrap MS (all Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "The 135 min HPLC method included a 95 min gradient from 8% to 40% mobile phase B at a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30% normalized collision energy"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "peptide mass tolerance was set to 50 ppm for the first search and to 25 ppm for the main search."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Each peptide was allowed to have a maximum of two missed cleavages"
+    ]
+  },
+  "M12-C_SN_3_1.raw": {
+    "Source Name": [
+      "M12-C"
+    ],
+    "Assay Name": [
+      "M12-C_M12-C_SN_3_1.raw"
+    ],
+    "Raw Data File": [
+      "M12-C_SN_3_1.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "M12-C"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell-lines"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma cells"
+    ],
+    "Characteristics[CellPart]": [
+      "cell supernatants (SN)"
+    ],
+    "FactorValue[Treatment]": [
+      "cutaneous (C)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three independent cell culture experiments were carried out for every cell line."
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "2 technical replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "resulting in eight cell-lines presently investigated."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin/Lys-C (MS grade; Promega Corporation, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodacetamid (both Sigma-Aldrich)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Label-free proteome profiling"
+    ],
+    "Comment[Instrument]": [
+      "Dionex UltiMate 3000 RSLCnano LC system coupled to the QExactive Orbitrap MS (all Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "The 85 min HPLC method included a 43 min gradient from 7% to 40% mobile phase B (79.9% acetonitrile, 20% H2O, 0.1% formic acid) at a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30% normalized collision energy"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "peptide mass tolerance was set to 50 ppm for the first search and to 25 ppm for the main search."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Each peptide was allowed to have a maximum of two missed cleavages"
+    ]
+  },
+  "YDFR-CB3_CYT_1_1.raw": {
+    "Source Name": [
+      "YDFR-CB"
+    ],
+    "Assay Name": [
+      "YDFR-CB_YDFR-CB3_CYT_1_1.raw"
+    ],
+    "Raw Data File": [
+      "YDFR-CB3_CYT_1_1.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "YDFR-CB"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell-lines"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma cells"
+    ],
+    "Characteristics[CellPart]": [
+      "cytoplasm (CYT)"
+    ],
+    "FactorValue[Treatment]": [
+      "cerebellar (CB)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three independent cell culture experiments were carried out for every cell line."
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "2 technical replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "resulting in eight cell-lines presently investigated."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin/Lys-C (MS grade; Promega Corporation, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodacetamid (both Sigma-Aldrich)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Label-free proteome profiling"
+    ],
+    "Comment[Instrument]": [
+      "Dionex UltiMate 3000 RSLCnano LC system coupled to the QExactive Orbitrap MS (all Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "The 135 min HPLC method included a 95 min gradient from 8% to 40% mobile phase B at a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30% normalized collision energy"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "peptide mass tolerance was set to 50 ppm for the first search and to 25 ppm for the main search."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Each peptide was allowed to have a maximum of two missed cleavages"
+    ]
+  },
+  "M12-C_NE_2_2.raw": {
+    "Source Name": [
+      "M12-C"
+    ],
+    "Assay Name": [
+      "M12-C_M12-C_NE_2_2.raw"
+    ],
+    "Raw Data File": [
+      "M12-C_NE_2_2.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "M12-C"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell-lines"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma cells"
+    ],
+    "Characteristics[CellPart]": [
+      "nuclear extracts (NE)"
+    ],
+    "FactorValue[Treatment]": [
+      "cutaneous (C)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three independent cell culture experiments were carried out for every cell line."
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "2 technical replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "resulting in eight cell-lines presently investigated."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin/Lys-C (MS grade; Promega Corporation, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodacetamid (both Sigma-Aldrich)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Label-free proteome profiling"
+    ],
+    "Comment[Instrument]": [
+      "Dionex UltiMate 3000 RSLCnano LC system coupled to the QExactive Orbitrap MS (all Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "The 135 min HPLC method included a 95 min gradient from 8% to 40% mobile phase B at a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30% normalized collision energy"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "peptide mass tolerance was set to 50 ppm for the first search and to 25 ppm for the main search."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Each peptide was allowed to have a maximum of two missed cleavages"
+    ]
+  },
+  "M12-CB_SN_1_1.raw": {
+    "Source Name": [
+      "M12-CB"
+    ],
+    "Assay Name": [
+      "M12-CB_M12-CB_SN_1_1.raw"
+    ],
+    "Raw Data File": [
+      "M12-CB_SN_1_1.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "M12-CB"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell-lines"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma cells"
+    ],
+    "Characteristics[CellPart]": [
+      "cell supernatants (SN)"
+    ],
+    "FactorValue[Treatment]": [
+      "cerebellar (CB)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three independent cell culture experiments were carried out for every cell line."
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "2 technical replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "resulting in eight cell-lines presently investigated."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin/Lys-C (MS grade; Promega Corporation, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodacetamid (both Sigma-Aldrich)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Label-free proteome profiling"
+    ],
+    "Comment[Instrument]": [
+      "Dionex UltiMate 3000 RSLCnano LC system coupled to the QExactive Orbitrap MS (all Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "The 85 min HPLC method included a 43 min gradient from 7% to 40% mobile phase B (79.9% acetonitrile, 20% H2O, 0.1% formic acid) at a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30% normalized collision energy"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "peptide mass tolerance was set to 50 ppm for the first search and to 25 ppm for the main search."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Each peptide was allowed to have a maximum of two missed cleavages"
+    ]
+  },
+  "M16-C_NE_1_1.raw": {
+    "Source Name": [
+      "M16-C"
+    ],
+    "Assay Name": [
+      "M16-C_M16-C_NE_1_1.raw"
+    ],
+    "Raw Data File": [
+      "M16-C_NE_1_1.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "M16-C"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell-lines"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma cells"
+    ],
+    "Characteristics[CellPart]": [
+      "nuclear extracts (NE)"
+    ],
+    "FactorValue[Treatment]": [
+      "cutaneous (C)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three independent cell culture experiments were carried out for every cell line."
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "2 technical replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "resulting in eight cell-lines presently investigated."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin/Lys-C (MS grade; Promega Corporation, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodacetamid (both Sigma-Aldrich)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Label-free proteome profiling"
+    ],
+    "Comment[Instrument]": [
+      "Dionex UltiMate 3000 RSLCnano LC system coupled to the QExactive Orbitrap MS (all Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "The 135 min HPLC method included a 95 min gradient from 8% to 40% mobile phase B at a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30% normalized collision energy"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "peptide mass tolerance was set to 50 ppm for the first search and to 25 ppm for the main search."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Each peptide was allowed to have a maximum of two missed cleavages"
+    ]
+  },
+  "DP-CB_SN_1_1.raw": {
+    "Source Name": [
+      "DP-CB"
+    ],
+    "Assay Name": [
+      "DP-CB_DP-CB_SN_1_1.raw"
+    ],
+    "Raw Data File": [
+      "DP-CB_SN_1_1.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "DP-CB"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell-lines"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma cells"
+    ],
+    "Characteristics[CellPart]": [
+      "cell supernatants (SN)"
+    ],
+    "FactorValue[Treatment]": [
+      "cerebellar (CB)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three independent cell culture experiments were carried out for every cell line."
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "2 technical replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "resulting in eight cell-lines presently investigated."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin/Lys-C (MS grade; Promega Corporation, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodacetamid (both Sigma-Aldrich)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Label-free proteome profiling"
+    ],
+    "Comment[Instrument]": [
+      "Dionex UltiMate 3000 RSLCnano LC system coupled to the QExactive Orbitrap MS (all Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "The 85 min HPLC method included a 43 min gradient from 7% to 40% mobile phase B (79.9% acetonitrile, 20% H2O, 0.1% formic acid) at a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30% normalized collision energy"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "peptide mass tolerance was set to 50 ppm for the first search and to 25 ppm for the main search."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Each peptide was allowed to have a maximum of two missed cleavages"
+    ]
+  },
+  "YDFR-CB_SN_3_1.raw": {
+    "Source Name": [
+      "YDFR-CB"
+    ],
+    "Assay Name": [
+      "YDFR-CB_YDFR-CB_SN_3_1.raw"
+    ],
+    "Raw Data File": [
+      "YDFR-CB_SN_3_1.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "YDFR-CB"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell-lines"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma cells"
+    ],
+    "Characteristics[CellPart]": [
+      "cell supernatants (SN)"
+    ],
+    "FactorValue[Treatment]": [
+      "cerebellar (CB)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three independent cell culture experiments were carried out for every cell line."
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "2 technical replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "resulting in eight cell-lines presently investigated."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin/Lys-C (MS grade; Promega Corporation, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodacetamid (both Sigma-Aldrich)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Label-free proteome profiling"
+    ],
+    "Comment[Instrument]": [
+      "Dionex UltiMate 3000 RSLCnano LC system coupled to the QExactive Orbitrap MS (all Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "The 85 min HPLC method included a 43 min gradient from 7% to 40% mobile phase B (79.9% acetonitrile, 20% H2O, 0.1% formic acid) at a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30% normalized collision energy"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "peptide mass tolerance was set to 50 ppm for the first search and to 25 ppm for the main search."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Each peptide was allowed to have a maximum of two missed cleavages"
+    ]
+  },
+  "DP-C_NE_2_2.raw": {
+    "Source Name": [
+      "DP-C"
+    ],
+    "Assay Name": [
+      "DP-C_DP-C_NE_2_2.raw"
+    ],
+    "Raw Data File": [
+      "DP-C_NE_2_2.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "DP-C"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell-lines"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma cells"
+    ],
+    "Characteristics[CellPart]": [
+      "nuclear extracts (NE)"
+    ],
+    "FactorValue[Treatment]": [
+      "cutaneous (C)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three independent cell culture experiments were carried out for every cell line."
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "2 technical replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "resulting in eight cell-lines presently investigated."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin/Lys-C (MS grade; Promega Corporation, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodacetamid (both Sigma-Aldrich)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Label-free proteome profiling"
+    ],
+    "Comment[Instrument]": [
+      "Dionex UltiMate 3000 RSLCnano LC system coupled to the QExactive Orbitrap MS (all Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "The 135 min HPLC method included a 95 min gradient from 8% to 40% mobile phase B at a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30% normalized collision energy"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "peptide mass tolerance was set to 50 ppm for the first search and to 25 ppm for the main search."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Each peptide was allowed to have a maximum of two missed cleavages"
+    ]
+  },
+  "M16-C_SN_2_1.raw": {
+    "Source Name": [
+      "M16-C"
+    ],
+    "Assay Name": [
+      "M16-C_M16-C_SN_2_1.raw"
+    ],
+    "Raw Data File": [
+      "M16-C_SN_2_1.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "M16-C"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell-lines"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma cells"
+    ],
+    "Characteristics[CellPart]": [
+      "cell supernatants (SN)"
+    ],
+    "FactorValue[Treatment]": [
+      "cutaneous (C)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three independent cell culture experiments were carried out for every cell line."
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "2 technical replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "resulting in eight cell-lines presently investigated."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin/Lys-C (MS grade; Promega Corporation, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodacetamid (both Sigma-Aldrich)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Label-free proteome profiling"
+    ],
+    "Comment[Instrument]": [
+      "Dionex UltiMate 3000 RSLCnano LC system coupled to the QExactive Orbitrap MS (all Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "The 85 min HPLC method included a 43 min gradient from 7% to 40% mobile phase B (79.9% acetonitrile, 20% H2O, 0.1% formic acid) at a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30% normalized collision energy"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "peptide mass tolerance was set to 50 ppm for the first search and to 25 ppm for the main search."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Each peptide was allowed to have a maximum of two missed cleavages"
+    ]
+  },
+  "M12-CB3_NE_2_1.raw": {
+    "Source Name": [
+      "M12-CB"
+    ],
+    "Assay Name": [
+      "M12-CB_M12-CB3_NE_2_1.raw"
+    ],
+    "Raw Data File": [
+      "M12-CB3_NE_2_1.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "M12-CB"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell-lines"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma cells"
+    ],
+    "Characteristics[CellPart]": [
+      "nuclear extracts (NE)"
+    ],
+    "FactorValue[Treatment]": [
+      "cerebellar (CB)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three independent cell culture experiments were carried out for every cell line."
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "2 technical replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "resulting in eight cell-lines presently investigated."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin/Lys-C (MS grade; Promega Corporation, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodacetamid (both Sigma-Aldrich)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Label-free proteome profiling"
+    ],
+    "Comment[Instrument]": [
+      "Dionex UltiMate 3000 RSLCnano LC system coupled to the QExactive Orbitrap MS (all Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "The 135 min HPLC method included a 95 min gradient from 8% to 40% mobile phase B at a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30% normalized collision energy"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "peptide mass tolerance was set to 50 ppm for the first search and to 25 ppm for the main search."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Each peptide was allowed to have a maximum of two missed cleavages"
+    ]
+  },
+  "M16-CB3_NE_2_1.raw": {
+    "Source Name": [
+      "M16-CB"
+    ],
+    "Assay Name": [
+      "M16-CB_M16-CB3_NE_2_1.raw"
+    ],
+    "Raw Data File": [
+      "M16-CB3_NE_2_1.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "M16-CB"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell-lines"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma cells"
+    ],
+    "Characteristics[CellPart]": [
+      "nuclear extracts (NE)"
+    ],
+    "FactorValue[Treatment]": [
+      "cerebellar (CB)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three independent cell culture experiments were carried out for every cell line."
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "2 technical replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "resulting in eight cell-lines presently investigated."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin/Lys-C (MS grade; Promega Corporation, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodacetamid (both Sigma-Aldrich)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Label-free proteome profiling"
+    ],
+    "Comment[Instrument]": [
+      "Dionex UltiMate 3000 RSLCnano LC system coupled to the QExactive Orbitrap MS (all Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "The 135 min HPLC method included a 95 min gradient from 8% to 40% mobile phase B at a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30% normalized collision energy"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "peptide mass tolerance was set to 50 ppm for the first search and to 25 ppm for the main search."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Each peptide was allowed to have a maximum of two missed cleavages"
+    ]
+  },
+  "M16-C_NE_3_1.raw": {
+    "Source Name": [
+      "M16-C"
+    ],
+    "Assay Name": [
+      "M16-C_M16-C_NE_3_1.raw"
+    ],
+    "Raw Data File": [
+      "M16-C_NE_3_1.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "M16-C"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell-lines"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma cells"
+    ],
+    "Characteristics[CellPart]": [
+      "nuclear extracts (NE)"
+    ],
+    "FactorValue[Treatment]": [
+      "cutaneous (C)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three independent cell culture experiments were carried out for every cell line."
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "2 technical replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "resulting in eight cell-lines presently investigated."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin/Lys-C (MS grade; Promega Corporation, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodacetamid (both Sigma-Aldrich)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Label-free proteome profiling"
+    ],
+    "Comment[Instrument]": [
+      "Dionex UltiMate 3000 RSLCnano LC system coupled to the QExactive Orbitrap MS (all Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "The 135 min HPLC method included a 95 min gradient from 8% to 40% mobile phase B at a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30% normalized collision energy"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "peptide mass tolerance was set to 50 ppm for the first search and to 25 ppm for the main search."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Each peptide was allowed to have a maximum of two missed cleavages"
+    ]
+  },
+  "M16-C_CYT_1_1.raw": {
+    "Source Name": [
+      "M16-C"
+    ],
+    "Assay Name": [
+      "M16-C_M16-C_CYT_1_1.raw"
+    ],
+    "Raw Data File": [
+      "M16-C_CYT_1_1.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "M16-C"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell-lines"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma cells"
+    ],
+    "Characteristics[CellPart]": [
+      "cytoplasm (CYT)"
+    ],
+    "FactorValue[Treatment]": [
+      "cutaneous (C)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three independent cell culture experiments were carried out for every cell line."
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "2 technical replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "resulting in eight cell-lines presently investigated."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin/Lys-C (MS grade; Promega Corporation, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodacetamid (both Sigma-Aldrich)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Label-free proteome profiling"
+    ],
+    "Comment[Instrument]": [
+      "Dionex UltiMate 3000 RSLCnano LC system coupled to the QExactive Orbitrap MS (all Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "The 135 min HPLC method included a 95 min gradient from 8% to 40% mobile phase B at a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30% normalized collision energy"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "peptide mass tolerance was set to 50 ppm for the first search and to 25 ppm for the main search."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Each peptide was allowed to have a maximum of two missed cleavages"
+    ]
+  },
+  "YDFR-CB_SN_1_1.raw": {
+    "Source Name": [
+      "YDFR-CB"
+    ],
+    "Assay Name": [
+      "YDFR-CB_YDFR-CB_SN_1_1.raw"
+    ],
+    "Raw Data File": [
+      "YDFR-CB_SN_1_1.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "YDFR-CB"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell-lines"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma cells"
+    ],
+    "Characteristics[CellPart]": [
+      "cell supernatants (SN)"
+    ],
+    "FactorValue[Treatment]": [
+      "cerebellar (CB)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three independent cell culture experiments were carried out for every cell line."
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "2 technical replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "resulting in eight cell-lines presently investigated."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin/Lys-C (MS grade; Promega Corporation, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodacetamid (both Sigma-Aldrich)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Label-free proteome profiling"
+    ],
+    "Comment[Instrument]": [
+      "Dionex UltiMate 3000 RSLCnano LC system coupled to the QExactive Orbitrap MS (all Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "The 85 min HPLC method included a 43 min gradient from 7% to 40% mobile phase B (79.9% acetonitrile, 20% H2O, 0.1% formic acid) at a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30% normalized collision energy"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "peptide mass tolerance was set to 50 ppm for the first search and to 25 ppm for the main search."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Each peptide was allowed to have a maximum of two missed cleavages"
+    ]
+  },
+  "DP-C_CYT_1_1.raw": {
+    "Source Name": [
+      "DP-C"
+    ],
+    "Assay Name": [
+      "DP-C_DP-C_CYT_1_1.raw"
+    ],
+    "Raw Data File": [
+      "DP-C_CYT_1_1.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "DP-C"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell-lines"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma cells"
+    ],
+    "Characteristics[CellPart]": [
+      "cytoplasm (CYT)"
+    ],
+    "FactorValue[Treatment]": [
+      "cutaneous (C)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three independent cell culture experiments were carried out for every cell line."
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "2 technical replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "resulting in eight cell-lines presently investigated."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin/Lys-C (MS grade; Promega Corporation, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodacetamid (both Sigma-Aldrich)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Label-free proteome profiling"
+    ],
+    "Comment[Instrument]": [
+      "Dionex UltiMate 3000 RSLCnano LC system coupled to the QExactive Orbitrap MS (all Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "The 135 min HPLC method included a 95 min gradient from 8% to 40% mobile phase B at a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30% normalized collision energy"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "peptide mass tolerance was set to 50 ppm for the first search and to 25 ppm for the main search."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Each peptide was allowed to have a maximum of two missed cleavages"
+    ]
+  },
+  "DP-C_SN_3_1.raw": {
+    "Source Name": [
+      "DP-C"
+    ],
+    "Assay Name": [
+      "DP-C_DP-C_SN_3_1.raw"
+    ],
+    "Raw Data File": [
+      "DP-C_SN_3_1.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "DP-C"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell-lines"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma cells"
+    ],
+    "Characteristics[CellPart]": [
+      "cell supernatants (SN)"
+    ],
+    "FactorValue[Treatment]": [
+      "cutaneous (C)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three independent cell culture experiments were carried out for every cell line."
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "2 technical replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "resulting in eight cell-lines presently investigated."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin/Lys-C (MS grade; Promega Corporation, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodacetamid (both Sigma-Aldrich)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Label-free proteome profiling"
+    ],
+    "Comment[Instrument]": [
+      "Dionex UltiMate 3000 RSLCnano LC system coupled to the QExactive Orbitrap MS (all Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "The 85 min HPLC method included a 43 min gradient from 7% to 40% mobile phase B (79.9% acetonitrile, 20% H2O, 0.1% formic acid) at a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30% normalized collision energy"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "peptide mass tolerance was set to 50 ppm for the first search and to 25 ppm for the main search."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Each peptide was allowed to have a maximum of two missed cleavages"
+    ]
+  },
+  "M12-CB_SN_2_2.raw": {
+    "Source Name": [
+      "M12-CB"
+    ],
+    "Assay Name": [
+      "M12-CB_M12-CB_SN_2_2.raw"
+    ],
+    "Raw Data File": [
+      "M12-CB_SN_2_2.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "M12-CB"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell-lines"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma cells"
+    ],
+    "Characteristics[CellPart]": [
+      "cell supernatants (SN)"
+    ],
+    "FactorValue[Treatment]": [
+      "cerebellar (CB)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three independent cell culture experiments were carried out for every cell line."
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "2 technical replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "resulting in eight cell-lines presently investigated."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin/Lys-C (MS grade; Promega Corporation, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodacetamid (both Sigma-Aldrich)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Label-free proteome profiling"
+    ],
+    "Comment[Instrument]": [
+      "Dionex UltiMate 3000 RSLCnano LC system coupled to the QExactive Orbitrap MS (all Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "The 85 min HPLC method included a 43 min gradient from 7% to 40% mobile phase B (79.9% acetonitrile, 20% H2O, 0.1% formic acid) at a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30% normalized collision energy"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "peptide mass tolerance was set to 50 ppm for the first search and to 25 ppm for the main search."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Each peptide was allowed to have a maximum of two missed cleavages"
+    ]
+  },
+  "DP-CB2_NE_1_2.raw": {
+    "Source Name": [
+      "DP-CB"
+    ],
+    "Assay Name": [
+      "DP-CB_DP-CB2_NE_1_2.raw"
+    ],
+    "Raw Data File": [
+      "DP-CB2_NE_1_2.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "DP-CB"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell-lines"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma cells"
+    ],
+    "Characteristics[CellPart]": [
+      "nuclear extracts (NE)"
+    ],
+    "FactorValue[Treatment]": [
+      "cerebellar (CB)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three independent cell culture experiments were carried out for every cell line."
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "2 technical replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "resulting in eight cell-lines presently investigated."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin/Lys-C (MS grade; Promega Corporation, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodacetamid (both Sigma-Aldrich)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Label-free proteome profiling"
+    ],
+    "Comment[Instrument]": [
+      "Dionex UltiMate 3000 RSLCnano LC system coupled to the QExactive Orbitrap MS (all Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "The 135 min HPLC method included a 95 min gradient from 8% to 40% mobile phase B at a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30% normalized collision energy"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "peptide mass tolerance was set to 50 ppm for the first search and to 25 ppm for the main search."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Each peptide was allowed to have a maximum of two missed cleavages"
+    ]
+  },
+  "M16-CB3_NE_1_2.raw": {
+    "Source Name": [
+      "M16-CB"
+    ],
+    "Assay Name": [
+      "M16-CB_M16-CB3_NE_1_2.raw"
+    ],
+    "Raw Data File": [
+      "M16-CB3_NE_1_2.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "M16-CB"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell-lines"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma cells"
+    ],
+    "Characteristics[CellPart]": [
+      "nuclear extracts (NE)"
+    ],
+    "FactorValue[Treatment]": [
+      "cerebellar (CB)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three independent cell culture experiments were carried out for every cell line."
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "2 technical replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "resulting in eight cell-lines presently investigated."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin/Lys-C (MS grade; Promega Corporation, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodacetamid (both Sigma-Aldrich)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Label-free proteome profiling"
+    ],
+    "Comment[Instrument]": [
+      "Dionex UltiMate 3000 RSLCnano LC system coupled to the QExactive Orbitrap MS (all Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "The 135 min HPLC method included a 95 min gradient from 8% to 40% mobile phase B at a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30% normalized collision energy"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "peptide mass tolerance was set to 50 ppm for the first search and to 25 ppm for the main search."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Each peptide was allowed to have a maximum of two missed cleavages"
+    ]
+  },
+  "YDFR-CB3_NE_3_1.raw": {
+    "Source Name": [
+      "YDFR-CB"
+    ],
+    "Assay Name": [
+      "YDFR-CB_YDFR-CB3_NE_3_1.raw"
+    ],
+    "Raw Data File": [
+      "YDFR-CB3_NE_3_1.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "YDFR-CB"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell-lines"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma cells"
+    ],
+    "Characteristics[CellPart]": [
+      "nuclear extracts (NE)"
+    ],
+    "FactorValue[Treatment]": [
+      "cerebellar (CB)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three independent cell culture experiments were carried out for every cell line."
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "2 technical replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "resulting in eight cell-lines presently investigated."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin/Lys-C (MS grade; Promega Corporation, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodacetamid (both Sigma-Aldrich)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Label-free proteome profiling"
+    ],
+    "Comment[Instrument]": [
+      "Dionex UltiMate 3000 RSLCnano LC system coupled to the QExactive Orbitrap MS (all Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "The 135 min HPLC method included a 95 min gradient from 8% to 40% mobile phase B at a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30% normalized collision energy"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "peptide mass tolerance was set to 50 ppm for the first search and to 25 ppm for the main search."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Each peptide was allowed to have a maximum of two missed cleavages"
+    ]
+  },
+  "DP-CB_SN_3_2.raw": {
+    "Source Name": [
+      "DP-CB"
+    ],
+    "Assay Name": [
+      "DP-CB_DP-CB_SN_3_2.raw"
+    ],
+    "Raw Data File": [
+      "DP-CB_SN_3_2.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "DP-CB"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell-lines"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma cells"
+    ],
+    "Characteristics[CellPart]": [
+      "cell supernatants (SN)"
+    ],
+    "FactorValue[Treatment]": [
+      "cerebellar (CB)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three independent cell culture experiments were carried out for every cell line."
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "2 technical replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "resulting in eight cell-lines presently investigated."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin/Lys-C (MS grade; Promega Corporation, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodacetamid (both Sigma-Aldrich)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Label-free proteome profiling"
+    ],
+    "Comment[Instrument]": [
+      "Dionex UltiMate 3000 RSLCnano LC system coupled to the QExactive Orbitrap MS (all Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "The 85 min HPLC method included a 43 min gradient from 7% to 40% mobile phase B (79.9% acetonitrile, 20% H2O, 0.1% formic acid) at a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30% normalized collision energy"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "peptide mass tolerance was set to 50 ppm for the first search and to 25 ppm for the main search."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Each peptide was allowed to have a maximum of two missed cleavages"
+    ]
+  },
+  "M12-C_NE_1_2.raw": {
+    "Source Name": [
+      "M12-C"
+    ],
+    "Assay Name": [
+      "M12-C_M12-C_NE_1_2.raw"
+    ],
+    "Raw Data File": [
+      "M12-C_NE_1_2.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "M12-C"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell-lines"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma cells"
+    ],
+    "Characteristics[CellPart]": [
+      "nuclear extracts (NE)"
+    ],
+    "FactorValue[Treatment]": [
+      "cutaneous (C)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three independent cell culture experiments were carried out for every cell line."
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "2 technical replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "resulting in eight cell-lines presently investigated."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin/Lys-C (MS grade; Promega Corporation, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodacetamid (both Sigma-Aldrich)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Label-free proteome profiling"
+    ],
+    "Comment[Instrument]": [
+      "Dionex UltiMate 3000 RSLCnano LC system coupled to the QExactive Orbitrap MS (all Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "The 135 min HPLC method included a 95 min gradient from 8% to 40% mobile phase B at a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30% normalized collision energy"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "peptide mass tolerance was set to 50 ppm for the first search and to 25 ppm for the main search."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Each peptide was allowed to have a maximum of two missed cleavages"
+    ]
+  },
+  "DP-CB2_NE_1_1.raw": {
+    "Source Name": [
+      "DP-CB"
+    ],
+    "Assay Name": [
+      "DP-CB_DP-CB2_NE_1_1.raw"
+    ],
+    "Raw Data File": [
+      "DP-CB2_NE_1_1.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "DP-CB"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell-lines"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma cells"
+    ],
+    "Characteristics[CellPart]": [
+      "nuclear extracts (NE)"
+    ],
+    "FactorValue[Treatment]": [
+      "cerebellar (CB)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three independent cell culture experiments were carried out for every cell line."
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "2 technical replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "resulting in eight cell-lines presently investigated."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin/Lys-C (MS grade; Promega Corporation, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodacetamid (both Sigma-Aldrich)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Label-free proteome profiling"
+    ],
+    "Comment[Instrument]": [
+      "Dionex UltiMate 3000 RSLCnano LC system coupled to the QExactive Orbitrap MS (all Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "The 135 min HPLC method included a 95 min gradient from 8% to 40% mobile phase B at a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30% normalized collision energy"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "peptide mass tolerance was set to 50 ppm for the first search and to 25 ppm for the main search."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Each peptide was allowed to have a maximum of two missed cleavages"
+    ]
+  },
+  "DP-CB_SN_3_1.raw": {
+    "Source Name": [
+      "DP-CB"
+    ],
+    "Assay Name": [
+      "DP-CB_DP-CB_SN_3_1.raw"
+    ],
+    "Raw Data File": [
+      "DP-CB_SN_3_1.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "DP-CB"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell-lines"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma cells"
+    ],
+    "Characteristics[CellPart]": [
+      "cell supernatants (SN)"
+    ],
+    "FactorValue[Treatment]": [
+      "cerebellar (CB)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three independent cell culture experiments were carried out for every cell line."
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "2 technical replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "resulting in eight cell-lines presently investigated."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin/Lys-C (MS grade; Promega Corporation, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodacetamid (both Sigma-Aldrich)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Label-free proteome profiling"
+    ],
+    "Comment[Instrument]": [
+      "Dionex UltiMate 3000 RSLCnano LC system coupled to the QExactive Orbitrap MS (all Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "The 85 min HPLC method included a 43 min gradient from 7% to 40% mobile phase B (79.9% acetonitrile, 20% H2O, 0.1% formic acid) at a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30% normalized collision energy"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "peptide mass tolerance was set to 50 ppm for the first search and to 25 ppm for the main search."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Each peptide was allowed to have a maximum of two missed cleavages"
+    ]
+  },
+  "YDFR-C_SN_3_2.raw": {
+    "Source Name": [
+      "YDFR-C"
+    ],
+    "Assay Name": [
+      "YDFR-C_YDFR-C_SN_3_2.raw"
+    ],
+    "Raw Data File": [
+      "YDFR-C_SN_3_2.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "YDFR-C"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell-lines"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma cells"
+    ],
+    "Characteristics[CellPart]": [
+      "cell supernatants (SN)"
+    ],
+    "FactorValue[Treatment]": [
+      "cutaneous (C)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three independent cell culture experiments were carried out for every cell line."
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "2 technical replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "resulting in eight cell-lines presently investigated."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin/Lys-C (MS grade; Promega Corporation, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodacetamid (both Sigma-Aldrich)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Label-free proteome profiling"
+    ],
+    "Comment[Instrument]": [
+      "Dionex UltiMate 3000 RSLCnano LC system coupled to the QExactive Orbitrap MS (all Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "The 85 min HPLC method included a 43 min gradient from 7% to 40% mobile phase B (79.9% acetonitrile, 20% H2O, 0.1% formic acid) at a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30% normalized collision energy"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "peptide mass tolerance was set to 50 ppm for the first search and to 25 ppm for the main search."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Each peptide was allowed to have a maximum of two missed cleavages"
+    ]
+  },
+  "M16-C_SN_1_1.raw": {
+    "Source Name": [
+      "M16-C"
+    ],
+    "Assay Name": [
+      "M16-C_M16-C_SN_1_1.raw"
+    ],
+    "Raw Data File": [
+      "M16-C_SN_1_1.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "M16-C"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell-lines"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma cells"
+    ],
+    "Characteristics[CellPart]": [
+      "cell supernatants (SN)"
+    ],
+    "FactorValue[Treatment]": [
+      "cutaneous (C)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three independent cell culture experiments were carried out for every cell line."
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "2 technical replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "resulting in eight cell-lines presently investigated."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin/Lys-C (MS grade; Promega Corporation, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodacetamid (both Sigma-Aldrich)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Label-free proteome profiling"
+    ],
+    "Comment[Instrument]": [
+      "Dionex UltiMate 3000 RSLCnano LC system coupled to the QExactive Orbitrap MS (all Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "The 85 min HPLC method included a 43 min gradient from 7% to 40% mobile phase B (79.9% acetonitrile, 20% H2O, 0.1% formic acid) at a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30% normalized collision energy"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "peptide mass tolerance was set to 50 ppm for the first search and to 25 ppm for the main search."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Each peptide was allowed to have a maximum of two missed cleavages"
+    ]
+  },
+  "DP-C_CYT_2_1.raw": {
+    "Source Name": [
+      "DP-C"
+    ],
+    "Assay Name": [
+      "DP-C_DP-C_CYT_2_1.raw"
+    ],
+    "Raw Data File": [
+      "DP-C_CYT_2_1.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "DP-C"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell-lines"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma cells"
+    ],
+    "Characteristics[CellPart]": [
+      "cytoplasm (CYT)"
+    ],
+    "FactorValue[Treatment]": [
+      "cutaneous (C)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three independent cell culture experiments were carried out for every cell line."
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "2 technical replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "resulting in eight cell-lines presently investigated."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin/Lys-C (MS grade; Promega Corporation, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodacetamid (both Sigma-Aldrich)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Label-free proteome profiling"
+    ],
+    "Comment[Instrument]": [
+      "Dionex UltiMate 3000 RSLCnano LC system coupled to the QExactive Orbitrap MS (all Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "The 135 min HPLC method included a 95 min gradient from 8% to 40% mobile phase B at a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30% normalized collision energy"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "peptide mass tolerance was set to 50 ppm for the first search and to 25 ppm for the main search."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Each peptide was allowed to have a maximum of two missed cleavages"
+    ]
+  },
+  "YDFR-C_NE_1_1.raw": {
+    "Source Name": [
+      "YDFR-C"
+    ],
+    "Assay Name": [
+      "YDFR-C_YDFR-C_NE_1_1.raw"
+    ],
+    "Raw Data File": [
+      "YDFR-C_NE_1_1.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "YDFR-C"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell-lines"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma cells"
+    ],
+    "Characteristics[CellPart]": [
+      "nuclear extracts (NE)"
+    ],
+    "FactorValue[Treatment]": [
+      "cutaneous (C)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three independent cell culture experiments were carried out for every cell line."
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "2 technical replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "resulting in eight cell-lines presently investigated."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin/Lys-C (MS grade; Promega Corporation, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodacetamid (both Sigma-Aldrich)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Label-free proteome profiling"
+    ],
+    "Comment[Instrument]": [
+      "Dionex UltiMate 3000 RSLCnano LC system coupled to the QExactive Orbitrap MS (all Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "The 135 min HPLC method included a 95 min gradient from 8% to 40% mobile phase B at a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30% normalized collision energy"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "peptide mass tolerance was set to 50 ppm for the first search and to 25 ppm for the main search."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Each peptide was allowed to have a maximum of two missed cleavages"
+    ]
+  },
+  "M16-C_NE_2_2.raw": {
+    "Source Name": [
+      "M16-C"
+    ],
+    "Assay Name": [
+      "M16-C_M16-C_NE_2_2.raw"
+    ],
+    "Raw Data File": [
+      "M16-C_NE_2_2.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "M16-C"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell-lines"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma cells"
+    ],
+    "Characteristics[CellPart]": [
+      "nuclear extracts (NE)"
+    ],
+    "FactorValue[Treatment]": [
+      "cutaneous (C)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three independent cell culture experiments were carried out for every cell line."
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "2 technical replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "resulting in eight cell-lines presently investigated."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin/Lys-C (MS grade; Promega Corporation, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodacetamid (both Sigma-Aldrich)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Label-free proteome profiling"
+    ],
+    "Comment[Instrument]": [
+      "Dionex UltiMate 3000 RSLCnano LC system coupled to the QExactive Orbitrap MS (all Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "The 135 min HPLC method included a 95 min gradient from 8% to 40% mobile phase B at a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30% normalized collision energy"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "peptide mass tolerance was set to 50 ppm for the first search and to 25 ppm for the main search."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Each peptide was allowed to have a maximum of two missed cleavages"
+    ]
+  },
+  "YDFR-C_SN_2_2.raw": {
+    "Source Name": [
+      "YDFR-C"
+    ],
+    "Assay Name": [
+      "YDFR-C_YDFR-C_SN_2_2.raw"
+    ],
+    "Raw Data File": [
+      "YDFR-C_SN_2_2.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "YDFR-C"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell-lines"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma cells"
+    ],
+    "Characteristics[CellPart]": [
+      "cell supernatants (SN)"
+    ],
+    "FactorValue[Treatment]": [
+      "cutaneous (C)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three independent cell culture experiments were carried out for every cell line."
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "2 technical replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "resulting in eight cell-lines presently investigated."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin/Lys-C (MS grade; Promega Corporation, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodacetamid (both Sigma-Aldrich)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Label-free proteome profiling"
+    ],
+    "Comment[Instrument]": [
+      "Dionex UltiMate 3000 RSLCnano LC system coupled to the QExactive Orbitrap MS (all Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "The 85 min HPLC method included a 43 min gradient from 7% to 40% mobile phase B (79.9% acetonitrile, 20% H2O, 0.1% formic acid) at a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30% normalized collision energy"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "peptide mass tolerance was set to 50 ppm for the first search and to 25 ppm for the main search."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Each peptide was allowed to have a maximum of two missed cleavages"
+    ]
+  },
+  "DP-C_CYT_2_2.raw": {
+    "Source Name": [
+      "DP-C"
+    ],
+    "Assay Name": [
+      "DP-C_DP-C_CYT_2_2.raw"
+    ],
+    "Raw Data File": [
+      "DP-C_CYT_2_2.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "DP-C"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell-lines"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma cells"
+    ],
+    "Characteristics[CellPart]": [
+      "cytoplasm (CYT)"
+    ],
+    "FactorValue[Treatment]": [
+      "cutaneous (C)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three independent cell culture experiments were carried out for every cell line."
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "2 technical replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "resulting in eight cell-lines presently investigated."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin/Lys-C (MS grade; Promega Corporation, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodacetamid (both Sigma-Aldrich)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Label-free proteome profiling"
+    ],
+    "Comment[Instrument]": [
+      "Dionex UltiMate 3000 RSLCnano LC system coupled to the QExactive Orbitrap MS (all Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "The 135 min HPLC method included a 95 min gradient from 8% to 40% mobile phase B at a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30% normalized collision energy"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "peptide mass tolerance was set to 50 ppm for the first search and to 25 ppm for the main search."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Each peptide was allowed to have a maximum of two missed cleavages"
+    ]
+  },
+  "DP-C_NE_3_2.raw": {
+    "Source Name": [
+      "DP-C"
+    ],
+    "Assay Name": [
+      "DP-C_DP-C_NE_3_2.raw"
+    ],
+    "Raw Data File": [
+      "DP-C_NE_3_2.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "DP-C"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell-lines"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma cells"
+    ],
+    "Characteristics[CellPart]": [
+      "nuclear extracts (NE)"
+    ],
+    "FactorValue[Treatment]": [
+      "cutaneous (C)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three independent cell culture experiments were carried out for every cell line."
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "2 technical replicates"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "resulting in eight cell-lines presently investigated."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin/Lys-C (MS grade; Promega Corporation, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodacetamid (both Sigma-Aldrich)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Label-free proteome profiling"
+    ],
+    "Comment[Instrument]": [
+      "Dionex UltiMate 3000 RSLCnano LC system coupled to the QExactive Orbitrap MS (all Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "The 135 min HPLC method included a 95 min gradient from 8% to 40% mobile phase B at a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nL/min"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30% normalized collision energy"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "peptide mass tolerance was set to 50 ppm for the first search and to 25 ppm for the main search."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Each peptide was allowed to have a maximum of two missed cleavages"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+AssayName: label-free quantitative tandem mass-spectrometry proteomics  
+AssayName: single shot, label-free protein quantifications (LFQs)  
+AssayName: online LC-MS/MS  
+Specimen: frozen post-mortem human brain specimens  
+Specimen: Frozen powdered brain samples  
+MaterialType: tissue homogenate  
+PooledSample: 7 region-specific collections of tissue homogenate pooled from adult subjects  
+NumberOfBiologicalReplicates: 16  
+NumberOfSamples: 77 single-shot samples analysed  
+Organism: human  
+OrganismPart: brain  
+CleavageAgent: trypsin  
+ReductionReagent: Dithiothreitol  
+AlkylationReagent: iodoacetamide  
+FractionationMethod: high pH reverse phase chromatography  
+NumberOfFractions: 15  
+GradientTime: 180-min  
+FlowRateChromatogram: 0.4 mL/min  
+FlowRateChromatogram: 300 nL/min  
+Instrument: Q Exactive Plus mass spectrometer  
+FragmentationMethod: higher energy collisional dissociation based fragmentation  
+CollisionEnergy: normalized collision energy 28  
+Temperature: 37°C  
+Temperature: 4°C  
+Age: 1 year post conception  
+Age: 42 years  
+Sex: a near equal mix of male and female donors  
+ConcentrationOfCompound: 45 mM  
+ConcentrationOfCompound: 100 mM  
+DevelopmentalStage: postnatal

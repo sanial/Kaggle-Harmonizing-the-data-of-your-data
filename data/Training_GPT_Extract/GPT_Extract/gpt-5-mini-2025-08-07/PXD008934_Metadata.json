@@ -1,0 +1,2212 @@
+{
+  "Prosser_1462.raw": {
+    "Source Name": [
+      "Prosser_1462"
+    ],
+    "Assay Name": [
+      "Prosser_1462_Assay"
+    ],
+    "Raw Data File": [
+      "Prosser_1462.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "Human left ventricular tissues collected from a myocardial rich, minimally fibrotic region of the mid LV wall were used for mass spectrometry."
+    ],
+    "Characteristics[MaterialType]": [
+      "left ventricle tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Transmural myocardial samples were dissected from the mid LV free wall below the papillary muscle."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50 ratio)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 hearts in total were used in mass spectrometry (see method details below), including 7 normal, 6 cHyp, 4 HCMpEF, 5 HCMrEF, 6 DCM, 6 ICM."
+    ],
+    "Comment[Instrument]": [
+      "Desalted peptides were analyzed on a Q-Exactive (Thermo Scientific) attached to an EasyLC system run at 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "170 min gradient"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition mode with a dynamic exclusion of 45 s was enabled."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "collision energy of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap detection was used with scan range of 200 to 2000 m/z, resolution of 17.5 K, maximum injection time of 150 ms and automatic gain control of 5E6."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to 2 mis-cleavages"
+    ]
+  },
+  "Prosser_1136.raw": {
+    "Source Name": [
+      "Prosser_1136"
+    ],
+    "Assay Name": [
+      "Prosser_1136_Assay"
+    ],
+    "Raw Data File": [
+      "Prosser_1136.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "Human left ventricular tissues collected from a myocardial rich, minimally fibrotic region of the mid LV wall were used for mass spectrometry."
+    ],
+    "Characteristics[MaterialType]": [
+      "left ventricle tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Transmural myocardial samples were dissected from the mid LV free wall below the papillary muscle."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50 ratio)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 hearts in total were used in mass spectrometry (see method details below), including 7 normal, 6 cHyp, 4 HCMpEF, 5 HCMrEF, 6 DCM, 6 ICM."
+    ],
+    "Comment[Instrument]": [
+      "Desalted peptides were analyzed on a Q-Exactive (Thermo Scientific) attached to an EasyLC system run at 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "170 min gradient"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition mode with a dynamic exclusion of 45 s was enabled."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "collision energy of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap detection was used with scan range of 200 to 2000 m/z, resolution of 17.5 K, maximum injection time of 150 ms and automatic gain control of 5E6."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to 2 mis-cleavages"
+    ]
+  },
+  "Prosser_1119.raw": {
+    "Source Name": [
+      "Prosser_1119"
+    ],
+    "Assay Name": [
+      "Prosser_1119_Assay"
+    ],
+    "Raw Data File": [
+      "Prosser_1119.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "Human left ventricular tissues collected from a myocardial rich, minimally fibrotic region of the mid LV wall were used for mass spectrometry."
+    ],
+    "Characteristics[MaterialType]": [
+      "left ventricle tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Transmural myocardial samples were dissected from the mid LV free wall below the papillary muscle."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50 ratio)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 hearts in total were used in mass spectrometry (see method details below), including 7 normal, 6 cHyp, 4 HCMpEF, 5 HCMrEF, 6 DCM, 6 ICM."
+    ],
+    "Comment[Instrument]": [
+      "Desalted peptides were analyzed on a Q-Exactive (Thermo Scientific) attached to an EasyLC system run at 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "170 min gradient"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition mode with a dynamic exclusion of 45 s was enabled."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "collision energy of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap detection was used with scan range of 200 to 2000 m/z, resolution of 17.5 K, maximum injection time of 150 ms and automatic gain control of 5E6."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to 2 mis-cleavages"
+    ]
+  },
+  "Prosser_1383.raw": {
+    "Source Name": [
+      "Prosser_1383"
+    ],
+    "Assay Name": [
+      "Prosser_1383_Assay"
+    ],
+    "Raw Data File": [
+      "Prosser_1383.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "Human left ventricular tissues collected from a myocardial rich, minimally fibrotic region of the mid LV wall were used for mass spectrometry."
+    ],
+    "Characteristics[MaterialType]": [
+      "left ventricle tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Transmural myocardial samples were dissected from the mid LV free wall below the papillary muscle."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50 ratio)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 hearts in total were used in mass spectrometry (see method details below), including 7 normal, 6 cHyp, 4 HCMpEF, 5 HCMrEF, 6 DCM, 6 ICM."
+    ],
+    "Comment[Instrument]": [
+      "Desalted peptides were analyzed on a Q-Exactive (Thermo Scientific) attached to an EasyLC system run at 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "170 min gradient"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition mode with a dynamic exclusion of 45 s was enabled."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "collision energy of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap detection was used with scan range of 200 to 2000 m/z, resolution of 17.5 K, maximum injection time of 150 ms and automatic gain control of 5E6."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to 2 mis-cleavages"
+    ]
+  },
+  "Prosser_1304.raw": {
+    "Source Name": [
+      "Prosser_1304"
+    ],
+    "Assay Name": [
+      "Prosser_1304_Assay"
+    ],
+    "Raw Data File": [
+      "Prosser_1304.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "Human left ventricular tissues collected from a myocardial rich, minimally fibrotic region of the mid LV wall were used for mass spectrometry."
+    ],
+    "Characteristics[MaterialType]": [
+      "left ventricle tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Transmural myocardial samples were dissected from the mid LV free wall below the papillary muscle."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50 ratio)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 hearts in total were used in mass spectrometry (see method details below), including 7 normal, 6 cHyp, 4 HCMpEF, 5 HCMrEF, 6 DCM, 6 ICM."
+    ],
+    "Comment[Instrument]": [
+      "Desalted peptides were analyzed on a Q-Exactive (Thermo Scientific) attached to an EasyLC system run at 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "170 min gradient"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition mode with a dynamic exclusion of 45 s was enabled."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "collision energy of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap detection was used with scan range of 200 to 2000 m/z, resolution of 17.5 K, maximum injection time of 150 ms and automatic gain control of 5E6."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to 2 mis-cleavages"
+    ]
+  },
+  "Prosser_1085.raw": {
+    "Source Name": [
+      "Prosser_1085"
+    ],
+    "Assay Name": [
+      "Prosser_1085_Assay"
+    ],
+    "Raw Data File": [
+      "Prosser_1085.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "Human left ventricular tissues collected from a myocardial rich, minimally fibrotic region of the mid LV wall were used for mass spectrometry."
+    ],
+    "Characteristics[MaterialType]": [
+      "left ventricle tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Transmural myocardial samples were dissected from the mid LV free wall below the papillary muscle."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50 ratio)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 hearts in total were used in mass spectrometry (see method details below), including 7 normal, 6 cHyp, 4 HCMpEF, 5 HCMrEF, 6 DCM, 6 ICM."
+    ],
+    "Comment[Instrument]": [
+      "Desalted peptides were analyzed on a Q-Exactive (Thermo Scientific) attached to an EasyLC system run at 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "170 min gradient"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition mode with a dynamic exclusion of 45 s was enabled."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "collision energy of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap detection was used with scan range of 200 to 2000 m/z, resolution of 17.5 K, maximum injection time of 150 ms and automatic gain control of 5E6."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to 2 mis-cleavages"
+    ]
+  },
+  "Prosser_1205.raw": {
+    "Source Name": [
+      "Prosser_1205"
+    ],
+    "Assay Name": [
+      "Prosser_1205_Assay"
+    ],
+    "Raw Data File": [
+      "Prosser_1205.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "Human left ventricular tissues collected from a myocardial rich, minimally fibrotic region of the mid LV wall were used for mass spectrometry."
+    ],
+    "Characteristics[MaterialType]": [
+      "left ventricle tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Transmural myocardial samples were dissected from the mid LV free wall below the papillary muscle."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50 ratio)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 hearts in total were used in mass spectrometry (see method details below), including 7 normal, 6 cHyp, 4 HCMpEF, 5 HCMrEF, 6 DCM, 6 ICM."
+    ],
+    "Comment[Instrument]": [
+      "Desalted peptides were analyzed on a Q-Exactive (Thermo Scientific) attached to an EasyLC system run at 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "170 min gradient"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition mode with a dynamic exclusion of 45 s was enabled."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "collision energy of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap detection was used with scan range of 200 to 2000 m/z, resolution of 17.5 K, maximum injection time of 150 ms and automatic gain control of 5E6."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to 2 mis-cleavages"
+    ]
+  },
+  "Prosser_1311.raw": {
+    "Source Name": [
+      "Prosser_1311"
+    ],
+    "Assay Name": [
+      "Prosser_1311_Assay"
+    ],
+    "Raw Data File": [
+      "Prosser_1311.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "Human left ventricular tissues collected from a myocardial rich, minimally fibrotic region of the mid LV wall were used for mass spectrometry."
+    ],
+    "Characteristics[MaterialType]": [
+      "left ventricle tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Transmural myocardial samples were dissected from the mid LV free wall below the papillary muscle."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50 ratio)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 hearts in total were used in mass spectrometry (see method details below), including 7 normal, 6 cHyp, 4 HCMpEF, 5 HCMrEF, 6 DCM, 6 ICM."
+    ],
+    "Comment[Instrument]": [
+      "Desalted peptides were analyzed on a Q-Exactive (Thermo Scientific) attached to an EasyLC system run at 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "170 min gradient"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition mode with a dynamic exclusion of 45 s was enabled."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "collision energy of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap detection was used with scan range of 200 to 2000 m/z, resolution of 17.5 K, maximum injection time of 150 ms and automatic gain control of 5E6."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to 2 mis-cleavages"
+    ]
+  },
+  "Prosser_1288.raw": {
+    "Source Name": [
+      "Prosser_1288"
+    ],
+    "Assay Name": [
+      "Prosser_1288_Assay"
+    ],
+    "Raw Data File": [
+      "Prosser_1288.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "Human left ventricular tissues collected from a myocardial rich, minimally fibrotic region of the mid LV wall were used for mass spectrometry."
+    ],
+    "Characteristics[MaterialType]": [
+      "left ventricle tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Transmural myocardial samples were dissected from the mid LV free wall below the papillary muscle."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50 ratio)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 hearts in total were used in mass spectrometry (see method details below), including 7 normal, 6 cHyp, 4 HCMpEF, 5 HCMrEF, 6 DCM, 6 ICM."
+    ],
+    "Comment[Instrument]": [
+      "Desalted peptides were analyzed on a Q-Exactive (Thermo Scientific) attached to an EasyLC system run at 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "170 min gradient"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition mode with a dynamic exclusion of 45 s was enabled."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "collision energy of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap detection was used with scan range of 200 to 2000 m/z, resolution of 17.5 K, maximum injection time of 150 ms and automatic gain control of 5E6."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to 2 mis-cleavages"
+    ]
+  },
+  "Prosser_1535.raw": {
+    "Source Name": [
+      "Prosser_1535"
+    ],
+    "Assay Name": [
+      "Prosser_1535_Assay"
+    ],
+    "Raw Data File": [
+      "Prosser_1535.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "Human left ventricular tissues collected from a myocardial rich, minimally fibrotic region of the mid LV wall were used for mass spectrometry."
+    ],
+    "Characteristics[MaterialType]": [
+      "left ventricle tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Transmural myocardial samples were dissected from the mid LV free wall below the papillary muscle."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50 ratio)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 hearts in total were used in mass spectrometry (see method details below), including 7 normal, 6 cHyp, 4 HCMpEF, 5 HCMrEF, 6 DCM, 6 ICM."
+    ],
+    "Comment[Instrument]": [
+      "Desalted peptides were analyzed on a Q-Exactive (Thermo Scientific) attached to an EasyLC system run at 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "170 min gradient"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition mode with a dynamic exclusion of 45 s was enabled."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "collision energy of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap detection was used with scan range of 200 to 2000 m/z, resolution of 17.5 K, maximum injection time of 150 ms and automatic gain control of 5E6."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to 2 mis-cleavages"
+    ]
+  },
+  "Prosser_1273.raw": {
+    "Source Name": [
+      "Prosser_1273"
+    ],
+    "Assay Name": [
+      "Prosser_1273_Assay"
+    ],
+    "Raw Data File": [
+      "Prosser_1273.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "Human left ventricular tissues collected from a myocardial rich, minimally fibrotic region of the mid LV wall were used for mass spectrometry."
+    ],
+    "Characteristics[MaterialType]": [
+      "left ventricle tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Transmural myocardial samples were dissected from the mid LV free wall below the papillary muscle."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50 ratio)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 hearts in total were used in mass spectrometry (see method details below), including 7 normal, 6 cHyp, 4 HCMpEF, 5 HCMrEF, 6 DCM, 6 ICM."
+    ],
+    "Comment[Instrument]": [
+      "Desalted peptides were analyzed on a Q-Exactive (Thermo Scientific) attached to an EasyLC system run at 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "170 min gradient"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition mode with a dynamic exclusion of 45 s was enabled."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "collision energy of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap detection was used with scan range of 200 to 2000 m/z, resolution of 17.5 K, maximum injection time of 150 ms and automatic gain control of 5E6."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to 2 mis-cleavages"
+    ]
+  },
+  "Prosser_1195.raw": {
+    "Source Name": [
+      "Prosser_1195"
+    ],
+    "Assay Name": [
+      "Prosser_1195_Assay"
+    ],
+    "Raw Data File": [
+      "Prosser_1195.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "Human left ventricular tissues collected from a myocardial rich, minimally fibrotic region of the mid LV wall were used for mass spectrometry."
+    ],
+    "Characteristics[MaterialType]": [
+      "left ventricle tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Transmural myocardial samples were dissected from the mid LV free wall below the papillary muscle."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50 ratio)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 hearts in total were used in mass spectrometry (see method details below), including 7 normal, 6 cHyp, 4 HCMpEF, 5 HCMrEF, 6 DCM, 6 ICM."
+    ],
+    "Comment[Instrument]": [
+      "Desalted peptides were analyzed on a Q-Exactive (Thermo Scientific) attached to an EasyLC system run at 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "170 min gradient"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition mode with a dynamic exclusion of 45 s was enabled."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "collision energy of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap detection was used with scan range of 200 to 2000 m/z, resolution of 17.5 K, maximum injection time of 150 ms and automatic gain control of 5E6."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to 2 mis-cleavages"
+    ]
+  },
+  "Prosser_1004.raw": {
+    "Source Name": [
+      "Prosser_1004"
+    ],
+    "Assay Name": [
+      "Prosser_1004_Assay"
+    ],
+    "Raw Data File": [
+      "Prosser_1004.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "Human left ventricular tissues collected from a myocardial rich, minimally fibrotic region of the mid LV wall were used for mass spectrometry."
+    ],
+    "Characteristics[MaterialType]": [
+      "left ventricle tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Transmural myocardial samples were dissected from the mid LV free wall below the papillary muscle."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50 ratio)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 hearts in total were used in mass spectrometry (see method details below), including 7 normal, 6 cHyp, 4 HCMpEF, 5 HCMrEF, 6 DCM, 6 ICM."
+    ],
+    "Comment[Instrument]": [
+      "Desalted peptides were analyzed on a Q-Exactive (Thermo Scientific) attached to an EasyLC system run at 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "170 min gradient"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition mode with a dynamic exclusion of 45 s was enabled."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "collision energy of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap detection was used with scan range of 200 to 2000 m/z, resolution of 17.5 K, maximum injection time of 150 ms and automatic gain control of 5E6."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to 2 mis-cleavages"
+    ]
+  },
+  "Prosser_1198.raw": {
+    "Source Name": [
+      "Prosser_1198"
+    ],
+    "Assay Name": [
+      "Prosser_1198_Assay"
+    ],
+    "Raw Data File": [
+      "Prosser_1198.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "Human left ventricular tissues collected from a myocardial rich, minimally fibrotic region of the mid LV wall were used for mass spectrometry."
+    ],
+    "Characteristics[MaterialType]": [
+      "left ventricle tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Transmural myocardial samples were dissected from the mid LV free wall below the papillary muscle."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50 ratio)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 hearts in total were used in mass spectrometry (see method details below), including 7 normal, 6 cHyp, 4 HCMpEF, 5 HCMrEF, 6 DCM, 6 ICM."
+    ],
+    "Comment[Instrument]": [
+      "Desalted peptides were analyzed on a Q-Exactive (Thermo Scientific) attached to an EasyLC system run at 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "170 min gradient"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition mode with a dynamic exclusion of 45 s was enabled."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "collision energy of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap detection was used with scan range of 200 to 2000 m/z, resolution of 17.5 K, maximum injection time of 150 ms and automatic gain control of 5E6."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to 2 mis-cleavages"
+    ]
+  },
+  "Prosser_1467.raw": {
+    "Source Name": [
+      "Prosser_1467"
+    ],
+    "Assay Name": [
+      "Prosser_1467_Assay"
+    ],
+    "Raw Data File": [
+      "Prosser_1467.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "Human left ventricular tissues collected from a myocardial rich, minimally fibrotic region of the mid LV wall were used for mass spectrometry."
+    ],
+    "Characteristics[MaterialType]": [
+      "left ventricle tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Transmural myocardial samples were dissected from the mid LV free wall below the papillary muscle."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50 ratio)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 hearts in total were used in mass spectrometry (see method details below), including 7 normal, 6 cHyp, 4 HCMpEF, 5 HCMrEF, 6 DCM, 6 ICM."
+    ],
+    "Comment[Instrument]": [
+      "Desalted peptides were analyzed on a Q-Exactive (Thermo Scientific) attached to an EasyLC system run at 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "170 min gradient"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition mode with a dynamic exclusion of 45 s was enabled."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "collision energy of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap detection was used with scan range of 200 to 2000 m/z, resolution of 17.5 K, maximum injection time of 150 ms and automatic gain control of 5E6."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to 2 mis-cleavages"
+    ]
+  },
+  "Prosser_1425.raw": {
+    "Source Name": [
+      "Prosser_1425"
+    ],
+    "Assay Name": [
+      "Prosser_1425_Assay"
+    ],
+    "Raw Data File": [
+      "Prosser_1425.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "Human left ventricular tissues collected from a myocardial rich, minimally fibrotic region of the mid LV wall were used for mass spectrometry."
+    ],
+    "Characteristics[MaterialType]": [
+      "left ventricle tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Transmural myocardial samples were dissected from the mid LV free wall below the papillary muscle."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50 ratio)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 hearts in total were used in mass spectrometry (see method details below), including 7 normal, 6 cHyp, 4 HCMpEF, 5 HCMrEF, 6 DCM, 6 ICM."
+    ],
+    "Comment[Instrument]": [
+      "Desalted peptides were analyzed on a Q-Exactive (Thermo Scientific) attached to an EasyLC system run at 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "170 min gradient"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition mode with a dynamic exclusion of 45 s was enabled."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "collision energy of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap detection was used with scan range of 200 to 2000 m/z, resolution of 17.5 K, maximum injection time of 150 ms and automatic gain control of 5E6."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to 2 mis-cleavages"
+    ]
+  },
+  "Prosser_1320.raw": {
+    "Source Name": [
+      "Prosser_1320"
+    ],
+    "Assay Name": [
+      "Prosser_1320_Assay"
+    ],
+    "Raw Data File": [
+      "Prosser_1320.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "Human left ventricular tissues collected from a myocardial rich, minimally fibrotic region of the mid LV wall were used for mass spectrometry."
+    ],
+    "Characteristics[MaterialType]": [
+      "left ventricle tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Transmural myocardial samples were dissected from the mid LV free wall below the papillary muscle."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50 ratio)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 hearts in total were used in mass spectrometry (see method details below), including 7 normal, 6 cHyp, 4 HCMpEF, 5 HCMrEF, 6 DCM, 6 ICM."
+    ],
+    "Comment[Instrument]": [
+      "Desalted peptides were analyzed on a Q-Exactive (Thermo Scientific) attached to an EasyLC system run at 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "170 min gradient"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition mode with a dynamic exclusion of 45 s was enabled."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "collision energy of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap detection was used with scan range of 200 to 2000 m/z, resolution of 17.5 K, maximum injection time of 150 ms and automatic gain control of 5E6."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to 2 mis-cleavages"
+    ]
+  },
+  "Prosser_1146.raw": {
+    "Source Name": [
+      "Prosser_1146"
+    ],
+    "Assay Name": [
+      "Prosser_1146_Assay"
+    ],
+    "Raw Data File": [
+      "Prosser_1146.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "Human left ventricular tissues collected from a myocardial rich, minimally fibrotic region of the mid LV wall were used for mass spectrometry."
+    ],
+    "Characteristics[MaterialType]": [
+      "left ventricle tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Transmural myocardial samples were dissected from the mid LV free wall below the papillary muscle."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50 ratio)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 hearts in total were used in mass spectrometry (see method details below), including 7 normal, 6 cHyp, 4 HCMpEF, 5 HCMrEF, 6 DCM, 6 ICM."
+    ],
+    "Comment[Instrument]": [
+      "Desalted peptides were analyzed on a Q-Exactive (Thermo Scientific) attached to an EasyLC system run at 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "170 min gradient"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition mode with a dynamic exclusion of 45 s was enabled."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "collision energy of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap detection was used with scan range of 200 to 2000 m/z, resolution of 17.5 K, maximum injection time of 150 ms and automatic gain control of 5E6."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to 2 mis-cleavages"
+    ]
+  },
+  "Prosser_1209.raw": {
+    "Source Name": [
+      "Prosser_1209"
+    ],
+    "Assay Name": [
+      "Prosser_1209_Assay"
+    ],
+    "Raw Data File": [
+      "Prosser_1209.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "Human left ventricular tissues collected from a myocardial rich, minimally fibrotic region of the mid LV wall were used for mass spectrometry."
+    ],
+    "Characteristics[MaterialType]": [
+      "left ventricle tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Transmural myocardial samples were dissected from the mid LV free wall below the papillary muscle."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50 ratio)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 hearts in total were used in mass spectrometry (see method details below), including 7 normal, 6 cHyp, 4 HCMpEF, 5 HCMrEF, 6 DCM, 6 ICM."
+    ],
+    "Comment[Instrument]": [
+      "Desalted peptides were analyzed on a Q-Exactive (Thermo Scientific) attached to an EasyLC system run at 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "170 min gradient"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition mode with a dynamic exclusion of 45 s was enabled."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "collision energy of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap detection was used with scan range of 200 to 2000 m/z, resolution of 17.5 K, maximum injection time of 150 ms and automatic gain control of 5E6."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to 2 mis-cleavages"
+    ]
+  },
+  "Prosser_1325.raw": {
+    "Source Name": [
+      "Prosser_1325"
+    ],
+    "Assay Name": [
+      "Prosser_1325_Assay"
+    ],
+    "Raw Data File": [
+      "Prosser_1325.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "Human left ventricular tissues collected from a myocardial rich, minimally fibrotic region of the mid LV wall were used for mass spectrometry."
+    ],
+    "Characteristics[MaterialType]": [
+      "left ventricle tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Transmural myocardial samples were dissected from the mid LV free wall below the papillary muscle."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50 ratio)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 hearts in total were used in mass spectrometry (see method details below), including 7 normal, 6 cHyp, 4 HCMpEF, 5 HCMrEF, 6 DCM, 6 ICM."
+    ],
+    "Comment[Instrument]": [
+      "Desalted peptides were analyzed on a Q-Exactive (Thermo Scientific) attached to an EasyLC system run at 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "170 min gradient"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition mode with a dynamic exclusion of 45 s was enabled."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "collision energy of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap detection was used with scan range of 200 to 2000 m/z, resolution of 17.5 K, maximum injection time of 150 ms and automatic gain control of 5E6."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to 2 mis-cleavages"
+    ]
+  },
+  "Prosser_1427.raw": {
+    "Source Name": [
+      "Prosser_1427"
+    ],
+    "Assay Name": [
+      "Prosser_1427_Assay"
+    ],
+    "Raw Data File": [
+      "Prosser_1427.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "Human left ventricular tissues collected from a myocardial rich, minimally fibrotic region of the mid LV wall were used for mass spectrometry."
+    ],
+    "Characteristics[MaterialType]": [
+      "left ventricle tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Transmural myocardial samples were dissected from the mid LV free wall below the papillary muscle."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50 ratio)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 hearts in total were used in mass spectrometry (see method details below), including 7 normal, 6 cHyp, 4 HCMpEF, 5 HCMrEF, 6 DCM, 6 ICM."
+    ],
+    "Comment[Instrument]": [
+      "Desalted peptides were analyzed on a Q-Exactive (Thermo Scientific) attached to an EasyLC system run at 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "170 min gradient"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition mode with a dynamic exclusion of 45 s was enabled."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "collision energy of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap detection was used with scan range of 200 to 2000 m/z, resolution of 17.5 K, maximum injection time of 150 ms and automatic gain control of 5E6."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to 2 mis-cleavages"
+    ]
+  },
+  "Prosser_1086.raw": {
+    "Source Name": [
+      "Prosser_1086"
+    ],
+    "Assay Name": [
+      "Prosser_1086_Assay"
+    ],
+    "Raw Data File": [
+      "Prosser_1086.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "Human left ventricular tissues collected from a myocardial rich, minimally fibrotic region of the mid LV wall were used for mass spectrometry."
+    ],
+    "Characteristics[MaterialType]": [
+      "left ventricle tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Transmural myocardial samples were dissected from the mid LV free wall below the papillary muscle."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50 ratio)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 hearts in total were used in mass spectrometry (see method details below), including 7 normal, 6 cHyp, 4 HCMpEF, 5 HCMrEF, 6 DCM, 6 ICM."
+    ],
+    "Comment[Instrument]": [
+      "Desalted peptides were analyzed on a Q-Exactive (Thermo Scientific) attached to an EasyLC system run at 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "170 min gradient"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition mode with a dynamic exclusion of 45 s was enabled."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "collision energy of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap detection was used with scan range of 200 to 2000 m/z, resolution of 17.5 K, maximum injection time of 150 ms and automatic gain control of 5E6."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to 2 mis-cleavages"
+    ]
+  },
+  "Prosser_1228.raw": {
+    "Source Name": [
+      "Prosser_1228"
+    ],
+    "Assay Name": [
+      "Prosser_1228_Assay"
+    ],
+    "Raw Data File": [
+      "Prosser_1228.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "Human left ventricular tissues collected from a myocardial rich, minimally fibrotic region of the mid LV wall were used for mass spectrometry."
+    ],
+    "Characteristics[MaterialType]": [
+      "left ventricle tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Transmural myocardial samples were dissected from the mid LV free wall below the papillary muscle."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50 ratio)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 hearts in total were used in mass spectrometry (see method details below), including 7 normal, 6 cHyp, 4 HCMpEF, 5 HCMrEF, 6 DCM, 6 ICM."
+    ],
+    "Comment[Instrument]": [
+      "Desalted peptides were analyzed on a Q-Exactive (Thermo Scientific) attached to an EasyLC system run at 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "170 min gradient"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition mode with a dynamic exclusion of 45 s was enabled."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "collision energy of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap detection was used with scan range of 200 to 2000 m/z, resolution of 17.5 K, maximum injection time of 150 ms and automatic gain control of 5E6."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to 2 mis-cleavages"
+    ]
+  },
+  "Prosser_1602.raw": {
+    "Source Name": [
+      "Prosser_1602"
+    ],
+    "Assay Name": [
+      "Prosser_1602_Assay"
+    ],
+    "Raw Data File": [
+      "Prosser_1602.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "Human left ventricular tissues collected from a myocardial rich, minimally fibrotic region of the mid LV wall were used for mass spectrometry."
+    ],
+    "Characteristics[MaterialType]": [
+      "left ventricle tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Transmural myocardial samples were dissected from the mid LV free wall below the papillary muscle."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50 ratio)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 hearts in total were used in mass spectrometry (see method details below), including 7 normal, 6 cHyp, 4 HCMpEF, 5 HCMrEF, 6 DCM, 6 ICM."
+    ],
+    "Comment[Instrument]": [
+      "Desalted peptides were analyzed on a Q-Exactive (Thermo Scientific) attached to an EasyLC system run at 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "170 min gradient"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition mode with a dynamic exclusion of 45 s was enabled."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "collision energy of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap detection was used with scan range of 200 to 2000 m/z, resolution of 17.5 K, maximum injection time of 150 ms and automatic gain control of 5E6."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to 2 mis-cleavages"
+    ]
+  },
+  "Prosser_1200.raw": {
+    "Source Name": [
+      "Prosser_1200"
+    ],
+    "Assay Name": [
+      "Prosser_1200_Assay"
+    ],
+    "Raw Data File": [
+      "Prosser_1200.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "Human left ventricular tissues collected from a myocardial rich, minimally fibrotic region of the mid LV wall were used for mass spectrometry."
+    ],
+    "Characteristics[MaterialType]": [
+      "left ventricle tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Transmural myocardial samples were dissected from the mid LV free wall below the papillary muscle."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50 ratio)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 hearts in total were used in mass spectrometry (see method details below), including 7 normal, 6 cHyp, 4 HCMpEF, 5 HCMrEF, 6 DCM, 6 ICM."
+    ],
+    "Comment[Instrument]": [
+      "Desalted peptides were analyzed on a Q-Exactive (Thermo Scientific) attached to an EasyLC system run at 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "170 min gradient"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition mode with a dynamic exclusion of 45 s was enabled."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "collision energy of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap detection was used with scan range of 200 to 2000 m/z, resolution of 17.5 K, maximum injection time of 150 ms and automatic gain control of 5E6."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to 2 mis-cleavages"
+    ]
+  },
+  "Prosser_1339.raw": {
+    "Source Name": [
+      "Prosser_1339"
+    ],
+    "Assay Name": [
+      "Prosser_1339_Assay"
+    ],
+    "Raw Data File": [
+      "Prosser_1339.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "Human left ventricular tissues collected from a myocardial rich, minimally fibrotic region of the mid LV wall were used for mass spectrometry."
+    ],
+    "Characteristics[MaterialType]": [
+      "left ventricle tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Transmural myocardial samples were dissected from the mid LV free wall below the papillary muscle."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50 ratio)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 hearts in total were used in mass spectrometry (see method details below), including 7 normal, 6 cHyp, 4 HCMpEF, 5 HCMrEF, 6 DCM, 6 ICM."
+    ],
+    "Comment[Instrument]": [
+      "Desalted peptides were analyzed on a Q-Exactive (Thermo Scientific) attached to an EasyLC system run at 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "170 min gradient"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition mode with a dynamic exclusion of 45 s was enabled."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "collision energy of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap detection was used with scan range of 200 to 2000 m/z, resolution of 17.5 K, maximum injection time of 150 ms and automatic gain control of 5E6."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to 2 mis-cleavages"
+    ]
+  },
+  "Prosser_1605.raw": {
+    "Source Name": [
+      "Prosser_1605"
+    ],
+    "Assay Name": [
+      "Prosser_1605_Assay"
+    ],
+    "Raw Data File": [
+      "Prosser_1605.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "Human left ventricular tissues collected from a myocardial rich, minimally fibrotic region of the mid LV wall were used for mass spectrometry."
+    ],
+    "Characteristics[MaterialType]": [
+      "left ventricle tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Transmural myocardial samples were dissected from the mid LV free wall below the papillary muscle."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50 ratio)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 hearts in total were used in mass spectrometry (see method details below), including 7 normal, 6 cHyp, 4 HCMpEF, 5 HCMrEF, 6 DCM, 6 ICM."
+    ],
+    "Comment[Instrument]": [
+      "Desalted peptides were analyzed on a Q-Exactive (Thermo Scientific) attached to an EasyLC system run at 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "170 min gradient"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition mode with a dynamic exclusion of 45 s was enabled."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "collision energy of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap detection was used with scan range of 200 to 2000 m/z, resolution of 17.5 K, maximum injection time of 150 ms and automatic gain control of 5E6."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to 2 mis-cleavages"
+    ]
+  },
+  "Prosser_1290.raw": {
+    "Source Name": [
+      "Prosser_1290"
+    ],
+    "Assay Name": [
+      "Prosser_1290_Assay"
+    ],
+    "Raw Data File": [
+      "Prosser_1290.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "Human left ventricular tissues collected from a myocardial rich, minimally fibrotic region of the mid LV wall were used for mass spectrometry."
+    ],
+    "Characteristics[MaterialType]": [
+      "left ventricle tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Transmural myocardial samples were dissected from the mid LV free wall below the papillary muscle."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50 ratio)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 hearts in total were used in mass spectrometry (see method details below), including 7 normal, 6 cHyp, 4 HCMpEF, 5 HCMrEF, 6 DCM, 6 ICM."
+    ],
+    "Comment[Instrument]": [
+      "Desalted peptides were analyzed on a Q-Exactive (Thermo Scientific) attached to an EasyLC system run at 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "170 min gradient"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition mode with a dynamic exclusion of 45 s was enabled."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "collision energy of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap detection was used with scan range of 200 to 2000 m/z, resolution of 17.5 K, maximum injection time of 150 ms and automatic gain control of 5E6."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to 2 mis-cleavages"
+    ]
+  },
+  "Prosser_1366.raw": {
+    "Source Name": [
+      "Prosser_1366"
+    ],
+    "Assay Name": [
+      "Prosser_1366_Assay"
+    ],
+    "Raw Data File": [
+      "Prosser_1366.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "Human left ventricular tissues collected from a myocardial rich, minimally fibrotic region of the mid LV wall were used for mass spectrometry."
+    ],
+    "Characteristics[MaterialType]": [
+      "left ventricle tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Transmural myocardial samples were dissected from the mid LV free wall below the papillary muscle."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50 ratio)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 hearts in total were used in mass spectrometry (see method details below), including 7 normal, 6 cHyp, 4 HCMpEF, 5 HCMrEF, 6 DCM, 6 ICM."
+    ],
+    "Comment[Instrument]": [
+      "Desalted peptides were analyzed on a Q-Exactive (Thermo Scientific) attached to an EasyLC system run at 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "170 min gradient"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition mode with a dynamic exclusion of 45 s was enabled."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "collision energy of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap detection was used with scan range of 200 to 2000 m/z, resolution of 17.5 K, maximum injection time of 150 ms and automatic gain control of 5E6."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to 2 mis-cleavages"
+    ]
+  },
+  "Prosser_1510.raw": {
+    "Source Name": [
+      "Prosser_1510"
+    ],
+    "Assay Name": [
+      "Prosser_1510_Assay"
+    ],
+    "Raw Data File": [
+      "Prosser_1510.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "Human left ventricular tissues collected from a myocardial rich, minimally fibrotic region of the mid LV wall were used for mass spectrometry."
+    ],
+    "Characteristics[MaterialType]": [
+      "left ventricle tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Transmural myocardial samples were dissected from the mid LV free wall below the papillary muscle."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50 ratio)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 hearts in total were used in mass spectrometry (see method details below), including 7 normal, 6 cHyp, 4 HCMpEF, 5 HCMrEF, 6 DCM, 6 ICM."
+    ],
+    "Comment[Instrument]": [
+      "Desalted peptides were analyzed on a Q-Exactive (Thermo Scientific) attached to an EasyLC system run at 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "170 min gradient"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition mode with a dynamic exclusion of 45 s was enabled."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "collision energy of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap detection was used with scan range of 200 to 2000 m/z, resolution of 17.5 K, maximum injection time of 150 ms and automatic gain control of 5E6."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to 2 mis-cleavages"
+    ]
+  },
+  "Prosser_1379.raw": {
+    "Source Name": [
+      "Prosser_1379"
+    ],
+    "Assay Name": [
+      "Prosser_1379_Assay"
+    ],
+    "Raw Data File": [
+      "Prosser_1379.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "Human left ventricular tissues collected from a myocardial rich, minimally fibrotic region of the mid LV wall were used for mass spectrometry."
+    ],
+    "Characteristics[MaterialType]": [
+      "left ventricle tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Transmural myocardial samples were dissected from the mid LV free wall below the papillary muscle."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50 ratio)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 hearts in total were used in mass spectrometry (see method details below), including 7 normal, 6 cHyp, 4 HCMpEF, 5 HCMrEF, 6 DCM, 6 ICM."
+    ],
+    "Comment[Instrument]": [
+      "Desalted peptides were analyzed on a Q-Exactive (Thermo Scientific) attached to an EasyLC system run at 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "170 min gradient"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition mode with a dynamic exclusion of 45 s was enabled."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "collision energy of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap detection was used with scan range of 200 to 2000 m/z, resolution of 17.5 K, maximum injection time of 150 ms and automatic gain control of 5E6."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to 2 mis-cleavages"
+    ]
+  },
+  "Prosser_1472.raw": {
+    "Source Name": [
+      "Prosser_1472"
+    ],
+    "Assay Name": [
+      "Prosser_1472_Assay"
+    ],
+    "Raw Data File": [
+      "Prosser_1472.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "Human left ventricular tissues collected from a myocardial rich, minimally fibrotic region of the mid LV wall were used for mass spectrometry."
+    ],
+    "Characteristics[MaterialType]": [
+      "left ventricle tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Transmural myocardial samples were dissected from the mid LV free wall below the papillary muscle."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50 ratio)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 hearts in total were used in mass spectrometry (see method details below), including 7 normal, 6 cHyp, 4 HCMpEF, 5 HCMrEF, 6 DCM, 6 ICM."
+    ],
+    "Comment[Instrument]": [
+      "Desalted peptides were analyzed on a Q-Exactive (Thermo Scientific) attached to an EasyLC system run at 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "170 min gradient"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition mode with a dynamic exclusion of 45 s was enabled."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "collision energy of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap detection was used with scan range of 200 to 2000 m/z, resolution of 17.5 K, maximum injection time of 150 ms and automatic gain control of 5E6."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to 2 mis-cleavages"
+    ]
+  },
+  "Prosser_1375.raw": {
+    "Source Name": [
+      "Prosser_1375"
+    ],
+    "Assay Name": [
+      "Prosser_1375_Assay"
+    ],
+    "Raw Data File": [
+      "Prosser_1375.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "Human left ventricular tissues collected from a myocardial rich, minimally fibrotic region of the mid LV wall were used for mass spectrometry."
+    ],
+    "Characteristics[MaterialType]": [
+      "left ventricle tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Transmural myocardial samples were dissected from the mid LV free wall below the papillary muscle."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50 ratio)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 hearts in total were used in mass spectrometry (see method details below), including 7 normal, 6 cHyp, 4 HCMpEF, 5 HCMrEF, 6 DCM, 6 ICM."
+    ],
+    "Comment[Instrument]": [
+      "Desalted peptides were analyzed on a Q-Exactive (Thermo Scientific) attached to an EasyLC system run at 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "170 min gradient"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition mode with a dynamic exclusion of 45 s was enabled."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "collision energy of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap detection was used with scan range of 200 to 2000 m/z, resolution of 17.5 K, maximum injection time of 150 ms and automatic gain control of 5E6."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to 2 mis-cleavages"
+    ]
+  },
+  "Prosser_1356.raw": {
+    "Source Name": [
+      "Prosser_1356"
+    ],
+    "Assay Name": [
+      "Prosser_1356_Assay"
+    ],
+    "Raw Data File": [
+      "Prosser_1356.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "Human left ventricular tissues collected from a myocardial rich, minimally fibrotic region of the mid LV wall were used for mass spectrometry."
+    ],
+    "Characteristics[MaterialType]": [
+      "left ventricle tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Transmural myocardial samples were dissected from the mid LV free wall below the papillary muscle."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50 ratio)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 hearts in total were used in mass spectrometry (see method details below), including 7 normal, 6 cHyp, 4 HCMpEF, 5 HCMrEF, 6 DCM, 6 ICM."
+    ],
+    "Comment[Instrument]": [
+      "Desalted peptides were analyzed on a Q-Exactive (Thermo Scientific) attached to an EasyLC system run at 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "170 min gradient"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition mode with a dynamic exclusion of 45 s was enabled."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "collision energy of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap detection was used with scan range of 200 to 2000 m/z, resolution of 17.5 K, maximum injection time of 150 ms and automatic gain control of 5E6."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to 2 mis-cleavages"
+    ]
+  }
+}

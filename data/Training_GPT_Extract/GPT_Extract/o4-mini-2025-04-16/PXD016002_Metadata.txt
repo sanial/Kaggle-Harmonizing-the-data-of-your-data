@@ -1,0 +1,34 @@
+NumberOfSamples: Forty-five human CSF specimens  
+BiologicalReplicate: 16 patients  
+Organism: human  
+Specimen: human CSF specimens  
+CellLine: WM164  
+CellLine: 451Lu  
+CellLine: WM983A  
+CellLine: A375  
+Depletion: Pierce Top 12 Abundant Protein Depletion Spin Columns  
+CleavageAgent: trypsin  
+Label: TMT-6plex reagents  
+FractionationMethod: basic pH RPLC fractionation  
+NumberOfFractions: final 24 concatenated fractions  
+AssayName: LC-MS/MS  
+GradientTime: 90 minute gradient  
+Instrument: RSLC nano  
+Instrument: QExactive Plus mass spectrometer  
+SupplementaryFile: Supplemental Table 1  
+PooledSample: identical reference pool  
+SupplementaryFile: PXD016002 and 10.6019/PXD016002  
+Treatment: 3μM vemurafenib  
+SampleTreatment: a 1:1 mixture of serum-free media:CSF from patient 1, patient 2 or patient 3  
+Time: 8 hours  
+ConcentrationOfCompound: 100 ng of RNA  
+Instrument: Illumina NextSeq 500 v2 sequencer  
+Time: 72 hours  
+Staining: Annexin-V and TMRM  
+AssayName: Proteome Profiler Human Phospho-Kinase Array Kit  
+Instrument: Ventana Discovery XT automated system  
+Instrument: Aperio AT2 slide scanner  
+AssayName: TGF-β1 ELISA Kit  
+FactorValue: 1 × 10^4 cells/well  
+Treatment: exogenous TGF-β1  
+Time: 2 weeks

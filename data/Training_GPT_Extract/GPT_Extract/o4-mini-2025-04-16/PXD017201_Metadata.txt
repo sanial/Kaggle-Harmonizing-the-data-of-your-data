@@ -1,0 +1,45 @@
+Disease: metastatic cutaneous melanoma  
+Treatment: anti-PD-1 immunotherapy  
+SourceName: plasma samples  
+NumberOfSamples: 24  
+Disease: metastatic CM  
+AssayName: mass-spectrometry-based global proteomics  
+AssayName: HiRIEF LC-MS/MS  
+AssayName: proximity extension assays (PEAs)  
+Treatment: mitogen-activated protein kinase inhibitors (MAPKis)  
+FactorValue: PFS  
+NumberOfSamples: 46  
+Time: pre-trm  
+Time: trm  
+Treatment: first-line ICIs  
+Treatment: anti-CTLA-4  
+Treatment: anti-PD-1  
+Treatment: MAPKis  
+Treatment: MEKis  
+Treatment: BRAFis  
+TumorStage: stage IV  
+Disease: metastatic (stage IV) CM  
+Temperature: −70°C  
+Depletion: Agilent Plasma 14 Multiple Removal System 4.6×100  
+Instrument: Agilent HPLC system  
+AssayName: Bio-Rad DC Assay  
+CleavageAgent: LysC  
+CleavageAgent: trypsin  
+FactorValue: pH 8.5  
+Compound: triethylammonium bicarbonate buffer, pH 8.5  
+Label: isobaric tandem masstags (Thermo Scientific)  
+AssayName: liquid chromatography–mass spectrometry (LC-MS/MS)  
+EnrichmentMethod: solid phase extraction (SPE strata-X-C, Phenomenex)  
+FractionationMethod: peptide IEF-IPG (isoelectric focusing by immobilized pH gradient)  
+FactorValue: pI range 3–10  
+MaterialType: 24 cm linear gradient IPG strip (GE Healthcare)  
+FactorValue: 1% IPG pharmalyte pH 3–10 (GE Healthcare)  
+FractionIdentifier: 72 contiguous fractions  
+Compound: MilliQ water/35% acetonitrile/35% acetonitrile and 0.1% formic acid  
+Instrument: IPG extractor robotics (GE Healthcare Biosciences AB, prototype instrument)  
+MaterialType: 96-well plate (V-bottom, Greiner product no 651201)  
+Temperature: −20°C  
+AssayName: PEAs  
+AssayName: Olink ImmunoOnc I panel  
+SupplementaryFile: online supplementary table S0  
+FactorValue: normalized protein expression values

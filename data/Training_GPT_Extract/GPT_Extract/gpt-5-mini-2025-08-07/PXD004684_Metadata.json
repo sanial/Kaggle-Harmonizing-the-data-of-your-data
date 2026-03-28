@@ -1,0 +1,802 @@
+{
+  "N295-1.raw": {
+    "Source Name": [
+      "N295"
+    ],
+    "Assay Name": [
+      "N295_1"
+    ],
+    "Raw Data File": [
+      "N295-1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11 mM iodoacetamide at room temperature for 15 minutes in the dark."
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "adjacent lung tissues"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "1"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Six of the eight clinical samples are paired sets of tumor and adjacent lung tissues, and the unpaired samples are designated as patients 4 and 5 or “P4/5.”"
+    ],
+    "FactorValue[Treatment]": [
+      "adjacent lung tissue"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ]
+  },
+  "N295-2.raw": {
+    "Source Name": [
+      "N295"
+    ],
+    "Assay Name": [
+      "N295_2"
+    ],
+    "Raw Data File": [
+      "N295-2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11 mM iodoacetamide at room temperature for 15 minutes in the dark."
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "adjacent lung tissues"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "2"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Six of the eight clinical samples are paired sets of tumor and adjacent lung tissues, and the unpaired samples are designated as patients 4 and 5 or “P4/5.”"
+    ],
+    "FactorValue[Treatment]": [
+      "adjacent lung tissue"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ]
+  },
+  "T303-2.raw": {
+    "Source Name": [
+      "T303"
+    ],
+    "Assay Name": [
+      "T303_2"
+    ],
+    "Raw Data File": [
+      "T303-2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11 mM iodoacetamide at room temperature for 15 minutes in the dark."
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung squamous cell carcinomas"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "2"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Six of the eight clinical samples are paired sets of tumor and adjacent lung tissues, and the unpaired samples are designated as patients 4 and 5 or “P4/5.”"
+    ],
+    "FactorValue[Treatment]": [
+      "tumor"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ]
+  },
+  "T298-1.raw": {
+    "Source Name": [
+      "T298"
+    ],
+    "Assay Name": [
+      "T298_1"
+    ],
+    "Raw Data File": [
+      "T298-1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11 mM iodoacetamide at room temperature for 15 minutes in the dark."
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung squamous cell carcinomas"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "1"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Six of the eight clinical samples are paired sets of tumor and adjacent lung tissues, and the unpaired samples are designated as patients 4 and 5 or “P4/5.”"
+    ],
+    "FactorValue[Treatment]": [
+      "tumor"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ]
+  },
+  "N299-1.raw": {
+    "Source Name": [
+      "N299"
+    ],
+    "Assay Name": [
+      "N299_1"
+    ],
+    "Raw Data File": [
+      "N299-1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11 mM iodoacetamide at room temperature for 15 minutes in the dark."
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "adjacent lung tissues"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "1"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Six of the eight clinical samples are paired sets of tumor and adjacent lung tissues, and the unpaired samples are designated as patients 4 and 5 or “P4/5.”"
+    ],
+    "FactorValue[Treatment]": [
+      "adjacent lung tissue"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ]
+  },
+  "T298-2.raw": {
+    "Source Name": [
+      "T298"
+    ],
+    "Assay Name": [
+      "T298_2"
+    ],
+    "Raw Data File": [
+      "T298-2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11 mM iodoacetamide at room temperature for 15 minutes in the dark."
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung squamous cell carcinomas"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "2"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Six of the eight clinical samples are paired sets of tumor and adjacent lung tissues, and the unpaired samples are designated as patients 4 and 5 or “P4/5.”"
+    ],
+    "FactorValue[Treatment]": [
+      "tumor"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ]
+  },
+  "N296-2.raw": {
+    "Source Name": [
+      "N296"
+    ],
+    "Assay Name": [
+      "N296_2"
+    ],
+    "Raw Data File": [
+      "N296-2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11 mM iodoacetamide at room temperature for 15 minutes in the dark."
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "adjacent lung tissues"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "2"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Six of the eight clinical samples are paired sets of tumor and adjacent lung tissues, and the unpaired samples are designated as patients 4 and 5 or “P4/5.”"
+    ],
+    "FactorValue[Treatment]": [
+      "adjacent lung tissue"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ]
+  },
+  "T303-1.raw": {
+    "Source Name": [
+      "T303"
+    ],
+    "Assay Name": [
+      "T303_1"
+    ],
+    "Raw Data File": [
+      "T303-1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11 mM iodoacetamide at room temperature for 15 minutes in the dark."
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung squamous cell carcinomas"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "1"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Six of the eight clinical samples are paired sets of tumor and adjacent lung tissues, and the unpaired samples are designated as patients 4 and 5 or “P4/5.”"
+    ],
+    "FactorValue[Treatment]": [
+      "tumor"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ]
+  },
+  "N294-2.raw": {
+    "Source Name": [
+      "N294"
+    ],
+    "Assay Name": [
+      "N294_2"
+    ],
+    "Raw Data File": [
+      "N294-2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11 mM iodoacetamide at room temperature for 15 minutes in the dark."
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "adjacent lung tissues"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "2"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Six of the eight clinical samples are paired sets of tumor and adjacent lung tissues, and the unpaired samples are designated as patients 4 and 5 or “P4/5.”"
+    ],
+    "FactorValue[Treatment]": [
+      "adjacent lung tissue"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ]
+  },
+  "N299-2.raw": {
+    "Source Name": [
+      "N299"
+    ],
+    "Assay Name": [
+      "N299_2"
+    ],
+    "Raw Data File": [
+      "N299-2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11 mM iodoacetamide at room temperature for 15 minutes in the dark."
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "adjacent lung tissues"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "2"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Six of the eight clinical samples are paired sets of tumor and adjacent lung tissues, and the unpaired samples are designated as patients 4 and 5 or “P4/5.”"
+    ],
+    "FactorValue[Treatment]": [
+      "adjacent lung tissue"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ]
+  },
+  "T300-2.raw": {
+    "Source Name": [
+      "T300"
+    ],
+    "Assay Name": [
+      "T300_2"
+    ],
+    "Raw Data File": [
+      "T300-2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11 mM iodoacetamide at room temperature for 15 minutes in the dark."
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung squamous cell carcinomas"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "2"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Six of the eight clinical samples are paired sets of tumor and adjacent lung tissues, and the unpaired samples are designated as patients 4 and 5 or “P4/5.”"
+    ],
+    "FactorValue[Treatment]": [
+      "tumor"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ]
+  },
+  "T301-2.raw": {
+    "Source Name": [
+      "T301"
+    ],
+    "Assay Name": [
+      "T301_2"
+    ],
+    "Raw Data File": [
+      "T301-2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11 mM iodoacetamide at room temperature for 15 minutes in the dark."
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung squamous cell carcinomas"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "2"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Six of the eight clinical samples are paired sets of tumor and adjacent lung tissues, and the unpaired samples are designated as patients 4 and 5 or “P4/5.”"
+    ],
+    "FactorValue[Treatment]": [
+      "tumor"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ]
+  },
+  "T301-1.raw": {
+    "Source Name": [
+      "T301"
+    ],
+    "Assay Name": [
+      "T301_1"
+    ],
+    "Raw Data File": [
+      "T301-1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11 mM iodoacetamide at room temperature for 15 minutes in the dark."
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung squamous cell carcinomas"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "1"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Six of the eight clinical samples are paired sets of tumor and adjacent lung tissues, and the unpaired samples are designated as patients 4 and 5 or “P4/5.”"
+    ],
+    "FactorValue[Treatment]": [
+      "tumor"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ]
+  },
+  "N294-1.raw": {
+    "Source Name": [
+      "N294"
+    ],
+    "Assay Name": [
+      "N294_1"
+    ],
+    "Raw Data File": [
+      "N294-1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11 mM iodoacetamide at room temperature for 15 minutes in the dark."
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "adjacent lung tissues"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "1"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Six of the eight clinical samples are paired sets of tumor and adjacent lung tissues, and the unpaired samples are designated as patients 4 and 5 or “P4/5.”"
+    ],
+    "FactorValue[Treatment]": [
+      "adjacent lung tissue"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ]
+  },
+  "T300-1.raw": {
+    "Source Name": [
+      "T300"
+    ],
+    "Assay Name": [
+      "T300_1"
+    ],
+    "Raw Data File": [
+      "T300-1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11 mM iodoacetamide at room temperature for 15 minutes in the dark."
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lung squamous cell carcinomas"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "1"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Six of the eight clinical samples are paired sets of tumor and adjacent lung tissues, and the unpaired samples are designated as patients 4 and 5 or “P4/5.”"
+    ],
+    "FactorValue[Treatment]": [
+      "tumor"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ]
+  },
+  "N296-1.raw": {
+    "Source Name": [
+      "N296"
+    ],
+    "Assay Name": [
+      "N296_1"
+    ],
+    "Raw Data File": [
+      "N296-1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "11 mM iodoacetamide at room temperature for 15 minutes in the dark."
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "adjacent lung tissues"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "1"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Six of the eight clinical samples are paired sets of tumor and adjacent lung tissues, and the unpaired samples are designated as patients 4 and 5 or “P4/5.”"
+    ],
+    "FactorValue[Treatment]": [
+      "adjacent lung tissue"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ]
+  }
+}

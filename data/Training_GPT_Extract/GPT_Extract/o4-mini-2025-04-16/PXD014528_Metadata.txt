@@ -1,0 +1,40 @@
+CellType: mouse embryonic stem cells  
+CellLine: E14Tg2a ESCs  
+Organism: mouse  
+SourceName: Dulbecco’s modified Eagle’s medium (DMEM)  
+SourceName: NDiff 227 medium (StemCells, Inc.)  
+Compound: MEK inhibitor PD0325901  
+ConcentrationOfCompound: 1 μM  
+Compound: GSK3 inhibitor CHIR99021  
+ConcentrationOfCompound: 3 μM  
+Compound: LIF  
+ConcentrationOfCompound: 1000 U/ml  
+Compound: Activin-A  
+ConcentrationOfCompound: 20 ng/ml  
+Compound: bFGF  
+ConcentrationOfCompound: 12 ng/ml  
+Compound: penicillin/streptomycin  
+Compound: 2-mercaptoethanol  
+ConcentrationOfCompound: 55 µM  
+Compound: cycloheximide  
+ConcentrationOfCompound: 100 µg/ml  
+BiologicalReplicate: biological duplicates per cell condition  
+BiologicalReplicate: biological triplicates  
+Time: 5 min  
+Temperature: 4 °C  
+AssayName: polysome profiling  
+FractionationMethod: 10–50% sucrose gradient  
+AssayName: ribosome profiling  
+Depletion: rRNA  
+EnrichmentMethod: subtractive hybridization  
+Separation: denaturing 15% polyacrylamide-urea gel  
+AssayName: RNA-seq  
+Instrument: HiSeq-2000 platform  
+AssayName: mass spectrometry-based proteomics  
+Instrument: Orbitrap LC-MS  
+AcquisitionMethod: label-free quantification  
+CleavageAgent: trypsin/LysC combination  
+ReductionReagent: DTT  
+AssayName: quantitative reverse transcription polymerase chain reaction  
+AssayName: Western blot analysis  
+Separation: 12% SDS-PAGE gels

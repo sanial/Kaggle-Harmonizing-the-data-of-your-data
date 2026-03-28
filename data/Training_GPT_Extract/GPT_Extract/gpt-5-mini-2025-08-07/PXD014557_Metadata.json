@@ -1,0 +1,3362 @@
+{
+  "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr31.raw": {
+    "Source Name": [
+      "pooled_sample_IPG3-10_450ug"
+    ],
+    "Assay Name": [
+      "pooled_sample_IPG3-10_450ug_fr31"
+    ],
+    "Raw Data File": [
+      "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr31.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested by trypsin",
+      "digested first by Lys-C (Pierce, Thermo Scientific, Waltham, Massachusetts) for 16 h prior to trypsin digestion (16 h)."
+    ],
+    "Characteristics[Label]": [
+      "TMT10plex 126–131Da"
+    ],
+    "Characteristics[MaterialType]": [
+      "microdissected tissues"
+    ],
+    "Characteristics[Organism]": [
+      "postmortem human brain tissue of AD and control cases."
+    ],
+    "Characteristics[OrganismPart]": [
+      "outer two-thirds of the molecular layer of the dentate gyrus"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "five AD and five neurologically healthy control cases"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "simultaneous detection of ten samples"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mm DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with 4 mm chloroacetamide."
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen hippocampal tissues"
+    ],
+    "Comment[Instrument]": [
+      "hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific)",
+      "UltiMate™ 3000 RSLCnano System, Thermo Scientific Dionex"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Online liquid chromatography-tandem mass spectrometry (LC-MS/MS) was performed using a hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific).",
+      "data-dependent MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision dissociation at 30–40% normalized collision energy"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30–40% normalized collision energy"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250 nl/min"
+    ],
+    "Comment[Separation]": [
+      "separated on a 50 cm long C18 column (Easy spray PepMap RSLC, C18, 2 μm, 100Å, 75 μm × 50 cm)"
+    ],
+    "Comment[FractionationMethod]": [
+      "pre-fractionated into 72 fractions by high-resolution isoelectric focusing",
+      "eluted into 72 contiguous fractions"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum 2 missed cleavages"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "FTMS master scans with 70,000 resolution (and mass range 300–1700 mass to charge ratio (m/z))"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr31"
+    ]
+  },
+  "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr05.raw": {
+    "Source Name": [
+      "pooled_sample_IPG3-10_450ug"
+    ],
+    "Assay Name": [
+      "pooled_sample_IPG3-10_450ug_fr05"
+    ],
+    "Raw Data File": [
+      "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr05.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested by trypsin",
+      "digested first by Lys-C (Pierce, Thermo Scientific, Waltham, Massachusetts) for 16 h prior to trypsin digestion (16 h)."
+    ],
+    "Characteristics[Label]": [
+      "TMT10plex 126–131Da"
+    ],
+    "Characteristics[MaterialType]": [
+      "microdissected tissues"
+    ],
+    "Characteristics[Organism]": [
+      "postmortem human brain tissue of AD and control cases."
+    ],
+    "Characteristics[OrganismPart]": [
+      "outer two-thirds of the molecular layer of the dentate gyrus"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "five AD and five neurologically healthy control cases"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "simultaneous detection of ten samples"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mm DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with 4 mm chloroacetamide."
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen hippocampal tissues"
+    ],
+    "Comment[Instrument]": [
+      "hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific)",
+      "UltiMate™ 3000 RSLCnano System, Thermo Scientific Dionex"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Online liquid chromatography-tandem mass spectrometry (LC-MS/MS) was performed using a hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific).",
+      "data-dependent MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision dissociation at 30–40% normalized collision energy"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30–40% normalized collision energy"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250 nl/min"
+    ],
+    "Comment[Separation]": [
+      "separated on a 50 cm long C18 column (Easy spray PepMap RSLC, C18, 2 μm, 100Å, 75 μm × 50 cm)"
+    ],
+    "Comment[FractionationMethod]": [
+      "pre-fractionated into 72 fractions by high-resolution isoelectric focusing",
+      "eluted into 72 contiguous fractions"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum 2 missed cleavages"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "FTMS master scans with 70,000 resolution (and mass range 300–1700 mass to charge ratio (m/z))"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr05"
+    ]
+  },
+  "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr02.raw": {
+    "Source Name": [
+      "pooled_sample_IPG3-10_450ug"
+    ],
+    "Assay Name": [
+      "pooled_sample_IPG3-10_450ug_fr02"
+    ],
+    "Raw Data File": [
+      "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr02.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested by trypsin",
+      "digested first by Lys-C (Pierce, Thermo Scientific, Waltham, Massachusetts) for 16 h prior to trypsin digestion (16 h)."
+    ],
+    "Characteristics[Label]": [
+      "TMT10plex 126–131Da"
+    ],
+    "Characteristics[MaterialType]": [
+      "microdissected tissues"
+    ],
+    "Characteristics[Organism]": [
+      "postmortem human brain tissue of AD and control cases."
+    ],
+    "Characteristics[OrganismPart]": [
+      "outer two-thirds of the molecular layer of the dentate gyrus"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "five AD and five neurologically healthy control cases"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "simultaneous detection of ten samples"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mm DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with 4 mm chloroacetamide."
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen hippocampal tissues"
+    ],
+    "Comment[Instrument]": [
+      "hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific)",
+      "UltiMate™ 3000 RSLCnano System, Thermo Scientific Dionex"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Online liquid chromatography-tandem mass spectrometry (LC-MS/MS) was performed using a hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific).",
+      "data-dependent MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision dissociation at 30–40% normalized collision energy"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30–40% normalized collision energy"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250 nl/min"
+    ],
+    "Comment[Separation]": [
+      "separated on a 50 cm long C18 column (Easy spray PepMap RSLC, C18, 2 μm, 100Å, 75 μm × 50 cm)"
+    ],
+    "Comment[FractionationMethod]": [
+      "pre-fractionated into 72 fractions by high-resolution isoelectric focusing",
+      "eluted into 72 contiguous fractions"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum 2 missed cleavages"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "FTMS master scans with 70,000 resolution (and mass range 300–1700 mass to charge ratio (m/z))"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr02"
+    ]
+  },
+  "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr36.raw": {
+    "Source Name": [
+      "pooled_sample_IPG3-10_450ug"
+    ],
+    "Assay Name": [
+      "pooled_sample_IPG3-10_450ug_fr36"
+    ],
+    "Raw Data File": [
+      "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr36.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested by trypsin",
+      "digested first by Lys-C (Pierce, Thermo Scientific, Waltham, Massachusetts) for 16 h prior to trypsin digestion (16 h)."
+    ],
+    "Characteristics[Label]": [
+      "TMT10plex 126–131Da"
+    ],
+    "Characteristics[MaterialType]": [
+      "microdissected tissues"
+    ],
+    "Characteristics[Organism]": [
+      "postmortem human brain tissue of AD and control cases."
+    ],
+    "Characteristics[OrganismPart]": [
+      "outer two-thirds of the molecular layer of the dentate gyrus"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "five AD and five neurologically healthy control cases"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "simultaneous detection of ten samples"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mm DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with 4 mm chloroacetamide."
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen hippocampal tissues"
+    ],
+    "Comment[Instrument]": [
+      "hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific)",
+      "UltiMate™ 3000 RSLCnano System, Thermo Scientific Dionex"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Online liquid chromatography-tandem mass spectrometry (LC-MS/MS) was performed using a hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific).",
+      "data-dependent MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision dissociation at 30–40% normalized collision energy"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30–40% normalized collision energy"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250 nl/min"
+    ],
+    "Comment[Separation]": [
+      "separated on a 50 cm long C18 column (Easy spray PepMap RSLC, C18, 2 μm, 100Å, 75 μm × 50 cm)"
+    ],
+    "Comment[FractionationMethod]": [
+      "pre-fractionated into 72 fractions by high-resolution isoelectric focusing",
+      "eluted into 72 contiguous fractions"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum 2 missed cleavages"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "FTMS master scans with 70,000 resolution (and mass range 300–1700 mass to charge ratio (m/z))"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr36"
+    ]
+  },
+  "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr01.raw": {
+    "Source Name": [
+      "pooled_sample_IPG3-10_450ug"
+    ],
+    "Assay Name": [
+      "pooled_sample_IPG3-10_450ug_fr01"
+    ],
+    "Raw Data File": [
+      "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr01.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested by trypsin",
+      "digested first by Lys-C (Pierce, Thermo Scientific, Waltham, Massachusetts) for 16 h prior to trypsin digestion (16 h)."
+    ],
+    "Characteristics[Label]": [
+      "TMT10plex 126–131Da"
+    ],
+    "Characteristics[MaterialType]": [
+      "microdissected tissues"
+    ],
+    "Characteristics[Organism]": [
+      "postmortem human brain tissue of AD and control cases."
+    ],
+    "Characteristics[OrganismPart]": [
+      "outer two-thirds of the molecular layer of the dentate gyrus"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "five AD and five neurologically healthy control cases"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "simultaneous detection of ten samples"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mm DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with 4 mm chloroacetamide."
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen hippocampal tissues"
+    ],
+    "Comment[Instrument]": [
+      "hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific)",
+      "UltiMate™ 3000 RSLCnano System, Thermo Scientific Dionex"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Online liquid chromatography-tandem mass spectrometry (LC-MS/MS) was performed using a hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific).",
+      "data-dependent MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision dissociation at 30–40% normalized collision energy"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30–40% normalized collision energy"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250 nl/min"
+    ],
+    "Comment[Separation]": [
+      "separated on a 50 cm long C18 column (Easy spray PepMap RSLC, C18, 2 μm, 100Å, 75 μm × 50 cm)"
+    ],
+    "Comment[FractionationMethod]": [
+      "pre-fractionated into 72 fractions by high-resolution isoelectric focusing",
+      "eluted into 72 contiguous fractions"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum 2 missed cleavages"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "FTMS master scans with 70,000 resolution (and mass range 300–1700 mass to charge ratio (m/z))"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr01"
+    ]
+  },
+  "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr38.raw": {
+    "Source Name": [
+      "pooled_sample_IPG3-10_450ug"
+    ],
+    "Assay Name": [
+      "pooled_sample_IPG3-10_450ug_fr38"
+    ],
+    "Raw Data File": [
+      "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr38.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested by trypsin",
+      "digested first by Lys-C (Pierce, Thermo Scientific, Waltham, Massachusetts) for 16 h prior to trypsin digestion (16 h)."
+    ],
+    "Characteristics[Label]": [
+      "TMT10plex 126–131Da"
+    ],
+    "Characteristics[MaterialType]": [
+      "microdissected tissues"
+    ],
+    "Characteristics[Organism]": [
+      "postmortem human brain tissue of AD and control cases."
+    ],
+    "Characteristics[OrganismPart]": [
+      "outer two-thirds of the molecular layer of the dentate gyrus"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "five AD and five neurologically healthy control cases"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "simultaneous detection of ten samples"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mm DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with 4 mm chloroacetamide."
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen hippocampal tissues"
+    ],
+    "Comment[Instrument]": [
+      "hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific)",
+      "UltiMate™ 3000 RSLCnano System, Thermo Scientific Dionex"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Online liquid chromatography-tandem mass spectrometry (LC-MS/MS) was performed using a hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific).",
+      "data-dependent MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision dissociation at 30–40% normalized collision energy"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30–40% normalized collision energy"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250 nl/min"
+    ],
+    "Comment[Separation]": [
+      "separated on a 50 cm long C18 column (Easy spray PepMap RSLC, C18, 2 μm, 100Å, 75 μm × 50 cm)"
+    ],
+    "Comment[FractionationMethod]": [
+      "pre-fractionated into 72 fractions by high-resolution isoelectric focusing",
+      "eluted into 72 contiguous fractions"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum 2 missed cleavages"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "FTMS master scans with 70,000 resolution (and mass range 300–1700 mass to charge ratio (m/z))"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr38"
+    ]
+  },
+  "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr66.raw": {
+    "Source Name": [
+      "pooled_sample_IPG3-10_450ug"
+    ],
+    "Assay Name": [
+      "pooled_sample_IPG3-10_450ug_fr66"
+    ],
+    "Raw Data File": [
+      "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr66.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested by trypsin",
+      "digested first by Lys-C (Pierce, Thermo Scientific, Waltham, Massachusetts) for 16 h prior to trypsin digestion (16 h)."
+    ],
+    "Characteristics[Label]": [
+      "TMT10plex 126–131Da"
+    ],
+    "Characteristics[MaterialType]": [
+      "microdissected tissues"
+    ],
+    "Characteristics[Organism]": [
+      "postmortem human brain tissue of AD and control cases."
+    ],
+    "Characteristics[OrganismPart]": [
+      "outer two-thirds of the molecular layer of the dentate gyrus"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "five AD and five neurologically healthy control cases"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "simultaneous detection of ten samples"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mm DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with 4 mm chloroacetamide."
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen hippocampal tissues"
+    ],
+    "Comment[Instrument]": [
+      "hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific)",
+      "UltiMate™ 3000 RSLCnano System, Thermo Scientific Dionex"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Online liquid chromatography-tandem mass spectrometry (LC-MS/MS) was performed using a hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific).",
+      "data-dependent MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision dissociation at 30–40% normalized collision energy"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30–40% normalized collision energy"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250 nl/min"
+    ],
+    "Comment[Separation]": [
+      "separated on a 50 cm long C18 column (Easy spray PepMap RSLC, C18, 2 μm, 100Å, 75 μm × 50 cm)"
+    ],
+    "Comment[FractionationMethod]": [
+      "pre-fractionated into 72 fractions by high-resolution isoelectric focusing",
+      "eluted into 72 contiguous fractions"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum 2 missed cleavages"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "FTMS master scans with 70,000 resolution (and mass range 300–1700 mass to charge ratio (m/z))"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr66"
+    ]
+  },
+  "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr39.raw": {
+    "Source Name": [
+      "pooled_sample_IPG3-10_450ug"
+    ],
+    "Assay Name": [
+      "pooled_sample_IPG3-10_450ug_fr39"
+    ],
+    "Raw Data File": [
+      "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr39.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested by trypsin",
+      "digested first by Lys-C (Pierce, Thermo Scientific, Waltham, Massachusetts) for 16 h prior to trypsin digestion (16 h)."
+    ],
+    "Characteristics[Label]": [
+      "TMT10plex 126–131Da"
+    ],
+    "Characteristics[MaterialType]": [
+      "microdissected tissues"
+    ],
+    "Characteristics[Organism]": [
+      "postmortem human brain tissue of AD and control cases."
+    ],
+    "Characteristics[OrganismPart]": [
+      "outer two-thirds of the molecular layer of the dentate gyrus"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "five AD and five neurologically healthy control cases"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "simultaneous detection of ten samples"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mm DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with 4 mm chloroacetamide."
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen hippocampal tissues"
+    ],
+    "Comment[Instrument]": [
+      "hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific)",
+      "UltiMate™ 3000 RSLCnano System, Thermo Scientific Dionex"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Online liquid chromatography-tandem mass spectrometry (LC-MS/MS) was performed using a hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific).",
+      "data-dependent MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision dissociation at 30–40% normalized collision energy"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30–40% normalized collision energy"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250 nl/min"
+    ],
+    "Comment[Separation]": [
+      "separated on a 50 cm long C18 column (Easy spray PepMap RSLC, C18, 2 μm, 100Å, 75 μm × 50 cm)"
+    ],
+    "Comment[FractionationMethod]": [
+      "pre-fractionated into 72 fractions by high-resolution isoelectric focusing",
+      "eluted into 72 contiguous fractions"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum 2 missed cleavages"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "FTMS master scans with 70,000 resolution (and mass range 300–1700 mass to charge ratio (m/z))"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr39"
+    ]
+  },
+  "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr52.raw": {
+    "Source Name": [
+      "pooled_sample_IPG3-10_450ug"
+    ],
+    "Assay Name": [
+      "pooled_sample_IPG3-10_450ug_fr52"
+    ],
+    "Raw Data File": [
+      "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr52.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested by trypsin",
+      "digested first by Lys-C (Pierce, Thermo Scientific, Waltham, Massachusetts) for 16 h prior to trypsin digestion (16 h)."
+    ],
+    "Characteristics[Label]": [
+      "TMT10plex 126–131Da"
+    ],
+    "Characteristics[MaterialType]": [
+      "microdissected tissues"
+    ],
+    "Characteristics[Organism]": [
+      "postmortem human brain tissue of AD and control cases."
+    ],
+    "Characteristics[OrganismPart]": [
+      "outer two-thirds of the molecular layer of the dentate gyrus"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "five AD and five neurologically healthy control cases"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "simultaneous detection of ten samples"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mm DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with 4 mm chloroacetamide."
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen hippocampal tissues"
+    ],
+    "Comment[Instrument]": [
+      "hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific)",
+      "UltiMate™ 3000 RSLCnano System, Thermo Scientific Dionex"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Online liquid chromatography-tandem mass spectrometry (LC-MS/MS) was performed using a hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific).",
+      "data-dependent MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision dissociation at 30–40% normalized collision energy"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30–40% normalized collision energy"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250 nl/min"
+    ],
+    "Comment[Separation]": [
+      "separated on a 50 cm long C18 column (Easy spray PepMap RSLC, C18, 2 μm, 100Å, 75 μm × 50 cm)"
+    ],
+    "Comment[FractionationMethod]": [
+      "pre-fractionated into 72 fractions by high-resolution isoelectric focusing",
+      "eluted into 72 contiguous fractions"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum 2 missed cleavages"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "FTMS master scans with 70,000 resolution (and mass range 300–1700 mass to charge ratio (m/z))"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr52"
+    ]
+  },
+  "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr71.raw": {
+    "Source Name": [
+      "pooled_sample_IPG3-10_450ug"
+    ],
+    "Assay Name": [
+      "pooled_sample_IPG3-10_450ug_fr71"
+    ],
+    "Raw Data File": [
+      "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr71.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested by trypsin",
+      "digested first by Lys-C (Pierce, Thermo Scientific, Waltham, Massachusetts) for 16 h prior to trypsin digestion (16 h)."
+    ],
+    "Characteristics[Label]": [
+      "TMT10plex 126–131Da"
+    ],
+    "Characteristics[MaterialType]": [
+      "microdissected tissues"
+    ],
+    "Characteristics[Organism]": [
+      "postmortem human brain tissue of AD and control cases."
+    ],
+    "Characteristics[OrganismPart]": [
+      "outer two-thirds of the molecular layer of the dentate gyrus"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "five AD and five neurologically healthy control cases"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "simultaneous detection of ten samples"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mm DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with 4 mm chloroacetamide."
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen hippocampal tissues"
+    ],
+    "Comment[Instrument]": [
+      "hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific)",
+      "UltiMate™ 3000 RSLCnano System, Thermo Scientific Dionex"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Online liquid chromatography-tandem mass spectrometry (LC-MS/MS) was performed using a hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific).",
+      "data-dependent MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision dissociation at 30–40% normalized collision energy"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30–40% normalized collision energy"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250 nl/min"
+    ],
+    "Comment[Separation]": [
+      "separated on a 50 cm long C18 column (Easy spray PepMap RSLC, C18, 2 μm, 100Å, 75 μm × 50 cm)"
+    ],
+    "Comment[FractionationMethod]": [
+      "pre-fractionated into 72 fractions by high-resolution isoelectric focusing",
+      "eluted into 72 contiguous fractions"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum 2 missed cleavages"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "FTMS master scans with 70,000 resolution (and mass range 300–1700 mass to charge ratio (m/z))"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr71"
+    ]
+  },
+  "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr11.raw": {
+    "Source Name": [
+      "pooled_sample_IPG3-10_450ug"
+    ],
+    "Assay Name": [
+      "pooled_sample_IPG3-10_450ug_fr11"
+    ],
+    "Raw Data File": [
+      "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr11.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested by trypsin",
+      "digested first by Lys-C (Pierce, Thermo Scientific, Waltham, Massachusetts) for 16 h prior to trypsin digestion (16 h)."
+    ],
+    "Characteristics[Label]": [
+      "TMT10plex 126–131Da"
+    ],
+    "Characteristics[MaterialType]": [
+      "microdissected tissues"
+    ],
+    "Characteristics[Organism]": [
+      "postmortem human brain tissue of AD and control cases."
+    ],
+    "Characteristics[OrganismPart]": [
+      "outer two-thirds of the molecular layer of the dentate gyrus"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "five AD and five neurologically healthy control cases"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "simultaneous detection of ten samples"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mm DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with 4 mm chloroacetamide."
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen hippocampal tissues"
+    ],
+    "Comment[Instrument]": [
+      "hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific)",
+      "UltiMate™ 3000 RSLCnano System, Thermo Scientific Dionex"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Online liquid chromatography-tandem mass spectrometry (LC-MS/MS) was performed using a hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific).",
+      "data-dependent MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision dissociation at 30–40% normalized collision energy"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30–40% normalized collision energy"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250 nl/min"
+    ],
+    "Comment[Separation]": [
+      "separated on a 50 cm long C18 column (Easy spray PepMap RSLC, C18, 2 μm, 100Å, 75 μm × 50 cm)"
+    ],
+    "Comment[FractionationMethod]": [
+      "pre-fractionated into 72 fractions by high-resolution isoelectric focusing",
+      "eluted into 72 contiguous fractions"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum 2 missed cleavages"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "FTMS master scans with 70,000 resolution (and mass range 300–1700 mass to charge ratio (m/z))"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr11"
+    ]
+  },
+  "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr17.raw": {
+    "Source Name": [
+      "pooled_sample_IPG3-10_450ug"
+    ],
+    "Assay Name": [
+      "pooled_sample_IPG3-10_450ug_fr17"
+    ],
+    "Raw Data File": [
+      "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr17.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested by trypsin",
+      "digested first by Lys-C (Pierce, Thermo Scientific, Waltham, Massachusetts) for 16 h prior to trypsin digestion (16 h)."
+    ],
+    "Characteristics[Label]": [
+      "TMT10plex 126–131Da"
+    ],
+    "Characteristics[MaterialType]": [
+      "microdissected tissues"
+    ],
+    "Characteristics[Organism]": [
+      "postmortem human brain tissue of AD and control cases."
+    ],
+    "Characteristics[OrganismPart]": [
+      "outer two-thirds of the molecular layer of the dentate gyrus"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "five AD and five neurologically healthy control cases"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "simultaneous detection of ten samples"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mm DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with 4 mm chloroacetamide."
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen hippocampal tissues"
+    ],
+    "Comment[Instrument]": [
+      "hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific)",
+      "UltiMate™ 3000 RSLCnano System, Thermo Scientific Dionex"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Online liquid chromatography-tandem mass spectrometry (LC-MS/MS) was performed using a hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific).",
+      "data-dependent MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision dissociation at 30–40% normalized collision energy"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30–40% normalized collision energy"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250 nl/min"
+    ],
+    "Comment[Separation]": [
+      "separated on a 50 cm long C18 column (Easy spray PepMap RSLC, C18, 2 μm, 100Å, 75 μm × 50 cm)"
+    ],
+    "Comment[FractionationMethod]": [
+      "pre-fractionated into 72 fractions by high-resolution isoelectric focusing",
+      "eluted into 72 contiguous fractions"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum 2 missed cleavages"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "FTMS master scans with 70,000 resolution (and mass range 300–1700 mass to charge ratio (m/z))"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr17"
+    ]
+  },
+  "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr04.raw": {
+    "Source Name": [
+      "pooled_sample_IPG3-10_450ug"
+    ],
+    "Assay Name": [
+      "pooled_sample_IPG3-10_450ug_fr04"
+    ],
+    "Raw Data File": [
+      "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr04.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested by trypsin",
+      "digested first by Lys-C (Pierce, Thermo Scientific, Waltham, Massachusetts) for 16 h prior to trypsin digestion (16 h)."
+    ],
+    "Characteristics[Label]": [
+      "TMT10plex 126–131Da"
+    ],
+    "Characteristics[MaterialType]": [
+      "microdissected tissues"
+    ],
+    "Characteristics[Organism]": [
+      "postmortem human brain tissue of AD and control cases."
+    ],
+    "Characteristics[OrganismPart]": [
+      "outer two-thirds of the molecular layer of the dentate gyrus"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "five AD and five neurologically healthy control cases"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "simultaneous detection of ten samples"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mm DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with 4 mm chloroacetamide."
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen hippocampal tissues"
+    ],
+    "Comment[Instrument]": [
+      "hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific)",
+      "UltiMate™ 3000 RSLCnano System, Thermo Scientific Dionex"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Online liquid chromatography-tandem mass spectrometry (LC-MS/MS) was performed using a hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific).",
+      "data-dependent MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision dissociation at 30–40% normalized collision energy"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30–40% normalized collision energy"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250 nl/min"
+    ],
+    "Comment[Separation]": [
+      "separated on a 50 cm long C18 column (Easy spray PepMap RSLC, C18, 2 μm, 100Å, 75 μm × 50 cm)"
+    ],
+    "Comment[FractionationMethod]": [
+      "pre-fractionated into 72 fractions by high-resolution isoelectric focusing",
+      "eluted into 72 contiguous fractions"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum 2 missed cleavages"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "FTMS master scans with 70,000 resolution (and mass range 300–1700 mass to charge ratio (m/z))"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr04"
+    ]
+  },
+  "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr07.raw": {
+    "Source Name": [
+      "pooled_sample_IPG3-10_450ug"
+    ],
+    "Assay Name": [
+      "pooled_sample_IPG3-10_450ug_fr07"
+    ],
+    "Raw Data File": [
+      "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr07.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested by trypsin",
+      "digested first by Lys-C (Pierce, Thermo Scientific, Waltham, Massachusetts) for 16 h prior to trypsin digestion (16 h)."
+    ],
+    "Characteristics[Label]": [
+      "TMT10plex 126–131Da"
+    ],
+    "Characteristics[MaterialType]": [
+      "microdissected tissues"
+    ],
+    "Characteristics[Organism]": [
+      "postmortem human brain tissue of AD and control cases."
+    ],
+    "Characteristics[OrganismPart]": [
+      "outer two-thirds of the molecular layer of the dentate gyrus"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "five AD and five neurologically healthy control cases"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "simultaneous detection of ten samples"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mm DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with 4 mm chloroacetamide."
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen hippocampal tissues"
+    ],
+    "Comment[Instrument]": [
+      "hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific)",
+      "UltiMate™ 3000 RSLCnano System, Thermo Scientific Dionex"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Online liquid chromatography-tandem mass spectrometry (LC-MS/MS) was performed using a hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific).",
+      "data-dependent MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision dissociation at 30–40% normalized collision energy"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30–40% normalized collision energy"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250 nl/min"
+    ],
+    "Comment[Separation]": [
+      "separated on a 50 cm long C18 column (Easy spray PepMap RSLC, C18, 2 μm, 100Å, 75 μm × 50 cm)"
+    ],
+    "Comment[FractionationMethod]": [
+      "pre-fractionated into 72 fractions by high-resolution isoelectric focusing",
+      "eluted into 72 contiguous fractions"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum 2 missed cleavages"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "FTMS master scans with 70,000 resolution (and mass range 300–1700 mass to charge ratio (m/z))"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr07"
+    ]
+  },
+  "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr10.raw": {
+    "Source Name": [
+      "pooled_sample_IPG3-10_450ug"
+    ],
+    "Assay Name": [
+      "pooled_sample_IPG3-10_450ug_fr10"
+    ],
+    "Raw Data File": [
+      "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr10.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested by trypsin",
+      "digested first by Lys-C (Pierce, Thermo Scientific, Waltham, Massachusetts) for 16 h prior to trypsin digestion (16 h)."
+    ],
+    "Characteristics[Label]": [
+      "TMT10plex 126–131Da"
+    ],
+    "Characteristics[MaterialType]": [
+      "microdissected tissues"
+    ],
+    "Characteristics[Organism]": [
+      "postmortem human brain tissue of AD and control cases."
+    ],
+    "Characteristics[OrganismPart]": [
+      "outer two-thirds of the molecular layer of the dentate gyrus"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "five AD and five neurologically healthy control cases"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "simultaneous detection of ten samples"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mm DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with 4 mm chloroacetamide."
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen hippocampal tissues"
+    ],
+    "Comment[Instrument]": [
+      "hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific)",
+      "UltiMate™ 3000 RSLCnano System, Thermo Scientific Dionex"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Online liquid chromatography-tandem mass spectrometry (LC-MS/MS) was performed using a hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific).",
+      "data-dependent MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision dissociation at 30–40% normalized collision energy"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30–40% normalized collision energy"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250 nl/min"
+    ],
+    "Comment[Separation]": [
+      "separated on a 50 cm long C18 column (Easy spray PepMap RSLC, C18, 2 μm, 100Å, 75 μm × 50 cm)"
+    ],
+    "Comment[FractionationMethod]": [
+      "pre-fractionated into 72 fractions by high-resolution isoelectric focusing",
+      "eluted into 72 contiguous fractions"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum 2 missed cleavages"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "FTMS master scans with 70,000 resolution (and mass range 300–1700 mass to charge ratio (m/z))"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr10"
+    ]
+  },
+  "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr28.raw": {
+    "Source Name": [
+      "pooled_sample_IPG3-10_450ug"
+    ],
+    "Assay Name": [
+      "pooled_sample_IPG3-10_450ug_fr28"
+    ],
+    "Raw Data File": [
+      "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr28.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested by trypsin",
+      "digested first by Lys-C (Pierce, Thermo Scientific, Waltham, Massachusetts) for 16 h prior to trypsin digestion (16 h)."
+    ],
+    "Characteristics[Label]": [
+      "TMT10plex 126–131Da"
+    ],
+    "Characteristics[MaterialType]": [
+      "microdissected tissues"
+    ],
+    "Characteristics[Organism]": [
+      "postmortem human brain tissue of AD and control cases."
+    ],
+    "Characteristics[OrganismPart]": [
+      "outer two-thirds of the molecular layer of the dentate gyrus"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "five AD and five neurologically healthy control cases"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "simultaneous detection of ten samples"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mm DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with 4 mm chloroacetamide."
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen hippocampal tissues"
+    ],
+    "Comment[Instrument]": [
+      "hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific)",
+      "UltiMate™ 3000 RSLCnano System, Thermo Scientific Dionex"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Online liquid chromatography-tandem mass spectrometry (LC-MS/MS) was performed using a hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific).",
+      "data-dependent MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision dissociation at 30–40% normalized collision energy"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30–40% normalized collision energy"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250 nl/min"
+    ],
+    "Comment[Separation]": [
+      "separated on a 50 cm long C18 column (Easy spray PepMap RSLC, C18, 2 μm, 100Å, 75 μm × 50 cm)"
+    ],
+    "Comment[FractionationMethod]": [
+      "pre-fractionated into 72 fractions by high-resolution isoelectric focusing",
+      "eluted into 72 contiguous fractions"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum 2 missed cleavages"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "FTMS master scans with 70,000 resolution (and mass range 300–1700 mass to charge ratio (m/z))"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr28"
+    ]
+  },
+  "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr08.raw": {
+    "Source Name": [
+      "pooled_sample_IPG3-10_450ug"
+    ],
+    "Assay Name": [
+      "pooled_sample_IPG3-10_450ug_fr08"
+    ],
+    "Raw Data File": [
+      "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr08.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested by trypsin",
+      "digested first by Lys-C (Pierce, Thermo Scientific, Waltham, Massachusetts) for 16 h prior to trypsin digestion (16 h)."
+    ],
+    "Characteristics[Label]": [
+      "TMT10plex 126–131Da"
+    ],
+    "Characteristics[MaterialType]": [
+      "microdissected tissues"
+    ],
+    "Characteristics[Organism]": [
+      "postmortem human brain tissue of AD and control cases."
+    ],
+    "Characteristics[OrganismPart]": [
+      "outer two-thirds of the molecular layer of the dentate gyrus"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "five AD and five neurologically healthy control cases"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "simultaneous detection of ten samples"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mm DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with 4 mm chloroacetamide."
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen hippocampal tissues"
+    ],
+    "Comment[Instrument]": [
+      "hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific)",
+      "UltiMate™ 3000 RSLCnano System, Thermo Scientific Dionex"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Online liquid chromatography-tandem mass spectrometry (LC-MS/MS) was performed using a hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific).",
+      "data-dependent MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision dissociation at 30–40% normalized collision energy"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30–40% normalized collision energy"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250 nl/min"
+    ],
+    "Comment[Separation]": [
+      "separated on a 50 cm long C18 column (Easy spray PepMap RSLC, C18, 2 μm, 100Å, 75 μm × 50 cm)"
+    ],
+    "Comment[FractionationMethod]": [
+      "pre-fractionated into 72 fractions by high-resolution isoelectric focusing",
+      "eluted into 72 contiguous fractions"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum 2 missed cleavages"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "FTMS master scans with 70,000 resolution (and mass range 300–1700 mass to charge ratio (m/z))"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr08"
+    ]
+  },
+  "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr30.raw": {
+    "Source Name": [
+      "pooled_sample_IPG3-10_450ug"
+    ],
+    "Assay Name": [
+      "pooled_sample_IPG3-10_450ug_fr30"
+    ],
+    "Raw Data File": [
+      "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr30.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested by trypsin",
+      "digested first by Lys-C (Pierce, Thermo Scientific, Waltham, Massachusetts) for 16 h prior to trypsin digestion (16 h)."
+    ],
+    "Characteristics[Label]": [
+      "TMT10plex 126–131Da"
+    ],
+    "Characteristics[MaterialType]": [
+      "microdissected tissues"
+    ],
+    "Characteristics[Organism]": [
+      "postmortem human brain tissue of AD and control cases."
+    ],
+    "Characteristics[OrganismPart]": [
+      "outer two-thirds of the molecular layer of the dentate gyrus"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "five AD and five neurologically healthy control cases"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "simultaneous detection of ten samples"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mm DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with 4 mm chloroacetamide."
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen hippocampal tissues"
+    ],
+    "Comment[Instrument]": [
+      "hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific)",
+      "UltiMate™ 3000 RSLCnano System, Thermo Scientific Dionex"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Online liquid chromatography-tandem mass spectrometry (LC-MS/MS) was performed using a hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific).",
+      "data-dependent MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision dissociation at 30–40% normalized collision energy"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30–40% normalized collision energy"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250 nl/min"
+    ],
+    "Comment[Separation]": [
+      "separated on a 50 cm long C18 column (Easy spray PepMap RSLC, C18, 2 μm, 100Å, 75 μm × 50 cm)"
+    ],
+    "Comment[FractionationMethod]": [
+      "pre-fractionated into 72 fractions by high-resolution isoelectric focusing",
+      "eluted into 72 contiguous fractions"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum 2 missed cleavages"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "FTMS master scans with 70,000 resolution (and mass range 300–1700 mass to charge ratio (m/z))"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr30"
+    ]
+  },
+  "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr14.raw": {
+    "Source Name": [
+      "pooled_sample_IPG3-10_450ug"
+    ],
+    "Assay Name": [
+      "pooled_sample_IPG3-10_450ug_fr14"
+    ],
+    "Raw Data File": [
+      "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr14.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested by trypsin",
+      "digested first by Lys-C (Pierce, Thermo Scientific, Waltham, Massachusetts) for 16 h prior to trypsin digestion (16 h)."
+    ],
+    "Characteristics[Label]": [
+      "TMT10plex 126–131Da"
+    ],
+    "Characteristics[MaterialType]": [
+      "microdissected tissues"
+    ],
+    "Characteristics[Organism]": [
+      "postmortem human brain tissue of AD and control cases."
+    ],
+    "Characteristics[OrganismPart]": [
+      "outer two-thirds of the molecular layer of the dentate gyrus"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "five AD and five neurologically healthy control cases"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "simultaneous detection of ten samples"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mm DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with 4 mm chloroacetamide."
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen hippocampal tissues"
+    ],
+    "Comment[Instrument]": [
+      "hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific)",
+      "UltiMate™ 3000 RSLCnano System, Thermo Scientific Dionex"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Online liquid chromatography-tandem mass spectrometry (LC-MS/MS) was performed using a hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific).",
+      "data-dependent MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision dissociation at 30–40% normalized collision energy"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30–40% normalized collision energy"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250 nl/min"
+    ],
+    "Comment[Separation]": [
+      "separated on a 50 cm long C18 column (Easy spray PepMap RSLC, C18, 2 μm, 100Å, 75 μm × 50 cm)"
+    ],
+    "Comment[FractionationMethod]": [
+      "pre-fractionated into 72 fractions by high-resolution isoelectric focusing",
+      "eluted into 72 contiguous fractions"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum 2 missed cleavages"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "FTMS master scans with 70,000 resolution (and mass range 300–1700 mass to charge ratio (m/z))"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr14"
+    ]
+  },
+  "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr29.raw": {
+    "Source Name": [
+      "pooled_sample_IPG3-10_450ug"
+    ],
+    "Assay Name": [
+      "pooled_sample_IPG3-10_450ug_fr29"
+    ],
+    "Raw Data File": [
+      "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr29.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested by trypsin",
+      "digested first by Lys-C (Pierce, Thermo Scientific, Waltham, Massachusetts) for 16 h prior to trypsin digestion (16 h)."
+    ],
+    "Characteristics[Label]": [
+      "TMT10plex 126–131Da"
+    ],
+    "Characteristics[MaterialType]": [
+      "microdissected tissues"
+    ],
+    "Characteristics[Organism]": [
+      "postmortem human brain tissue of AD and control cases."
+    ],
+    "Characteristics[OrganismPart]": [
+      "outer two-thirds of the molecular layer of the dentate gyrus"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "five AD and five neurologically healthy control cases"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "simultaneous detection of ten samples"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mm DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with 4 mm chloroacetamide."
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen hippocampal tissues"
+    ],
+    "Comment[Instrument]": [
+      "hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific)",
+      "UltiMate™ 3000 RSLCnano System, Thermo Scientific Dionex"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Online liquid chromatography-tandem mass spectrometry (LC-MS/MS) was performed using a hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific).",
+      "data-dependent MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision dissociation at 30–40% normalized collision energy"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30–40% normalized collision energy"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250 nl/min"
+    ],
+    "Comment[Separation]": [
+      "separated on a 50 cm long C18 column (Easy spray PepMap RSLC, C18, 2 μm, 100Å, 75 μm × 50 cm)"
+    ],
+    "Comment[FractionationMethod]": [
+      "pre-fractionated into 72 fractions by high-resolution isoelectric focusing",
+      "eluted into 72 contiguous fractions"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum 2 missed cleavages"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "FTMS master scans with 70,000 resolution (and mass range 300–1700 mass to charge ratio (m/z))"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr29"
+    ]
+  },
+  "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr19.raw": {
+    "Source Name": [
+      "pooled_sample_IPG3-10_450ug"
+    ],
+    "Assay Name": [
+      "pooled_sample_IPG3-10_450ug_fr19"
+    ],
+    "Raw Data File": [
+      "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr19.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested by trypsin",
+      "digested first by Lys-C (Pierce, Thermo Scientific, Waltham, Massachusetts) for 16 h prior to trypsin digestion (16 h)."
+    ],
+    "Characteristics[Label]": [
+      "TMT10plex 126–131Da"
+    ],
+    "Characteristics[MaterialType]": [
+      "microdissected tissues"
+    ],
+    "Characteristics[Organism]": [
+      "postmortem human brain tissue of AD and control cases."
+    ],
+    "Characteristics[OrganismPart]": [
+      "outer two-thirds of the molecular layer of the dentate gyrus"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "five AD and five neurologically healthy control cases"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "simultaneous detection of ten samples"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mm DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with 4 mm chloroacetamide."
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen hippocampal tissues"
+    ],
+    "Comment[Instrument]": [
+      "hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific)",
+      "UltiMate™ 3000 RSLCnano System, Thermo Scientific Dionex"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Online liquid chromatography-tandem mass spectrometry (LC-MS/MS) was performed using a hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific).",
+      "data-dependent MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision dissociation at 30–40% normalized collision energy"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30–40% normalized collision energy"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250 nl/min"
+    ],
+    "Comment[Separation]": [
+      "separated on a 50 cm long C18 column (Easy spray PepMap RSLC, C18, 2 μm, 100Å, 75 μm × 50 cm)"
+    ],
+    "Comment[FractionationMethod]": [
+      "pre-fractionated into 72 fractions by high-resolution isoelectric focusing",
+      "eluted into 72 contiguous fractions"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum 2 missed cleavages"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "FTMS master scans with 70,000 resolution (and mass range 300–1700 mass to charge ratio (m/z))"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr19"
+    ]
+  },
+  "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr27.raw": {
+    "Source Name": [
+      "pooled_sample_IPG3-10_450ug"
+    ],
+    "Assay Name": [
+      "pooled_sample_IPG3-10_450ug_fr27"
+    ],
+    "Raw Data File": [
+      "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr27.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested by trypsin",
+      "digested first by Lys-C (Pierce, Thermo Scientific, Waltham, Massachusetts) for 16 h prior to trypsin digestion (16 h)."
+    ],
+    "Characteristics[Label]": [
+      "TMT10plex 126–131Da"
+    ],
+    "Characteristics[MaterialType]": [
+      "microdissected tissues"
+    ],
+    "Characteristics[Organism]": [
+      "postmortem human brain tissue of AD and control cases."
+    ],
+    "Characteristics[OrganismPart]": [
+      "outer two-thirds of the molecular layer of the dentate gyrus"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "five AD and five neurologically healthy control cases"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "simultaneous detection of ten samples"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mm DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with 4 mm chloroacetamide."
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen hippocampal tissues"
+    ],
+    "Comment[Instrument]": [
+      "hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific)",
+      "UltiMate™ 3000 RSLCnano System, Thermo Scientific Dionex"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Online liquid chromatography-tandem mass spectrometry (LC-MS/MS) was performed using a hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific).",
+      "data-dependent MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision dissociation at 30–40% normalized collision energy"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30–40% normalized collision energy"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250 nl/min"
+    ],
+    "Comment[Separation]": [
+      "separated on a 50 cm long C18 column (Easy spray PepMap RSLC, C18, 2 μm, 100Å, 75 μm × 50 cm)"
+    ],
+    "Comment[FractionationMethod]": [
+      "pre-fractionated into 72 fractions by high-resolution isoelectric focusing",
+      "eluted into 72 contiguous fractions"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum 2 missed cleavages"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "FTMS master scans with 70,000 resolution (and mass range 300–1700 mass to charge ratio (m/z))"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr27"
+    ]
+  },
+  "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr12.raw": {
+    "Source Name": [
+      "pooled_sample_IPG3-10_450ug"
+    ],
+    "Assay Name": [
+      "pooled_sample_IPG3-10_450ug_fr12"
+    ],
+    "Raw Data File": [
+      "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr12.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested by trypsin",
+      "digested first by Lys-C (Pierce, Thermo Scientific, Waltham, Massachusetts) for 16 h prior to trypsin digestion (16 h)."
+    ],
+    "Characteristics[Label]": [
+      "TMT10plex 126–131Da"
+    ],
+    "Characteristics[MaterialType]": [
+      "microdissected tissues"
+    ],
+    "Characteristics[Organism]": [
+      "postmortem human brain tissue of AD and control cases."
+    ],
+    "Characteristics[OrganismPart]": [
+      "outer two-thirds of the molecular layer of the dentate gyrus"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "five AD and five neurologically healthy control cases"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "simultaneous detection of ten samples"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mm DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with 4 mm chloroacetamide."
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen hippocampal tissues"
+    ],
+    "Comment[Instrument]": [
+      "hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific)",
+      "UltiMate™ 3000 RSLCnano System, Thermo Scientific Dionex"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Online liquid chromatography-tandem mass spectrometry (LC-MS/MS) was performed using a hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific).",
+      "data-dependent MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision dissociation at 30–40% normalized collision energy"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30–40% normalized collision energy"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250 nl/min"
+    ],
+    "Comment[Separation]": [
+      "separated on a 50 cm long C18 column (Easy spray PepMap RSLC, C18, 2 μm, 100Å, 75 μm × 50 cm)"
+    ],
+    "Comment[FractionationMethod]": [
+      "pre-fractionated into 72 fractions by high-resolution isoelectric focusing",
+      "eluted into 72 contiguous fractions"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum 2 missed cleavages"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "FTMS master scans with 70,000 resolution (and mass range 300–1700 mass to charge ratio (m/z))"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr12"
+    ]
+  },
+  "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr03.raw": {
+    "Source Name": [
+      "pooled_sample_IPG3-10_450ug"
+    ],
+    "Assay Name": [
+      "pooled_sample_IPG3-10_450ug_fr03"
+    ],
+    "Raw Data File": [
+      "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr03.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested by trypsin",
+      "digested first by Lys-C (Pierce, Thermo Scientific, Waltham, Massachusetts) for 16 h prior to trypsin digestion (16 h)."
+    ],
+    "Characteristics[Label]": [
+      "TMT10plex 126–131Da"
+    ],
+    "Characteristics[MaterialType]": [
+      "microdissected tissues"
+    ],
+    "Characteristics[Organism]": [
+      "postmortem human brain tissue of AD and control cases."
+    ],
+    "Characteristics[OrganismPart]": [
+      "outer two-thirds of the molecular layer of the dentate gyrus"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "five AD and five neurologically healthy control cases"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "simultaneous detection of ten samples"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mm DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with 4 mm chloroacetamide."
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen hippocampal tissues"
+    ],
+    "Comment[Instrument]": [
+      "hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific)",
+      "UltiMate™ 3000 RSLCnano System, Thermo Scientific Dionex"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Online liquid chromatography-tandem mass spectrometry (LC-MS/MS) was performed using a hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific).",
+      "data-dependent MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision dissociation at 30–40% normalized collision energy"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30–40% normalized collision energy"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250 nl/min"
+    ],
+    "Comment[Separation]": [
+      "separated on a 50 cm long C18 column (Easy spray PepMap RSLC, C18, 2 μm, 100Å, 75 μm × 50 cm)"
+    ],
+    "Comment[FractionationMethod]": [
+      "pre-fractionated into 72 fractions by high-resolution isoelectric focusing",
+      "eluted into 72 contiguous fractions"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum 2 missed cleavages"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "FTMS master scans with 70,000 resolution (and mass range 300–1700 mass to charge ratio (m/z))"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr03"
+    ]
+  },
+  "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr16.raw": {
+    "Source Name": [
+      "pooled_sample_IPG3-10_450ug"
+    ],
+    "Assay Name": [
+      "pooled_sample_IPG3-10_450ug_fr16"
+    ],
+    "Raw Data File": [
+      "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr16.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested by trypsin",
+      "digested first by Lys-C (Pierce, Thermo Scientific, Waltham, Massachusetts) for 16 h prior to trypsin digestion (16 h)."
+    ],
+    "Characteristics[Label]": [
+      "TMT10plex 126–131Da"
+    ],
+    "Characteristics[MaterialType]": [
+      "microdissected tissues"
+    ],
+    "Characteristics[Organism]": [
+      "postmortem human brain tissue of AD and control cases."
+    ],
+    "Characteristics[OrganismPart]": [
+      "outer two-thirds of the molecular layer of the dentate gyrus"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "five AD and five neurologically healthy control cases"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "simultaneous detection of ten samples"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mm DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with 4 mm chloroacetamide."
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen hippocampal tissues"
+    ],
+    "Comment[Instrument]": [
+      "hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific)",
+      "UltiMate™ 3000 RSLCnano System, Thermo Scientific Dionex"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Online liquid chromatography-tandem mass spectrometry (LC-MS/MS) was performed using a hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific).",
+      "data-dependent MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision dissociation at 30–40% normalized collision energy"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30–40% normalized collision energy"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250 nl/min"
+    ],
+    "Comment[Separation]": [
+      "separated on a 50 cm long C18 column (Easy spray PepMap RSLC, C18, 2 μm, 100Å, 75 μm × 50 cm)"
+    ],
+    "Comment[FractionationMethod]": [
+      "pre-fractionated into 72 fractions by high-resolution isoelectric focusing",
+      "eluted into 72 contiguous fractions"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum 2 missed cleavages"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "FTMS master scans with 70,000 resolution (and mass range 300–1700 mass to charge ratio (m/z))"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr16"
+    ]
+  },
+  "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr41.raw": {
+    "Source Name": [
+      "pooled_sample_IPG3-10_450ug"
+    ],
+    "Assay Name": [
+      "pooled_sample_IPG3-10_450ug_fr41"
+    ],
+    "Raw Data File": [
+      "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr41.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested by trypsin",
+      "digested first by Lys-C (Pierce, Thermo Scientific, Waltham, Massachusetts) for 16 h prior to trypsin digestion (16 h)."
+    ],
+    "Characteristics[Label]": [
+      "TMT10plex 126–131Da"
+    ],
+    "Characteristics[MaterialType]": [
+      "microdissected tissues"
+    ],
+    "Characteristics[Organism]": [
+      "postmortem human brain tissue of AD and control cases."
+    ],
+    "Characteristics[OrganismPart]": [
+      "outer two-thirds of the molecular layer of the dentate gyrus"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "five AD and five neurologically healthy control cases"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "simultaneous detection of ten samples"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mm DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with 4 mm chloroacetamide."
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen hippocampal tissues"
+    ],
+    "Comment[Instrument]": [
+      "hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific)",
+      "UltiMate™ 3000 RSLCnano System, Thermo Scientific Dionex"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Online liquid chromatography-tandem mass spectrometry (LC-MS/MS) was performed using a hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific).",
+      "data-dependent MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision dissociation at 30–40% normalized collision energy"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30–40% normalized collision energy"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250 nl/min"
+    ],
+    "Comment[Separation]": [
+      "separated on a 50 cm long C18 column (Easy spray PepMap RSLC, C18, 2 μm, 100Å, 75 μm × 50 cm)"
+    ],
+    "Comment[FractionationMethod]": [
+      "pre-fractionated into 72 fractions by high-resolution isoelectric focusing",
+      "eluted into 72 contiguous fractions"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum 2 missed cleavages"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "FTMS master scans with 70,000 resolution (and mass range 300–1700 mass to charge ratio (m/z))"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr41"
+    ]
+  },
+  "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr13.raw": {
+    "Source Name": [
+      "pooled_sample_IPG3-10_450ug"
+    ],
+    "Assay Name": [
+      "pooled_sample_IPG3-10_450ug_fr13"
+    ],
+    "Raw Data File": [
+      "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr13.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested by trypsin",
+      "digested first by Lys-C (Pierce, Thermo Scientific, Waltham, Massachusetts) for 16 h prior to trypsin digestion (16 h)."
+    ],
+    "Characteristics[Label]": [
+      "TMT10plex 126–131Da"
+    ],
+    "Characteristics[MaterialType]": [
+      "microdissected tissues"
+    ],
+    "Characteristics[Organism]": [
+      "postmortem human brain tissue of AD and control cases."
+    ],
+    "Characteristics[OrganismPart]": [
+      "outer two-thirds of the molecular layer of the dentate gyrus"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "five AD and five neurologically healthy control cases"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "simultaneous detection of ten samples"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mm DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with 4 mm chloroacetamide."
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen hippocampal tissues"
+    ],
+    "Comment[Instrument]": [
+      "hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific)",
+      "UltiMate™ 3000 RSLCnano System, Thermo Scientific Dionex"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Online liquid chromatography-tandem mass spectrometry (LC-MS/MS) was performed using a hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific).",
+      "data-dependent MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision dissociation at 30–40% normalized collision energy"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30–40% normalized collision energy"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250 nl/min"
+    ],
+    "Comment[Separation]": [
+      "separated on a 50 cm long C18 column (Easy spray PepMap RSLC, C18, 2 μm, 100Å, 75 μm × 50 cm)"
+    ],
+    "Comment[FractionationMethod]": [
+      "pre-fractionated into 72 fractions by high-resolution isoelectric focusing",
+      "eluted into 72 contiguous fractions"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum 2 missed cleavages"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "FTMS master scans with 70,000 resolution (and mass range 300–1700 mass to charge ratio (m/z))"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr13"
+    ]
+  },
+  "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr15.raw": {
+    "Source Name": [
+      "pooled_sample_IPG3-10_450ug"
+    ],
+    "Assay Name": [
+      "pooled_sample_IPG3-10_450ug_fr15"
+    ],
+    "Raw Data File": [
+      "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr15.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested by trypsin",
+      "digested first by Lys-C (Pierce, Thermo Scientific, Waltham, Massachusetts) for 16 h prior to trypsin digestion (16 h)."
+    ],
+    "Characteristics[Label]": [
+      "TMT10plex 126–131Da"
+    ],
+    "Characteristics[MaterialType]": [
+      "microdissected tissues"
+    ],
+    "Characteristics[Organism]": [
+      "postmortem human brain tissue of AD and control cases."
+    ],
+    "Characteristics[OrganismPart]": [
+      "outer two-thirds of the molecular layer of the dentate gyrus"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "five AD and five neurologically healthy control cases"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "simultaneous detection of ten samples"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mm DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with 4 mm chloroacetamide."
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen hippocampal tissues"
+    ],
+    "Comment[Instrument]": [
+      "hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific)",
+      "UltiMate™ 3000 RSLCnano System, Thermo Scientific Dionex"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Online liquid chromatography-tandem mass spectrometry (LC-MS/MS) was performed using a hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific).",
+      "data-dependent MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision dissociation at 30–40% normalized collision energy"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30–40% normalized collision energy"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250 nl/min"
+    ],
+    "Comment[Separation]": [
+      "separated on a 50 cm long C18 column (Easy spray PepMap RSLC, C18, 2 μm, 100Å, 75 μm × 50 cm)"
+    ],
+    "Comment[FractionationMethod]": [
+      "pre-fractionated into 72 fractions by high-resolution isoelectric focusing",
+      "eluted into 72 contiguous fractions"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum 2 missed cleavages"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "FTMS master scans with 70,000 resolution (and mass range 300–1700 mass to charge ratio (m/z))"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr15"
+    ]
+  },
+  "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr18.raw": {
+    "Source Name": [
+      "pooled_sample_IPG3-10_450ug"
+    ],
+    "Assay Name": [
+      "pooled_sample_IPG3-10_450ug_fr18"
+    ],
+    "Raw Data File": [
+      "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr18.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested by trypsin",
+      "digested first by Lys-C (Pierce, Thermo Scientific, Waltham, Massachusetts) for 16 h prior to trypsin digestion (16 h)."
+    ],
+    "Characteristics[Label]": [
+      "TMT10plex 126–131Da"
+    ],
+    "Characteristics[MaterialType]": [
+      "microdissected tissues"
+    ],
+    "Characteristics[Organism]": [
+      "postmortem human brain tissue of AD and control cases."
+    ],
+    "Characteristics[OrganismPart]": [
+      "outer two-thirds of the molecular layer of the dentate gyrus"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "five AD and five neurologically healthy control cases"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "simultaneous detection of ten samples"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mm DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with 4 mm chloroacetamide."
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen hippocampal tissues"
+    ],
+    "Comment[Instrument]": [
+      "hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific)",
+      "UltiMate™ 3000 RSLCnano System, Thermo Scientific Dionex"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Online liquid chromatography-tandem mass spectrometry (LC-MS/MS) was performed using a hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific).",
+      "data-dependent MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision dissociation at 30–40% normalized collision energy"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30–40% normalized collision energy"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250 nl/min"
+    ],
+    "Comment[Separation]": [
+      "separated on a 50 cm long C18 column (Easy spray PepMap RSLC, C18, 2 μm, 100Å, 75 μm × 50 cm)"
+    ],
+    "Comment[FractionationMethod]": [
+      "pre-fractionated into 72 fractions by high-resolution isoelectric focusing",
+      "eluted into 72 contiguous fractions"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum 2 missed cleavages"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "FTMS master scans with 70,000 resolution (and mass range 300–1700 mass to charge ratio (m/z))"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr18"
+    ]
+  },
+  "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr65.raw": {
+    "Source Name": [
+      "pooled_sample_IPG3-10_450ug"
+    ],
+    "Assay Name": [
+      "pooled_sample_IPG3-10_450ug_fr65"
+    ],
+    "Raw Data File": [
+      "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr65.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested by trypsin",
+      "digested first by Lys-C (Pierce, Thermo Scientific, Waltham, Massachusetts) for 16 h prior to trypsin digestion (16 h)."
+    ],
+    "Characteristics[Label]": [
+      "TMT10plex 126–131Da"
+    ],
+    "Characteristics[MaterialType]": [
+      "microdissected tissues"
+    ],
+    "Characteristics[Organism]": [
+      "postmortem human brain tissue of AD and control cases."
+    ],
+    "Characteristics[OrganismPart]": [
+      "outer two-thirds of the molecular layer of the dentate gyrus"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "five AD and five neurologically healthy control cases"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "simultaneous detection of ten samples"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mm DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with 4 mm chloroacetamide."
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen hippocampal tissues"
+    ],
+    "Comment[Instrument]": [
+      "hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific)",
+      "UltiMate™ 3000 RSLCnano System, Thermo Scientific Dionex"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Online liquid chromatography-tandem mass spectrometry (LC-MS/MS) was performed using a hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific).",
+      "data-dependent MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision dissociation at 30–40% normalized collision energy"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30–40% normalized collision energy"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250 nl/min"
+    ],
+    "Comment[Separation]": [
+      "separated on a 50 cm long C18 column (Easy spray PepMap RSLC, C18, 2 μm, 100Å, 75 μm × 50 cm)"
+    ],
+    "Comment[FractionationMethod]": [
+      "pre-fractionated into 72 fractions by high-resolution isoelectric focusing",
+      "eluted into 72 contiguous fractions"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum 2 missed cleavages"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "FTMS master scans with 70,000 resolution (and mass range 300–1700 mass to charge ratio (m/z))"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr65"
+    ]
+  },
+  "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr06.raw": {
+    "Source Name": [
+      "pooled_sample_IPG3-10_450ug"
+    ],
+    "Assay Name": [
+      "pooled_sample_IPG3-10_450ug_fr06"
+    ],
+    "Raw Data File": [
+      "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr06.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested by trypsin",
+      "digested first by Lys-C (Pierce, Thermo Scientific, Waltham, Massachusetts) for 16 h prior to trypsin digestion (16 h)."
+    ],
+    "Characteristics[Label]": [
+      "TMT10plex 126–131Da"
+    ],
+    "Characteristics[MaterialType]": [
+      "microdissected tissues"
+    ],
+    "Characteristics[Organism]": [
+      "postmortem human brain tissue of AD and control cases."
+    ],
+    "Characteristics[OrganismPart]": [
+      "outer two-thirds of the molecular layer of the dentate gyrus"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "five AD and five neurologically healthy control cases"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "simultaneous detection of ten samples"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mm DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with 4 mm chloroacetamide."
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen hippocampal tissues
+    ],
+    "Comment[Instrument]": [
+      "hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific)",
+      "UltiMate™ 3000 RSLCnano System, Thermo Scientific Dionex"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Online liquid chromatography-tandem mass spectrometry (LC-MS/MS) was performed using a hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific).",
+      "data-dependent MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision dissociation at 30–40% normalized collision energy"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30–40% normalized collision energy"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250 nl/min"
+    ],
+    "Comment[Separation]": [
+      "separated on a 50 cm long C18 column (Easy spray PepMap RSLC, C18, 2 μm, 100Å, 75 μm × 50 cm)"
+    ],
+    "Comment[FractionationMethod]": [
+      "pre-fractionated into 72 fractions by high-resolution isoelectric focusing",
+      "eluted into 72 contiguous fractions"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum 2 missed cleavages"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "FTMS master scans with 70,000 resolution (and mass range 300–1700 mass to charge ratio (m/z))"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr06"
+    ]
+  },
+  "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr50.raw": {
+    "Source Name": [
+      "pooled_sample_IPG3-10_450ug"
+    ],
+    "Assay Name": [
+      "pooled_sample_IPG3-10_450ug_fr50"
+    ],
+    "Raw Data File": [
+      "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr50.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested by trypsin",
+      "digested first by Lys-C (Pierce, Thermo Scientific, Waltham, Massachusetts) for 16 h prior to trypsin digestion (16 h)."
+    ],
+    "Characteristics[Label]": [
+      "TMT10plex 126–131Da"
+    ],
+    "Characteristics[MaterialType]": [
+      "microdissected tissues"
+    ],
+    "Characteristics[Organism]": [
+      "postmortem human brain tissue of AD and control cases."
+    ],
+    "Characteristics[OrganismPart]": [
+      "outer two-thirds of the molecular layer of the dentate gyrus"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "five AD and five neurologically healthy control cases"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "simultaneous detection of ten samples"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mm DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with 4 mm chloroacetamide."
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen hippocampal tissues"
+    ],
+    "Comment[Instrument]": [
+      "hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific)",
+      "UltiMate™ 3000 RSLCnano System, Thermo Scientific Dionex"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Online liquid chromatography-tandem mass spectrometry (LC-MS/MS) was performed using a hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific).",
+      "data-dependent MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision dissociation at 30–40% normalized collision energy"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30–40% normalized collision energy"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250 nl/min"
+    ],
+    "Comment[Separation]": [
+      "separated on a 50 cm long C18 column (Easy spray PepMap RSLC, C18, 2 μm, 100Å, 75 μm × 50 cm)"
+    ],
+    "Comment[FractionationMethod]": [
+      "pre-fractionated into 72 fractions by high-resolution isoelectric focusing",
+      "eluted into 72 contiguous fractions"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum 2 missed cleavages"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "FTMS master scans with 70,000 resolution (and mass range 300–1700 mass to charge ratio (m/z))"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr50"
+    ]
+  },
+  "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr64.raw": {
+    "Source Name": [
+      "pooled_sample_IPG3-10_450ug"
+    ],
+    "Assay Name": [
+      "pooled_sample_IPG3-10_450ug_fr64"
+    ],
+    "Raw Data File": [
+      "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr64.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested by trypsin",
+      "digested first by Lys-C (Pierce, Thermo Scientific, Waltham, Massachusetts) for 16 h prior to trypsin digestion (16 h)."
+    ],
+    "Characteristics[Label]": [
+      "TMT10plex 126–131Da"
+    ],
+    "Characteristics[MaterialType]": [
+      "microdissected tissues"
+    ],
+    "Characteristics[Organism]": [
+      "postmortem human brain tissue of AD and control cases."
+    ],
+    "Characteristics[OrganismPart]": [
+      "outer two-thirds of the molecular layer of the dentate gyrus"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "five AD and five neurologically healthy control cases"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "simultaneous detection of ten samples"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mm DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with 4 mm chloroacetamide."
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen hippocampal tissues"
+    ],
+    "Comment[Instrument]": [
+      "hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific)",
+      "UltiMate™ 3000 RSLCnano System, Thermo Scientific Dionex"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Online liquid chromatography-tandem mass spectrometry (LC-MS/MS) was performed using a hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific).",
+      "data-dependent MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision dissociation at 30–40% normalized collision energy"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30–40% normalized collision energy"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250 nl/min"
+    ],
+    "Comment[Separation]": [
+      "separated on a 50 cm long C18 column (Easy spray PepMap RSLC, C18, 2 μm, 100Å, 75 μm × 50 cm)"
+    ],
+    "Comment[FractionationMethod]": [
+      "pre-fractionated into 72 fractions by high-resolution isoelectric focusing",
+      "eluted into 72 contiguous fractions"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum 2 missed cleavages"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "FTMS master scans with 70,000 resolution (and mass range 300–1700 mass to charge ratio (m/z))"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr64"
+    ]
+  },
+  "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr42.raw": {
+    "Source Name": [
+      "pooled_sample_IPG3-10_450ug"
+    ],
+    "Assay Name": [
+      "pooled_sample_IPG3-10_450ug_fr42"
+    ],
+    "Raw Data File": [
+      "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr42.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested by trypsin",
+      "digested first by Lys-C (Pierce, Thermo Scientific, Waltham, Massachusetts) for 16 h prior to trypsin digestion (16 h)."
+    ],
+    "Characteristics[Label]": [
+      "TMT10plex 126–131Da"
+    ],
+    "Characteristics[MaterialType]": [
+      "microdissected tissues"
+    ],
+    "Characteristics[Organism]": [
+      "postmortem human brain tissue of AD and control cases."
+    ],
+    "Characteristics[OrganismPart]": [
+      "outer two-thirds of the molecular layer of the dentate gyrus"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "five AD and five neurologically healthy control cases"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "simultaneous detection of ten samples"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mm DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with 4 mm chloroacetamide."
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen hippocampal tissues"
+    ],
+    "Comment[Instrument]": [
+      "hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific)",
+      "UltiMate™ 3000 RSLCnano System, Thermo Scientific Dionex"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Online liquid chromatography-tandem mass spectrometry (LC-MS/MS) was performed using a hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific).",
+      "data-dependent MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision dissociation at 30–40% normalized collision energy"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30–40% normalized collision energy"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250 nl/min"
+    ],
+    "Comment[Separation]": [
+      "separated on a 50 cm long C18 column (Easy spray PepMap RSLC, C18, 2 μm, 100Å, 75 μm × 50 cm)"
+    ],
+    "Comment[FractionationMethod]": [
+      "pre-fractionated into 72 fractions by high-resolution isoelectric focusing",
+      "eluted into 72 contiguous fractions"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum 2 missed cleavages"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "FTMS master scans with 70,000 resolution (and mass range 300–1700 mass to charge ratio (m/z))"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr42"
+    ]
+  },
+  "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr72.raw": {
+    "Source Name": [
+      "pooled_sample_IPG3-10_450ug"
+    ],
+    "Assay Name": [
+      "pooled_sample_IPG3-10_450ug_fr72"
+    ],
+    "Raw Data File": [
+      "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr72.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested by trypsin",
+      "digested first by Lys-C (Pierce, Thermo Scientific, Waltham, Massachusetts) for 16 h prior to trypsin digestion (16 h)."
+    ],
+    "Characteristics[Label]": [
+      "TMT10plex 126–131Da"
+    ],
+    "Characteristics[MaterialType]": [
+      "microdissected tissues"
+    ],
+    "Characteristics[Organism]": [
+      "postmortem human brain tissue of AD and control cases."
+    ],
+    "Characteristics[OrganismPart]": [
+      "outer two-thirds of the molecular layer of the dentate gyrus"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "five AD and five neurologically healthy control cases"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "simultaneous detection of ten samples"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mm DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with 4 mm chloroacetamide."
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen hippocampal tissues"
+    ],
+    "Comment[Instrument]": [
+      "hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific)",
+      "UltiMate™ 3000 RSLCnano System, Thermo Scientific Dionex"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Online liquid chromatography-tandem mass spectrometry (LC-MS/MS) was performed using a hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific).",
+      "data-dependent MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision dissociation at 30–40% normalized collision energy"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30–40% normalized collision energy"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250 nl/min"
+    ],
+    "Comment[Separation]": [
+      "separated on a 50 cm long C18 column (Easy spray PepMap RSLC, C18, 2 μm, 100Å, 75 μm × 50 cm)"
+    ],
+    "Comment[FractionationMethod]": [
+      "pre-fractionated into 72 fractions by high-resolution isoelectric focusing",
+      "eluted into 72 contiguous fractions"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum 2 missed cleavages"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "FTMS master scans with 70,000 resolution (and mass range 300–1700 mass to charge ratio (m/z))"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr72"
+    ]
+  },
+  "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr51.raw": {
+    "Source Name": [
+      "pooled_sample_IPG3-10_450ug"
+    ],
+    "Assay Name": [
+      "pooled_sample_IPG3-10_450ug_fr51"
+    ],
+    "Raw Data File": [
+      "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr51.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested by trypsin",
+      "digested first by Lys-C (Pierce, Thermo Scientific, Waltham, Massachusetts) for 16 h prior to trypsin digestion (16 h)."
+    ],
+    "Characteristics[Label]": [
+      "TMT10plex 126–131Da"
+    ],
+    "Characteristics[MaterialType]": [
+      "microdissected tissues"
+    ],
+    "Characteristics[Organism]": [
+      "postmortem human brain tissue of AD and control cases."
+    ],
+    "Characteristics[OrganismPart]": [
+      "outer two-thirds of the molecular layer of the dentate gyrus"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "five AD and five neurologically healthy control cases"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "simultaneous detection of ten samples"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mm DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with 4 mm chloroacetamide."
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen hippocampal tissues"
+    ],
+    "Comment[Instrument]": [
+      "hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific)",
+      "UltiMate™ 3000 RSLCnano System, Thermo Scientific Dionex"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Online liquid chromatography-tandem mass spectrometry (LC-MS/MS) was performed using a hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific).",
+      "data-dependent MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision dissociation at 30–40% normalized collision energy"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30–40% normalized collision energy"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250 nl/min"
+    ],
+    "Comment[Separation]": [
+      "separated on a 50 cm long C18 column (Easy spray PepMap RSLC, C18, 2 μm, 100Å, 75 μm × 50 cm)"
+    ],
+    "Comment[FractionationMethod]": [
+      "pre-fractionated into 72 fractions by high-resolution isoelectric focusing",
+      "eluted into 72 contiguous fractions"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum 2 missed cleavages"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "FTMS master scans with 70,000 resolution (and mass range 300–1700 mass to charge ratio (m/z))"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr51"
+    ]
+  },
+  "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr37.raw": {
+    "Source Name": [
+      "pooled_sample_IPG3-10_450ug"
+    ],
+    "Assay Name": [
+      "pooled_sample_IPG3-10_450ug_fr37"
+    ],
+    "Raw Data File": [
+      "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr37.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested by trypsin",
+      "digested first by Lys-C (Pierce, Thermo Scientific, Waltham, Massachusetts) for 16 h prior to trypsin digestion (16 h)."
+    ],
+    "Characteristics[Label]": [
+      "TMT10plex 126–131Da"
+    ],
+    "Characteristics[MaterialType]": [
+      "microdissected tissues"
+    ],
+    "Characteristics[Organism]": [
+      "postmortem human brain tissue of AD and control cases."
+    ],
+    "Characteristics[OrganismPart]": [
+      "outer two-thirds of the molecular layer of the dentate gyrus"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "five AD and five neurologically healthy control cases"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "simultaneous detection of ten samples"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mm DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with 4 mm chloroacetamide."
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen hippocampal tissues"
+    ],
+    "Comment[Instrument]": [
+      "hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific)",
+      "UltiMate™ 3000 RSLCnano System, Thermo Scientific Dionex"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Online liquid chromatography-tandem mass spectrometry (LC-MS/MS) was performed using a hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific).",
+      "data-dependent MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision dissociation at 30–40% normalized collision energy"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30–40% normalized collision energy"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250 nl/min"
+    ],
+    "Comment[Separation]": [
+      "separated on a 50 cm long C18 column (Easy spray PepMap RSLC, C18, 2 μm, 100Å, 75 μm × 50 cm)"
+    ],
+    "Comment[FractionationMethod]": [
+      "pre-fractionated into 72 fractions by high-resolution isoelectric focusing",
+      "eluted into 72 contiguous fractions"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum 2 missed cleavages"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "FTMS master scans with 70,000 resolution (and mass range 300–1700 mass to charge ratio (m/z))"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr37"
+    ]
+  },
+  "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr40.raw": {
+    "Source Name": [
+      "pooled_sample_IPG3-10_450ug"
+    ],
+    "Assay Name": [
+      "pooled_sample_IPG3-10_450ug_fr40"
+    ],
+    "Raw Data File": [
+      "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr40.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested by trypsin",
+      "digested first by Lys-C (Pierce, Thermo Scientific, Waltham, Massachusetts) for 16 h prior to trypsin digestion (16 h)."
+    ],
+    "Characteristics[Label]": [
+      "TMT10plex 126–131Da"
+    ],
+    "Characteristics[MaterialType]": [
+      "microdissected tissues"
+    ],
+    "Characteristics[Organism]": [
+      "postmortem human brain tissue of AD and control cases."
+    ],
+    "Characteristics[OrganismPart]": [
+      "outer two-thirds of the molecular layer of the dentate gyrus"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "five AD and five neurologically healthy control cases"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "simultaneous detection of ten samples"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mm DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with 4 mm chloroacetamide."
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen hippocampal tissues"
+    ],
+    "Comment[Instrument]": [
+      "hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific)",
+      "UltiMate™ 3000 RSLCnano System, Thermo Scientific Dionex"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Online liquid chromatography-tandem mass spectrometry (LC-MS/MS) was performed using a hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific).",
+      "data-dependent MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision dissociation at 30–40% normalized collision energy"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30–40% normalized collision energy"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250 nl/min"
+    ],
+    "Comment[Separation]": [
+      "separated on a 50 cm long C18 column (Easy spray PepMap RSLC, C18, 2 μm, 100Å, 75 μm × 50 cm)"
+    ],
+    "Comment[FractionationMethod]": [
+      "pre-fractionated into 72 fractions by high-resolution isoelectric focusing",
+      "eluted into 72 contiguous fractions"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum 2 missed cleavages"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "FTMS master scans with 70,000 resolution (and mass range 300–1700 mass to charge ratio (m/z))"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr40"
+    ]
+  },
+  "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr53.raw": {
+    "Source Name": [
+      "pooled_sample_IPG3-10_450ug"
+    ],
+    "Assay Name": [
+      "pooled_sample_IPG3-10_450ug_fr53"
+    ],
+    "Raw Data File": [
+      "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr53.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested by trypsin",
+      "digested first by Lys-C (Pierce, Thermo Scientific, Waltham, Massachusetts) for 16 h prior to trypsin digestion (16 h)."
+    ],
+    "Characteristics[Label]": [
+      "TMT10plex 126–131Da"
+    ],
+    "Characteristics[MaterialType]": [
+      "microdissected tissues"
+    ],
+    "Characteristics[Organism]": [
+      "postmortem human brain tissue of AD and control cases."
+    ],
+    "Characteristics[OrganismPart]": [
+      "outer two-thirds of the molecular layer of the dentate gyrus"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "five AD and five neurologically healthy control cases"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "simultaneous detection of ten samples"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mm DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with 4 mm chloroacetamide."
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen hippocampal tissues"
+    ],
+    "Comment[Instrument]": [
+      "hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific)",
+      "UltiMate™ 3000 RSLCnano System, Thermo Scientific Dionex"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Online liquid chromatography-tandem mass spectrometry (LC-MS/MS) was performed using a hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific).",
+      "data-dependent MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision dissociation at 30–40% normalized collision energy"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30–40% normalized collision energy"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250 nl/min"
+    ],
+    "Comment[Separation]": [
+      "separated on a 50 cm long C18 column (Easy spray PepMap RSLC, C18, 2 μm, 100Å, 75 μm × 50 cm)"
+    ],
+    "Comment[FractionationMethod]": [
+      "pre-fractionated into 72 fractions by high-resolution isoelectric focusing",
+      "eluted into 72 contiguous fractions"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum 2 missed cleavages"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "FTMS master scans with 70,000 resolution (and mass range 300–1700 mass to charge ratio (m/z))"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr53"
+    ]
+  },
+  "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr09.raw": {
+    "Source Name": [
+      "pooled_sample_IPG3-10_450ug"
+    ],
+    "Assay Name": [
+      "pooled_sample_IPG3-10_450ug_fr09"
+    ],
+    "Raw Data File": [
+      "GMSFHH_human_microd_20171123_400ug_IPG3-10_fr09.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested by trypsin",
+      "digested first by Lys-C (Pierce, Thermo Scientific, Waltham, Massachusetts) for 16 h prior to trypsin digestion (16 h)."
+    ],
+    "Characteristics[Label]": [
+      "TMT10plex 126–131Da"
+    ],
+    "Characteristics[MaterialType]": [
+      "microdissected tissues"
+    ],
+    "Characteristics[Organism]": [
+      "postmortem human brain tissue of AD and control cases."
+    ],
+    "Characteristics[OrganismPart]": [
+      "outer two-thirds of the molecular layer of the dentate gyrus"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "five AD and five neurologically healthy control cases"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "simultaneous detection of ten samples"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mm DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with 4 mm chloroacetamide."
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen hippocampal tissues"
+    ],
+    "Comment[Instrument]": [
+      "hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific)",
+      "UltiMate™ 3000 RSLCnano System, Thermo Scientific Dionex"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Online liquid chromatography-tandem mass spectrometry (LC-MS/MS) was performed using a hybrid Q-Exactive-HF mass spectrometer (Thermo Scientific).",
+      "data-dependent MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision dissociation at 30–40% normalized collision energy"
+    ],
+    "Comment[CollisionEnergy]": [
+      "30–40% normalized collision energy"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250 nl/min"
+    ],
+    "Comment[Separation]": [
+      "separated on a 50 cm long C18 column (Easy spray PepMap RSLC, C18, 2 μm, 100Å, 75 μm × 50 cm)"
+    ],
+    "Comment[FractionationMethod]": [
+      "pre-fractionated into 72 fractions by high-resolution isoelectric focusing",
+      "eluted into 72 contiguous fractions"
+    ],
+    "Comment[NumberOfFractions]": [
+      "72 fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum 2 missed cleavages"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "FTMS master scans with 70,000 resolution (and mass range 300–1700 mass to charge ratio (m/z))"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr09"
+    ]
+  }
+}

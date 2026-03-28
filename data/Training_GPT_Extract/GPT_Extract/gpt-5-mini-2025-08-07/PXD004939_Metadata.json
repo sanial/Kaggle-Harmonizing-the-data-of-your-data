@@ -1,0 +1,758 @@
+{
+  "Rice_phos_ABA_3h_20per_F1_R1.raw": {
+    "Source Name": [
+      "Rice_phos_ABA_3h_R1"
+    ],
+    "Assay Name": [
+      "Rice_phos_ABA_3h_20per_F1_R1"
+    ],
+    "Raw Data File": [
+      "Rice_phos_ABA_3h_20per_F1_R1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "young seedlings of Nipponbare (Oryza sativa, ssp. japonica)"
+    ],
+    "Characteristics[Specimen]": [
+      "whole seedling samples"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "Fourteen-day-old Nipponbare young seedlings"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three biological replicates"
+    ],
+    "Characteristics[Label]": [
+      "label-free"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "R1"
+    ],
+    "Characteristics[Compound]": [
+      "100 µM ABA"
+    ],
+    "Characteristics[ConcentrationOfCompound]": [
+      "100 µM"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM DTT (DL-Dithiothreitol) reduction"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM IAA (indole-3-acetic acid) alkylation"
+    ],
+    "FactorValue[SamplingTime]": [
+      "3 h"
+    ],
+    "Comment[Instrument]": [
+      "LC-MS/MS analyses were performed on an Easy-nLC 1000 liquid chromatography system (Thermo, Waltham, WA, USA) coupled to a Q-Exactive Plus via a nano-electrospray ion source (Thermo)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmentation in the HCD cell at normalized collision energy of 27%"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 27%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "500 nL/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "50 mmu"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "peptides were incubated with TiO2 beads (GL sciences, Tokyo, Japan)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F1"
+    ],
+    "Comment[IonizationType]": [
+      "nano-electrospray ion source (Thermo)"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer operating at a resolution of 17,500 at m/z 400"
+    ],
+    "Comment[Separation]": [
+      "separated on a homemade 100 µm ID × 10 cm column (C18, 1.9 µm, 120 Å, Maisch GmbH)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavage on trypsin was allowed."
+    ]
+  },
+  "Rice_phos_ABA_12h_20per_F1_R2.raw": {
+    "Source Name": [
+      "Rice_phos_ABA_12h_R2"
+    ],
+    "Assay Name": [
+      "Rice_phos_ABA_12h_20per_F1_R2"
+    ],
+    "Raw Data File": [
+      "Rice_phos_ABA_12h_20per_F1_R2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "young seedlings of Nipponbare (Oryza sativa, ssp. japonica)"
+    ],
+    "Characteristics[Specimen]": [
+      "whole seedling samples"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "Fourteen-day-old Nipponbare young seedlings"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three biological replicates"
+    ],
+    "Characteristics[Label]": [
+      "label-free"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "R2"
+    ],
+    "Characteristics[Compound]": [
+      "100 µM ABA"
+    ],
+    "Characteristics[ConcentrationOfCompound]": [
+      "100 µM"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM DTT (DL-Dithiothreitol) reduction"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM IAA (indole-3-acetic acid) alkylation"
+    ],
+    "FactorValue[SamplingTime]": [
+      "12 h"
+    ],
+    "Comment[Instrument]": [
+      "LC-MS/MS analyses were performed on an Easy-nLC 1000 liquid chromatography system (Thermo, Waltham, WA, USA) coupled to a Q-Exactive Plus via a nano-electrospray ion source (Thermo)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmentation in the HCD cell at normalized collision energy of 27%"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 27%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "500 nL/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "50 mmu"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "peptides were incubated with TiO2 beads (GL sciences, Tokyo, Japan)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F1"
+    ],
+    "Comment[IonizationType]": [
+      "nano-electrospray ion source (Thermo)"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer operating at a resolution of 17,500 at m/z 400"
+    ],
+    "Comment[Separation]": [
+      "separated on a homemade 100 µm ID × 10 cm column (C18, 1.9 µm, 120 Å, Maisch GmbH)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavage on trypsin was allowed."
+    ]
+  },
+  "Rice_phos_Nip_0h_20per_F1_R1.raw": {
+    "Source Name": [
+      "Rice_phos_Nip_0h_R1"
+    ],
+    "Assay Name": [
+      "Rice_phos_Nip_0h_20per_F1_R1"
+    ],
+    "Raw Data File": [
+      "Rice_phos_Nip_0h_20per_F1_R1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "young seedlings of Nipponbare (Oryza sativa, ssp. japonica)"
+    ],
+    "Characteristics[Specimen]": [
+      "whole seedling samples"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "Fourteen-day-old Nipponbare young seedlings"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three biological replicates"
+    ],
+    "Characteristics[Label]": [
+      "label-free"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "R1"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM DTT (DL-Dithiothreitol) reduction"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM IAA (indole-3-acetic acid) alkylation"
+    ],
+    "FactorValue[SamplingTime]": [
+      "CK"
+    ],
+    "Comment[Instrument]": [
+      "LC-MS/MS analyses were performed on an Easy-nLC 1000 liquid chromatography system (Thermo, Waltham, WA, USA) coupled to a Q-Exactive Plus via a nano-electrospray ion source (Thermo)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmentation in the HCD cell at normalized collision energy of 27%"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 27%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "500 nL/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "50 mmu"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "peptides were incubated with TiO2 beads (GL sciences, Tokyo, Japan)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F1"
+    ],
+    "Comment[IonizationType]": [
+      "nano-electrospray ion source (Thermo)"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer operating at a resolution of 17,500 at m/z 400"
+    ],
+    "Comment[Separation]": [
+      "separated on a homemade 100 µm ID × 10 cm column (C18, 1.9 µm, 120 Å, Maisch GmbH)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavage on trypsin was allowed."
+    ]
+  },
+  "Rice_phos_Nip_0h_20per_F1_R2.raw": {
+    "Source Name": [
+      "Rice_phos_Nip_0h_R2"
+    ],
+    "Assay Name": [
+      "Rice_phos_Nip_0h_20per_F1_R2"
+    ],
+    "Raw Data File": [
+      "Rice_phos_Nip_0h_20per_F1_R2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "young seedlings of Nipponbare (Oryza sativa, ssp. japonica)"
+    ],
+    "Characteristics[Specimen]": [
+      "whole seedling samples"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "Fourteen-day-old Nipponbare young seedlings"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three biological replicates"
+    ],
+    "Characteristics[Label]": [
+      "label-free"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "R2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM DTT (DL-Dithiothreitol) reduction"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM IAA (indole-3-acetic acid) alkylation"
+    ],
+    "FactorValue[SamplingTime]": [
+      "CK"
+    ],
+    "Comment[Instrument]": [
+      "LC-MS/MS analyses were performed on an Easy-nLC 1000 liquid chromatography system (Thermo, Waltham, WA, USA) coupled to a Q-Exactive Plus via a nano-electrospray ion source (Thermo)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmentation in the HCD cell at normalized collision energy of 27%"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 27%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "500 nL/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "50 mmu"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "peptides were incubated with TiO2 beads (GL sciences, Tokyo, Japan)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F1"
+    ],
+    "Comment[IonizationType]": [
+      "nano-electrospray ion source (Thermo)"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer operating at a resolution of 17,500 at m/z 400"
+    ],
+    "Comment[Separation]": [
+      "separated on a homemade 100 µm ID × 10 cm column (C18, 1.9 µm, 120 Å, Maisch GmbH)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavage on trypsin was allowed."
+    ]
+  },
+  "Rice_phos_ABA_12h_20per_F1_R3.raw": {
+    "Source Name": [
+      "Rice_phos_ABA_12h_R3"
+    ],
+    "Assay Name": [
+      "Rice_phos_ABA_12h_20per_F1_R3"
+    ],
+    "Raw Data File": [
+      "Rice_phos_ABA_12h_20per_F1_R3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "young seedlings of Nipponbare (Oryza sativa, ssp. japonica)"
+    ],
+    "Characteristics[Specimen]": [
+      "whole seedling samples"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "Fourteen-day-old Nipponbare young seedlings"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three biological replicates"
+    ],
+    "Characteristics[Label]": [
+      "label-free"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "R3"
+    ],
+    "Characteristics[Compound]": [
+      "100 µM ABA"
+    ],
+    "Characteristics[ConcentrationOfCompound]": [
+      "100 µM"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM DTT (DL-Dithiothreitol) reduction"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM IAA (indole-3-acetic acid) alkylation"
+    ],
+    "FactorValue[SamplingTime]": [
+      "12 h"
+    ],
+    "Comment[Instrument]": [
+      "LC-MS/MS analyses were performed on an Easy-nLC 1000 liquid chromatography system (Thermo, Waltham, WA, USA) coupled to a Q-Exactive Plus via a nano-electrospray ion source (Thermo)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmentation in the HCD cell at normalized collision energy of 27%"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 27%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "500 nL/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "50 mmu"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "peptides were incubated with TiO2 beads (GL sciences, Tokyo, Japan)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F1"
+    ],
+    "Comment[IonizationType]": [
+      "nano-electrospray ion source (Thermo)"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer operating at a resolution of 17,500 at m/z 400"
+    ],
+    "Comment[Separation]": [
+      "separated on a homemade 100 µm ID × 10 cm column (C18, 1.9 µm, 120 Å, Maisch GmbH)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavage on trypsin was allowed."
+    ]
+  },
+  "Rice_phos_ABA_3h_20per_F1_R2.raw": {
+    "Source Name": [
+      "Rice_phos_ABA_3h_R2"
+    ],
+    "Assay Name": [
+      "Rice_phos_ABA_3h_20per_F1_R2"
+    ],
+    "Raw Data File": [
+      "Rice_phos_ABA_3h_20per_F1_R2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "young seedlings of Nipponbare (Oryza sativa, ssp. japonica)"
+    ],
+    "Characteristics[Specimen]": [
+      "whole seedling samples"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "Fourteen-day-old Nipponbare young seedlings"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three biological replicates"
+    ],
+    "Characteristics[Label]": [
+      "label-free"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "R2"
+    ],
+    "Characteristics[Compound]": [
+      "100 µM ABA"
+    ],
+    "Characteristics[ConcentrationOfCompound]": [
+      "100 µM"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM DTT (DL-Dithiothreitol) reduction"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM IAA (indole-3-acetic acid) alkylation"
+    ],
+    "FactorValue[SamplingTime]": [
+      "3 h"
+    ],
+    "Comment[Instrument]": [
+      "LC-MS/MS analyses were performed on an Easy-nLC 1000 liquid chromatography system (Thermo, Waltham, WA, USA) coupled to a Q-Exactive Plus via a nano-electrospray ion source (Thermo)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmentation in the HCD cell at normalized collision energy of 27%"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 27%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "500 nL/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "50 mmu"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "peptides were incubated with TiO2 beads (GL sciences, Tokyo, Japan)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F1"
+    ],
+    "Comment[IonizationType]": [
+      "nano-electrospray ion source (Thermo)"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer operating at a resolution of 17,500 at m/z 400"
+    ],
+    "Comment[Separation]": [
+      "separated on a homemade 100 µm ID × 10 cm column (C18, 1.9 µm, 120 Å, Maisch GmbH)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavage on trypsin was allowed."
+    ]
+  },
+  "Rice_phos_ABA_3h_20per_F1_R3.raw": {
+    "Source Name": [
+      "Rice_phos_ABA_3h_R3"
+    ],
+    "Assay Name": [
+      "Rice_phos_ABA_3h_20per_F1_R3"
+    ],
+    "Raw Data File": [
+      "Rice_phos_ABA_3h_20per_F1_R3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "young seedlings of Nipponbare (Oryza sativa, ssp. japonica)"
+    ],
+    "Characteristics[Specimen]": [
+      "whole seedling samples"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "Fourteen-day-old Nipponbare young seedlings"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three biological replicates"
+    ],
+    "Characteristics[Label]": [
+      "label-free"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "R3"
+    ],
+    "Characteristics[Compound]": [
+      "100 µM ABA"
+    ],
+    "Characteristics[ConcentrationOfCompound]": [
+      "100 µM"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM DTT (DL-Dithiothreitol) reduction"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM IAA (indole-3-acetic acid) alkylation"
+    ],
+    "FactorValue[SamplingTime]": [
+      "3 h"
+    ],
+    "Comment[Instrument]": [
+      "LC-MS/MS analyses were performed on an Easy-nLC 1000 liquid chromatography system (Thermo, Waltham, WA, USA) coupled to a Q-Exactive Plus via a nano-electrospray ion source (Thermo)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmentation in the HCD cell at normalized collision energy of 27%"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 27%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "500 nL/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "50 mmu"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "peptides were incubated with TiO2 beads (GL sciences, Tokyo, Japan)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F1"
+    ],
+    "Comment[IonizationType]": [
+      "nano-electrospray ion source (Thermo)"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer operating at a resolution of 17,500 at m/z 400"
+    ],
+    "Comment[Separation]": [
+      "separated on a homemade 100 µm ID × 10 cm column (C18, 1.9 µm, 120 Å, Maisch GmbH)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavage on trypsin was allowed."
+    ]
+  },
+  "Rice_phos_Nip_0h_20per_F1_R3.raw": {
+    "Source Name": [
+      "Rice_phos_Nip_0h_R3"
+    ],
+    "Assay Name": [
+      "Rice_phos_Nip_0h_20per_F1_R3"
+    ],
+    "Raw Data File": [
+      "Rice_phos_Nip_0h_20per_F1_R3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "young seedlings of Nipponbare (Oryza sativa, ssp. japonica)"
+    ],
+    "Characteristics[Specimen]": [
+      "whole seedling samples"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "Fourteen-day-old Nipponbare young seedlings"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three biological replicates"
+    ],
+    "Characteristics[Label]": [
+      "label-free"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "R3"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM DTT (DL-Dithiothreitol) reduction"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM IAA (indole-3-acetic acid) alkylation"
+    ],
+    "FactorValue[SamplingTime]": [
+      "CK"
+    ],
+    "Comment[Instrument]": [
+      "LC-MS/MS analyses were performed on an Easy-nLC 1000 liquid chromatography system (Thermo, Waltham, WA, USA) coupled to a Q-Exactive Plus via a nano-electrospray ion source (Thermo)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmentation in the HCD cell at normalized collision energy of 27%"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 27%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "500 nL/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "50 mmu"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "peptides were incubated with TiO2 beads (GL sciences, Tokyo, Japan)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F1"
+    ],
+    "Comment[IonizationType]": [
+      "nano-electrospray ion source (Thermo)"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer operating at a resolution of 17,500 at m/z 400"
+    ],
+    "Comment[Separation]": [
+      "separated on a homemade 100 µm ID × 10 cm column (C18, 1.9 µm, 120 Å, Maisch GmbH)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavage on trypsin was allowed."
+    ]
+  },
+  "Rice_phos_ABA_12h_20per_F1_R1.raw": {
+    "Source Name": [
+      "Rice_phos_ABA_12h_R1"
+    ],
+    "Assay Name": [
+      "Rice_phos_ABA_12h_20per_F1_R1"
+    ],
+    "Raw Data File": [
+      "Rice_phos_ABA_12h_20per_F1_R1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "young seedlings of Nipponbare (Oryza sativa, ssp. japonica)"
+    ],
+    "Characteristics[Specimen]": [
+      "whole seedling samples"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "Fourteen-day-old Nipponbare young seedlings"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three biological replicates"
+    ],
+    "Characteristics[Label]": [
+      "label-free"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "R1"
+    ],
+    "Characteristics[Compound]": [
+      "100 µM ABA"
+    ],
+    "Characteristics[ConcentrationOfCompound]": [
+      "100 µM"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM DTT (DL-Dithiothreitol) reduction"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM IAA (indole-3-acetic acid) alkylation"
+    ],
+    "FactorValue[SamplingTime]": [
+      "12 h"
+    ],
+    "Comment[Instrument]": [
+      "LC-MS/MS analyses were performed on an Easy-nLC 1000 liquid chromatography system (Thermo, Waltham, WA, USA) coupled to a Q-Exactive Plus via a nano-electrospray ion source (Thermo)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmentation in the HCD cell at normalized collision energy of 27%"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 27%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "500 nL/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "50 mmu"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "peptides were incubated with TiO2 beads (GL sciences, Tokyo, Japan)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F1"
+    ],
+    "Comment[IonizationType]": [
+      "nano-electrospray ion source (Thermo)"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer operating at a resolution of 17,500 at m/z 400"
+    ],
+    "Comment[Separation]": [
+      "separated on a homemade 100 µm ID × 10 cm column (C18, 1.9 µm, 120 Å, Maisch GmbH)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavage on trypsin was allowed."
+    ]
+  }
+}

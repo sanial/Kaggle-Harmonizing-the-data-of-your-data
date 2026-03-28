@@ -1,0 +1,24 @@
+AssayName: single cell transcriptomics  
+AssayName: mass spectrometry-based proteomics  
+AssayName: state-of-the-art shotgun proteomics  
+AssayName: Dropseq workflow  
+AssayName: liquid chromatography-tandem mass spectrometry (LC-MS/MS) analysis  
+Age: 3-month-old mice  
+Age: 24-month-old mice  
+Age: 3 months  
+Age: 22 months  
+CleavageAgent: LysC  
+CleavageAgent: trypsin  
+ReductionReagent: 10 mM TCEP  
+AlkylationReagent: 50 mM CAA  
+Instrument: EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)  
+Instrument: Quadrupole/Orbitrap type Mass Spectrometer (Q-Exactive, Thermo Scientific)  
+GradientTime: 4 h gradient  
+GradientTime: 240 min gradient  
+FlowRateChromatogram: 250 nl/min  
+CollisionEnergy: normalized collision energy of 25%  
+PrecursorMassTolerance: 4.5 ppm  
+FragmentMassTolerance: 20 ppm  
+EnrichmentMethod: poly-A templates  
+AcquisitionMethod: top10 method  
+Temperature: 37 °C

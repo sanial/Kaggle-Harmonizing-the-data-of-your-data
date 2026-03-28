@@ -1,0 +1,3036 @@
+{
+  "HV_map_A2.raw": {
+    "Source Name": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Assay Name": [
+      "a CSF pool from 21 neurologically healthy volunteers_A2"
+    ],
+    "Raw Data File": [
+      "HV_map_A2.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Specimen]": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "21 individuals"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)",
+      "Dionex Ultimate NCS-3000 LC system (Thermo Fischer Scientific)"
+    ],
+    "Comment[IonizationType]": [
+      "nano spray Flex ion source (Thermo Fischer Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min"
+    ],
+    "Comment[GradientTime]": [
+      "MS data were acquired over 90 min.",
+      "the gradient length was 70 min."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.7 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE",
+      "mixed mode reversed phase-anion exchange (MM RP-AX) HPLC",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "83 gel slices",
+      "46 fractions",
+      "80 fractions",
+      "66 fractions",
+      "10 fractions",
+      "20 fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "A2"
+    ]
+  },
+  "HV_map_A15ny.raw": {
+    "Source Name": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Assay Name": [
+      "a CSF pool from 21 neurologically healthy volunteers_A15ny"
+    ],
+    "Raw Data File": [
+      "HV_map_A15ny.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Specimen]": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "21 individuals"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)",
+      "Dionex Ultimate NCS-3000 LC system (Thermo Fischer Scientific)"
+    ],
+    "Comment[IonizationType]": [
+      "nano spray Flex ion source (Thermo Fischer Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min"
+    ],
+    "Comment[GradientTime]": [
+      "MS data were acquired over 90 min.",
+      "the gradient length was 70 min."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.7 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE",
+      "mixed mode reversed phase-anion exchange (MM RP-AX) HPLC",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "83 gel slices",
+      "46 fractions",
+      "80 fractions",
+      "66 fractions",
+      "10 fractions",
+      "20 fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "A15ny"
+    ]
+  },
+  "HV_map_A1.raw": {
+    "Source Name": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Assay Name": [
+      "a CSF pool from 21 neurologically healthy volunteers_A1"
+    ],
+    "Raw Data File": [
+      "HV_map_A1.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Specimen]": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "21 individuals"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)",
+      "Dionex Ultimate NCS-3000 LC system (Thermo Fischer Scientific)"
+    ],
+    "Comment[IonizationType]": [
+      "nano spray Flex ion source (Thermo Fischer Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min"
+    ],
+    "Comment[GradientTime]": [
+      "MS data were acquired over 90 min.",
+      "the gradient length was 70 min."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.7 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE",
+      "mixed mode reversed phase-anion exchange (MM RP-AX) HPLC",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "83 gel slices",
+      "46 fractions",
+      "80 fractions",
+      "66 fractions",
+      "10 fractions",
+      "20 fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "A1"
+    ]
+  },
+  "HV_map_A33ny.raw": {
+    "Source Name": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Assay Name": [
+      "a CSF pool from 21 neurologically healthy volunteers_A33ny"
+    ],
+    "Raw Data File": [
+      "HV_map_A33ny.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Specimen]": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "21 individuals"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)",
+      "Dionex Ultimate NCS-3000 LC system (Thermo Fischer Scientific)"
+    ],
+    "Comment[IonizationType]": [
+      "nano spray Flex ion source (Thermo Fischer Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min"
+    ],
+    "Comment[GradientTime]": [
+      "MS data were acquired over 90 min.",
+      "the gradient length was 70 min."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.7 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE",
+      "mixed mode reversed phase-anion exchange (MM RP-AX) HPLC",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "83 gel slices",
+      "46 fractions",
+      "80 fractions",
+      "66 fractions",
+      "10 fractions",
+      "20 fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "A33ny"
+    ]
+  },
+  "HV_map_A16ny.raw": {
+    "Source Name": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Assay Name": [
+      "a CSF pool from 21 neurologically healthy volunteers_A16ny"
+    ],
+    "Raw Data File": [
+      "HV_map_A16ny.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Specimen]": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "21 individuals"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)",
+      "Dionex Ultimate NCS-3000 LC system (Thermo Fischer Scientific)"
+    ],
+    "Comment[IonizationType]": [
+      "nano spray Flex ion source (Thermo Fischer Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min"
+    ],
+    "Comment[GradientTime]": [
+      "MS data were acquired over 90 min.",
+      "the gradient length was 70 min."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.7 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE",
+      "mixed mode reversed phase-anion exchange (MM RP-AX) HPLC",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "83 gel slices",
+      "46 fractions",
+      "80 fractions",
+      "66 fractions",
+      "10 fractions",
+      "20 fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "A16ny"
+    ]
+  },
+  "HV_map_A34ny.raw": {
+    "Source Name": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Assay Name": [
+      "a CSF pool from 21 neurologically healthy volunteers_A34ny"
+    ],
+    "Raw Data File": [
+      "HV_map_A34ny.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Specimen]": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "21 individuals"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)",
+      "Dionex Ultimate NCS-3000 LC system (Thermo Fischer Scientific)"
+    ],
+    "Comment[IonizationType]": [
+      "nano spray Flex ion source (Thermo Fischer Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min"
+    ],
+    "Comment[GradientTime]": [
+      "MS data were acquired over 90 min.",
+      "the gradient length was 70 min."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.7 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE",
+      "mixed mode reversed phase-anion exchange (MM RP-AX) HPLC",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "83 gel slices",
+      "46 fractions",
+      "80 fractions",
+      "66 fractions",
+      "10 fractions",
+      "20 fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "A34ny"
+    ]
+  },
+  "HV_map_A12.raw": {
+    "Source Name": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Assay Name": [
+      "a CSF pool from 21 neurologically healthy volunteers_A12"
+    ],
+    "Raw Data File": [
+      "HV_map_A12.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Specimen]": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "21 individuals"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)",
+      "Dionex Ultimate NCS-3000 LC system (Thermo Fischer Scientific)"
+    ],
+    "Comment[IonizationType]": [
+      "nano spray Flex ion source (Thermo Fischer Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min"
+    ],
+    "Comment[GradientTime]": [
+      "MS data were acquired over 90 min.",
+      "the gradient length was 70 min."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.7 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE",
+      "mixed mode reversed phase-anion exchange (MM RP-AX) HPLC",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "83 gel slices",
+      "46 fractions",
+      "80 fractions",
+      "66 fractions",
+      "10 fractions",
+      "20 fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "A12"
+    ]
+  },
+  "HV_map_A18ny.raw": {
+    "Source Name": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Assay Name": [
+      "a CSF pool from 21 neurologically healthy volunteers_A18ny"
+    ],
+    "Raw Data File": [
+      "HV_map_A18ny.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Specimen]": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "21 individuals"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)",
+      "Dionex Ultimate NCS-3000 LC system (Thermo Fischer Scientific)"
+    ],
+    "Comment[IonizationType]": [
+      "nano spray Flex ion source (Thermo Fischer Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min"
+    ],
+    "Comment[GradientTime]": [
+      "MS data were acquired over 90 min.",
+      "the gradient length was 70 min."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.7 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE",
+      "mixed mode reversed phase-anion exchange (MM RP-AX) HPLC",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "83 gel slices",
+      "46 fractions",
+      "80 fractions",
+      "66 fractions",
+      "10 fractions",
+      "20 fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "A18ny"
+    ]
+  },
+  "HV_map_A31.raw": {
+    "Source Name": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Assay Name": [
+      "a CSF pool from 21 neurologically healthy volunteers_A31"
+    ],
+    "Raw Data File": [
+      "HV_map_A31.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Specimen]": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "21 individuals"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)",
+      "Dionex Ultimate NCS-3000 LC system (Thermo Fischer Scientific)"
+    ],
+    "Comment[IonizationType]": [
+      "nano spray Flex ion source (Thermo Fischer Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min"
+    ],
+    "Comment[GradientTime]": [
+      "MS data were acquired over 90 min.",
+      "the gradient length was 70 min."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.7 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE",
+      "mixed mode reversed phase-anion exchange (MM RP-AX) HPLC",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "83 gel slices",
+      "46 fractions",
+      "80 fractions",
+      "66 fractions",
+      "10 fractions",
+      "20 fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "A31"
+    ]
+  },
+  "HV_map_A22.raw": {
+    "Source Name": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Assay Name": [
+      "a CSF pool from 21 neurologically healthy volunteers_A22"
+    ],
+    "Raw Data File": [
+      "HV_map_A22.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Specimen]": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "21 individuals"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)",
+      "Dionex Ultimate NCS-3000 LC system (Thermo Fischer Scientific)"
+    ],
+    "Comment[IonizationType]": [
+      "nano spray Flex ion source (Thermo Fischer Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min"
+    ],
+    "Comment[GradientTime]": [
+      "MS data were acquired over 90 min.",
+      "the gradient length was 70 min."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.7 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE",
+      "mixed mode reversed phase-anion exchange (MM RP-AX) HPLC",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "83 gel slices",
+      "46 fractions",
+      "80 fractions",
+      "66 fractions",
+      "10 fractions",
+      "20 fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "A22"
+    ]
+  },
+  "HV_map_A36.raw": {
+    "Source Name": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Assay Name": [
+      "a CSF pool from 21 neurologically healthy volunteers_A36"
+    ],
+    "Raw Data File": [
+      "HV_map_A36.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Specimen]": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "21 individuals"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)",
+      "Dionex Ultimate NCS-3000 LC system (Thermo Fischer Scientific)"
+    ],
+    "Comment[IonizationType]": [
+      "nano spray Flex ion source (Thermo Fischer Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min"
+    ],
+    "Comment[GradientTime]": [
+      "MS data were acquired over 90 min.",
+      "the gradient length was 70 min."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.7 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE",
+      "mixed mode reversed phase-anion exchange (MM RP-AX) HPLC",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "83 gel slices",
+      "46 fractions",
+      "80 fractions",
+      "66 fractions",
+      "10 fractions",
+      "20 fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "A36"
+    ]
+  },
+  "HV_map_A20.raw": {
+    "Source Name": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Assay Name": [
+      "a CSF pool from 21 neurologically healthy volunteers_A20"
+    ],
+    "Raw Data File": [
+      "HV_map_A20.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Specimen]": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "21 individuals"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)",
+      "Dionex Ultimate NCS-3000 LC system (Thermo Fischer Scientific)"
+    ],
+    "Comment[IonizationType]": [
+      "nano spray Flex ion source (Thermo Fischer Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min"
+    ],
+    "Comment[GradientTime]": [
+      "MS data were acquired over 90 min.",
+      "the gradient length was 70 min."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.7 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE",
+      "mixed mode reversed phase-anion exchange (MM RP-AX) HPLC",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "83 gel slices",
+      "46 fractions",
+      "80 fractions",
+      "66 fractions",
+      "10 fractions",
+      "20 fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "A20"
+    ]
+  },
+  "HV_map_A28.raw": {
+    "Source Name": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Assay Name": [
+      "a CSF pool from 21 neurologically healthy volunteers_A28"
+    ],
+    "Raw Data File": [
+      "HV_map_A28.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Specimen]": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "21 individuals"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)",
+      "Dionex Ultimate NCS-3000 LC system (Thermo Fischer Scientific)"
+    ],
+    "Comment[IonizationType]": [
+      "nano spray Flex ion source (Thermo Fischer Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min"
+    ],
+    "Comment[GradientTime]": [
+      "MS data were acquired over 90 min.",
+      "the gradient length was 70 min."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.7 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE",
+      "mixed mode reversed phase-anion exchange (MM RP-AX) HPLC",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "83 gel slices",
+      "46 fractions",
+      "80 fractions",
+      "66 fractions",
+      "10 fractions",
+      "20 fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "A28"
+    ]
+  },
+  "HV_map_A25.raw": {
+    "Source Name": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Assay Name": [
+      "a CSF pool from 21 neurologically healthy volunteers_A25"
+    ],
+    "Raw Data File": [
+      "HV_map_A25.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Specimen]": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "21 individuals"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)",
+      "Dionex Ultimate NCS-3000 LC system (Thermo Fischer Scientific)"
+    ],
+    "Comment[IonizationType]": [
+      "nano spray Flex ion source (Thermo Fischer Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min"
+    ],
+    "Comment[GradientTime]": [
+      "MS data were acquired over 90 min.",
+      "the gradient length was 70 min."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.7 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE",
+      "mixed mode reversed phase-anion exchange (MM RP-AX) HPLC",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "83 gel slices",
+      "46 fractions",
+      "80 fractions",
+      "66 fractions",
+      "10 fractions",
+      "20 fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "A25"
+    ]
+  },
+  "HV_map_A19.raw": {
+    "Source Name": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Assay Name": [
+      "a CSF pool from 21 neurologically healthy volunteers_A19"
+    ],
+    "Raw Data File": [
+      "HV_map_A19.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Specimen]": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "21 individuals"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)",
+      "Dionex Ultimate NCS-3000 LC system (Thermo Fischer Scientific)"
+    ],
+    "Comment[IonizationType]": [
+      "nano spray Flex ion source (Thermo Fischer Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min"
+    ],
+    "Comment[GradientTime]": [
+      "MS data were acquired over 90 min.",
+      "the gradient length was 70 min."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.7 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE",
+      "mixed mode reversed phase-anion exchange (MM RP-AX) HPLC",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "83 gel slices",
+      "46 fractions",
+      "80 fractions",
+      "66 fractions",
+      "10 fractions",
+      "20 fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "A19"
+    ]
+  },
+  "HV_map_A32.raw": {
+    "Source Name": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Assay Name": [
+      "a CSF pool from 21 neurologically healthy volunteers_A32"
+    ],
+    "Raw Data File": [
+      "HV_map_A32.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Specimen]": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "21 individuals"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)",
+      "Dionex Ultimate NCS-3000 LC system (Thermo Fischer Scientific)"
+    ],
+    "Comment[IonizationType]": [
+      "nano spray Flex ion source (Thermo Fischer Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min"
+    ],
+    "Comment[GradientTime]": [
+      "MS data were acquired over 90 min.",
+      "the gradient length was 70 min."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.7 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE",
+      "mixed mode reversed phase-anion exchange (MM RP-AX) HPLC",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "83 gel slices",
+      "46 fractions",
+      "80 fractions",
+      "66 fractions",
+      "10 fractions",
+      "20 fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "A32"
+    ]
+  },
+  "HV_map_A24.raw": {
+    "Source Name": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Assay Name": [
+      "a CSF pool from 21 neurologically healthy volunteers_A24"
+    ],
+    "Raw Data File": [
+      "HV_map_A24.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Specimen]": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "21 individuals"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)",
+      "Dionex Ultimate NCS-3000 LC system (Thermo Fischer Scientific)"
+    ],
+    "Comment[IonizationType]": [
+      "nano spray Flex ion source (Thermo Fischer Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min"
+    ],
+    "Comment[GradientTime]": [
+      "MS data were acquired over 90 min.",
+      "the gradient length was 70 min."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.7 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE",
+      "mixed mode reversed phase-anion exchange (MM RP-AX) HPLC",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "83 gel slices",
+      "46 fractions",
+      "80 fractions",
+      "66 fractions",
+      "10 fractions",
+      "20 fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "A24"
+    ]
+  },
+  "HV_map_A5.raw": {
+    "Source Name": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Assay Name": [
+      "a CSF pool from 21 neurologically healthy volunteers_A5"
+    ],
+    "Raw Data File": [
+      "HV_map_A5.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Specimen]": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "21 individuals"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)",
+      "Dionex Ultimate NCS-3000 LC system (Thermo Fischer Scientific)"
+    ],
+    "Comment[IonizationType]": [
+      "nano spray Flex ion source (Thermo Fischer Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min"
+    ],
+    "Comment[GradientTime]": [
+      "MS data were acquired over 90 min.",
+      "the gradient length was 70 min."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.7 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE",
+      "mixed mode reversed phase-anion exchange (MM RP-AX) HPLC",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "83 gel slices",
+      "46 fractions",
+      "80 fractions",
+      "66 fractions",
+      "10 fractions",
+      "20 fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "A5"
+    ]
+  },
+  "HV_map_A11.raw": {
+    "Source Name": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Assay Name": [
+      "a CSF pool from 21 neurologically healthy volunteers_A11"
+    ],
+    "Raw Data File": [
+      "HV_map_A11.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Specimen]": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "21 individuals"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)",
+      "Dionex Ultimate NCS-3000 LC system (Thermo Fischer Scientific)"
+    ],
+    "Comment[IonizationType]": [
+      "nano spray Flex ion source (Thermo Fischer Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min"
+    ],
+    "Comment[GradientTime]": [
+      "MS data were acquired over 90 min.",
+      "the gradient length was 70 min."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.7 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE",
+      "mixed mode reversed phase-anion exchange (MM RP-AX) HPLC",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "83 gel slices",
+      "46 fractions",
+      "80 fractions",
+      "66 fractions",
+      "10 fractions",
+      "20 fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "A11"
+    ]
+  },
+  "HV_map_A21.raw": {
+    "Source Name": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Assay Name": [
+      "a CSF pool from 21 neurologically healthy volunteers_A21"
+    ],
+    "Raw Data File": [
+      "HV_map_A21.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Specimen]": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "21 individuals"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)",
+      "Dionex Ultimate NCS-3000 LC system (Thermo Fischer Scientific)"
+    ],
+    "Comment[IonizationType]": [
+      "nano spray Flex ion source (Thermo Fischer Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min"
+    ],
+    "Comment[GradientTime]": [
+      "MS data were acquired over 90 min.",
+      "the gradient length was 70 min."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.7 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE",
+      "mixed mode reversed phase-anion exchange (MM RP-AX) HPLC",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "83 gel slices",
+      "46 fractions",
+      "80 fractions",
+      "66 fractions",
+      "10 fractions",
+      "20 fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "A21"
+    ]
+  },
+  "HV_map_A8.raw": {
+    "Source Name": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Assay Name": [
+      "a CSF pool from 21 neurologically healthy volunteers_A8"
+    ],
+    "Raw Data File": [
+      "HV_map_A8.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Specimen]": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "21 individuals"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)",
+      "Dionex Ultimate NCS-3000 LC system (Thermo Fischer Scientific)"
+    ],
+    "Comment[IonizationType]": [
+      "nano spray Flex ion source (Thermo Fischer Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min"
+    ],
+    "Comment[GradientTime]": [
+      "MS data were acquired over 90 min.",
+      "the gradient length was 70 min."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.7 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE",
+      "mixed mode reversed phase-anion exchange (MM RP-AX) HPLC",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "83 gel slices",
+      "46 fractions",
+      "80 fractions",
+      "66 fractions",
+      "10 fractions",
+      "20 fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "A8"
+    ]
+  },
+  "HV_map_A3.raw": {
+    "Source Name": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Assay Name": [
+      "a CSF pool from 21 neurologically healthy volunteers_A3"
+    ],
+    "Raw Data File": [
+      "HV_map_A3.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Specimen]": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "21 individuals"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)",
+      "Dionex Ultimate NCS-3000 LC system (Thermo Fischer Scientific)"
+    ],
+    "Comment[IonizationType]": [
+      "nano spray Flex ion source (Thermo Fischer Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min"
+    ],
+    "Comment[GradientTime]": [
+      "MS data were acquired over 90 min.",
+      "the gradient length was 70 min."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.7 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE",
+      "mixed mode reversed phase-anion exchange (MM RP-AX) HPLC",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "83 gel slices",
+      "46 fractions",
+      "80 fractions",
+      "66 fractions",
+      "10 fractions",
+      "20 fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "A3"
+    ]
+  },
+  "HV_map_A14.raw": {
+    "Source Name": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Assay Name": [
+      "a CSF pool from 21 neurologically healthy volunteers_A14"
+    ],
+    "Raw Data File": [
+      "HV_map_A14.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Specimen]": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "21 individuals"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)",
+      "Dionex Ultimate NCS-3000 LC system (Thermo Fischer Scientific)"
+    ],
+    "Comment[IonizationType]": [
+      "nano spray Flex ion source (Thermo Fischer Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min"
+    ],
+    "Comment[GradientTime]": [
+      "MS data were acquired over 90 min.",
+      "the gradient length was 70 min."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.7 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE",
+      "mixed mode reversed phase-anion exchange (MM RP-AX) HPLC",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "83 gel slices",
+      "46 fractions",
+      "80 fractions",
+      "66 fractions",
+      "10 fractions",
+      "20 fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "A14"
+    ]
+  },
+  "HV_map_A26.raw": {
+    "Source Name": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Assay Name": [
+      "a CSF pool from 21 neurologically healthy volunteers_A26"
+    ],
+    "Raw Data File": [
+      "HV_map_A26.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Specimen]": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "21 individuals"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)",
+      "Dionex Ultimate NCS-3000 LC system (Thermo Fischer Scientific)"
+    ],
+    "Comment[IonizationType]": [
+      "nano spray Flex ion source (Thermo Fischer Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min"
+    ],
+    "Comment[GradientTime]": [
+      "MS data were acquired over 90 min.",
+      "the gradient length was 70 min."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.7 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE",
+      "mixed mode reversed phase-anion exchange (MM RP-AX) HPLC",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "83 gel slices",
+      "46 fractions",
+      "80 fractions",
+      "66 fractions",
+      "10 fractions",
+      "20 fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "A26"
+    ]
+  },
+  "HV_map_A30.raw": {
+    "Source Name": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Assay Name": [
+      "a CSF pool from 21 neurologically healthy volunteers_A30"
+    ],
+    "Raw Data File": [
+      "HV_map_A30.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Specimen]": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "21 individuals"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)",
+      "Dionex Ultimate NCS-3000 LC system (Thermo Fischer Scientific)"
+    ],
+    "Comment[IonizationType]": [
+      "nano spray Flex ion source (Thermo Fischer Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min"
+    ],
+    "Comment[GradientTime]": [
+      "MS data were acquired over 90 min.",
+      "the gradient length was 70 min."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.7 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE",
+      "mixed mode reversed phase-anion exchange (MM RP-AX) HPLC",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "83 gel slices",
+      "46 fractions",
+      "80 fractions",
+      "66 fractions",
+      "10 fractions",
+      "20 fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "A30"
+    ]
+  },
+  "HV_map_A27.raw": {
+    "Source Name": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Assay Name": [
+      "a CSF pool from 21 neurologically healthy volunteers_A27"
+    ],
+    "Raw Data File": [
+      "HV_map_A27.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Specimen]": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "21 individuals"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)",
+      "Dionex Ultimate NCS-3000 LC system (Thermo Fischer Scientific)"
+    ],
+    "Comment[IonizationType]": [
+      "nano spray Flex ion source (Thermo Fischer Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min"
+    ],
+    "Comment[GradientTime]": [
+      "MS data were acquired over 90 min.",
+      "the gradient length was 70 min."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.7 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE",
+      "mixed mode reversed phase-anion exchange (MM RP-AX) HPLC",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "83 gel slices",
+      "46 fractions",
+      "80 fractions",
+      "66 fractions",
+      "10 fractions",
+      "20 fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "A27"
+    ]
+  },
+  "HV_map_A10.raw": {
+    "Source Name": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Assay Name": [
+      "a CSF pool from 21 neurologically healthy volunteers_A10"
+    ],
+    "Raw Data File": [
+      "HV_map_A10.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Specimen]": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "21 individuals"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)",
+      "Dionex Ultimate NCS-3000 LC system (Thermo Fischer Scientific)"
+    ],
+    "Comment[IonizationType]": [
+      "nano spray Flex ion source (Thermo Fischer Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min"
+    ],
+    "Comment[GradientTime]": [
+      "MS data were acquired over 90 min.",
+      "the gradient length was 70 min."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.7 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE",
+      "mixed mode reversed phase-anion exchange (MM RP-AX) HPLC",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "83 gel slices",
+      "46 fractions",
+      "80 fractions",
+      "66 fractions",
+      "10 fractions",
+      "20 fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "A10"
+    ]
+  },
+  "HV_map_A6.raw": {
+    "Source Name": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Assay Name": [
+      "a CSF pool from 21 neurologically healthy volunteers_A6"
+    ],
+    "Raw Data File": [
+      "HV_map_A6.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Specimen]": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "21 individuals"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)",
+      "Dionex Ultimate NCS-3000 LC system (Thermo Fischer Scientific)"
+    ],
+    "Comment[IonizationType]": [
+      "nano spray Flex ion source (Thermo Fischer Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min"
+    ],
+    "Comment[GradientTime]": [
+      "MS data were acquired over 90 min.",
+      "the gradient length was 70 min."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.7 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE",
+      "mixed mode reversed phase-anion exchange (MM RP-AX) HPLC",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "83 gel slices",
+      "46 fractions",
+      "80 fractions",
+      "66 fractions",
+      "10 fractions",
+      "20 fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "A6"
+    ]
+  },
+  "HV_map_A35.raw": {
+    "Source Name": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Assay Name": [
+      "a CSF pool from 21 neurologically healthy volunteers_A35"
+    ],
+    "Raw Data File": [
+      "HV_map_A35.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Specimen]": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "21 individuals"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)",
+      "Dionex Ultimate NCS-3000 LC system (Thermo Fischer Scientific)"
+    ],
+    "Comment[IonizationType]": [
+      "nano spray Flex ion source (Thermo Fischer Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min"
+    ],
+    "Comment[GradientTime]": [
+      "MS data were acquired over 90 min.",
+      "the gradient length was 70 min."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.7 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE",
+      "mixed mode reversed phase-anion exchange (MM RP-AX) HPLC",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "83 gel slices",
+      "46 fractions",
+      "80 fractions",
+      "66 fractions",
+      "10 fractions",
+      "20 fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "A35"
+    ]
+  },
+  "HV_map_A17conc.raw": {
+    "Source Name": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Assay Name": [
+      "a CSF pool from 21 neurologically healthy volunteers_A17conc"
+    ],
+    "Raw Data File": [
+      "HV_map_A17conc.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Specimen]": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "21 individuals"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)",
+      "Dionex Ultimate NCS-3000 LC system (Thermo Fischer Scientific)"
+    ],
+    "Comment[IonizationType]": [
+      "nano spray Flex ion source (Thermo Fischer Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min"
+    ],
+    "Comment[GradientTime]": [
+      "MS data were acquired over 90 min.",
+      "the gradient length was 70 min."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.7 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE",
+      "mixed mode reversed phase-anion exchange (MM RP-AX) HPLC",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "83 gel slices",
+      "46 fractions",
+      "80 fractions",
+      "66 fractions",
+      "10 fractions",
+      "20 fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "A17conc"
+    ]
+  },
+  "HV_map_A4.raw": {
+    "Source Name": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Assay Name": [
+      "a CSF pool from 21 neurologically healthy volunteers_A4"
+    ],
+    "Raw Data File": [
+      "HV_map_A4.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Specimen]": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "21 individuals"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)",
+      "Dionex Ultimate NCS-3000 LC system (Thermo Fischer Scientific)"
+    ],
+    "Comment[IonizationType]": [
+      "nano spray Flex ion source (Thermo Fischer Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min"
+    ],
+    "Comment[GradientTime]": [
+      "MS data were acquired over 90 min.",
+      "the gradient length was 70 min."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.7 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE",
+      "mixed mode reversed phase-anion exchange (MM RP-AX) HPLC",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "83 gel slices",
+      "46 fractions",
+      "80 fractions",
+      "66 fractions",
+      "10 fractions",
+      "20 fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "A4"
+    ]
+  },
+  "HV_map_A37.raw": {
+    "Source Name": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Assay Name": [
+      "a CSF pool from 21 neurologically healthy volunteers_A37"
+    ],
+    "Raw Data File": [
+      "HV_map_A37.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Specimen]": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "21 individuals"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)",
+      "Dionex Ultimate NCS-3000 LC system (Thermo Fischer Scientific)"
+    ],
+    "Comment[IonizationType]": [
+      "nano spray Flex ion source (Thermo Fischer Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min"
+    ],
+    "Comment[GradientTime]": [
+      "MS data were acquired over 90 min.",
+      "the gradient length was 70 min."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.7 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE",
+      "mixed mode reversed phase-anion exchange (MM RP-AX) HPLC",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "83 gel slices",
+      "46 fractions",
+      "80 fractions",
+      "66 fractions",
+      "10 fractions",
+      "20 fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "A37"
+    ]
+  },
+  "HV_map_A29.raw": {
+    "Source Name": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Assay Name": [
+      "a CSF pool from 21 neurologically healthy volunteers_A29"
+    ],
+    "Raw Data File": [
+      "HV_map_A29.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Specimen]": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "21 individuals"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)",
+      "Dionex Ultimate NCS-3000 LC system (Thermo Fischer Scientific)"
+    ],
+    "Comment[IonizationType]": [
+      "nano spray Flex ion source (Thermo Fischer Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min"
+    ],
+    "Comment[GradientTime]": [
+      "MS data were acquired over 90 min.",
+      "the gradient length was 70 min."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.7 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE",
+      "mixed mode reversed phase-anion exchange (MM RP-AX) HPLC",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "83 gel slices",
+      "46 fractions",
+      "80 fractions",
+      "66 fractions",
+      "10 fractions",
+      "20 fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "A29"
+    ]
+  },
+  "HV_map_A7.raw": {
+    "Source Name": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Assay Name": [
+      "a CSF pool from 21 neurologically healthy volunteers_A7"
+    ],
+    "Raw Data File": [
+      "HV_map_A7.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Specimen]": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "21 individuals"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)",
+      "Dionex Ultimate NCS-3000 LC system (Thermo Fischer Scientific)"
+    ],
+    "Comment[IonizationType]": [
+      "nano spray Flex ion source (Thermo Fischer Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min"
+    ],
+    "Comment[GradientTime]": [
+      "MS data were acquired over 90 min.",
+      "the gradient length was 70 min."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.7 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE",
+      "mixed mode reversed phase-anion exchange (MM RP-AX) HPLC",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "83 gel slices",
+      "46 fractions",
+      "80 fractions",
+      "66 fractions",
+      "10 fractions",
+      "20 fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "A7"
+    ]
+  },
+  "HV_map_A23.raw": {
+    "Source Name": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Assay Name": [
+      "a CSF pool from 21 neurologically healthy volunteers_A23"
+    ],
+    "Raw Data File": [
+      "HV_map_A23.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Specimen]": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "21 individuals"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)",
+      "Dionex Ultimate NCS-3000 LC system (Thermo Fischer Scientific)"
+    ],
+    "Comment[IonizationType]": [
+      "nano spray Flex ion source (Thermo Fischer Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min"
+    ],
+    "Comment[GradientTime]": [
+      "MS data were acquired over 90 min.",
+      "the gradient length was 70 min."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.7 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE",
+      "mixed mode reversed phase-anion exchange (MM RP-AX) HPLC",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "83 gel slices",
+      "46 fractions",
+      "80 fractions",
+      "66 fractions",
+      "10 fractions",
+      "20 fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "A23"
+    ]
+  },
+  "HV_map_A13ny.raw": {
+    "Source Name": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Assay Name": [
+      "a CSF pool from 21 neurologically healthy volunteers_A13ny"
+    ],
+    "Raw Data File": [
+      "HV_map_A13ny.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Specimen]": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "21 individuals"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)",
+      "Dionex Ultimate NCS-3000 LC system (Thermo Fischer Scientific)"
+    ],
+    "Comment[IonizationType]": [
+      "nano spray Flex ion source (Thermo Fischer Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min"
+    ],
+    "Comment[GradientTime]": [
+      "MS data were acquired over 90 min.",
+      "the gradient length was 70 min."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.7 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE",
+      "mixed mode reversed phase-anion exchange (MM RP-AX) HPLC",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "83 gel slices",
+      "46 fractions",
+      "80 fractions",
+      "66 fractions",
+      "10 fractions",
+      "20 fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "A13ny"
+    ]
+  },
+  "HV_map_A9.raw": {
+    "Source Name": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Assay Name": [
+      "a CSF pool from 21 neurologically healthy volunteers_A9"
+    ],
+    "Raw Data File": [
+      "HV_map_A9.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Organism]": [
+      "human cerebrospinal fluid (CSF)"
+    ],
+    "Characteristics[Specimen]": [
+      "a CSF pool from 21 neurologically healthy volunteers"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm DTT",
+      "Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamine (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "21 individuals"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)",
+      "Dionex Ultimate NCS-3000 LC system (Thermo Fischer Scientific)"
+    ],
+    "Comment[IonizationType]": [
+      "nano spray Flex ion source (Thermo Fischer Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 35%"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 280 nl/min",
+      "The flow was always 50 μl/min"
+    ],
+    "Comment[GradientTime]": [
+      "MS data were acquired over 90 min.",
+      "the gradient length was 70 min."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.7 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2"
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE",
+      "mixed mode reversed phase-anion exchange (MM RP-AX) HPLC",
+      "solid-phase extraction of N-linked glycopeptides (SPEG)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "83 gel slices",
+      "46 fractions",
+      "80 fractions",
+      "66 fractions",
+      "10 fractions",
+      "20 fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "A9"
+    ]
+  }
+}

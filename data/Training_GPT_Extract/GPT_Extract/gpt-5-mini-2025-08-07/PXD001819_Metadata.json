@@ -1,0 +1,1676 @@
+{
+  "UPS1_12500amol_R1.raw": {
+    "Source Name": [
+      "UPS1_12500amol"
+    ],
+    "Assay Name": [
+      "UPS1_12500amol_R1"
+    ],
+    "Raw Data File": [
+      "UPS1_12500amol_R1.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "yeast cell lysate samples"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "an equimolar mixture of 48 recombinant proteins (Sigma UPS1)"
+    ],
+    "Characteristics[Organism]": [
+      "yeast"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "The 9 different samples"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in triplicate"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "FactorValue[Treatment]": [
+      "12500amol"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)"
+    ],
+    "Comment[Separation]": [
+      "nanoRS UHPLC system (Dionex, Amsterdam, The Netherlands)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear trap (LTQ)"
+    ],
+    "Comment[GradientTime]": [
+      "5–25% gradient during 75 min; 25–50% during 30 min; 50–100% during 10 min."
+    ]
+  },
+  "UPS1_2500amol_R3.raw": {
+    "Source Name": [
+      "UPS1_2500amol"
+    ],
+    "Assay Name": [
+      "UPS1_2500amol_R3"
+    ],
+    "Raw Data File": [
+      "UPS1_2500amol_R3.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "yeast cell lysate samples"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "an equimolar mixture of 48 recombinant proteins (Sigma UPS1)"
+    ],
+    "Characteristics[Organism]": [
+      "yeast"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "The 9 different samples"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in triplicate"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R3"
+    ],
+    "FactorValue[Treatment]": [
+      "2500amol"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)"
+    ],
+    "Comment[Separation]": [
+      "nanoRS UHPLC system (Dionex, Amsterdam, The Netherlands)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear trap (LTQ)"
+    ],
+    "Comment[GradientTime]": [
+      "5–25% gradient during 75 min; 25–50% during 30 min; 50–100% during 10 min."
+    ]
+  },
+  "UPS1_25000amol_R1.raw": {
+    "Source Name": [
+      "UPS1_25000amol"
+    ],
+    "Assay Name": [
+      "UPS1_25000amol_R1"
+    ],
+    "Raw Data File": [
+      "UPS1_25000amol_R1.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "yeast cell lysate samples"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "an equimolar mixture of 48 recombinant proteins (Sigma UPS1)"
+    ],
+    "Characteristics[Organism]": [
+      "yeast"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "The 9 different samples"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in triplicate"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "FactorValue[Treatment]": [
+      "25000amol"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)"
+    ],
+    "Comment[Separation]": [
+      "nanoRS UHPLC system (Dionex, Amsterdam, The Netherlands)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear trap (LTQ)"
+    ],
+    "Comment[GradientTime]": [
+      "5–25% gradient during 75 min; 25–50% during 30 min; 50–100% during 10 min."
+    ]
+  },
+  "UPS1_50amol_R2.raw": {
+    "Source Name": [
+      "UPS1_50amol"
+    ],
+    "Assay Name": [
+      "UPS1_50amol_R2"
+    ],
+    "Raw Data File": [
+      "UPS1_50amol_R2.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "yeast cell lysate samples"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "an equimolar mixture of 48 recombinant proteins (Sigma UPS1)"
+    ],
+    "Characteristics[Organism]": [
+      "yeast"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "The 9 different samples"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in triplicate"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R2"
+    ],
+    "FactorValue[Treatment]": [
+      "50amol"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)"
+    ],
+    "Comment[Separation]": [
+      "nanoRS UHPLC system (Dionex, Amsterdam, The Netherlands)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear trap (LTQ)"
+    ],
+    "Comment[GradientTime]": [
+      "5–25% gradient during 75 min; 25–50% during 30 min; 50–100% during 10 min."
+    ]
+  },
+  "UPS1_12500amol_R3.raw": {
+    "Source Name": [
+      "UPS1_12500amol"
+    ],
+    "Assay Name": [
+      "UPS1_12500amol_R3"
+    ],
+    "Raw Data File": [
+      "UPS1_12500amol_R3.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "yeast cell lysate samples"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "an equimolar mixture of 48 recombinant proteins (Sigma UPS1)"
+    ],
+    "Characteristics[Organism]": [
+      "yeast"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "The 9 different samples"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in triplicate"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R3"
+    ],
+    "FactorValue[Treatment]": [
+      "12500amol"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)"
+    ],
+    "Comment[Separation]": [
+      "nanoRS UHPLC system (Dionex, Amsterdam, The Netherlands)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear trap (LTQ)"
+    ],
+    "Comment[GradientTime]": [
+      "5–25% gradient during 75 min; 25–50% during 30 min; 50–100% during 10 min."
+    ]
+  },
+  "UPS1_125amol_R1.raw": {
+    "Source Name": [
+      "UPS1_125amol"
+    ],
+    "Assay Name": [
+      "UPS1_125amol_R1"
+    ],
+    "Raw Data File": [
+      "UPS1_125amol_R1.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "yeast cell lysate samples"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "an equimolar mixture of 48 recombinant proteins (Sigma UPS1)"
+    ],
+    "Characteristics[Organism]": [
+      "yeast"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "The 9 different samples"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in triplicate"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "FactorValue[Treatment]": [
+      "125amol"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)"
+    ],
+    "Comment[Separation]": [
+      "nanoRS UHPLC system (Dionex, Amsterdam, The Netherlands)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear trap (LTQ)"
+    ],
+    "Comment[GradientTime]": [
+      "5–25% gradient during 75 min; 25–50% during 30 min; 50–100% during 10 min."
+    ]
+  },
+  "UPS1_2500amol_R2.raw": {
+    "Source Name": [
+      "UPS1_2500amol"
+    ],
+    "Assay Name": [
+      "UPS1_2500amol_R2"
+    ],
+    "Raw Data File": [
+      "UPS1_2500amol_R2.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "yeast cell lysate samples"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "an equimolar mixture of 48 recombinant proteins (Sigma UPS1)"
+    ],
+    "Characteristics[Organism]": [
+      "yeast"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "The 9 different samples"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in triplicate"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R2"
+    ],
+    "FactorValue[Treatment]": [
+      "2500amol"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)"
+    ],
+    "Comment[Separation]": [
+      "nanoRS UHPLC system (Dionex, Amsterdam, The Netherlands)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear trap (LTQ)"
+    ],
+    "Comment[GradientTime]": [
+      "5–25% gradient during 75 min; 25–50% during 30 min; 50–100% during 10 min."
+    ]
+  },
+  "UPS1_500amol_R2.raw": {
+    "Source Name": [
+      "UPS1_500amol"
+    ],
+    "Assay Name": [
+      "UPS1_500amol_R2"
+    ],
+    "Raw Data File": [
+      "UPS1_500amol_R2.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "yeast cell lysate samples"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "an equimolar mixture of 48 recombinant proteins (Sigma UPS1)"
+    ],
+    "Characteristics[Organism]": [
+      "yeast"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "The 9 different samples"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in triplicate"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R2"
+    ],
+    "FactorValue[Treatment]": [
+      "500amol"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)"
+    ],
+    "Comment[Separation]": [
+      "nanoRS UHPLC system (Dionex, Amsterdam, The Netherlands)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear trap (LTQ)"
+    ],
+    "Comment[GradientTime]": [
+      "5–25% gradient during 75 min; 25–50% during 30 min; 50–100% during 10 min."
+    ]
+  },
+  "UPS1_50amol_R3.raw": {
+    "Source Name": [
+      "UPS1_50amol"
+    ],
+    "Assay Name": [
+      "UPS1_50amol_R3"
+    ],
+    "Raw Data File": [
+      "UPS1_50amol_R3.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "yeast cell lysate samples"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "an equimolar mixture of 48 recombinant proteins (Sigma UPS1)"
+    ],
+    "Characteristics[Organism]": [
+      "yeast"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "The 9 different samples"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in triplicate"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R3"
+    ],
+    "FactorValue[Treatment]": [
+      "50amol"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)"
+    ],
+    "Comment[Separation]": [
+      "nanoRS UHPLC system (Dionex, Amsterdam, The Netherlands)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear trap (LTQ)"
+    ],
+    "Comment[GradientTime]": [
+      "5–25% gradient during 75 min; 25–50% during 30 min; 50–100% during 10 min."
+    ]
+  },
+  "UPS1_12500amol_R2.raw": {
+    "Source Name": [
+      "UPS1_12500amol"
+    ],
+    "Assay Name": [
+      "UPS1_12500amol_R2"
+    ],
+    "Raw Data File": [
+      "UPS1_12500amol_R2.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "yeast cell lysate samples"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "an equimolar mixture of 48 recombinant proteins (Sigma UPS1)"
+    ],
+    "Characteristics[Organism]": [
+      "yeast"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "The 9 different samples"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in triplicate"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R2"
+    ],
+    "FactorValue[Treatment]": [
+      "12500amol"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)"
+    ],
+    "Comment[Separation]": [
+      "nanoRS UHPLC system (Dionex, Amsterdam, The Netherlands)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear trap (LTQ)"
+    ],
+    "Comment[GradientTime]": [
+      "5–25% gradient during 75 min; 25–50% during 30 min; 50–100% during 10 min."
+    ]
+  },
+  "UPS1_50000amol_R3.raw": {
+    "Source Name": [
+      "UPS1_50000amol"
+    ],
+    "Assay Name": [
+      "UPS1_50000amol_R3"
+    ],
+    "Raw Data File": [
+      "UPS1_50000amol_R3.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "yeast cell lysate samples"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "an equimolar mixture of 48 recombinant proteins (Sigma UPS1)"
+    ],
+    "Characteristics[Organism]": [
+      "yeast"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "The 9 different samples"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in triplicate"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R3"
+    ],
+    "FactorValue[Treatment]": [
+      "50000amol"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)"
+    ],
+    "Comment[Separation]": [
+      "nanoRS UHPLC system (Dionex, Amsterdam, The Netherlands)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear trap (LTQ)"
+    ],
+    "Comment[GradientTime]": [
+      "5–25% gradient during 75 min; 25–50% during 30 min; 50–100% during 10 min."
+    ]
+  },
+  "UPS1_250amol_R1.raw": {
+    "Source Name": [
+      "UPS1_250amol"
+    ],
+    "Assay Name": [
+      "UPS1_250amol_R1"
+    ],
+    "Raw Data File": [
+      "UPS1_250amol_R1.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "yeast cell lysate samples"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "an equimolar mixture of 48 recombinant proteins (Sigma UPS1)"
+    ],
+    "Characteristics[Organism]": [
+      "yeast"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "The 9 different samples"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in triplicate"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "FactorValue[Treatment]": [
+      "250amol"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)"
+    ],
+    "Comment[Separation]": [
+      "nanoRS UHPLC system (Dionex, Amsterdam, The Netherlands)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear trap (LTQ)"
+    ],
+    "Comment[GradientTime]": [
+      "5–25% gradient during 75 min; 25–50% during 30 min; 50–100% during 10 min."
+    ]
+  },
+  "UPS1_125amol_R3.raw": {
+    "Source Name": [
+      "UPS1_125amol"
+    ],
+    "Assay Name": [
+      "UPS1_125amol_R3"
+    ],
+    "Raw Data File": [
+      "UPS1_125amol_R3.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "yeast cell lysate samples"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "an equimolar mixture of 48 recombinant proteins (Sigma UPS1)"
+    ],
+    "Characteristics[Organism]": [
+      "yeast"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "The 9 different samples"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in triplicate"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R3"
+    ],
+    "FactorValue[Treatment]": [
+      "125amol"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)"
+    ],
+    "Comment[Separation]": [
+      "nanoRS UHPLC system (Dionex, Amsterdam, The Netherlands)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear trap (LTQ)"
+    ],
+    "Comment[GradientTime]": [
+      "5–25% gradient during 75 min; 25–50% during 30 min; 50–100% during 10 min."
+    ]
+  },
+  "UPS1_250amol_R3.raw": {
+    "Source Name": [
+      "UPS1_250amol"
+    ],
+    "Assay Name": [
+      "UPS1_250amol_R3"
+    ],
+    "Raw Data File": [
+      "UPS1_250amol_R3.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "yeast cell lysate samples"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "an equimolar mixture of 48 recombinant proteins (Sigma UPS1)"
+    ],
+    "Characteristics[Organism]": [
+      "yeast"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "The 9 different samples"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in triplicate"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R3"
+    ],
+    "FactorValue[Treatment]": [
+      "250amol"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)"
+    ],
+    "Comment[Separation]": [
+      "nanoRS UHPLC system (Dionex, Amsterdam, The Netherlands)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear trap (LTQ)"
+    ],
+    "Comment[GradientTime]": [
+      "5–25% gradient during 75 min; 25–50% during 30 min; 50–100% during 10 min."
+    ]
+  },
+  "UPS1_50000amol_R2.raw": {
+    "Source Name": [
+      "UPS1_50000amol"
+    ],
+    "Assay Name": [
+      "UPS1_50000amol_R2"
+    ],
+    "Raw Data File": [
+      "UPS1_50000amol_R2.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "yeast cell lysate samples"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "an equimolar mixture of 48 recombinant proteins (Sigma UPS1)"
+    ],
+    "Characteristics[Organism]": [
+      "yeast"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "The 9 different samples"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in triplicate"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R2"
+    ],
+    "FactorValue[Treatment]": [
+      "50000amol"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)"
+    ],
+    "Comment[Separation]": [
+      "nanoRS UHPLC system (Dionex, Amsterdam, The Netherlands)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear trap (LTQ)"
+    ],
+    "Comment[GradientTime]": [
+      "5–25% gradient during 75 min; 25–50% during 30 min; 50–100% during 10 min."
+    ]
+  },
+  "UPS1_25000amol_R2.raw": {
+    "Source Name": [
+      "UPS1_25000amol"
+    ],
+    "Assay Name": [
+      "UPS1_25000amol_R2"
+    ],
+    "Raw Data File": [
+      "UPS1_25000amol_R2.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "yeast cell lysate samples"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "an equimolar mixture of 48 recombinant proteins (Sigma UPS1)"
+    ],
+    "Characteristics[Organism]": [
+      "yeast"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "The 9 different samples"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in triplicate"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R2"
+    ],
+    "FactorValue[Treatment]": [
+      "25000amol"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)"
+    ],
+    "Comment[Separation]": [
+      "nanoRS UHPLC system (Dionex, Amsterdam, The Netherlands)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear trap (LTQ)"
+    ],
+    "Comment[GradientTime]": [
+      "5–25% gradient during 75 min; 25–50% during 30 min; 50–100% during 10 min."
+    ]
+  },
+  "UPS1_250amol_R2.raw": {
+    "Source Name": [
+      "UPS1_250amol"
+    ],
+    "Assay Name": [
+      "UPS1_250amol_R2"
+    ],
+    "Raw Data File": [
+      "UPS1_250amol_R2.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "yeast cell lysate samples"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "an equimolar mixture of 48 recombinant proteins (Sigma UPS1)"
+    ],
+    "Characteristics[Organism]": [
+      "yeast"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "The 9 different samples"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in triplicate"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R2"
+    ],
+    "FactorValue[Treatment]": [
+      "250amol"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)"
+    ],
+    "Comment[Separation]": [
+      "nanoRS UHPLC system (Dionex, Amsterdam, The Netherlands)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear trap (LTQ)"
+    ],
+    "Comment[GradientTime]": [
+      "5–25% gradient during 75 min; 25–50% during 30 min; 50–100% during 10 min."
+    ]
+  },
+  "UPS1_25000amol_R3.raw": {
+    "Source Name": [
+      "UPS1_25000amol"
+    ],
+    "Assay Name": [
+      "UPS1_25000amol_R3"
+    ],
+    "Raw Data File": [
+      "UPS1_25000amol_R3.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "yeast cell lysate samples"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "an equimolar mixture of 48 recombinant proteins (Sigma UPS1)"
+    ],
+    "Characteristics[Organism]": [
+      "yeast"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "The 9 different samples"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in triplicate"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R3"
+    ],
+    "FactorValue[Treatment]": [
+      "25000amol"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)"
+    ],
+    "Comment[Separation]": [
+      "nanoRS UHPLC system (Dionex, Amsterdam, The Netherlands)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear trap (LTQ)"
+    ],
+    "Comment[GradientTime]": [
+      "5–25% gradient during 75 min; 25–50% during 30 min; 50–100% during 10 min."
+    ]
+  },
+  "UPS1_500amol_R3.raw": {
+    "Source Name": [
+      "UPS1_500amol"
+    ],
+    "Assay Name": [
+      "UPS1_500amol_R3"
+    ],
+    "Raw Data File": [
+      "UPS1_500amol_R3.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "yeast cell lysate samples"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "an equimolar mixture of 48 recombinant proteins (Sigma UPS1)"
+    ],
+    "Characteristics[Organism]": [
+      "yeast"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "The 9 different samples"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in triplicate"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R3"
+    ],
+    "FactorValue[Treatment]": [
+      "500amol"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)"
+    ],
+    "Comment[Separation]": [
+      "nanoRS UHPLC system (Dionex, Amsterdam, The Netherlands)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear trap (LTQ)"
+    ],
+    "Comment[GradientTime]": [
+      "5–25% gradient during 75 min; 25–50% during 30 min; 50–100% during 10 min."
+    ]
+  },
+  "UPS1_500amol_R1.raw": {
+    "Source Name": [
+      "UPS1_500amol"
+    ],
+    "Assay Name": [
+      "UPS1_500amol_R1"
+    ],
+    "Raw Data File": [
+      "UPS1_500amol_R1.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "yeast cell lysate samples"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "an equimolar mixture of 48 recombinant proteins (Sigma UPS1)"
+    ],
+    "Characteristics[Organism]": [
+      "yeast"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "The 9 different samples"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in triplicate"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "FactorValue[Treatment]": [
+      "500amol"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)"
+    ],
+    "Comment[Separation]": [
+      "nanoRS UHPLC system (Dionex, Amsterdam, The Netherlands)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear trap (LTQ)"
+    ],
+    "Comment[GradientTime]": [
+      "5–25% gradient during 75 min; 25–50% during 30 min; 50–100% during 10 min."
+    ]
+  },
+  "UPS1_5000amol_R3.raw": {
+    "Source Name": [
+      "UPS1_5000amol"
+    ],
+    "Assay Name": [
+      "UPS1_5000amol_R3"
+    ],
+    "Raw Data File": [
+      "UPS1_5000amol_R3.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "yeast cell lysate samples"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "an equimolar mixture of 48 recombinant proteins (Sigma UPS1)"
+    ],
+    "Characteristics[Organism]": [
+      "yeast"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "The 9 different samples"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in triplicate"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R3"
+    ],
+    "FactorValue[Treatment]": [
+      "5000amol"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)"
+    ],
+    "Comment[Separation]": [
+      "nanoRS UHPLC system (Dionex, Amsterdam, The Netherlands)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear trap (LTQ)"
+    ],
+    "Comment[GradientTime]": [
+      "5–25% gradient during 75 min; 25–50% during 30 min; 50–100% during 10 min."
+    ]
+  },
+  "UPS1_5000amol_R1.raw": {
+    "Source Name": [
+      "UPS1_5000amol"
+    ],
+    "Assay Name": [
+      "UPS1_5000amol_R1"
+    ],
+    "Raw Data File": [
+      "UPS1_5000amol_R1.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "yeast cell lysate samples"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "an equimolar mixture of 48 recombinant proteins (Sigma UPS1)"
+    ],
+    "Characteristics[Organism]": [
+      "yeast"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "The 9 different samples"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in triplicate"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "FactorValue[Treatment]": [
+      "5000amol"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)"
+    ],
+    "Comment[Separation]": [
+      "nanoRS UHPLC system (Dionex, Amsterdam, The Netherlands)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear trap (LTQ)"
+    ],
+    "Comment[GradientTime]": [
+      "5–25% gradient during 75 min; 25–50% during 30 min; 50–100% during 10 min."
+    ]
+  },
+  "UPS1_50amol_R1.raw": {
+    "Source Name": [
+      "UPS1_50amol"
+    ],
+    "Assay Name": [
+      "UPS1_50amol_R1"
+    ],
+    "Raw Data File": [
+      "UPS1_50amol_R1.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "yeast cell lysate samples"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "an equimolar mixture of 48 recombinant proteins (Sigma UPS1)"
+    ],
+    "Characteristics[Organism]": [
+      "yeast"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "The 9 different samples"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in triplicate"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "FactorValue[Treatment]": [
+      "50amol"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)"
+    ],
+    "Comment[Separation]": [
+      "nanoRS UHPLC system (Dionex, Amsterdam, The Netherlands)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear trap (LTQ)"
+    ],
+    "Comment[GradientTime]": [
+      "5–25% gradient during 75 min; 25–50% during 30 min; 50–100% during 10 min."
+    ]
+  },
+  "UPS1_2500amol_R1.raw": {
+    "Source Name": [
+      "UPS1_2500amol"
+    ],
+    "Assay Name": [
+      "UPS1_2500amol_R1"
+    ],
+    "Raw Data File": [
+      "UPS1_2500amol_R1.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "yeast cell lysate samples"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "an equimolar mixture of 48 recombinant proteins (Sigma UPS1)"
+    ],
+    "Characteristics[Organism]": [
+      "yeast"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "The 9 different samples"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in triplicate"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "FactorValue[Treatment]": [
+      "2500amol"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)"
+    ],
+    "Comment[Separation]": [
+      "nanoRS UHPLC system (Dionex, Amsterdam, The Netherlands)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear trap (LTQ)"
+    ],
+    "Comment[GradientTime]": [
+      "5–25% gradient during 75 min; 25–50% during 30 min; 50–100% during 10 min."
+    ]
+  },
+  "UPS1_5000amol_R2.raw": {
+    "Source Name": [
+      "UPS1_5000amol"
+    ],
+    "Assay Name": [
+      "UPS1_5000amol_R2"
+    ],
+    "Raw Data File": [
+      "UPS1_5000amol_R2.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "yeast cell lysate samples"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "an equimolar mixture of 48 recombinant proteins (Sigma UPS1)"
+    ],
+    "Characteristics[Organism]": [
+      "yeast"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "The 9 different samples"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in triplicate"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R2"
+    ],
+    "FactorValue[Treatment]": [
+      "5000amol"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)"
+    ],
+    "Comment[Separation]": [
+      "nanoRS UHPLC system (Dionex, Amsterdam, The Netherlands)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear trap (LTQ)"
+    ],
+    "Comment[GradientTime]": [
+      "5–25% gradient during 75 min; 25–50% during 30 min; 50–100% during 10 min."
+    ]
+  },
+  "UPS1_50000amol_R1.raw": {
+    "Source Name": [
+      "UPS1_50000amol"
+    ],
+    "Assay Name": [
+      "UPS1_50000amol_R1"
+    ],
+    "Raw Data File": [
+      "UPS1_50000amol_R1.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "yeast cell lysate samples"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "an equimolar mixture of 48 recombinant proteins (Sigma UPS1)"
+    ],
+    "Characteristics[Organism]": [
+      "yeast"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "The 9 different samples"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in triplicate"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "FactorValue[Treatment]": [
+      "50000amol"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)"
+    ],
+    "Comment[Separation]": [
+      "nanoRS UHPLC system (Dionex, Amsterdam, The Netherlands)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear trap (LTQ)"
+    ],
+    "Comment[GradientTime]": [
+      "5–25% gradient during 75 min; 25–50% during 30 min; 50–100% during 10 min."
+    ]
+  },
+  "UPS1_125amol_R2.raw": {
+    "Source Name": [
+      "UPS1_125amol"
+    ],
+    "Assay Name": [
+      "UPS1_125amol_R2"
+    ],
+    "Raw Data File": [
+      "UPS1_125amol_R2.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "yeast cell lysate samples"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "an equimolar mixture of 48 recombinant proteins (Sigma UPS1)"
+    ],
+    "Characteristics[Organism]": [
+      "yeast"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "The 9 different samples"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in triplicate"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R2"
+    ],
+    "FactorValue[Treatment]": [
+      "125amol"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)"
+    ],
+    "Comment[Separation]": [
+      "nanoRS UHPLC system (Dionex, Amsterdam, The Netherlands)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear trap (LTQ)"
+    ],
+    "Comment[GradientTime]": [
+      "5–25% gradient during 75 min; 25–50% during 30 min; 50–100% during 10 min."
+    ]
+  }
+}

@@ -1,0 +1,2728 @@
+{
+  "UPN_16_HLA-class_II_CRC_malignant_Rep2.raw": {
+    "Source Name": [
+      "UPN_16_CRC_malignant"
+    ],
+    "Assay Name": [
+      "UPN_16_CRC_malignant_Rep2"
+    ],
+    "Raw Data File": [
+      "UPN_16_HLA-class_II_CRC_malignant_Rep2.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue samples"
+    ],
+    "Characteristics[Specimen]": [
+      "surgical specimens"
+    ],
+    "Characteristics[Disease]": [
+      "colorectal carcinoma (CRC)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "CRC tissue"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep2"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in up to five technical replicates each"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Primary CRC (HLA-class I: n=30; HLA-class II: n=19) and corresponding non-malignant colon (NMC, HLA-class I: n=35; HLA-class II: n=20) tissue samples were obtained from surgical specimens (Suppl. Table 1)."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA-class I and II molecules were isolated by immunoaffinity purification using the panHLA-class I monoclonal antibody W6/32, the HLA-DR monoclonal antibody L243 and the panHLA-class II monoclonal antibody Tü39 (all produced in-house). Separate purification of HLA-class I and II ligands was performed eluting peptides with 0.2% trifluoroacetic acid."
+    ],
+    "Comment[Separation]": [
+      "nanoflow uHPLC (UltiMate 3000 RSLCnano System, ThermoFisher, Waltham, MA)"
+    ],
+    "Comment[GradientTime]": [
+      "90 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "top 5 collision-induced dissociation fragmentation method."
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap XL mass spectrometer (Thermo Fisher)"
+    ]
+  },
+  "UPN_11_HLA-class_I_NMT_benign_Rep2.raw": {
+    "Source Name": [
+      "UPN_11_NMT_benign"
+    ],
+    "Assay Name": [
+      "UPN_11_NMT_benign_Rep2"
+    ],
+    "Raw Data File": [
+      "UPN_11_HLA-class_I_NMT_benign_Rep2.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue samples"
+    ],
+    "Characteristics[Specimen]": [
+      "surgical specimens"
+    ],
+    "Characteristics[Disease]": [
+      "colorectal carcinoma (CRC)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "non-malignant colon (NMC) tissue"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep2"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in up to five technical replicates each"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Primary CRC (HLA-class I: n=30; HLA-class II: n=19) and corresponding non-malignant colon (NMC, HLA-class I: n=35; HLA-class II: n=20) tissue samples were obtained from surgical specimens (Suppl. Table 1)."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA-class I and II molecules were isolated by immunoaffinity purification using the panHLA-class I monoclonal antibody W6/32, the HLA-DR monoclonal antibody L243 and the panHLA-class II monoclonal antibody Tü39 (all produced in-house). Separate purification of HLA-class I and II ligands was performed eluting peptides with 0.2% trifluoroacetic acid."
+    ],
+    "Comment[Separation]": [
+      "nanoflow uHPLC (UltiMate 3000 RSLCnano System, ThermoFisher, Waltham, MA)"
+    ],
+    "Comment[GradientTime]": [
+      "90 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "top 5 collision-induced dissociation fragmentation method."
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap XL mass spectrometer (Thermo Fisher)"
+    ]
+  },
+  "UPN_21_HLA-class_I_CRC_malignant_Rep4.raw": {
+    "Source Name": [
+      "UPN_21_CRC_malignant"
+    ],
+    "Assay Name": [
+      "UPN_21_CRC_malignant_Rep4"
+    ],
+    "Raw Data File": [
+      "UPN_21_HLA-class_I_CRC_malignant_Rep4.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue samples"
+    ],
+    "Characteristics[Specimen]": [
+      "surgical specimens"
+    ],
+    "Characteristics[Disease]": [
+      "colorectal carcinoma (CRC)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "CRC tissue"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep4"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in up to five technical replicates each"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Primary CRC (HLA-class I: n=30; HLA-class II: n=19) and corresponding non-malignant colon (NMC, HLA-class I: n=35; HLA-class II: n=20) tissue samples were obtained from surgical specimens (Suppl. Table 1)."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA-class I and II molecules were isolated by immunoaffinity purification using the panHLA-class I monoclonal antibody W6/32, the HLA-DR monoclonal antibody L243 and the panHLA-class II monoclonal antibody Tü39 (all produced in-house). Separate purification of HLA-class I and II ligands was performed eluting peptides with 0.2% trifluoroacetic acid."
+    ],
+    "Comment[Separation]": [
+      "nanoflow uHPLC (UltiMate 3000 RSLCnano System, ThermoFisher, Waltham, MA)"
+    ],
+    "Comment[GradientTime]": [
+      "90 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "top 5 collision-induced dissociation fragmentation method."
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap XL mass spectrometer (Thermo Fisher)"
+    ]
+  },
+  "UPN_21_HLA-class_II_CRC_malignant_Rep4.raw": {
+    "Source Name": [
+      "UPN_21_CRC_malignant"
+    ],
+    "Assay Name": [
+      "UPN_21_CRC_malignant_Rep4_HLA-class_II"
+    ],
+    "Raw Data File": [
+      "UPN_21_HLA-class_II_CRC_malignant_Rep4.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue samples"
+    ],
+    "Characteristics[Specimen]": [
+      "surgical specimens"
+    ],
+    "Characteristics[Disease]": [
+      "colorectal carcinoma (CRC)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "CRC tissue"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep4"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in up to five technical replicates each"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Primary CRC (HLA-class I: n=30; HLA-class II: n=19) and corresponding non-malignant colon (NMC, HLA-class I: n=35; HLA-class II: n=20) tissue samples were obtained from surgical specimens (Suppl. Table 1)."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA-class I and II molecules were isolated by immunoaffinity purification using the panHLA-class I monoclonal antibody W6/32, the HLA-DR monoclonal antibody L243 and the panHLA-class II monoclonal antibody Tü39 (all produced in-house). Separate purification of HLA-class I and II ligands was performed eluting peptides with 0.2% trifluoroacetic acid."
+    ],
+    "Comment[Separation]": [
+      "nanoflow uHPLC (UltiMate 3000 RSLCnano System, ThermoFisher, Waltham, MA)"
+    ],
+    "Comment[GradientTime]": [
+      "90 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "top 5 collision-induced dissociation fragmentation method."
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap XL mass spectrometer (Thermo Fisher)"
+    ]
+  },
+  "UPN_17_HLA-class_II_CRC_malignant_R_remnant.raw": {
+    "Source Name": [
+      "UPN_17_CRC_malignant"
+    ],
+    "Assay Name": [
+      "UPN_17_CRC_malignant_R_remnant"
+    ],
+    "Raw Data File": [
+      "UPN_17_HLA-class_II_CRC_malignant_R_remnant.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue samples"
+    ],
+    "Characteristics[Specimen]": [
+      "surgical specimens"
+    ],
+    "Characteristics[Disease]": [
+      "colorectal carcinoma (CRC)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "CRC tissue"
+    ],
+    "Comment[FractionIdentifier]": [
+      "R_remnant"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in up to five technical replicates each"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Primary CRC (HLA-class I: n=30; HLA-class II: n=19) and corresponding non-malignant colon (NMC, HLA-class I: n=35; HLA-class II: n=20) tissue samples were obtained from surgical specimens (Suppl. Table 1)."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA-class I and II molecules were isolated by immunoaffinity purification using the panHLA-class I monoclonal antibody W6/32, the HLA-DR monoclonal antibody L243 and the panHLA-class II monoclonal antibody Tü39 (all produced in-house). Separate purification of HLA-class I and II ligands was performed eluting peptides with 0.2% trifluoroacetic acid."
+    ],
+    "Comment[Separation]": [
+      "nanoflow uHPLC (UltiMate 3000 RSLCnano System, ThermoFisher, Waltham, MA)"
+    ],
+    "Comment[GradientTime]": [
+      "90 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "top 5 collision-induced dissociation fragmentation method."
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap XL mass spectrometer (Thermo Fisher)"
+    ]
+  },
+  "UPN_13_HLA-class_I_CRC_malignant_Rep4.raw": {
+    "Source Name": [
+      "UPN_13_CRC_malignant"
+    ],
+    "Assay Name": [
+      "UPN_13_CRC_malignant_Rep4"
+    ],
+    "Raw Data File": [
+      "UPN_13_HLA-class_I_CRC_malignant_Rep4.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue samples"
+    ],
+    "Characteristics[Specimen]": [
+      "surgical specimens"
+    ],
+    "Characteristics[Disease]": [
+      "colorectal carcinoma (CRC)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "CRC tissue"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep4"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in up to five technical replicates each"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Primary CRC (HLA-class I: n=30; HLA-class II: n=19) and corresponding non-malignant colon (NMC, HLA-class I: n=35; HLA-class II: n=20) tissue samples were obtained from surgical specimens (Suppl. Table 1)."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA-class I and II molecules were isolated by immunoaffinity purification using the panHLA-class I monoclonal antibody W6/32, the HLA-DR monoclonal antibody L243 and the panHLA-class II monoclonal antibody Tü39 (all produced in-house). Separate purification of HLA-class I and II ligands was performed eluting peptides with 0.2% trifluoroacetic acid."
+    ],
+    "Comment[Separation]": [
+      "nanoflow uHPLC (UltiMate 3000 RSLCnano System, ThermoFisher, Waltham, MA)"
+    ],
+    "Comment[GradientTime]": [
+      "90 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "top 5 collision-induced dissociation fragmentation method."
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap XL mass spectrometer (Thermo Fisher)"
+    ]
+  },
+  "UPN_15_HLA-class_I_CRC_malignant_R3_remnant.raw": {
+    "Source Name": [
+      "UPN_15_CRC_malignant"
+    ],
+    "Assay Name": [
+      "UPN_15_CRC_malignant_R3_remnant"
+    ],
+    "Raw Data File": [
+      "UPN_15_HLA-class_I_CRC_malignant_R3_remnant.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue samples"
+    ],
+    "Characteristics[Specimen]": [
+      "surgical specimens"
+    ],
+    "Characteristics[Disease]": [
+      "colorectal carcinoma (CRC)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "CRC tissue"
+    ],
+    "Comment[FractionIdentifier]": [
+      "R3_remnant"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in up to five technical replicates each"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Primary CRC (HLA-class I: n=30; HLA-class II: n=19) and corresponding non-malignant colon (NMC, HLA-class I: n=35; HLA-class II: n=20) tissue samples were obtained from surgical specimens (Suppl. Table 1)."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA-class I and II molecules were isolated by immunoaffinity purification using the panHLA-class I monoclonal antibody W6/32, the HLA-DR monoclonal antibody L243 and the panHLA-class II monoclonal antibody Tü39 (all produced in-house). Separate purification of HLA-class I and II ligands was performed eluting peptides with 0.2% trifluoroacetic acid."
+    ],
+    "Comment[Separation]": [
+      "nanoflow uHPLC (UltiMate 3000 RSLCnano System, ThermoFisher, Waltham, MA)"
+    ],
+    "Comment[GradientTime]": [
+      "90 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "top 5 collision-induced dissociation fragmentation method."
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap XL mass spectrometer (Thermo Fisher)"
+    ]
+  },
+  "UPN_17_HLA-class_II_CRC_malignant_Rep2.raw": {
+    "Source Name": [
+      "UPN_17_CRC_malignant"
+    ],
+    "Assay Name": [
+      "UPN_17_CRC_malignant_Rep2"
+    ],
+    "Raw Data File": [
+      "UPN_17_HLA-class_II_CRC_malignant_Rep2.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue samples"
+    ],
+    "Characteristics[Specimen]": [
+      "surgical specimens"
+    ],
+    "Characteristics[Disease]": [
+      "colorectal carcinoma (CRC)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "CRC tissue"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep2"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in up to five technical replicates each"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Primary CRC (HLA-class I: n=30; HLA-class II: n=19) and corresponding non-malignant colon (NMC, HLA-class I: n=35; HLA-class II: n=20) tissue samples were obtained from surgical specimens (Suppl. Table 1)."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA-class I and II molecules were isolated by immunoaffinity purification using the panHLA-class I monoclonal antibody W6/32, the HLA-DR monoclonal antibody L243 and the panHLA-class II monoclonal antibody Tü39 (all produced in-house). Separate purification of HLA-class I and II ligands was performed eluting peptides with 0.2% trifluoroacetic acid."
+    ],
+    "Comment[Separation]": [
+      "nanoflow uHPLC (UltiMate 3000 RSLCnano System, ThermoFisher, Waltham, MA)"
+    ],
+    "Comment[GradientTime]": [
+      "90 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "top 5 collision-induced dissociation fragmentation method."
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap XL mass spectrometer (Thermo Fisher)"
+    ]
+  },
+  "UPN_19_HLA-class_II_CRC_malignant_Rep2.raw": {
+    "Source Name": [
+      "UPN_19_CRC_malignant"
+    ],
+    "Assay Name": [
+      "UPN_19_CRC_malignant_Rep2"
+    ],
+    "Raw Data File": [
+      "UPN_19_HLA-class_II_CRC_malignant_Rep2.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue samples"
+    ],
+    "Characteristics[Specimen]": [
+      "surgical specimens"
+    ],
+    "Characteristics[Disease]": [
+      "colorectal carcinoma (CRC)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "CRC tissue"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep2"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in up to five technical replicates each"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Primary CRC (HLA-class I: n=30; HLA-class II: n=19) and corresponding non-malignant colon (NMC, HLA-class I: n=35; HLA-class II: n=20) tissue samples were obtained from surgical specimens (Suppl. Table 1)."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA-class I and II molecules were isolated by immunoaffinity purification using the panHLA-class I monoclonal antibody W6/32, the HLA-DR monoclonal antibody L243 and the panHLA-class II monoclonal antibody Tü39 (all produced in-house). Separate purification of HLA-class I and II ligands was performed eluting peptides with 0.2% trifluoroacetic acid."
+    ],
+    "Comment[Separation]": [
+      "nanoflow uHPLC (UltiMate 3000 RSLCnano System, ThermoFisher, Waltham, MA)"
+    ],
+    "Comment[GradientTime]": [
+      "90 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "top 5 collision-induced dissociation fragmentation method."
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap XL mass spectrometer (Thermo Fisher)"
+    ]
+  },
+  "UPN_16_HLA-class_I_NMT_benign_Rep4.raw": {
+    "Source Name": [
+      "UPN_16_NMT_benign"
+    ],
+    "Assay Name": [
+      "UPN_16_NMT_benign_Rep4"
+    ],
+    "Raw Data File": [
+      "UPN_16_HLA-class_I_NMT_benign_Rep4.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue samples"
+    ],
+    "Characteristics[Specimen]": [
+      "surgical specimens"
+    ],
+    "Characteristics[Disease]": [
+      "colorectal carcinoma (CRC)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "non-malignant colon (NMC) tissue"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep4"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in up to five technical replicates each"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Primary CRC (HLA-class I: n=30; HLA-class II: n=19) and corresponding non-malignant colon (NMC, HLA-class I: n=35; HLA-class II: n=20) tissue samples were obtained from surgical specimens (Suppl. Table 1)."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA-class I and II molecules were isolated by immunoaffinity purification using the panHLA-class I monoclonal antibody W6/32, the HLA-DR monoclonal antibody L243 and the panHLA-class II monoclonal antibody Tü39 (all produced in-house). Separate purification of HLA-class I and II ligands was performed eluting peptides with 0.2% trifluoroacetic acid."
+    ],
+    "Comment[Separation]": [
+      "nanoflow uHPLC (UltiMate 3000 RSLCnano System, ThermoFisher, Waltham, MA)"
+    ],
+    "Comment[GradientTime]": [
+      "90 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "top 5 collision-induced dissociation fragmentation method."
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap XL mass spectrometer (Thermo Fisher)"
+    ]
+  },
+  "UPN_20_HLA-class_I_CRC_malignant_R_remnant.raw": {
+    "Source Name": [
+      "UPN_20_CRC_malignant"
+    ],
+    "Assay Name": [
+      "UPN_20_CRC_malignant_R_remnant"
+    ],
+    "Raw Data File": [
+      "UPN_20_HLA-class_I_CRC_malignant_R_remnant.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue samples"
+    ],
+    "Characteristics[Specimen]": [
+      "surgical specimens"
+    ],
+    "Characteristics[Disease]": [
+      "colorectal carcinoma (CRC)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "CRC tissue"
+    ],
+    "Comment[FractionIdentifier]": [
+      "R_remnant"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in up to five technical replicates each"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Primary CRC (HLA-class I: n=30; HLA-class II: n=19) and corresponding non-malignant colon (NMC, HLA-class I: n=35; HLA-class II: n=20) tissue samples were obtained from surgical specimens (Suppl. Table 1)."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA-class I and II molecules were isolated by immunoaffinity purification using the panHLA-class I monoclonal antibody W6/32, the HLA-DR monoclonal antibody L243 and the panHLA-class II monoclonal antibody Tü39 (all produced in-house). Separate purification of HLA-class I and II ligands was performed eluting peptides with 0.2% trifluoroacetic acid."
+    ],
+    "Comment[Separation]": [
+      "nanoflow uHPLC (UltiMate 3000 RSLCnano System, ThermoFisher, Waltham, MA)"
+    ],
+    "Comment[GradientTime]": [
+      "90 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "top 5 collision-induced dissociation fragmentation method."
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap XL mass spectrometer (Thermo Fisher)"
+    ]
+  },
+  "UPN_20_HLA-class_II_CRC_malignant_Rep5.raw": {
+    "Source Name": [
+      "UPN_20_CRC_malignant"
+    ],
+    "Assay Name": [
+      "UPN_20_CRC_malignant_Rep5"
+    ],
+    "Raw Data File": [
+      "UPN_20_HLA-class_II_CRC_malignant_Rep5.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue samples"
+    ],
+    "Characteristics[Specimen]": [
+      "surgical specimens"
+    ],
+    "Characteristics[Disease]": [
+      "colorectal carcinoma (CRC)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "CRC tissue"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep5"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in up to five technical replicates each"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Primary CRC (HLA-class I: n=30; HLA-class II: n=19) and corresponding non-malignant colon (NMC, HLA-class I: n=35; HLA-class II: n=20) tissue samples were obtained from surgical specimens (Suppl. Table 1)."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA-class I and II molecules were isolated by immunoaffinity purification using the panHLA-class I monoclonal antibody W6/32, the HLA-DR monoclonal antibody L243 and the panHLA-class II monoclonal antibody Tü39 (all produced in-house). Separate purification of HLA-class I and II ligands was performed eluting peptides with 0.2% trifluoroacetic acid."
+    ],
+    "Comment[Separation]": [
+      "nanoflow uHPLC (UltiMate 3000 RSLCnano System, ThermoFisher, Waltham, MA)"
+    ],
+    "Comment[GradientTime]": [
+      "90 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "top 5 collision-induced dissociation fragmentation method."
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap XL mass spectrometer (Thermo Fisher)"
+    ]
+  },
+  "UPN_15_HLA-class_II_CRC_malignant_PA_pre-adjustment.raw": {
+    "Source Name": [
+      "UPN_15_CRC_malignant"
+    ],
+    "Assay Name": [
+      "UPN_15_CRC_malignant_PA_pre-adjustment"
+    ],
+    "Raw Data File": [
+      "UPN_15_HLA-class_II_CRC_malignant_PA_pre-adjustment.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue samples"
+    ],
+    "Characteristics[Specimen]": [
+      "surgical specimens"
+    ],
+    "Characteristics[Disease]": [
+      "colorectal carcinoma (CRC)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "CRC tissue"
+    ],
+    "Comment[FractionIdentifier]": [
+      "PA_pre-adjustment"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in up to five technical replicates each"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Primary CRC (HLA-class I: n=30; HLA-class II: n=19) and corresponding non-malignant colon (NMC, HLA-class I: n=35; HLA-class II: n=20) tissue samples were obtained from surgical specimens (Suppl. Table 1)."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA-class I and II molecules were isolated by immunoaffinity purification using the panHLA-class I monoclonal antibody W6/32, the HLA-DR monoclonal antibody L243 and the panHLA-class II monoclonal antibody Tü39 (all produced in-house). Separate purification of HLA-class I and II ligands was performed eluting peptides with 0.2% trifluoroacetic acid."
+    ],
+    "Comment[Separation]": [
+      "nanoflow uHPLC (UltiMate 3000 RSLCnano System, ThermoFisher, Waltham, MA)"
+    ],
+    "Comment[GradientTime]": [
+      "90 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "top 5 collision-induced dissociation fragmentation method."
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap XL mass spectrometer (Thermo Fisher)"
+    ]
+  },
+  "UPN_21_HLA-class_II_CRC_malignant_Rep3.raw": {
+    "Source Name": [
+      "UPN_21_CRC_malignant"
+    ],
+    "Assay Name": [
+      "UPN_21_CRC_malignant_Rep3"
+    ],
+    "Raw Data File": [
+      "UPN_21_HLA-class_II_CRC_malignant_Rep3.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue samples"
+    ],
+    "Characteristics[Specimen]": [
+      "surgical specimens"
+    ],
+    "Characteristics[Disease]": [
+      "colorectal carcinoma (CRC)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "CRC tissue"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep3"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in up to five technical replicates each"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Primary CRC (HLA-class I: n=30; HLA-class II: n=19) and corresponding non-malignant colon (NMC, HLA-class I: n=35; HLA-class II: n=20) tissue samples were obtained from surgical specimens (Suppl. Table 1)."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA-class I and II molecules were isolated by immunoaffinity purification using the panHLA-class I monoclonal antibody W6/32, the HLA-DR monoclonal antibody L243 and the panHLA-class II monoclonal antibody Tü39 (all produced in-house). Separate purification of HLA-class I and II ligands was performed eluting peptides with 0.2% trifluoroacetic acid."
+    ],
+    "Comment[Separation]": [
+      "nanoflow uHPLC (UltiMate 3000 RSLCnano System, ThermoFisher, Waltham, MA)"
+    ],
+    "Comment[GradientTime]": [
+      "90 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "top 5 collision-induced dissociation fragmentation method."
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap XL mass spectrometer (Thermo Fisher)"
+    ]
+  },
+  "UPN_16_HLA-class_I_CRC_malignant_Rep4.raw": {
+    "Source Name": [
+      "UPN_16_CRC_malignant"
+    ],
+    "Assay Name": [
+      "UPN_16_CRC_malignant_Rep4"
+    ],
+    "Raw Data File": [
+      "UPN_16_HLA-class_I_CRC_malignant_Rep4.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue samples"
+    ],
+    "Characteristics[Specimen]": [
+      "surgical specimens"
+    ],
+    "Characteristics[Disease]": [
+      "colorectal carcinoma (CRC)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "CRC tissue"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep4"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in up to five technical replicates each"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Primary CRC (HLA-class I: n=30; HLA-class II: n=19) and corresponding non-malignant colon (NMC, HLA-class I: n=35; HLA-class II: n=20) tissue samples were obtained from surgical specimens (Suppl. Table 1)."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA-class I and II molecules were isolated by immunoaffinity purification using the panHLA-class I monoclonal antibody W6/32, the HLA-DR monoclonal antibody L243 and the panHLA-class II monoclonal antibody Tü39 (all produced in-house). Separate purification of HLA-class I and II ligands was performed eluting peptides with 0.2% trifluoroacetic acid."
+    ],
+    "Comment[Separation]": [
+      "nanoflow uHPLC (UltiMate 3000 RSLCnano System, ThermoFisher, Waltham, MA)"
+    ],
+    "Comment[GradientTime]": [
+      "90 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "top 5 collision-induced dissociation fragmentation method."
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap XL mass spectrometer (Thermo Fisher)"
+    ]
+  },
+  "UPN_21_HLA-class_II_NMT_benign_Rep5.raw": {
+    "Source Name": [
+      "UPN_21_NMT_benign"
+    ],
+    "Assay Name": [
+      "UPN_21_NMT_benign_Rep5"
+    ],
+    "Raw Data File": [
+      "UPN_21_HLA-class_II_NMT_benign_Rep5.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue samples"
+    ],
+    "Characteristics[Specimen]": [
+      "surgical specimens"
+    ],
+    "Characteristics[Disease]": [
+      "colorectal carcinoma (CRC)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "non-malignant colon (NMC) tissue"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep5"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in up to five technical replicates each"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Primary CRC (HLA-class I: n=30; HLA-class II: n=19) and corresponding non-malignant colon (NMC, HLA-class I: n=35; HLA-class II: n=20) tissue samples were obtained from surgical specimens (Suppl. Table 1)."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA-class I and II molecules were isolated by immunoaffinity purification using the panHLA-class I monoclonal antibody W6/32, the HLA-DR monoclonal antibody L243 and the panHLA-class II monoclonal antibody Tü39 (all produced in-house). Separate purification of HLA-class I and II ligands was performed eluting peptides with 0.2% trifluoroacetic acid."
+    ],
+    "Comment[Separation]": [
+      "nanoflow uHPLC (UltiMate 3000 RSLCnano System, ThermoFisher, Waltham, MA)"
+    ],
+    "Comment[GradientTime]": [
+      "90 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "top 5 collision-induced dissociation fragmentation method."
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap XL mass spectrometer (Thermo Fisher)"
+    ]
+  },
+  "UPN_13_HLA-class_I_CRC_malignant_Rep1.raw": {
+    "Source Name": [
+      "UPN_13_CRC_malignant"
+    ],
+    "Assay Name": [
+      "UPN_13_CRC_malignant_Rep1"
+    ],
+    "Raw Data File": [
+      "UPN_13_HLA-class_I_CRC_malignant_Rep1.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue samples"
+    ],
+    "Characteristics[Specimen]": [
+      "surgical specimens"
+    ],
+    "Characteristics[Disease]": [
+      "colorectal carcinoma (CRC)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "CRC tissue"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep1"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in up to five technical replicates each"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Primary CRC (HLA-class I: n=30; HLA-class II: n=19) and corresponding non-malignant colon (NMC, HLA-class I: n=35; HLA-class II: n=20) tissue samples were obtained from surgical specimens (Suppl. Table 1)."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA-class I and II molecules were isolated by immunoaffinity purification using the panHLA-class I monoclonal antibody W6/32, the HLA-DR monoclonal antibody L243 and the panHLA-class II monoclonal antibody Tü39 (all produced in-house). Separate purification of HLA-class I and II ligands was performed eluting peptides with 0.2% trifluoroacetic acid."
+    ],
+    "Comment[Separation]": [
+      "nanoflow uHPLC (UltiMate 3000 RSLCnano System, ThermoFisher, Waltham, MA)"
+    ],
+    "Comment[GradientTime]": [
+      "90 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "top 5 collision-induced dissociation fragmentation method."
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap XL mass spectrometer (Thermo Fisher)"
+    ]
+  },
+  "UPN_15_HLA-class_I_NMT_benign_Rep4.raw": {
+    "Source Name": [
+      "UPN_15_NMT_benign"
+    ],
+    "Assay Name": [
+      "UPN_15_NMT_benign_Rep4"
+    ],
+    "Raw Data File": [
+      "UPN_15_HLA-class_I_NMT_benign_Rep4.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue samples"
+    ],
+    "Characteristics[Specimen]": [
+      "surgical specimens"
+    ],
+    "Characteristics[Disease]": [
+      "colorectal carcinoma (CRC)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "non-malignant colon (NMC) tissue"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep4"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in up to five technical replicates each"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Primary CRC (HLA-class I: n=30; HLA-class II: n=19) and corresponding non-malignant colon (NMC, HLA-class I: n=35; HLA-class II: n=20) tissue samples were obtained from surgical specimens (Suppl. Table 1)."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA-class I and II molecules were isolated by immunoaffinity purification using the panHLA-class I monoclonal antibody W6/32, the HLA-DR monoclonal antibody L243 and the panHLA-class II monoclonal antibody Tü39 (all produced in-house). Separate purification of HLA-class I and II ligands was performed eluting peptides with 0.2% trifluoroacetic acid."
+    ],
+    "Comment[Separation]": [
+      "nanoflow uHPLC (UltiMate 3000 RSLCnano System, ThermoFisher, Waltham, MA)"
+    ],
+    "Comment[GradientTime]": [
+      "90 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "top 5 collision-induced dissociation fragmentation method."
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap XL mass spectrometer (Thermo Fisher)"
+    ]
+  },
+  "UPN_15_HLA-class_II_NMT_benign_Rep5.raw": {
+    "Source Name": [
+      "UPN_15_NMT_benign"
+    ],
+    "Assay Name": [
+      "UPN_15_NMT_benign_Rep5"
+    ],
+    "Raw Data File": [
+      "UPN_15_HLA-class_II_NMT_benign_Rep5.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue samples"
+    ],
+    "Characteristics[Specimen]": [
+      "surgical specimens"
+    ],
+    "Characteristics[Disease]": [
+      "colorectal carcinoma (CRC)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "non-malignant colon (NMC) tissue"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep5"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in up to five technical replicates each"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Primary CRC (HLA-class I: n=30; HLA-class II: n=19) and corresponding non-malignant colon (NMC, HLA-class I: n=35; HLA-class II: n=20) tissue samples were obtained from surgical specimens (Suppl. Table 1)."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA-class I and II molecules were isolated by immunoaffinity purification using the panHLA-class I monoclonal antibody W6/32, the HLA-DR monoclonal antibody L243 and the panHLA-class II monoclonal antibody Tü39 (all produced in-house). Separate purification of HLA-class I and II ligands was performed eluting peptides with 0.2% trifluoroacetic acid."
+    ],
+    "Comment[Separation]": [
+      "nanoflow uHPLC (UltiMate 3000 RSLCnano System, ThermoFisher, Waltham, MA)"
+    ],
+    "Comment[GradientTime]": [
+      "90 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "top 5 collision-induced dissociation fragmentation method."
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap XL mass spectrometer (Thermo Fisher)"
+    ]
+  },
+  "UPN_15_HLA-class_II_CRC_malignant_R2_remnant.raw": {
+    "Source Name": [
+      "UPN_15_CRC_malignant"
+    ],
+    "Assay Name": [
+      "UPN_15_CRC_malignant_R2_remnant"
+    ],
+    "Raw Data File": [
+      "UPN_15_HLA-class_II_CRC_malignant_R2_remnant.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue samples"
+    ],
+    "Characteristics[Specimen]": [
+      "surgical specimens"
+    ],
+    "Characteristics[Disease]": [
+      "colorectal carcinoma (CRC)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "CRC tissue"
+    ],
+    "Comment[FractionIdentifier]": [
+      "R2_remnant"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in up to five technical replicates each"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Primary CRC (HLA-class I: n=30; HLA-class II: n=19) and corresponding non-malignant colon (NMC, HLA-class I: n=35; HLA-class II: n=20) tissue samples were obtained from surgical specimens (Suppl. Table 1)."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA-class I and II molecules were isolated by immunoaffinity purification using the panHLA-class I monoclonal antibody W6/32, the HLA-DR monoclonal antibody L243 and the panHLA-class II monoclonal antibody Tü39 (all produced in-house). Separate purification of HLA-class I and II ligands was performed eluting peptides with 0.2% trifluoroacetic acid."
+    ],
+    "Comment[Separation]": [
+      "nanoflow uHPLC (UltiMate 3000 RSLCnano System, ThermoFisher, Waltham, MA)"
+    ],
+    "Comment[GradientTime]": [
+      "90 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "top 5 collision-induced dissociation fragmentation method."
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap XL mass spectrometer (Thermo Fisher)"
+    ]
+  },
+  "UPN_11_HLA-class_II_NMT_benign_Rep5.raw": {
+    "Source Name": [
+      "UPN_11_NMT_benign"
+    ],
+    "Assay Name": [
+      "UPN_11_NMT_benign_Rep5"
+    ],
+    "Raw Data File": [
+      "UPN_11_HLA-class_II_NMT_benign_Rep5.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue samples"
+    ],
+    "Characteristics[Specimen]": [
+      "surgical specimens"
+    ],
+    "Characteristics[Disease]": [
+      "colorectal carcinoma (CRC)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "non-malignant colon (NMC) tissue"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep5"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in up to five technical replicates each"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Primary CRC (HLA-class I: n=30; HLA-class II: n=19) and corresponding non-malignant colon (NMC, HLA-class I: n=35; HLA-class II: n=20) tissue samples were obtained from surgical specimens (Suppl. Table 1)."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA-class I and II molecules were isolated by immunoaffinity purification using the panHLA-class I monoclonal antibody W6/32, the HLA-DR monoclonal antibody L243 and the panHLA-class II monoclonal antibody Tü39 (all produced in-house). Separate purification of HLA-class I and II ligands was performed eluting peptides with 0.2% trifluoroacetic acid."
+    ],
+    "Comment[Separation]": [
+      "nanoflow uHPLC (UltiMate 3000 RSLCnano System, ThermoFisher, Waltham, MA)"
+    ],
+    "Comment[GradientTime]": [
+      "90 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "top 5 collision-induced dissociation fragmentation method."
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap XL mass spectrometer (Thermo Fisher)"
+    ]
+  },
+  "UPN_19_HLA-class_II_NMT_benign_Rep4.raw": {
+    "Source Name": [
+      "UPN_19_NMT_benign"
+    ],
+    "Assay Name": [
+      "UPN_19_NMT_benign_Rep4"
+    ],
+    "Raw Data File": [
+      "UPN_19_HLA-class_II_NMT_benign_Rep4.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue samples"
+    ],
+    "Characteristics[Specimen]": [
+      "surgical specimens"
+    ],
+    "Characteristics[Disease]": [
+      "colorectal carcinoma (CRC)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "non-malignant colon (NMC) tissue"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep4"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in up to five technical replicates each"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Primary CRC (HLA-class I: n=30; HLA-class II: n=19) and corresponding non-malignant colon (NMC, HLA-class I: n=35; HLA-class II: n=20) tissue samples were obtained from surgical specimens (Suppl. Table 1)."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA-class I and II molecules were isolated by immunoaffinity purification using the panHLA-class I monoclonal antibody W6/32, the HLA-DR monoclonal antibody L243 and the panHLA-class II monoclonal antibody Tü39 (all produced in-house). Separate purification of HLA-class I and II ligands was performed eluting peptides with 0.2% trifluoroacetic acid."
+    ],
+    "Comment[Separation]": [
+      "nanoflow uHPLC (UltiMate 3000 RSLCnano System, ThermoFisher, Waltham, MA)"
+    ],
+    "Comment[GradientTime]": [
+      "90 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "top 5 collision-induced dissociation fragmentation method."
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap XL mass spectrometer (Thermo Fisher)"
+    ]
+  },
+  "UPN_19_HLA-class_II_CRC_malignant_Rep4.raw": {
+    "Source Name": [
+      "UPN_19_CRC_malignant"
+    ],
+    "Assay Name": [
+      "UPN_19_CRC_malignant_Rep4"
+    ],
+    "Raw Data File": [
+      "UPN_19_HLA-class_II_CRC_malignant_Rep4.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue samples"
+    ],
+    "Characteristics[Specimen]": [
+      "surgical specimens"
+    ],
+    "Characteristics[Disease]": [
+      "colorectal carcinoma (CRC)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "CRC tissue"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep4"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in up to five technical replicates each"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Primary CRC (HLA-class I: n=30; HLA-class II: n=19) and corresponding non-malignant colon (NMC, HLA-class I: n=35; HLA-class II: n=20) tissue samples were obtained from surgical specimens (Suppl. Table 1)."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA-class I and II molecules were isolated by immunoaffinity purification using the panHLA-class I monoclonal antibody W6/32, the HLA-DR monoclonal antibody L243 and the panHLA-class II monoclonal antibody Tü39 (all produced in-house). Separate purification of HLA-class I and II ligands was performed eluting peptides with 0.2% trifluoroacetic acid."
+    ],
+    "Comment[Separation]": [
+      "nanoflow uHPLC (UltiMate 3000 RSLCnano System, ThermoFisher, Waltham, MA)"
+    ],
+    "Comment[GradientTime]": [
+      "90 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "top 5 collision-induced dissociation fragmentation method."
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap XL mass spectrometer (Thermo Fisher)"
+    ]
+  },
+  "UPN_10_HLA-class_II_CRC_malignant_Rep1.raw": {
+    "Source Name": [
+      "UPN_10_CRC_malignant"
+    ],
+    "Assay Name": [
+      "UPN_10_CRC_malignant_Rep1"
+    ],
+    "Raw Data File": [
+      "UPN_10_HLA-class_II_CRC_malignant_Rep1.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue samples"
+    ],
+    "Characteristics[Specimen]": [
+      "surgical specimens"
+    ],
+    "Characteristics[Disease]": [
+      "colorectal carcinoma (CRC)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "CRC tissue"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep1"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in up to five technical replicates each"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Primary CRC (HLA-class I: n=30; HLA-class II: n=19) and corresponding non-malignant colon (NMC, HLA-class I: n=35; HLA-class II: n=20) tissue samples were obtained from surgical specimens (Suppl. Table 1)."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA-class I and II molecules were isolated by immunoaffinity purification using the panHLA-class I monoclonal antibody W6/32, the HLA-DR monoclonal antibody L243 and the panHLA-class II monoclonal antibody Tü39 (all produced in-house). Separate purification of HLA-class I and II ligands was performed eluting peptides with 0.2% trifluoroacetic acid."
+    ],
+    "Comment[Separation]": [
+      "nanoflow uHPLC (UltiMate 3000 RSLCnano System, ThermoFisher, Waltham, MA)"
+    ],
+    "Comment[GradientTime]": [
+      "90 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "top 5 collision-induced dissociation fragmentation method."
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap XL mass spectrometer (Thermo Fisher)"
+    ]
+  },
+  "UPN_13_HLA-class_I_NMT_benign_Rep2.raw": {
+    "Source Name": [
+      "UPN_13_NMT_benign"
+    ],
+    "Assay Name": [
+      "UPN_13_NMT_benign_Rep2"
+    ],
+    "Raw Data File": [
+      "UPN_13_HLA-class_I_NMT_benign_Rep2.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue samples"
+    ],
+    "Characteristics[Specimen]": [
+      "surgical specimens"
+    ],
+    "Characteristics[Disease]": [
+      "colorectal carcinoma (CRC)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "non-malignant colon (NMC) tissue"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep2"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in up to five technical replicates each"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Primary CRC (HLA-class I: n=30; HLA-class II: n=19) and corresponding non-malignant colon (NMC, HLA-class I: n=35; HLA-class II: n=20) tissue samples were obtained from surgical specimens (Suppl. Table 1)."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA-class I and II molecules were isolated by immunoaffinity purification using the panHLA-class I monoclonal antibody W6/32, the HLA-DR monoclonal antibody L243 and the panHLA-class II monoclonal antibody Tü39 (all produced in-house). Separate purification of HLA-class I and II ligands was performed eluting peptides with 0.2% trifluoroacetic acid."
+    ],
+    "Comment[Separation]": [
+      "nanoflow uHPLC (UltiMate 3000 RSLCnano System, ThermoFisher, Waltham, MA)"
+    ],
+    "Comment[GradientTime]": [
+      "90 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "top 5 collision-induced dissociation fragmentation method."
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap XL mass spectrometer (Thermo Fisher)"
+    ]
+  },
+  "UPN_16_HLA-class_I_NMT_benign_Rep5.raw": {
+    "Source Name": [
+      "UPN_16_NMT_benign"
+    ],
+    "Assay Name": [
+      "UPN_16_NMT_benign_Rep5"
+    ],
+    "Raw Data File": [
+      "UPN_16_HLA-class_I_NMT_benign_Rep5.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue samples"
+    ],
+    "Characteristics[Specimen]": [
+      "surgical specimens"
+    ],
+    "Characteristics[Disease]": [
+      "colorectal carcinoma (CRC)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "non-malignant colon (NMC) tissue"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep5"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in up to five technical replicates each"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Primary CRC (HLA-class I: n=30; HLA-class II: n=19) and corresponding non-malignant colon (NMC, HLA-class I: n=35; HLA-class II: n=20) tissue samples were obtained from surgical specimens (Suppl. Table 1)."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA-class I and II molecules were isolated by immunoaffinity purification using the panHLA-class I monoclonal antibody W6/32, the HLA-DR monoclonal antibody L243 and the panHLA-class II monoclonal antibody Tü39 (all produced in-house). Separate purification of HLA-class I and II ligands was performed eluting peptides with 0.2% trifluoroacetic acid."
+    ],
+    "Comment[Separation]": [
+      "nanoflow uHPLC (UltiMate 3000 RSLCnano System, ThermoFisher, Waltham, MA)"
+    ],
+    "Comment[GradientTime]": [
+      "90 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "top 5 collision-induced dissociation fragmentation method."
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap XL mass spectrometer (Thermo Fisher)"
+    ]
+  },
+  "UPN_10_HLA-class_I_CRC_malignant_Rep5.raw": {
+    "Source Name": [
+      "UPN_10_CRC_malignant"
+    ],
+    "Assay Name": [
+      "UPN_10_CRC_malignant_Rep5"
+    ],
+    "Raw Data File": [
+      "UPN_10_HLA-class_I_CRC_malignant_Rep5.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue samples"
+    ],
+    "Characteristics[Specimen]": [
+      "surgical specimens"
+    ],
+    "Characteristics[Disease]": [
+      "colorectal carcinoma (CRC)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "CRC tissue"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep5"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in up to five technical replicates each"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Primary CRC (HLA-class I: n=30; HLA-class II: n=19) and corresponding non-malignant colon (NMC, HLA-class I: n=35; HLA-class II: n=20) tissue samples were obtained from surgical specimens (Suppl. Table 1)."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA-class I and II molecules were isolated by immunoaffinity purification using the panHLA-class I monoclonal antibody W6/32, the HLA-DR monoclonal antibody L243 and the panHLA-class II monoclonal antibody Tü39 (all produced in-house). Separate purification of HLA-class I and II ligands was performed eluting peptides with 0.2% trifluoroacetic acid."
+    ],
+    "Comment[Separation]": [
+      "nanoflow uHPLC (UltiMate 3000 RSLCnano System, ThermoFisher, Waltham, MA)"
+    ],
+    "Comment[GradientTime]": [
+      "90 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "top 5 collision-induced dissociation fragmentation method."
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap XL mass spectrometer (Thermo Fisher)"
+    ]
+  },
+  "UPN_11_HLA-class_II_CRC_malignant_Rep2.raw": {
+    "Source Name": [
+      "UPN_11_CRC_malignant"
+    ],
+    "Assay Name": [
+      "UPN_11_CRC_malignant_Rep2_HLA-class_II"
+    ],
+    "Raw Data File": [
+      "UPN_11_HLA-class_II_CRC_malignant_Rep2.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue samples"
+    ],
+    "Characteristics[Specimen]": [
+      "surgical specimens"
+    ],
+    "Characteristics[Disease]": [
+      "colorectal carcinoma (CRC)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "CRC tissue"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep2"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in up to five technical replicates each"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Primary CRC (HLA-class I: n=30; HLA-class II: n=19) and corresponding non-malignant colon (NMC, HLA-class I: n=35; HLA-class II: n=20) tissue samples were obtained from surgical specimens (Suppl. Table 1)."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA-class I and II molecules were isolated by immunoaffinity purification using the panHLA-class I monoclonal antibody W6/32, the HLA-DR monoclonal antibody L243 and the panHLA-class II monoclonal antibody Tü39 (all produced in-house). Separate purification of HLA-class I and II ligands was performed eluting peptides with 0.2% trifluoroacetic acid."
+    ],
+    "Comment[Separation]": [
+      "nanoflow uHPLC (UltiMate 3000 RSLCnano System, ThermoFisher, Waltham, MA)"
+    ],
+    "Comment[GradientTime]": [
+      "90 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "top 5 collision-induced dissociation fragmentation method."
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap XL mass spectrometer (Thermo Fisher)"
+    ]
+  },
+  "UPN_15_HLA-class_II_NMT_benign_Rep1.raw": {
+    "Source Name": [
+      "UPN_15_NMT_benign"
+    ],
+    "Assay Name": [
+      "UPN_15_NMT_benign_Rep1"
+    ],
+    "Raw Data File": [
+      "UPN_15_HLA-class_II_NMT_benign_Rep1.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue samples"
+    ],
+    "Characteristics[Specimen]": [
+      "surgical specimens"
+    ],
+    "Characteristics[Disease]": [
+      "colorectal carcinoma (CRC)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "non-malignant colon (NMC) tissue"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep1"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in up to five technical replicates each"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Primary CRC (HLA-class I: n=30; HLA-class II: n=19) and corresponding non-malignant colon (NMC, HLA-class I: n=35; HLA-class II: n=20) tissue samples were obtained from surgical specimens (Suppl. Table 1)."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA-class I and II molecules were isolated by immunoaffinity purification using the panHLA-class I monoclonal antibody W6/32, the HLA-DR monoclonal antibody L243 and the panHLA-class II monoclonal antibody Tü39 (all produced in-house). Separate purification of HLA-class I and II ligands was performed eluting peptides with 0.2% trifluoroacetic acid."
+    ],
+    "Comment[Separation]": [
+      "nanoflow uHPLC (UltiMate 3000 RSLCnano System, ThermoFisher, Waltham, MA)"
+    ],
+    "Comment[GradientTime]": [
+      "90 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "top 5 collision-induced dissociation fragmentation method."
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap XL mass spectrometer (Thermo Fisher)"
+    ]
+  },
+  "UPN_18_HLA-class_I_CRC_malignant_Rep4.raw": {
+    "Source Name": [
+      "UPN_18_CRC_malignant"
+    ],
+    "Assay Name": [
+      "UPN_18_CRC_malignant_Rep4"
+    ],
+    "Raw Data File": [
+      "UPN_18_HLA-class_I_CRC_malignant_Rep4.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue samples"
+    ],
+    "Characteristics[Specimen]": [
+      "surgical specimens"
+    ],
+    "Characteristics[Disease]": [
+      "colorectal carcinoma (CRC)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "CRC tissue"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep4"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in up to five technical replicates each"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Primary CRC (HLA-class I: n=30; HLA-class II: n=19) and corresponding non-malignant colon (NMC, HLA-class I: n=35; HLA-class II: n=20) tissue samples were obtained from surgical specimens (Suppl. Table 1)."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA-class I and II molecules were isolated by immunoaffinity purification using the panHLA-class I monoclonal antibody W6/32, the HLA-DR monoclonal antibody L243 and the panHLA-class II monoclonal antibody Tü39 (all produced in-house). Separate purification of HLA-class I and II ligands was performed eluting peptides with 0.2% trifluoroacetic acid."
+    ],
+    "Comment[Separation]": [
+      "nanoflow uHPLC (UltiMate 3000 RSLCnano System, ThermoFisher, Waltham, MA)"
+    ],
+    "Comment[GradientTime]": [
+      "90 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "top 5 collision-induced dissociation fragmentation method."
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap XL mass spectrometer (Thermo Fisher)"
+    ]
+  },
+  "UPN_13_HLA-class_II_CRC_malignant_Rep1.raw": {
+    "Source Name": [
+      "UPN_13_CRC_malignant"
+    ],
+    "Assay Name": [
+      "UPN_13_CRC_malignant_Rep1_HLA-class_II"
+    ],
+    "Raw Data File": [
+      "UPN_13_HLA-class_II_CRC_malignant_Rep1.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue samples"
+    ],
+    "Characteristics[Specimen]": [
+      "surgical specimens"
+    ],
+    "Characteristics[Disease]": [
+      "colorectal carcinoma (CRC)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "CRC tissue"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep1"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in up to five technical replicates each"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Primary CRC (HLA-class I: n=30; HLA-class II: n=19) and corresponding non-malignant colon (NMC, HLA-class I: n=35; HLA-class II: n=20) tissue samples were obtained from surgical specimens (Suppl. Table 1)."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA-class I and II molecules were isolated by immunoaffinity purification using the panHLA-class I monoclonal antibody W6/32, the HLA-DR monoclonal antibody L243 and the panHLA-class II monoclonal antibody Tü39 (all produced in-house). Separate purification of HLA-class I and II ligands was performed eluting peptides with 0.2% trifluoroacetic acid."
+    ],
+    "Comment[Separation]": [
+      "nanoflow uHPLC (UltiMate 3000 RSLCnano System, ThermoFisher, Waltham, MA)"
+    ],
+    "Comment[GradientTime]": [
+      "90 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "top 5 collision-induced dissociation fragmentation method."
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap XL mass spectrometer (Thermo Fisher)"
+    ]
+  },
+  "UPN_11_HLA-class_I_NMT_benign_Rep4.raw": {
+    "Source Name": [
+      "UPN_11_NMT_benign"
+    ],
+    "Assay Name": [
+      "UPN_11_NMT_benign_Rep4"
+    ],
+    "Raw Data File": [
+      "UPN_11_HLA-class_I_NMT_benign_Rep4.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue samples"
+    ],
+    "Characteristics[Specimen]": [
+      "surgical specimens"
+    ],
+    "Characteristics[Disease]": [
+      "colorectal carcinoma (CRC)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "non-malignant colon (NMC) tissue"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep4"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in up to five technical replicates each"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Primary CRC (HLA-class I: n=30; HLA-class II: n=19) and corresponding non-malignant colon (NMC, HLA-class I: n=35; HLA-class II: n=20) tissue samples were obtained from surgical specimens (Suppl. Table 1)."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA-class I and II molecules were isolated by immunoaffinity purification using the panHLA-class I monoclonal antibody W6/32, the HLA-DR monoclonal antibody L243 and the panHLA-class II monoclonal antibody Tü39 (all produced in-house). Separate purification of HLA-class I and II ligands was performed eluting peptides with 0.2% trifluoroacetic acid."
+    ],
+    "Comment[Separation]": [
+      "nanoflow uHPLC (UltiMate 3000 RSLCnano System, ThermoFisher, Waltham, MA)"
+    ],
+    "Comment[GradientTime]": [
+      "90 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "top 5 collision-induced dissociation fragmentation method."
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap XL mass spectrometer (Thermo Fisher)"
+    ]
+  },
+  "UPN_19_HLA-class_II_CRC_malignant_Rep3.raw": {
+    "Source Name": [
+      "UPN_19_CRC_malignant"
+    ],
+    "Assay Name": [
+      "UPN_19_CRC_malignant_Rep3"
+    ],
+    "Raw Data File": [
+      "UPN_19_HLA-class_II_CRC_malignant_Rep3.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue samples"
+    ],
+    "Characteristics[Specimen]": [
+      "surgical specimens"
+    ],
+    "Characteristics[Disease]": [
+      "colorectal carcinoma (CRC)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "CRC tissue"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep3"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in up to five technical replicates each"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Primary CRC (HLA-class I: n=30; HLA-class II: n=19) and corresponding non-malignant colon (NMC, HLA-class I: n=35; HLA-class II: n=20) tissue samples were obtained from surgical specimens (Suppl. Table 1)."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA-class I and II molecules were isolated by immunoaffinity purification using the panHLA-class I monoclonal antibody W6/32, the HLA-DR monoclonal antibody L243 and the panHLA-class II monoclonal antibody Tü39 (all produced in-house). Separate purification of HLA-class I and II ligands was performed eluting peptides with 0.2% trifluoroacetic acid."
+    ],
+    "Comment[Separation]": [
+      "nanoflow uHPLC (UltiMate 3000 RSLCnano System, ThermoFisher, Waltham, MA)"
+    ],
+    "Comment[GradientTime]": [
+      "90 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "top 5 collision-induced dissociation fragmentation method."
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap XL mass spectrometer (Thermo Fisher)"
+    ]
+  },
+  "UPN_21_HLA-class_II_NMT_benign_Rep1.raw": {
+    "Source Name": [
+      "UPN_21_NMT_benign"
+    ],
+    "Assay Name": [
+      "UPN_21_NMT_benign_Rep1"
+    ],
+    "Raw Data File": [
+      "UPN_21_HLA-class_II_NMT_benign_Rep1.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue samples"
+    ],
+    "Characteristics[Specimen]": [
+      "surgical specimens"
+    ],
+    "Characteristics[Disease]": [
+      "colorectal carcinoma (CRC)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "non-malignant colon (NMC) tissue"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep1"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in up to five technical replicates each"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Primary CRC (HLA-class I: n=30; HLA-class II: n=19) and corresponding non-malignant colon (NMC, HLA-class I: n=35; HLA-class II: n=20) tissue samples were obtained from surgical specimens (Suppl. Table 1)."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA-class I and II molecules were isolated by immunoaffinity purification using the panHLA-class I monoclonal antibody W6/32, the HLA-DR monoclonal antibody L243 and the panHLA-class II monoclonal antibody Tü39 (all produced in-house). Separate purification of HLA-class I and II ligands was performed eluting peptides with 0.2% trifluoroacetic acid."
+    ],
+    "Comment[Separation]": [
+      "nanoflow uHPLC (UltiMate 3000 RSLCnano System, ThermoFisher, Waltham, MA)"
+    ],
+    "Comment[GradientTime]": [
+      "90 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "top 5 collision-induced dissociation fragmentation method."
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap XL mass spectrometer (Thermo Fisher)"
+    ]
+  },
+  "UPN_19_HLA-class_I_NMT_benign_Rep2.raw": {
+    "Source Name": [
+      "UPN_19_NMT_benign"
+    ],
+    "Assay Name": [
+      "UPN_19_NMT_benign_Rep2"
+    ],
+    "Raw Data File": [
+      "UPN_19_HLA-class_I_NMT_benign_Rep2.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue samples"
+    ],
+    "Characteristics[Specimen]": [
+      "surgical specimens"
+    ],
+    "Characteristics[Disease]": [
+      "colorectal carcinoma (CRC)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "non-malignant colon (NMC) tissue"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep2"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in up to five technical replicates each"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Primary CRC (HLA-class I: n=30; HLA-class II: n=19) and corresponding non-malignant colon (NMC, HLA-class I: n=35; HLA-class II: n=20) tissue samples were obtained from surgical specimens (Suppl. Table 1)."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA-class I and II molecules were isolated by immunoaffinity purification using the panHLA-class I monoclonal antibody W6/32, the HLA-DR monoclonal antibody L243 and the panHLA-class II monoclonal antibody Tü39 (all produced in-house). Separate purification of HLA-class I and II ligands was performed eluting peptides with 0.2% trifluoroacetic acid."
+    ],
+    "Comment[Separation]": [
+      "nanoflow uHPLC (UltiMate 3000 RSLCnano System, ThermoFisher, Waltham, MA)"
+    ],
+    "Comment[GradientTime]": [
+      "90 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "top 5 collision-induced dissociation fragmentation method."
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap XL mass spectrometer (Thermo Fisher)"
+    ]
+  },
+  "UPN_20_HLA-class_II_CRC_malignant_Rep1.raw": {
+    "Source Name": [
+      "UPN_20_CRC_malignant"
+    ],
+    "Assay Name": [
+      "UPN_20_CRC_malignant_Rep1"
+    ],
+    "Raw Data File": [
+      "UPN_20_HLA-class_II_CRC_malignant_Rep1.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue samples"
+    ],
+    "Characteristics[Specimen]": [
+      "surgical specimens"
+    ],
+    "Characteristics[Disease]": [
+      "colorectal carcinoma (CRC)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "CRC tissue"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep1"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in up to five technical replicates each"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Primary CRC (HLA-class I: n=30; HLA-class II: n=19) and corresponding non-malignant colon (NMC, HLA-class I: n=35; HLA-class II: n=20) tissue samples were obtained from surgical specimens (Suppl. Table 1)."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA-class I and II molecules were isolated by immunoaffinity purification using the panHLA-class I monoclonal antibody W6/32, the HLA-DR monoclonal antibody L243 and the panHLA-class II monoclonal antibody Tü39 (all produced in-house). Separate purification of HLA-class I and II ligands was performed eluting peptides with 0.2% trifluoroacetic acid."
+    ],
+    "Comment[Separation]": [
+      "nanoflow uHPLC (UltiMate 3000 RSLCnano System, ThermoFisher, Waltham, MA)"
+    ],
+    "Comment[GradientTime]": [
+      "90 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "top 5 collision-induced dissociation fragmentation method."
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap XL mass spectrometer (Thermo Fisher)"
+    ]
+  },
+  "UPN_32_HLA-class_I_NMT_benign_Rep1.raw": {
+    "Source Name": [
+      "UPN_32_NMT_benign"
+    ],
+    "Assay Name": [
+      "UPN_32_NMT_benign_Rep1"
+    ],
+    "Raw Data File": [
+      "UPN_32_HLA-class_I_NMT_benign_Rep1.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue samples"
+    ],
+    "Characteristics[Specimen]": [
+      "surgical specimens"
+    ],
+    "Characteristics[Disease]": [
+      "colorectal carcinoma (CRC)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "non-malignant colon (NMC) tissue"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep1"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in up to five technical replicates each"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Primary CRC (HLA-class I: n=30; HLA-class II: n=19) and corresponding non-malignant colon (NMC, HLA-class I: n=35; HLA-class II: n=20) tissue samples were obtained from surgical specimens (Suppl. Table 1)."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA-class I and II molecules were isolated by immunoaffinity purification using the panHLA-class I monoclonal antibody W6/32, the HLA-DR monoclonal antibody L243 and the panHLA-class II monoclonal antibody Tü39 (all produced in-house). Separate purification of HLA-class I and II ligands was performed eluting peptides with 0.2% trifluoroacetic acid."
+    ],
+    "Comment[Separation]": [
+      "nanoflow uHPLC (UltiMate 3000 RSLCnano System, ThermoFisher, Waltham, MA)"
+    ],
+    "Comment[GradientTime]": [
+      "90 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "top 5 collision-induced dissociation fragmentation method."
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap XL mass spectrometer (Thermo Fisher)"
+    ]
+  },
+  "UPN_17_HLA-class_I_CRC_malignant_R1_remnant.raw": {
+    "Source Name": [
+      "UPN_17_CRC_malignant"
+    ],
+    "Assay Name": [
+      "UPN_17_CRC_malignant_R1_remnant"
+    ],
+    "Raw Data File": [
+      "UPN_17_HLA-class_I_CRC_malignant_R1_remnant.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue samples"
+    ],
+    "Characteristics[Specimen]": [
+      "surgical specimens"
+    ],
+    "Characteristics[Disease]": [
+      "colorectal carcinoma (CRC)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "CRC tissue"
+    ],
+    "Comment[FractionIdentifier]": [
+      "R1_remnant"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in up to five technical replicates each"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Primary CRC (HLA-class I: n=30; HLA-class II: n=19) and corresponding non-malignant colon (NMC, HLA-class I: n=35; HLA-class II: n=20) tissue samples were obtained from surgical specimens (Suppl. Table 1)."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA-class I and II molecules were isolated by immunoaffinity purification using the panHLA-class I monoclonal antibody W6/32, the HLA-DR monoclonal antibody L243 and the panHLA-class II monoclonal antibody Tü39 (all produced in-house). Separate purification of HLA-class I and II ligands was performed eluting peptides with 0.2% trifluoroacetic acid."
+    ],
+    "Comment[Separation]": [
+      "nanoflow uHPLC (UltiMate 3000 RSLCnano System, ThermoFisher, Waltham, MA)"
+    ],
+    "Comment[GradientTime]": [
+      "90 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "top 5 collision-induced dissociation fragmentation method."
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap XL mass spectrometer (Thermo Fisher)"
+    ]
+  },
+  "UPN_32_HLA-class_II_NMT_benign_Rep3.raw": {
+    "Source Name": [
+      "UPN_32_NMT_benign"
+    ],
+    "Assay Name": [
+      "UPN_32_NMT_benign_Rep3"
+    ],
+    "Raw Data File": [
+      "UPN_32_HLA-class_II_NMT_benign_Rep3.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue samples"
+    ],
+    "Characteristics[Specimen]": [
+      "surgical specimens"
+    ],
+    "Characteristics[Disease]": [
+      "colorectal carcinoma (CRC)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "non-malignant colon (NMC) tissue"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep3"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in up to five technical replicates each"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Primary CRC (HLA-class I: n=30; HLA-class II: n=19) and corresponding non-malignant colon (NMC, HLA-class I: n=35; HLA-class II: n=20) tissue samples were obtained from surgical specimens (Suppl. Table 1)."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA-class I and II molecules were isolated by immunoaffinity purification using the panHLA-class I monoclonal antibody W6/32, the HLA-DR monoclonal antibody L243 and the panHLA-class II monoclonal antibody Tü39 (all produced in-house). Separate purification of HLA-class I and II ligands was performed eluting peptides with 0.2% trifluoroacetic acid."
+    ],
+    "Comment[Separation]": [
+      "nanoflow uHPLC (UltiMate 3000 RSLCnano System, ThermoFisher, Waltham, MA)"
+    ],
+    "Comment[GradientTime]": [
+      "90 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "top 5 collision-induced dissociation fragmentation method."
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap XL mass spectrometer (Thermo Fisher)"
+    ]
+  },
+  "UPN_16_HLA-class_II_NMT_benign_Rep2.raw": {
+    "Source Name": [
+      "UPN_16_NMT_benign"
+    ],
+    "Assay Name": [
+      "UPN_16_NMT_benign_Rep2"
+    ],
+    "Raw Data File": [
+      "UPN_16_HLA-class_II_NMT_benign_Rep2.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue samples"
+    ],
+    "Characteristics[Specimen]": [
+      "surgical specimens"
+    ],
+    "Characteristics[Disease]": [
+      "colorectal carcinoma (CRC)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "non-malignant colon (NMC) tissue"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep2"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in up to five technical replicates each"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Primary CRC (HLA-class I: n=30; HLA-class II: n=19) and corresponding non-malignant colon (NMC, HLA-class I: n=35; HLA-class II: n=20) tissue samples were obtained from surgical specimens (Suppl. Table 1)."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA-class I and II molecules were isolated by immunoaffinity purification using the panHLA-class I monoclonal antibody W6/32, the HLA-DR monoclonal antibody L243 and the panHLA-class II monoclonal antibody Tü39 (all produced in-house). Separate purification of HLA-class I and II ligands was performed eluting peptides with 0.2% trifluoroacetic acid."
+    ],
+    "Comment[Separation]": [
+      "nanoflow uHPLC (UltiMate 3000 RSLCnano System, ThermoFisher, Waltham, MA)"
+    ],
+    "Comment[GradientTime]": [
+      "90 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "top 5 collision-induced dissociation fragmentation method."
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap XL mass spectrometer (Thermo Fisher)"
+    ]
+  },
+  "UPN_19_HLA-class_I_CRC_malignant_Rep1.raw": {
+    "Source Name": [
+      "UPN_19_CRC_malignant"
+    ],
+    "Assay Name": [
+      "UPN_19_CRC_malignant_Rep1_HLA-class_I"
+    ],
+    "Raw Data File": [
+      "UPN_19_HLA-class_I_CRC_malignant_Rep1.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue samples"
+    ],
+    "Characteristics[Specimen]": [
+      "surgical specimens"
+    ],
+    "Characteristics[Disease]": [
+      "colorectal carcinoma (CRC)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "CRC tissue"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep1"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in up to five technical replicates each"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Primary CRC (HLA-class I: n=30; HLA-class II: n=19) and corresponding non-malignant colon (NMC, HLA-class I: n=35; HLA-class II: n=20) tissue samples were obtained from surgical specimens (Suppl. Table 1)."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA-class I and II molecules were isolated by immunoaffinity purification using the panHLA-class I monoclonal antibody W6/32, the HLA-DR monoclonal antibody L243 and the panHLA-class II monoclonal antibody Tü39 (all produced in-house). Separate purification of HLA-class I and II ligands was performed eluting peptides with 0.2% trifluoroacetic acid."
+    ],
+    "Comment[Separation]": [
+      "nanoflow uHPLC (UltiMate 3000 RSLCnano System, ThermoFisher, Waltham, MA)"
+    ],
+    "Comment[GradientTime]": [
+      "90 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "top 5 collision-induced dissociation fragmentation method."
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap XL mass spectrometer (Thermo Fisher)"
+    ]
+  },
+  "UPN_19_HLA-class_II_NMT_benign_Rep1.raw": {
+    "Source Name": [
+      "UPN_19_NMT_benign"
+    ],
+    "Assay Name": [
+      "UPN_19_NMT_benign_Rep1"
+    ],
+    "Raw Data File": [
+      "UPN_19_HLA-class_II_NMT_benign_Rep1.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue samples"
+    ],
+    "Characteristics[Specimen]": [
+      "surgical specimens"
+    ],
+    "Characteristics[Disease]": [
+      "colorectal carcinoma (CRC)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "non-malignant colon (NMC) tissue"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep1"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in up to five technical replicates each"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Primary CRC (HLA-class I: n=30; HLA-class II: n=19) and corresponding non-malignant colon (NMC, HLA-class I: n=35; HLA-class II: n=20) tissue samples were obtained from surgical specimens (Suppl. Table 1)."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA-class I and II molecules were isolated by immunoaffinity purification using the panHLA-class I monoclonal antibody W6/32, the HLA-DR monoclonal antibody L243 and the panHLA-class II monoclonal antibody Tü39 (all produced in-house). Separate purification of HLA-class I and II ligands was performed eluting peptides with 0.2% trifluoroacetic acid."
+    ],
+    "Comment[Separation]": [
+      "nanoflow uHPLC (UltiMate 3000 RSLCnano System, ThermoFisher, Waltham, MA)"
+    ],
+    "Comment[GradientTime]": [
+      "90 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "top 5 collision-induced dissociation fragmentation method."
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap XL mass spectrometer (Thermo Fisher)"
+    ]
+  },
+  "UPN_15_HLA-class_I_CRC_malignant_Rep2.raw": {
+    "Source Name": [
+      "UPN_15_CRC_malignant"
+    ],
+    "Assay Name": [
+      "UPN_15_CRC_malignant_Rep2"
+    ],
+    "Raw Data File": [
+      "UPN_15_HLA-class_I_CRC_malignant_Rep2.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue samples"
+    ],
+    "Characteristics[Specimen]": [
+      "surgical specimens"
+    ],
+    "Characteristics[Disease]": [
+      "colorectal carcinoma (CRC)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "CRC tissue"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep2"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in up to five technical replicates each"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Primary CRC (HLA-class I: n=30; HLA-class II: n=19) and corresponding non-malignant colon (NMC, HLA-class I: n=35; HLA-class II: n=20) tissue samples were obtained from surgical specimens (Suppl. Table 1)."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA-class I and II molecules were isolated by immunoaffinity purification using the panHLA-class I monoclonal antibody W6/32, the HLA-DR monoclonal antibody L243 and the panHLA-class II monoclonal antibody Tü39 (all produced in-house). Separate purification of HLA-class I and II ligands was performed eluting peptides with 0.2% trifluoroacetic acid."
+    ],
+    "Comment[Separation]": [
+      "nanoflow uHPLC (UltiMate 3000 RSLCnano System, ThermoFisher, Waltham, MA)"
+    ],
+    "Comment[GradientTime]": [
+      "90 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "top 5 collision-induced dissociation fragmentation method."
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap XL mass spectrometer (Thermo Fisher)"
+    ]
+  },
+  "UPN_19_HLA-class_I_CRC_malignant_Rep3.raw": {
+    "Source Name": [
+      "UPN_19_CRC_malignant"
+    ],
+    "Assay Name": [
+      "UPN_19_CRC_malignant_Rep3_HLA-class_I"
+    ],
+    "Raw Data File": [
+      "UPN_19_HLA-class_I_CRC_malignant_Rep3.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue samples"
+    ],
+    "Characteristics[Specimen]": [
+      "surgical specimens"
+    ],
+    "Characteristics[Disease]": [
+      "colorectal carcinoma (CRC)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "CRC tissue"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep3"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in up to five technical replicates each"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Primary CRC (HLA-class I: n=30; HLA-class II: n=19) and corresponding non-malignant colon (NMC, HLA-class I: n=35; HLA-class II: n=20) tissue samples were obtained from surgical specimens (Suppl. Table 1)."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA-class I and II molecules were isolated by immunoaffinity purification using the panHLA-class I monoclonal antibody W6/32, the HLA-DR monoclonal antibody L243 and the panHLA-class II monoclonal antibody Tü39 (all produced in-house). Separate purification of HLA-class I and II ligands was performed eluting peptides with 0.2% trifluoroacetic acid."
+    ],
+    "Comment[Separation]": [
+      "nanoflow uHPLC (UltiMate 3000 RSLCnano System, ThermoFisher, Waltham, MA)"
+    ],
+    "Comment[GradientTime]": [
+      "90 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "top 5 collision-induced dissociation fragmentation method."
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap XL mass spectrometer (Thermo Fisher)"
+    ]
+  },
+  "UPN_8_HLA-class_II_CRC_malignant_Rep4.raw": {
+    "Source Name": [
+      "UPN_8_CRC_malignant"
+    ],
+    "Assay Name": [
+      "UPN_8_CRC_malignant_Rep4"
+    ],
+    "Raw Data File": [
+      "UPN_8_HLA-class_II_CRC_malignant_Rep4.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue samples"
+    ],
+    "Characteristics[Specimen]": [
+      "surgical specimens"
+    ],
+    "Characteristics[Disease]": [
+      "colorectal carcinoma (CRC)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "CRC tissue"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep4"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in up to five technical replicates each"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Primary CRC (HLA-class I: n=30; HLA-class II: n=19) and corresponding non-malignant colon (NMC, HLA-class I: n=35; HLA-class II: n=20) tissue samples were obtained from surgical specimens (Suppl. Table 1)."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA-class I and II molecules were isolated by immunoaffinity purification using the panHLA-class I monoclonal antibody W6/32, the HLA-DR monoclonal antibody L243 and the panHLA-class II monoclonal antibody Tü39 (all produced in-house). Separate purification of HLA-class I and II ligands was performed eluting peptides with 0.2% trifluoroacetic acid."
+    ],
+    "Comment[Separation]": [
+      "nanoflow uHPLC (UltiMate 3000 RSLCnano System, ThermoFisher, Waltham, MA)"
+    ],
+    "Comment[GradientTime]": [
+      "90 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "top 5 collision-induced dissociation fragmentation method."
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap XL mass spectrometer (Thermo Fisher)"
+    ]
+  },
+  "UPN_17_HLA-class_I_CRC_malignant_Rep5.raw": {
+    "Source Name": [
+      "UPN_17_CRC_malignant"
+    ],
+    "Assay Name": [
+      "UPN_17_CRC_malignant_Rep5"
+    ],
+    "Raw Data File": [
+      "UPN_17_HLA-class_I_CRC_malignant_Rep5.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue samples"
+    ],
+    "Characteristics[Specimen]": [
+      "surgical specimens"
+    ],
+    "Characteristics[Disease]": [
+      "colorectal carcinoma (CRC)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "CRC tissue"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep5"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in up to five technical replicates each"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Primary CRC (HLA-class I: n=30; HLA-class II: n=19) and corresponding non-malignant colon (NMC, HLA-class I: n=35; HLA-class II: n=20) tissue samples were obtained from surgical specimens (Suppl. Table 1)."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA-class I and II molecules were isolated by immunoaffinity purification using the panHLA-class I monoclonal antibody W6/32, the HLA-DR monoclonal antibody L243 and the panHLA-class II monoclonal antibody Tü39 (all produced in-house). Separate purification of HLA-class I and II ligands was performed eluting peptides with 0.2% trifluoroacetic acid."
+    ],
+    "Comment[Separation]": [
+      "nanoflow uHPLC (UltiMate 3000 RSLCnano System, ThermoFisher, Waltham, MA)"
+    ],
+    "Comment[GradientTime]": [
+      "90 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "top 5 collision-induced dissociation fragmentation method."
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap XL mass spectrometer (Thermo Fisher)"
+    ]
+  },
+  "UPN_17_HLA-class_II_CRC_malignant_PA_pre-adjustment.raw": {
+    "Source Name": [
+      "UPN_17_CRC_malignant"
+    ],
+    "Assay Name": [
+      "UPN_17_CRC_malignant_PA_pre-adjustment"
+    ],
+    "Raw Data File": [
+      "UPN_17_HLA-class_II_CRC_malignant_PA_pre-adjustment.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue samples"
+    ],
+    "Characteristics[Specimen]": [
+      "surgical specimens"
+    ],
+    "Characteristics[Disease]": [
+      "colorectal carcinoma (CRC)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "CRC tissue"
+    ],
+    "Comment[FractionIdentifier]": [
+      "PA_pre-adjustment"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in up to five technical replicates each"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Primary CRC (HLA-class I: n=30; HLA-class II: n=19) and corresponding non-malignant colon (NMC, HLA-class I: n=35; HLA-class II: n=20) tissue samples were obtained from surgical specimens (Suppl. Table 1)."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA-class I and II molecules were isolated by immunoaffinity purification using the panHLA-class I monoclonal antibody W6/32, the HLA-DR monoclonal antibody L243 and the panHLA-class II monoclonal antibody Tü39 (all produced in-house). Separate purification of HLA-class I and II ligands was performed eluting peptides with 0.2% trifluoroacetic acid."
+    ],
+    "Comment[Separation]": [
+      "nanoflow uHPLC (UltiMate 3000 RSLCnano System, ThermoFisher, Waltham, MA)"
+    ],
+    "Comment[GradientTime]": [
+      "90 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "top 5 collision-induced dissociation fragmentation method."
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap XL mass spectrometer (Thermo Fisher)"
+    ]
+  },
+  "UPN_32_HLA-class_II_CRC_malignant_Rep2.raw": {
+    "Source Name": [
+      "UPN_32_CRC_malignant"
+    ],
+    "Assay Name": [
+      "UPN_32_CRC_malignant_Rep2"
+    ],
+    "Raw Data File": [
+      "UPN_32_HLA-class_II_CRC_malignant_Rep2.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue samples"
+    ],
+    "Characteristics[Specimen]": [
+      "surgical specimens"
+    ],
+    "Characteristics[Disease]": [
+      "colorectal carcinoma (CRC)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "CRC tissue"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep2"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in up to five technical replicates each"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Primary CRC (HLA-class I: n=30; HLA-class II: n=19) and corresponding non-malignant colon (NMC, HLA-class I: n=35; HLA-class II: n=20) tissue samples were obtained from surgical specimens (Suppl. Table 1)."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA-class I and II molecules were isolated by immunoaffinity purification using the panHLA-class I monoclonal antibody W6/32, the HLA-DR monoclonal antibody L243 and the panHLA-class II monoclonal antibody Tü39 (all produced in-house). Separate purification of HLA-class I and II ligands was performed eluting peptides with 0.2% trifluoroacetic acid."
+    ],
+    "Comment[Separation]": [
+      "nanoflow uHPLC (UltiMate 3000 RSLCnano System, ThermoFisher, Waltham, MA)"
+    ],
+    "Comment[GradientTime]": [
+      "90 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "top 5 collision-induced dissociation fragmentation method."
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap XL mass spectrometer (Thermo Fisher)"
+    ]
+  },
+  "UPN_32_HLA-class_I_NMT_benign_Rep2.raw": {
+    "Source Name": [
+      "UPN_32_NMT_benign"
+    ],
+    "Assay Name": [
+      "UPN_32_NMT_benign_Rep2"
+    ],
+    "Raw Data File": [
+      "UPN_32_HLA-class_I_NMT_benign_Rep2.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue samples"
+    ],
+    "Characteristics[Specimen]": [
+      "surgical specimens"
+    ],
+    "Characteristics[Disease]": [
+      "colorectal carcinoma (CRC)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "non-malignant colon (NMC) tissue"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep2"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in up to five technical replicates each"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Primary CRC (HLA-class I: n=30; HLA-class II: n=19) and corresponding non-malignant colon (NMC, HLA-class I: n=35; HLA-class II: n=20) tissue samples were obtained from surgical specimens (Suppl. Table 1)."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA-class I and II molecules were isolated by immunoaffinity purification using the panHLA-class I monoclonal antibody W6/32, the HLA-DR monoclonal antibody L243 and the panHLA-class II monoclonal antibody Tü39 (all produced in-house). Separate purification of HLA-class I and II ligands was performed eluting peptides with 0.2% trifluoroacetic acid."
+    ],
+    "Comment[Separation]": [
+      "nanoflow uHPLC (UltiMate 3000 RSLCnano System, ThermoFisher, Waltham, MA)"
+    ],
+    "Comment[GradientTime]": [
+      "90 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "top 5 collision-induced dissociation fragmentation method."
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap XL mass spectrometer (Thermo Fisher)"
+    ]
+  },
+  "UPN_11_HLA-class_I_CRC_malignant_Rep1.raw": {
+    "Source Name": [
+      "UPN_11_CRC_malignant"
+    ],
+    "Assay Name": [
+      "UPN_11_CRC_malignant_Rep1_HLA-class_I"
+    ],
+    "Raw Data File": [
+      "UPN_11_HLA-class_I_CRC_malignant_Rep1.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue samples"
+    ],
+    "Characteristics[Specimen]": [
+      "surgical specimens"
+    ],
+    "Characteristics[Disease]": [
+      "colorectal carcinoma (CRC)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "CRC tissue"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep1"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in up to five technical replicates each"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Primary CRC (HLA-class I: n=30; HLA-class II: n=19) and corresponding non-malignant colon (NMC, HLA-class I: n=35; HLA-class II: n=20) tissue samples were obtained from surgical specimens (Suppl. Table 1)."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA-class I and II molecules were isolated by immunoaffinity purification using the panHLA-class I monoclonal antibody W6/32, the HLA-DR monoclonal antibody L243 and the panHLA-class II monoclonal antibody Tü39 (all produced in-house). Separate purification of HLA-class I and II ligands was performed eluting peptides with 0.2% trifluoroacetic acid."
+    ],
+    "Comment[Separation]": [
+      "nanoflow uHPLC (UltiMate 3000 RSLCnano System, ThermoFisher, Waltham, MA)"
+    ],
+    "Comment[GradientTime]": [
+      "90 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "top 5 collision-induced dissociation fragmentation method."
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap XL mass spectrometer (Thermo Fisher)"
+    ]
+  },
+  "UPN_13_HLA-class_II_NMT_benign_Rep3.raw": {
+    "Source Name": [
+      "UPN_13_NMT_benign"
+    ],
+    "Assay Name": [
+      "UPN_13_NMT_benign_Rep3"
+    ],
+    "Raw Data File": [
+      "UPN_13_HLA-class_II_NMT_benign_Rep3.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue samples"
+    ],
+    "Characteristics[Specimen]": [
+      "surgical specimens"
+    ],
+    "Characteristics[Disease]": [
+      "colorectal carcinoma (CRC)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "non-malignant colon (NMC) tissue"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep3"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in up to five technical replicates each"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Primary CRC (HLA-class I: n=30; HLA-class II: n=19) and corresponding non-malignant colon (NMC, HLA-class I: n=35; HLA-class II: n=20) tissue samples were obtained from surgical specimens (Suppl. Table 1)."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA-class I and II molecules were isolated by immunoaffinity purification using the panHLA-class I monoclonal antibody W6/32, the HLA-DR monoclonal antibody L243 and the panHLA-class II monoclonal antibody Tü39 (all produced in-house). Separate purification of HLA-class I and II ligands was performed eluting peptides with 0.2% trifluoroacetic acid."
+    ],
+    "Comment[Separation]": [
+      "nanoflow uHPLC (UltiMate 3000 RSLCnano System, ThermoFisher, Waltham, MA)"
+    ],
+    "Comment[GradientTime]": [
+      "90 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "top 5 collision-induced dissociation fragmentation method."
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap XL mass spectrometer (Thermo Fisher)"
+    ]
+  },
+  "UPN_21_HLA-class_II_NMT_benign_Rep4.raw": {
+    "Source Name": [
+      "UPN_21_NMT_benign"
+    ],
+    "Assay Name": [
+      "UPN_21_NMT_benign_Rep4"
+    ],
+    "Raw Data File": [
+      "UPN_21_HLA-class_II_NMT_benign_Rep4.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue samples"
+    ],
+    "Characteristics[Specimen]": [
+      "surgical specimens"
+    ],
+    "Characteristics[Disease]": [
+      "colorectal carcinoma (CRC)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "non-malignant colon (NMC) tissue"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep4"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in up to five technical replicates each"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Primary CRC (HLA-class I: n=30; HLA-class II: n=19) and corresponding non-malignant colon (NMC, HLA-class I: n=35; HLA-class II: n=20) tissue samples were obtained from surgical specimens (Suppl. Table 1)."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA-class I and II molecules were isolated by immunoaffinity purification using the panHLA-class I monoclonal antibody W6/32, the HLA-DR monoclonal antibody L243 and the panHLA-class II monoclonal antibody Tü39 (all produced in-house). Separate purification of HLA-class I and II ligands was performed eluting peptides with 0.2% trifluoroacetic acid."
+    ],
+    "Comment[Separation]": [
+      "nanoflow uHPLC (UltiMate 3000 RSLCnano System, ThermoFisher, Waltham, MA)"
+    ],
+    "Comment[GradientTime]": [
+      "90 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "top 5 collision-induced dissociation fragmentation method."
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap XL mass spectrometer (Thermo Fisher)"
+    ]
+  },
+  "UPN_12_HLA-class_I_NMT_benign_Rep3.raw": {
+    "Source Name": [
+      "UPN_12_NMT_benign"
+    ],
+    "Assay Name": [
+      "UPN_12_NMT_benign_Rep3"
+    ],
+    "Raw Data File": [
+      "UPN_12_HLA-class_I_NMT_benign_Rep3.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue samples"
+    ],
+    "Characteristics[Specimen]": [
+      "surgical specimens"
+    ],
+    "Characteristics[Disease]": [
+      "colorectal carcinoma (CRC)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "non-malignant colon (NMC) tissue"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep3"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in up to five technical replicates each"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Primary CRC (HLA-class I: n=30; HLA-class II: n=19) and corresponding non-malignant colon (NMC, HLA-class I: n=35; HLA-class II: n=20) tissue samples were obtained from surgical specimens (Suppl. Table 1)."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA-class I and II molecules were isolated by immunoaffinity purification using the panHLA-class I monoclonal antibody W6/32, the HLA-DR monoclonal antibody L243 and the panHLA-class II monoclonal antibody Tü39 (all produced in-house). Separate purification of HLA-class I and II ligands was performed eluting peptides with 0.2% trifluoroacetic acid."
+    ],
+    "Comment[Separation]": [
+      "nanoflow uHPLC (UltiMate 3000 RSLCnano System, ThermoFisher, Waltham, MA)"
+    ],
+    "Comment[GradientTime]": [
+      "90 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "top 5 collision-induced dissociation fragmentation method."
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap XL mass spectrometer (Thermo Fisher)"
+    ]
+  },
+  "UPN_12_HLA-class_I_CRC_malignant_R2_remnant.raw": {
+    "Source Name": [
+      "UPN_12_CRC_malignant"
+    ],
+    "Assay Name": [
+      "UPN_12_CRC_malignant_R2_remnant"
+    ],
+    "Raw Data File": [
+      "UPN_12_HLA-class_I_CRC_malignant_R2_remnant.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue samples"
+    ],
+    "Characteristics[Specimen]": [
+      "surgical specimens"
+    ],
+    "Characteristics[Disease]": [
+      "colorectal carcinoma (CRC)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "CRC tissue"
+    ],
+    "Comment[FractionIdentifier]": [
+      "R2_remnant"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in up to five technical replicates each"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Primary CRC (HLA-class I: n=30; HLA-class II: n=19) and corresponding non-malignant colon (NMC, HLA-class I: n=35; HLA-class II: n=20) tissue samples were obtained from surgical specimens (Suppl. Table 1)."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA-class I and II molecules were isolated by immunoaffinity purification using the panHLA-class I monoclonal antibody W6/32, the HLA-DR monoclonal antibody L243 and the panHLA-class II monoclonal antibody Tü39 (all produced in-house). Separate purification of HLA-class I and II ligands was performed eluting peptides with 0.2% trifluoroacetic acid."
+    ],
+    "Comment[Separation]": [
+      "nanoflow uHPLC (UltiMate 3000 RSLCnano System, ThermoFisher, Waltham, MA)"
+    ],
+    "Comment[GradientTime]": [
+      "90 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "top 5 collision-induced dissociation fragmentation method."
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap XL mass spectrometer (Thermo Fisher)"
+    ]
+  },
+  "UPN_11_HLA-class_I_NMT_benign_Rep1.raw": {
+    "Source Name": [
+      "UPN_11_NMT_benign"
+    ],
+    "Assay Name": [
+      "UPN_11_NMT_benign_Rep1"
+    ],
+    "Raw Data File": [
+      "UPN_11_HLA-class_I_NMT_benign_Rep1.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue samples"
+    ],
+    "Characteristics[Specimen]": [
+      "surgical specimens"
+    ],
+    "Characteristics[Disease]": [
+      "colorectal carcinoma (CRC)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "non-malignant colon (NMC) tissue"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep1"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in up to five technical replicates each"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Primary CRC (HLA-class I: n=30; HLA-class II: n=19) and corresponding non-malignant colon (NMC, HLA-class I: n=35; HLA-class II: n=20) tissue samples were obtained from surgical specimens (Suppl. Table 1)."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA-class I and II molecules were isolated by immunoaffinity purification using the panHLA-class I monoclonal antibody W6/32, the HLA-DR monoclonal antibody L243 and the panHLA-class II monoclonal antibody Tü39 (all produced in-house). Separate purification of HLA-class I and II ligands was performed eluting peptides with 0.2% trifluoroacetic acid."
+    ],
+    "Comment[Separation]": [
+      "nanoflow uHPLC (UltiMate 3000 RSLCnano System, ThermoFisher, Waltham, MA)"
+    ],
+    "Comment[GradientTime]": [
+      "90 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "top 5 collision-induced dissociation fragmentation method."
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap XL mass spectrometer (Thermo Fisher)"
+    ]
+  },
+  "UPN_20_HLA-class_II_CRC_malignant_Rep4.raw": {
+    "Source Name": [
+      "UPN_20_CRC_malignant"
+    ],
+    "Assay Name": [
+      "UPN_20_CRC_malignant_Rep4"
+    ],
+    "Raw Data File": [
+      "UPN_20_HLA-class_II_CRC_malignant_Rep4.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue samples"
+    ],
+    "Characteristics[Specimen]": [
+      "surgical specimens"
+    ],
+    "Characteristics[Disease]": [
+      "colorectal carcinoma (CRC)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "CRC tissue"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep4"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in up to five technical replicates each"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Primary CRC (HLA-class I: n=30; HLA-class II: n=19) and corresponding non-malignant colon (NMC, HLA-class I: n=35; HLA-class II: n=20) tissue samples were obtained from surgical specimens (Suppl. Table 1)."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA-class I and II molecules were isolated by immunoaffinity purification using the panHLA-class I monoclonal antibody W6/32, the HLA-DR monoclonal antibody L243 and the panHLA-class II monoclonal antibody Tü39 (all produced in-house). Separate purification of HLA-class I and II ligands was performed eluting peptides with 0.2% trifluoroacetic acid."
+    ],
+    "Comment[Separation]": [
+      "nanoflow uHPLC (UltiMate 3000 RSLCnano System, ThermoFisher, Waltham, MA)"
+    ],
+    "Comment[GradientTime]": [
+      "90 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "top 5 collision-induced dissociation fragmentation method."
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap XL mass spectrometer (Thermo Fisher)"
+    ]
+  },
+  "UPN_8_HLA-class_II_NMT_benign_Rep2.raw": {
+    "Source Name": [
+      "UPN_8_NMT_benign"
+    ],
+    "Assay Name": [
+      "UPN_8_NMT_benign_Rep2"
+    ],
+    "Raw Data File": [
+      "UPN_8_HLA-class_II_NMT_benign_Rep2.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue samples"
+    ],
+    "Characteristics[Specimen]": [
+      "surgical specimens"
+    ],
+    "Characteristics[Disease]": [
+      "colorectal carcinoma (CRC)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "non-malignant colon (NMC) tissue"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep2"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in up to five technical replicates each"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Primary CRC (HLA-class I: n=30; HLA-class II: n=19) and corresponding non-malignant colon (NMC, HLA-class I: n=35; HLA-class II: n=20) tissue samples were obtained from surgical specimens (Suppl. Table 1)."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA-class I and II molecules were isolated by immunoaffinity purification using the panHLA-class I monoclonal antibody W6/32, the HLA-DR monoclonal antibody L243 and the panHLA-class II monoclonal antibody Tü39 (all produced in-house). Separate purification of HLA-class I and II ligands was performed eluting peptides with 0.2% trifluoroacetic acid."
+    ],
+    "Comment[Separation]": [
+      "nanoflow uHPLC (UltiMate 3000 RSLCnano System, ThermoFisher, Waltham, MA)"
+    ],
+    "Comment[GradientTime]": [
+      "90 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "top 5 collision-induced dissociation fragmentation method."
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap XL mass spectrometer (Thermo Fisher)"
+    ]
+  },
+  "UPN_17_HLA-class_I_CRC_malignant_Rep1.raw": {
+    "Source Name": [
+      "UPN_17_CRC_malignant"
+    ],
+    "Assay Name": [
+      "UPN_17_CRC_malignant_Rep1"
+    ],
+    "Raw Data File": [
+      "UPN_17_HLA-class_I_CRC_malignant_Rep1.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue samples"
+    ],
+    "Characteristics[Specimen]": [
+      "surgical specimens"
+    ],
+    "Characteristics[Disease]": [
+      "colorectal carcinoma (CRC)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "CRC tissue"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep1"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "analyzed in up to five technical replicates each"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Primary CRC (HLA-class I: n=30; HLA-class II: n=19) and corresponding non-malignant colon (NMC, HLA-class I: n=35; HLA-class II: n=20) tissue samples were obtained from surgical specimens (Suppl. Table 1)."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "HLA-class I and II molecules were isolated by immunoaffinity purification using the panHLA-class I monoclonal antibody W6/32, the HLA-DR monoclonal antibody L243 and the panHLA-class II monoclonal antibody Tü39 (all produced in-house). Separate purification of HLA-class I and II ligands was performed eluting peptides with 0.2% trifluoroacetic acid."
+    ],
+    "Comment[Separation]": [
+      "nanoflow uHPLC (UltiMate 3000 RSLCnano System, ThermoFisher, Waltham, MA)"
+    ],
+    "Comment[GradientTime]": [
+      "90 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "top 5 collision-induced dissociation fragmentation method."
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap XL mass spectrometer (Thermo Fisher)"
+    ]
+  }
+}

@@ -1,0 +1,607 @@
+{
+  "92-149139488_C1.raw": {
+    "Source Name": [
+      "PfPDEβΔcatHA"
+    ],
+    "Assay Name": [
+      "PfPDEβΔcatHA_C1"
+    ],
+    "Raw Data File": [
+      "92-149139488_C1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "P. falciparum",
+      "Homo sapiens"
+    ],
+    "Characteristics[MaterialType]": [
+      "Fully segmented schizonts"
+    ],
+    "Characteristics[OrganismPart]": [
+      "human A+ erythrocytes"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "TMTsixplex",
+      "TMT6-126"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "titanium dioxide beads (5:1 [w/w] beads:protein)"
+    ],
+    "Comment[FractionationMethod]": [
+      "Pierce High pH Reversed-Phase Peptide Fractionation Kit"
+    ],
+    "Comment[Separation]": [
+      "75 μm × 50 cm C18 column"
+    ],
+    "Comment[GradientTime]": [
+      "3-hour gradient elution"
+    ],
+    "Comment[FractionIdentifier]": [
+      "C1"
+    ]
+  },
+  "92-149139489_D1.raw": {
+    "Source Name": [
+      "PfPDEβΔcatHA"
+    ],
+    "Assay Name": [
+      "PfPDEβΔcatHA_D1"
+    ],
+    "Raw Data File": [
+      "92-149139489_D1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "P. falciparum",
+      "Homo sapiens"
+    ],
+    "Characteristics[MaterialType]": [
+      "Fully segmented schizonts"
+    ],
+    "Characteristics[OrganismPart]": [
+      "human A+ erythrocytes"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "TMTsixplex",
+      "TMT6-126"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "titanium dioxide beads (5:1 [w/w] beads:protein)"
+    ],
+    "Comment[FractionationMethod]": [
+      "Pierce High pH Reversed-Phase Peptide Fractionation Kit"
+    ],
+    "Comment[Separation]": [
+      "75 μm × 50 cm C18 column"
+    ],
+    "Comment[GradientTime]": [
+      "3-hour gradient elution"
+    ],
+    "Comment[FractionIdentifier]": [
+      "D1"
+    ]
+  },
+  "92-149138155_A1.raw": {
+    "Source Name": [
+      "PfPDEβΔcatHA"
+    ],
+    "Assay Name": [
+      "PfPDEβΔcatHA_A1"
+    ],
+    "Raw Data File": [
+      "92-149138155_A1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "P. falciparum",
+      "Homo sapiens"
+    ],
+    "Characteristics[MaterialType]": [
+      "Fully segmented schizonts"
+    ],
+    "Characteristics[OrganismPart]": [
+      "human A+ erythrocytes"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "TMTsixplex",
+      "TMT6-126"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "titanium dioxide beads (5:1 [w/w] beads:protein)"
+    ],
+    "Comment[FractionationMethod]": [
+      "Pierce High pH Reversed-Phase Peptide Fractionation Kit"
+    ],
+    "Comment[Separation]": [
+      "75 μm × 50 cm C18 column"
+    ],
+    "Comment[GradientTime]": [
+      "3-hour gradient elution"
+    ],
+    "Comment[FractionIdentifier]": [
+      "A1"
+    ]
+  },
+  "92-149139486_A1.raw": {
+    "Source Name": [
+      "PfPDEβΔcatHA"
+    ],
+    "Assay Name": [
+      "PfPDEβΔcatHA_A1"
+    ],
+    "Raw Data File": [
+      "92-149139486_A1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "P. falciparum",
+      "Homo sapiens"
+    ],
+    "Characteristics[MaterialType]": [
+      "Fully segmented schizonts"
+    ],
+    "Characteristics[OrganismPart]": [
+      "human A+ erythrocytes"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "TMTsixplex",
+      "TMT6-126"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "titanium dioxide beads (5:1 [w/w] beads:protein)"
+    ],
+    "Comment[FractionationMethod]": [
+      "Pierce High pH Reversed-Phase Peptide Fractionation Kit"
+    ],
+    "Comment[Separation]": [
+      "75 μm × 50 cm C18 column"
+    ],
+    "Comment[GradientTime]": [
+      "3-hour gradient elution"
+    ],
+    "Comment[FractionIdentifier]": [
+      "A1"
+    ]
+  },
+  "92-149138154_A1.raw": {
+    "Source Name": [
+      "PfPDEβΔcatHA"
+    ],
+    "Assay Name": [
+      "PfPDEβΔcatHA_A1"
+    ],
+    "Raw Data File": [
+      "92-149138154_A1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "P. falciparum",
+      "Homo sapiens"
+    ],
+    "Characteristics[MaterialType]": [
+      "Fully segmented schizonts"
+    ],
+    "Characteristics[OrganismPart]": [
+      "human A+ erythrocytes"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "TMTsixplex",
+      "TMT6-126"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "titanium dioxide beads (5:1 [w/w] beads:protein)"
+    ],
+    "Comment[FractionationMethod]": [
+      "Pierce High pH Reversed-Phase Peptide Fractionation Kit"
+    ],
+    "Comment[Separation]": [
+      "75 μm × 50 cm C18 column"
+    ],
+    "Comment[GradientTime]": [
+      "3-hour gradient elution"
+    ],
+    "Comment[FractionIdentifier]": [
+      "A1"
+    ]
+  },
+  "92-149139491_F1.raw": {
+    "Source Name": [
+      "PfPDEβΔcatHA"
+    ],
+    "Assay Name": [
+      "PfPDEβΔcatHA_F1"
+    ],
+    "Raw Data File": [
+      "92-149139491_F1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "P. falciparum",
+      "Homo sapiens"
+    ],
+    "Characteristics[MaterialType]": [
+      "Fully segmented schizonts"
+    ],
+    "Characteristics[OrganismPart]": [
+      "human A+ erythrocytes"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "TMTsixplex",
+      "TMT6-126"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "titanium dioxide beads (5:1 [w/w] beads:protein)"
+    ],
+    "Comment[FractionationMethod]": [
+      "Pierce High pH Reversed-Phase Peptide Fractionation Kit"
+    ],
+    "Comment[Separation]": [
+      "75 μm × 50 cm C18 column"
+    ],
+    "Comment[GradientTime]": [
+      "3-hour gradient elution"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F1"
+    ]
+  },
+  "92-149139493_H1.raw": {
+    "Source Name": [
+      "PfPDEβΔcatHA"
+    ],
+    "Assay Name": [
+      "PfPDEβΔcatHA_H1"
+    ],
+    "Raw Data File": [
+      "92-149139493_H1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "P. falciparum",
+      "Homo sapiens"
+    ],
+    "Characteristics[MaterialType]": [
+      "Fully segmented schizonts"
+    ],
+    "Characteristics[OrganismPart]": [
+      "human A+ erythrocytes"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "TMTsixplex",
+      "TMT6-126"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "titanium dioxide beads (5:1 [w/w] beads:protein)"
+    ],
+    "Comment[FractionationMethod]": [
+      "Pierce High pH Reversed-Phase Peptide Fractionation Kit"
+    ],
+    "Comment[Separation]": [
+      "75 μm × 50 cm C18 column"
+    ],
+    "Comment[GradientTime]": [
+      "3-hour gradient elution"
+    ],
+    "Comment[FractionIdentifier]": [
+      "H1"
+    ]
+  },
+  "92-149139492_G1.raw": {
+    "Source Name": [
+      "PfPDEβΔcatHA"
+    ],
+    "Assay Name": [
+      "PfPDEβΔcatHA_G1"
+    ],
+    "Raw Data File": [
+      "92-149139492_G1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "P. falciparum",
+      "Homo sapiens"
+    ],
+    "Characteristics[MaterialType]": [
+      "Fully segmented schizonts"
+    ],
+    "Characteristics[OrganismPart]": [
+      "human A+ erythrocytes"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "TMTsixplex",
+      "TMT6-126"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "titanium dioxide beads (5:1 [w/w] beads:protein)"
+    ],
+    "Comment[FractionationMethod]": [
+      "Pierce High pH Reversed-Phase Peptide Fractionation Kit"
+    ],
+    "Comment[Separation]": [
+      "75 μm × 50 cm C18 column"
+    ],
+    "Comment[GradientTime]": [
+      "3-hour gradient elution"
+    ],
+    "Comment[FractionIdentifier]": [
+      "G1"
+    ]
+  },
+  "92-149139490_E1.raw": {
+    "Source Name": [
+      "PfPDEβΔcatHA"
+    ],
+    "Assay Name": [
+      "PfPDEβΔcatHA_E1"
+    ],
+    "Raw Data File": [
+      "92-149139490_E1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "P. falciparum",
+      "Homo sapiens"
+    ],
+    "Characteristics[MaterialType]": [
+      "Fully segmented schizonts"
+    ],
+    "Characteristics[OrganismPart]": [
+      "human A+ erythrocytes"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "TMTsixplex",
+      "TMT6-126"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "titanium dioxide beads (5:1 [w/w] beads:protein)"
+    ],
+    "Comment[FractionationMethod]": [
+      "Pierce High pH Reversed-Phase Peptide Fractionation Kit"
+    ],
+    "Comment[Separation]": [
+      "75 μm × 50 cm C18 column"
+    ],
+    "Comment[GradientTime]": [
+      "3-hour gradient elution"
+    ],
+    "Comment[FractionIdentifier]": [
+      "E1"
+    ]
+  },
+  "92-149139487_B1.raw": {
+    "Source Name": [
+      "PfPDEβΔcatHA"
+    ],
+    "Assay Name": [
+      "PfPDEβΔcatHA_B1"
+    ],
+    "Raw Data File": [
+      "92-149139487_B1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "P. falciparum",
+      "Homo sapiens"
+    ],
+    "Characteristics[MaterialType]": [
+      "Fully segmented schizonts"
+    ],
+    "Characteristics[OrganismPart]": [
+      "human A+ erythrocytes"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "TMTsixplex",
+      "TMT6-126"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "titanium dioxide beads (5:1 [w/w] beads:protein)"
+    ],
+    "Comment[FractionationMethod]": [
+      "Pierce High pH Reversed-Phase Peptide Fractionation Kit"
+    ],
+    "Comment[Separation]": [
+      "75 μm × 50 cm C18 column"
+    ],
+    "Comment[GradientTime]": [
+      "3-hour gradient elution"
+    ],
+    "Comment[FractionIdentifier]": [
+      "B1"
+    ]
+  },
+  "92-149137486_A1.raw": {
+    "Source Name": [
+      "PfPDEβΔcatHA"
+    ],
+    "Assay Name": [
+      "PfPDEβΔcatHA_A1"
+    ],
+    "Raw Data File": [
+      "92-149137486_A1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "P. falciparum",
+      "Homo sapiens"
+    ],
+    "Characteristics[MaterialType]": [
+      "Fully segmented schizonts"
+    ],
+    "Characteristics[OrganismPart]": [
+      "human A+ erythrocytes"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "TMTsixplex",
+      "TMT6-126"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "titanium dioxide beads (5:1 [w/w] beads:protein)"
+    ],
+    "Comment[FractionationMethod]": [
+      "Pierce High pH Reversed-Phase Peptide Fractionation Kit"
+    ],
+    "Comment[Separation]": [
+      "75 μm × 50 cm C18 column"
+    ],
+    "Comment[GradientTime]": [
+      "3-hour gradient elution"
+    ],
+    "Comment[FractionIdentifier]": [
+      "A1"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+Instrument: Orbitrap Fusion Lumos  
+FragmentationMethod: higher-energy collision dissociation (HCD)  
+Label: TMTsixplex  
+EnrichmentMethod: titanium dioxide beads  
+FractionationMethod: Pierce High pH Reversed-Phase Peptide Fractionation Kit  
+GradientTime: 3-hour gradient elution  
+CleavageAgent: trypsin  
+ReductionReagent: 5 mM dithiothreitol  
+AlkylationReagent: 10 mM iodoacetamide  
+AssayName: quantitative mass spectrometric global phosphoproteome analysis  
+MaterialType: desalted phosphopeptide mixtures  
+AcquisitionMethod: reporter ion MS2 with the sixplex TMT isobaric labels

@@ -1,0 +1,70 @@
+AssayName: Phosphoproteomic analysis  
+AssayName: Stable Isotope Labeling by Amino acids in Cell culture (SILAC)  
+AssayName: SILAC labeling  
+AssayName: SILAC co-culture  
+AssayName: tumor-endothelial cell adhesion assay  
+AssayName: transendothelial migration assay  
+AssayName: in vivo lung retention assay  
+AssayName: in vitro kinase assay  
+AssayName: western blotting  
+CellType: breast cancer cells  
+CellType: endothelial cells  
+CellLine: Parental MDA-MB-231-TGL  
+CellLine: LM2  
+CellLine: BrM2a  
+CellLine: BoM1  
+CellLine: MDA-MB-468  
+CellLine: SUM149PT  
+CellLine: MDA-MB-453  
+CellLine: HUVECs pooled  
+CellLine: EA.hy926  
+CellLine: HEK 293FT  
+Compound: OLIGO R3 (1-1339-03)  
+Compound: insulin (12585014)  
+Compound: zeocin (R25001)  
+Compound: Lipofectamine RNAiMAX Transfection Reagent (13778-150)  
+Compound: Lipofectamine 2000 (11668027)  
+Compound: enzyme-free cell dissociation buffer (13151-014)  
+Compound: dialysed FBS (26400)  
+Compound: CellTracker Green CMFDA (5-Chloromethylfluorescein Diacetate) (C7025)  
+Compound: CellTracker Orange CMRA (C34551)  
+Compound: DAPI (D1306)  
+Compound: Dulbecco’s Modified Eagle Medium DMEM (41966-052)  
+Compound: DMEM/F-12 (31331-028)  
+Compound: medium 199 GlutaMAX (41150-087)  
+Compound: heparin (H3393)  
+Compound: endothelial cell growth supplement (AbD Serotec 4110-5004)  
+Compound: L-arginine-13C6,15N4 hydrochloride (Arg+10 Da) (608033)  
+Compound: L-lysine-13C6,15N2 hydrochloride (Lys+8 Da) (608041)  
+Compound: L-arginine-13C6 hydrochloride (Arg+6 Da) (643440)  
+Compound: L-lysine-4,4,5,5-d4 hydrochloride (Lys+4 Da) (616192)  
+Compound: L-arginine (A8094)  
+Compound: L-lysine (L5501)  
+Label: heavy-labeled  
+Label: medium-labeled  
+Label: light-labeled  
+Time: 15 min  
+Temperature: 37°C  
+CleavageAgent: Lys-C  
+CleavageAgent: trypsin  
+ReductionReagent: dithiothreitol (DTT)  
+AlkylationReagent: iodoacetamide (IAA)  
+EnrichmentMethod: TiO2 enrichment  
+Separation: reversed-phase chromatographic separation  
+FractionationMethod: high pH reverse phase chromatographic separation  
+Instrument: LTQ Orbitrap Velos mass spectrometer (Thermo Scientific)  
+Instrument: cHiPLC-Nanoflex chromatography system (Eksigent)  
+Instrument: Q-Exactive Plus mass spectrometer (Thermo Scientific)  
+Instrument: Dionex Ultimate 3000 RSLC nano system (Thermo Scientific)  
+GradientTime: 120 min  
+FlowRateChromatogram: 300 nL/min  
+FlowRateChromatogram: 0.4 ml/min  
+NumberOfBiologicalReplicates: four independent biological experiments  
+Organism: CD-1 nude mice  
+Sex: Female  
+Age: 6-8 weeks old  
+Strain: CD-1 nude mice  
+OrganismPart: lungs  
+GeneticModification: EPHA2-Y772F  
+GeneticModification: EPHA2-K646M  
+SupplementaryFile: tables S1 and S2

@@ -1,0 +1,3263 @@
+{
+  "20140113_OR8_RP_HP_B14B_rr.raw": {
+    "Source Name": [
+      "B14B"
+    ],
+    "Assay Name": [
+      "B14B_20140113_OR8_RP_HP_B14B_rr.raw"
+    ],
+    "Raw Data File": [
+      "20140113_OR8_RP_HP_B14B_rr.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "B14B"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "rr"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor samples"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen tumor samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 tumor samples"
+    ],
+    "Characteristics[Label]": [
+      "label-free single-shot strategy"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "15\u2009mM tris (2-carboxyethyl) phosphine (TCEP)",
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "30\u2009mM chloro-acetamide",
+      "50\u2009mM IAA solution"
+    ],
+    "Characteristics[TumorCellularity]": [
+      ">75% tumor content"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Ti4+-IMAC GELoader spin tips"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Elite (Thermo Fisher Scientific)",
+      "Q Exactive Plus mass spectrometer (Thermo Fisher Scientific)",
+      "UltiMate 3000 HPLC system"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD) with a normalized collision energy of 27",
+      "decision-tree-based ion trap CID or ETD fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "60\u2009min effective curved gradient",
+      "90-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250\u2009nL/min",
+      "100\u2009nL/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.025\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two tryptic missed-cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer",
+      "ion trap"
+    ],
+    "Comment[IonizationType]": [
+      "EasySpray ion source",
+      "electrosprayed (1.9\u2009kV)"
+    ],
+    "Comment[Separation]": [
+      "reverse phase nano-LC-MS/MS analysis"
+    ]
+  },
+  "20131217_OR8_RP_HP_C7b_rr.raw": {
+    "Source Name": [
+      "C7b"
+    ],
+    "Assay Name": [
+      "C7b_20131217_OR8_RP_HP_C7b_rr.raw"
+    ],
+    "Raw Data File": [
+      "20131217_OR8_RP_HP_C7b_rr.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "C7b"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "rr"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor samples"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen tumor samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 tumor samples"
+    ],
+    "Characteristics[Label]": [
+      "label-free single-shot strategy"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "15\u2009mM tris (2-carboxyethyl) phosphine (TCEP)",
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "30\u2009mM chloro-acetamide",
+      "50\u2009mM IAA solution"
+    ],
+    "Characteristics[TumorCellularity]": [
+      ">75% tumor content"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Ti4+-IMAC GELoader spin tips"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Elite (Thermo Fisher Scientific)",
+      "Q Exactive Plus mass spectrometer (Thermo Fisher Scientific)",
+      "UltiMate 3000 HPLC system"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD) with a normalized collision energy of 27",
+      "decision-tree-based ion trap CID or ETD fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "60\u2009min effective curved gradient",
+      "90-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250\u2009nL/min",
+      "100\u2009nL/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.025\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two tryptic missed-cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer",
+      "ion trap"
+    ],
+    "Comment[IonizationType]": [
+      "EasySpray ion source",
+      "electrosprayed (1.9\u2009kV)"
+    ],
+    "Comment[Separation]": [
+      "reverse phase nano-LC-MS/MS analysis"
+    ]
+  },
+  "20140108_OR8_RP_HP_B8A.raw": {
+    "Source Name": [
+      "B8A"
+    ],
+    "Assay Name": [
+      "B8A_20140108_OR8_RP_HP_B8A.raw"
+    ],
+    "Raw Data File": [
+      "20140108_OR8_RP_HP_B8A.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "B8A"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor samples"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen tumor samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 tumor samples"
+    ],
+    "Characteristics[Label]": [
+      "label-free single-shot strategy"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "15\u2009mM tris (2-carboxyethyl) phosphine (TCEP)",
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "30\u2009mM chloro-acetamide",
+      "50\u2009mM IAA solution"
+    ],
+    "Characteristics[TumorCellularity]": [
+      ">75% tumor content"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Ti4+-IMAC GELoader spin tips"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Elite (Thermo Fisher Scientific)",
+      "Q Exactive Plus mass spectrometer (Thermo Fisher Scientific)",
+      "UltiMate 3000 HPLC system"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD) with a normalized collision energy of 27",
+      "decision-tree-based ion trap CID or ETD fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "60\u2009min effective curved gradient",
+      "90-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250\u2009nL/min",
+      "100\u2009nL/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.025\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two tryptic missed-cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer",
+      "ion trap"
+    ],
+    "Comment[IonizationType]": [
+      "EasySpray ion source",
+      "electrosprayed (1.9\u2009kV)"
+    ],
+    "Comment[Separation]": [
+      "reverse phase nano-LC-MS/MS analysis"
+    ]
+  },
+  "20140113_OR8_RP_HP_B21B_rr.raw": {
+    "Source Name": [
+      "B21B"
+    ],
+    "Assay Name": [
+      "B21B_20140113_OR8_RP_HP_B21B_rr.raw"
+    ],
+    "Raw Data File": [
+      "20140113_OR8_RP_HP_B21B_rr.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "B21B"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "rr"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor samples"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen tumor samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 tumor samples"
+    ],
+    "Characteristics[Label]": [
+      "label-free single-shot strategy"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "15\u2009mM tris (2-carboxyethyl) phosphine (TCEP)",
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "30\u2009mM chloro-acetamide",
+      "50\u2009mM IAA solution"
+    ],
+    "Characteristics[TumorCellularity]": [
+      ">75% tumor content"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Ti4+-IMAC GELoader spin tips"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Elite (Thermo Fisher Scientific)",
+      "Q Exactive Plus mass spectrometer (Thermo Fisher Scientific)",
+      "UltiMate 3000 HPLC system"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD) with a normalized collision energy of 27",
+      "decision-tree-based ion trap CID or ETD fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "60\u2009min effective curved gradient",
+      "90-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250\u2009nL/min",
+      "100\u2009nL/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.025\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two tryptic missed-cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer",
+      "ion trap"
+    ],
+    "Comment[IonizationType]": [
+      "EasySpray ion source",
+      "electrosprayed (1.9\u2009kV)"
+    ],
+    "Comment[Separation]": [
+      "reverse phase nano-LC-MS/MS analysis"
+    ]
+  },
+  "20140113_OR8_RP_HP_B47A.raw": {
+    "Source Name": [
+      "B47A"
+    ],
+    "Assay Name": [
+      "B47A_20140113_OR8_RP_HP_B47A.raw"
+    ],
+    "Raw Data File": [
+      "20140113_OR8_RP_HP_B47A.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "B47A"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor samples"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen tumor samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 tumor samples"
+    ],
+    "Characteristics[Label]": [
+      "label-free single-shot strategy"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "15\u2009mM tris (2-carboxyethyl) phosphine (TCEP)",
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "30\u2009mM chloro-acetamide",
+      "50\u2009mM IAA solution"
+    ],
+    "Characteristics[TumorCellularity]": [
+      ">75% tumor content"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Ti4+-IMAC GELoader spin tips"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Elite (Thermo Fisher Scientific)",
+      "Q Exactive Plus mass spectrometer (Thermo Fisher Scientific)",
+      "UltiMate 3000 HPLC system"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD) with a normalized collision energy of 27",
+      "decision-tree-based ion trap CID or ETD fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "60\u2009min effective curved gradient",
+      "90-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250\u2009nL/min",
+      "100\u2009nL/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.025\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two tryptic missed-cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer",
+      "ion trap"
+    ],
+    "Comment[IonizationType]": [
+      "EasySpray ion source",
+      "electrosprayed (1.9\u2009kV)"
+    ],
+    "Comment[Separation]": [
+      "reverse phase nano-LC-MS/MS analysis"
+    ]
+  },
+  "20140108_OR8_RP_HP_B18A.raw": {
+    "Source Name": [
+      "B18A"
+    ],
+    "Assay Name": [
+      "B18A_20140108_OR8_RP_HP_B18A.raw"
+    ],
+    "Raw Data File": [
+      "20140108_OR8_RP_HP_B18A.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "B18A"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor samples"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen tumor samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 tumor samples"
+    ],
+    "Characteristics[Label]": [
+      "label-free single-shot strategy"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "15\u2009mM tris (2-carboxyethyl) phosphine (TCEP)",
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "30\u2009mM chloro-acetamide",
+      "50\u2009mM IAA solution"
+    ],
+    "Characteristics[TumorCellularity]": [
+      ">75% tumor content"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Ti4+-IMAC GELoader spin tips"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Elite (Thermo Fisher Scientific)",
+      "Q Exactive Plus mass spectrometer (Thermo Fisher Scientific)",
+      "UltiMate 3000 HPLC system"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD) with a normalized collision energy of 27",
+      "decision-tree-based ion trap CID or ETD fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "60\u2009min effective curved gradient",
+      "90-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250\u2009nL/min",
+      "100\u2009nL/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.025\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two tryptic missed-cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer",
+      "ion trap"
+    ],
+    "Comment[IonizationType]": [
+      "EasySpray ion source",
+      "electrosprayed (1.9\u2009kV)"
+    ],
+    "Comment[Separation]": [
+      "reverse phase nano-LC-MS/MS analysis"
+    ]
+  },
+  "20140108_OR8_RP_HP_B13A.raw": {
+    "Source Name": [
+      "B13A"
+    ],
+    "Assay Name": [
+      "B13A_20140108_OR8_RP_HP_B13A.raw"
+    ],
+    "Raw Data File": [
+      "20140108_OR8_RP_HP_B13A.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "B13A"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor samples"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen tumor samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 tumor samples"
+    ],
+    "Characteristics[Label]": [
+      "label-free single-shot strategy"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "15\u2009mM tris (2-carboxyethyl) phosphine (TCEP)",
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "30\u2009mM chloro-acetamide",
+      "50\u2009mM IAA solution"
+    ],
+    "Characteristics[TumorCellularity]": [
+      ">75% tumor content"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Ti4+-IMAC GELoader spin tips"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Elite (Thermo Fisher Scientific)",
+      "Q Exactive Plus mass spectrometer (Thermo Fisher Scientific)",
+      "UltiMate 3000 HPLC system"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD) with a normalized collision energy of 27",
+      "decision-tree-based ion trap CID or ETD fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "60\u2009min effective curved gradient",
+      "90-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250\u2009nL/min",
+      "100\u2009nL/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.025\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two tryptic missed-cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer",
+      "ion trap"
+    ],
+    "Comment[IonizationType]": [
+      "EasySpray ion source",
+      "electrosprayed (1.9\u2009kV)"
+    ],
+    "Comment[Separation]": [
+      "reverse phase nano-LC-MS/MS analysis"
+    ]
+  },
+  "20131217_OR8_RP_HP_C8b.raw": {
+    "Source Name": [
+      "C8b"
+    ],
+    "Assay Name": [
+      "C8b_20131217_OR8_RP_HP_C8b.raw"
+    ],
+    "Raw Data File": [
+      "20131217_OR8_RP_HP_C8b.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "C8b"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor samples"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen tumor samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 tumor samples"
+    ],
+    "Characteristics[Label]": [
+      "label-free single-shot strategy"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "15\u2009mM tris (2-carboxyethyl) phosphine (TCEP)",
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "30\u2009mM chloro-acetamide",
+      "50\u2009mM IAA solution"
+    ],
+    "Characteristics[TumorCellularity]": [
+      ">75% tumor content"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Ti4+-IMAC GELoader spin tips"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Elite (Thermo Fisher Scientific)",
+      "Q Exactive Plus mass spectrometer (Thermo Fisher Scientific)",
+      "UltiMate 3000 HPLC system"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD) with a normalized collision energy of 27",
+      "decision-tree-based ion trap CID or ETD fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "60\u2009min effective curved gradient",
+      "90-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250\u2009nL/min",
+      "100\u2009nL/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.025\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two tryptic missed-cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer",
+      "ion trap"
+    ],
+    "Comment[IonizationType]": [
+      "EasySpray ion source",
+      "electrosprayed (1.9\u2009kV)"
+    ],
+    "Comment[Separation]": [
+      "reverse phase nano-LC-MS/MS analysis"
+    ]
+  },
+  "20140113_OR8_RP_HP_B37A_rr.raw": {
+    "Source Name": [
+      "B37A"
+    ],
+    "Assay Name": [
+      "B37A_20140113_OR8_RP_HP_B37A_rr.raw"
+    ],
+    "Raw Data File": [
+      "20140113_OR8_RP_HP_B37A_rr.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "B37A"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "rr"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor samples"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen tumor samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 tumor samples"
+    ],
+    "Characteristics[Label]": [
+      "label-free single-shot strategy"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "15\u2009mM tris (2-carboxyethyl) phosphine (TCEP)",
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "30\u2009mM chloro-acetamide",
+      "50\u2009mM IAA solution"
+    ],
+    "Characteristics[TumorCellularity]": [
+      ">75% tumor content"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Ti4+-IMAC GELoader spin tips"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Elite (Thermo Fisher Scientific)",
+      "Q Exactive Plus mass spectrometer (Thermo Fisher Scientific)",
+      "UltiMate 3000 HPLC system"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD) with a normalized collision energy of 27",
+      "decision-tree-based ion trap CID or ETD fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "60\u2009min effective curved gradient",
+      "90-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250\u2009nL/min",
+      "100\u2009nL/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.025\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two tryptic missed-cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer",
+      "ion trap"
+    ],
+    "Comment[IonizationType]": [
+      "EasySpray ion source",
+      "electrosprayed (1.9\u2009kV)"
+    ],
+    "Comment[Separation]": [
+      "reverse phase nano-LC-MS/MS analysis"
+    ]
+  },
+  "20131217_OR8_RP_HP_C1_rr.raw": {
+    "Source Name": [
+      "C1"
+    ],
+    "Assay Name": [
+      "C1_20131217_OR8_RP_HP_C1_rr.raw"
+    ],
+    "Raw Data File": [
+      "20131217_OR8_RP_HP_C1_rr.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "C1"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "rr"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor samples"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen tumor samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 tumor samples"
+    ],
+    "Characteristics[Label]": [
+      "label-free single-shot strategy"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "15\u2009mM tris (2-carboxyethyl) phosphine (TCEP)",
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "30\u2009mM chloro-acetamide",
+      "50\u2009mM IAA solution"
+    ],
+    "Characteristics[TumorCellularity]": [
+      ">75% tumor content"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Ti4+-IMAC GELoader spin tips"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Elite (Thermo Fisher Scientific)",
+      "Q Exactive Plus mass spectrometer (Thermo Fisher Scientific)",
+      "UltiMate 3000 HPLC system"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD) with a normalized collision energy of 27",
+      "decision-tree-based ion trap CID or ETD fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "60\u2009min effective curved gradient",
+      "90-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250\u2009nL/min",
+      "100\u2009nL/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.025\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two tryptic missed-cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer",
+      "ion trap"
+    ],
+    "Comment[IonizationType]": [
+      "EasySpray ion source",
+      "electrosprayed (1.9\u2009kV)"
+    ],
+    "Comment[Separation]": [
+      "reverse phase nano-LC-MS/MS analysis"
+    ]
+  },
+  "20140113_OR8_RP_HP_B44A.raw": {
+    "Source Name": [
+      "B44A"
+    ],
+    "Assay Name": [
+      "B44A_20140113_OR8_RP_HP_B44A.raw"
+    ],
+    "Raw Data File": [
+      "20140113_OR8_RP_HP_B44A.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "B44A"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor samples"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen tumor samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 tumor samples"
+    ],
+    "Characteristics[Label]": [
+      "label-free single-shot strategy"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "15\u2009mM tris (2-carboxyethyl) phosphine (TCEP)",
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "30\u2009mM chloro-acetamide",
+      "50\u2009mM IAA solution"
+    ],
+    "Characteristics[TumorCellularity]": [
+      ">75% tumor content"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Ti4+-IMAC GELoader spin tips"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Elite (Thermo Fisher Scientific)",
+      "Q Exactive Plus mass spectrometer (Thermo Fisher Scientific)",
+      "UltiMate 3000 HPLC system"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD) with a normalized collision energy of 27",
+      "decision-tree-based ion trap CID or ETD fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "60\u2009min effective curved gradient",
+      "90-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250\u2009nL/min",
+      "100\u2009nL/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.025\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two tryptic missed-cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer",
+      "ion trap"
+    ],
+    "Comment[IonizationType]": [
+      "EasySpray ion source",
+      "electrosprayed (1.9\u2009kV)"
+    ],
+    "Comment[Separation]": [
+      "reverse phase nano-LC-MS/MS analysis"
+    ]
+  },
+  "20140113_OR8_RP_HP_B39A_rr.raw": {
+    "Source Name": [
+      "B39A"
+    ],
+    "Assay Name": [
+      "B39A_20140113_OR8_RP_HP_B39A_rr.raw"
+    ],
+    "Raw Data File": [
+      "20140113_OR8_RP_HP_B39A_rr.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "B39A"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "rr"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor samples"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen tumor samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 tumor samples"
+    ],
+    "Characteristics[Label]": [
+      "label-free single-shot strategy"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "15\u2009mM tris (2-carboxyethyl) phosphine (TCEP)",
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "30\u2009mM chloro-acetamide",
+      "50\u2009mM IAA solution"
+    ],
+    "Characteristics[TumorCellularity]": [
+      ">75% tumor content"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Ti4+-IMAC GELoader spin tips"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Elite (Thermo Fisher Scientific)",
+      "Q Exactive Plus mass spectrometer (Thermo Fisher Scientific)",
+      "UltiMate 3000 HPLC system"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD) with a normalized collision energy of 27",
+      "decision-tree-based ion trap CID or ETD fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "60\u2009min effective curved gradient",
+      "90-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250\u2009nL/min",
+      "100\u2009nL/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.025\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two tryptic missed-cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer",
+      "ion trap"
+    ],
+    "Comment[IonizationType]": [
+      "EasySpray ion source",
+      "electrosprayed (1.9\u2009kV)"
+    ],
+    "Comment[Separation]": [
+      "reverse phase nano-LC-MS/MS analysis"
+    ]
+  },
+  "20140108_OR8_RP_HP_B9A.raw": {
+    "Source Name": [
+      "B9A"
+    ],
+    "Assay Name": [
+      "B9A_20140108_OR8_RP_HP_B9A.raw"
+    ],
+    "Raw Data File": [
+      "20140108_OR8_RP_HP_B9A.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "B9A"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor samples"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen tumor samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 tumor samples"
+    ],
+    "Characteristics[Label]": [
+      "label-free single-shot strategy"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "15\u2009mM tris (2-carboxyethyl) phosphine (TCEP)",
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "30\u2009mM chloro-acetamide",
+      "50\u2009mM IAA solution"
+    ],
+    "Characteristics[TumorCellularity]": [
+      ">75% tumor content"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Ti4+-IMAC GELoader spin tips"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Elite (Thermo Fisher Scientific)",
+      "Q Exactive Plus mass spectrometer (Thermo Fisher Scientific)",
+      "UltiMate 3000 HPLC system"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD) with a normalized collision energy of 27",
+      "decision-tree-based ion trap CID or ETD fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "60\u2009min effective curved gradient",
+      "90-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250\u2009nL/min",
+      "100\u2009nL/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.025\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two tryptic missed-cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer",
+      "ion trap"
+    ],
+    "Comment[IonizationType]": [
+      "EasySpray ion source",
+      "electrosprayed (1.9\u2009kV)"
+    ],
+    "Comment[Separation]": [
+      "reverse phase nano-LC-MS/MS analysis"
+    ]
+  },
+  "20131217_OR8_RP_HP_C6b_rr.raw": {
+    "Source Name": [
+      "C6b"
+    ],
+    "Assay Name": [
+      "C6b_20131217_OR8_RP_HP_C6b_rr.raw"
+    ],
+    "Raw Data File": [
+      "20131217_OR8_RP_HP_C6b_rr.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "C6b"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "rr"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor samples"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen tumor samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 tumor samples"
+    ],
+    "Characteristics[Label]": [
+      "label-free single-shot strategy"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "15\u2009mM tris (2-carboxyethyl) phosphine (TCEP)",
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "30\u2009mM chloro-acetamide",
+      "50\u2009mM IAA solution"
+    ],
+    "Characteristics[TumorCellularity]": [
+      ">75% tumor content"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Ti4+-IMAC GELoader spin tips"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Elite (Thermo Fisher Scientific)",
+      "Q Exactive Plus mass spectrometer (Thermo Fisher Scientific)",
+      "UltiMate 3000 HPLC system"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD) with a normalized collision energy of 27",
+      "decision-tree-based ion trap CID or ETD fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "60\u2009min effective curved gradient",
+      "90-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250\u2009nL/min",
+      "100\u2009nL/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.025\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two tryptic missed-cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer",
+      "ion trap"
+    ],
+    "Comment[IonizationType]": [
+      "EasySpray ion source",
+      "electrosprayed (1.9\u2009kV)"
+    ],
+    "Comment[Separation]": [
+      "reverse phase nano-LC-MS/MS analysis"
+    ]
+  },
+  "20140108_OR8_RP_HP_B4B.raw": {
+    "Source Name": [
+      "B4B"
+    ],
+    "Assay Name": [
+      "B4B_20140108_OR8_RP_HP_B4B.raw"
+    ],
+    "Raw Data File": [
+      "20140108_OR8_RP_HP_B4B.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "B4B"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor samples"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen tumor samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 tumor samples"
+    ],
+    "Characteristics[Label]": [
+      "label-free single-shot strategy"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "15\u2009mM tris (2-carboxyethyl) phosphine (TCEP)",
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "30\u2009mM chloro-acetamide",
+      "50\u2009mM IAA solution"
+    ],
+    "Characteristics[TumorCellularity]": [
+      ">75% tumor content"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Ti4+-IMAC GELoader spin tips"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Elite (Thermo Fisher Scientific)",
+      "Q Exactive Plus mass spectrometer (Thermo Fisher Scientific)",
+      "UltiMate 3000 HPLC system"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD) with a normalized collision energy of 27",
+      "decision-tree-based ion trap CID or ETD fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "60\u2009min effective curved gradient",
+      "90-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250\u2009nL/min",
+      "100\u2009nL/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.025\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two tryptic missed-cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer",
+      "ion trap"
+    ],
+    "Comment[IonizationType]": [
+      "EasySpray ion source",
+      "electrosprayed (1.9\u2009kV)"
+    ],
+    "Comment[Separation]": [
+      "reverse phase nano-LC-MS/MS analysis"
+    ]
+  },
+  "20140113_OR8_RP_HP_B17A_rr.raw": {
+    "Source Name": [
+      "B17A"
+    ],
+    "Assay Name": [
+      "B17A_20140113_OR8_RP_HP_B17A_rr.raw"
+    ],
+    "Raw Data File": [
+      "20140113_OR8_RP_HP_B17A_rr.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "B17A"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "rr"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor samples"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen tumor samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 tumor samples"
+    ],
+    "Characteristics[Label]": [
+      "label-free single-shot strategy"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "15\u2009mM tris (2-carboxyethyl) phosphine (TCEP)",
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "30\u2009mM chloro-acetamide",
+      "50\u2009mM IAA solution"
+    ],
+    "Characteristics[TumorCellularity]": [
+      ">75% tumor content"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Ti4+-IMAC GELoader spin tips"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Elite (Thermo Fisher Scientific)",
+      "Q Exactive Plus mass spectrometer (Thermo Fisher Scientific)",
+      "UltiMate 3000 HPLC system"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD) with a normalized collision energy of 27",
+      "decision-tree-based ion trap CID or ETD fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "60\u2009min effective curved gradient",
+      "90-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250\u2009nL/min",
+      "100\u2009nL/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.025\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two tryptic missed-cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer",
+      "ion trap"
+    ],
+    "Comment[IonizationType]": [
+      "EasySpray ion source",
+      "electrosprayed (1.9\u2009kV)"
+    ],
+    "Comment[Separation]": [
+      "reverse phase nano-LC-MS/MS analysis"
+    ]
+  },
+  "20140113_OR8_RP_HP_B43B.raw": {
+    "Source Name": [
+      "B43B"
+    ],
+    "Assay Name": [
+      "B43B_20140113_OR8_RP_HP_B43B.raw"
+    ],
+    "Raw Data File": [
+      "20140113_OR8_RP_HP_B43B.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "B43B"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor samples"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen tumor samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 tumor samples"
+    ],
+    "Characteristics[Label]": [
+      "label-free single-shot strategy"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "15\u2009mM tris (2-carboxyethyl) phosphine (TCEP)",
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "30\u2009mM chloro-acetamide",
+      "50\u2009mM IAA solution"
+    ],
+    "Characteristics[TumorCellularity]": [
+      ">75% tumor content"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Ti4+-IMAC GELoader spin tips"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Elite (Thermo Fisher Scientific)",
+      "Q Exactive Plus mass spectrometer (Thermo Fisher Scientific)",
+      "UltiMate 3000 HPLC system"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD) with a normalized collision energy of 27",
+      "decision-tree-based ion trap CID or ETD fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "60\u2009min effective curved gradient",
+      "90-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250\u2009nL/min",
+      "100\u2009nL/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.025\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two tryptic missed-cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer",
+      "ion trap"
+    ],
+    "Comment[IonizationType]": [
+      "EasySpray ion source",
+      "electrosprayed (1.9\u2009kV)"
+    ],
+    "Comment[Separation]": [
+      "reverse phase nano-LC-MS/MS analysis"
+    ]
+  },
+  "20131217_OR8_RP_HP_C4c_rr.raw": {
+    "Source Name": [
+      "C4c"
+    ],
+    "Assay Name": [
+      "C4c_20131217_OR8_RP_HP_C4c_rr.raw"
+    ],
+    "Raw Data File": [
+      "20131217_OR8_RP_HP_C4c_rr.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "C4c"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "rr"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor samples"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen tumor samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 tumor samples"
+    ],
+    "Characteristics[Label]": [
+      "label-free single-shot strategy"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "15\u2009mM tris (2-carboxyethyl) phosphine (TCEP)",
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "30\u2009mM chloro-acetamide",
+      "50\u2009mM IAA solution"
+    ],
+    "Characteristics[TumorCellularity]": [
+      ">75% tumor content"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Ti4+-IMAC GELoader spin tips"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Elite (Thermo Fisher Scientific)",
+      "Q Exactive Plus mass spectrometer (Thermo Fisher Scientific)",
+      "UltiMate 3000 HPLC system"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD) with a normalized collision energy of 27",
+      "decision-tree-based ion trap CID or ETD fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "60\u2009min effective curved gradient",
+      "90-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250\u2009nL/min",
+      "100\u2009nL/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.025\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two tryptic missed-cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer",
+      "ion trap"
+    ],
+    "Comment[IonizationType]": [
+      "EasySpray ion source",
+      "electrosprayed (1.9\u2009kV)"
+    ],
+    "Comment[Separation]": [
+      "reverse phase nano-LC-MS/MS analysis"
+    ]
+  },
+  "20140113_OR8_RP_HP_B9B_rr.raw": {
+    "Source Name": [
+      "B9B"
+    ],
+    "Assay Name": [
+      "B9B_20140113_OR8_RP_HP_B9B_rr.raw"
+    ],
+    "Raw Data File": [
+      "20140113_OR8_RP_HP_B9B_rr.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "B9B"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "rr"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor samples"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen tumor samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 tumor samples"
+    ],
+    "Characteristics[Label]": [
+      "label-free single-shot strategy"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "15\u2009mM tris (2-carboxyethyl) phosphine (TCEP)",
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "30\u2009mM chloro-acetamide",
+      "50\u2009mM IAA solution"
+    ],
+    "Characteristics[TumorCellularity]": [
+      ">75% tumor content"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Ti4+-IMAC GELoader spin tips"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Elite (Thermo Fisher Scientific)",
+      "Q Exactive Plus mass spectrometer (Thermo Fisher Scientific)",
+      "UltiMate 3000 HPLC system"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD) with a normalized collision energy of 27",
+      "decision-tree-based ion trap CID or ETD fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "60\u2009min effective curved gradient",
+      "90-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250\u2009nL/min",
+      "100\u2009nL/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.025\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two tryptic missed-cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer",
+      "ion trap"
+    ],
+    "Comment[IonizationType]": [
+      "EasySpray ion source",
+      "electrosprayed (1.9\u2009kV)"
+    ],
+    "Comment[Separation]": [
+      "reverse phase nano-LC-MS/MS analysis"
+    ]
+  },
+  "20140108_OR8_RP_HP_B21A.raw": {
+    "Source Name": [
+      "B21A"
+    ],
+    "Assay Name": [
+      "B21A_20140108_OR8_RP_HP_B21A.raw"
+    ],
+    "Raw Data File": [
+      "20140108_OR8_RP_HP_B21A.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "B21A"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor samples"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen tumor samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 tumor samples"
+    ],
+    "Characteristics[Label]": [
+      "label-free single-shot strategy"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "15\u2009mM tris (2-carboxyethyl) phosphine (TCEP)",
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "30\u2009mM chloro-acetamide",
+      "50\u2009mM IAA solution"
+    ],
+    "Characteristics[TumorCellularity]": [
+      ">75% tumor content"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Ti4+-IMAC GELoader spin tips"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Elite (Thermo Fisher Scientific)",
+      "Q Exactive Plus mass spectrometer (Thermo Fisher Scientific)",
+      "UltiMate 3000 HPLC system"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD) with a normalized collision energy of 27",
+      "decision-tree-based ion trap CID or ETD fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "60\u2009min effective curved gradient",
+      "90-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250\u2009nL/min",
+      "100\u2009nL/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.025\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two tryptic missed-cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer",
+      "ion trap"
+    ],
+    "Comment[IonizationType]": [
+      "EasySpray ion source",
+      "electrosprayed (1.9\u2009kV)"
+    ],
+    "Comment[Separation]": [
+      "reverse phase nano-LC-MS/MS analysis"
+    ]
+  },
+  "20140108_OR8_RP_HP_B7A.raw": {
+    "Source Name": [
+      "B7A"
+    ],
+    "Assay Name": [
+      "B7A_20140108_OR8_RP_HP_B7A.raw"
+    ],
+    "Raw Data File": [
+      "20140108_OR8_RP_HP_B7A.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "B7A"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor samples"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen tumor samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 tumor samples"
+    ],
+    "Characteristics[Label]": [
+      "label-free single-shot strategy"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "15\u2009mM tris (2-carboxyethyl) phosphine (TCEP)",
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "30\u2009mM chloro-acetamide",
+      "50\u2009mM IAA solution"
+    ],
+    "Characteristics[TumorCellularity]": [
+      ">75% tumor content"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Ti4+-IMAC GELoader spin tips"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Elite (Thermo Fisher Scientific)",
+      "Q Exactive Plus mass spectrometer (Thermo Fisher Scientific)",
+      "UltiMate 3000 HPLC system"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD) with a normalized collision energy of 27",
+      "decision-tree-based ion trap CID or ETD fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "60\u2009min effective curved gradient",
+      "90-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250\u2009nL/min",
+      "100\u2009nL/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.025\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two tryptic missed-cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer",
+      "ion trap"
+    ],
+    "Comment[IonizationType]": [
+      "EasySpray ion source",
+      "electrosprayed (1.9\u2009kV)"
+    ],
+    "Comment[Separation]": [
+      "reverse phase nano-LC-MS/MS analysis"
+    ]
+  },
+  "20131217_OR8_RP_HP_C3c.raw": {
+    "Source Name": [
+      "C3c"
+    ],
+    "Assay Name": [
+      "C3c_20131217_OR8_RP_HP_C3c.raw"
+    ],
+    "Raw Data File": [
+      "20131217_OR8_RP_HP_C3c.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "C3c"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor samples"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen tumor samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 tumor samples"
+    ],
+    "Characteristics[Label]": [
+      "label-free single-shot strategy"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "15\u2009mM tris (2-carboxyethyl) phosphine (TCEP)",
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "30\u2009mM chloro-acetamide",
+      "50\u2009mM IAA solution"
+    ],
+    "Characteristics[TumorCellularity]": [
+      ">75% tumor content"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Ti4+-IMAC GELoader spin tips"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Elite (Thermo Fisher Scientific)",
+      "Q Exactive Plus mass spectrometer (Thermo Fisher Scientific)",
+      "UltiMate 3000 HPLC system"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD) with a normalized collision energy of 27",
+      "decision-tree-based ion trap CID or ETD fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "60\u2009min effective curved gradient",
+      "90-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250\u2009nL/min",
+      "100\u2009nL/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.025\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two tryptic missed-cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer",
+      "ion trap"
+    ],
+    "Comment[IonizationType]": [
+      "EasySpray ion source",
+      "electrosprayed (1.9\u2009kV)"
+    ],
+    "Comment[Separation]": [
+      "reverse phase nano-LC-MS/MS analysis"
+    ]
+  },
+  "20140113_OR8_RP_HP_B13B.raw": {
+    "Source Name": [
+      "B13B"
+    ],
+    "Assay Name": [
+      "B13B_20140113_OR8_RP_HP_B13B.raw"
+    ],
+    "Raw Data File": [
+      "20140113_OR8_RP_HP_B13B.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "B13B"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor samples"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen tumor samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 tumor samples"
+    ],
+    "Characteristics[Label]": [
+      "label-free single-shot strategy"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "15\u2009mM tris (2-carboxyethyl) phosphine (TCEP)",
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "30\u2009mM chloro-acetamide",
+      "50\u2009mM IAA solution"
+    ],
+    "Characteristics[TumorCellularity]": [
+      ">75% tumor content"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Ti4+-IMAC GELoader spin tips"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Elite (Thermo Fisher Scientific)",
+      "Q Exactive Plus mass spectrometer (Thermo Fisher Scientific)",
+      "UltiMate 3000 HPLC system"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD) with a normalized collision energy of 27",
+      "decision-tree-based ion trap CID or ETD fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "60\u2009min effective curved gradient",
+      "90-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250\u2009nL/min",
+      "100\u2009nL/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.025\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two tryptic missed-cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer",
+      "ion trap"
+    ],
+    "Comment[IonizationType]": [
+      "EasySpray ion source",
+      "electrosprayed (1.9\u2009kV)"
+    ],
+    "Comment[Separation]": [
+      "reverse phase nano-LC-MS/MS analysis"
+    ]
+  },
+  "20131217_OR8_RP_HP_C3b.raw": {
+    "Source Name": [
+      "C3b"
+    ],
+    "Assay Name": [
+      "C3b_20131217_OR8_RP_HP_C3b.raw"
+    ],
+    "Raw Data File": [
+      "20131217_OR8_RP_HP_C3b.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "C3b"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor samples"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen tumor samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 tumor samples"
+    ],
+    "Characteristics[Label]": [
+      "label-free single-shot strategy"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "15\u2009mM tris (2-carboxyethyl) phosphine (TCEP)",
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "30\u2009mM chloro-acetamide",
+      "50\u2009mM IAA solution"
+    ],
+    "Characteristics[TumorCellularity]": [
+      ">75% tumor content"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Ti4+-IMAC GELoader spin tips"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Elite (Thermo Fisher Scientific)",
+      "Q Exactive Plus mass spectrometer (Thermo Fisher Scientific)",
+      "UltiMate 3000 HPLC system"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD) with a normalized collision energy of 27",
+      "decision-tree-based ion trap CID or ETD fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "60\u2009min effective curved gradient",
+      "90-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250\u2009nL/min",
+      "100\u2009nL/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.025\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two tryptic missed-cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer",
+      "ion trap"
+    ],
+    "Comment[IonizationType]": [
+      "EasySpray ion source",
+      "electrosprayed (1.9\u2009kV)"
+    ],
+    "Comment[Separation]": [
+      "reverse phase nano-LC-MS/MS analysis"
+    ]
+  },
+  "20131217_OR8_RP_HP_C7b.raw": {
+    "Source Name": [
+      "C7b"
+    ],
+    "Assay Name": [
+      "C7b_20131217_OR8_RP_HP_C7b.raw"
+    ],
+    "Raw Data File": [
+      "20131217_OR8_RP_HP_C7b.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "C7b"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor samples"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen tumor samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 tumor samples"
+    ],
+    "Characteristics[Label]": [
+      "label-free single-shot strategy"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "15\u2009mM tris (2-carboxyethyl) phosphine (TCEP)",
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "30\u2009mM chloro-acetamide",
+      "50\u2009mM IAA solution"
+    ],
+    "Characteristics[TumorCellularity]": [
+      ">75% tumor content"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Ti4+-IMAC GELoader spin tips"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Elite (Thermo Fisher Scientific)",
+      "Q Exactive Plus mass spectrometer (Thermo Fisher Scientific)",
+      "UltiMate 3000 HPLC system"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD) with a normalized collision energy of 27",
+      "decision-tree-based ion trap CID or ETD fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "60\u2009min effective curved gradient",
+      "90-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250\u2009nL/min",
+      "100\u2009nL/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.025\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two tryptic missed-cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer",
+      "ion trap"
+    ],
+    "Comment[IonizationType]": [
+      "EasySpray ion source",
+      "electrosprayed (1.9\u2009kV)"
+    ],
+    "Comment[Separation]": [
+      "reverse phase nano-LC-MS/MS analysis"
+    ]
+  },
+  "20131217_OR8_RP_HP_C5c_rr.raw": {
+    "Source Name": [
+      "C5c"
+    ],
+    "Assay Name": [
+      "C5c_20131217_OR8_RP_HP_C5c_rr.raw"
+    ],
+    "Raw Data File": [
+      "20131217_OR8_RP_HP_C5c_rr.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "C5c"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "rr"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor samples"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen tumor samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 tumor samples"
+    ],
+    "Characteristics[Label]": [
+      "label-free single-shot strategy"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "15\u2009mM tris (2-carboxyethyl) phosphine (TCEP)",
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "30\u2009mM chloro-acetamide",
+      "50\u2009mM IAA solution"
+    ],
+    "Characteristics[TumorCellularity]": [
+      ">75% tumor content"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Ti4+-IMAC GELoader spin tips"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Elite (Thermo Fisher Scientific)",
+      "Q Exactive Plus mass spectrometer (Thermo Fisher Scientific)",
+      "UltiMate 3000 HPLC system"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD) with a normalized collision energy of 27",
+      "decision-tree-based ion trap CID or ETD fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "60\u2009min effective curved gradient",
+      "90-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250\u2009nL/min",
+      "100\u2009nL/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.025\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two tryptic missed-cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer",
+      "ion trap"
+    ],
+    "Comment[IonizationType]": [
+      "EasySpray ion source",
+      "electrosprayed (1.9\u2009kV)"
+    ],
+    "Comment[Separation]": [
+      "reverse phase nano-LC-MS/MS analysis"
+    ]
+  },
+  "20140113_OR8_RP_HP_B17B.raw": {
+    "Source Name": [
+      "B17B"
+    ],
+    "Assay Name": [
+      "B17B_20140113_OR8_RP_HP_B17B.raw"
+    ],
+    "Raw Data File": [
+      "20140113_OR8_RP_HP_B17B.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "B17B"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor samples"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen tumor samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 tumor samples"
+    ],
+    "Characteristics[Label]": [
+      "label-free single-shot strategy"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "15\u2009mM tris (2-carboxyethyl) phosphine (TCEP)",
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "30\u2009mM chloro-acetamide",
+      "50\u2009mM IAA solution"
+    ],
+    "Characteristics[TumorCellularity]": [
+      ">75% tumor content"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Ti4+-IMAC GELoader spin tips"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Elite (Thermo Fisher Scientific)",
+      "Q Exactive Plus mass spectrometer (Thermo Fisher Scientific)",
+      "UltiMate 3000 HPLC system"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD) with a normalized collision energy of 27",
+      "decision-tree-based ion trap CID or ETD fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "60\u2009min effective curved gradient",
+      "90-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250\u2009nL/min",
+      "100\u2009nL/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.025\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two tryptic missed-cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer",
+      "ion trap"
+    ],
+    "Comment[IonizationType]": [
+      "EasySpray ion source",
+      "electrosprayed (1.9\u2009kV)"
+    ],
+    "Comment[Separation]": [
+      "reverse phase nano-LC-MS/MS analysis"
+    ]
+  },
+  "20131217_OR8_RP_HP_C9.raw": {
+    "Source Name": [
+      "C9"
+    ],
+    "Assay Name": [
+      "C9_20131217_OR8_RP_HP_C9.raw"
+    ],
+    "Raw Data File": [
+      "20131217_OR8_RP_HP_C9.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "C9"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor samples"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen tumor samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 tumor samples"
+    ],
+    "Characteristics[Label]": [
+      "label-free single-shot strategy"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "15\u2009mM tris (2-carboxyethyl) phosphine (TCEP)",
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "30\u2009mM chloro-acetamide",
+      "50\u2009mM IAA solution"
+    ],
+    "Characteristics[TumorCellularity]": [
+      ">75% tumor content"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Ti4+-IMAC GELoader spin tips"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Elite (Thermo Fisher Scientific)",
+      "Q Exactive Plus mass spectrometer (Thermo Fisher Scientific)",
+      "UltiMate 3000 HPLC system"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD) with a normalized collision energy of 27",
+      "decision-tree-based ion trap CID or ETD fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "60\u2009min effective curved gradient",
+      "90-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250\u2009nL/min",
+      "100\u2009nL/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.025\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two tryptic missed-cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer",
+      "ion trap"
+    ],
+    "Comment[IonizationType]": [
+      "EasySpray ion source",
+      "electrosprayed (1.9\u2009kV)"
+    ],
+    "Comment[Separation]": [
+      "reverse phase nano-LC-MS/MS analysis"
+    ]
+  },
+  "20140113_OR8_RP_HP_B10B_rr.raw": {
+    "Source Name": [
+      "B10B"
+    ],
+    "Assay Name": [
+      "B10B_20140113_OR8_RP_HP_B10B_rr.raw"
+    ],
+    "Raw Data File": [
+      "20140113_OR8_RP_HP_B10B_rr.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "B10B"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "rr"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor samples"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen tumor samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 tumor samples"
+    ],
+    "Characteristics[Label]": [
+      "label-free single-shot strategy"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "15\u2009mM tris (2-carboxyethyl) phosphine (TCEP)",
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "30\u2009mM chloro-acetamide",
+      "50\u2009mM IAA solution"
+    ],
+    "Characteristics[TumorCellularity]": [
+      ">75% tumor content"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Ti4+-IMAC GELoader spin tips"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Elite (Thermo Fisher Scientific)",
+      "Q Exactive Plus mass spectrometer (Thermo Fisher Scientific)",
+      "UltiMate 3000 HPLC system"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD) with a normalized collision energy of 27",
+      "decision-tree-based ion trap CID or ETD fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "60\u2009min effective curved gradient",
+      "90-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250\u2009nL/min",
+      "100\u2009nL/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.025\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two tryptic missed-cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer",
+      "ion trap"
+    ],
+    "Comment[IonizationType]": [
+      "EasySpray ion source",
+      "electrosprayed (1.9\u2009kV)"
+    ],
+    "Comment[Separation]": [
+      "reverse phase nano-LC-MS/MS analysis"
+    ]
+  },
+  "20131217_OR8_RP_HP_C5b.raw": {
+    "Source Name": [
+      "C5b"
+    ],
+    "Assay Name": [
+      "C5b_20131217_OR8_RP_HP_C5b.raw"
+    ],
+    "Raw Data File": [
+      "20131217_OR8_RP_HP_C5b.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "C5b"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor samples"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen tumor samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 tumor samples"
+    ],
+    "Characteristics[Label]": [
+      "label-free single-shot strategy"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "15\u2009mM tris (2-carboxyethyl) phosphine (TCEP)",
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "30\u2009mM chloro-acetamide",
+      "50\u2009mM IAA solution"
+    ],
+    "Characteristics[TumorCellularity]": [
+      ">75% tumor content"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Ti4+-IMAC GELoader spin tips"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Elite (Thermo Fisher Scientific)",
+      "Q Exactive Plus mass spectrometer (Thermo Fisher Scientific)",
+      "UltiMate 3000 HPLC system"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD) with a normalized collision energy of 27",
+      "decision-tree-based ion trap CID or ETD fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "60\u2009min effective curved gradient",
+      "90-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250\u2009nL/min",
+      "100\u2009nL/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.025\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two tryptic missed-cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer",
+      "ion trap"
+    ],
+    "Comment[IonizationType]": [
+      "EasySpray ion source",
+      "electrosprayed (1.9\u2009kV)"
+    ],
+    "Comment[Separation]": [
+      "reverse phase nano-LC-MS/MS analysis"
+    ]
+  },
+  "20131217_OR8_RP_HP_C6.raw": {
+    "Source Name": [
+      "C6"
+    ],
+    "Assay Name": [
+      "C6_20131217_OR8_RP_HP_C6.raw"
+    ],
+    "Raw Data File": [
+      "20131217_OR8_RP_HP_C6.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "C6"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor samples"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen tumor samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 tumor samples"
+    ],
+    "Characteristics[Label]": [
+      "label-free single-shot strategy"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "15\u2009mM tris (2-carboxyethyl) phosphine (TCEP)",
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "30\u2009mM chloro-acetamide",
+      "50\u2009mM IAA solution"
+    ],
+    "Characteristics[TumorCellularity]": [
+      ">75% tumor content"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Ti4+-IMAC GELoader spin tips"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Elite (Thermo Fisher Scientific)",
+      "Q Exactive Plus mass spectrometer (Thermo Fisher Scientific)",
+      "UltiMate 3000 HPLC system"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD) with a normalized collision energy of 27",
+      "decision-tree-based ion trap CID or ETD fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "60\u2009min effective curved gradient",
+      "90-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250\u2009nL/min",
+      "100\u2009nL/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.025\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two tryptic missed-cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer",
+      "ion trap"
+    ],
+    "Comment[IonizationType]": [
+      "EasySpray ion source",
+      "electrosprayed (1.9\u2009kV)"
+    ],
+    "Comment[Separation]": [
+      "reverse phase nano-LC-MS/MS analysis"
+    ]
+  },
+  "20131217_OR8_RP_HP_C5b_rr.raw": {
+    "Source Name": [
+      "C5b"
+    ],
+    "Assay Name": [
+      "C5b_20131217_OR8_RP_HP_C5b_rr.raw"
+    ],
+    "Raw Data File": [
+      "20131217_OR8_RP_HP_C5b_rr.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "C5b"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "rr"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor samples"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen tumor samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 tumor samples"
+    ],
+    "Characteristics[Label]": [
+      "label-free single-shot strategy"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "15\u2009mM tris (2-carboxyethyl) phosphine (TCEP)",
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "30\u2009mM chloro-acetamide",
+      "50\u2009mM IAA solution"
+    ],
+    "Characteristics[TumorCellularity]": [
+      ">75% tumor content"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Ti4+-IMAC GELoader spin tips"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Elite (Thermo Fisher Scientific)",
+      "Q Exactive Plus mass spectrometer (Thermo Fisher Scientific)",
+      "UltiMate 3000 HPLC system"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD) with a normalized collision energy of 27",
+      "decision-tree-based ion trap CID or ETD fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "60\u2009min effective curved gradient",
+      "90-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250\u2009nL/min",
+      "100\u2009nL/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.025\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two tryptic missed-cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer",
+      "ion trap"
+    ],
+    "Comment[IonizationType]": [
+      "EasySpray ion source",
+      "electrosprayed (1.9\u2009kV)"
+    ],
+    "Comment[Separation]": [
+      "reverse phase nano-LC-MS/MS analysis"
+    ]
+  },
+  "20140108_OR8_RP_HP_B2A.raw": {
+    "Source Name": [
+      "B2A"
+    ],
+    "Assay Name": [
+      "B2A_20140108_OR8_RP_HP_B2A.raw"
+    ],
+    "Raw Data File": [
+      "20140108_OR8_RP_HP_B2A.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "B2A"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor samples"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen tumor samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 tumor samples"
+    ],
+    "Characteristics[Label]": [
+      "label-free single-shot strategy"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "15\u2009mM tris (2-carboxyethyl) phosphine (TCEP)",
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "30\u2009mM chloro-acetamide",
+      "50\u2009mM IAA solution"
+    ],
+    "Characteristics[TumorCellularity]": [
+      ">75% tumor content"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Ti4+-IMAC GELoader spin tips"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Elite (Thermo Fisher Scientific)",
+      "Q Exactive Plus mass spectrometer (Thermo Fisher Scientific)",
+      "UltiMate 3000 HPLC system"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD) with a normalized collision energy of 27",
+      "decision-tree-based ion trap CID or ETD fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "60\u2009min effective curved gradient",
+      "90-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250\u2009nL/min",
+      "100\u2009nL/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.025\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two tryptic missed-cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer",
+      "ion trap"
+    ],
+    "Comment[IonizationType]": [
+      "EasySpray ion source",
+      "electrosprayed (1.9\u2009kV)"
+    ],
+    "Comment[Separation]": [
+      "reverse phase nano-LC-MS/MS analysis"
+    ]
+  },
+  "20140113_OR8_RP_HP_B6A_rr.raw": {
+    "Source Name": [
+      "B6A"
+    ],
+    "Assay Name": [
+      "B6A_20140113_OR8_RP_HP_B6A_rr.raw"
+    ],
+    "Raw Data File": [
+      "20140113_OR8_RP_HP_B6A_rr.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "B6A"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "rr"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor samples"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen tumor samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 tumor samples"
+    ],
+    "Characteristics[Label]": [
+      "label-free single-shot strategy"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "15\u2009mM tris (2-carboxyethyl) phosphine (TCEP)",
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "30\u2009mM chloro-acetamide",
+      "50\u2009mM IAA solution"
+    ],
+    "Characteristics[TumorCellularity]": [
+      ">75% tumor content"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Ti4+-IMAC GELoader spin tips"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Elite (Thermo Fisher Scientific)",
+      "Q Exactive Plus mass spectrometer (Thermo Fisher Scientific)",
+      "UltiMate 3000 HPLC system"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD) with a normalized collision energy of 27",
+      "decision-tree-based ion trap CID or ETD fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "60\u2009min effective curved gradient",
+      "90-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250\u2009nL/min",
+      "100\u2009nL/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.025\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two tryptic missed-cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer",
+      "ion trap"
+    ],
+    "Comment[IonizationType]": [
+      "EasySpray ion source",
+      "electrosprayed (1.9\u2009kV)"
+    ],
+    "Comment[Separation]": [
+      "reverse phase nano-LC-MS/MS analysis"
+    ]
+  },
+  "20131217_OR8_RP_HP_C2b.raw": {
+    "Source Name": [
+      "C2b"
+    ],
+    "Assay Name": [
+      "C2b_20131217_OR8_RP_HP_C2b.raw"
+    ],
+    "Raw Data File": [
+      "20131217_OR8_RP_HP_C2b.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "C2b"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor samples"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen tumor samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 tumor samples"
+    ],
+    "Characteristics[Label]": [
+      "label-free single-shot strategy"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "15\u2009mM tris (2-carboxyethyl) phosphine (TCEP)",
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "30\u2009mM chloro-acetamide",
+      "50\u2009mM IAA solution"
+    ],
+    "Characteristics[TumorCellularity]": [
+      ">75% tumor content"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Ti4+-IMAC GELoader spin tips"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Elite (Thermo Fisher Scientific)",
+      "Q Exactive Plus mass spectrometer (Thermo Fisher Scientific)",
+      "UltiMate 3000 HPLC system"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD) with a normalized collision energy of 27",
+      "decision-tree-based ion trap CID or ETD fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "60\u2009min effective curved gradient",
+      "90-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250\u2009nL/min",
+      "100\u2009nL/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.025\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two tryptic missed-cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer",
+      "ion trap"
+    ],
+    "Comment[IonizationType]": [
+      "EasySpray ion source",
+      "electrosprayed (1.9\u2009kV)"
+    ],
+    "Comment[Separation]": [
+      "reverse phase nano-LC-MS/MS analysis"
+    ]
+  },
+  "20131217_OR8_RP_HP_C4.raw": {
+    "Source Name": [
+      "C4"
+    ],
+    "Assay Name": [
+      "C4_20131217_OR8_RP_HP_C4.raw"
+    ],
+    "Raw Data File": [
+      "20131217_OR8_RP_HP_C4.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "C4"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor samples"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen tumor samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 tumor samples"
+    ],
+    "Characteristics[Label]": [
+      "label-free single-shot strategy"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "15\u2009mM tris (2-carboxyethyl) phosphine (TCEP)",
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "30\u2009mM chloro-acetamide",
+      "50\u2009mM IAA solution"
+    ],
+    "Characteristics[TumorCellularity]": [
+      ">75% tumor content"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Ti4+-IMAC GELoader spin tips"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Elite (Thermo Fisher Scientific)",
+      "Q Exactive Plus mass spectrometer (Thermo Fisher Scientific)",
+      "UltiMate 3000 HPLC system"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD) with a normalized collision energy of 27",
+      "decision-tree-based ion trap CID or ETD fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "60\u2009min effective curved gradient",
+      "90-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250\u2009nL/min",
+      "100\u2009nL/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.025\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two tryptic missed-cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer",
+      "ion trap"
+    ],
+    "Comment[IonizationType]": [
+      "EasySpray ion source",
+      "electrosprayed (1.9\u2009kV)"
+    ],
+    "Comment[Separation]": [
+      "reverse phase nano-LC-MS/MS analysis"
+    ]
+  },
+  "20131217_OR8_RP_HP_C5c.raw": {
+    "Source Name": [
+      "C5c"
+    ],
+    "Assay Name": [
+      "C5c_20131217_OR8_RP_HP_C5c.raw"
+    ],
+    "Raw Data File": [
+      "20131217_OR8_RP_HP_C5c.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "C5c"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor samples"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen tumor samples"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "34 tumor samples"
+    ],
+    "Characteristics[Label]": [
+      "label-free single-shot strategy"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "endoproteinase Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "15\u2009mM tris (2-carboxyethyl) phosphine (TCEP)",
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "30\u2009mM chloro-acetamide",
+      "50\u2009mM IAA solution"
+    ],
+    "Characteristics[TumorCellularity]": [
+      ">75% tumor content"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Ti4+-IMAC GELoader spin tips"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Elite (Thermo Fisher Scientific)",
+      "Q Exactive Plus mass spectrometer (Thermo Fisher Scientific)",
+      "UltiMate 3000 HPLC system"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD) with a normalized collision energy of 27",
+      "decision-tree-based ion trap CID or ETD fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "60\u2009min effective curved gradient",
+      "90-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250\u2009nL/min",
+      "100\u2009nL/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.025\u2009Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two tryptic missed-cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap analyzer",
+      "ion trap"
+    ],
+    "Comment[IonizationType]": [
+      "EasySpray ion source",
+      "electrosprayed (1.9\u2009kV)"
+    ],
+    "Comment[Separation]": [
+      "reverse phase nano-LC-MS/MS analysis"
+    ]
+  }
+}

@@ -1,0 +1,3106 @@
+{
+  "LP1_19_phos_DIA_135.raw": {
+    "Source Name": [
+      "LP1_19"
+    ],
+    "Assay Name": [
+      "LP1_19_phos_DIA_135"
+    ],
+    "Raw Data File": [
+      "LP1_19_phos_DIA_135.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-independent acquisition (DIA)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Phosphopeptide enrichment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_23_phos_DIA_116.raw": {
+    "Source Name": [
+      "LP1_23"
+    ],
+    "Assay Name": [
+      "LP1_23_phos_DIA_116"
+    ],
+    "Raw Data File": [
+      "LP1_23_phos_DIA_116.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-independent acquisition (DIA)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Phosphopeptide enrichment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_08_phos_DIA_120.raw": {
+    "Source Name": [
+      "LP1_08"
+    ],
+    "Assay Name": [
+      "LP1_08_phos_DIA_120"
+    ],
+    "Raw Data File": [
+      "LP1_08_phos_DIA_120.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-independent acquisition (DIA)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Phosphopeptide enrichment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_24_AB_DIA_165.raw": {
+    "Source Name": [
+      "LP1_24"
+    ],
+    "Assay Name": [
+      "LP1_24_AB_DIA_165"
+    ],
+    "Raw Data File": [
+      "LP1_24_AB_DIA_165.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-independent acquisition (DIA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_08_AB_DDA_146.raw": {
+    "Source Name": [
+      "LP1_08"
+    ],
+    "Assay Name": [
+      "LP1_08_AB_DDA_146"
+    ],
+    "Raw Data File": [
+      "LP1_08_AB_DDA_146.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent analysis (DDA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_06_AB_DIA_145.raw": {
+    "Source Name": [
+      "LP1_06"
+    ],
+    "Assay Name": [
+      "LP1_06_AB_DIA_145"
+    ],
+    "Raw Data File": [
+      "LP1_06_AB_DIA_145.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-independent acquisition (DIA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_10_AB_DIA_147.raw": {
+    "Source Name": [
+      "LP1_10"
+    ],
+    "Assay Name": [
+      "LP1_10_AB_DIA_147"
+    ],
+    "Raw Data File": [
+      "LP1_10_AB_DIA_147.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-independent acquisition (DIA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_03_AB_DIA_141.raw": {
+    "Source Name": [
+      "LP1_03"
+    ],
+    "Assay Name": [
+      "LP1_03_AB_DIA_141"
+    ],
+    "Raw Data File": [
+      "LP1_03_AB_DIA_141.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-independent acquisition (DIA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_18_phos_DIA_133.raw": {
+    "Source Name": [
+      "LP1_18"
+    ],
+    "Assay Name": [
+      "LP1_18_phos_DIA_133"
+    ],
+    "Raw Data File": [
+      "LP1_18_phos_DIA_133.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-independent acquisition (DIA)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Phosphopeptide enrichment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_10_AB_DDA_150.raw": {
+    "Source Name": [
+      "LP1_10"
+    ],
+    "Assay Name": [
+      "LP1_10_AB_DDA_150"
+    ],
+    "Raw Data File": [
+      "LP1_10_AB_DDA_150.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent analysis (DDA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_16_AB_DIA_155.raw": {
+    "Source Name": [
+      "LP1_16"
+    ],
+    "Assay Name": [
+      "LP1_16_AB_DIA_155"
+    ],
+    "Raw Data File": [
+      "LP1_16_AB_DIA_155.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-independent acquisition (DIA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_14_AB_DIA_152.raw": {
+    "Source Name": [
+      "LP1_14"
+    ],
+    "Assay Name": [
+      "LP1_14_AB_DIA_152"
+    ],
+    "Raw Data File": [
+      "LP1_14_AB_DIA_152.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-independent acquisition (DIA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_06_phos_DIA_113.raw": {
+    "Source Name": [
+      "LP1_06"
+    ],
+    "Assay Name": [
+      "LP1_06_phos_DIA_113"
+    ],
+    "Raw Data File": [
+      "LP1_06_phos_DIA_113.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-independent acquisition (DIA)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Phosphopeptide enrichment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_01_phos_DIA_113.raw": {
+    "Source Name": [
+      "LP1_01"
+    ],
+    "Assay Name": [
+      "LP1_01_phos_DIA_113"
+    ],
+    "Raw Data File": [
+      "LP1_01_phos_DIA_113.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-independent acquisition (DIA)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Phosphopeptide enrichment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_09_phos_DIA_121.raw": {
+    "Source Name": [
+      "LP1_09"
+    ],
+    "Assay Name": [
+      "LP1_09_phos_DIA_121"
+    ],
+    "Raw Data File": [
+      "LP1_09_phos_DIA_121.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-independent acquisition (DIA)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Phosphopeptide enrichment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_05_phos_DIA_112.raw": {
+    "Source Name": [
+      "LP1_05"
+    ],
+    "Assay Name": [
+      "LP1_05_phos_DIA_112"
+    ],
+    "Raw Data File": [
+      "LP1_05_phos_DIA_112.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-independent acquisition (DIA)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Phosphopeptide enrichment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_07_phos_DDA_122.raw": {
+    "Source Name": [
+      "LP1_07"
+    ],
+    "Assay Name": [
+      "LP1_07_phos_DDA_122"
+    ],
+    "Raw Data File": [
+      "LP1_07_phos_DDA_122.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent analysis (DDA)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Phosphopeptide enrichment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_21_AB_DIA_161.raw": {
+    "Source Name": [
+      "LP1_21"
+    ],
+    "Assay Name": [
+      "LP1_21_AB_DIA_161"
+    ],
+    "Raw Data File": [
+      "LP1_21_AB_DIA_161.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-independent acquisition (DIA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_01_AB_DIA_139.raw": {
+    "Source Name": [
+      "LP1_01"
+    ],
+    "Assay Name": [
+      "LP1_01_AB_DIA_139"
+    ],
+    "Raw Data File": [
+      "LP1_01_AB_DIA_139.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-independent acquisition (DIA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_13_AB_DIA_151.raw": {
+    "Source Name": [
+      "LP1_13"
+    ],
+    "Assay Name": [
+      "LP1_13_AB_DIA_151"
+    ],
+    "Raw Data File": [
+      "LP1_13_AB_DIA_151.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-independent acquisition (DIA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_04_phos_DIA_111.raw": {
+    "Source Name": [
+      "LP1_04"
+    ],
+    "Assay Name": [
+      "LP1_04_phos_DIA_111"
+    ],
+    "Raw Data File": [
+      "LP1_04_phos_DIA_111.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-independent acquisition (DIA)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Phosphopeptide enrichment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_21_phos_DIA_137.raw": {
+    "Source Name": [
+      "LP1_21"
+    ],
+    "Assay Name": [
+      "LP1_21_phos_DIA_137"
+    ],
+    "Raw Data File": [
+      "LP1_21_phos_DIA_137.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-independent acquisition (DIA)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Phosphopeptide enrichment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_08_AB_DIA_144.raw": {
+    "Source Name": [
+      "LP1_08"
+    ],
+    "Assay Name": [
+      "LP1_08_AB_DIA_144"
+    ],
+    "Raw Data File": [
+      "LP1_08_AB_DIA_144.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-independent acquisition (DIA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_13_phos_DDA_130.raw": {
+    "Source Name": [
+      "LP1_13"
+    ],
+    "Assay Name": [
+      "LP1_13_phos_DDA_130"
+    ],
+    "Raw Data File": [
+      "LP1_13_phos_DDA_130.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent analysis (DDA)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Phosphopeptide enrichment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_05_AB_DIA_144.raw": {
+    "Source Name": [
+      "LP1_05"
+    ],
+    "Assay Name": [
+      "LP1_05_AB_DIA_144"
+    ],
+    "Raw Data File": [
+      "LP1_05_AB_DIA_144.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-independent acquisition (DIA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_14_phos_DIA_128.raw": {
+    "Source Name": [
+      "LP1_14"
+    ],
+    "Assay Name": [
+      "LP1_14_phos_DIA_128"
+    ],
+    "Raw Data File": [
+      "LP1_14_phos_DIA_128.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-independent acquisition (DIA)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Phosphopeptide enrichment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_18_AB_DDA_158.raw": {
+    "Source Name": [
+      "LP1_18"
+    ],
+    "Assay Name": [
+      "LP1_18_AB_DDA_158"
+    ],
+    "Raw Data File": [
+      "LP1_18_AB_DDA_158.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent analysis (DDA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_09_AB_DIA_145.raw": {
+    "Source Name": [
+      "LP1_09"
+    ],
+    "Assay Name": [
+      "LP1_09_AB_DIA_145"
+    ],
+    "Raw Data File": [
+      "LP1_09_AB_DIA_145.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-independent acquisition (DIA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_18_phos_DDA_134.raw": {
+    "Source Name": [
+      "LP1_18"
+    ],
+    "Assay Name": [
+      "LP1_18_phos_DDA_134"
+    ],
+    "Raw Data File": [
+      "LP1_18_phos_DDA_134.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent analysis (DDA)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Phosphopeptide enrichment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_23_AB_DDA_166.raw": {
+    "Source Name": [
+      "LP1_23"
+    ],
+    "Assay Name": [
+      "LP1_23_AB_DDA_166"
+    ],
+    "Raw Data File": [
+      "LP1_23_AB_DDA_166.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent analysis (DDA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_04_AB_DDA_142.raw": {
+    "Source Name": [
+      "LP1_04"
+    ],
+    "Assay Name": [
+      "LP1_04_AB_DDA_142"
+    ],
+    "Raw Data File": [
+      "LP1_04_AB_DDA_142.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent analysis (DDA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_20_phos_DDA_138.raw": {
+    "Source Name": [
+      "LP1_20"
+    ],
+    "Assay Name": [
+      "LP1_20_phos_DDA_138"
+    ],
+    "Raw Data File": [
+      "LP1_20_phos_DDA_138.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent analysis (DDA)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Phosphopeptide enrichment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_11_AB_DIA_148.raw": {
+    "Source Name": [
+      "LP1_11"
+    ],
+    "Assay Name": [
+      "LP1_11_AB_DIA_148"
+    ],
+    "Raw Data File": [
+      "LP1_11_AB_DIA_148.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-independent acquisition (DIA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_24_phos_DIA_117.raw": {
+    "Source Name": [
+      "LP1_24"
+    ],
+    "Assay Name": [
+      "LP1_24_phos_DIA_117"
+    ],
+    "Raw Data File": [
+      "LP1_24_phos_DIA_117.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-independent acquisition (DIA)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Phosphopeptide enrichment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_22_AB_DIA_163.raw": {
+    "Source Name": [
+      "LP1_22"
+    ],
+    "Assay Name": [
+      "LP1_22_AB_DIA_163"
+    ],
+    "Raw Data File": [
+      "LP1_22_AB_DIA_163.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-independent acquisition (DIA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_19_AB_DDA_162.raw": {
+    "Source Name": [
+      "LP1_19"
+    ],
+    "Assay Name": [
+      "LP1_19_AB_DDA_162"
+    ],
+    "Raw Data File": [
+      "LP1_19_AB_DDA_162.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent analysis (DDA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_15_AB_DIA_153.raw": {
+    "Source Name": [
+      "LP1_15"
+    ],
+    "Assay Name": [
+      "LP1_15_AB_DIA_153"
+    ],
+    "Raw Data File": [
+      "LP1_15_AB_DIA_153.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-independent acquisition (DIA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_03_phos_DIA_111.raw": {
+    "Source Name": [
+      "LP1_03"
+    ],
+    "Assay Name": [
+      "LP1_03_phos_DIA_111"
+    ],
+    "Raw Data File": [
+      "LP1_03_phos_DIA_111.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-independent acquisition (DIA)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Phosphopeptide enrichment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_24_phos_DDA_118.raw": {
+    "Source Name": [
+      "LP1_24"
+    ],
+    "Assay Name": [
+      "LP1_24_phos_DDA_118"
+    ],
+    "Raw Data File": [
+      "LP1_24_phos_DDA_118.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent analysis (DDA)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Phosphopeptide enrichment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_17_phos_DIA_132.raw": {
+    "Source Name": [
+      "LP1_17"
+    ],
+    "Assay Name": [
+      "LP1_17_phos_DIA_132"
+    ],
+    "Raw Data File": [
+      "LP1_17_phos_DIA_132.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-independent acquisition (DIA)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Phosphopeptide enrichment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_11_phos_DIA_124.raw": {
+    "Source Name": [
+      "LP1_11"
+    ],
+    "Assay Name": [
+      "LP1_11_phos_DIA_124"
+    ],
+    "Raw Data File": [
+      "LP1_11_phos_DIA_124.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-independent acquisition (DIA)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Phosphopeptide enrichment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_12_AB_DIA_149.raw": {
+    "Source Name": [
+      "LP1_12"
+    ],
+    "Assay Name": [
+      "LP1_12_AB_DIA_149"
+    ],
+    "Raw Data File": [
+      "LP1_12_AB_DIA_149.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-independent acquisition (DIA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_22_phos_DIA_115.raw": {
+    "Source Name": [
+      "LP1_22"
+    ],
+    "Assay Name": [
+      "LP1_22_phos_DIA_115"
+    ],
+    "Raw Data File": [
+      "LP1_22_phos_DIA_115.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-independent acquisition (DIA)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Phosphopeptide enrichment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_12_phos_DIA_125.raw": {
+    "Source Name": [
+      "LP1_12"
+    ],
+    "Assay Name": [
+      "LP1_12_phos_DIA_125"
+    ],
+    "Raw Data File": [
+      "LP1_12_phos_DIA_125.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-independent acquisition (DIA)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Phosphopeptide enrichment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_17_AB_DIA_156.raw": {
+    "Source Name": [
+      "LP1_17"
+    ],
+    "Assay Name": [
+      "LP1_17_AB_DIA_156"
+    ],
+    "Raw Data File": [
+      "LP1_17_AB_DIA_156.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-independent acquisition (DIA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_02_AB_DIA_140.raw": {
+    "Source Name": [
+      "LP1_02"
+    ],
+    "Assay Name": [
+      "LP1_02_AB_DIA_140"
+    ],
+    "Raw Data File": [
+      "LP1_02_AB_DIA_140.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-independent acquisition (DIA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_10_phos_DIA_123.raw": {
+    "Source Name": [
+      "LP1_10"
+    ],
+    "Assay Name": [
+      "LP1_10_phos_DIA_123"
+    ],
+    "Raw Data File": [
+      "LP1_10_phos_DIA_123.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-independent acquisition (DIA)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Phosphopeptide enrichment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_20_AB_DIA_160.raw": {
+    "Source Name": [
+      "LP1_20"
+    ],
+    "Assay Name": [
+      "LP1_20_AB_DIA_160"
+    ],
+    "Raw Data File": [
+      "LP1_20_AB_DIA_160.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-independent acquisition (DIA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_05_phos_DDA_114.raw": {
+    "Source Name": [
+      "LP1_05"
+    ],
+    "Assay Name": [
+      "LP1_05_phos_DDA_114"
+    ],
+    "Raw Data File": [
+      "LP1_05_phos_DDA_114.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent analysis (DDA)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Phosphopeptide enrichment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_18_AB_DIA_157.raw": {
+    "Source Name": [
+      "LP1_18"
+    ],
+    "Assay Name": [
+      "LP1_18_AB_DIA_157"
+    ],
+    "Raw Data File": [
+      "LP1_18_AB_DIA_157.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-independent acquisition (DIA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_15_phos_DIA_129.raw": {
+    "Source Name": [
+      "LP1_15"
+    ],
+    "Assay Name": [
+      "LP1_15_phos_DIA_129"
+    ],
+    "Raw Data File": [
+      "LP1_15_phos_DIA_129.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-independent acquisition (DIA)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Phosphopeptide enrichment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_02_phos_DIA_112.raw": {
+    "Source Name": [
+      "LP1_02"
+    ],
+    "Assay Name": [
+      "LP1_02_phos_DIA_112"
+    ],
+    "Raw Data File": [
+      "LP1_02_phos_DIA_112.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-independent acquisition (DIA)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Phosphopeptide enrichment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_04_AB_DIA_143.raw": {
+    "Source Name": [
+      "LP1_04"
+    ],
+    "Assay Name": [
+      "LP1_04_AB_DIA_143"
+    ],
+    "Raw Data File": [
+      "LP1_04_AB_DIA_143.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-independent acquisition (DIA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_07_phos_DIA_119.raw": {
+    "Source Name": [
+      "LP1_07"
+    ],
+    "Assay Name": [
+      "LP1_07_phos_DIA_119"
+    ],
+    "Raw Data File": [
+      "LP1_07_phos_DIA_119.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-independent acquisition (DIA)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Phosphopeptide enrichment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_23_AB_DIA_164.raw": {
+    "Source Name": [
+      "LP1_23"
+    ],
+    "Assay Name": [
+      "LP1_23_AB_DIA_164"
+    ],
+    "Raw Data File": [
+      "LP1_23_AB_DIA_164.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-independent acquisition (DIA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_20_phos_DIA_136.raw": {
+    "Source Name": [
+      "LP1_20"
+    ],
+    "Assay Name": [
+      "LP1_20_phos_DIA_136"
+    ],
+    "Raw Data File": [
+      "LP1_20_phos_DIA_136.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-independent acquisition (DIA)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Phosphopeptide enrichment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_07_AB_DIA_143.raw": {
+    "Source Name": [
+      "LP1_07"
+    ],
+    "Assay Name": [
+      "LP1_07_AB_DIA_143"
+    ],
+    "Raw Data File": [
+      "LP1_07_AB_DIA_143.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-independent acquisition (DIA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_19_AB_DIA_159.raw": {
+    "Source Name": [
+      "LP1_19"
+    ],
+    "Assay Name": [
+      "LP1_19_AB_DIA_159"
+    ],
+    "Raw Data File": [
+      "LP1_19_AB_DIA_159.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-independent acquisition (DIA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_03_phos_DDA_111.raw": {
+    "Source Name": [
+      "LP1_03"
+    ],
+    "Assay Name": [
+      "LP1_03_phos_DDA_111"
+    ],
+    "Raw Data File": [
+      "LP1_03_phos_DDA_111.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent analysis (DDA)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Phosphopeptide enrichment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_13_phos_DIA_127.raw": {
+    "Source Name": [
+      "LP1_13"
+    ],
+    "Assay Name": [
+      "LP1_13_phos_DIA_127"
+    ],
+    "Raw Data File": [
+      "LP1_13_phos_DIA_127.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-independent acquisition (DIA)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Phosphopeptide enrichment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_11_phos_DDA_126.raw": {
+    "Source Name": [
+      "LP1_11"
+    ],
+    "Assay Name": [
+      "LP1_11_phos_DDA_126"
+    ],
+    "Raw Data File": [
+      "LP1_11_phos_DDA_126.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent analysis (DDA)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Phosphopeptide enrichment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_03_AB_DDA_142.raw": {
+    "Source Name": [
+      "LP1_03"
+    ],
+    "Assay Name": [
+      "LP1_03_AB_DDA_142"
+    ],
+    "Raw Data File": [
+      "LP1_03_AB_DDA_142.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent analysis (DDA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_13_AB_DDA_154.raw": {
+    "Source Name": [
+      "LP1_13"
+    ],
+    "Assay Name": [
+      "LP1_13_AB_DDA_154"
+    ],
+    "Raw Data File": [
+      "LP1_13_AB_DDA_154.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data dependent analysis (DDA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  },
+  "LP1_16_phos_DIA_131.raw": {
+    "Source Name": [
+      "LP1_16"
+    ],
+    "Assay Name": [
+      "LP1_16_phos_DIA_131"
+    ],
+    "Raw Data File": [
+      "LP1_16_phos_DIA_131.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Vero E6 cells"
+    ],
+    "Characteristics[Organism]": [
+      "Chlorocebus sabaeus"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris-(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicate"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Exploris 480 mass spectrometry system (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-independent acquisition (DIA)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Phosphopeptide enrichment"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350 nL/minute"
+    ],
+    "Comment[GradientTime]": [
+      "organic gradient from 5% to 30% mobile phase B over 112 minutes"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collisional dissociation (HCD)"
+    ]
+  }
+}

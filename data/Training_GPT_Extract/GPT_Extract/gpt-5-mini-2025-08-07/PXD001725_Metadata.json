@@ -1,0 +1,2312 @@
+{
+  "130708_M98_002.raw": {
+    "Source Name": [
+      "M98"
+    ],
+    "Assay Name": [
+      "M98_002"
+    ],
+    "Raw Data File": [
+      "130708_M98_002.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Metastatic Melanoma Tissues"
+    ],
+    "Characteristics[Organism]": [
+      "Uniprot Human (release 06/03/2013)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lymph nodes metastases from 10 MM patients undergoing surgery at Lund University Hospital, Sweden."
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Ten lymph node metastases (South-Swedish Malignant Melanoma Biobank)"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "three technical replicates"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT (1 h at 37°C)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide (30 min, kept dark at room temperature)"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "002"
+    ],
+    "Characteristics[Temperature]": [
+      "stored at -80°C in the Biobank."
+    ],
+    "Comment[FractionationMethod]": [
+      "Strong cation exchange chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "50μg of peptides were fractionated into 6 fractions, approximately 8.3 μg in each fraction"
+    ],
+    "Comment[Separation]": [
+      "column (50 cm x 75 μm, C18, 2 μm and 100Å, PN 164540, Thermo Scientific, San José, CA, USA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 250 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "The gradient started with 5% B and 20% B at 120 min, followed by 40% B at 180 min, increased to 90% at 185 min, which was maintained for 5 min."
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top10 data-dependent approach"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD collision cell with normalized collision energy of 30%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap mass analyzer"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "1 Da"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "1 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "three"
+    ]
+  },
+  "130708_M813_003.raw": {
+    "Source Name": [
+      "M813"
+    ],
+    "Assay Name": [
+      "M813_003"
+    ],
+    "Raw Data File": [
+      "130708_M813_003.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Metastatic Melanoma Tissues"
+    ],
+    "Characteristics[Organism]": [
+      "Uniprot Human (release 06/03/2013)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lymph nodes metastases from 10 MM patients undergoing surgery at Lund University Hospital, Sweden."
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Ten lymph node metastases (South-Swedish Malignant Melanoma Biobank)"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "three technical replicates"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT (1 h at 37°C)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide (30 min, kept dark at room temperature)"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "003"
+    ],
+    "Characteristics[Temperature]": [
+      "stored at -80°C in the Biobank."
+    ],
+    "Comment[FractionationMethod]": [
+      "Strong cation exchange chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "50μg of peptides were fractionated into 6 fractions, approximately 8.3 μg in each fraction"
+    ],
+    "Comment[Separation]": [
+      "column (50 cm x 75 μm, C18, 2 μm and 100Å, PN 164540, Thermo Scientific, San José, CA, USA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 250 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "The gradient started with 5% B and 20% B at 120 min, followed by 40% B at 180 min, increased to 90% at 185 min, which was maintained for 5 min."
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top10 data-dependent approach"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD collision cell with normalized collision energy of 30%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap mass analyzer"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "1 Da"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "1 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "three"
+    ]
+  },
+  "130708_M787_001.raw": {
+    "Source Name": [
+      "M787"
+    ],
+    "Assay Name": [
+      "M787_001"
+    ],
+    "Raw Data File": [
+      "130708_M787_001.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Metastatic Melanoma Tissues"
+    ],
+    "Characteristics[Organism]": [
+      "Uniprot Human (release 06/03/2013)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lymph nodes metastases from 10 MM patients undergoing surgery at Lund University Hospital, Sweden."
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Ten lymph node metastases (South-Swedish Malignant Melanoma Biobank)"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "three technical replicates"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT (1 h at 37°C)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide (30 min, kept dark at room temperature)"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "001"
+    ],
+    "Characteristics[Temperature]": [
+      "stored at -80°C in the Biobank."
+    ],
+    "Comment[FractionationMethod]": [
+      "Strong cation exchange chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "50μg of peptides were fractionated into 6 fractions, approximately 8.3 μg in each fraction"
+    ],
+    "Comment[Separation]": [
+      "column (50 cm x 75 μm, C18, 2 μm and 100Å, PN 164540, Thermo Scientific, San José, CA, USA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 250 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "The gradient started with 5% B and 20% B at 120 min, followed by 40% B at 180 min, increased to 90% at 185 min, which was maintained for 5 min."
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top10 data-dependent approach"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD collision cell with normalized collision energy of 30%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap mass analyzer"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "1 Da"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "1 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "three"
+    ]
+  },
+  "130708_M687_001.raw": {
+    "Source Name": [
+      "M687"
+    ],
+    "Assay Name": [
+      "M687_001"
+    ],
+    "Raw Data File": [
+      "130708_M687_001.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Metastatic Melanoma Tissues"
+    ],
+    "Characteristics[Organism]": [
+      "Uniprot Human (release 06/03/2013)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lymph nodes metastases from 10 MM patients undergoing surgery at Lund University Hospital, Sweden."
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Ten lymph node metastases (South-Swedish Malignant Melanoma Biobank)"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "three technical replicates"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT (1 h at 37°C)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide (30 min, kept dark at room temperature)"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "001"
+    ],
+    "Characteristics[Temperature]": [
+      "stored at -80°C in the Biobank."
+    ],
+    "Comment[FractionationMethod]": [
+      "Strong cation exchange chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "50μg of peptides were fractionated into 6 fractions, approximately 8.3 μg in each fraction"
+    ],
+    "Comment[Separation]": [
+      "column (50 cm x 75 μm, C18, 2 μm and 100Å, PN 164540, Thermo Scientific, San José, CA, USA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 250 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "The gradient started with 5% B and 20% B at 120 min, followed by 40% B at 180 min, increased to 90% at 185 min, which was maintained for 5 min."
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top10 data-dependent approach"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD collision cell with normalized collision energy of 30%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap mass analyzer"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "1 Da"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "1 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "three"
+    ]
+  },
+  "130708_M504_002.raw": {
+    "Source Name": [
+      "M504"
+    ],
+    "Assay Name": [
+      "M504_002"
+    ],
+    "Raw Data File": [
+      "130708_M504_002.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Metastatic Melanoma Tissues"
+    ],
+    "Characteristics[Organism]": [
+      "Uniprot Human (release 06/03/2013)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lymph nodes metastases from 10 MM patients undergoing surgery at Lund University Hospital, Sweden."
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Ten lymph node metastases (South-Swedish Malignant Melanoma Biobank)"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "three technical replicates"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT (1 h at 37°C)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide (30 min, kept dark at room temperature)"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "002"
+    ],
+    "Characteristics[Temperature]": [
+      "stored at -80°C in the Biobank."
+    ],
+    "Comment[FractionationMethod]": [
+      "Strong cation exchange chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "50μg of peptides were fractionated into 6 fractions, approximately 8.3 μg in each fraction"
+    ],
+    "Comment[Separation]": [
+      "column (50 cm x 75 μm, C18, 2 μm and 100Å, PN 164540, Thermo Scientific, San José, CA, USA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 250 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "The gradient started with 5% B and 20% B at 120 min, followed by 40% B at 180 min, increased to 90% at 185 min, which was maintained for 5 min."
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top10 data-dependent approach"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD collision cell with normalized collision energy of 30%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap mass analyzer"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "1 Da"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "1 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "three"
+    ]
+  },
+  "130708_M35_003.raw": {
+    "Source Name": [
+      "M35"
+    ],
+    "Assay Name": [
+      "M35_003"
+    ],
+    "Raw Data File": [
+      "130708_M35_003.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Metastatic Melanoma Tissues"
+    ],
+    "Characteristics[Organism]": [
+      "Uniprot Human (release 06/03/2013)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lymph nodes metastases from 10 MM patients undergoing surgery at Lund University Hospital, Sweden."
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Ten lymph node metastases (South-Swedish Malignant Melanoma Biobank)"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "three technical replicates"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT (1 h at 37°C)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide (30 min, kept dark at room temperature)"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "003"
+    ],
+    "Characteristics[Temperature]": [
+      "stored at -80°C in the Biobank."
+    ],
+    "Comment[FractionationMethod]": [
+      "Strong cation exchange chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "50μg of peptides were fractionated into 6 fractions, approximately 8.3 μg in each fraction"
+    ],
+    "Comment[Separation]": [
+      "column (50 cm x 75 μm, C18, 2 μm and 100Å, PN 164540, Thermo Scientific, San José, CA, USA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 250 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "The gradient started with 5% B and 20% B at 120 min, followed by 40% B at 180 min, increased to 90% at 185 min, which was maintained for 5 min."
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top10 data-dependent approach"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD collision cell with normalized collision energy of 30%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap mass analyzer"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "1 Da"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "1 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "three"
+    ]
+  },
+  "130708_M829_002.raw": {
+    "Source Name": [
+      "M829"
+    ],
+    "Assay Name": [
+      "M829_002"
+    ],
+    "Raw Data File": [
+      "130708_M829_002.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Metastatic Melanoma Tissues"
+    ],
+    "Characteristics[Organism]": [
+      "Uniprot Human (release 06/03/2013)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lymph nodes metastases from 10 MM patients undergoing surgery at Lund University Hospital, Sweden."
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Ten lymph node metastases (South-Swedish Malignant Melanoma Biobank)"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "three technical replicates"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT (1 h at 37°C)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide (30 min, kept dark at room temperature)"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "002"
+    ],
+    "Characteristics[Temperature]": [
+      "stored at -80°C in the Biobank."
+    ],
+    "Comment[FractionationMethod]": [
+      "Strong cation exchange chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "50μg of peptides were fractionated into 6 fractions, approximately 8.3 μg in each fraction"
+    ],
+    "Comment[Separation]": [
+      "column (50 cm x 75 μm, C18, 2 μm and 100Å, PN 164540, Thermo Scientific, San José, CA, USA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 250 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "The gradient started with 5% B and 20% B at 120 min, followed by 40% B at 180 min, increased to 90% at 185 min, which was maintained for 5 min."
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top10 data-dependent approach"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD collision cell with normalized collision energy of 30%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap mass analyzer"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "1 Da"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "1 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "three"
+    ]
+  },
+  "130708_M835_003.raw": {
+    "Source Name": [
+      "M835"
+    ],
+    "Assay Name": [
+      "M835_003"
+    ],
+    "Raw Data File": [
+      "130708_M835_003.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Metastatic Melanoma Tissues"
+    ],
+    "Characteristics[Organism]": [
+      "Uniprot Human (release 06/03/2013)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lymph nodes metastases from 10 MM patients undergoing surgery at Lund University Hospital, Sweden."
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Ten lymph node metastases (South-Swedish Malignant Melanoma Biobank)"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "three technical replicates"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT (1 h at 37°C)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide (30 min, kept dark at room temperature)"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "003"
+    ],
+    "Characteristics[Temperature]": [
+      "stored at -80°C in the Biobank."
+    ],
+    "Comment[FractionationMethod]": [
+      "Strong cation exchange chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "50μg of peptides were fractionated into 6 fractions, approximately 8.3 μg in each fraction"
+    ],
+    "Comment[Separation]": [
+      "column (50 cm x 75 μm, C18, 2 μm and 100Å, PN 164540, Thermo Scientific, San José, CA, USA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 250 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "The gradient started with 5% B and 20% B at 120 min, followed by 40% B at 180 min, increased to 90% at 185 min, which was maintained for 5 min."
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top10 data-dependent approach"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD collision cell with normalized collision energy of 30%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap mass analyzer"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "1 Da"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "1 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "three"
+    ]
+  },
+  "130708_M813_002.raw": {
+    "Source Name": [
+      "M813"
+    ],
+    "Assay Name": [
+      "M813_002"
+    ],
+    "Raw Data File": [
+      "130708_M813_002.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Metastatic Melanoma Tissues"
+    ],
+    "Characteristics[Organism]": [
+      "Uniprot Human (release 06/03/2013)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lymph nodes metastases from 10 MM patients undergoing surgery at Lund University Hospital, Sweden."
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Ten lymph node metastases (South-Swedish Malignant Melanoma Biobank)"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "three technical replicates"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT (1 h at 37°C)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide (30 min, kept dark at room temperature)"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "002"
+    ],
+    "Characteristics[Temperature]": [
+      "stored at -80°C in the Biobank."
+    ],
+    "Comment[FractionationMethod]": [
+      "Strong cation exchange chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "50μg of peptides were fractionated into 6 fractions, approximately 8.3 μg in each fraction"
+    ],
+    "Comment[Separation]": [
+      "column (50 cm x 75 μm, C18, 2 μm and 100Å, PN 164540, Thermo Scientific, San José, CA, USA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 250 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "The gradient started with 5% B and 20% B at 120 min, followed by 40% B at 180 min, increased to 90% at 185 min, which was maintained for 5 min."
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top10 data-dependent approach"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD collision cell with normalized collision energy of 30%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap mass analyzer"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "1 Da"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "1 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "three"
+    ]
+  },
+  "130708_M825_001.raw": {
+    "Source Name": [
+      "M825"
+    ],
+    "Assay Name": [
+      "M825_001"
+    ],
+    "Raw Data File": [
+      "130708_M825_001.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Metastatic Melanoma Tissues"
+    ],
+    "Characteristics[Organism]": [
+      "Uniprot Human (release 06/03/2013)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lymph nodes metastases from 10 MM patients undergoing surgery at Lund University Hospital, Sweden."
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Ten lymph node metastases (South-Swedish Malignant Melanoma Biobank)"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "three technical replicates"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT (1 h at 37°C)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide (30 min, kept dark at room temperature)"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "001"
+    ],
+    "Characteristics[Temperature]": [
+      "stored at -80°C in the Biobank."
+    ],
+    "Comment[FractionationMethod]": [
+      "Strong cation exchange chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "50μg of peptides were fractionated into 6 fractions, approximately 8.3 μg in each fraction"
+    ],
+    "Comment[Separation]": [
+      "column (50 cm x 75 μm, C18, 2 μm and 100Å, PN 164540, Thermo Scientific, San José, CA, USA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 250 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "The gradient started with 5% B and 20% B at 120 min, followed by 40% B at 180 min, increased to 90% at 185 min, which was maintained for 5 min."
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top10 data-dependent approach"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD collision cell with normalized collision energy of 30%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap mass analyzer"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "1 Da"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "1 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "three"
+    ]
+  },
+  "130708_M835_002.raw": {
+    "Source Name": [
+      "M835"
+    ],
+    "Assay Name": [
+      "M835_002"
+    ],
+    "Raw Data File": [
+      "130708_M835_002.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Metastatic Melanoma Tissues"
+    ],
+    "Characteristics[Organism]": [
+      "Uniprot Human (release 06/03/2013)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lymph nodes metastases from 10 MM patients undergoing surgery at Lund University Hospital, Sweden."
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Ten lymph node metastases (South-Swedish Malignant Melanoma Biobank)"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "three technical replicates"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT (1 h at 37°C)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide (30 min, kept dark at room temperature)"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "002"
+    ],
+    "Characteristics[Temperature]": [
+      "stored at -80°C in the Biobank."
+    ],
+    "Comment[FractionationMethod]": [
+      "Strong cation exchange chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "50μg of peptides were fractionated into 6 fractions, approximately 8.3 μg in each fraction"
+    ],
+    "Comment[Separation]": [
+      "column (50 cm x 75 μm, C18, 2 μm and 100Å, PN 164540, Thermo Scientific, San José, CA, USA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 250 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "The gradient started with 5% B and 20% B at 120 min, followed by 40% B at 180 min, increased to 90% at 185 min, which was maintained for 5 min."
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top10 data-dependent approach"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD collision cell with normalized collision energy of 30%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap mass analyzer"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "1 Da"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "1 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "three"
+    ]
+  },
+  "130708_M812_002.raw": {
+    "Source Name": [
+      "M812"
+    ],
+    "Assay Name": [
+      "M812_002"
+    ],
+    "Raw Data File": [
+      "130708_M812_002.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Metastatic Melanoma Tissues"
+    ],
+    "Characteristics[Organism]": [
+      "Uniprot Human (release 06/03/2013)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lymph nodes metastases from 10 MM patients undergoing surgery at Lund University Hospital, Sweden."
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Ten lymph node metastases (South-Swedish Malignant Melanoma Biobank)"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "three technical replicates"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT (1 h at 37°C)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide (30 min, kept dark at room temperature)"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "002"
+    ],
+    "Characteristics[Temperature]": [
+      "stored at -80°C in the Biobank."
+    ],
+    "Comment[FractionationMethod]": [
+      "Strong cation exchange chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "50μg of peptides were fractionated into 6 fractions, approximately 8.3 μg in each fraction"
+    ],
+    "Comment[Separation]": [
+      "column (50 cm x 75 μm, C18, 2 μm and 100Å, PN 164540, Thermo Scientific, San José, CA, USA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 250 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "The gradient started with 5% B and 20% B at 120 min, followed by 40% B at 180 min, increased to 90% at 185 min, which was maintained for 5 min."
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top10 data-dependent approach"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD collision cell with normalized collision energy of 30%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap mass analyzer"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "1 Da"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "1 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "three"
+    ]
+  },
+  "130708_M504_001.raw": {
+    "Source Name": [
+      "M504"
+    ],
+    "Assay Name": [
+      "M504_001"
+    ],
+    "Raw Data File": [
+      "130708_M504_001.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Metastatic Melanoma Tissues"
+    ],
+    "Characteristics[Organism]": [
+      "Uniprot Human (release 06/03/2013)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lymph nodes metastases from 10 MM patients undergoing surgery at Lund University Hospital, Sweden."
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Ten lymph node metastases (South-Swedish Malignant Melanoma Biobank)"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "three technical replicates"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT (1 h at 37°C)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide (30 min, kept dark at room temperature)"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "001"
+    ],
+    "Characteristics[Temperature]": [
+      "stored at -80°C in the Biobank."
+    ],
+    "Comment[FractionationMethod]": [
+      "Strong cation exchange chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "50μg of peptides were fractionated into 6 fractions, approximately 8.3 μg in each fraction"
+    ],
+    "Comment[Separation]": [
+      "column (50 cm x 75 μm, C18, 2 μm and 100Å, PN 164540, Thermo Scientific, San José, CA, USA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 250 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "The gradient started with 5% B and 20% B at 120 min, followed by 40% B at 180 min, increased to 90% at 185 min, which was maintained for 5 min."
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top10 data-dependent approach"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD collision cell with normalized collision energy of 30%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap mass analyzer"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "1 Da"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "1 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "three"
+    ]
+  },
+  "130708_M825_002.raw": {
+    "Source Name": [
+      "M825"
+    ],
+    "Assay Name": [
+      "M825_002"
+    ],
+    "Raw Data File": [
+      "130708_M825_002.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Metastatic Melanoma Tissues"
+    ],
+    "Characteristics[Organism]": [
+      "Uniprot Human (release 06/03/2013)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lymph nodes metastases from 10 MM patients undergoing surgery at Lund University Hospital, Sweden."
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Ten lymph node metastases (South-Swedish Malignant Melanoma Biobank)"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "three technical replicates"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT (1 h at 37°C)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide (30 min, kept dark at room temperature)"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "002"
+    ],
+    "Characteristics[Temperature]": [
+      "stored at -80°C in the Biobank."
+    ],
+    "Comment[FractionationMethod]": [
+      "Strong cation exchange chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "50μg of peptides were fractionated into 6 fractions, approximately 8.3 μg in each fraction"
+    ],
+    "Comment[Separation]": [
+      "column (50 cm x 75 μm, C18, 2 μm and 100Å, PN 164540, Thermo Scientific, San José, CA, USA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 250 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "The gradient started with 5% B and 20% B at 120 min, followed by 40% B at 180 min, increased to 90% at 185 min, which was maintained for 5 min."
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top10 data-dependent approach"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD collision cell with normalized collision energy of 30%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap mass analyzer"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "1 Da"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "1 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "three"
+    ]
+  },
+  "130708_M787_002.raw": {
+    "Source Name": [
+      "M787"
+    ],
+    "Assay Name": [
+      "M787_002"
+    ],
+    "Raw Data File": [
+      "130708_M787_002.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Metastatic Melanoma Tissues"
+    ],
+    "Characteristics[Organism]": [
+      "Uniprot Human (release 06/03/2013)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lymph nodes metastases from 10 MM patients undergoing surgery at Lund University Hospital, Sweden."
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Ten lymph node metastases (South-Swedish Malignant Melanoma Biobank)"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "three technical replicates"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT (1 h at 37°C)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide (30 min, kept dark at room temperature)"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "002"
+    ],
+    "Characteristics[Temperature]": [
+      "stored at -80°C in the Biobank."
+    ],
+    "Comment[FractionationMethod]": [
+      "Strong cation exchange chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "50μg of peptides were fractionated into 6 fractions, approximately 8.3 μg in each fraction"
+    ],
+    "Comment[Separation]": [
+      "column (50 cm x 75 μm, C18, 2 μm and 100Å, PN 164540, Thermo Scientific, San José, CA, USA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 250 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "The gradient started with 5% B and 20% B at 120 min, followed by 40% B at 180 min, increased to 90% at 185 min, which was maintained for 5 min."
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top10 data-dependent approach"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD collision cell with normalized collision energy of 30%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap mass analyzer"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "1 Da"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "1 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "three"
+    ]
+  },
+  "130708_M829_003.raw": {
+    "Source Name": [
+      "M829"
+    ],
+    "Assay Name": [
+      "M829_003"
+    ],
+    "Raw Data File": [
+      "130708_M829_003.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Metastatic Melanoma Tissues"
+    ],
+    "Characteristics[Organism]": [
+      "Uniprot Human (release 06/03/2013)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lymph nodes metastases from 10 MM patients undergoing surgery at Lund University Hospital, Sweden."
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Ten lymph node metastases (South-Swedish Malignant Melanoma Biobank)"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "three technical replicates"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT (1 h at 37°C)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide (30 min, kept dark at room temperature)"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "003"
+    ],
+    "Characteristics[Temperature]": [
+      "stored at -80°C in the Biobank."
+    ],
+    "Comment[FractionationMethod]": [
+      "Strong cation exchange chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "50μg of peptides were fractionated into 6 fractions, approximately 8.3 μg in each fraction"
+    ],
+    "Comment[Separation]": [
+      "column (50 cm x 75 μm, C18, 2 μm and 100Å, PN 164540, Thermo Scientific, San José, CA, USA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 250 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "The gradient started with 5% B and 20% B at 120 min, followed by 40% B at 180 min, increased to 90% at 185 min, which was maintained for 5 min."
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top10 data-dependent approach"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD collision cell with normalized collision energy of 30%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap mass analyzer"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "1 Da"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "1 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "three"
+    ]
+  },
+  "130708_M835_001.raw": {
+    "Source Name": [
+      "M835"
+    ],
+    "Assay Name": [
+      "M835_001"
+    ],
+    "Raw Data File": [
+      "130708_M835_001.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Metastatic Melanoma Tissues"
+    ],
+    "Characteristics[Organism]": [
+      "Uniprot Human (release 06/03/2013)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lymph nodes metastases from 10 MM patients undergoing surgery at Lund University Hospital, Sweden."
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Ten lymph node metastases (South-Swedish Malignant Melanoma Biobank)"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "three technical replicates"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT (1 h at 37°C)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide (30 min, kept dark at room temperature)"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "001"
+    ],
+    "Characteristics[Temperature]": [
+      "stored at -80°C in the Biobank."
+    ],
+    "Comment[FractionationMethod]": [
+      "Strong cation exchange chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "50μg of peptides were fractionated into 6 fractions, approximately 8.3 μg in each fraction"
+    ],
+    "Comment[Separation]": [
+      "column (50 cm x 75 μm, C18, 2 μm and 100Å, PN 164540, Thermo Scientific, San José, CA, USA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 250 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "The gradient started with 5% B and 20% B at 120 min, followed by 40% B at 180 min, increased to 90% at 185 min, which was maintained for 5 min."
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top10 data-dependent approach"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD collision cell with normalized collision energy of 30%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap mass analyzer"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "1 Da"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "1 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "three"
+    ]
+  },
+  "130708_M35_001.raw": {
+    "Source Name": [
+      "M35"
+    ],
+    "Assay Name": [
+      "M35_001"
+    ],
+    "Raw Data File": [
+      "130708_M35_001.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Metastatic Melanoma Tissues"
+    ],
+    "Characteristics[Organism]": [
+      "Uniprot Human (release 06/03/2013)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lymph nodes metastases from 10 MM patients undergoing surgery at Lund University Hospital, Sweden."
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Ten lymph node metastases (South-Swedish Malignant Melanoma Biobank)"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "three technical replicates"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT (1 h at 37°C)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide (30 min, kept dark at room temperature)"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "001"
+    ],
+    "Characteristics[Temperature]": [
+      "stored at -80°C in the Biobank."
+    ],
+    "Comment[FractionationMethod]": [
+      "Strong cation exchange chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "50μg of peptides were fractionated into 6 fractions, approximately 8.3 μg in each fraction"
+    ],
+    "Comment[Separation]": [
+      "column (50 cm x 75 μm, C18, 2 μm and 100Å, PN 164540, Thermo Scientific, San José, CA, USA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 250 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "The gradient started with 5% B and 20% B at 120 min, followed by 40% B at 180 min, increased to 90% at 185 min, which was maintained for 5 min."
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top10 data-dependent approach"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD collision cell with normalized collision energy of 30%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap mass analyzer"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "1 Da"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "1 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "three"
+    ]
+  },
+  "130708_M812_003.raw": {
+    "Source Name": [
+      "M812"
+    ],
+    "Assay Name": [
+      "M812_003"
+    ],
+    "Raw Data File": [
+      "130708_M812_003.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Metastatic Melanoma Tissues"
+    ],
+    "Characteristics[Organism]": [
+      "Uniprot Human (release 06/03/2013)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lymph nodes metastases from 10 MM patients undergoing surgery at Lund University Hospital, Sweden."
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Ten lymph node metastases (South-Swedish Malignant Melanoma Biobank)"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "three technical replicates"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT (1 h at 37°C)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide (30 min, kept dark at room temperature)"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "003"
+    ],
+    "Characteristics[Temperature]": [
+      "stored at -80°C in the Biobank."
+    ],
+    "Comment[FractionationMethod]": [
+      "Strong cation exchange chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "50μg of peptides were fractionated into 6 fractions, approximately 8.3 μg in each fraction"
+    ],
+    "Comment[Separation]": [
+      "column (50 cm x 75 μm, C18, 2 μm and 100Å, PN 164540, Thermo Scientific, San José, CA, USA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 250 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "The gradient started with 5% B and 20% B at 120 min, followed by 40% B at 180 min, increased to 90% at 185 min, which was maintained for 5 min."
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top10 data-dependent approach"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD collision cell with normalized collision energy of 30%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap mass analyzer"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "1 Da"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "1 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "three"
+    ]
+  },
+  "130708_M825_003.raw": {
+    "Source Name": [
+      "M825"
+    ],
+    "Assay Name": [
+      "M825_003"
+    ],
+    "Raw Data File": [
+      "130708_M825_003.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Metastatic Melanoma Tissues"
+    ],
+    "Characteristics[Organism]": [
+      "Uniprot Human (release 06/03/2013)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lymph nodes metastases from 10 MM patients undergoing surgery at Lund University Hospital, Sweden."
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Ten lymph node metastases (South-Swedish Malignant Melanoma Biobank)"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "three technical replicates"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT (1 h at 37°C)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide (30 min, kept dark at room temperature)"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "003"
+    ],
+    "Characteristics[Temperature]": [
+      "stored at -80°C in the Biobank."
+    ],
+    "Comment[FractionationMethod]": [
+      "Strong cation exchange chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "50μg of peptides were fractionated into 6 fractions, approximately 8.3 μg in each fraction"
+    ],
+    "Comment[Separation]": [
+      "column (50 cm x 75 μm, C18, 2 μm and 100Å, PN 164540, Thermo Scientific, San José, CA, USA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 250 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "The gradient started with 5% B and 20% B at 120 min, followed by 40% B at 180 min, increased to 90% at 185 min, which was maintained for 5 min."
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top10 data-dependent approach"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD collision cell with normalized collision energy of 30%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap mass analyzer"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "1 Da"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "1 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "three"
+    ]
+  },
+  "130708_M812_001.raw": {
+    "Source Name": [
+      "M812"
+    ],
+    "Assay Name": [
+      "M812_001"
+    ],
+    "Raw Data File": [
+      "130708_M812_001.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Metastatic Melanoma Tissues"
+    ],
+    "Characteristics[Organism]": [
+      "Uniprot Human (release 06/03/2013)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lymph nodes metastases from 10 MM patients undergoing surgery at Lund University Hospital, Sweden."
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Ten lymph node metastases (South-Swedish Malignant Melanoma Biobank)"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "three technical replicates"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT (1 h at 37°C)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide (30 min, kept dark at room temperature)"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "001"
+    ],
+    "Characteristics[Temperature]": [
+      "stored at -80°C in the Biobank."
+    ],
+    "Comment[FractionationMethod]": [
+      "Strong cation exchange chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "50μg of peptides were fractionated into 6 fractions, approximately 8.3 μg in each fraction"
+    ],
+    "Comment[Separation]": [
+      "column (50 cm x 75 μm, C18, 2 μm and 100Å, PN 164540, Thermo Scientific, San José, CA, USA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 250 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "The gradient started with 5% B and 20% B at 120 min, followed by 40% B at 180 min, increased to 90% at 185 min, which was maintained for 5 min."
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top10 data-dependent approach"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD collision cell with normalized collision energy of 30%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap mass analyzer"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "1 Da"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "1 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "three"
+    ]
+  },
+  "130708_M98_001.raw": {
+    "Source Name": [
+      "M98"
+    ],
+    "Assay Name": [
+      "M98_001"
+    ],
+    "Raw Data File": [
+      "130708_M98_001.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Metastatic Melanoma Tissues"
+    ],
+    "Characteristics[Organism]": [
+      "Uniprot Human (release 06/03/2013)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lymph nodes metastases from 10 MM patients undergoing surgery at Lund University Hospital, Sweden."
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Ten lymph node metastases (South-Swedish Malignant Melanoma Biobank)"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "three technical replicates"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT (1 h at 37°C)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide (30 min, kept dark at room temperature)"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "001"
+    ],
+    "Characteristics[Temperature]": [
+      "stored at -80°C in the Biobank."
+    ],
+    "Comment[FractionationMethod]": [
+      "Strong cation exchange chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "50μg of peptides were fractionated into 6 fractions, approximately 8.3 μg in each fraction"
+    ],
+    "Comment[Separation]": [
+      "column (50 cm x 75 μm, C18, 2 μm and 100Å, PN 164540, Thermo Scientific, San José, CA, USA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 250 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "The gradient started with 5% B and 20% B at 120 min, followed by 40% B at 180 min, increased to 90% at 185 min, which was maintained for 5 min."
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top10 data-dependent approach"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD collision cell with normalized collision energy of 30%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap mass analyzer"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "1 Da"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "1 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "three"
+    ]
+  },
+  "130708_M504_003.raw": {
+    "Source Name": [
+      "M504"
+    ],
+    "Assay Name": [
+      "M504_003"
+    ],
+    "Raw Data File": [
+      "130708_M504_003.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Metastatic Melanoma Tissues"
+    ],
+    "Characteristics[Organism]": [
+      "Uniprot Human (release 06/03/2013)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lymph nodes metastases from 10 MM patients undergoing surgery at Lund University Hospital, Sweden."
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Ten lymph node metastases (South-Swedish Malignant Melanoma Biobank)"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "three technical replicates"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT (1 h at 37°C)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide (30 min, kept dark at room temperature)"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "003"
+    ],
+    "Characteristics[Temperature]": [
+      "stored at -80°C in the Biobank."
+    ],
+    "Comment[FractionationMethod]": [
+      "Strong cation exchange chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "50μg of peptides were fractionated into 6 fractions, approximately 8.3 μg in each fraction"
+    ],
+    "Comment[Separation]": [
+      "column (50 cm x 75 μm, C18, 2 μm and 100Å, PN 164540, Thermo Scientific, San José, CA, USA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 250 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "The gradient started with 5% B and 20% B at 120 min, followed by 40% B at 180 min, increased to 90% at 185 min, which was maintained for 5 min."
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top10 data-dependent approach"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD collision cell with normalized collision energy of 30%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap mass analyzer"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "1 Da"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "1 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "three"
+    ]
+  },
+  "130708_M829_001.raw": {
+    "Source Name": [
+      "M829"
+    ],
+    "Assay Name": [
+      "M829_001"
+    ],
+    "Raw Data File": [
+      "130708_M829_001.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Metastatic Melanoma Tissues"
+    ],
+    "Characteristics[Organism]": [
+      "Uniprot Human (release 06/03/2013)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lymph nodes metastases from 10 MM patients undergoing surgery at Lund University Hospital, Sweden."
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Ten lymph node metastases (South-Swedish Malignant Melanoma Biobank)"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "three technical replicates"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT (1 h at 37°C)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide (30 min, kept dark at room temperature)"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "001"
+    ],
+    "Characteristics[Temperature]": [
+      "stored at -80°C in the Biobank."
+    ],
+    "Comment[FractionationMethod]": [
+      "Strong cation exchange chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "50μg of peptides were fractionated into 6 fractions, approximately 8.3 μg in each fraction"
+    ],
+    "Comment[Separation]": [
+      "column (50 cm x 75 μm, C18, 2 μm and 100Å, PN 164540, Thermo Scientific, San José, CA, USA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 250 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "The gradient started with 5% B and 20% B at 120 min, followed by 40% B at 180 min, increased to 90% at 185 min, which was maintained for 5 min."
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top10 data-dependent approach"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD collision cell with normalized collision energy of 30%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap mass analyzer"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "1 Da"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "1 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "three"
+    ]
+  },
+  "130708_M813_001.raw": {
+    "Source Name": [
+      "M813"
+    ],
+    "Assay Name": [
+      "M813_001"
+    ],
+    "Raw Data File": [
+      "130708_M813_001.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Metastatic Melanoma Tissues"
+    ],
+    "Characteristics[Organism]": [
+      "Uniprot Human (release 06/03/2013)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lymph nodes metastases from 10 MM patients undergoing surgery at Lund University Hospital, Sweden."
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Ten lymph node metastases (South-Swedish Malignant Melanoma Biobank)"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "three technical replicates"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT (1 h at 37°C)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide (30 min, kept dark at room temperature)"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "001"
+    ],
+    "Characteristics[Temperature]": [
+      "stored at -80°C in the Biobank."
+    ],
+    "Comment[FractionationMethod]": [
+      "Strong cation exchange chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "50μg of peptides were fractionated into 6 fractions, approximately 8.3 μg in each fraction"
+    ],
+    "Comment[Separation]": [
+      "column (50 cm x 75 μm, C18, 2 μm and 100Å, PN 164540, Thermo Scientific, San José, CA, USA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 250 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "The gradient started with 5% B and 20% B at 120 min, followed by 40% B at 180 min, increased to 90% at 185 min, which was maintained for 5 min."
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top10 data-dependent approach"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD collision cell with normalized collision energy of 30%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap mass analyzer"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "1 Da"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "1 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "three"
+    ]
+  },
+  "130708_M687_003.raw": {
+    "Source Name": [
+      "M687"
+    ],
+    "Assay Name": [
+      "M687_003"
+    ],
+    "Raw Data File": [
+      "130708_M687_003.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Metastatic Melanoma Tissues"
+    ],
+    "Characteristics[Organism]": [
+      "Uniprot Human (release 06/03/2013)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lymph nodes metastases from 10 MM patients undergoing surgery at Lund University Hospital, Sweden."
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Ten lymph node metastases (South-Swedish Malignant Melanoma Biobank)"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "three technical replicates"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT (1 h at 37°C)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide (30 min, kept dark at room temperature)"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "003"
+    ],
+    "Characteristics[Temperature]": [
+      "stored at -80°C in the Biobank."
+    ],
+    "Comment[FractionationMethod]": [
+      "Strong cation exchange chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "50μg of peptides were fractionated into 6 fractions, approximately 8.3 μg in each fraction"
+    ],
+    "Comment[Separation]": [
+      "column (50 cm x 75 μm, C18, 2 μm and 100Å, PN 164540, Thermo Scientific, San José, CA, USA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 250 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "The gradient started with 5% B and 20% B at 120 min, followed by 40% B at 180 min, increased to 90% at 185 min, which was maintained for 5 min."
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top10 data-dependent approach"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD collision cell with normalized collision energy of 30%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap mass analyzer"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "1 Da"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "1 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "three"
+    ]
+  },
+  "130708_M687_002.raw": {
+    "Source Name": [
+      "M687"
+    ],
+    "Assay Name": [
+      "M687_002"
+    ],
+    "Raw Data File": [
+      "130708_M687_002.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Metastatic Melanoma Tissues"
+    ],
+    "Characteristics[Organism]": [
+      "Uniprot Human (release 06/03/2013)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lymph nodes metastases from 10 MM patients undergoing surgery at Lund University Hospital, Sweden."
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Ten lymph node metastases (South-Swedish Malignant Melanoma Biobank)"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "three technical replicates"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT (1 h at 37°C)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide (30 min, kept dark at room temperature)"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "002"
+    ],
+    "Characteristics[Temperature]": [
+      "stored at -80°C in the Biobank."
+    ],
+    "Comment[FractionationMethod]": [
+      "Strong cation exchange chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "50μg of peptides were fractionated into 6 fractions, approximately 8.3 μg in each fraction"
+    ],
+    "Comment[Separation]": [
+      "column (50 cm x 75 μm, C18, 2 μm and 100Å, PN 164540, Thermo Scientific, San José, CA, USA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 250 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "The gradient started with 5% B and 20% B at 120 min, followed by 40% B at 180 min, increased to 90% at 185 min, which was maintained for 5 min."
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top10 data-dependent approach"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD collision cell with normalized collision energy of 30%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap mass analyzer"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "1 Da"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "1 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "three"
+    ]
+  },
+  "130708_M98_003.raw": {
+    "Source Name": [
+      "M98"
+    ],
+    "Assay Name": [
+      "M98_003"
+    ],
+    "Raw Data File": [
+      "130708_M98_003.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Metastatic Melanoma Tissues"
+    ],
+    "Characteristics[Organism]": [
+      "Uniprot Human (release 06/03/2013)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lymph nodes metastases from 10 MM patients undergoing surgery at Lund University Hospital, Sweden."
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Ten lymph node metastases (South-Swedish Malignant Melanoma Biobank)"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "three technical replicates"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT (1 h at 37°C)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide (30 min, kept dark at room temperature)"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "003"
+    ],
+    "Characteristics[Temperature]": [
+      "stored at -80°C in the Biobank."
+    ],
+    "Comment[FractionationMethod]": [
+      "Strong cation exchange chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "50μg of peptides were fractionated into 6 fractions, approximately 8.3 μg in each fraction"
+    ],
+    "Comment[Separation]": [
+      "column (50 cm x 75 μm, C18, 2 μm and 100Å, PN 164540, Thermo Scientific, San José, CA, USA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 250 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "The gradient started with 5% B and 20% B at 120 min, followed by 40% B at 180 min, increased to 90% at 185 min, which was maintained for 5 min."
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top10 data-dependent approach"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD collision cell with normalized collision energy of 30%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap mass analyzer"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "1 Da"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "1 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "three"
+    ]
+  },
+  "130708_M787_003.raw": {
+    "Source Name": [
+      "M787"
+    ],
+    "Assay Name": [
+      "M787_003"
+    ],
+    "Raw Data File": [
+      "130708_M787_003.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Metastatic Melanoma Tissues"
+    ],
+    "Characteristics[Organism]": [
+      "Uniprot Human (release 06/03/2013)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lymph nodes metastases from 10 MM patients undergoing surgery at Lund University Hospital, Sweden."
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Ten lymph node metastases (South-Swedish Malignant Melanoma Biobank)"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "three technical replicates"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT (1 h at 37°C)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide (30 min, kept dark at room temperature)"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "003"
+    ],
+    "Characteristics[Temperature]": [
+      "stored at -80°C in the Biobank."
+    ],
+    "Comment[FractionationMethod]": [
+      "Strong cation exchange chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "50μg of peptides were fractionated into 6 fractions, approximately 8.3 μg in each fraction"
+    ],
+    "Comment[Separation]": [
+      "column (50 cm x 75 μm, C18, 2 μm and 100Å, PN 164540, Thermo Scientific, San José, CA, USA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 250 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "The gradient started with 5% B and 20% B at 120 min, followed by 40% B at 180 min, increased to 90% at 185 min, which was maintained for 5 min."
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top10 data-dependent approach"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD collision cell with normalized collision energy of 30%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap mass analyzer"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "1 Da"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "1 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "three"
+    ]
+  },
+  "130708_M35_002.raw": {
+    "Source Name": [
+      "M35"
+    ],
+    "Assay Name": [
+      "M35_002"
+    ],
+    "Raw Data File": [
+      "130708_M35_002.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Metastatic Melanoma Tissues"
+    ],
+    "Characteristics[Organism]": [
+      "Uniprot Human (release 06/03/2013)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "lymph nodes metastases from 10 MM patients undergoing surgery at Lund University Hospital, Sweden."
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Ten lymph node metastases (South-Swedish Malignant Melanoma Biobank)"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "three technical replicates"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT (1 h at 37°C)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide (30 min, kept dark at room temperature)"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "002"
+    ],
+    "Characteristics[Temperature]": [
+      "stored at -80°C in the Biobank."
+    ],
+    "Comment[FractionationMethod]": [
+      "Strong cation exchange chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "50μg of peptides were fractionated into 6 fractions, approximately 8.3 μg in each fraction"
+    ],
+    "Comment[Separation]": [
+      "column (50 cm x 75 μm, C18, 2 μm and 100Å, PN 164540, Thermo Scientific, San José, CA, USA)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 250 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "The gradient started with 5% B and 20% B at 120 min, followed by 40% B at 180 min, increased to 90% at 185 min, which was maintained for 5 min."
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top10 data-dependent approach"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD collision cell with normalized collision energy of 30%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap mass analyzer"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "1 Da"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "1 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "three"
+    ]
+  }
+}

@@ -1,0 +1,398 @@
+{
+  "Rice_leaf_0h_phospho_test1.raw": {
+    "Source Name": [
+      "IRBB5_0h"
+    ],
+    "Assay Name": [
+      "IRBB5_0h_test1"
+    ],
+    "Raw Data File": [
+      "Rice_leaf_0h_phospho_test1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "rice"
+    ],
+    "Characteristics[MaterialType]": [
+      "leaf samples of IRBB5"
+    ],
+    "Characteristics[Genotype]": [
+      "IRBB5 (xa5)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "IRBB5 leaves"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three biological replicates"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM IAA"
+    ],
+    "Characteristics[Label]": [
+      "label-free phophoproteomic study"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "test1"
+    ],
+    "FactorValue[Time]": [
+      "0 h"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "TiO2-MOAC (Metal oxide affinity chromatography) method"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus (Thermo)"
+    ],
+    "Comment[Separation]": [
+      "Easy-nLC1000 liquid chromatography system (Thermo)",
+      "homemade reversed-phase column (75umID x 15CM)"
+    ],
+    "Comment[GradientTime]": [
+      "a 1 h 5-30 % acetonitrile gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "50mmu"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "one missed cleavage on trypsin was allowed."
+    ]
+  },
+  "Rice_leaf_24h_phospho_test1.raw": {
+    "Source Name": [
+      "IRBB5_24h"
+    ],
+    "Assay Name": [
+      "IRBB5_24h_test1"
+    ],
+    "Raw Data File": [
+      "Rice_leaf_24h_phospho_test1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "rice"
+    ],
+    "Characteristics[MaterialType]": [
+      "leaf samples of IRBB5"
+    ],
+    "Characteristics[Genotype]": [
+      "IRBB5 (xa5)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "IRBB5 leaves"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three biological replicates"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM IAA"
+    ],
+    "Characteristics[Label]": [
+      "label-free phophoproteomic study"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "test1"
+    ],
+    "FactorValue[Time]": [
+      "24 h"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "TiO2-MOAC (Metal oxide affinity chromatography) method"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus (Thermo)"
+    ],
+    "Comment[Separation]": [
+      "Easy-nLC1000 liquid chromatography system (Thermo)",
+      "homemade reversed-phase column (75umID x 15CM)"
+    ],
+    "Comment[GradientTime]": [
+      "a 1 h 5-30 % acetonitrile gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "50mmu"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "one missed cleavage on trypsin was allowed."
+    ]
+  },
+  "Rice_leaf_24h_phospho_test3.raw": {
+    "Source Name": [
+      "IRBB5_24h"
+    ],
+    "Assay Name": [
+      "IRBB5_24h_test3"
+    ],
+    "Raw Data File": [
+      "Rice_leaf_24h_phospho_test3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "rice"
+    ],
+    "Characteristics[MaterialType]": [
+      "leaf samples of IRBB5"
+    ],
+    "Characteristics[Genotype]": [
+      "IRBB5 (xa5)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "IRBB5 leaves"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three biological replicates"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM IAA"
+    ],
+    "Characteristics[Label]": [
+      "label-free phophoproteomic study"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "test3"
+    ],
+    "FactorValue[Time]": [
+      "24 h"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "TiO2-MOAC (Metal oxide affinity chromatography) method"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus (Thermo)"
+    ],
+    "Comment[Separation]": [
+      "Easy-nLC1000 liquid chromatography system (Thermo)",
+      "homemade reversed-phase column (75umID x 15CM)"
+    ],
+    "Comment[GradientTime]": [
+      "a 1 h 5-30 % acetonitrile gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "50mmu"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "one missed cleavage on trypsin was allowed."
+    ]
+  },
+  "Rice_leaf_24h_phospho_test2.raw": {
+    "Source Name": [
+      "IRBB5_24h"
+    ],
+    "Assay Name": [
+      "IRBB5_24h_test2"
+    ],
+    "Raw Data File": [
+      "Rice_leaf_24h_phospho_test2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "rice"
+    ],
+    "Characteristics[MaterialType]": [
+      "leaf samples of IRBB5"
+    ],
+    "Characteristics[Genotype]": [
+      "IRBB5 (xa5)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "IRBB5 leaves"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three biological replicates"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM IAA"
+    ],
+    "Characteristics[Label]": [
+      "label-free phophoproteomic study"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "test2"
+    ],
+    "FactorValue[Time]": [
+      "24 h"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "TiO2-MOAC (Metal oxide affinity chromatography) method"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus (Thermo)"
+    ],
+    "Comment[Separation]": [
+      "Easy-nLC1000 liquid chromatography system (Thermo)",
+      "homemade reversed-phase column (75umID x 15CM)"
+    ],
+    "Comment[GradientTime]": [
+      "a 1 h 5-30 % acetonitrile gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "50mmu"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "one missed cleavage on trypsin was allowed."
+    ]
+  },
+  "Rice_leaf_0h_phospho_test2.raw": {
+    "Source Name": [
+      "IRBB5_0h"
+    ],
+    "Assay Name": [
+      "IRBB5_0h_test2"
+    ],
+    "Raw Data File": [
+      "Rice_leaf_0h_phospho_test2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "rice"
+    ],
+    "Characteristics[MaterialType]": [
+      "leaf samples of IRBB5"
+    ],
+    "Characteristics[Genotype]": [
+      "IRBB5 (xa5)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "IRBB5 leaves"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three biological replicates"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM IAA"
+    ],
+    "Characteristics[Label]": [
+      "label-free phophoproteomic study"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "test2"
+    ],
+    "FactorValue[Time]": [
+      "0 h"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "TiO2-MOAC (Metal oxide affinity chromatography) method"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus (Thermo)"
+    ],
+    "Comment[Separation]": [
+      "Easy-nLC1000 liquid chromatography system (Thermo)",
+      "homemade reversed-phase column (75umID x 15CM)"
+    ],
+    "Comment[GradientTime]": [
+      "a 1 h 5-30 % acetonitrile gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "50mmu"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "one missed cleavage on trypsin was allowed."
+    ]
+  },
+  "Rice_leaf_0h_phospho_test3.raw": {
+    "Source Name": [
+      "IRBB5_0h"
+    ],
+    "Assay Name": [
+      "IRBB5_0h_test3"
+    ],
+    "Raw Data File": [
+      "Rice_leaf_0h_phospho_test3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "rice"
+    ],
+    "Characteristics[MaterialType]": [
+      "leaf samples of IRBB5"
+    ],
+    "Characteristics[Genotype]": [
+      "IRBB5 (xa5)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "IRBB5 leaves"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "three biological replicates"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "20 mM IAA"
+    ],
+    "Characteristics[Label]": [
+      "label-free phophoproteomic study"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "test3"
+    ],
+    "FactorValue[Time]": [
+      "0 h"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "TiO2-MOAC (Metal oxide affinity chromatography) method"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus (Thermo)"
+    ],
+    "Comment[Separation]": [
+      "Easy-nLC1000 liquid chromatography system (Thermo)",
+      "homemade reversed-phase column (75umID x 15CM)"
+    ],
+    "Comment[GradientTime]": [
+      "a 1 h 5-30 % acetonitrile gradient"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "50mmu"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "one missed cleavage on trypsin was allowed."
+    ]
+  }
+}

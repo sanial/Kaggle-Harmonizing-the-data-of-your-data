@@ -1,0 +1,4452 @@
+{
+  "d12_12_hTT_I.raw": {
+    "Source Name": [
+      "SIHUMIx_d12_12_hTT_I"
+    ],
+    "Assay Name": [
+      "d12_12_hTT_I.raw"
+    ],
+    "Raw Data File": [
+      "d12_12_hTT_I.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d12"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "12 hTTI"
+    ],
+    "FactorValue[Treatment]": [
+      "12 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d15_24_hTT_I.raw": {
+    "Source Name": [
+      "SIHUMIx_d15_24_hTT_I"
+    ],
+    "Assay Name": [
+      "d15_24_hTT_I.raw"
+    ],
+    "Raw Data File": [
+      "d15_24_hTT_I.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d15"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "24 hTTI"
+    ],
+    "FactorValue[Treatment]": [
+      "24 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d1_24_hTT_I.raw": {
+    "Source Name": [
+      "SIHUMIx_d1_24_hTT_I"
+    ],
+    "Assay Name": [
+      "d1_24_hTT_I.raw"
+    ],
+    "Raw Data File": [
+      "d1_24_hTT_I.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d1"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "24 hTTI"
+    ],
+    "FactorValue[Treatment]": [
+      "24 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d9_24_hTT_II.raw": {
+    "Source Name": [
+      "SIHUMIx_d9_24_hTT_II"
+    ],
+    "Assay Name": [
+      "d9_24_hTT_II.raw"
+    ],
+    "Raw Data File": [
+      "d9_24_hTT_II.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d9"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "24 hTTII"
+    ],
+    "FactorValue[Treatment]": [
+      "24 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d8_48_hTT_II.raw": {
+    "Source Name": [
+      "SIHUMIx_d8_48_hTT_II"
+    ],
+    "Assay Name": [
+      "d8_48_hTT_II.raw"
+    ],
+    "Raw Data File": [
+      "d8_48_hTT_II.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d8"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "48 hTTII"
+    ],
+    "FactorValue[Treatment]": [
+      "48 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d1_12_hTT_II.raw": {
+    "Source Name": [
+      "SIHUMIx_d1_12_hTT_II"
+    ],
+    "Assay Name": [
+      "d1_12_hTT_II.raw"
+    ],
+    "Raw Data File": [
+      "d1_12_hTT_II.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d1"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "12 hTTII"
+    ],
+    "FactorValue[Treatment]": [
+      "12 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d4_48_hTT_I.raw": {
+    "Source Name": [
+      "SIHUMIx_d4_48_hTT_I"
+    ],
+    "Assay Name": [
+      "d4_48_hTT_I.raw"
+    ],
+    "Raw Data File": [
+      "d4_48_hTT_I.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d4"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "48 hTTI"
+    ],
+    "FactorValue[Treatment]": [
+      "48 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d11_24_hTT_II.raw": {
+    "Source Name": [
+      "SIHUMIx_d11_24_hTT_II"
+    ],
+    "Assay Name": [
+      "d11_24_hTT_II.raw"
+    ],
+    "Raw Data File": [
+      "d11_24_hTT_II.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d11"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "24 hTTII"
+    ],
+    "FactorValue[Treatment]": [
+      "24 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d5_48_hTT_II.raw": {
+    "Source Name": [
+      "SIHUMIx_d5_48_hTT_II"
+    ],
+    "Assay Name": [
+      "d5_48_hTT_II.raw"
+    ],
+    "Raw Data File": [
+      "d5_48_hTT_II.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d5"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "48 hTTII"
+    ],
+    "FactorValue[Treatment]": [
+      "48 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d7_48_hTT_II.raw": {
+    "Source Name": [
+      "SIHUMIx_d7_48_hTT_II"
+    ],
+    "Assay Name": [
+      "d7_48_hTT_II.raw"
+    ],
+    "Raw Data File": [
+      "d7_48_hTT_II.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d7"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "48 hTTII"
+    ],
+    "FactorValue[Treatment]": [
+      "48 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d12_48_hTT_I.raw": {
+    "Source Name": [
+      "SIHUMIx_d12_48_hTT_I"
+    ],
+    "Assay Name": [
+      "d12_48_hTT_I.raw"
+    ],
+    "Raw Data File": [
+      "d12_48_hTT_I.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d12"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "48 hTTI"
+    ],
+    "FactorValue[Treatment]": [
+      "48 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d2_24_hTT_I.raw": {
+    "Source Name": [
+      "SIHUMIx_d2_24_hTT_I"
+    ],
+    "Assay Name": [
+      "d2_24_hTT_I.raw"
+    ],
+    "Raw Data File": [
+      "d2_24_hTT_I.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d2"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "24 hTTI"
+    ],
+    "FactorValue[Treatment]": [
+      "24 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d8_24_hTT_II.raw": {
+    "Source Name": [
+      "SIHUMIx_d8_24_hTT_II"
+    ],
+    "Assay Name": [
+      "d8_24_hTT_II.raw"
+    ],
+    "Raw Data File": [
+      "d8_24_hTT_II.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d8"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "24 hTTII"
+    ],
+    "FactorValue[Treatment]": [
+      "24 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d3_24_hTT_I.raw": {
+    "Source Name": [
+      "SIHUMIx_d3_24_hTT_I"
+    ],
+    "Assay Name": [
+      "d3_24_hTT_I.raw"
+    ],
+    "Raw Data File": [
+      "d3_24_hTT_I.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d3"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "24 hTTI"
+    ],
+    "FactorValue[Treatment]": [
+      "24 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d11_48_hTT_II.raw": {
+    "Source Name": [
+      "SIHUMIx_d11_48_hTT_II"
+    ],
+    "Assay Name": [
+      "d11_48_hTT_II.raw"
+    ],
+    "Raw Data File": [
+      "d11_48_hTT_II.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d11"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "48 hTTII"
+    ],
+    "FactorValue[Treatment]": [
+      "48 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d10_48_hTT_I.raw": {
+    "Source Name": [
+      "SIHUMIx_d10_48_hTT_I"
+    ],
+    "Assay Name": [
+      "d10_48_hTT_I.raw"
+    ],
+    "Raw Data File": [
+      "d10_48_hTT_I.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d10"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "48 hTTI"
+    ],
+    "FactorValue[Treatment]": [
+      "48 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d1_48_hTT_II.raw": {
+    "Source Name": [
+      "SIHUMIx_d1_48_hTT_II"
+    ],
+    "Assay Name": [
+      "d1_48_hTT_II.raw"
+    ],
+    "Raw Data File": [
+      "d1_48_hTT_II.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d1"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "48 hTTII"
+    ],
+    "FactorValue[Treatment]": [
+      "48 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d8_12_hTT_II.raw": {
+    "Source Name": [
+      "SIHUMIx_d8_12_hTT_II"
+    ],
+    "Assay Name": [
+      "d8_12_hTT_II.raw"
+    ],
+    "Raw Data File": [
+      "d8_12_hTT_II.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d8"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "12 hTTII"
+    ],
+    "FactorValue[Treatment]": [
+      "12 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d14_12_hTT_II.raw": {
+    "Source Name": [
+      "SIHUMIx_d14_12_hTT_II"
+    ],
+    "Assay Name": [
+      "d14_12_hTT_II.raw"
+    ],
+    "Raw Data File": [
+      "d14_12_hTT_II.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d14"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "12 hTTII"
+    ],
+    "FactorValue[Treatment]": [
+      "12 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d14_24_hTT_I.raw": {
+    "Source Name": [
+      "SIHUMIx_d14_24_hTT_I"
+    ],
+    "Assay Name": [
+      "d14_24_hTT_I.raw"
+    ],
+    "Raw Data File": [
+      "d14_24_hTT_I.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d14"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "24 hTTI"
+    ],
+    "FactorValue[Treatment]": [
+      "24 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d4_12_hTT_II.raw": {
+    "Source Name": [
+      "SIHUMIx_d4_12_hTT_II"
+    ],
+    "Assay Name": [
+      "d4_12_hTT_II.raw"
+    ],
+    "Raw Data File": [
+      "d4_12_hTT_II.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d4"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "12 hTTII"
+    ],
+    "FactorValue[Treatment]": [
+      "12 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d1_48_hTT_I.raw": {
+    "Source Name": [
+      "SIHUMIx_d1_48_hTT_I"
+    ],
+    "Assay Name": [
+      "d1_48_hTT_I.raw"
+    ],
+    "Raw Data File": [
+      "d1_48_hTT_I.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d1"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "48 hTTI"
+    ],
+    "FactorValue[Treatment]": [
+      "48 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d13_48_hTT_II.raw": {
+    "Source Name": [
+      "SIHUMIx_d13_48_hTT_II"
+    ],
+    "Assay Name": [
+      "d13_48_hTT_II.raw"
+    ],
+    "Raw Data File": [
+      "d13_48_hTT_II.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d13"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "48 hTTII"
+    ],
+    "FactorValue[Treatment]": [
+      "48 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d7_48_hTT_I.raw": {
+    "Source Name": [
+      "SIHUMIx_d7_48_hTT_I"
+    ],
+    "Assay Name": [
+      "d7_48_hTT_I.raw"
+    ],
+    "Raw Data File": [
+      "d7_48_hTT_I.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d7"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "48 hTTI"
+    ],
+    "FactorValue[Treatment]": [
+      "48 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d13_12_hTT_II.raw": {
+    "Source Name": [
+      "SIHUMIx_d13_12_hTT_II"
+    ],
+    "Assay Name": [
+      "d13_12_hTT_II.raw"
+    ],
+    "Raw Data File": [
+      "d13_12_hTT_II.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d13"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "12 hTTII"
+    ],
+    "FactorValue[Treatment]": [
+      "12 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d7_12_hTT_II.raw": {
+    "Source Name": [
+      "SIHUMIx_d7_12_hTT_II"
+    ],
+    "Assay Name": [
+      "d7_12_hTT_II.raw"
+    ],
+    "Raw Data File": [
+      "d7_12_hTT_II.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d7"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "12 hTTII"
+    ],
+    "FactorValue[Treatment]": [
+      "12 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d2_48_hTT_II.raw": {
+    "Source Name": [
+      "SIHUMIx_d2_48_hTT_II"
+    ],
+    "Assay Name": [
+      "d2_48_hTT_II.raw"
+    ],
+    "Raw Data File": [
+      "d2_48_hTT_II.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d2"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "48 hTTII"
+    ],
+    "FactorValue[Treatment]": [
+      "48 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d4_12_hTT_I.raw": {
+    "Source Name": [
+      "SIHUMIx_d4_12_hTT_I"
+    ],
+    "Assay Name": [
+      "d4_12_hTT_I.raw"
+    ],
+    "Raw Data File": [
+      "d4_12_hTT_I.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d4"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "12 hTTI"
+    ],
+    "FactorValue[Treatment]": [
+      "12 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d5_48_hTT_I.raw": {
+    "Source Name": [
+      "SIHUMIx_d5_48_hTT_I"
+    ],
+    "Assay Name": [
+      "d5_48_hTT_I.raw"
+    ],
+    "Raw Data File": [
+      "d5_48_hTT_I.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d5"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "48 hTTI"
+    ],
+    "FactorValue[Treatment]": [
+      "48 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d9_24_hTT_I.raw": {
+    "Source Name": [
+      "SIHUMIx_d9_24_hTT_I"
+    ],
+    "Assay Name": [
+      "d9_24_hTT_I.raw"
+    ],
+    "Raw Data File": [
+      "d9_24_hTT_I.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d9"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "24 hTTI"
+    ],
+    "FactorValue[Treatment]": [
+      "24 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d15_12_hTT_II.raw": {
+    "Source Name": [
+      "SIHUMIx_d15_12_hTT_II"
+    ],
+    "Assay Name": [
+      "d15_12_hTT_II.raw"
+    ],
+    "Raw Data File": [
+      "d15_12_hTT_II.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d15"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "12 hTTII"
+    ],
+    "FactorValue[Treatment]": [
+      "12 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d9_48_hTT_II.raw": {
+    "Source Name": [
+      "SIHUMIx_d9_48_hTT_II"
+    ],
+    "Assay Name": [
+      "d9_48_hTT_II.raw"
+    ],
+    "Raw Data File": [
+      "d9_48_hTT_II.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d9"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "48 hTTII"
+    ],
+    "FactorValue[Treatment]": [
+      "48 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d15_12_hTT_I.raw": {
+    "Source Name": [
+      "SIHUMIx_d15_12_hTT_I"
+    ],
+    "Assay Name": [
+      "d15_12_hTT_I.raw"
+    ],
+    "Raw Data File": [
+      "d15_12_hTT_I.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d15"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "12 hTTI"
+    ],
+    "FactorValue[Treatment]": [
+      "12 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d3_48_hTT_II.raw": {
+    "Source Name": [
+      "SIHUMIx_d3_48_hTT_II"
+    ],
+    "Assay Name": [
+      "d3_48_hTT_II.raw"
+    ],
+    "Raw Data File": [
+      "d3_48_hTT_II.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d3"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "48 hTTII"
+    ],
+    "FactorValue[Treatment]": [
+      "48 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d9_12_hTT_I.raw": {
+    "Source Name": [
+      "SIHUMIx_d9_12_hTT_I"
+    ],
+    "Assay Name": [
+      "d9_12_hTT_I.raw"
+    ],
+    "Raw Data File": [
+      "d9_12_hTT_I.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d9"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "12 hTTI"
+    ],
+    "FactorValue[Treatment]": [
+      "12 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d4_48_hTT_II.raw": {
+    "Source Name": [
+      "SIHUMIx_d4_48_hTT_II"
+    ],
+    "Assay Name": [
+      "d4_48_hTT_II.raw"
+    ],
+    "Raw Data File": [
+      "d4_48_hTT_II.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d4"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "48 hTTII"
+    ],
+    "FactorValue[Treatment]": [
+      "48 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d12_12_hTT_II.raw": {
+    "Source Name": [
+      "SIHUMIx_d12_12_hTT_II"
+    ],
+    "Assay Name": [
+      "d12_12_hTT_II.raw"
+    ],
+    "Raw Data File": [
+      "d12_12_hTT_II.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d12"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "12 hTTII"
+    ],
+    "FactorValue[Treatment]": [
+      "12 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d4_24_hTT_I.raw": {
+    "Source Name": [
+      "SIHUMIx_d4_24_hTT_I"
+    ],
+    "Assay Name": [
+      "d4_24_hTT_I.raw"
+    ],
+    "Raw Data File": [
+      "d4_24_hTT_I.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d4"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "24 hTTI"
+    ],
+    "FactorValue[Treatment]": [
+      "24 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d4_24_hTT_II.raw": {
+    "Source Name": [
+      "SIHUMIx_d4_24_hTT_II"
+    ],
+    "Assay Name": [
+      "d4_24_hTT_II.raw"
+    ],
+    "Raw Data File": [
+      "d4_24_hTT_II.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d4"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "24 hTTII"
+    ],
+    "FactorValue[Treatment]": [
+      "24 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d6_48_hTT_I.raw": {
+    "Source Name": [
+      "SIHUMIx_d6_48_hTT_I"
+    ],
+    "Assay Name": [
+      "d6_48_hTT_I.raw"
+    ],
+    "Raw Data File": [
+      "d6_48_hTT_I.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d6"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "48 hTTI"
+    ],
+    "FactorValue[Treatment]": [
+      "48 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d12_48_hTT_II.raw": {
+    "Source Name": [
+      "SIHUMIx_d12_48_hTT_II"
+    ],
+    "Assay Name": [
+      "d12_48_hTT_II.raw"
+    ],
+    "Raw Data File": [
+      "d12_48_hTT_II.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d12"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "48 hTTII"
+    ],
+    "FactorValue[Treatment]": [
+      "48 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d11_12_hTT_II.raw": {
+    "Source Name": [
+      "SIHUMIx_d11_12_hTT_II"
+    ],
+    "Assay Name": [
+      "d11_12_hTT_II.raw"
+    ],
+    "Raw Data File": [
+      "d11_12_hTT_II.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d11"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "12 hTTII"
+    ],
+    "FactorValue[Treatment]": [
+      "12 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d3_48_hTT_I.raw": {
+    "Source Name": [
+      "SIHUMIx_d3_48_hTT_I"
+    ],
+    "Assay Name": [
+      "d3_48_hTT_I.raw"
+    ],
+    "Raw Data File": [
+      "d3_48_hTT_I.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d3"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "48 hTTI"
+    ],
+    "FactorValue[Treatment]": [
+      "48 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d11_24_hTT_I.raw": {
+    "Source Name": [
+      "SIHUMIx_d11_24_hTT_I"
+    ],
+    "Assay Name": [
+      "d11_24_hTT_I.raw"
+    ],
+    "Raw Data File": [
+      "d11_24_hTT_I.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d11"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "24 hTTI"
+    ],
+    "FactorValue[Treatment]": [
+      "24 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d6_12_hTT_II.raw": {
+    "Source Name": [
+      "SIHUMIx_d6_12_hTT_II"
+    ],
+    "Assay Name": [
+      "d6_12_hTT_II.raw"
+    ],
+    "Raw Data File": [
+      "d6_12_hTT_II.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d6"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "12 hTTII"
+    ],
+    "FactorValue[Treatment]": [
+      "12 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d8_24_hTT_I.raw": {
+    "Source Name": [
+      "SIHUMIx_d8_24_hTT_I"
+    ],
+    "Assay Name": [
+      "d8_24_hTT_I.raw"
+    ],
+    "Raw Data File": [
+      "d8_24_hTT_I.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d8"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "24 hTTI"
+    ],
+    "FactorValue[Treatment]": [
+      "24 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d5_12_hTT_I.raw": {
+    "Source Name": [
+      "SIHUMIx_d5_12_hTT_I"
+    ],
+    "Assay Name": [
+      "d5_12_hTT_I.raw"
+    ],
+    "Raw Data File": [
+      "d5_12_hTT_I.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d5"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "12 hTTI"
+    ],
+    "FactorValue[Treatment]": [
+      "12 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d15_48_hTT_II.raw": {
+    "Source Name": [
+      "SIHUMIx_d15_48_hTT_II"
+    ],
+    "Assay Name": [
+      "d15_48_hTT_II.raw"
+    ],
+    "Raw Data File": [
+      "d15_48_hTT_II.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d15"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "48 hTTII"
+    ],
+    "FactorValue[Treatment]": [
+      "48 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d1_24_hTT_II.raw": {
+    "Source Name": [
+      "SIHUMIx_d1_24_hTT_II"
+    ],
+    "Assay Name": [
+      "d1_24_hTT_II.raw"
+    ],
+    "Raw Data File": [
+      "d1_24_hTT_II.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d1"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "24 hTTII"
+    ],
+    "FactorValue[Treatment]": [
+      "24 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d11_48_hTT_I.raw": {
+    "Source Name": [
+      "SIHUMIx_d11_48_hTT_I"
+    ],
+    "Assay Name": [
+      "d11_48_hTT_I.raw"
+    ],
+    "Raw Data File": [
+      "d11_48_hTT_I.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d11"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "48 hTTI"
+    ],
+    "FactorValue[Treatment]": [
+      "48 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d12_24_hTT_II.raw": {
+    "Source Name": [
+      "SIHUMIx_d12_24_hTT_II"
+    ],
+    "Assay Name": [
+      "d12_24_hTT_II.raw"
+    ],
+    "Raw Data File": [
+      "d12_24_hTT_II.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d12"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "24 hTTII"
+    ],
+    "FactorValue[Treatment]": [
+      "24 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d10_12_hTT_II.raw": {
+    "Source Name": [
+      "SIHUMIx_d10_12_hTT_II"
+    ],
+    "Assay Name": [
+      "d10_12_hTT_II.raw"
+    ],
+    "Raw Data File": [
+      "d10_12_hTT_II.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d10"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "12 hTTII"
+    ],
+    "FactorValue[Treatment]": [
+      "12 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d14_12_hTT_I.raw": {
+    "Source Name": [
+      "SIHUMIx_d14_12_hTT_I"
+    ],
+    "Assay Name": [
+      "d14_12_hTT_I.raw"
+    ],
+    "Raw Data File": [
+      "d14_12_hTT_I.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d14"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "12 hTTI"
+    ],
+    "FactorValue[Treatment]": [
+      "12 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d8_48_hTT_I.raw": {
+    "Source Name": [
+      "SIHUMIx_d8_48_hTT_I"
+    ],
+    "Assay Name": [
+      "d8_48_hTT_I.raw"
+    ],
+    "Raw Data File": [
+      "d8_48_hTT_I.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d8"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "48 hTTI"
+    ],
+    "FactorValue[Treatment]": [
+      "48 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d14_48_hTT_II.raw": {
+    "Source Name": [
+      "SIHUMIx_d14_48_hTT_II"
+    ],
+    "Assay Name": [
+      "d14_48_hTT_II.raw"
+    ],
+    "Raw Data File": [
+      "d14_48_hTT_II.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d14"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "48 hTTII"
+    ],
+    "FactorValue[Treatment]": [
+      "48 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d15_24_hTT_II.raw": {
+    "Source Name": [
+      "SIHUMIx_d15_24_hTT_II"
+    ],
+    "Assay Name": [
+      "d15_24_hTT_II.raw"
+    ],
+    "Raw Data File": [
+      "d15_24_hTT_II.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d15"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "24 hTTII"
+    ],
+    "FactorValue[Treatment]": [
+      "24 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d10_24_hTT_I.raw": {
+    "Source Name": [
+      "SIHUMIx_d10_24_hTT_I"
+    ],
+    "Assay Name": [
+      "d10_24_hTT_I.raw"
+    ],
+    "Raw Data File": [
+      "d10_24_hTT_I.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d10"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "24 hTTI"
+    ],
+    "FactorValue[Treatment]": [
+      "24 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d8_12_hTT_I.raw": {
+    "Source Name": [
+      "SIHUMIx_d8_12_hTT_I"
+    ],
+    "Assay Name": [
+      "d8_12_hTT_I.raw"
+    ],
+    "Raw Data File": [
+      "d8_12_hTT_I.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d8"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "12 hTTI"
+    ],
+    "FactorValue[Treatment]": [
+      "12 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d13_24_hTT_I.raw": {
+    "Source Name": [
+      "SIHUMIx_d13_24_hTT_I"
+    ],
+    "Assay Name": [
+      "d13_24_hTT_I.raw"
+    ],
+    "Raw Data File": [
+      "d13_24_hTT_I.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d13"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "24 hTTI"
+    ],
+    "FactorValue[Treatment]": [
+      "24 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d10_24_hTT_II.raw": {
+    "Source Name": [
+      "SIHUMIx_d10_24_hTT_II"
+    ],
+    "Assay Name": [
+      "d10_24_hTT_II.raw"
+    ],
+    "Raw Data File": [
+      "d10_24_hTT_II.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d10"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "24 hTTII"
+    ],
+    "FactorValue[Treatment]": [
+      "24 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d9_12_hTT_II.raw": {
+    "Source Name": [
+      "SIHUMIx_d9_12_hTT_II"
+    ],
+    "Assay Name": [
+      "d9_12_hTT_II.raw"
+    ],
+    "Raw Data File": [
+      "d9_12_hTT_II.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d9"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "12 hTTII"
+    ],
+    "FactorValue[Treatment]": [
+      "12 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d2_48_hTT_I.raw": {
+    "Source Name": [
+      "SIHUMIx_d2_48_hTT_I"
+    ],
+    "Assay Name": [
+      "d2_48_hTT_I.raw"
+    ],
+    "Raw Data File": [
+      "d2_48_hTT_I.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d2"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "48 hTTI"
+    ],
+    "FactorValue[Treatment]": [
+      "48 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d7_12_hTT_I.raw": {
+    "Source Name": [
+      "SIHUMIx_d7_12_hTT_I"
+    ],
+    "Assay Name": [
+      "d7_12_hTT_I.raw"
+    ],
+    "Raw Data File": [
+      "d7_12_hTT_I.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d7"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "12 hTTI"
+    ],
+    "FactorValue[Treatment]": [
+      "12 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d6_24_hTT_II.raw": {
+    "Source Name": [
+      "SIHUMIx_d6_24_hTT_II"
+    ],
+    "Assay Name": [
+      "d6_24_hTT_II.raw"
+    ],
+    "Raw Data File": [
+      "d6_24_hTT_II.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d6"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "24 hTTII"
+    ],
+    "FactorValue[Treatment]": [
+      "24 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d14_48_hTT_I.raw": {
+    "Source Name": [
+      "SIHUMIx_d14_48_hTT_I"
+    ],
+    "Assay Name": [
+      "d14_48_hTT_I.raw"
+    ],
+    "Raw Data File": [
+      "d14_48_hTT_I.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d14"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "48 hTTI"
+    ],
+    "FactorValue[Treatment]": [
+      "48 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d5_12_hTT_II.raw": {
+    "Source Name": [
+      "SIHUMIx_d5_12_hTT_II"
+    ],
+    "Assay Name": [
+      "d5_12_hTT_II.raw"
+    ],
+    "Raw Data File": [
+      "d5_12_hTT_II.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d5"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "12 hTTII"
+    ],
+    "FactorValue[Treatment]": [
+      "12 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d7_24_hTT_II.raw": {
+    "Source Name": [
+      "SIHUMIx_d7_24_hTT_II"
+    ],
+    "Assay Name": [
+      "d7_24_hTT_II.raw"
+    ],
+    "Raw Data File": [
+      "d7_24_hTT_II.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d7"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "24 hTTII"
+    ],
+    "FactorValue[Treatment]": [
+      "24 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d10_12_hTT_I.raw": {
+    "Source Name": [
+      "SIHUMIx_d10_12_hTT_I"
+    ],
+    "Assay Name": [
+      "d10_12_hTT_I.raw"
+    ],
+    "Raw Data File": [
+      "d10_12_hTT_I.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d10"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "12 hTTI"
+    ],
+    "FactorValue[Treatment]": [
+      "12 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d6_48_hTT_II.raw": {
+    "Source Name": [
+      "SIHUMIx_d6_48_hTT_II"
+    ],
+    "Assay Name": [
+      "d6_48_hTT_II.raw"
+    ],
+    "Raw Data File": [
+      "d6_48_hTT_II.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d6"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "48 hTTII"
+    ],
+    "FactorValue[Treatment]": [
+      "48 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d11_12_hTT_I.raw": {
+    "Source Name": [
+      "SIHUMIx_d11_12_hTT_I"
+    ],
+    "Assay Name": [
+      "d11_12_hTT_I.raw"
+    ],
+    "Raw Data File": [
+      "d11_12_hTT_I.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d11"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "12 hTTI"
+    ],
+    "FactorValue[Treatment]": [
+      "12 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d13_24_hTT_II.raw": {
+    "Source Name": [
+      "SIHUMIx_d13_24_hTT_II"
+    ],
+    "Assay Name": [
+      "d13_24_hTT_II.raw"
+    ],
+    "Raw Data File": [
+      "d13_24_hTT_II.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d13"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "24 hTTII"
+    ],
+    "FactorValue[Treatment]": [
+      "24 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d5_24_hTT_I.raw": {
+    "Source Name": [
+      "SIHUMIx_d5_24_hTT_I"
+    ],
+    "Assay Name": [
+      "d5_24_hTT_I.raw"
+    ],
+    "Raw Data File": [
+      "d5_24_hTT_I.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d5"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "24 hTTI"
+    ],
+    "FactorValue[Treatment]": [
+      "24 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d9_48_hTT_I.raw": {
+    "Source Name": [
+      "SIHUMIx_d9_48_hTT_I"
+    ],
+    "Assay Name": [
+      "d9_48_hTT_I.raw"
+    ],
+    "Raw Data File": [
+      "d9_48_hTT_I.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d9"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "48 hTTI"
+    ],
+    "FactorValue[Treatment]": [
+      "48 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d13_48_hTT_I.raw": {
+    "Source Name": [
+      "SIHUMIx_d13_48_hTT_I"
+    ],
+    "Assay Name": [
+      "d13_48_hTT_I.raw"
+    ],
+    "Raw Data File": [
+      "d13_48_hTT_I.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d13"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "48 hTTI"
+    ],
+    "FactorValue[Treatment]": [
+      "48 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d2_12_hTT_I.raw": {
+    "Source Name": [
+      "SIHUMIx_d2_12_hTT_I"
+    ],
+    "Assay Name": [
+      "d2_12_hTT_I.raw"
+    ],
+    "Raw Data File": [
+      "d2_12_hTT_I.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d2"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "12 hTTI"
+    ],
+    "FactorValue[Treatment]": [
+      "12 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d1_12_hTT_I.raw": {
+    "Source Name": [
+      "SIHUMIx_d1_12_hTT_I"
+    ],
+    "Assay Name": [
+      "d1_12_hTT_I.raw"
+    ],
+    "Raw Data File": [
+      "d1_12_hTT_I.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d1"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "12 hTTI"
+    ],
+    "FactorValue[Treatment]": [
+      "12 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d2_12_hTT_II.raw": {
+    "Source Name": [
+      "SIHUMIx_d2_12_hTT_II"
+    ],
+    "Assay Name": [
+      "d2_12_hTT_II.raw"
+    ],
+    "Raw Data File": [
+      "d2_12_hTT_II.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d2"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "12 hTTII"
+    ],
+    "FactorValue[Treatment]": [
+      "12 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d3_24_hTT_II.raw": {
+    "Source Name": [
+      "SIHUMIx_d3_24_hTT_II"
+    ],
+    "Assay Name": [
+      "d3_24_hTT_II.raw"
+    ],
+    "Raw Data File": [
+      "d3_24_hTT_II.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d3"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "24 hTTII"
+    ],
+    "FactorValue[Treatment]": [
+      "24 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d13_12_hTT_I.raw": {
+    "Source Name": [
+      "SIHUMIx_d13_12_hTT_I"
+    ],
+    "Assay Name": [
+      "d13_12_hTT_I.raw"
+    ],
+    "Raw Data File": [
+      "d13_12_hTT_I.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d13"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "12 hTTI"
+    ],
+    "FactorValue[Treatment]": [
+      "12 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d6_12_hTT_I.raw": {
+    "Source Name": [
+      "SIHUMIx_d6_12_hTT_I"
+    ],
+    "Assay Name": [
+      "d6_12_hTT_I.raw"
+    ],
+    "Raw Data File": [
+      "d6_12_hTT_I.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d6"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "12 hTTI"
+    ],
+    "FactorValue[Treatment]": [
+      "12 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d7_24_hTT_I.raw": {
+    "Source Name": [
+      "SIHUMIx_d7_24_hTT_I"
+    ],
+    "Assay Name": [
+      "d7_24_hTT_I.raw"
+    ],
+    "Raw Data File": [
+      "d7_24_hTT_I.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d7"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "24 hTTI"
+    ],
+    "FactorValue[Treatment]": [
+      "24 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d3_12_hTT_I.raw": {
+    "Source Name": [
+      "SIHUMIx_d3_12_hTT_I"
+    ],
+    "Assay Name": [
+      "d3_12_hTT_I.raw"
+    ],
+    "Raw Data File": [
+      "d3_12_hTT_I.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d3"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "12 hTTI"
+    ],
+    "FactorValue[Treatment]": [
+      "12 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d12_24_hTT_I.raw": {
+    "Source Name": [
+      "SIHUMIx_d12_24_hTT_I"
+    ],
+    "Assay Name": [
+      "d12_24_hTT_I.raw"
+    ],
+    "Raw Data File": [
+      "d12_24_hTT_I.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d12"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "24 hTTI"
+    ],
+    "FactorValue[Treatment]": [
+      "24 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d2_24_hTT_II.raw": {
+    "Source Name": [
+      "SIHUMIx_d2_24_hTT_II"
+    ],
+    "Assay Name": [
+      "d2_24_hTT_II.raw"
+    ],
+    "Raw Data File": [
+      "d2_24_hTT_II.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d2"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "24 hTTII"
+    ],
+    "FactorValue[Treatment]": [
+      "24 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d15_48_hTT_I.raw": {
+    "Source Name": [
+      "SIHUMIx_d15_48_hTT_I"
+    ],
+    "Assay Name": [
+      "d15_48_hTT_I.raw"
+    ],
+    "Raw Data File": [
+      "d15_48_hTT_I.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d15"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "48 hTTI"
+    ],
+    "FactorValue[Treatment]": [
+      "48 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d5_24_hTT_II.raw": {
+    "Source Name": [
+      "SIHUMIx_d5_24_hTT_II"
+    ],
+    "Assay Name": [
+      "d5_24_hTT_II.raw"
+    ],
+    "Raw Data File": [
+      "d5_24_hTT_II.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d5"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "24 hTTII"
+    ],
+    "FactorValue[Treatment]": [
+      "24 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d6_24_hTT_I.raw": {
+    "Source Name": [
+      "SIHUMIx_d6_24_hTT_I"
+    ],
+    "Assay Name": [
+      "d6_24_hTT_I.raw"
+    ],
+    "Raw Data File": [
+      "d6_24_hTT_I.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d6"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "24 hTTI"
+    ],
+    "FactorValue[Treatment]": [
+      "24 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d10_48_hTT_II.raw": {
+    "Source Name": [
+      "SIHUMIx_d10_48_hTT_II"
+    ],
+    "Assay Name": [
+      "d10_48_hTT_II.raw"
+    ],
+    "Raw Data File": [
+      "d10_48_hTT_II.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d10"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "48 hTTII"
+    ],
+    "FactorValue[Treatment]": [
+      "48 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  },
+  "d3_12_hTT_II.raw": {
+    "Source Name": [
+      "SIHUMIx_d3_12_hTT_II"
+    ],
+    "Assay Name": [
+      "d3_12_hTT_II.raw"
+    ],
+    "Raw Data File": [
+      "d3_12_hTT_II.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "extended simplified human intestinal microbiota (SIHUMIx)"
+    ],
+    "Characteristics[Organism]": [
+      "Anaerostipes caccae (DSMZ 14662), Bacteroides thetaiotaomicron (DSMZ 2079), Bifidobacterium longum (NCC 2705), Blautia producta (DSMZ 2950), Clostridium butyricum (DSMZ 10702), Clostridium ramosum (DSMZ 1402), Escherichia coli K-12 (MG1655), and Lactobacillus plantarum (DSMZ 20174)"
+    ],
+    "Characteristics[Specimen]": [
+      "bioreactor liquid"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin (Full)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "d3"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "12 hTTII"
+    ],
+    "FactorValue[Treatment]": [
+      "12 hTT"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive HF mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[Separation]": [
+      "nanoHPLC (UltiMate 3000 RSLCnano, Dionex, Thermo Fisher Scientific, Waltham, MA, USA)"
+    ],
+    "Comment[IonizationType]": [
+      "TriVersa NanoMate (Advion, Ltd., Harlow, UK) source in the liquid chromatography (LC) chip coupling mode"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance: 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance: 0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Max. Missed Cleavage: 2"
+    ]
+  }
+}

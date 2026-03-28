@@ -1,0 +1,33 @@
+AssayName: A comprehensive quantitative phosphoproteome analysis of rice in response to bacterial blight  
+Organism: Rice  
+Disease: bacterial blight  
+Organism: Xanthomonas oryzae pv. oryzae (Xoo)  
+Time: 0 h  
+Time: 24 h  
+NumberOfBiologicalReplicates: Three individual biological replicates  
+DevelopmentalStage: booting stage  
+ConcentrationOfCompound: 3x108 cfu/mL  
+SampleTreatment: leaf clipping method  
+OrganismPart: rice leaf tissue  
+SampleTreatment: sonication  
+ReductionReagent: DTT  
+ConcentrationOfCompound: 5 mM DTT  
+AlkylationReagent: IAA  
+ConcentrationOfCompound: 20 mM IAA  
+CleavageAgent: trypsin  
+Temperature: 56 °C  
+Time: over night  
+Compound: acetone  
+ConcentrationOfCompound: 100 % acetone  
+Compound: ethanol  
+ConcentrationOfCompound: 75 % ethanol  
+EnrichmentMethod: TiO2-MOAC (Metal oxide affinity chromatography) method  
+AcquisitionMethod: LC-MS/MS assay  
+Instrument: Easy-nLC1000 liquid chromatography system (Thermo)  
+Instrument: Q Exactive Plus  
+AssayName: Western blot analysis  
+Instrument: electrophoretic blotting system (Bio-Rad)  
+AssayName: Quantitative RT-PCR (qRT-PCR)  
+Instrument: LightCycler 4.80 real-time PCR detection system (Roche)  
+Compound: Trizol  
+GradientTime: 1 h

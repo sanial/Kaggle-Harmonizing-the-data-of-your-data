@@ -1,0 +1,3076 @@
+{
+  "20150912_Haura-Pilot_T0300_bRPLC07-2.raw": {
+    "Source Name": [
+      "T0300"
+    ],
+    "Assay Name": [
+      "T0300_bRPLC07-2"
+    ],
+    "Raw Data File": [
+      "20150912_Haura-Pilot_T0300_bRPLC07-2.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC07-2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated using basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a 0.2 ml/min flow rate.",
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "The 90-minute gradient was programmed as:"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy set to 28.",
+      "normalized collision energy value was set to 30."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed tryptic cleavages were allowed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance was set to 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "MS/MS mass tolerance was 0.05 Da"
+    ],
+    "Characteristics[Specimen]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ]
+  },
+  "20150912_Haura-Pilot_T0300_bRPLC09-1.raw": {
+    "Source Name": [
+      "T0300"
+    ],
+    "Assay Name": [
+      "T0300_bRPLC09-1"
+    ],
+    "Raw Data File": [
+      "20150912_Haura-Pilot_T0300_bRPLC09-1.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC09-1"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated using basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a 0.2 ml/min flow rate.",
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "The 90-minute gradient was programmed as:"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy set to 28.",
+      "normalized collision energy value was set to 30."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed tryptic cleavages were allowed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance was set to 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "MS/MS mass tolerance was 0.05 Da"
+    ],
+    "Characteristics[Specimen]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ]
+  },
+  "20150912_Haura-Pilot_N0296_bRPLC07-1.raw": {
+    "Source Name": [
+      "N0296"
+    ],
+    "Assay Name": [
+      "N0296_bRPLC07-1"
+    ],
+    "Raw Data File": [
+      "20150912_Haura-Pilot_N0296_bRPLC07-1.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC07-1"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated using basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a 0.2 ml/min flow rate.",
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "The 90-minute gradient was programmed as:"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy set to 28.",
+      "normalized collision energy value was set to 30."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed tryptic cleavages were allowed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance was set to 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "MS/MS mass tolerance was 0.05 Da"
+    ],
+    "Characteristics[Specimen]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ]
+  },
+  "20150912_Haura-Pilot_N0299_bRPLC06-2.raw": {
+    "Source Name": [
+      "N0299"
+    ],
+    "Assay Name": [
+      "N0299_bRPLC06-2"
+    ],
+    "Raw Data File": [
+      "20150912_Haura-Pilot_N0299_bRPLC06-2.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC06-2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated using basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a 0.2 ml/min flow rate.",
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "The 90-minute gradient was programmed as:"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy set to 28.",
+      "normalized collision energy value was set to 30."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed tryptic cleavages were allowed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance was set to 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "MS/MS mass tolerance was 0.05 Da"
+    ],
+    "Characteristics[Specimen]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ]
+  },
+  "20150912_Haura-Pilot_T0298_bRPLC12-2.raw": {
+    "Source Name": [
+      "T0298"
+    ],
+    "Assay Name": [
+      "T0298_bRPLC12-2"
+    ],
+    "Raw Data File": [
+      "20150912_Haura-Pilot_T0298_bRPLC12-2.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC12-2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated using basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a 0.2 ml/min flow rate.",
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "The 90-minute gradient was programmed as:"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy set to 28.",
+      "normalized collision energy value was set to 30."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed tryptic cleavages were allowed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance was set to 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "MS/MS mass tolerance was 0.05 Da"
+    ],
+    "Characteristics[Specimen]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ]
+  },
+  "20150912_Haura-Pilot_T0303_bRPLC11-1.raw": {
+    "Source Name": [
+      "T0303"
+    ],
+    "Assay Name": [
+      "T0303_bRPLC11-1"
+    ],
+    "Raw Data File": [
+      "20150912_Haura-Pilot_T0303_bRPLC11-1.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC11-1"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated using basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a 0.2 ml/min flow rate.",
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "The 90-minute gradient was programmed as:"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy set to 28.",
+      "normalized collision energy value was set to 30."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed tryptic cleavages were allowed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance was set to 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "MS/MS mass tolerance was 0.05 Da"
+    ],
+    "Characteristics[Specimen]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ]
+  },
+  "20150912_Haura-Pilot_T0303_bRPLC02-1.raw": {
+    "Source Name": [
+      "T0303"
+    ],
+    "Assay Name": [
+      "T0303_bRPLC02-1"
+    ],
+    "Raw Data File": [
+      "20150912_Haura-Pilot_T0303_bRPLC02-1.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC02-1"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated using basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a 0.2 ml/min flow rate.",
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "The 90-minute gradient was programmed as:"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy set to 28.",
+      "normalized collision energy value was set to 30."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed tryptic cleavages were allowed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance was set to 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "MS/MS mass tolerance was 0.05 Da"
+    ],
+    "Characteristics[Specimen]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ]
+  },
+  "20150912_Haura-Pilot_N0299_bRPLC03-2.raw": {
+    "Source Name": [
+      "N0299"
+    ],
+    "Assay Name": [
+      "N0299_bRPLC03-2"
+    ],
+    "Raw Data File": [
+      "20150912_Haura-Pilot_N0299_bRPLC03-2.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC03-2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated using basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a 0.2 ml/min flow rate.",
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "The 90-minute gradient was programmed as:"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy set to 28.",
+      "normalized collision energy value was set to 30."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed tryptic cleavages were allowed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance was set to 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "MS/MS mass tolerance was 0.05 Da"
+    ],
+    "Characteristics[Specimen]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ]
+  },
+  "20150912_Haura-Pilot_T0303_bRPLC03-2.raw": {
+    "Source Name": [
+      "T0303"
+    ],
+    "Assay Name": [
+      "T0303_bRPLC03-2"
+    ],
+    "Raw Data File": [
+      "20150912_Haura-Pilot_T0303_bRPLC03-2.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC03-2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated using basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a 0.2 ml/min flow rate.",
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "The 90-minute gradient was programmed as:"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy set to 28.",
+      "normalized collision energy value was set to 30."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed tryptic cleavages were allowed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance was set to 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "MS/MS mass tolerance was 0.05 Da"
+    ],
+    "Characteristics[Specimen]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ]
+  },
+  "20150912_Haura-Pilot_N0295_bRPLC03-2.raw": {
+    "Source Name": [
+      "N0295"
+    ],
+    "Assay Name": [
+      "N0295_bRPLC03-2"
+    ],
+    "Raw Data File": [
+      "20150912_Haura-Pilot_N0295_bRPLC03-2.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC03-2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated using basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a 0.2 ml/min flow rate.",
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "The 90-minute gradient was programmed as:"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy set to 28.",
+      "normalized collision energy value was set to 30."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed tryptic cleavages were allowed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance was set to 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "MS/MS mass tolerance was 0.05 Da"
+    ],
+    "Characteristics[Specimen]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ]
+  },
+  "20150912_Haura-Pilot_T0300_bRPLC04-1.raw": {
+    "Source Name": [
+      "T0300"
+    ],
+    "Assay Name": [
+      "T0300_bRPLC04-1"
+    ],
+    "Raw Data File": [
+      "20150912_Haura-Pilot_T0300_bRPLC04-1.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC04-1"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated using basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a 0.2 ml/min flow rate.",
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "The 90-minute gradient was programmed as:"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy set to 28.",
+      "normalized collision energy value was set to 30."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed tryptic cleavages were allowed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance was set to 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "MS/MS mass tolerance was 0.05 Da"
+    ],
+    "Characteristics[Specimen]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ]
+  },
+  "20150912_Haura-Pilot_T0301_bRPLC11-1.raw": {
+    "Source Name": [
+      "T0301"
+    ],
+    "Assay Name": [
+      "T0301_bRPLC11-1"
+    ],
+    "Raw Data File": [
+      "20150912_Haura-Pilot_T0301_bRPLC11-1.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC11-1"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated using basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a 0.2 ml/min flow rate.",
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "The 90-minute gradient was programmed as:"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy set to 28.",
+      "normalized collision energy value was set to 30."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed tryptic cleavages were allowed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance was set to 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "MS/MS mass tolerance was 0.05 Da"
+    ],
+    "Characteristics[Specimen]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ]
+  },
+  "20150912_Haura-Pilot_N0296_bRPLC11-1.raw": {
+    "Source Name": [
+      "N0296"
+    ],
+    "Assay Name": [
+      "N0296_bRPLC11-1"
+    ],
+    "Raw Data File": [
+      "20150912_Haura-Pilot_N0296_bRPLC11-1.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC11-1"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated using basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a 0.2 ml/min flow rate.",
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "The 90-minute gradient was programmed as:"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy set to 28.",
+      "normalized collision energy value was set to 30."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed tryptic cleavages were allowed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance was set to 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "MS/MS mass tolerance was 0.05 Da"
+    ],
+    "Characteristics[Specimen]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ]
+  },
+  "20150912_Haura-Pilot_N0296_bRPLC01-1.raw": {
+    "Source Name": [
+      "N0296"
+    ],
+    "Assay Name": [
+      "N0296_bRPLC01-1"
+    ],
+    "Raw Data File": [
+      "20150912_Haura-Pilot_N0296_bRPLC01-1.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC01-1"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated using basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a 0.2 ml/min flow rate.",
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "The 90-minute gradient was programmed as:"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy set to 28.",
+      "normalized collision energy value was set to 30."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed tryptic cleavages were allowed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance was set to 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "MS/MS mass tolerance was 0.05 Da"
+    ],
+    "Characteristics[Specimen]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ]
+  },
+  "20150912_Haura-Pilot_N0296_bRPLC04-2.raw": {
+    "Source Name": [
+      "N0296"
+    ],
+    "Assay Name": [
+      "N0296_bRPLC04-2"
+    ],
+    "Raw Data File": [
+      "20150912_Haura-Pilot_N0296_bRPLC04-2.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC04-2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated using basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a 0.2 ml/min flow rate.",
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "The 90-minute gradient was programmed as:"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy set to 28.",
+      "normalized collision energy value was set to 30."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed tryptic cleavages were allowed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance was set to 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "MS/MS mass tolerance was 0.05 Da"
+    ],
+    "Characteristics[Specimen]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ]
+  },
+  "20150912_Haura-Pilot_N0296_bRPLC10-1.raw": {
+    "Source Name": [
+      "N0296"
+    ],
+    "Assay Name": [
+      "N0296_bRPLC10-1"
+    ],
+    "Raw Data File": [
+      "20150912_Haura-Pilot_N0296_bRPLC10-1.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC10-1"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated using basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a 0.2 ml/min flow rate.",
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "The 90-minute gradient was programmed as:"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy set to 28.",
+      "normalized collision energy value was set to 30."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed tryptic cleavages were allowed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance was set to 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "MS/MS mass tolerance was 0.05 Da"
+    ],
+    "Characteristics[Specimen]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ]
+  },
+  "20150912_Haura-Pilot_N0294_bRPLC01-1.raw": {
+    "Source Name": [
+      "N0294"
+    ],
+    "Assay Name": [
+      "N0294_bRPLC01-1"
+    ],
+    "Raw Data File": [
+      "20150912_Haura-Pilot_N0294_bRPLC01-1.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC01-1"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated using basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a 0.2 ml/min flow rate.",
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "The 90-minute gradient was programmed as:"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy set to 28.",
+      "normalized collision energy value was set to 30."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed tryptic cleavages were allowed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance was set to 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "MS/MS mass tolerance was 0.05 Da"
+    ],
+    "Characteristics[Specimen]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ]
+  },
+  "20150912_Haura-Pilot_T0298_bRPLC07-1.raw": {
+    "Source Name": [
+      "T0298"
+    ],
+    "Assay Name": [
+      "T0298_bRPLC07-1"
+    ],
+    "Raw Data File": [
+      "20150912_Haura-Pilot_T0298_bRPLC07-1.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC07-1"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated using basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a 0.2 ml/min flow rate.",
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "The 90-minute gradient was programmed as:"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy set to 28.",
+      "normalized collision energy value was set to 30."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed tryptic cleavages were allowed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance was set to 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "MS/MS mass tolerance was 0.05 Da"
+    ],
+    "Characteristics[Specimen]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ]
+  },
+  "20150912_Haura-Pilot_N0296_bRPLC10-2.raw": {
+    "Source Name": [
+      "N0296"
+    ],
+    "Assay Name": [
+      "N0296_bRPLC10-2"
+    ],
+    "Raw Data File": [
+      "20150912_Haura-Pilot_N0296_bRPLC10-2.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC10-2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated using basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a 0.2 ml/min flow rate.",
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "The 90-minute gradient was programmed as:"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy set to 28.",
+      "normalized collision energy value was set to 30."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed tryptic cleavages were allowed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance was set to 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "MS/MS mass tolerance was 0.05 Da"
+    ],
+    "Characteristics[Specimen]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ]
+  },
+  "20150912_Haura-Pilot_T0298_bRPLC11-1.raw": {
+    "Source Name": [
+      "T0298"
+    ],
+    "Assay Name": [
+      "T0298_bRPLC11-1"
+    ],
+    "Raw Data File": [
+      "20150912_Haura-Pilot_T0298_bRPLC11-1.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC11-1"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated using basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a 0.2 ml/min flow rate.",
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "The 90-minute gradient was programmed as:"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy set to 28.",
+      "normalized collision energy value was set to 30."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed tryptic cleavages were allowed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance was set to 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "MS/MS mass tolerance was 0.05 Da"
+    ],
+    "Characteristics[Specimen]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ]
+  },
+  "20150912_Haura-Pilot_N0294_bRPLC07-2.raw": {
+    "Source Name": [
+      "N0294"
+    ],
+    "Assay Name": [
+      "N0294_bRPLC07-2"
+    ],
+    "Raw Data File": [
+      "20150912_Haura-Pilot_N0294_bRPLC07-2.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC07-2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated using basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a 0.2 ml/min flow rate.",
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "The 90-minute gradient was programmed as:"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy set to 28.",
+      "normalized collision energy value was set to 30."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed tryptic cleavages were allowed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance was set to 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "MS/MS mass tolerance was 0.05 Da"
+    ],
+    "Characteristics[Specimen]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ]
+  },
+  "20150912_Haura-Pilot_N0295_bRPLC01-1.raw": {
+    "Source Name": [
+      "N0295"
+    ],
+    "Assay Name": [
+      "N0295_bRPLC01-1"
+    ],
+    "Raw Data File": [
+      "20150912_Haura-Pilot_N0295_bRPLC01-1.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC01-1"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated using basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a 0.2 ml/min flow rate.",
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "The 90-minute gradient was programmed as:"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy set to 28.",
+      "normalized collision energy value was set to 30."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed tryptic cleavages were allowed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance was set to 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "MS/MS mass tolerance was 0.05 Da"
+    ],
+    "Characteristics[Specimen]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ]
+  },
+  "20150912_Haura-Pilot_T0303_bRPLC03-1.raw": {
+    "Source Name": [
+      "T0303"
+    ],
+    "Assay Name": [
+      "T0303_bRPLC03-1"
+    ],
+    "Raw Data File": [
+      "20150912_Haura-Pilot_T0303_bRPLC03-1.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC03-1"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated using basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a 0.2 ml/min flow rate.",
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "The 90-minute gradient was programmed as:"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy set to 28.",
+      "normalized collision energy value was set to 30."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed tryptic cleavages were allowed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance was set to 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "MS/MS mass tolerance was 0.05 Da"
+    ],
+    "Characteristics[Specimen]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ]
+  },
+  "20150912_Haura-Pilot_N0295_bRPLC07-1.raw": {
+    "Source Name": [
+      "N0295"
+    ],
+    "Assay Name": [
+      "N0295_bRPLC07-1"
+    ],
+    "Raw Data File": [
+      "20150912_Haura-Pilot_N0295_bRPLC07-1.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC07-1"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated using basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a 0.2 ml/min flow rate.",
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "The 90-minute gradient was programmed as:"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy set to 28.",
+      "normalized collision energy value was set to 30."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed tryptic cleavages were allowed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance was set to 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "MS/MS mass tolerance was 0.05 Da"
+    ],
+    "Characteristics[Specimen]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ]
+  },
+  "20150912_Haura-Pilot_T0298_bRPLC08-2.raw": {
+    "Source Name": [
+      "T0298"
+    ],
+    "Assay Name": [
+      "T0298_bRPLC08-2"
+    ],
+    "Raw Data File": [
+      "20150912_Haura-Pilot_T0298_bRPLC08-2.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC08-2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated using basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a 0.2 ml/min flow rate.",
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "The 90-minute gradient was programmed as:"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy set to 28.",
+      "normalized collision energy value was set to 30."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed tryptic cleavages were allowed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance was set to 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "MS/MS mass tolerance was 0.05 Da"
+    ],
+    "Characteristics[Specimen]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ]
+  },
+  "20150912_Haura-Pilot_N0294_bRPLC08-2.raw": {
+    "Source Name": [
+      "N0294"
+    ],
+    "Assay Name": [
+      "N0294_bRPLC08-2"
+    ],
+    "Raw Data File": [
+      "20150912_Haura-Pilot_N0294_bRPLC08-2.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC08-2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated using basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a 0.2 ml/min flow rate.",
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "The 90-minute gradient was programmed as:"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy set to 28.",
+      "normalized collision energy value was set to 30."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed tryptic cleavages were allowed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance was set to 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "MS/MS mass tolerance was 0.05 Da"
+    ],
+    "Characteristics[Specimen]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ]
+  },
+  "20150912_Haura-Pilot_N0295_bRPLC09-1.raw": {
+    "Source Name": [
+      "N0295"
+    ],
+    "Assay Name": [
+      "N0295_bRPLC09-1"
+    ],
+    "Raw Data File": [
+      "20150912_Haura-Pilot_N0295_bRPLC09-1.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC09-1"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated using basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a 0.2 ml/min flow rate.",
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "The 90-minute gradient was programmed as:"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy set to 28.",
+      "normalized collision energy value was set to 30."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed tryptic cleavages were allowed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance was set to 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "MS/MS mass tolerance was 0.05 Da"
+    ],
+    "Characteristics[Specimen]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ]
+  },
+  "20150912_Haura-Pilot_T0298_bRPLC10-2.raw": {
+    "Source Name": [
+      "T0298"
+    ],
+    "Assay Name": [
+      "T0298_bRPLC10-2"
+    ],
+    "Raw Data File": [
+      "20150912_Haura-Pilot_T0298_bRPLC10-2.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC10-2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated using basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a 0.2 ml/min flow rate.",
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "The 90-minute gradient was programmed as:"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy set to 28.",
+      "normalized collision energy value was set to 30."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed tryptic cleavages were allowed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance was set to 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "MS/MS mass tolerance was 0.05 Da"
+    ],
+    "Characteristics[Specimen]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ]
+  },
+  "20150912_Haura-Pilot_N0299_bRPLC09-2.raw": {
+    "Source Name": [
+      "N0299"
+    ],
+    "Assay Name": [
+      "N0299_bRPLC09-2"
+    ],
+    "Raw Data File": [
+      "20150912_Haura-Pilot_N0299_bRPLC09-2.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC09-2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated using basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a 0.2 ml/min flow rate.",
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "The 90-minute gradient was programmed as:"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy set to 28.",
+      "normalized collision energy value was set to 30."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed tryptic cleavages were allowed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance was set to 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "MS/MS mass tolerance was 0.05 Da"
+    ],
+    "Characteristics[Specimen]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ]
+  },
+  "20150912_Haura-Pilot_T0303_bRPLC09-2.raw": {
+    "Source Name": [
+      "T0303"
+    ],
+    "Assay Name": [
+      "T0303_bRPLC09-2"
+    ],
+    "Raw Data File": [
+      "20150912_Haura-Pilot_T0303_bRPLC09-2.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC09-2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated using basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a 0.2 ml/min flow rate.",
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "The 90-minute gradient was programmed as:"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy set to 28.",
+      "normalized collision energy value was set to 30."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed tryptic cleavages were allowed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance was set to 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "MS/MS mass tolerance was 0.05 Da"
+    ],
+    "Characteristics[Specimen]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ]
+  },
+  "20150912_Haura-Pilot_T0303_bRPLC07-1.raw": {
+    "Source Name": [
+      "T0303"
+    ],
+    "Assay Name": [
+      "T0303_bRPLC07-1"
+    ],
+    "Raw Data File": [
+      "20150912_Haura-Pilot_T0303_bRPLC07-1.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC07-1"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated using basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a 0.2 ml/min flow rate.",
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "The 90-minute gradient was programmed as:"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy set to 28.",
+      "normalized collision energy value was set to 30."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed tryptic cleavages were allowed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance was set to 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "MS/MS mass tolerance was 0.05 Da"
+    ],
+    "Characteristics[Specimen]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ]
+  },
+  "20150912_Haura-Pilot_T0300_bRPLC08-2.raw": {
+    "Source Name": [
+      "T0300"
+    ],
+    "Assay Name": [
+      "T0300_bRPLC08-2"
+    ],
+    "Raw Data File": [
+      "20150912_Haura-Pilot_T0300_bRPLC08-2.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC08-2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated using basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a 0.2 ml/min flow rate.",
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "The 90-minute gradient was programmed as:"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy set to 28.",
+      "normalized collision energy value was set to 30."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed tryptic cleavages were allowed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance was set to 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "MS/MS mass tolerance was 0.05 Da"
+    ],
+    "Characteristics[Specimen]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ]
+  },
+  "20150912_Haura-Pilot_T0300_bRPLC05-1.raw": {
+    "Source Name": [
+      "T0300"
+    ],
+    "Assay Name": [
+      "T0300_bRPLC05-1"
+    ],
+    "Raw Data File": [
+      "20150912_Haura-Pilot_T0300_bRPLC05-1.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC05-1"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated using basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a 0.2 ml/min flow rate.",
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "The 90-minute gradient was programmed as:"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy set to 28.",
+      "normalized collision energy value was set to 30."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed tryptic cleavages were allowed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance was set to 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "MS/MS mass tolerance was 0.05 Da"
+    ],
+    "Characteristics[Specimen]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ]
+  },
+  "20150912_Haura-Pilot_T0301_bRPLC06-2.raw": {
+    "Source Name": [
+      "T0301"
+    ],
+    "Assay Name": [
+      "T0301_bRPLC06-2"
+    ],
+    "Raw Data File": [
+      "20150912_Haura-Pilot_T0301_bRPLC06-2.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC06-2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated using basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a 0.2 ml/min flow rate.",
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "The 90-minute gradient was programmed as:"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy set to 28.",
+      "normalized collision energy value was set to 30."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed tryptic cleavages were allowed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance was set to 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "MS/MS mass tolerance was 0.05 Da"
+    ],
+    "Characteristics[Specimen]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ]
+  },
+  "20150912_Haura-Pilot_T0303_bRPLC12-2.raw": {
+    "Source Name": [
+      "T0303"
+    ],
+    "Assay Name": [
+      "T0303_bRPLC12-2"
+    ],
+    "Raw Data File": [
+      "20150912_Haura-Pilot_T0303_bRPLC12-2.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC12-2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated using basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a 0.2 ml/min flow rate.",
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "The 90-minute gradient was programmed as:"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy set to 28.",
+      "normalized collision energy value was set to 30."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed tryptic cleavages were allowed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance was set to 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "MS/MS mass tolerance was 0.05 Da"
+    ],
+    "Characteristics[Specimen]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ]
+  },
+  "20150912_Haura-Pilot_T0303_bRPLC11-2.raw": {
+    "Source Name": [
+      "T0303"
+    ],
+    "Assay Name": [
+      "T0303_bRPLC11-2"
+    ],
+    "Raw Data File": [
+      "20150912_Haura-Pilot_T0303_bRPLC11-2.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC11-2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated using basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a 0.2 ml/min flow rate.",
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "The 90-minute gradient was programmed as:"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy set to 28.",
+      "normalized collision energy value was set to 30."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed tryptic cleavages were allowed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance was set to 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "MS/MS mass tolerance was 0.05 Da"
+    ],
+    "Characteristics[Specimen]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ]
+  },
+  "20150912_Haura-Pilot_T0300_bRPLC11-2.raw": {
+    "Source Name": [
+      "T0300"
+    ],
+    "Assay Name": [
+      "T0300_bRPLC11-2"
+    ],
+    "Raw Data File": [
+      "20150912_Haura-Pilot_T0300_bRPLC11-2.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC11-2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated using basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a 0.2 ml/min flow rate.",
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "The 90-minute gradient was programmed as:"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy set to 28.",
+      "normalized collision energy value was set to 30."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed tryptic cleavages were allowed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance was set to 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "MS/MS mass tolerance was 0.05 Da"
+    ],
+    "Characteristics[Specimen]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ]
+  },
+  "20150912_Haura-Pilot_N0296_bRPLC12-1.raw": {
+    "Source Name": [
+      "N0296"
+    ],
+    "Assay Name": [
+      "N0296_bRPLC12-1"
+    ],
+    "Raw Data File": [
+      "20150912_Haura-Pilot_N0296_bRPLC12-1.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC12-1"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated using basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a 0.2 ml/min flow rate.",
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "The 90-minute gradient was programmed as:"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy set to 28.",
+      "normalized collision energy value was set to 30."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed tryptic cleavages were allowed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance was set to 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "MS/MS mass tolerance was 0.05 Da"
+    ],
+    "Characteristics[Specimen]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ]
+  },
+  "20150912_Haura-Pilot_T0301_bRPLC12-1.raw": {
+    "Source Name": [
+      "T0301"
+    ],
+    "Assay Name": [
+      "T0301_bRPLC12-1"
+    ],
+    "Raw Data File": [
+      "20150912_Haura-Pilot_T0301_bRPLC12-1.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC12-1"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated using basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a 0.2 ml/min flow rate.",
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "The 90-minute gradient was programmed as:"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy set to 28.",
+      "normalized collision energy value was set to 30."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed tryptic cleavages were allowed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance was set to 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "MS/MS mass tolerance was 0.05 Da"
+    ],
+    "Characteristics[Specimen]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ]
+  },
+  "20150912_Haura-Pilot_T0300_bRPLC04-2.raw": {
+    "Source Name": [
+      "T0300"
+    ],
+    "Assay Name": [
+      "T0300_bRPLC04-2"
+    ],
+    "Raw Data File": [
+      "20150912_Haura-Pilot_T0300_bRPLC04-2.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC04-2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated using basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a 0.2 ml/min flow rate.",
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "The 90-minute gradient was programmed as:"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy set to 28.",
+      "normalized collision energy value was set to 30."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed tryptic cleavages were allowed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance was set to 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "MS/MS mass tolerance was 0.05 Da"
+    ],
+    "Characteristics[Specimen]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ]
+  },
+  "20150912_Haura-Pilot_N0296_bRPLC03-2.raw": {
+    "Source Name": [
+      "N0296"
+    ],
+    "Assay Name": [
+      "N0296_bRPLC03-2"
+    ],
+    "Raw Data File": [
+      "20150912_Haura-Pilot_N0296_bRPLC03-2.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC03-2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated using basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a 0.2 ml/min flow rate.",
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "The 90-minute gradient was programmed as:"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy set to 28.",
+      "normalized collision energy value was set to 30."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed tryptic cleavages were allowed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance was set to 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "MS/MS mass tolerance was 0.05 Da"
+    ],
+    "Characteristics[Specimen]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ]
+  },
+  "20150912_Haura-Pilot_N0295_bRPLC09-2.raw": {
+    "Source Name": [
+      "N0295"
+    ],
+    "Assay Name": [
+      "N0295_bRPLC09-2"
+    ],
+    "Raw Data File": [
+      "20150912_Haura-Pilot_N0295_bRPLC09-2.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC09-2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated using basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a 0.2 ml/min flow rate.",
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "The 90-minute gradient was programmed as:"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy set to 28.",
+      "normalized collision energy value was set to 30."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed tryptic cleavages were allowed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance was set to 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "MS/MS mass tolerance was 0.05 Da"
+    ],
+    "Characteristics[Specimen]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ]
+  },
+  "20150912_Haura-Pilot_N0296_bRPLC02-1.raw": {
+    "Source Name": [
+      "N0296"
+    ],
+    "Assay Name": [
+      "N0296_bRPLC02-1"
+    ],
+    "Raw Data File": [
+      "20150912_Haura-Pilot_N0296_bRPLC02-1.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC02-1"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated using basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a 0.2 ml/min flow rate.",
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "The 90-minute gradient was programmed as:"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy set to 28.",
+      "normalized collision energy value was set to 30."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed tryptic cleavages were allowed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance was set to 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "MS/MS mass tolerance was 0.05 Da"
+    ],
+    "Characteristics[Specimen]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ]
+  },
+  "20150912_Haura-Pilot_T0298_bRPLC02-1.raw": {
+    "Source Name": [
+      "T0298"
+    ],
+    "Assay Name": [
+      "T0298_bRPLC02-1"
+    ],
+    "Raw Data File": [
+      "20150912_Haura-Pilot_T0298_bRPLC02-1.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC02-1"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated using basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a 0.2 ml/min flow rate.",
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "The 90-minute gradient was programmed as:"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy set to 28.",
+      "normalized collision energy value was set to 30."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed tryptic cleavages were allowed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance was set to 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "MS/MS mass tolerance was 0.05 Da"
+    ],
+    "Characteristics[Specimen]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ]
+  },
+  "20150912_Haura-Pilot_N0296_bRPLC09-2.raw": {
+    "Source Name": [
+      "N0296"
+    ],
+    "Assay Name": [
+      "N0296_bRPLC09-2"
+    ],
+    "Raw Data File": [
+      "20150912_Haura-Pilot_N0296_bRPLC09-2.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC09-2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated using basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a 0.2 ml/min flow rate.",
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "The 90-minute gradient was programmed as:"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy set to 28.",
+      "normalized collision energy value was set to 30."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed tryptic cleavages were allowed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance was set to 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "MS/MS mass tolerance was 0.05 Da"
+    ],
+    "Characteristics[Specimen]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ]
+  },
+  "20150912_Haura-Pilot_T0301_bRPLC03-2.raw": {
+    "Source Name": [
+      "T0301"
+    ],
+    "Assay Name": [
+      "T0301_bRPLC03-2"
+    ],
+    "Raw Data File": [
+      "20150912_Haura-Pilot_T0301_bRPLC03-2.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC03-2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated using basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a 0.2 ml/min flow rate.",
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "The 90-minute gradient was programmed as:"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy set to 28.",
+      "normalized collision energy value was set to 30."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed tryptic cleavages were allowed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance was set to 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "MS/MS mass tolerance was 0.05 Da"
+    ],
+    "Characteristics[Specimen]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ]
+  },
+  "20150912_Haura-Pilot_N0295_bRPLC10-1.raw": {
+    "Source Name": [
+      "N0295"
+    ],
+    "Assay Name": [
+      "N0295_bRPLC10-1"
+    ],
+    "Raw Data File": [
+      "20150912_Haura-Pilot_N0295_bRPLC10-1.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC10-1"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated using basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a 0.2 ml/min flow rate.",
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "The 90-minute gradient was programmed as:"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy set to 28.",
+      "normalized collision energy value was set to 30."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed tryptic cleavages were allowed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance was set to 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "MS/MS mass tolerance was 0.05 Da"
+    ],
+    "Characteristics[Specimen]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ]
+  },
+  "20150912_Haura-Pilot_T0298_bRPLC03-1.raw": {
+    "Source Name": [
+      "T0298"
+    ],
+    "Assay Name": [
+      "T0298_bRPLC03-1"
+    ],
+    "Raw Data File": [
+      "20150912_Haura-Pilot_T0298_bRPLC03-1.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC03-1"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated using basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a 0.2 ml/min flow rate.",
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "The 90-minute gradient was programmed as:"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy set to 28.",
+      "normalized collision energy value was set to 30."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed tryptic cleavages were allowed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance was set to 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "MS/MS mass tolerance was 0.05 Da"
+    ],
+    "Characteristics[Specimen]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ]
+  },
+  "20150912_Haura-Pilot_T0301_bRPLC01-2.raw": {
+    "Source Name": [
+      "T0301"
+    ],
+    "Assay Name": [
+      "T0301_bRPLC01-2"
+    ],
+    "Raw Data File": [
+      "20150912_Haura-Pilot_T0301_bRPLC01-2.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC01-2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated using basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a 0.2 ml/min flow rate.",
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "The 90-minute gradient was programmed as:"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy set to 28.",
+      "normalized collision energy value was set to 30."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed tryptic cleavages were allowed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance was set to 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "MS/MS mass tolerance was 0.05 Da"
+    ],
+    "Characteristics[Specimen]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ]
+  },
+  "20150912_Haura-Pilot_N0296_bRPLC09-1.raw": {
+    "Source Name": [
+      "N0296"
+    ],
+    "Assay Name": [
+      "N0296_bRPLC09-1"
+    ],
+    "Raw Data File": [
+      "20150912_Haura-Pilot_N0296_bRPLC09-1.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC09-1"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated using basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a 0.2 ml/min flow rate.",
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "The 90-minute gradient was programmed as:"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy set to 28.",
+      "normalized collision energy value was set to 30."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed tryptic cleavages were allowed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance was set to 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "MS/MS mass tolerance was 0.05 Da"
+    ],
+    "Characteristics[Specimen]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ]
+  },
+  "20150912_Haura-Pilot_N0295_bRPLC03-1.raw": {
+    "Source Name": [
+      "N0295"
+    ],
+    "Assay Name": [
+      "N0295_bRPLC03-1"
+    ],
+    "Raw Data File": [
+      "20150912_Haura-Pilot_N0295_bRPLC03-1.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC03-1"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated using basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a 0.2 ml/min flow rate.",
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "The 90-minute gradient was programmed as:"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy set to 28.",
+      "normalized collision energy value was set to 30."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed tryptic cleavages were allowed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance was set to 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "MS/MS mass tolerance was 0.05 Da"
+    ],
+    "Characteristics[Specimen]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ]
+  },
+  "20150912_Haura-Pilot_T0300_bRPLC03-1.raw": {
+    "Source Name": [
+      "T0300"
+    ],
+    "Assay Name": [
+      "T0300_bRPLC03-1"
+    ],
+    "Raw Data File": [
+      "20150912_Haura-Pilot_T0300_bRPLC03-1.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC03-1"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated using basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a 0.2 ml/min flow rate.",
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "The 90-minute gradient was programmed as:"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy set to 28.",
+      "normalized collision energy value was set to 30."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed tryptic cleavages were allowed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance was set to 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "MS/MS mass tolerance was 0.05 Da"
+    ],
+    "Characteristics[Specimen]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ]
+  },
+  "20150912_Haura-Pilot_T0298_bRPLC04-2.raw": {
+    "Source Name": [
+      "T0298"
+    ],
+    "Assay Name": [
+      "T0298_bRPLC04-2"
+    ],
+    "Raw Data File": [
+      "20150912_Haura-Pilot_T0298_bRPLC04-2.raw"
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC04-2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 °C with an enzyme/substrate ratio of 1/50."
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 °C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Comment[FractionationMethod]": [
+      "fractionated using basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a 0.2 ml/min flow rate.",
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "The 90-minute gradient was programmed as:"
+    ],
+    "Comment[Instrument]": [
+      "electrospray quadrupole-orbital ion trap mass spectrometer (QExactive Plus, Thermo, San Jose, CA)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy set to 28.",
+      "normalized collision energy value was set to 30."
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed tryptic cleavages were allowed"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance was set to 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "MS/MS mass tolerance was 0.05 Da"
+    ],
+    "Characteristics[Specimen]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ]
+  }
+}

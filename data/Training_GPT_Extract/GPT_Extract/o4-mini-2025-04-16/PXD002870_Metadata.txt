@@ -1,0 +1,63 @@
+Sex: male  
+Age: 9–12 weeks of age  
+Strain: A/J  
+Strain: BALB/cJ  
+Strain: C57BL/6J  
+Strain: CE/J  
+Strain: DBA/2J  
+Strain: FVB/NJ  
+Compound: 2H2O-saline  
+Label: 2H2O labeling  
+ConcentrationOfCompound: 99.9% (molar ratio)  
+ConcentrationOfCompound: 8% (v/v; 7.25% molar ratio)  
+Compound: isoproterenol  
+ConcentrationOfCompound: 15 mg⋅kg−1⋅d−1  
+Instrument: GC-MS (Agilent 6890/5975)  
+IonizationType: electron impact mode (70 eV)  
+Separation: differential centrifugation over density gradients  
+Compound: sucrose  
+ConcentrationOfCompound: 250 mM sucrose  
+Compound: HEPES  
+ConcentrationOfCompound: 10 mM HEPES  
+Compound: Tris  
+ConcentrationOfCompound: 10 mM Tris  
+Compound: EGTA  
+ConcentrationOfCompound: 1 mM EGTA  
+Compound: dithiothreitol  
+ConcentrationOfCompound: 10 mM dithiothreitol  
+MaterialType: protease/phosphatase inhibitor cocktail (Pierce Halt)  
+FractionIdentifier: nuclear and extracellular fraction  
+FractionIdentifier: organelle-depleted intracellular fraction  
+FractionIdentifier: mitochondrial and microsomal fraction  
+MaterialType: 10,000-Da polyethersulfone filters (Nanosep; Pall Life Sciences)  
+ReductionReagent: dithiothreitol  
+ConcentrationOfCompound: 3 mM dithiothreitol  
+Temperature: 70 °C  
+Time: 5 min  
+AlkylationReagent: iodoacetamide  
+ConcentrationOfCompound: 9 mM iodoacetamide  
+Time: 30 min  
+CleavageAgent: sequencing-grade modified trypsin (50:1, Promega)  
+Time: 16 h  
+Temperature: 37 °C  
+Compound: trifluoroacetic acid  
+ConcentrationOfCompound: 10% trifluoroacetic acid  
+Separation: high-pH/low–pH two-dimensional reversed-phase chromatography  
+Instrument: Finnigan Surveyor liquid chromatography system  
+Separation: Phenomenex C18 column (Jupiter Proteo C12, 4-μm particle, 90-Å pore, 100 mm×1 mm dimension)  
+FlowRateChromatogram: 50 μl⋅min−1  
+NumberOfFractions: Twelve  
+Separation: low-pH reversed-phase separation  
+Instrument: Easy-nLC 1000 nano-UPLC system (Thermo Scientific)  
+Instrument: LTQ Orbitrap Elite instrument (Thermo Scientific)  
+MS2MassAnalyzer: Ion-Trap  
+Modification: cysteine carbamidomethylation (C +57.02146 Da)  
+Modification: methionine oxidation (M +15.9949 Da)  
+Modification: lysine acetylation (K +42.0106 Da)  
+Modification: serine/threonine/tyrosine phosphorylation (S/T/Y +79.9663 Da)  
+Modification: lysine ubiquitylation (K +114.0403 Da)  
+Modification: asparagine deamidation (N +0.9840 Da)  
+PrecursorMassTolerance: 20-ppm  
+FragmentMassTolerance: 600 ppm  
+FlowRateChromatogram: 300 nl⋅min−1  
+Temperature: 50 °C

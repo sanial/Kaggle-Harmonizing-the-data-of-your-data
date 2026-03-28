@@ -1,0 +1,134 @@
+{
+  "01112016_DM798_Run1.raw": {
+    "Source Name": [
+      "DM798"
+    ],
+    "Assay Name": [
+      "DM798_Run1"
+    ],
+    "Raw Data File": [
+      "01112016_DM798_Run1.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HeLa cells (ATCC® CCL-2™)"
+    ],
+    "Characteristics[Organism]": [
+      "Homo Sapiens"
+    ],
+    "Characteristics[MaterialType]": [
+      "HeLa cell vesicles"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin Gold protein digest enzyme (Promega, V5280)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "25\u2009mM dithiothreitol in 50\u2009mM ammonium bicarbonate"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55\u2009mM iodoacetamide in 50\u2009mM ammonium bicarbonate"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Run1"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "ExtraPEG method (8% PEG\u2009+wash)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Liquid chromatography tandem mass spectrometry (LC-MS/MS)"
+    ],
+    "Comment[Instrument]": [
+      "externally calibrated Thermo LTQ Orbitrap Velos nLC-ESI-LIT-Orbitrap (high-resolution electrospray tandem mass spectrometer)"
+    ],
+    "Comment[FractionationMethod]": [
+      "tris-glycine sodium dodecyl sulfate polyacrylamide gel electrophoresis (SDS-PAGE)"
+    ]
+  },
+  "01112016_DM798_Run3.raw": {
+    "Source Name": [
+      "DM798"
+    ],
+    "Assay Name": [
+      "DM798_Run3"
+    ],
+    "Raw Data File": [
+      "01112016_DM798_Run3.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HeLa cells (ATCC® CCL-2™)"
+    ],
+    "Characteristics[Organism]": [
+      "Homo Sapiens"
+    ],
+    "Characteristics[MaterialType]": [
+      "HeLa cell vesicles"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin Gold protein digest enzyme (Promega, V5280)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "25\u2009mM dithiothreitol in 50\u2009mM ammonium bicarbonate"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55\u2009mM iodoacetamide in 50\u2009mM ammonium bicarbonate"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Run3"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "ExtraPEG method (8% PEG\u2009+wash)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Liquid chromatography tandem mass spectrometry (LC-MS/MS)"
+    ],
+    "Comment[Instrument]": [
+      "externally calibrated Thermo LTQ Orbitrap Velos nLC-ESI-LIT-Orbitrap (high-resolution electrospray tandem mass spectrometer)"
+    ],
+    "Comment[FractionationMethod]": [
+      "tris-glycine sodium dodecyl sulfate polyacrylamide gel electrophoresis (SDS-PAGE)"
+    ]
+  },
+  "01112016_DM798_Run2.raw": {
+    "Source Name": [
+      "DM798"
+    ],
+    "Assay Name": [
+      "DM798_Run2"
+    ],
+    "Raw Data File": [
+      "01112016_DM798_Run2.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HeLa cells (ATCC® CCL-2™)"
+    ],
+    "Characteristics[Organism]": [
+      "Homo Sapiens"
+    ],
+    "Characteristics[MaterialType]": [
+      "HeLa cell vesicles"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin Gold protein digest enzyme (Promega, V5280)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "25\u2009mM dithiothreitol in 50\u2009mM ammonium bicarbonate"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55\u2009mM iodoacetamide in 50\u2009mM ammonium bicarbonate"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Run2"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "ExtraPEG method (8% PEG\u2009+wash)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Liquid chromatography tandem mass spectrometry (LC-MS/MS)"
+    ],
+    "Comment[Instrument]": [
+      "externally calibrated Thermo LTQ Orbitrap Velos nLC-ESI-LIT-Orbitrap (high-resolution electrospray tandem mass spectrometer)"
+    ],
+    "Comment[FractionationMethod]": [
+      "tris-glycine sodium dodecyl sulfate polyacrylamide gel electrophoresis (SDS-PAGE)"
+    ]
+  }
+}

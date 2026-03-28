@@ -1,0 +1,31 @@
+CellType: human melanoma cells  
+AssayName: quantitative (phospho)-proteomics  
+Compound: dabrafenib  
+Compound: trametinib  
+Compound: SCH772984  
+CellLine: A375 (ATCC, CRL-1619) cells  
+SampleTreatment: serum starved for 24 hours  
+Time: 24 hours  
+SampleTreatment: serum was then added back to the cells for 24 hours  
+Compound: Dabrafenib (Selleckchem, S2807)  
+Compound: trametinib (Selleckchem, S2673)  
+Compound: SCH772984 (Selleckchem, S7101)  
+ConcentrationOfCompound: 500 μM  
+ConcentrationOfCompound: 100 μM  
+Temperature: −80 °C  
+Time: 30 minutes  
+MaterialType: modified RIPA buffer with protease/phosphatase inhibitors  
+ReductionReagent: 1 mM Dithiothritol  
+AlkylationReagent: Chloroacetamide  
+CleavageAgent: Lys-C protease (Wako Chemical Corporation, 129-02541)  
+CleavageAgent: trypsin (Sigma-Aldrich, T6567)  
+FractionationMethod: strong cation exchange chromatography  
+Separation: strong cation exchange chromatography (SCX)  
+EnrichmentMethod: titanium dioxide beads  
+Instrument: Q-Exactive Orbitrap mass spectrometer  
+FlowRateChromatogram: 250 nl/min  
+GradientTime: 250 minute gradient  
+GradientTime: 240 minutes  
+Instrument: ThermoFisher Scientific Q Exactive mass spectrometer  
+CellLine: HEK293 cells  
+MaterialType: magnetic M2 anti-FLAG beads (Sigma-Aldrich)

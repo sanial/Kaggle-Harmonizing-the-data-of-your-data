@@ -1,0 +1,27 @@
+NumberOfSamples: 65 colorectal cancer (CRC) cell lines  
+NumberOfSamples: 90 CRC patients  
+NumberOfSamples: 1,074 CRC tumours  
+AssayName: mass spectrometry  
+AssayName: immunohistochemistry  
+CellLine: SW480  
+NumberOfSamples: 1,074 patients from the QUASAR 2 clinical trial cohort  
+Experiment: QUASAR 2  
+TumorStage: stage II/III CRC patients  
+Temperature: 37°C  
+SampleTreatment: RIPA100 buffer (20 mM Tris–HCl pH 7.5, 1 mM EDTA, 100 mM NaCl, 1% Triton X-100, 0.5% sodium deoxycholate and 0.1% SDS) containing protease (Complete™ mini with EDTA; Roche) and phosphatase inhibitors (Phosphatase Inhibitor cocktail 1 and 2; Sigma Aldrich) at 2× and 5× the final concentration recommended by the manufacturer  
+SamplingTime: 30 min at 4°C  
+ReductionReagent: 10 mM DTT  
+AlkylationReagent: 55 mM chloroacetamide  
+CleavageAgent: trypsin (Roche)  
+SampleTreatment: acetone-precipitated overnight using four volumes of pre-cooled (−40°C) acetone  
+Temperature: −40°C  
+FractionationMethod: hydrophilic strong anion exchange (hSAX) chromatography  
+Temperature: 30°C  
+FlowRateChromatogram: 250 μl/min  
+AcquisitionMethod: nanoflow LC-MS/MS  
+Instrument: Orbitrap Velos mass spectrometer  
+FlowRateChromatogram: 300 nl/min  
+FragmentationMethod: higher-energy collisional dissociation (HCD)  
+AcquisitionMethod: data-dependent acquisition  
+Instrument: Orbitrap Elite mass spectrometer  
+CleavageAgent: Trypsin/P

@@ -1,0 +1,47 @@
+AssayName: high-resolution mass spectrometry-based proteomics  
+AssayName: label-free workflow  
+AssayName: single-run method  
+AcquisitionMethod: top-15 data-dependent mode  
+AcquisitionMethod: top-5 data-dependent acquisition method  
+Instrument: quadrupole– Orbitrap mass spectrometer  
+Instrument: Q Exactive HF  
+Instrument: EASYnLC 1200 ultra-high-pressure system  
+IonizationType: nano-electrospray ion source  
+FragmentationMethod: higher-energy collisional dissociation (HCD)  
+CollisionEnergy: normalized collision energy (NCE) of 27%  
+PrecursorMassTolerance: 4.5 ppm  
+FragmentMassTolerance: 20 ppm  
+FlowRateChromatogram: 350 nl per min  
+Separation: liquid chromatography–MS  
+GradientTime: 100 min  
+FractionationMethod: high-pH reversed-phase fractionation  
+FractionationMethod: loss-less nano-fractionator  
+SampleTreatment: in-StageTip (iST) method  
+Temperature: −80 °C  
+Sex: male trauma victims  
+Age: aged 21–47 years  
+NumberOfBiologicalReplicates: three adult hearts  
+NumberOfTechnicalReplicates: technical triplicates  
+CleavageAgent: Lys-C  
+CleavageAgent: trypsin  
+Organism: human  
+CellType: cardiac fibroblasts (CF)  
+CellType: adipose fibroblasts (AF)  
+CellType: endothelial cells (ECs)  
+CellType: smooth muscle cells (SMCs)  
+OrganismPart: aorta (Ao)  
+OrganismPart: pulmonary artery (PA)  
+OrganismPart: vena cava inferior (IVC)  
+OrganismPart: pulmonary vein (PVe)  
+OrganismPart: right atrium (RA)  
+OrganismPart: left atrium (LA)  
+OrganismPart: right ventricle (RV)  
+OrganismPart: left ventricle (LV)  
+OrganismPart: tricuspid valve (TV)  
+OrganismPart: pulmonary valve (PV)  
+OrganismPart: aortic valve (AV)  
+OrganismPart: mitral valve (MV)  
+OrganismPart: ventricular septum (SepV)  
+OrganismPart: atrial septum (SepA)  
+OrganismPart: left coronary artery (LCA)  
+OrganismPart: right coronary artery (RCA)

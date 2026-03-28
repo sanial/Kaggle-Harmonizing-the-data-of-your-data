@@ -1,0 +1,542 @@
+{
+  "Infected3.raw": {
+    "Source Name": [
+      "Infected group"
+    ],
+    "Assay Name": [
+      "Infected3.raw"
+    ],
+    "Raw Data File": [
+      "Infected3.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "Infected group"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "Infected3"
+    ],
+    "Characteristics[Organism]": [
+      "Mus musculus (59,517 total sequences)"
+    ],
+    "Characteristics[Strain]": [
+      "Balb/c mice"
+    ],
+    "Characteristics[Age]": [
+      "30 days"
+    ],
+    "Characteristics[Sex]": [
+      "female"
+    ],
+    "Characteristics[SamplingTime]": [
+      "After 7 weeks of infection"
+    ],
+    "Characteristics[Specimen]": [
+      "isolated spleen cells"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates were prepared for each group"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Eight spleens from Infected individuals and five from Controls were used for histology and mass spectrometry analyses."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol (Sigma Aldrich, St. Louis, MO, USA)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (GE Healthcare, Little Chalfont, Buckinghamshire, UK)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "spleen"
+    ],
+    "Comment[Separation]": [
+      "nanoUHPLC UltiMate® 3,000 (Dionex, San Jose, USA) system",
+      "a reverse phase chromatography was performed using an Acclaim PepMap18 RSLC (75 μm i.d. × 15 cm, 2 μm, 100 Å; Thermo Scientific) column (in tandem with the previously mentioned column), maintained at 40°C with a constant flow rate of 0.3 μL/min."
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive mass spectrometer (Thermo Scientific®, Bremen, Germany) operating at full-scan/MS2 mode"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free shotgun approach",
+      "full-scan/MS2 mode",
+      "Top 12 criteria"
+    ],
+    "Comment[FragmentationMethod]": [
+      "Higher Energy Collision Induced Dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "stepped Normalized Collisional Energy (NCE) of 28–30"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3 μL/min",
+      "flow rate of 7 μL/min"
+    ],
+    "Comment[GradientTime]": [
+      "a conditioning step with 3.8% of B was applied on the first 3min, followed by a ramp from 3.8 to 30% B over 120min and 30–50% B between 120 and 150min, with a final ramp with 99% B to 162min and a reconditioning step with 3.8% B until 180min."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "mass tolerance error of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to 2 missed cleavage sites"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "product ion spectra were acquired with a resolution of 17,500"
+    ],
+    "Comment[IonizationType]": [
+      "ion source was set at 3.8 kV with a capillary temperature of 250°C"
+    ]
+  },
+  "Control2.raw": {
+    "Source Name": [
+      "Control groups"
+    ],
+    "Assay Name": [
+      "Control2.raw"
+    ],
+    "Raw Data File": [
+      "Control2.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "Control groups"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "Control2"
+    ],
+    "Characteristics[Organism]": [
+      "Mus musculus (59,517 total sequences)"
+    ],
+    "Characteristics[Strain]": [
+      "Balb/c mice"
+    ],
+    "Characteristics[Age]": [
+      "30 days"
+    ],
+    "Characteristics[Sex]": [
+      "female"
+    ],
+    "Characteristics[SamplingTime]": [
+      "After 7 weeks of infection"
+    ],
+    "Characteristics[Specimen]": [
+      "isolated spleen cells"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates were prepared for each group"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Eight spleens from Infected individuals and five from Controls were used for histology and mass spectrometry analyses."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol (Sigma Aldrich, St. Louis, MO, USA)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (GE Healthcare, Little Chalfont, Buckinghamshire, UK)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "spleen"
+    ],
+    "Comment[Separation]": [
+      "nanoUHPLC UltiMate® 3,000 (Dionex, San Jose, USA) system",
+      "a reverse phase chromatography was performed using an Acclaim PepMap18 RSLC (75 μm i.d. × 15 cm, 2 μm, 100 Å; Thermo Scientific) column (in tandem with the previously mentioned column), maintained at 40°C with a constant flow rate of 0.3 μL/min."
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive mass spectrometer (Thermo Scientific®, Bremen, Germany) operating at full-scan/MS2 mode"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free shotgun approach",
+      "full-scan/MS2 mode",
+      "Top 12 criteria"
+    ],
+    "Comment[FragmentationMethod]": [
+      "Higher Energy Collision Induced Dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "stepped Normalized Collisional Energy (NCE) of 28–30"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3 μL/min",
+      "flow rate of 7 μL/min"
+    ],
+    "Comment[GradientTime]": [
+      "a conditioning step with 3.8% of B was applied on the first 3min, followed by a ramp from 3.8 to 30% B over 120min and 30–50% B between 120 and 150min, with a final ramp with 99% B to 162min and a reconditioning step with 3.8% B until 180min."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "mass tolerance error of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to 2 missed cleavage sites"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "product ion spectra were acquired with a resolution of 17,500"
+    ],
+    "Comment[IonizationType]": [
+      "ion source was set at 3.8 kV with a capillary temperature of 250°C"
+    ]
+  },
+  "Infected1.raw": {
+    "Source Name": [
+      "Infected group"
+    ],
+    "Assay Name": [
+      "Infected1.raw"
+    ],
+    "Raw Data File": [
+      "Infected1.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "Infected group"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "Infected1"
+    ],
+    "Characteristics[Organism]": [
+      "Mus musculus (59,517 total sequences)"
+    ],
+    "Characteristics[Strain]": [
+      "Balb/c mice"
+    ],
+    "Characteristics[Age]": [
+      "30 days"
+    ],
+    "Characteristics[Sex]": [
+      "female"
+    ],
+    "Characteristics[SamplingTime]": [
+      "After 7 weeks of infection"
+    ],
+    "Characteristics[Specimen]": [
+      "isolated spleen cells"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates were prepared for each group"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Eight spleens from Infected individuals and five from Controls were used for histology and mass spectrometry analyses."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol (Sigma Aldrich, St. Louis, MO, USA)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (GE Healthcare, Little Chalfont, Buckinghamshire, UK)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "spleen"
+    ],
+    "Comment[Separation]": [
+      "nanoUHPLC UltiMate® 3,000 (Dionex, San Jose, USA) system",
+      "a reverse phase chromatography was performed using an Acclaim PepMap18 RSLC (75 μm i.d. × 15 cm, 2 μm, 100 Å; Thermo Scientific) column (in tandem with the previously mentioned column), maintained at 40°C with a constant flow rate of 0.3 μL/min."
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive mass spectrometer (Thermo Scientific®, Bremen, Germany) operating at full-scan/MS2 mode"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free shotgun approach",
+      "full-scan/MS2 mode",
+      "Top 12 criteria"
+    ],
+    "Comment[FragmentationMethod]": [
+      "Higher Energy Collision Induced Dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "stepped Normalized Collisional Energy (NCE) of 28–30"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3 μL/min",
+      "flow rate of 7 μL/min"
+    ],
+    "Comment[GradientTime]": [
+      "a conditioning step with 3.8% of B was applied on the first 3min, followed by a ramp from 3.8 to 30% B over 120min and 30–50% B between 120 and 150min, with a final ramp with 99% B to 162min and a reconditioning step with 3.8% B until 180min."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "mass tolerance error of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to 2 missed cleavage sites"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "product ion spectra were acquired with a resolution of 17,500"
+    ],
+    "Comment[IonizationType]": [
+      "ion source was set at 3.8 kV with a capillary temperature of 250°C"
+    ]
+  },
+  "Control1.raw": {
+    "Source Name": [
+      "Control groups"
+    ],
+    "Assay Name": [
+      "Control1.raw"
+    ],
+    "Raw Data File": [
+      "Control1.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "Control groups"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "Control1"
+    ],
+    "Characteristics[Organism]": [
+      "Mus musculus (59,517 total sequences)"
+    ],
+    "Characteristics[Strain]": [
+      "Balb/c mice"
+    ],
+    "Characteristics[Age]": [
+      "30 days"
+    ],
+    "Characteristics[Sex]": [
+      "female"
+    ],
+    "Characteristics[SamplingTime]": [
+      "After 7 weeks of infection"
+    ],
+    "Characteristics[Specimen]": [
+      "isolated spleen cells"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates were prepared for each group"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Eight spleens from Infected individuals and five from Controls were used for histology and mass spectrometry analyses."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol (Sigma Aldrich, St. Louis, MO, USA)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (GE Healthcare, Little Chalfont, Buckinghamshire, UK)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "spleen"
+    ],
+    "Comment[Separation]": [
+      "nanoUHPLC UltiMate® 3,000 (Dionex, San Jose, USA) system",
+      "a reverse phase chromatography was performed using an Acclaim PepMap18 RSLC (75 μm i.d. × 15 cm, 2 μm, 100 Å; Thermo Scientific) column (in tandem with the previously mentioned column), maintained at 40°C with a constant flow rate of 0.3 μL/min."
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive mass spectrometer (Thermo Scientific®, Bremen, Germany) operating at full-scan/MS2 mode"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free shotgun approach",
+      "full-scan/MS2 mode",
+      "Top 12 criteria"
+    ],
+    "Comment[FragmentationMethod]": [
+      "Higher Energy Collision Induced Dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "stepped Normalized Collisional Energy (NCE) of 28–30"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3 μL/min",
+      "flow rate of 7 μL/min"
+    ],
+    "Comment[GradientTime]": [
+      "a conditioning step with 3.8% of B was applied on the first 3min, followed by a ramp from 3.8 to 30% B over 120min and 30–50% B between 120 and 150min, with a final ramp with 99% B to 162min and a reconditioning step with 3.8% B until 180min."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "mass tolerance error of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to 2 missed cleavage sites"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "product ion spectra were acquired with a resolution of 17,500"
+    ],
+    "Comment[IonizationType]": [
+      "ion source was set at 3.8 kV with a capillary temperature of 250°C"
+    ]
+  },
+  "Infected2.raw": {
+    "Source Name": [
+      "Infected group"
+    ],
+    "Assay Name": [
+      "Infected2.raw"
+    ],
+    "Raw Data File": [
+      "Infected2.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "Infected group"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "Infected2"
+    ],
+    "Characteristics[Organism]": [
+      "Mus musculus (59,517 total sequences)"
+    ],
+    "Characteristics[Strain]": [
+      "Balb/c mice"
+    ],
+    "Characteristics[Age]": [
+      "30 days"
+    ],
+    "Characteristics[Sex]": [
+      "female"
+    ],
+    "Characteristics[SamplingTime]": [
+      "After 7 weeks of infection"
+    ],
+    "Characteristics[Specimen]": [
+      "isolated spleen cells"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates were prepared for each group"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Eight spleens from Infected individuals and five from Controls were used for histology and mass spectrometry analyses."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol (Sigma Aldrich, St. Louis, MO, USA)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (GE Healthcare, Little Chalfont, Buckinghamshire, UK)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "spleen"
+    ],
+    "Comment[Separation]": [
+      "nanoUHPLC UltiMate® 3,000 (Dionex, San Jose, USA) system",
+      "a reverse phase chromatography was performed using an Acclaim PepMap18 RSLC (75 μm i.d. × 15 cm, 2 μm, 100 Å; Thermo Scientific) column (in tandem with the previously mentioned column), maintained at 40°C with a constant flow rate of 0.3 μL/min."
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive mass spectrometer (Thermo Scientific®, Bremen, Germany) operating at full-scan/MS2 mode"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free shotgun approach",
+      "full-scan/MS2 mode",
+      "Top 12 criteria"
+    ],
+    "Comment[FragmentationMethod]": [
+      "Higher Energy Collision Induced Dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "stepped Normalized Collisional Energy (NCE) of 28–30"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3 μL/min",
+      "flow rate of 7 μL/min"
+    ],
+    "Comment[GradientTime]": [
+      "a conditioning step with 3.8% of B was applied on the first 3min, followed by a ramp from 3.8 to 30% B over 120min and 30–50% B between 120 and 150min, with a final ramp with 99% B to 162min and a reconditioning step with 3.8% B until 180min."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "mass tolerance error of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to 2 missed cleavage sites"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "product ion spectra were acquired with a resolution of 17,500"
+    ],
+    "Comment[IonizationType]": [
+      "ion source was set at 3.8 kV with a capillary temperature of 250°C"
+    ]
+  },
+  "Control3.raw": {
+    "Source Name": [
+      "Control groups"
+    ],
+    "Assay Name": [
+      "Control3.raw"
+    ],
+    "Raw Data File": [
+      "Control3.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "Control groups"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "Control3"
+    ],
+    "Characteristics[Organism]": [
+      "Mus musculus (59,517 total sequences)"
+    ],
+    "Characteristics[Strain]": [
+      "Balb/c mice"
+    ],
+    "Characteristics[Age]": [
+      "30 days"
+    ],
+    "Characteristics[Sex]": [
+      "female"
+    ],
+    "Characteristics[SamplingTime]": [
+      "After 7 weeks of infection"
+    ],
+    "Characteristics[Specimen]": [
+      "isolated spleen cells"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three biological replicates were prepared for each group"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Eight spleens from Infected individuals and five from Controls were used for histology and mass spectrometry analyses."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol (Sigma Aldrich, St. Louis, MO, USA)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (GE Healthcare, Little Chalfont, Buckinghamshire, UK)"
+    ],
+    "Characteristics[OrganismPart]": [
+      "spleen"
+    ],
+    "Comment[Separation]": [
+      "nanoUHPLC UltiMate® 3,000 (Dionex, San Jose, USA) system",
+      "a reverse phase chromatography was performed using an Acclaim PepMap18 RSLC (75 μm i.d. × 15 cm, 2 μm, 100 Å; Thermo Scientific) column (in tandem with the previously mentioned column), maintained at 40°C with a constant flow rate of 0.3 μL/min."
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive mass spectrometer (Thermo Scientific®, Bremen, Germany) operating at full-scan/MS2 mode"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free shotgun approach",
+      "full-scan/MS2 mode",
+      "Top 12 criteria"
+    ],
+    "Comment[FragmentationMethod]": [
+      "Higher Energy Collision Induced Dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "stepped Normalized Collisional Energy (NCE) of 28–30"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3 μL/min",
+      "flow rate of 7 μL/min"
+    ],
+    "Comment[GradientTime]": [
+      "a conditioning step with 3.8% of B was applied on the first 3min, followed by a ramp from 3.8 to 30% B over 120min and 30–50% B between 120 and 150min, with a final ramp with 99% B to 162min and a reconditioning step with 3.8% B until 180min."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "mass tolerance error of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to 2 missed cleavage sites"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "product ion spectra were acquired with a resolution of 17,500"
+    ],
+    "Comment[IonizationType]": [
+      "ion source was set at 3.8 kV with a capillary temperature of 250°C"
+    ]
+  }
+}

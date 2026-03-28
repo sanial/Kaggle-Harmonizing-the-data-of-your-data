@@ -1,0 +1,45 @@
+SampleTreatment: snap frozen  
+SampleTreatment: RNAlater preserved  
+SampleTreatment: formalin-fixed paraffin-embedded  
+Specimen: human colon mucosal biopsies  
+NumberOfSamples: 24 colon mucosa biopsies  
+OrganismPart: sigmoideum  
+NumberOfBiologicalReplicates: two gastroenterologically healthy participants  
+SamplingTime: 30 min at room temperature prior to formalin-fixation  
+NumberOfSamples: Twelve biopsies  
+FactorValue: 1−2 mm3  
+SampleTreatment: directly frozen biopsies  
+SampleTreatment: RNAlater biopsies  
+ConcentrationOfCompound: 4% formalin  
+SamplingTime: one week  
+SamplingTime: three weeks at room temperature  
+Compound: xylene  
+ConcentrationOfCompound: 100% ethanol  
+ConcentrationOfCompound: 96% ethanol  
+ConcentrationOfCompound: 70% ethanol  
+Instrument: NanoDrop 1000 UV–vis Spectrophotometer  
+AssayName: BCA  
+CleavageAgent: trypsin  
+ReductionReagent: tris(2-carboxyethyl)phosphine  
+ConcentrationOfCompound: 12 mM tris(2-carboxyethyl)phosphine  
+AlkylationReagent: chloroacetamide  
+ConcentrationOfCompound: 50 mM chloroacetamide  
+FactorValue: pH 9.0  
+FactorValue: pH 8.5  
+IonizationType: nanospray ionization  
+Instrument: UltiMate 3000 UHPLC system  
+Separation: 2 cm trapping reversed phase Acclaim PepMap RSLC C18 column  
+Separation: analytical 50 cm reversed phase Acclaim PepMap RSLC C18 column  
+Temperature: 40 °C  
+Temperature: 95 °C  
+Temperature: 37 °C  
+GradientTime: 180 min  
+FlowRateChromatogram: 300 nL/min  
+PrecursorMassTolerance: m/z 1.6  
+FragmentationMethod: HCD  
+CollisionEnergy: 27  
+Modification: carbamidomethyl (C)  
+Modification: protein N-terminal acetylation  
+Modification: deamidation (NQ)  
+Modification: oxidation (M)  
+Modification: peptide N-terminal formylation

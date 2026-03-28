@@ -1,0 +1,46 @@
+Instrument: NuPAGE SDS-PAGE system (Invitrogen, Carlsbad, CA, USA)
+FractionationMethod: 4%–12% gradient gels
+Staining: Coomassie brilliant blue G-250
+ConcentrationOfCompound: 50 mM ammonium bicarbonate (ABC)
+ConcentrationOfCompound: 50% acetonitrile (ACN)
+ReductionReagent: 10 mM DTT
+AlkylationReagent: 50 mM iodoacetamide
+Temperature: room temperature
+Time: 45 min
+CleavageAgent: trypsin
+ConcentrationOfCompound: 6.25 ng/ml
+Temperature: 25 °C
+Time: overnight
+SampleTreatment: 1% formic acid (FA)
+SampleTreatment: 5% FA/50% ACN
+Separation: filtered through a 0.45 μm spin filter
+Instrument: Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)
+Separation: 40 cm × 75 μm internal diameter (ID) fused silica column custom packed with 1.9 μm 120 Å ReproSil Pur C18 aqua (Dr Maisch GMBH, Ammerbuch-Entringen, Germany)
+Separation: 1 cm × 100 μm ID trap column packed with 5 μm 120 Å ReproSil C18 aqua
+Compound: 0.05% formic acid in MQ
+Compound: 80% acetonitrile + 0.05% formic acid in MQ
+FlowRateChromatogram: 300 nl/min
+GradientTime: 10–40% buffer B gradient for 75 min
+Instrument: Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)
+CollisionEnergy: 25% normalized collision energy
+AssayName: label-free nanoLC-MS/MS
+SupplementaryFile: PXD015744
+AssayName: weighted gene co-expression network analysis (WGCNA)
+NumberOfSamples: 82
+MaterialType: FFPE tissues
+MaterialType: tissue microarrays (TMAs)
+NumberOfTechnicalReplicates: four representative cores
+Instrument: BenchMark Special Stain Automation system (Ventana Medical Systems, Export, USA)
+CellLine: Hs766t cells (ATCC, Manassas, USA)
+Compound: DMEM
+Compound: 10% heat-inactivated fetal bovine serum
+Compound: 1% penicillin-streptomycin (10,000 U/ml)
+Temperature: 37 °C
+ConcentrationOfCompound: 5% CO2
+Instrument: Chamber-Slides System (Lab-Tek, Thermo Fisher Scientific, Waltham, USA)
+Time: overnight
+Compound: 4′,6-diamidino-2-phenylindole (DAPI)
+Instrument: Zeiss Laser Scanning Microscope
+SampleTreatment: Snap-frozen tumor samples
+TumorCellularity: 5–10% tumor surface
+SamplingTime: January 2014 until November 2015

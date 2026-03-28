@@ -1,0 +1,306 @@
+{
+  "e0590_lt_01_LyscTrypsin.raw": {
+    "Source Name": [
+      "e0590"
+    ],
+    "Assay Name": [
+      "e0590_lt_01_LyscTrypsin"
+    ],
+    "Raw Data File": [
+      "e0590_lt_01_LyscTrypsin.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "Characteristics[MaterialType]": [
+      "fresh-frozen post-mortem human brain (dorsolateral prefrontal cortex; broadman area 9)"
+    ],
+    "Characteristics[Specimen]": [
+      "tissue sample"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two human post-mortem brain samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin",
+      "lysyl endopeptidase (LysC)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "5 mM iodoacetamide (IAA)"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "e0590"
+    ],
+    "FactorValue[CleavageAgent]": [
+      "trypsin",
+      "lysyl endopeptidase (LysC)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "01"
+    ],
+    "Comment[FractionationMethod]": [
+      "ERLIC fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Forty fractions were collected",
+      "The 40 fractions were pooled into 20 fractions"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion mass spectrometer"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "nanoLC-MS/MS"
+    ],
+    "Comment[GradientTime]": [
+      "a 120-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "±10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da mass tolerance for product ions"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of 2 missed cleavages"
+    ]
+  },
+  "e0590_01_LysConly.raw": {
+    "Source Name": [
+      "e0590"
+    ],
+    "Assay Name": [
+      "e0590_01_LysConly"
+    ],
+    "Raw Data File": [
+      "e0590_01_LysConly.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "Characteristics[MaterialType]": [
+      "fresh-frozen post-mortem human brain (dorsolateral prefrontal cortex; broadman area 9)"
+    ],
+    "Characteristics[Specimen]": [
+      "tissue sample"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two human post-mortem brain samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "lysyl endopeptidase (LysC)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "5 mM iodoacetamide (IAA)"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "e0590"
+    ],
+    "FactorValue[CleavageAgent]": [
+      "lysyl endopeptidase (LysC)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "01"
+    ],
+    "Comment[FractionationMethod]": [
+      "ERLIC fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Forty fractions were collected",
+      "The 40 fractions were pooled into 20 fractions"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion mass spectrometer"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "nanoLC-MS/MS"
+    ],
+    "Comment[GradientTime]": [
+      "a 120-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "±10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da mass tolerance for product ions"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of 2 missed cleavages"
+    ]
+  },
+  "OS02252_01_LyscTrypsin.raw": {
+    "Source Name": [
+      "OS02252"
+    ],
+    "Assay Name": [
+      "OS02252_01_LyscTrypsin"
+    ],
+    "Raw Data File": [
+      "OS02252_01_LyscTrypsin.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "Characteristics[MaterialType]": [
+      "fresh-frozen post-mortem human brain (dorsolateral prefrontal cortex; broadman area 9)"
+    ],
+    "Characteristics[Specimen]": [
+      "tissue sample"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two human post-mortem brain samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin",
+      "lysyl endopeptidase (LysC)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "5 mM iodoacetamide (IAA)"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "OS02252"
+    ],
+    "FactorValue[CleavageAgent]": [
+      "trypsin",
+      "lysyl endopeptidase (LysC)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "01"
+    ],
+    "Comment[FractionationMethod]": [
+      "ERLIC fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Forty fractions were collected",
+      "The 40 fractions were pooled into 20 fractions"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion mass spectrometer"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "nanoLC-MS/MS"
+    ],
+    "Comment[GradientTime]": [
+      "a 120-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "±10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da mass tolerance for product ions"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of 2 missed cleavages"
+    ]
+  },
+  "os02252_01_LysConly.raw": {
+    "Source Name": [
+      "os02252"
+    ],
+    "Assay Name": [
+      "os02252_01_LysConly"
+    ],
+    "Raw Data File": [
+      "os02252_01_LysConly.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "Characteristics[MaterialType]": [
+      "fresh-frozen post-mortem human brain (dorsolateral prefrontal cortex; broadman area 9)"
+    ],
+    "Characteristics[Specimen]": [
+      "tissue sample"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two human post-mortem brain samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "lysyl endopeptidase (LysC)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "5 mM iodoacetamide (IAA)"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "os02252"
+    ],
+    "FactorValue[CleavageAgent]": [
+      "lysyl endopeptidase (LysC)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "01"
+    ],
+    "Comment[FractionationMethod]": [
+      "ERLIC fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Forty fractions were collected",
+      "The 40 fractions were pooled into 20 fractions"
+    ],
+    "Comment[Instrument]": [
+      "Thermo Orbitrap Fusion mass spectrometer"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "nanoLC-MS/MS"
+    ],
+    "Comment[GradientTime]": [
+      "a 120-min gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "±10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da mass tolerance for product ions"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of 2 missed cleavages"
+    ]
+  }
+}

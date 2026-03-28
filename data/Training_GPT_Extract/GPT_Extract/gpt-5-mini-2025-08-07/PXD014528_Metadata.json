@@ -1,0 +1,1958 @@
+{
+  "20141022_Q1_SA_YaAt_2i_FCS-Epi_6B.raw": {
+    "Source Name": [
+      "20141022_Q1_SA_YaAt_2i_FCS-Epi_6B"
+    ],
+    "Assay Name": [
+      "20141022_Q1_SA_YaAt_2i_FCS-Epi_6B_Assay"
+    ],
+    "Raw Data File": [
+      "20141022_Q1_SA_YaAt_2i_FCS-Epi_6B.raw"
+    ],
+    "Characteristics[Organism]": [
+      "mouse embryonic stem cells (ESCs)"
+    ],
+    "Characteristics[CellLine]": [
+      "E14Tg2a ESCs (purchased from ATCC)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two biological replicates per sample"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC combination"
+    ],
+    "Characteristics[Label]": [
+      "label-free quantification (LFQ)"
+    ],
+    "Characteristics[MaterialType]": [
+      "ES cells"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap LC-MS (Thermo)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavages were allowed for trypsin enzyme cuts"
+    ],
+    "Comment[FractionIdentifier]": [
+      "6B"
+    ],
+    "FactorValue[Treatment]": [
+      "2i",
+      "FCS-Epi"
+    ]
+  },
+  "20140924_Q1_SA_YaAt_2i_FCS-Epi_Rv_11C.raw": {
+    "Source Name": [
+      "20140924_Q1_SA_YaAt_2i_FCS-Epi_Rv_11C"
+    ],
+    "Assay Name": [
+      "20140924_Q1_SA_YaAt_2i_FCS-Epi_Rv_11C_Assay"
+    ],
+    "Raw Data File": [
+      "20140924_Q1_SA_YaAt_2i_FCS-Epi_Rv_11C.raw"
+    ],
+    "Characteristics[Organism]": [
+      "mouse embryonic stem cells (ESCs)"
+    ],
+    "Characteristics[CellLine]": [
+      "E14Tg2a ESCs (purchased from ATCC)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two biological replicates per sample"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC combination"
+    ],
+    "Characteristics[Label]": [
+      "label-free quantification (LFQ)"
+    ],
+    "Characteristics[MaterialType]": [
+      "ES cells"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap LC-MS (Thermo)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavages were allowed for trypsin enzyme cuts"
+    ],
+    "Comment[FractionIdentifier]": [
+      "11C"
+    ],
+    "FactorValue[Treatment]": [
+      "2i",
+      "FCS-Epi"
+    ]
+  },
+  "20140924_Q1_SA_YaAt_2i_FCS-Epi_Rv_9A.raw": {
+    "Source Name": [
+      "20140924_Q1_SA_YaAt_2i_FCS-Epi_Rv_9A"
+    ],
+    "Assay Name": [
+      "20140924_Q1_SA_YaAt_2i_FCS-Epi_Rv_9A_Assay"
+    ],
+    "Raw Data File": [
+      "20140924_Q1_SA_YaAt_2i_FCS-Epi_Rv_9A.raw"
+    ],
+    "Characteristics[Organism]": [
+      "mouse embryonic stem cells (ESCs)"
+    ],
+    "Characteristics[CellLine]": [
+      "E14Tg2a ESCs (purchased from ATCC)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two biological replicates per sample"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC combination"
+    ],
+    "Characteristics[Label]": [
+      "label-free quantification (LFQ)"
+    ],
+    "Characteristics[MaterialType]": [
+      "ES cells"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap LC-MS (Thermo)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavages were allowed for trypsin enzyme cuts"
+    ],
+    "Comment[FractionIdentifier]": [
+      "9A"
+    ],
+    "FactorValue[Treatment]": [
+      "2i",
+      "FCS-Epi"
+    ]
+  },
+  "20141022_Q1_SA_YaAt_2i_FCS-Epi_6A.raw": {
+    "Source Name": [
+      "20141022_Q1_SA_YaAt_2i_FCS-Epi_6A"
+    ],
+    "Assay Name": [
+      "20141022_Q1_SA_YaAt_2i_FCS-Epi_6A_Assay"
+    ],
+    "Raw Data File": [
+      "20141022_Q1_SA_YaAt_2i_FCS-Epi_6A.raw"
+    ],
+    "Characteristics[Organism]": [
+      "mouse embryonic stem cells (ESCs)"
+    ],
+    "Characteristics[CellLine]": [
+      "E14Tg2a ESCs (purchased from ATCC)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two biological replicates per sample"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC combination"
+    ],
+    "Characteristics[Label]": [
+      "label-free quantification (LFQ)"
+    ],
+    "Characteristics[MaterialType]": [
+      "ES cells"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap LC-MS (Thermo)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavages were allowed for trypsin enzyme cuts"
+    ],
+    "Comment[FractionIdentifier]": [
+      "6A"
+    ],
+    "FactorValue[Treatment]": [
+      "2i",
+      "FCS-Epi"
+    ]
+  },
+  "20141022_Q1_SA_YaAt_2i_FCS-Epi_2A.raw": {
+    "Source Name": [
+      "20141022_Q1_SA_YaAt_2i_FCS-Epi_2A"
+    ],
+    "Assay Name": [
+      "20141022_Q1_SA_YaAt_2i_FCS-Epi_2A_Assay"
+    ],
+    "Raw Data File": [
+      "20141022_Q1_SA_YaAt_2i_FCS-Epi_2A.raw"
+    ],
+    "Characteristics[Organism]": [
+      "mouse embryonic stem cells (ESCs)"
+    ],
+    "Characteristics[CellLine]": [
+      "E14Tg2a ESCs (purchased from ATCC)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two biological replicates per sample"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC combination"
+    ],
+    "Characteristics[Label]": [
+      "label-free quantification (LFQ)"
+    ],
+    "Characteristics[MaterialType]": [
+      "ES cells"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap LC-MS (Thermo)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavages were allowed for trypsin enzyme cuts"
+    ],
+    "Comment[FractionIdentifier]": [
+      "2A"
+    ],
+    "FactorValue[Treatment]": [
+      "2i",
+      "FCS-Epi"
+    ]
+  },
+  "20141022_Q1_SA_YaAt_2i_FCS-Epi_5C.raw": {
+    "Source Name": [
+      "20141022_Q1_SA_YaAt_2i_FCS-Epi_5C"
+    ],
+    "Assay Name": [
+      "20141022_Q1_SA_YaAt_2i_FCS-Epi_5C_Assay"
+    ],
+    "Raw Data File": [
+      "20141022_Q1_SA_YaAt_2i_FCS-Epi_5C.raw"
+    ],
+    "Characteristics[Organism]": [
+      "mouse embryonic stem cells (ESCs)"
+    ],
+    "Characteristics[CellLine]": [
+      "E14Tg2a ESCs (purchased from ATCC)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two biological replicates per sample"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC combination"
+    ],
+    "Characteristics[Label]": [
+      "label-free quantification (LFQ)"
+    ],
+    "Characteristics[MaterialType]": [
+      "ES cells"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap LC-MS (Thermo)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavages were allowed for trypsin enzyme cuts"
+    ],
+    "Comment[FractionIdentifier]": [
+      "5C"
+    ],
+    "FactorValue[Treatment]": [
+      "2i",
+      "FCS-Epi"
+    ]
+  },
+  "20141022_Q1_SA_YaAt_2i_FCS-Epi_1B.raw": {
+    "Source Name": [
+      "20141022_Q1_SA_YaAt_2i_FCS-Epi_1B"
+    ],
+    "Assay Name": [
+      "20141022_Q1_SA_YaAt_2i_FCS-Epi_1B_Assay"
+    ],
+    "Raw Data File": [
+      "20141022_Q1_SA_YaAt_2i_FCS-Epi_1B.raw"
+    ],
+    "Characteristics[Organism]": [
+      "mouse embryonic stem cells (ESCs)"
+    ],
+    "Characteristics[CellLine]": [
+      "E14Tg2a ESCs (purchased from ATCC)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two biological replicates per sample"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC combination"
+    ],
+    "Characteristics[Label]": [
+      "label-free quantification (LFQ)"
+    ],
+    "Characteristics[MaterialType]": [
+      "ES cells"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap LC-MS (Thermo)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavages were allowed for trypsin enzyme cuts"
+    ],
+    "Comment[FractionIdentifier]": [
+      "1B"
+    ],
+    "FactorValue[Treatment]": [
+      "2i",
+      "FCS-Epi"
+    ]
+  },
+  "20141022_Q1_SA_YaAt_2i_FCS-Epi_3C.raw": {
+    "Source Name": [
+      "20141022_Q1_SA_YaAt_2i_FCS-Epi_3C"
+    ],
+    "Assay Name": [
+      "20141022_Q1_SA_YaAt_2i_FCS-Epi_3C_Assay"
+    ],
+    "Raw Data File": [
+      "20141022_Q1_SA_YaAt_2i_FCS-Epi_3C.raw"
+    ],
+    "Characteristics[Organism]": [
+      "mouse embryonic stem cells (ESCs)"
+    ],
+    "Characteristics[CellLine]": [
+      "E14Tg2a ESCs (purchased from ATCC)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two biological replicates per sample"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC combination"
+    ],
+    "Characteristics[Label]": [
+      "label-free quantification (LFQ)"
+    ],
+    "Characteristics[MaterialType]": [
+      "ES cells"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap LC-MS (Thermo)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavages were allowed for trypsin enzyme cuts"
+    ],
+    "Comment[FractionIdentifier]": [
+      "3C"
+    ],
+    "FactorValue[Treatment]": [
+      "2i",
+      "FCS-Epi"
+    ]
+  },
+  "20140924_Q1_SA_YaAt_2i_FCS-Epi_Rv_8B.raw": {
+    "Source Name": [
+      "20140924_Q1_SA_YaAt_2i_FCS-Epi_Rv_8B"
+    ],
+    "Assay Name": [
+      "20140924_Q1_SA_YaAt_2i_FCS-Epi_Rv_8B_Assay"
+    ],
+    "Raw Data File": [
+      "20140924_Q1_SA_YaAt_2i_FCS-Epi_Rv_8B.raw"
+    ],
+    "Characteristics[Organism]": [
+      "mouse embryonic stem cells (ESCs)"
+    ],
+    "Characteristics[CellLine]": [
+      "E14Tg2a ESCs (purchased from ATCC)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two biological replicates per sample"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC combination"
+    ],
+    "Characteristics[Label]": [
+      "label-free quantification (LFQ)"
+    ],
+    "Characteristics[MaterialType]": [
+      "ES cells"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap LC-MS (Thermo)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavages were allowed for trypsin enzyme cuts"
+    ],
+    "Comment[FractionIdentifier]": [
+      "8B"
+    ],
+    "FactorValue[Treatment]": [
+      "2i",
+      "FCS-Epi"
+    ]
+  },
+  "20141022_Q1_SA_YaAt_2i_FCS-Epi_3B.raw": {
+    "Source Name": [
+      "20141022_Q1_SA_YaAt_2i_FCS-Epi_3B"
+    ],
+    "Assay Name": [
+      "20141022_Q1_SA_YaAt_2i_FCS-Epi_3B_Assay"
+    ],
+    "Raw Data File": [
+      "20141022_Q1_SA_YaAt_2i_FCS-Epi_3B.raw"
+    ],
+    "Characteristics[Organism]": [
+      "mouse embryonic stem cells (ESCs)"
+    ],
+    "Characteristics[CellLine]": [
+      "E14Tg2a ESCs (purchased from ATCC)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two biological replicates per sample"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC combination"
+    ],
+    "Characteristics[Label]": [
+      "label-free quantification (LFQ)"
+    ],
+    "Characteristics[MaterialType]": [
+      "ES cells"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap LC-MS (Thermo)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavages were allowed for trypsin enzyme cuts"
+    ],
+    "Comment[FractionIdentifier]": [
+      "3B"
+    ],
+    "FactorValue[Treatment]": [
+      "2i",
+      "FCS-Epi"
+    ]
+  },
+  "20150105_Q1_SA_YaAt_ESC_proteome_1B.raw": {
+    "Source Name": [
+      "20150105_Q1_SA_YaAt_ESC_proteome_1B"
+    ],
+    "Assay Name": [
+      "20150105_Q1_SA_YaAt_ESC_proteome_1B_Assay"
+    ],
+    "Raw Data File": [
+      "20150105_Q1_SA_YaAt_ESC_proteome_1B.raw"
+    ],
+    "Characteristics[Organism]": [
+      "mouse embryonic stem cells (ESCs)"
+    ],
+    "Characteristics[CellLine]": [
+      "E14Tg2a ESCs (purchased from ATCC)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two biological replicates per sample"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC combination"
+    ],
+    "Characteristics[Label]": [
+      "label-free quantification (LFQ)"
+    ],
+    "Characteristics[MaterialType]": [
+      "ES cells"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap LC-MS (Thermo)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavages were allowed for trypsin enzyme cuts"
+    ],
+    "Comment[FractionIdentifier]": [
+      "1B"
+    ]
+  },
+  "20141022_Q1_SA_YaAt_2i_FCS-Epi_5A.raw": {
+    "Source Name": [
+      "20141022_Q1_SA_YaAt_2i_FCS-Epi_5A"
+    ],
+    "Assay Name": [
+      "20141022_Q1_SA_YaAt_2i_FCS-Epi_5A_Assay"
+    ],
+    "Raw Data File": [
+      "20141022_Q1_SA_YaAt_2i_FCS-Epi_5A.raw"
+    ],
+    "Characteristics[Organism]": [
+      "mouse embryonic stem cells (ESCs)"
+    ],
+    "Characteristics[CellLine]": [
+      "E14Tg2a ESCs (purchased from ATCC)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two biological replicates per sample"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC combination"
+    ],
+    "Characteristics[Label]": [
+      "label-free quantification (LFQ)"
+    ],
+    "Characteristics[MaterialType]": [
+      "ES cells"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap LC-MS (Thermo)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavages were allowed for trypsin enzyme cuts"
+    ],
+    "Comment[FractionIdentifier]": [
+      "5A"
+    ],
+    "FactorValue[Treatment]": [
+      "2i",
+      "FCS-Epi"
+    ]
+  },
+  "20150105_Q1_SA_YaAt_ESC_proteome_4A.raw": {
+    "Source Name": [
+      "20150105_Q1_SA_YaAt_ESC_proteome_4A"
+    ],
+    "Assay Name": [
+      "20150105_Q1_SA_YaAt_ESC_proteome_4A_Assay"
+    ],
+    "Raw Data File": [
+      "20150105_Q1_SA_YaAt_ESC_proteome_4A.raw"
+    ],
+    "Characteristics[Organism]": [
+      "mouse embryionic stem cells (ESCs)"
+    ],
+    "Characteristics[CellLine]": [
+      "E14Tg2a ESCs (purchased from ATCC)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two biological replicates per sample"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC combination"
+    ],
+    "Characteristics[Label]": [
+      "label-free quantification (LFQ)"
+    ],
+    "Characteristics[MaterialType]": [
+      "ES cells"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap LC-MS (Thermo)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavages were allowed for trypsin enzyme cuts"
+    ],
+    "Comment[FractionIdentifier]": [
+      "4A"
+    ]
+  },
+  "20150105_Q1_SA_YaAt_ESC_proteome_3C.raw": {
+    "Source Name": [
+      "20150105_Q1_SA_YaAt_ESC_proteome_3C"
+    ],
+    "Assay Name": [
+      "20150105_Q1_SA_YaAt_ESC_proteome_3C_Assay"
+    ],
+    "Raw Data File": [
+      "20150105_Q1_SA_YaAt_ESC_proteome_3C.raw"
+    ],
+    "Characteristics[Organism]": [
+      "mouse embryonic stem cells (ESCs)"
+    ],
+    "Characteristics[CellLine]": [
+      "E14Tg2a ESCs (purchased from ATCC)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two biological replicates per sample"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC combination"
+    ],
+    "Characteristics[Label]": [
+      "label-free quantification (LFQ)"
+    ],
+    "Characteristics[MaterialType]": [
+      "ES cells"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap LC-MS (Thermo)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavages were allowed for trypsin enzyme cuts"
+    ],
+    "Comment[FractionIdentifier]": [
+      "3C"
+    ]
+  },
+  "20141022_Q1_SA_YaAt_2i_FCS-Epi_2B.raw": {
+    "Source Name": [
+      "20141022_Q1_SA_YaAt_2i_FCS-Epi_2B"
+    ],
+    "Assay Name": [
+      "20141022_Q1_SA_YaAt_2i_FCS-Epi_2B_Assay"
+    ],
+    "Raw Data File": [
+      "20141022_Q1_SA_YaAt_2i_FCS-Epi_2B.raw"
+    ],
+    "Characteristics[Organism]": [
+      "mouse embryonic stem cells (ESCs)"
+    ],
+    "Characteristics[CellLine]": [
+      "E14Tg2a ESCs (purchased from ATCC)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two biological replicates per sample"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC combination"
+    ],
+    "Characteristics[Label]": [
+      "label-free quantification (LFQ)"
+    ],
+    "Characteristics[MaterialType]": [
+      "ES cells"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap LC-MS (Thermo)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavages were allowed for trypsin enzyme cuts"
+    ],
+    "Comment[FractionIdentifier]": [
+      "2B"
+    ],
+    "FactorValue[Treatment]": [
+      "2i",
+      "FCS-Epi"
+    ]
+  },
+  "20140924_Q1_SA_YaAt_2i_FCS-Epi_Rv_9C.raw": {
+    "Source Name": [
+      "20140924_Q1_SA_YaAt_2i_FCS-Epi_Rv_9C"
+    ],
+    "Assay Name": [
+      "20140924_Q1_SA_YaAt_2i_FCS-Epi_Rv_9C_Assay"
+    ],
+    "Raw Data File": [
+      "20140924_Q1_SA_YaAt_2i_FCS-Epi_Rv_9C.raw"
+    ],
+    "Characteristics[Organism]": [
+      "mouse embryonic stem cells (ESCs)"
+    ],
+    "Characteristics[CellLine]": [
+      "E14Tg2a ESCs (purchased from ATCC)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two biological replicates per sample"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC combination"
+    ],
+    "Characteristics[Label]": [
+      "label-free quantification (LFQ)"
+    ],
+    "Characteristics[MaterialType]": [
+      "ES cells"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap LC-MS (Thermo)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavages were allowed for trypsin enzyme cuts"
+    ],
+    "Comment[FractionIdentifier]": [
+      "9C"
+    ],
+    "FactorValue[Treatment]": [
+      "2i",
+      "FCS-Epi"
+    ]
+  },
+  "20141022_Q1_SA_YaAt_2i_FCS-Epi_2C.raw": {
+    "Source Name": [
+      "20141022_Q1_SA_YaAt_2i_FCS-Epi_2C"
+    ],
+    "Assay Name": [
+      "20141022_Q1_SA_YaAt_2i_FCS-Epi_2C_Assay"
+    ],
+    "Raw Data File": [
+      "20141022_Q1_SA_YaAt_2i_FCS-Epi_2C.raw"
+    ],
+    "Characteristics[Organism]": [
+      "mouse embryonic stem cells (ESCs)"
+    ],
+    "Characteristics[CellLine]": [
+      "E14Tg2a ESCs (purchased from ATCC)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two biological replicates per sample"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC combination"
+    ],
+    "Characteristics[Label]": [
+      "label-free quantification (LFQ)"
+    ],
+    "Characteristics[MaterialType]": [
+      "ES cells"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap LC-MS (Thermo)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavages were allowed for trypsin enzyme cuts"
+    ],
+    "Comment[FractionIdentifier]": [
+      "2C"
+    ],
+    "FactorValue[Treatment]": [
+      "2i",
+      "FCS-Epi"
+    ]
+  },
+  "20150105_Q1_SA_YaAt_ESC_proteome_2A.raw": {
+    "Source Name": [
+      "20150105_Q1_SA_YaAt_ESC_proteome_2A"
+    ],
+    "Assay Name": [
+      "20150105_Q1_SA_YaAt_ESC_proteome_2A_Assay"
+    ],
+    "Raw Data File": [
+      "20150105_Q1_SA_YaAt_ESC_proteome_2A.raw"
+    ],
+    "Characteristics[Organism]": [
+      "mouse embryonic stem cells (ESCs)"
+    ],
+    "Characteristics[CellLine]": [
+      "E14Tg2a ESCs (purchased from ATCC)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two biological replicates per sample"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC combination"
+    ],
+    "Characteristics[Label]": [
+      "label-free quantification (LFQ)"
+    ],
+    "Characteristics[MaterialType]": [
+      "ES cells"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap LC-MS (Thermo)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavages were allowed for trypsin enzyme cuts"
+    ],
+    "Comment[FractionIdentifier]": [
+      "2A"
+    ]
+  },
+  "20150105_Q1_SA_YaAt_ESC_proteome_3A.raw": {
+    "Source Name": [
+      "20150105_Q1_SA_YaAt_ESC_proteome_3A"
+    ],
+    "Assay Name": [
+      "20150105_Q1_SA_YaAt_ESC_proteome_3A_Assay"
+    ],
+    "Raw Data File": [
+      "20150105_Q1_SA_YaAt_ESC_proteome_3A.raw"
+    ],
+    "Characteristics[Organism]": [
+      "mouse embryonic stem cells (ESCs)"
+    ],
+    "Characteristics[CellLine]": [
+      "E14Tg2a ESCs (purchased from ATCC)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two biological replicates per sample"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC combination"
+    ],
+    "Characteristics[Label]": [
+      "label-free quantification (LFQ)"
+    ],
+    "Characteristics[MaterialType]": [
+      "ES cells"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap LC-MS (Thermo)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavages were allowed for trypsin enzyme cuts"
+    ],
+    "Comment[FractionIdentifier]": [
+      "3A"
+    ]
+  },
+  "20150105_Q1_SA_YaAt_ESC_proteome_7A.raw": {
+    "Source Name": [
+      "20150105_Q1_SA_YaAt_ESC_proteome_7A"
+    ],
+    "Assay Name": [
+      "20150105_Q1_SA_YaAt_ESC_proteome_7A_Assay"
+    ],
+    "Raw Data File": [
+      "20150105_Q1_SA_YaAt_ESC_proteome_7A.raw"
+    ],
+    "Characteristics[Organism]": [
+      "mouse embryonic stem cells (ESCs)"
+    ],
+    "Characteristics[CellLine]": [
+      "E14Tg2a ESCs (purchased from ATCC)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two biological replicates per sample"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC combination"
+    ],
+    "Characteristics[Label]": [
+      "label-free quantification (LFQ)"
+    ],
+    "Characteristics[MaterialType]": [
+      "ES cells"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap LC-MS (Thermo)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavages were allowed for trypsin enzyme cuts"
+    ],
+    "Comment[FractionIdentifier]": [
+      "7A"
+    ]
+  },
+  "20140924_Q1_SA_YaAt_2i_FCS-Epi_Rv_10C.raw": {
+    "Source Name": [
+      "20140924_Q1_SA_YaAt_2i_FCS-Epi_Rv_10C"
+    ],
+    "Assay Name": [
+      "20140924_Q1_SA_YaAt_2i_FCS-Epi_Rv_10C_Assay"
+    ],
+    "Raw Data File": [
+      "20140924_Q1_SA_YaAt_2i_FCS-Epi_Rv_10C.raw"
+    ],
+    "Characteristics[Organism]": [
+      "mouse embryonic stem cells (ESCs)"
+    ],
+    "Characteristics[CellLine]": [
+      "E14Tg2a ESCs (purchased from ATCC)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two biological replicates per sample"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC combination"
+    ],
+    "Characteristics[Label]": [
+      "label-free quantification (LFQ)"
+    ],
+    "Characteristics[MaterialType]": [
+      "ES cells"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap LC-MS (Thermo)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavages were allowed for trypsin enzyme cuts"
+    ],
+    "Comment[FractionIdentifier]": [
+      "10C"
+    ],
+    "FactorValue[Treatment]": [
+      "2i",
+      "FCS-Epi"
+    ]
+  },
+  "20140924_Q1_SA_YaAt_2i_FCS-Epi_Rv_10B.raw": {
+    "Source Name": [
+      "20140924_Q1_SA_YaAt_2i_FCS-Epi_Rv_10B"
+    ],
+    "Assay Name": [
+      "20140924_Q1_SA_YaAt_2i_FCS-Epi_Rv_10B_Assay"
+    ],
+    "Raw Data File": [
+      "20140924_Q1_SA_YaAt_2i_FCS-Epi_Rv_10B.raw"
+    ],
+    "Characteristics[Organism]": [
+      "mouse embryionic stem cells (ESCs)"
+    ],
+    "Characteristics[CellLine]": [
+      "E14Tg2a ESCs (purchased from ATCC)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two biological replicates per sample"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC combination"
+    ],
+    "Characteristics[Label]": [
+      "label-free quantification (LFQ)"
+    ],
+    "Characteristics[MaterialType]": [
+      "ES cells"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap LC-MS (Thermo)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavages were allowed for trypsin enzyme cuts"
+    ],
+    "Comment[FractionIdentifier]": [
+      "10B"
+    ],
+    "FactorValue[Treatment]": [
+      "2i",
+      "FCS-Epi"
+    ]
+  },
+  "20141022_Q1_SA_YaAt_2i_FCS-Epi_1A.raw": {
+    "Source Name": [
+      "20141022_Q1_SA_YaAt_2i_FCS-Epi_1A"
+    ],
+    "Assay Name": [
+      "20141022_Q1_SA_YaAt_2i_FCS-Epi_1A_Assay"
+    ],
+    "Raw Data File": [
+      "20141022_Q1_SA_YaAt_2i_FCS-Epi_1A.raw"
+    ],
+    "Characteristics[Organism]": [
+      "mouse embryonic stem cells (ESCs)"
+    ],
+    "Characteristics[CellLine]": [
+      "E14Tg2a ESCs (purchased from ATCC)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two biological replicates per sample"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC combination"
+    ],
+    "Characteristics[Label]": [
+      "label-free quantification (LFQ)"
+    ],
+    "Characteristics[MaterialType]": [
+      "ES cells"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap LC-MS (Thermo)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavages were allowed for trypsin enzyme cuts"
+    ],
+    "Comment[FractionIdentifier]": [
+      "1A"
+    ],
+    "FactorValue[Treatment]": [
+      "2i",
+      "FCS-Epi"
+    ]
+  },
+  "20140924_Q1_SA_YaAt_2i_FCS-Epi_Rv_11B.raw": {
+    "Source Name": [
+      "20140924_Q1_SA_YaAt_2i_FCS-Epi_Rv_11B"
+    ],
+    "Assay Name": [
+      "20140924_Q1_SA_YaAt_2i_FCS-Epi_Rv_11B_Assay"
+    ],
+    "Raw Data File": [
+      "20140924_Q1_SA_YaAt_2i_FCS-Epi_Rv_11B.raw"
+    ],
+    "Characteristics[Organism]": [
+      "mouse embryonic stem cells (ESCs)"
+    ],
+    "Characteristics[CellLine]": [
+      "E14Tg2a ESCs (purchased from ATCC)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two biological replicates per sample"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC combination"
+    ],
+    "Characteristics[Label]": [
+      "label-free quantification (LFQ)"
+    ],
+    "Characteristics[MaterialType]": [
+      "ES cells"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap LC-MS (Thermo)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavages were allowed for trypsin enzyme cuts"
+    ],
+    "Comment[FractionIdentifier]": [
+      "11B"
+    ],
+    "FactorValue[Treatment]": [
+      "2i",
+      "FCS-Epi"
+    ]
+  },
+  "20150105_Q1_SA_YaAt_ESC_proteome_2B.raw": {
+    "Source Name": [
+      "20150105_Q1_SA_YaAt_ESC_proteome_2B"
+    ],
+    "Assay Name": [
+      "20150105_Q1_SA_YaAt_ESC_proteome_2B_Assay"
+    ],
+    "Raw Data File": [
+      "20150105_Q1_SA_YaAt_ESC_proteome_2B.raw"
+    ],
+    "Characteristics[Organism]": [
+      "mouse embryonic stem cells (ESCs)"
+    ],
+    "Characteristics[CellLine]": [
+      "E14Tg2a ESCs (purchased from ATCC)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two biological replicates per sample"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC combination"
+    ],
+    "Characteristics[Label]": [
+      "label-free quantification (LFQ)"
+    ],
+    "Characteristics[MaterialType]": [
+      "ES cells"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap LC-MS (Thermo)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavages were allowed for trypsin enzyme cuts"
+    ],
+    "Comment[FractionIdentifier]": [
+      "2B"
+    ]
+  },
+  "20150105_Q1_SA_YaAt_ESC_proteome_7C.raw": {
+    "Source Name": [
+      "20150105_Q1_SA_YaAt_ESC_proteome_7C"
+    ],
+    "Assay Name": [
+      "20150105_Q1_SA_YaAt_ESC_proteome_7C_Assay"
+    ],
+    "Raw Data File": [
+      "20150105_Q1_SA_YaAt_ESC_proteome_7C.raw"
+    ],
+    "Characteristics[Organism]": [
+      "mouse embryonic stem cells (ESCs)"
+    ],
+    "Characteristics[CellLine]": [
+      "E14Tg2a ESCs (purchased from ATCC)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two biological replicates per sample"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC combination"
+    ],
+    "Characteristics[Label]": [
+      "label-free quantification (LFQ)"
+    ],
+    "Characteristics[MaterialType]": [
+      "ES cells"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap LC-MS (Thermo)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavages were allowed for trypsin enzyme cuts"
+    ],
+    "Comment[FractionIdentifier]": [
+      "7C"
+    ]
+  },
+  "20150105_Q1_SA_YaAt_ESC_proteome_4C.raw": {
+    "Source Name": [
+      "20150105_Q1_SA_YaAt_ESC_proteome_4C"
+    ],
+    "Assay Name": [
+      "20150105_Q1_SA_YaAt_ESC_proteome_4C_Assay"
+    ],
+    "Raw Data File": [
+      "20150105_Q1_SA_YaAt_ESC_proteome_4C.raw"
+    ],
+    "Characteristics[Organism]": [
+      "mouse embryonic stem cells (ESCs)"
+    ],
+    "Characteristics[CellLine]": [
+      "E14Tg2a ESCs (purchased from ATCC)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two biological replicates per sample"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC combination"
+    ],
+    "Characteristics[Label]": [
+      "label-free quantification (LFQ)"
+    ],
+    "Characteristics[MaterialType]": [
+      "ES cells"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap LC-MS (Thermo)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavages were allowed for trypsin enzyme cuts"
+    ],
+    "Comment[FractionIdentifier]": [
+      "4C"
+    ]
+  },
+  "20140924_Q1_SA_YaAt_2i_FCS-Epi_Rv_7C.raw": {
+    "Source Name": [
+      "20140924_Q1_SA_YaAt_2i_FCS-Epi_Rv_7C"
+    ],
+    "Assay Name": [
+      "20140924_Q1_SA_YaAt_2i_FCS-Epi_Rv_7C_Assay"
+    ],
+    "Raw Data File": [
+      "20140924_Q1_SA_YaAt_2i_FCS-Epi_Rv_7C.raw"
+    ],
+    "Characteristics[Organism]": [
+      "mouse embryionic stem cells (ESCs)"
+    ],
+    "Characteristics[CellLine]": [
+      "E14Tg2a ESCs (purchased from ATCC)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two biological replicates per sample"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC combination"
+    ],
+    "Characteristics[Label]": [
+      "label-free quantification (LFQ)"
+    ],
+    "Characteristics[MaterialType]": [
+      "ES cells"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap LC-MS (Thermo)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavages were allowed for trypsin enzyme cuts"
+    ],
+    "Comment[FractionIdentifier]": [
+      "7C"
+    ],
+    "FactorValue[Treatment]": [
+      "2i",
+      "FCS-Epi"
+    ]
+  },
+  "20140924_Q1_SA_YaAt_2i_FCS-Epi_Rv_7A.raw": {
+    "Source Name": [
+      "20140924_Q1_SA_YaAt_2i_FCS-Epi_Rv_7A"
+    ],
+    "Assay Name": [
+      "20140924_Q1_SA_YaAt_2i_FCS-Epi_Rv_7A_Assay"
+    ],
+    "Raw Data File": [
+      "20140924_Q1_SA_YaAt_2i_FCS-Epi_Rv_7A.raw"
+    ],
+    "Characteristics[Organism]": [
+      "mouse embryionic stem cells (ESCs)"
+    ],
+    "Characteristics[CellLine]": [
+      "E14Tg2a ESCs (purchased from ATCC)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two biological replicates per sample"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC combination"
+    ],
+    "Characteristics[Label]": [
+      "label-free quantification (LFQ)"
+    ],
+    "Characteristics[MaterialType]": [
+      "ES cells"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap LC-MS (Thermo)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavages were allowed for trypsin enzyme cuts"
+    ],
+    "Comment[FractionIdentifier]": [
+      "7A"
+    ],
+    "FactorValue[Treatment]": [
+      "2i",
+      "FCS-Epi"
+    ]
+  },
+  "20140917_Q1_SA_YaAt_exp3_2i_FCS-Epi_8A.raw": {
+    "Source Name": [
+      "20140917_Q1_SA_YaAt_exp3_2i_FCS-Epi_8A"
+    ],
+    "Assay Name": [
+      "20140917_Q1_SA_YaAt_exp3_2i_FCS-Epi_8A_Assay"
+    ],
+    "Raw Data File": [
+      "20140917_Q1_SA_YaAt_exp3_2i_FCS-Epi_8A.raw"
+    ],
+    "Characteristics[Organism]": [
+      "mouse embryonic stem cells (ESCs)"
+    ],
+    "Characteristics[CellLine]": [
+      "E14Tg2a ESCs (purchased from ATCC)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two biological replicates per sample"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC combination"
+    ],
+    "Characteristics[Label]": [
+      "label-free quantification (LFQ)"
+    ],
+    "Characteristics[MaterialType]": [
+      "ES cells"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap LC-MS (Thermo)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavages were allowed for trypsin enzyme cuts"
+    ],
+    "Comment[FractionIdentifier]": [
+      "8A"
+    ],
+    "FactorValue[Treatment]": [
+      "2i",
+      "FCS-Epi"
+    ]
+  },
+  "20140924_Q1_SA_YaAt_2i_FCS-Epi_Rv_11A.raw": {
+    "Source Name": [
+      "20140924_Q1_SA_YaAt_2i_FCS-Epi_Rv_11A"
+    ],
+    "Assay Name": [
+      "20140924_Q1_SA_YaAt_2i_FCS-Epi_Rv_11A_Assay"
+    ],
+    "Raw Data File": [
+      "20140924_Q1_SA_YaAt_2i_FCS-Epi_Rv_11A.raw"
+    ],
+    "Characteristics[Organism]": [
+      "mouse embryionic stem cells (ESCs)"
+    ],
+    "Characteristics[CellLine]": [
+      "E14Tg2a ESCs (purchased from ATCC)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two biological replicates per sample"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC combination"
+    ],
+    "Characteristics[Label]": [
+      "label-free quantification (LFQ)"
+    ],
+    "Characteristics[MaterialType]": [
+      "ES cells"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap LC-MS (Thermo)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavages were allowed for trypsin enzyme cuts"
+    ],
+    "Comment[FractionIdentifier]": [
+      "11A"
+    ],
+    "FactorValue[Treatment]": [
+      "2i",
+      "FCS-Epi"
+    ]
+  },
+  "20141022_Q1_SA_YaAt_2i_FCS-Epi_3A.raw": {
+    "Source Name": [
+      "20141022_Q1_SA_YaAt_2i_FCS-Epi_3A"
+    ],
+    "Assay Name": [
+      "20141022_Q1_SA_YaAt_2i_FCS-Epi_3A_Assay"
+    ],
+    "Raw Data File": [
+      "20141022_Q1_SA_YaAt_2i_FCS-Epi_3A.raw"
+    ],
+    "Characteristics[Organism]": [
+      "mouse embryionic stem cells (ESCs)"
+    ],
+    "Characteristics[CellLine]": [
+      "E14Tg2a ESCs (purchased from ATCC)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two biological replicates per sample"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC combination"
+    ],
+    "Characteristics[Label]": [
+      "label-free quantification (LFQ)"
+    ],
+    "Characteristics[MaterialType]": [
+      "ES cells"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap LC-MS (Thermo)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavages were allowed for trypsin enzyme cuts"
+    ],
+    "Comment[FractionIdentifier]": [
+      "3A"
+    ],
+    "FactorValue[Treatment]": [
+      "2i",
+      "FCS-Epi"
+    ]
+  },
+  "20141022_Q1_SA_YaAt_2i_FCS-Epi_4B.raw": {
+    "Source Name": [
+      "20141022_Q1_SA_YaAt_2i_FCS-Epi_4B"
+    ],
+    "Assay Name": [
+      "20141022_Q1_SA_YaAt_2i_FCS-Epi_4B_Assay"
+    ],
+    "Raw Data File": [
+      "20141022_Q1_SA_YaAt_2i_FCS-Epi_4B.raw"
+    ],
+    "Characteristics[Organism]": [
+      "mouse embryionic stem cells (ESCs)"
+    ],
+    "Characteristics[CellLine]": [
+      "E14Tg2a ESCs (purchased from ATCC)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two biological replicates per sample"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC combination"
+    ],
+    "Characteristics[Label]": [
+      "label-free quantification (LFQ)"
+    ],
+    "Characteristics[MaterialType]": [
+      "ES cells"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap LC-MS (Thermo)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavages were allowed for trypsin enzyme cuts"
+    ],
+    "Comment[FractionIdentifier]": [
+      "4B"
+    ],
+    "FactorValue[Treatment]": [
+      "2i",
+      "FCS-Epi"
+    ]
+  },
+  "20150105_Q1_SA_YaAt_ESC_proteome_7B.raw": {
+    "Source Name": [
+      "20150105_Q1_SA_YaAt_ESC_proteome_7B"
+    ],
+    "Assay Name": [
+      "20150105_Q1_SA_YaAt_ESC_proteome_7B_Assay"
+    ],
+    "Raw Data File": [
+      "20150105_Q1_SA_YaAt_ESC_proteome_7B.raw"
+    ],
+    "Characteristics[Organism]": [
+      "mouse embryionic stem cells (ESCs)"
+    ],
+    "Characteristics[CellLine]": [
+      "E14Tg2a ESCs (purchased from ATCC)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two biological replicates per sample"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC combination"
+    ],
+    "Characteristics[Label]": [
+      "label-free quantification (LFQ)"
+    ],
+    "Characteristics[MaterialType]": [
+      "ES cells"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap LC-MS (Thermo)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavages were allowed for trypsin enzyme cuts"
+    ],
+    "Comment[FractionIdentifier]": [
+      "7B"
+    ]
+  },
+  "20150105_Q1_SA_YaAt_ESC_proteome_1C.raw": {
+    "Source Name": [
+      "20150105_Q1_SA_YaAt_ESC_proteome_1C"
+    ],
+    "Assay Name": [
+      "20150105_Q1_SA_YaAt_ESC_proteome_1C_Assay"
+    ],
+    "Raw Data File": [
+      "20150105_Q1_SA_YaAt_ESC_proteome_1C.raw"
+    ],
+    "Characteristics[Organism]": [
+      "mouse embryionic stem cells (ESCs)"
+    ],
+    "Characteristics[CellLine]": [
+      "E14Tg2a ESCs (purchased from ATCC)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two biological replicates per sample"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC combination"
+    ],
+    "Characteristics[Label]": [
+      "label-free quantification (LFQ)"
+    ],
+    "Characteristics[MaterialType]": [
+      "ES cells"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap LC-MS (Thermo)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavages were allowed for trypsin enzyme cuts"
+    ],
+    "Comment[FractionIdentifier]": [
+      "1C"
+    ]
+  },
+  "20140924_Q1_SA_YaAt_2i_FCS-Epi_Rv_10A.raw": {
+    "Source Name": [
+      "20140924_Q1_SA_YaAt_2i_FCS-Epi_Rv_10A"
+    ],
+    "Assay Name": [
+      "20140924_Q1_SA_YaAt_2i_FCS-Epi_Rv_10A_Assay"
+    ],
+    "Raw Data File": [
+      "20140924_Q1_SA_YaAt_2i_FCS-Epi_Rv_10A.raw"
+    ],
+    "Characteristics[Organism]": [
+      "mouse embryionic stem cells (ESCs)"
+    ],
+    "Characteristics[CellLine]": [
+      "E14Tg2a ESCs (purchased from ATCC)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two biological replicates per sample"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC combination"
+    ],
+    "Characteristics[Label]": [
+      "label-free quantification (LFQ)"
+    ],
+    "Characteristics[MaterialType]": [
+      "ES cells"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap LC-MS (Thermo)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavages were allowed for trypsin enzyme cuts"
+    ],
+    "Comment[FractionIdentifier]": [
+      "10A"
+    ],
+    "FactorValue[Treatment]": [
+      "2i",
+      "FCS-Epi"
+    ]
+  },
+  "20141022_Q1_SA_YaAt_2i_FCS-Epi_6C.raw": {
+    "Source Name": [
+      "20141022_Q1_SA_YaAt_2i_FCS-Epi_6C"
+    ],
+    "Assay Name": [
+      "20141022_Q1_SA_YaAt_2i_FCS-Epi_6C_Assay"
+    ],
+    "Raw Data File": [
+      "20141022_Q1_SA_YaAt_2i_FCS-Epi_6C.raw"
+    ],
+    "Characteristics[Organism]": [
+      "mouse embryionic stem cells (ESCs)"
+    ],
+    "Characteristics[CellLine]": [
+      "E14Tg2a ESCs (purchased from ATCC)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two biological replicates per sample"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC combination"
+    ],
+    "Characteristics[Label]": [
+      "label-free quantification (LFQ)"
+    ],
+    "Characteristics[MaterialType]": [
+      "ES cells"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap LC-MS (Thermo)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavages were allowed for trypsin enzyme cuts"
+    ],
+    "Comment[FractionIdentifier]": [
+      "6C"
+    ],
+    "FactorValue[Treatment]": [
+      "2i",
+      "FCS-Epi"
+    ]
+  },
+  "20150105_Q1_SA_YaAt_ESC_proteome_2C.raw": {
+    "Source Name": [
+      "20150105_Q1_SA_YaAt_ESC_proteome_2C"
+    ],
+    "Assay Name": [
+      "20150105_Q1_SA_YaAt_ESC_proteome_2C_Assay"
+    ],
+    "Raw Data File": [
+      "20150105_Q1_SA_YaAt_ESC_proteome_2C.raw"
+    ],
+    "Characteristics[Organism]": [
+      "mouse embryionic stem cells (ESCs)"
+    ],
+    "Characteristics[CellLine]": [
+      "E14Tg2a ESCs (purchased from ATCC)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two biological replicates per sample"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC combination"
+    ],
+    "Characteristics[Label]": [
+      "label-free quantification (LFQ)"
+    ],
+    "Characteristics[MaterialType]": [
+      "ES cells"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap LC-MS (Thermo)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavages were allowed for trypsin enzyme cuts"
+    ],
+    "Comment[FractionIdentifier]": [
+      "2C"
+    ]
+  },
+  "20140924_Q1_SA_YaAt_2i_FCS-Epi_Rv_9B.raw": {
+    "Source Name": [
+      "20140924_Q1_SA_YaAt_2i_FCS-Epi_Rv_9B"
+    ],
+    "Assay Name": [
+      "20140924_Q1_SA_YaAt_2i_FCS-Epi_Rv_9B_Assay"
+    ],
+    "Raw Data File": [
+      "20140924_Q1_SA_YaAt_2i_FCS-Epi_Rv_9B.raw"
+    ],
+    "Characteristics[Organism]": [
+      "mouse embryionic stem cells (ESCs)"
+    ],
+    "Characteristics[CellLine]": [
+      "E14Tg2a ESCs (purchased from ATCC)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two biological replicates per sample"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC combination"
+    ],
+    "Characteristics[Label]": [
+      "label-free quantification (LFQ)"
+    ],
+    "Characteristics[MaterialType]": [
+      "ES cells"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap LC-MS (Thermo)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavages were allowed for trypsin enzyme cuts"
+    ],
+    "Comment[FractionIdentifier]": [
+      "9B"
+    ],
+    "FactorValue[Treatment]": [
+      "2i",
+      "FCS-Epi"
+    ]
+  },
+  "20150105_Q1_SA_YaAt_ESC_proteome_4B.raw": {
+    "Source Name": [
+      "20150105_Q1_SA_YaAt_ESC_proteome_4B"
+    ],
+    "Assay Name": [
+      "20150105_Q1_SA_YaAt_ESC_proteome_4B_Assay"
+    ],
+    "Raw Data File": [
+      "20150105_Q1_SA_YaAt_ESC_proteome_4B.raw"
+    ],
+    "Characteristics[Organism]": [
+      "mouse embryionic stem cells (ESCs)"
+    ],
+    "Characteristics[CellLine]": [
+      "E14Tg2a ESCs (purchased from ATCC)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two biological replicates per sample"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC combination"
+    ],
+    "Characteristics[Label]": [
+      "label-free quantification (LFQ)"
+    ],
+    "Characteristics[MaterialType]": [
+      "ES cells"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap LC-MS (Thermo)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavages were allowed for trypsin enzyme cuts"
+    ],
+    "Comment[FractionIdentifier]": [
+      "4B"
+    ]
+  },
+  "20150105_Q1_SA_YaAt_ESC_proteome_1A.raw": {
+    "Source Name": [
+      "20150105_Q1_SA_YaAt_ESC_proteome_1A"
+    ],
+    "Assay Name": [
+      "20150105_Q1_SA_YaAt_ESC_proteome_1A_Assay"
+    ],
+    "Raw Data File": [
+      "20150105_Q1_SA_YaAt_ESC_proteome_1A.raw"
+    ],
+    "Characteristics[Organism]": [
+      "mouse embryionic stem cells (ESCs)"
+    ],
+    "Characteristics[CellLine]": [
+      "E14Tg2a ESCs (purchased from ATCC)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two biological replicates per sample"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC combination"
+    ],
+    "Characteristics[Label]": [
+      "label-free quantification (LFQ)"
+    ],
+    "Characteristics[MaterialType]": [
+      "ES cells"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap LC-MS (Thermo)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavages were allowed for trypsin enzyme cuts"
+    ],
+    "Comment[FractionIdentifier]": [
+      "1A"
+    ]
+  },
+  "20140924_Q1_SA_YaAt_2i_FCS-Epi_Rv_8C.raw": {
+    "Source Name": [
+      "20140924_Q1_SA_YaAt_2i_FCS-Epi_Rv_8C"
+    ],
+    "Assay Name": [
+      "20140924_Q1_SA_YaAt_2i_FCS-Epi_Rv_8C_Assay"
+    ],
+    "Raw Data File": [
+      "20140924_Q1_SA_YaAt_2i_FCS-Epi_Rv_8C.raw"
+    ],
+    "Characteristics[Organism]": [
+      "mouse embryionic stem cells (ESCs)"
+    ],
+    "Characteristics[CellLine]": [
+      "E14Tg2a ESCs (purchased from ATCC)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two biological replicates per sample"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC combination"
+    ],
+    "Characteristics[Label]": [
+      "label-free quantification (LFQ)"
+    ],
+    "Characteristics[MaterialType]": [
+      "ES cells"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap LC-MS (Thermo)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavages were allowed for trypsin enzyme cuts"
+    ],
+    "Comment[FractionIdentifier]": [
+      "8C"
+    ],
+    "FactorValue[Treatment]": [
+      "2i",
+      "FCS-Epi"
+    ]
+  },
+  "20141022_Q1_SA_YaAt_2i_FCS-Epi_5B.raw": {
+    "Source Name": [
+      "20141022_Q1_SA_YaAt_2i_FCS-Epi_5B"
+    ],
+    "Assay Name": [
+      "20141022_Q1_SA_YaAt_2i_FCS-Epi_5B_Assay"
+    ],
+    "Raw Data File": [
+      "20141022_Q1_SA_YaAt_2i_FCS-Epi_5B.raw"
+    ],
+    "Characteristics[Organism]": [
+      "mouse embryionic stem cells (ESCs)"
+    ],
+    "Characteristics[CellLine]": [
+      "E14Tg2a ESCs (purchased from ATCC)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two biological replicates per sample"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC combination"
+    ],
+    "Characteristics[Label]": [
+      "label-free quantification (LFQ)"
+    ],
+    "Characteristics[MaterialType]": [
+      "ES cells"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap LC-MS (Thermo)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavages were allowed for trypsin enzyme cuts"
+    ],
+    "Comment[FractionIdentifier]": [
+      "5B"
+    ],
+    "FactorValue[Treatment]": [
+      "2i",
+      "FCS-Epi"
+    ]
+  },
+  "20141022_Q1_SA_YaAt_2i_FCS-Epi_1C.raw": {
+    "Source Name": [
+      "20141022_Q1_SA_YaAt_2i_FCS-Epi_1C"
+    ],
+    "Assay Name": [
+      "20141022_Q1_SA_YaAt_2i_FCS-Epi_1C_Assay"
+    ],
+    "Raw Data File": [
+      "20141022_Q1_SA_YaAt_2i_FCS-Epi_1C.raw"
+    ],
+    "Characteristics[Organism]": [
+      "mouse embryionic stem cells (ESCs)"
+    ],
+    "Characteristics[CellLine]": [
+      "E14Tg2a ESCs (purchased from ATCC)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two biological replicates per sample"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC combination"
+    ],
+    "Characteristics[Label]": [
+      "label-free quantification (LFQ)"
+    ],
+    "Characteristics[MaterialType]": [
+      "ES cells"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap LC-MS (Thermo)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavages were allowed for trypsin enzyme cuts"
+    ],
+    "Comment[FractionIdentifier]": [
+      "1C"
+    ],
+    "FactorValue[Treatment]": [
+      "2i",
+      "FCS-Epi"
+    ]
+  },
+  "20141022_Q1_SA_YaAt_2i_FCS-Epi_4A.raw": {
+    "Source Name": [
+      "20141022_Q1_SA_YaAt_2i_FCS-Epi_4A"
+    ],
+    "Assay Name": [
+      "20141022_Q1_SA_YaAt_2i_FCS-Epi_4A_Assay"
+    ],
+    "Raw Data File": [
+      "20141022_Q1_SA_YaAt_2i_FCS-Epi_4A.raw"
+    ],
+    "Characteristics[Organism]": [
+      "mouse embryionic stem cells (ESCs)"
+    ],
+    "Characteristics[CellLine]": [
+      "E14Tg2a ESCs (purchased from ATCC)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two biological replicates per sample"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC combination"
+    ],
+    "Characteristics[Label]": [
+      "label-free quantification (LFQ)"
+    ],
+    "Characteristics[MaterialType]": [
+      "ES cells"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap LC-MS (Thermo)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavages were allowed for trypsin enzyme cuts"
+    ],
+    "Comment[FractionIdentifier]": [
+      "4A"
+    ],
+    "FactorValue[Treatment]": [
+      "2i",
+      "FCS-Epi"
+    ]
+  },
+  "20140924_Q1_SA_YaAt_2i_FCS-Epi_Rv_7B.raw": {
+    "Source Name": [
+      "20140924_Q1_SA_YaAt_2i_FCS-Epi_Rv_7B"
+    ],
+    "Assay Name": [
+      "20140924_Q1_SA_YaAt_2i_FCS-Epi_Rv_7B_Assay"
+    ],
+    "Raw Data File": [
+      "20140924_Q1_SA_YaAt_2i_FCS-Epi_Rv_7B.raw"
+    ],
+    "Characteristics[Organism]": [
+      "mouse embryionic stem cells (ESCs)"
+    ],
+    "Characteristics[CellLine]": [
+      "E14Tg2a ESCs (purchased from ATCC)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two biological replicates per sample"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC combination"
+    ],
+    "Characteristics[Label]": [
+      "label-free quantification (LFQ)"
+    ],
+    "Characteristics[MaterialType]": [
+      "ES cells"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap LC-MS (Thermo)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavages were allowed for trypsin enzyme cuts"
+    ],
+    "Comment[FractionIdentifier]": [
+      "7B"
+    ],
+    "FactorValue[Treatment]": [
+      "2i",
+      "FCS-Epi"
+    ]
+  },
+  "20150105_Q1_SA_YaAt_ESC_proteome_3B.raw": {
+    "Source Name": [
+      "20150105_Q1_SA_YaAt_ESC_proteome_3B"
+    ],
+    "Assay Name": [
+      "20150105_Q1_SA_YaAt_ESC_proteome_3B_Assay"
+    ],
+    "Raw Data File": [
+      "20150105_Q1_SA_YaAt_ESC_proteome_3B.raw"
+    ],
+    "Characteristics[Organism]": [
+      "mouse embryionic stem cells (ESCs)"
+    ],
+    "Characteristics[CellLine]": [
+      "E14Tg2a ESCs (purchased from ATCC)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two biological replicates per sample"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC combination"
+    ],
+    "Characteristics[Label]": [
+      "label-free quantification (LFQ)"
+    ],
+    "Characteristics[MaterialType]": [
+      "ES cells"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap LC-MS (Thermo)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavages were allowed for trypsin enzyme cuts"
+    ],
+    "Comment[FractionIdentifier]": [
+      "3B"
+    ]
+  },
+  "20141022_Q1_SA_YaAt_2i_FCS-Epi_4C.raw": {
+    "Source Name": [
+      "20141022_Q1_SA_YaAt_2i_FCS-Epi_4C"
+    ],
+    "Assay Name": [
+      "20141022_Q1_SA_YaAt_2i_FCS-Epi_4C_Assay"
+    ],
+    "Raw Data File": [
+      "20141022_Q1_SA_YaAt_2i_FCS-Epi_4C.raw"
+    ],
+    "Characteristics[Organism]": [
+      "mouse embryionic stem cells (ESCs)"
+    ],
+    "Characteristics[CellLine]": [
+      "E14Tg2a ESCs (purchased from ATCC)"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two biological replicates per sample"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC combination"
+    ],
+    "Characteristics[Label]": [
+      "label-free quantification (LFQ)"
+    ],
+    "Characteristics[MaterialType]": [
+      "ES cells"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap LC-MS (Thermo)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavages were allowed for trypsin enzyme cuts"
+    ],
+    "Comment[FractionIdentifier]": [
+      "4C"
+    ],
+    "FactorValue[Treatment]": [
+      "2i",
+      "FCS-Epi"
+    ]
+  }
+}

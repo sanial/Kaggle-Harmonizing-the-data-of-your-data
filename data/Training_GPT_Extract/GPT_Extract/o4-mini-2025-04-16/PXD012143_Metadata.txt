@@ -1,0 +1,50 @@
+Organism: Plasmodium falciparum  
+DevelopmentalStage: asexual blood stage  
+Compound: Cyclic AMP (cAMP)  
+AssayName: quantitative mass spectrometry  
+AssayName: flow cytometry–based analysis  
+AssayName: western blot  
+Treatment: 100 nM RAP  
+Compound: RAP  
+ConcentrationOfCompound: 100 nM RAP  
+Compound: DMSO  
+ConcentrationOfCompound: 1% v/v DMSO  
+Compound: saponin  
+ConcentrationOfCompound: 0.15% w/v saponin  
+Compound: 4-[7-[(dimethylamino)methyl]-2-(4-fluorphenyl)imidazo[1,2-α]pyridine-3-yl]pyrimidin-2-amine (compound 2 or C2)  
+ConcentrationOfCompound: 1.5 μM C2  
+GeneticModification: marker-free CRISPR-associated protein 9 (Cas9)-mediated genome editing  
+GeneticModification: selection-linked integration (SLI)  
+OrganismPart: human erythrocytes  
+SourceName: National Blood Transfusion Service, UK  
+FractionationMethod: 70% Percoll cushion  
+Time: 1–2 h  
+Time: 2–4 h  
+CleavageAgent: LysC  
+CleavageAgent: trypsin  
+AlkylationReagent: iodoacetamide  
+ConcentrationOfCompound: 20 mM iodoacetamide  
+ReductionReagent: dithiothreitol  
+ConcentrationOfCompound: 10 mM dithiothreitol  
+EnrichmentMethod: High Select TiO2 enrichment kit  
+EnrichmentMethod: Fe-NTA enrichment kit  
+Label: Tandem Mass Tag 10plex isobaric reagent kit  
+Instrument: Orbitrap Fusion Lumos  
+AssayName: tandem mass spectrometry  
+GradientTime: 3-h gradient  
+NumberOfTechnicalReplicates: Two replicate injections  
+NumberOfMissedCleavages: two missed cleavages  
+AssayName: differential interference contrast (DIC) microscopy  
+AssayName: transmission electron microscopy (TEM)  
+AssayName: flow cytometry  
+Instrument: Jasco J-815 spectropolarimeter  
+AssayName: Far-UV CD spectra  
+Temperature: 25°C  
+Instrument: Bruker 600-MHz spectrometer  
+Instrument: Bruker 700-MHz spectrometer  
+Instrument: Bruker 800-MHz spectrometer  
+AssayName: NMR spectroscopy  
+MaterialType: uniformly 15N- and 13C-labelled samples  
+Organism: Escherichia coli BL21  
+DevelopmentalStage: ring-stage cultures  
+DevelopmentalStage: segmented schizonts

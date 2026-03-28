@@ -1,0 +1,83 @@
+AssayName: proteomics sample preparation  
+MaterialType: single FFPE tissue slices  
+Compound: acid-labile surfactant  
+CleavageAgent: direct trypsinization  
+Compound: RapiGest  
+AssayName: direct trypsinization (DTR) strategy  
+AssayName: filter aided sample preparation (FASP) protocol  
+AssayName: label-free, quantitative liquid chromatography–tandem mass spectrometry (LC–MS/MS)  
+Staining: hematoxylin & eosin (H&E)  
+Staining: hematoxylin and hemalaun  
+NumberOfBiologicalReplicates: Four  
+Organism: murine  
+OrganismPart: kidney tissue specimens  
+AssayName: DTR approach  
+AssayName: FASP protocol  
+FractionIdentifier: 10 k filter devices  
+FractionIdentifier: 30 k filter devices  
+Sex: male  
+Age: 6-months old  
+Strain: C57 black 6 mouse  
+GeneticModification: lacking cathepsin L (Ctsl−/−)  
+SampleTreatment: formalin fixation and paraffin embedding  
+FractionIdentifier: 10 µm thick sections  
+SampleTreatment: deparaffinization  
+Compound: xylol  
+Compound: 99% ethanol  
+Compound: 96% ethanol  
+Compound: 70% ethanol  
+Compound: 50% ethanol  
+SampleTreatment: rehydration  
+Compound: distilled water  
+NumberOfSamples: Twelve single kidney tissue slices  
+FractionIdentifier: 5 µm thick sections  
+SampleTreatment: hematoxylin staining  
+SamplingTime: 4 min  
+Compound: hematoxylin solution modified acc. to Gill III  
+Compound: acetic acid in aqueous solution  
+Compound: water  
+SampleTreatment: H&E staining  
+Compound: eosin  
+SamplingTime: 1 min  
+SampleTreatment: Hemalaun staining  
+Compound: Mayer’s acid Hemalaun solution  
+SamplingTime: 5 min  
+ConcentrationOfCompound: 0.1% RapiGest SF  
+Compound: RapiGest SF  
+ConcentrationOfCompound: 0.1 M HEPES  
+FactorValue: pH 8  
+Compound: dithiothreitol (DTT)  
+ConcentrationOfCompound: 1 mM dithiothreitol  
+Instrument: TS1 ThermoShaker  
+Temperature: 95 °C  
+SamplingTime: 4 h  
+Instrument: biorupter  
+Time: 5 s  
+Time: 10 s  
+FactorValue: pH 7–8  
+CleavageAgent: Sequencing grade trypsin  
+ConcentrationOfCompound: 2 µg per mm3 tissue  
+Temperature: 37 °C  
+SamplingTime: over night  
+SamplingTime: 15 min  
+ConcentrationOfCompound: 10 mM DTT  
+ConcentrationOfCompound: 30 mM iodacetamide  
+ConcentrationOfCompound: 3 M guanidinium chloride  
+FactorValue: pH < 3  
+Compound: hydrochloric acid  
+SamplingTime: 30 min  
+Instrument: centrifugal vacuum concentrator  
+Temperature: −80 °C  
+ConcentrationOfCompound: 15 µg of peptides per sample  
+EnrichmentMethod: C18 STAGE tips  
+Instrument: Orbitrap Q-Exactive plus  
+Instrument: Easy nanoLC 1000  
+FlowRateChromatogram: 300 nl/min  
+ConcentrationOfCompound: 0.3% acetic acid  
+ConcentrationOfCompound: 80% acetonitrile  
+GradientTime: 90 min  
+Instrument: Acclaim PepMap column  
+MaterialType: 2 µm particle size  
+MaterialType: 100 Å pore size  
+MaterialType: 150 mm  
+MaterialType: 50 µm

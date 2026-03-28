@@ -1,0 +1,43 @@
+AssayName: shotgun proteomics  
+AssayName: tandem mass spectrometry (MS/MS)  
+AssayName: LC-ESI-MS/MS  
+AssayName: LC-MS2  
+AssayName: LC-MS/MS techniques  
+CellLine: HEK293 cells  
+Organism: Mus Musculus cross (C57BL/6 × 129/sv; house mouse)  
+Strain: C57BL/6 × 129/sv  
+MaterialType: DMEM media  
+FractionationMethod: basic pH reverse phase fractionation  
+NumberOfFractions: 96 fractions  
+NumberOfFractions: 24  
+GradientTime: 3 hr gradient  
+FlowRateChromatogram: 0.8 mL/min  
+FlowRateChromatogram: ∼300 nL/min  
+ReductionReagent: 5 mM dithiothreitol  
+AlkylationReagent: 10 mM iodoacetamide  
+ConcentrationOfCompound: 8 M urea  
+ConcentrationOfCompound: 50 mM Tris (pH 8.5)  
+ConcentrationOfCompound: 1 × Roche protease inhibitors  
+ConcentrationOfCompound: 4 M urea  
+ConcentrationOfCompound: 1.5M urea  
+CleavageAgent: Lys-C  
+CleavageAgent: trypsin  
+Time: 30 minutes  
+Time: 15 minutes  
+Time: overnight at room temperature  
+Time: 4 hour digestion  
+Temperature: 56ºC  
+Temperature: room temperature  
+Temperature: ice cold  
+SampleTreatment: methanol/chloroform precipitated  
+Instrument: LTQ Orbitrap Elite  
+Instrument: Q-Exactive Orbitrap mass spectrometer  
+IonizationType: electrospray ionization  
+PrecursorMassTolerance: 5 ppm  
+PrecursorMassTolerance: 500 Da  
+FragmentMassTolerance: 0.01 Da  
+CollisionEnergy: 35%  
+CollisionEnergy: 25%  
+TechnicalReplicate: triplicate  
+NumberOfMissedCleavages: 1  
+FragmentationMethod: HCD-MS2

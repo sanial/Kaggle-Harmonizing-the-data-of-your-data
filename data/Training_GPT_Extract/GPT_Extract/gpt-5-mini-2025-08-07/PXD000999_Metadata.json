@@ -1,0 +1,532 @@
+{
+  "20131106_Q2_SDC_120MIN_HELA2.raw": {
+    "Source Name": [
+      "Source_HELA2"
+    ],
+    "Assay Name": [
+      "Assay_20131106_Q2_SDC_120MIN_HELA2"
+    ],
+    "Raw Data File": [
+      "20131106_Q2_SDC_120MIN_HELA2.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HeLa cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "Three separate cell pellets were lysed with ProteaseMAX™ Surfactant (0.1% w/v) in aqueous ammonium bicarbonate (50 mm) mixed with acetonitrile at a ratio of 9:1 (v:v) as previously described."
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three separate cell pellets were lysed"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "HELA2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm of DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Q Exactive mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "in a data-dependent manner",
+      "top-20 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "25 V of normalized collisional energy"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "±20 ppm",
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "two-hour gradient",
+      "150 min LC-MS/MS experiment"
+    ],
+    "Comment[Separation]": [
+      "single-dimensional LC-MS/MS shotgun experiments"
+    ],
+    "FactorValue[Experimental]": [
+      "four different isolation widths: ±1.0, ±2.0, ±3.0, and ±4.0 Th"
+    ],
+    "Comment[GradientTime_file_token]": [
+      "120MIN"
+    ]
+  },
+  "20131202_hela1_120min_2MZ.raw": {
+    "Source Name": [
+      "Source_HELA1"
+    ],
+    "Assay Name": [
+      "Assay_20131202_hela1_120min_2MZ"
+    ],
+    "Raw Data File": [
+      "20131202_hela1_120min_2MZ.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HeLa cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "Three separate cell pellets were lysed with ProteaseMAX™ Surfactant (0.1% w/v) in aqueous ammonium bicarbonate (50 mm) mixed with acetonitrile at a ratio of 9:1 (v:v) as previously described."
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three separate cell pellets were lysed"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "hela1"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "2MZ"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm of DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Q Exactive mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "in a data-dependent manner",
+      "top-20 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "25 V of normalized collisional energy"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "±20 ppm",
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "two-hour gradient",
+      "150 min LC-MS/MS experiment"
+    ],
+    "Comment[Separation]": [
+      "single-dimensional LC-MS/MS shotgun experiments"
+    ],
+    "FactorValue[Experimental]": [
+      "four different isolation widths: ±1.0, ±2.0, ±3.0, and ±4.0 Th"
+    ],
+    "Comment[GradientTime_file_token]": [
+      "120min"
+    ]
+  },
+  "20131106_Q2_SDC_120MIN_HELA1.raw": {
+    "Source Name": [
+      "Source_HELA1"
+    ],
+    "Assay Name": [
+      "Assay_20131106_Q2_SDC_120MIN_HELA1"
+    ],
+    "Raw Data File": [
+      "20131106_Q2_SDC_120MIN_HELA1.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HeLa cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "Three separate cell pellets were lysed with ProteaseMAX™ Surfactant (0.1% w/v) in aqueous ammonium bicarbonate (50 mm) mixed with acetonitrile at a ratio of 9:1 (v:v) as previously described."
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three separate cell pellets were lysed"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "HELA1"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm of DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Q Exactive mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "in a data-dependent manner",
+      "top-20 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "25 V of normalized collisional energy"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "±20 ppm",
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "two-hour gradient",
+      "150 min LC-MS/MS experiment"
+    ],
+    "Comment[Separation]": [
+      "single-dimensional LC-MS/MS shotgun experiments"
+    ],
+    "FactorValue[Experimental]": [
+      "four different isolation widths: ±1.0, ±2.0, ±3.0, and ±4.0 Th"
+    ],
+    "Comment[GradientTime_file_token]": [
+      "120MIN"
+    ]
+  },
+  "20131202_hela1_120min_6MZ.raw": {
+    "Source Name": [
+      "Source_HELA1"
+    ],
+    "Assay Name": [
+      "Assay_20131202_hela1_120min_6MZ"
+    ],
+    "Raw Data File": [
+      "20131202_hela1_120min_6MZ.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HeLa cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "Three separate cell pellets were lysed with ProteaseMAX™ Surfactant (0.1% w/v) in aqueous ammonium bicarbonate (50 mm) mixed with acetonitrile at a ratio of 9:1 (v:v) as previously described."
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three separate cell pellets were lysed"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "hela1"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "6MZ"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm of DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Q Exactive mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "in a data-dependent manner",
+      "top-20 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "25 V of normalized collisional energy"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "±20 ppm",
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "two-hour gradient",
+      "150 min LC-MS/MS experiment"
+    ],
+    "Comment[Separation]": [
+      "single-dimensional LC-MS/MS shotgun experiments"
+    ],
+    "FactorValue[Experimental]": [
+      "four different isolation widths: ±1.0, ±2.0, ±3.0, and ±4.0 Th"
+    ],
+    "Comment[GradientTime_file_token]": [
+      "120min"
+    ]
+  },
+  "20131106_Q2_SDC_120MIN_HELA3.raw": {
+    "Source Name": [
+      "Source_HELA3"
+    ],
+    "Assay Name": [
+      "Assay_20131106_Q2_SDC_120MIN_HELA3"
+    ],
+    "Raw Data File": [
+      "20131106_Q2_SDC_120MIN_HELA3.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HeLa cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "Three separate cell pellets were lysed with ProteaseMAX™ Surfactant (0.1% w/v) in aqueous ammonium bicarbonate (50 mm) mixed with acetonitrile at a ratio of 9:1 (v:v) as previously described."
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three separate cell pellets were lysed"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "HELA3"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm of DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Q Exactive mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "in a data-dependent manner",
+      "top-20 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "25 V of normalized collisional energy"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "±20 ppm",
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "two-hour gradient",
+      "150 min LC-MS/MS experiment"
+    ],
+    "Comment[Separation]": [
+      "single-dimensional LC-MS/MS shotgun experiments"
+    ],
+    "FactorValue[Experimental]": [
+      "four different isolation widths: ±1.0, ±2.0, ±3.0, and ±4.0 Th"
+    ],
+    "Comment[GradientTime_file_token]": [
+      "120MIN"
+    ]
+  },
+  "20131202_hela1_120min_131202214433.raw": {
+    "Source Name": [
+      "Source_HELA1"
+    ],
+    "Assay Name": [
+      "Assay_20131202_hela1_120min_131202214433"
+    ],
+    "Raw Data File": [
+      "20131202_hela1_120min_131202214433.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HeLa cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "Three separate cell pellets were lysed with ProteaseMAX™ Surfactant (0.1% w/v) in aqueous ammonium bicarbonate (50 mm) mixed with acetonitrile at a ratio of 9:1 (v:v) as previously described."
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three separate cell pellets were lysed"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "hela1"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "131202214433"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm of DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Q Exactive mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "in a data-dependent manner",
+      "top-20 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "25 V of normalized collisional energy"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "±20 ppm",
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "two-hour gradient",
+      "150 min LC-MS/MS experiment"
+    ],
+    "Comment[Separation]": [
+      "single-dimensional LC-MS/MS shotgun experiments"
+    ],
+    "FactorValue[Experimental]": [
+      "four different isolation widths: ±1.0, ±2.0, ±3.0, and ±4.0 Th"
+    ],
+    "Comment[GradientTime_file_token]": [
+      "120min"
+    ]
+  },
+  "20131202_hela1_120min_8MZ.raw": {
+    "Source Name": [
+      "Source_HELA1"
+    ],
+    "Assay Name": [
+      "Assay_20131202_hela1_120min_8MZ"
+    ],
+    "Raw Data File": [
+      "20131202_hela1_120min_8MZ.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HeLa cell line"
+    ],
+    "Characteristics[Specimen]": [
+      "Three separate cell pellets were lysed with ProteaseMAX™ Surfactant (0.1% w/v) in aqueous ammonium bicarbonate (50 mm) mixed with acetonitrile at a ratio of 9:1 (v:v) as previously described."
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Three separate cell pellets were lysed"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "hela1"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "8MZ"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mm of DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Q Exactive mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "in a data-dependent manner",
+      "top-20 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "25 V of normalized collisional energy"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "±20 ppm",
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "250 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "two-hour gradient",
+      "150 min LC-MS/MS experiment"
+    ],
+    "Comment[Separation]": [
+      "single-dimensional LC-MS/MS shotgun experiments"
+    ],
+    "FactorValue[Experimental]": [
+      "four different isolation widths: ±1.0, ±2.0, ±3.0, and ±4.0 Th"
+    ],
+    "Comment[GradientTime_file_token]": [
+      "120min"
+    ]
+  }
+}

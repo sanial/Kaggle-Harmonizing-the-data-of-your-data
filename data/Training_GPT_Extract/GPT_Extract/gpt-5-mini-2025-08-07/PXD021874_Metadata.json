@@ -1,0 +1,3435 @@
+{
+  "20190606_StS_H53_Cyt_Try_Rep2.raw": {
+    "Source Name": [
+      "H53_Cyt"
+    ],
+    "Assay Name": [
+      "20190606_StS_H53_Cyt_Try_Rep2"
+    ],
+    "Raw Data File": [
+      "20190606_StS_H53_Cyt_Try_Rep2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Hfx. volcanii",
+      "Hfx. volcanii H53"
+    ],
+    "Characteristics[OrganismPart]": [
+      "cytosol (Cyt)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep2"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UPLC (Thermo Fisher Scientific) coupled via a nanospray source to a Q-Exactive HFX tandem MS (Thermo Fisher Scientific) operated in positive ion mode."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD fragmentation with stepped normalized collision energy (25, 30, and 35 NCE)"
+    ],
+    "Comment[GradientTime]": [
+      "A 60-minute gradient was used"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 400 μL mL−1"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "a precursor mass tolerance of +/−10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "a fragment mass tolerance of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2 and 3 missed cleavages were allowed for data derived from samples digested with Trypsin and GluC, respectively"
+    ],
+    "Comment[Separation]": [
+      "in-house packed column (75 μm i.d. × 25 cm fused silica capillary packed with 3 μm ReproSil-Pur C18 beads (Dr. Maisch))"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "20 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide"
+    ]
+  },
+  "20190604_StS_H53_Cyt_Try_Rep1.raw": {
+    "Source Name": [
+      "H53_Cyt"
+    ],
+    "Assay Name": [
+      "20190604_StS_H53_Cyt_Try_Rep1"
+    ],
+    "Raw Data File": [
+      "20190604_StS_H53_Cyt_Try_Rep1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Hfx. volcanii",
+      "Hfx. volcanii H53"
+    ],
+    "Characteristics[OrganismPart]": [
+      "cytosol (Cyt)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep1"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UPLC (Thermo Fisher Scientific) coupled via a nanospray source to a Q-Exactive HFX tandem MS (Thermo Fisher Scientific) operated in positive ion mode."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD fragmentation with stepped normalized collision energy (25, 30, and 35 NCE)"
+    ],
+    "Comment[GradientTime]": [
+      "A 60-minute gradient was used"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 400 μL mL−1"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "a precursor mass tolerance of +/−10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "a fragment mass tolerance of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2 and 3 missed cleavages were allowed for data derived from samples digested with Trypsin and GluC, respectively"
+    ],
+    "Comment[Separation]": [
+      "in-house packed column (75 μm i.d. × 25 cm fused silica capillary packed with 3 μm ReproSil-Pur C18 beads (Dr. Maisch))"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "20 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide"
+    ]
+  },
+  "20190606_StS_Agl15_Mem_GluC_Rep2.raw": {
+    "Source Name": [
+      "Agl15_Mem"
+    ],
+    "Assay Name": [
+      "20190606_StS_Agl15_Mem_GluC_Rep2"
+    ],
+    "Raw Data File": [
+      "20190606_StS_Agl15_Mem_GluC_Rep2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Hfx. volcanii"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Δagl15"
+    ],
+    "Characteristics[OrganismPart]": [
+      "membrane (Mem)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "GluC"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep2"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UPLC (Thermo Fisher Scientific) coupled via a nanospray source to a Q-Exactive HFX tandem MS (Thermo Fisher Scientific) operated in positive ion mode."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD fragmentation with stepped normalized collision energy (25, 30, and 35 NCE)"
+    ],
+    "Comment[GradientTime]": [
+      "A 60-minute gradient was used"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 400 μL mL−1"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "a precursor mass tolerance of +/−10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "a fragment mass tolerance of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2 and 3 missed cleavages were allowed for data derived from samples digested with Trypsin and GluC, respectively"
+    ],
+    "Comment[Separation]": [
+      "in-house packed column (75 μm i.d. × 25 cm fused silica capillary packed with 3 μm ReproSil-Pur C18 beads (Dr. Maisch))"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "20 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide"
+    ]
+  },
+  "20190606_StS_AglB_SN_Try_Rep2.raw": {
+    "Source Name": [
+      "AglB_SN"
+    ],
+    "Assay Name": [
+      "20190606_StS_AglB_SN_Try_Rep2"
+    ],
+    "Raw Data File": [
+      "20190606_StS_AglB_SN_Try_Rep2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Hfx. volcanii"
+    ],
+    "Characteristics[GeneticModification]": [
+      "ΔaglB"
+    ],
+    "Characteristics[OrganismPart]": [
+      "culture supernatant (SN)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep2"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UPLC (Thermo Fisher Scientific) coupled via a nanospray source to a Q-Exactive HFX tandem MS (Thermo Fisher Scientific) operated in positive ion mode."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD fragmentation with stepped normalized collision energy (25, 30, and 35 NCE)"
+    ],
+    "Comment[GradientTime]": [
+      "A 60-minute gradient was used"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 400 μL mL−1"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "a precursor mass tolerance of +/−10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "a fragment mass tolerance of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2 and 3 missed cleavages were allowed for data derived from samples digested with Trypsin and GluC, respectively"
+    ],
+    "Comment[Separation]": [
+      "in-house packed column (75 μm i.d. × 25 cm fused silica capillary packed with 3 μm ReproSil-Pur C18 beads (Dr. Maisch))"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "20 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide"
+    ]
+  },
+  "20190607_StS_H53_Cyt_Try_Rep3.raw": {
+    "Source Name": [
+      "H53_Cyt"
+    ],
+    "Assay Name": [
+      "20190607_StS_H53_Cyt_Try_Rep3"
+    ],
+    "Raw Data File": [
+      "20190607_StS_H53_Cyt_Try_Rep3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Hfx. volcanii",
+      "Hfx. volcanii H53"
+    ],
+    "Characteristics[OrganismPart]": [
+      "cytosol (Cyt)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep3"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UPLC (Thermo Fisher Scientific) coupled via a nanospray source to a Q-Exactive HFX tandem MS (Thermo Fisher Scientific) operated in positive ion mode."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD fragmentation with stepped normalized collision energy (25, 30, and 35 NCE)"
+    ],
+    "Comment[GradientTime]": [
+      "A 60-minute gradient was used"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 400 μL mL−1"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "a precursor mass tolerance of +/−10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "a fragment mass tolerance of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2 and 3 missed cleavages were allowed for data derived from samples digested with Trypsin and GluC, respectively"
+    ],
+    "Comment[Separation]": [
+      "in-house packed column (75 μm i.d. × 25 cm fused silica capillary packed with 3 μm ReproSil-Pur C18 beads (Dr. Maisch))"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "20 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide"
+    ]
+  },
+  "20190604_StS_H53_Cyt_GluC_Rep1.raw": {
+    "Source Name": [
+      "H53_Cyt"
+    ],
+    "Assay Name": [
+      "20190604_StS_H53_Cyt_GluC_Rep1"
+    ],
+    "Raw Data File": [
+      "20190604_StS_H53_Cyt_GluC_Rep1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Hfx. volcanii",
+      "Hfx. volcanii H53"
+    ],
+    "Characteristics[OrganismPart]": [
+      "cytosol (Cyt)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "GluC"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep1"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UPLC (Thermo Fisher Scientific) coupled via a nanospray source to a Q-Exactive HFX tandem MS (Thermo Fisher Scientific) operated in positive ion mode."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD fragmentation with stepped normalized collision energy (25, 30, and 35 NCE)"
+    ],
+    "Comment[GradientTime]": [
+      "A 60-minute gradient was used"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 400 μL mL−1"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "a precursor mass tolerance of +/−10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "a fragment mass tolerance of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2 and 3 missed cleavages were allowed for data derived from samples digested with Trypsin and GluC, respectively"
+    ],
+    "Comment[Separation]": [
+      "in-house packed column (75 μm i.d. × 25 cm fused silica capillary packed with 3 μm ReproSil-Pur C18 beads (Dr. Maisch))"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "20 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide"
+    ]
+  },
+  "20190607_StS_Agl15_SN_Try_Rep3.raw": {
+    "Source Name": [
+      "Agl15_SN"
+    ],
+    "Assay Name": [
+      "20190607_StS_Agl15_SN_Try_Rep3"
+    ],
+    "Raw Data File": [
+      "20190607_StS_Agl15_SN_Try_Rep3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Hfx. volcanii"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Δagl15"
+    ],
+    "Characteristics[OrganismPart]": [
+      "culture supernatant (SN)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep3"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UPLC (Thermo Fisher Scientific) coupled via a nanospray source to a Q-Exactive HFX tandem MS (Thermo Fisher Scientific) operated in positive ion mode."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD fragmentation with stepped normalized collision energy (25, 30, and 35 NCE)"
+    ],
+    "Comment[GradientTime]": [
+      "A 60-minute gradient was used"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 400 μL mL−1"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "a precursor mass tolerance of +/−10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "a fragment mass tolerance of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2 and 3 missed cleavages were allowed for data derived from samples digested with Trypsin and GluC, respectively"
+    ],
+    "Comment[Separation]": [
+      "in-house packed column (75 μm i.d. × 25 cm fused silica capillary packed with 3 μm ReproSil-Pur C18 beads (Dr. Maisch))"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "20 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide"
+    ]
+  },
+  "20190606_StS_Agl15_SN_Try_Rep2.raw": {
+    "Source Name": [
+      "Agl15_SN"
+    ],
+    "Assay Name": [
+      "20190606_StS_Agl15_SN_Try_Rep2"
+    ],
+    "Raw Data File": [
+      "20190606_StS_Agl15_SN_Try_Rep2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Hfx. volcanii"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Δagl15"
+    ],
+    "Characteristics[OrganismPart]": [
+      "culture supernatant (SN)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep2"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UPLC (Thermo Fisher Scientific) coupled via a nanospray source to a Q-Exactive HFX tandem MS (Thermo Fisher Scientific) operated in positive ion mode."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD fragmentation with stepped normalized collision energy (25, 30, and 35 NCE)"
+    ],
+    "Comment[GradientTime]": [
+      "A 60-minute gradient was used"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 400 μL mL−1"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "a precursor mass tolerance of +/−10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "a fragment mass tolerance of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2 and 3 missed cleavages were allowed for data derived from samples digested with Trypsin and GluC, respectively"
+    ],
+    "Comment[Separation]": [
+      "in-house packed column (75 μm i.d. × 25 cm fused silica capillary packed with 3 μm ReproSil-Pur C18 beads (Dr. Maisch))"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "20 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide"
+    ]
+  },
+  "20190606_StS_H53_Cyt_GluC_Rep2.raw": {
+    "Source Name": [
+      "H53_Cyt"
+    ],
+    "Assay Name": [
+      "20190606_StS_H53_Cyt_GluC_Rep2"
+    ],
+    "Raw Data File": [
+      "20190606_StS_H53_Cyt_GluC_Rep2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Hfx. volcanii",
+      "Hfx. volcanii H53"
+    ],
+    "Characteristics[OrganismPart]": [
+      "cytosol (Cyt)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "GluC"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep2"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UPLC (Thermo Fisher Scientific) coupled via a nanospray source to a Q-Exactive HFX tandem MS (Thermo Fisher Scientific) operated in positive ion mode."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD fragmentation with stepped normalized collision energy (25, 30, and 35 NCE)"
+    ],
+    "Comment[GradientTime]": [
+      "A 60-minute gradient was used"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 400 μL mL−1"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "a precursor mass tolerance of +/−10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "a fragment mass tolerance of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2 and 3 missed cleavages were allowed for data derived from samples digested with Trypsin and GluC, respectively"
+    ],
+    "Comment[Separation]": [
+      "in-house packed column (75 μm i.d. × 25 cm fused silica capillary packed with 3 μm ReproSil-Pur C18 beads (Dr. Maisch))"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "20 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide"
+    ]
+  },
+  "20190604_StS_Agl15_Mem_GluC_Rep1.raw": {
+    "Source Name": [
+      "Agl15_Mem"
+    ],
+    "Assay Name": [
+      "20190604_StS_Agl15_Mem_GluC_Rep1"
+    ],
+    "Raw Data File": [
+      "20190604_StS_Agl15_Mem_GluC_Rep1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Hfx. volcanii"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Δagl15"
+    ],
+    "Characteristics[OrganismPart]": [
+      "membrane (Mem)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "GluC"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep1"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UPLC (Thermo Fisher Scientific) coupled via a nanospray source to a Q-Exactive HFX tandem MS (Thermo Fisher Scientific) operated in positive ion mode."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD fragmentation with stepped normalized collision energy (25, 30, and 35 NCE)"
+    ],
+    "Comment[GradientTime]": [
+      "A 60-minute gradient was used"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 400 μL mL−1"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "a precursor mass tolerance of +/−10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "a fragment mass tolerance of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2 and 3 missed cleavages were allowed for data derived from samples digested with Trypsin and GluC, respectively"
+    ],
+    "Comment[Separation]": [
+      "in-house packed column (75 μm i.d. × 25 cm fused silica capillary packed with 3 μm ReproSil-Pur C18 beads (Dr. Maisch))"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "20 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide"
+    ]
+  },
+  "20190607_StS_AglB_Cyt_GluC_Rep3.raw": {
+    "Source Name": [
+      "AglB_Cyt"
+    ],
+    "Assay Name": [
+      "20190607_StS_AglB_Cyt_GluC_Rep3"
+    ],
+    "Raw Data File": [
+      "20190607_StS_AglB_Cyt_GluC_Rep3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Hfx. volcanii"
+    ],
+    "Characteristics[GeneticModification]": [
+      "ΔaglB"
+    ],
+    "Characteristics[OrganismPart]": [
+      "cytosol (Cyt)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "GluC"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep3"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UPLC (Thermo Fisher Scientific) coupled via a nanospray source to a Q-Exactive HFX tandem MS (Thermo Fisher Scientific) operated in positive ion mode."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD fragmentation with stepped normalized collision energy (25, 30, and 35 NCE)"
+    ],
+    "Comment[GradientTime]": [
+      "A 60-minute gradient was used"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 400 μL mL−1"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "a precursor mass tolerance of +/−10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "a fragment mass tolerance of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2 and 3 missed cleavages were allowed for data derived from samples digested with Trypsin and GluC, respectively"
+    ],
+    "Comment[Separation]": [
+      "in-house packed column (75 μm i.d. × 25 cm fused silica capillary packed with 3 μm ReproSil-Pur C18 beads (Dr. Maisch))"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "20 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide"
+    ]
+  },
+  "20190604_StS_AglB_Mem_GluC_Rep1.raw": {
+    "Source Name": [
+      "AglB_Mem"
+    ],
+    "Assay Name": [
+      "20190604_StS_AglB_Mem_GluC_Rep1"
+    ],
+    "Raw Data File": [
+      "20190604_StS_AglB_Mem_GluC_Rep1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Hfx. volcanii"
+    ],
+    "Characteristics[GeneticModification]": [
+      "ΔaglB"
+    ],
+    "Characteristics[OrganismPart]": [
+      "membrane (Mem)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "GluC"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep1"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UPLC (Thermo Fisher Scientific) coupled via a nanospray source to a Q-Exactive HFX tandem MS (Thermo Fisher Scientific) operated in positive ion mode."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD fragmentation with stepped normalized collision energy (25, 30, and 35 NCE)"
+    ],
+    "Comment[GradientTime]": [
+      "A 60-minute gradient was used"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 400 μL mL−1"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "a precursor mass tolerance of +/−10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "a fragment mass tolerance of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2 and 3 missed cleavages were allowed for data derived from samples digested with Trypsin and GluC, respectively"
+    ],
+    "Comment[Separation]": [
+      "in-house packed column (75 μm i.d. × 25 cm fused silica capillary packed with 3 μm ReproSil-Pur C18 beads (Dr. Maisch))"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "20 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide"
+    ]
+  },
+  "20190321_StS_H53_Mem_GluC_stepped.raw": {
+    "Source Name": [
+      "H53_Mem"
+    ],
+    "Assay Name": [
+      "20190321_StS_H53_Mem_GluC_stepped"
+    ],
+    "Raw Data File": [
+      "20190321_StS_H53_Mem_GluC_stepped.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Hfx. volcanii",
+      "Hfx. volcanii H53"
+    ],
+    "Characteristics[OrganismPart]": [
+      "membrane (Mem)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "GluC"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "stepped"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UPLC (Thermo Fisher Scientific) coupled via a nanospray source to a Q-Exactive HFX tandem MS (Thermo Fisher Scientific) operated in positive ion mode."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD fragmentation with stepped normalized collision energy (25, 30, and 35 NCE)"
+    ],
+    "Comment[GradientTime]": [
+      "A 60-minute gradient was used"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 400 μL mL−1"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "a precursor mass tolerance of +/−10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "a fragment mass tolerance of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2 and 3 missed cleavages were allowed for data derived from samples digested with Trypsin and GluC, respectively"
+    ],
+    "Comment[Separation]": [
+      "in-house packed column (75 μm i.d. × 25 cm fused silica capillary packed with 3 μm ReproSil-Pur C18 beads (Dr. Maisch))"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "20 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide"
+    ]
+  },
+  "20190321_StS_H53_Cyt_GluC_stepped.raw": {
+    "Source Name": [
+      "H53_Cyt"
+    ],
+    "Assay Name": [
+      "20190321_StS_H53_Cyt_GluC_stepped"
+    ],
+    "Raw Data File": [
+      "20190321_StS_H53_Cyt_GluC_stepped.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Hfx. volcanii",
+      "Hfx. volcanii H53"
+    ],
+    "Characteristics[OrganismPart]": [
+      "cytosol (Cyt)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "GluC"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "stepped"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UPLC (Thermo Fisher Scientific) coupled via a nanospray source to a Q-Exactive HFX tandem MS (Thermo Fisher Scientific) operated in positive ion mode."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD fragmentation with stepped normalized collision energy (25, 30, and 35 NCE)"
+    ],
+    "Comment[GradientTime]": [
+      "A 60-minute gradient was used"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 400 μL mL−1"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "a precursor mass tolerance of +/−10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "a fragment mass tolerance of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2 and 3 missed cleavages were allowed for data derived from samples digested with Trypsin and GluC, respectively"
+    ],
+    "Comment[Separation]": [
+      "in-house packed column (75 μm i.d. × 25 cm fused silica capillary packed with 3 μm ReproSil-Pur C18 beads (Dr. Maisch))"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "20 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide"
+    ]
+  },
+  "20190606_StS_Agl15_Mem_Try_Rep2.raw": {
+    "Source Name": [
+      "Agl15_Mem"
+    ],
+    "Assay Name": [
+      "20190606_StS_Agl15_Mem_Try_Rep2"
+    ],
+    "Raw Data File": [
+      "20190606_StS_Agl15_Mem_Try_Rep2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Hfx. volcanii"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Δagl15"
+    ],
+    "Characteristics[OrganismPart]": [
+      "membrane (Mem)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep2"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UPLC (Thermo Fisher Scientific) coupled via a nanospray source to a Q-Exactive HFX tandem MS (Thermo Fisher Scientific) operated in positive ion mode."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD fragmentation with stepped normalized collision energy (25, 30, and 35 NCE)"
+    ],
+    "Comment[GradientTime]": [
+      "A 60-minute gradient was used"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 400 μL mL−1"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "a precursor mass tolerance of +/−10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "a fragment mass tolerance of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2 and 3 missed cleavages were allowed for data derived from samples digested with Trypsin and GluC, respectively"
+    ],
+    "Comment[Separation]": [
+      "in-house packed column (75 μm i.d. × 25 cm fused silica capillary packed with 3 μm ReproSil-Pur C18 beads (Dr. Maisch))"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "20 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide"
+    ]
+  },
+  "20190607_StS_Agl15_Cyt_Try_Rep3.raw": {
+    "Source Name": [
+      "Agl15_Cyt"
+    ],
+    "Assay Name": [
+      "20190607_StS_Agl15_Cyt_Try_Rep3"
+    ],
+    "Raw Data File": [
+      "20190607_StS_Agl15_Cyt_Try_Rep3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Hfx. volcanii"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Δagl15"
+    ],
+    "Characteristics[OrganismPart]": [
+      "cytosol (Cyt)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep3"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UPLC (Thermo Fisher Scientific) coupled via a nanospray source to a Q-Exactive HFX tandem MS (Thermo Fisher Scientific) operated in positive ion mode."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD fragmentation with stepped normalized collision energy (25, 30, and 35 NCE)"
+    ],
+    "Comment[GradientTime]": [
+      "A 60-minute gradient was used"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 400 μL mL−1"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "a precursor mass tolerance of +/−10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "a fragment mass tolerance of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2 and 3 missed cleavages were allowed for data derived from samples digested with Trypsin and GluC, respectively"
+    ],
+    "Comment[Separation]": [
+      "in-house packed column (75 μm i.d. × 25 cm fused silica capillary packed with 3 μm ReproSil-Pur C18 beads (Dr. Maisch))"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "20 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide"
+    ]
+  },
+  "20190321_StS_H53_Cyt_Try_stepped.raw": {
+    "Source Name": [
+      "H53_Cyt"
+    ],
+    "Assay Name": [
+      "20190321_StS_H53_Cyt_Try_stepped"
+    ],
+    "Raw Data File": [
+      "20190321_StS_H53_Cyt_Try_stepped.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Hfx. volcanii",
+      "Hfx. volcanii H53"
+    ],
+    "Characteristics[OrganismPart]": [
+      "cytosol (Cyt)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "stepped"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UPLC (Thermo Fisher Scientific) coupled via a nanospray source to a Q-Exactive HFX tandem MS (Thermo Fisher Scientific) operated in positive ion mode."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD fragmentation with stepped normalized collision energy (25, 30, and 35 NCE)"
+    ],
+    "Comment[GradientTime]": [
+      "A 60-minute gradient was used"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 400 μL mL−1"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "a precursor mass tolerance of +/−10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "a fragment mass tolerance of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2 and 3 missed cleavages were allowed for data derived from samples digested with Trypsin and GluC, respectively"
+    ],
+    "Comment[Separation]": [
+      "in-house packed column (75 μm i.d. × 25 cm fused silica capillary packed with 3 μm ReproSil-Pur C18 beads (Dr. Maisch))"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "20 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide"
+    ]
+  },
+  "20190606_StS_Agl15_SN_GluC_Rep2.raw": {
+    "Source Name": [
+      "Agl15_SN"
+    ],
+    "Assay Name": [
+      "20190606_StS_Agl15_SN_GluC_Rep2"
+    ],
+    "Raw Data File": [
+      "20190606_StS_Agl15_SN_GluC_Rep2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Hfx. volcanii"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Δagl15"
+    ],
+    "Characteristics[OrganismPart]": [
+      "culture supernatant (SN)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "GluC"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep2"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UPLC (Thermo Fisher Scientific) coupled via a nanospray source to a Q-Exactive HFX tandem MS (Thermo Fisher Scientific) operated in positive ion mode."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD fragmentation with stepped normalized collision energy (25, 30, and 35 NCE)"
+    ],
+    "Comment[GradientTime]": [
+      "A 60-minute gradient was used"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 400 μL mL−1"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "a precursor mass tolerance of +/−10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "a fragment mass tolerance of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2 and 3 missed cleavages were allowed for data derived from samples digested with Trypsin and GluC, respectively"
+    ],
+    "Comment[Separation]": [
+      "in-house packed column (75 μm i.d. × 25 cm fused silica capillary packed with 3 μm ReproSil-Pur C18 beads (Dr. Maisch))"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "20 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide"
+    ]
+  },
+  "20190607_StS_AglB_Cyt_Try_Rep3.raw": {
+    "Source Name": [
+      "AglB_Cyt"
+    ],
+    "Assay Name": [
+      "20190607_StS_AglB_Cyt_Try_Rep3"
+    ],
+    "Raw Data File": [
+      "20190607_StS_AglB_Cyt_Try_Rep3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Hfx. volcanii"
+    ],
+    "Characteristics[GeneticModification]": [
+      "ΔaglB"
+    ],
+    "Characteristics[OrganismPart]": [
+      "cytosol (Cyt)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep3"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UPLC (Thermo Fisher Scientific) coupled via a nanospray source to a Q-Exactive HFX tandem MS (Thermo Fisher Scientific) operated in positive ion mode."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD fragmentation with stepped normalized collision energy (25, 30, and 35 NCE)"
+    ],
+    "Comment[GradientTime]": [
+      "A 60-minute gradient was used"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 400 μL mL−1"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "a precursor mass tolerance of +/−10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "a fragment mass tolerance of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2 and 3 missed cleavages were allowed for data derived from samples digested with Trypsin and GluC, respectively"
+    ],
+    "Comment[Separation]": [
+      "in-house packed column (75 μm i.d. × 25 cm fused silica capillary packed with 3 μm ReproSil-Pur C18 beads (Dr. Maisch))"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "20 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide"
+    ]
+  },
+  "20190607_StS_H53_SN_Try_Rep3.raw": {
+    "Source Name": [
+      "H53_SN"
+    ],
+    "Assay Name": [
+      "20190607_StS_H53_SN_Try_Rep3"
+    ],
+    "Raw Data File": [
+      "20190607_StS_H53_SN_Try_Rep3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Hfx. volcanii",
+      "Hfx. volcanii H53"
+    ],
+    "Characteristics[OrganismPart]": [
+      "culture supernatant (SN)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep3"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UPLC (Thermo Fisher Scientific) coupled via a nanospray source to a Q-Exactive HFX tandem MS (Thermo Fisher Scientific) operated in positive ion mode."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD fragmentation with stepped normalized collision energy (25, 30, and 35 NCE)"
+    ],
+    "Comment[GradientTime]": [
+      "A 60-minute gradient was used"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 400 μL mL−1"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "a precursor mass tolerance of +/−10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "a fragment mass tolerance of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2 and 3 missed cleavages were allowed for data derived from samples digested with Trypsin and GluC, respectively"
+    ],
+    "Comment[Separation]": [
+      "in-house packed column (75 μm i.d. × 25 cm fused silica capillary packed with 3 μm ReproSil-Pur C18 beads (Dr. Maisch))"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "20 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide"
+    ]
+  },
+  "20190606_StS_AglB_Mem_GluC_Rep2.raw": {
+    "Source Name": [
+      "AglB_Mem"
+    ],
+    "Assay Name": [
+      "20190606_StS_AglB_Mem_GluC_Rep2"
+    ],
+    "Raw Data File": [
+      "20190606_StS_AglB_Mem_GluC_Rep2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Hfx. volcanii"
+    ],
+    "Characteristics[GeneticModification]": [
+      "ΔaglB"
+    ],
+    "Characteristics[OrganismPart]": [
+      "membrane (Mem)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "GluC"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep2"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UPLC (Thermo Fisher Scientific) coupled via a nanospray source to a Q-Exactive HFX tandem MS (Thermo Fisher Scientific) operated in positive ion mode."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD fragmentation with stepped normalized collision energy (25, 30, and 35 NCE)"
+    ],
+    "Comment[GradientTime]": [
+      "A 60-minute gradient was used"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 400 μL mL−1"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "a precursor mass tolerance of +/−10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "a fragment mass tolerance of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2 and 3 missed cleavages were allowed for data derived from samples digested with Trypsin and GluC, respectively"
+    ],
+    "Comment[Separation]": [
+      "in-house packed column (75 μm i.d. × 25 cm fused silica capillary packed with 3 μm ReproSil-Pur C18 beads (Dr. Maisch))"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "20 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide"
+    ]
+  },
+  "20190606_StS_AglB_Mem_Try_Rep2.raw": {
+    "Source Name": [
+      "AglB_Mem"
+    ],
+    "Assay Name": [
+      "20190606_StS_AglB_Mem_Try_Rep2"
+    ],
+    "Raw Data File": [
+      "20190606_StS_AglB_Mem_Try_Rep2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Hfx. volcanii"
+    ],
+    "Characteristics[GeneticModification]": [
+      "ΔaglB"
+    ],
+    "Characteristics[OrganismPart]": [
+      "membrane (Mem)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep2"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UPLC (Thermo Fisher Scientific) coupled via a nanospray source to a Q-Exactive HFX tandem MS (Thermo Fisher Scientific) operated in positive ion mode."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD fragmentation with stepped normalized collision energy (25, 30, and 35 NCE)"
+    ],
+    "Comment[GradientTime]": [
+      "A 60-minute gradient was used"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 400 μL mL−1"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "a precursor mass tolerance of +/−10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "a fragment mass tolerance of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2 and 3 missed cleavages were allowed for data derived from samples digested with Trypsin and GluC, respectively"
+    ],
+    "Comment[Separation]": [
+      "in-house packed column (75 μm i.d. × 25 cm fused silica capillary packed with 3 μm ReproSil-Pur C18 beads (Dr. Maisch))"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "20 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide"
+    ]
+  },
+  "20190607_StS_AglB_Mem_Try_Rep3.raw": {
+    "Source Name": [
+      "AglB_Mem"
+    ],
+    "Assay Name": [
+      "20190607_StS_AglB_Mem_Try_Rep3"
+    ],
+    "Raw Data File": [
+      "20190607_StS_AglB_Mem_Try_Rep3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Hfx. volcanii"
+    ],
+    "Characteristics[GeneticModification]": [
+      "ΔaglB"
+    ],
+    "Characteristics[OrganismPart]": [
+      "membrane (Mem)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep3"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UPLC (Thermo Fisher Scientific) coupled via a nanospray source to a Q-Exactive HFX tandem MS (Thermo Fisher Scientific) operated in positive ion mode."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD fragmentation with stepped normalized collision energy (25, 30, and 35 NCE)"
+    ],
+    "Comment[GradientTime]": [
+      "A 60-minute gradient was used"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 400 μL mL−1"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "a precursor mass tolerance of +/−10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "a fragment mass tolerance of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2 and 3 missed cleavages were allowed for data derived from samples digested with Trypsin and GluC, respectively"
+    ],
+    "Comment[Separation]": [
+      "in-house packed column (75 μm i.d. × 25 cm fused silica capillary packed with 3 μm ReproSil-Pur C18 beads (Dr. Maisch))"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "20 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide"
+    ]
+  },
+  "20190607_StS_Agl15_Cyt_GluC_Rep3.raw": {
+    "Source Name": [
+      "Agl15_Cyt"
+    ],
+    "Assay Name": [
+      "20190607_StS_Agl15_Cyt_GluC_Rep3"
+    ],
+    "Raw Data File": [
+      "20190607_StS_Agl15_Cyt_GluC_Rep3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Hfx. volcanii"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Δagl15"
+    ],
+    "Characteristics[OrganismPart]": [
+      "cytosol (Cyt)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "GluC"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep3"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UPLC (Thermo Fisher Scientific) coupled via a nanospray source to a Q-Exactive HFX tandem MS (Thermo Fisher Scientific) operated in positive ion mode."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD fragmentation with stepped normalized collision energy (25, 30, and 35 NCE)"
+    ],
+    "Comment[GradientTime]": [
+      "A 60-minute gradient was used"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 400 μL mL−1"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "a precursor mass tolerance of +/−10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "a fragment mass tolerance of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2 and 3 missed cleavages were allowed for data derived from samples digested with Trypsin and GluC, respectively"
+    ],
+    "Comment[Separation]": [
+      "in-house packed column (75 μm i.d. × 25 cm fused silica capillary packed with 3 μm ReproSil-Pur C18 beads (Dr. Maisch))"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "20 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide"
+    ]
+  },
+  "20190321_StS_H53_SN_GluC_stepped.raw": {
+    "Source Name": [
+      "H53_SN"
+    ],
+    "Assay Name": [
+      "20190321_StS_H53_SN_GluC_stepped"
+    ],
+    "Raw Data File": [
+      "20190321_StS_H53_SN_GluC_stepped.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Hfx. volcanii",
+      "Hfx. volcanii H53"
+    ],
+    "Characteristics[OrganismPart]": [
+      "culture supernatant (SN)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "GluC"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "stepped"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UPLC (Thermo Fisher Scientific) coupled via a nanospray source to a Q-Exactive HFX tandem MS (Thermo Fisher Scientific) operated in positive ion mode."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD fragmentation with stepped normalized collision energy (25, 30, and 35 NCE)"
+    ],
+    "Comment[GradientTime]": [
+      "A 60-minute gradient was used"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 400 μL mL−1"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "a precursor mass tolerance of +/−10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "a fragment mass tolerance of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2 and 3 missed cleavages were allowed for data derived from samples digested with Trypsin and GluC, respectively"
+    ],
+    "Comment[Separation]": [
+      "in-house packed column (75 μm i.d. × 25 cm fused silica capillary packed with 3 μm ReproSil-Pur C18 beads (Dr. Maisch))"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "20 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide"
+    ]
+  },
+  "20190604_StS_Agl15_SN_GluC_Rep1.raw": {
+    "Source Name": [
+      "Agl15_SN"
+    ],
+    "Assay Name": [
+      "20190604_StS_Agl15_SN_GluC_Rep1"
+    ],
+    "Raw Data File": [
+      "20190604_StS_Agl15_SN_GluC_Rep1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Hfx. volcanii"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Δagl15"
+    ],
+    "Characteristics[OrganismPart]": [
+      "culture supernatant (SN)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "GluC"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep1"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UPLC (Thermo Fisher Scientific) coupled via a nanospray source to a Q-Exactive HFX tandem MS (Thermo Fisher Scientific) operated in positive ion mode."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD fragmentation with stepped normalized collision energy (25, 30, and 35 NCE)"
+    ],
+    "Comment[GradientTime]": [
+      "A 60-minute gradient was used"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 400 μL mL−1"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "a precursor mass tolerance of +/−10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "a fragment mass tolerance of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2 and 3 missed cleavages were allowed for data derived from samples digested with Trypsin and GluC, respectively"
+    ],
+    "Comment[Separation]": [
+      "in-house packed column (75 μm i.d. × 25 cm fused silica capillary packed with 3 μm ReproSil-Pur C18 beads (Dr. Maisch))"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "20 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide"
+    ]
+  },
+  "20190606_StS_Agl15_Cyt_GluC_Rep2.raw": {
+    "Source Name": [
+      "Agl15_Cyt"
+    ],
+    "Assay Name": [
+      "20190606_StS_Agl15_Cyt_GluC_Rep2"
+    ],
+    "Raw Data File": [
+      "20190606_StS_Agl15_Cyt_GluC_Rep2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Hfx. volcanii"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Δagl15"
+    ],
+    "Characteristics[OrganismPart]": [
+      "cytosol (Cyt)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "GluC"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep2"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UPLC (Thermo Fisher Scientific) coupled via a nanospray source to a Q-Exactive HFX tandem MS (Thermo Fisher Scientific) operated in positive ion mode."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD fragmentation with stepped normalized collision energy (25, 30, and 35 NCE)"
+    ],
+    "Comment[GradientTime]": [
+      "A 60-minute gradient was used"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 400 μL mL−1"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "a precursor mass tolerance of +/−10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "a fragment mass tolerance of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2 and 3 missed cleavages were allowed for data derived from samples digested with Trypsin and GluC, respectively"
+    ],
+    "Comment[Separation]": [
+      "in-house packed column (75 μm i.d. × 25 cm fused silica capillary packed with 3 μm ReproSil-Pur C18 beads (Dr. Maisch))"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "20 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide"
+    ]
+  },
+  "20190321_StS_H53_SN_GluC_stepped.raw": {
+    "Source Name": [
+      "H53_SN"
+    ],
+    "Assay Name": [
+      "20190321_StS_H53_SN_GluC_stepped"
+    ],
+    "Raw Data File": [
+      "20190321_StS_H53_SN_GluC_stepped.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Hfx. volcanii",
+      "Hfx. volcanii H53"
+    ],
+    "Characteristics[OrganismPart]": [
+      "culture supernatant (SN)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "GluC"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "stepped"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UPLC (Thermo Fisher Scientific) coupled via a nanospray source to a Q-Exactive HFX tandem MS (Thermo Fisher Scientific) operated in positive ion mode."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD fragmentation with stepped normalized collision energy (25, 30, and 35 NCE)"
+    ],
+    "Comment[GradientTime]": [
+      "A 60-minute gradient was used"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 400 μL mL−1"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "a precursor mass tolerance of +/−10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "a fragment mass tolerance of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2 and 3 missed cleavages were allowed for data derived from samples digested with Trypsin and GluC, respectively"
+    ],
+    "Comment[Separation]": [
+      "in-house packed column (75 μm i.d. × 25 cm fused silica capillary packed with 3 μm ReproSil-Pur C18 beads (Dr. Maisch))"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "20 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide"
+    ]
+  },
+  "20190604_StS_Agl15_SN_Try_Rep1.raw": {
+    "Source Name": [
+      "Agl15_SN"
+    ],
+    "Assay Name": [
+      "20190604_StS_Agl15_SN_Try_Rep1"
+    ],
+    "Raw Data File": [
+      "20190604_StS_Agl15_SN_Try_Rep1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Hfx. volcanii"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Δagl15"
+    ],
+    "Characteristics[OrganismPart]": [
+      "culture supernatant (SN)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep1"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UPLC (Thermo Fisher Scientific) coupled via a nanospray source to a Q-Exactive HFX tandem MS (Thermo Fisher Scientific) operated in positive ion mode."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD fragmentation with stepped normalized collision energy (25, 30, and 35 NCE)"
+    ],
+    "Comment[GradientTime]": [
+      "A 60-minute gradient was used"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 400 μL mL−1"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "a precursor mass tolerance of +/−10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "a fragment mass tolerance of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2 and 3 missed cleavages were allowed for data derived from samples digested with Trypsin and GluC, respectively"
+    ],
+    "Comment[Separation]": [
+      "in-house packed column (75 μm i.d. × 25 cm fused silica capillary packed with 3 μm ReproSil-Pur C18 beads (Dr. Maisch))"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "20 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide"
+    ]
+  },
+  "20190607_StS_H53_Mem_GluC_Rep3.raw": {
+    "Source Name": [
+      "H53_Mem"
+    ],
+    "Assay Name": [
+      "20190607_StS_H53_Mem_GluC_Rep3"
+    ],
+    "Raw Data File": [
+      "20190607_StS_H53_Mem_GluC_Rep3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Hfx. volcanii",
+      "Hfx. volcanii H53"
+    ],
+    "Characteristics[OrganismPart]": [
+      "membrane (Mem)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "GluC"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep3"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UPLC (Thermo Fisher Scientific) coupled via a nanospray source to a Q-Exactive HFX tandem MS (Thermo Fisher Scientific) operated in positive ion mode."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD fragmentation with stepped normalized collision energy (25, 30, and 35 NCE)"
+    ],
+    "Comment[GradientTime]": [
+      "A 60-minute gradient was used"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 400 μL mL−1"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "a precursor mass tolerance of +/−10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "a fragment mass tolerance of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2 and 3 missed cleavages were allowed for data derived from samples digested with Trypsin and GluC, respectively"
+    ],
+    "Comment[Separation]": [
+      "in-house packed column (75 μm i.d. × 25 cm fused silica capillary packed with 3 μm ReproSil-Pur C18 beads (Dr. Maisch))"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "20 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide"
+    ]
+  },
+  "20190604_StS_H53_Cyt_GluC_Rep1-2.raw": {
+    "Source Name": [
+      "H53_Cyt"
+    ],
+    "Assay Name": [
+      "20190604_StS_H53_Cyt_GluC_Rep1-2"
+    ],
+    "Raw Data File": [
+      "20190604_StS_H53_Cyt_GluC_Rep1-2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Hfx. volcanii",
+      "Hfx. volcanii H53"
+    ],
+    "Characteristics[OrganismPart]": [
+      "cytosol (Cyt)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "GluC"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep1-2"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UPLC (Thermo Fisher Scientific) coupled via a nanospray source to a Q-Exactive HFX tandem MS (Thermo Fisher Scientific) operated in positive ion mode."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD fragmentation with stepped normalized collision energy (25, 30, and 35 NCE)"
+    ],
+    "Comment[GradientTime]": [
+      "A 60-minute gradient was used"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 400 μL mL−1"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "a precursor mass tolerance of +/−10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "a fragment mass tolerance of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2 and 3 missed cleavages were allowed for data derived from samples digested with Trypsin and GluC, respectively"
+    ],
+    "Comment[Separation]": [
+      "in-house packed column (75 μm i.d. × 25 cm fused silica capillary packed with 3 μm ReproSil-Pur C18 beads (Dr. Maisch))"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "20 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide"
+    ]
+  },
+  "20190607_StS_AglB_Mem_GluC_Rep3.raw": {
+    "Source Name": [
+      "AglB_Mem"
+    ],
+    "Assay Name": [
+      "20190607_StS_AglB_Mem_GluC_Rep3"
+    ],
+    "Raw Data File": [
+      "20190607_StS_AglB_Mem_GluC_Rep3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Hfx. volcanii"
+    ],
+    "Characteristics[GeneticModification]": [
+      "ΔaglB"
+    ],
+    "Characteristics[OrganismPart]": [
+      "membrane (Mem)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "GluC"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep3"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UPLC (Thermo Fisher Scientific) coupled via a nanospray source to a Q-Exactive HFX tandem MS (Thermo Fisher Scientific) operated in positive ion mode."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD fragmentation with stepped normalized collision energy (25, 30, and 35 NCE)"
+    ],
+    "Comment[GradientTime]": [
+      "A 60-minute gradient was used"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 400 μL mL−1"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "a precursor mass tolerance of +/−10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "a fragment mass tolerance of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2 and 3 missed cleavages were allowed for data derived from samples digested with Trypsin and GluC, respectively"
+    ],
+    "Comment[Separation]": [
+      "in-house packed column (75 μm i.d. × 25 cm fused silica capillary packed with 3 μm ReproSil-Pur C18 beads (Dr. Maisch))"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "20 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide"
+    ]
+  },
+  "20190321_StS_H53_Mem_Try_stepped.raw": {
+    "Source Name": [
+      "H53_Mem"
+    ],
+    "Assay Name": [
+      "20190321_StS_H53_Mem_Try_stepped"
+    ],
+    "Raw Data File": [
+      "20190321_StS_H53_Mem_Try_stepped.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Hfx. volcanii",
+      "Hfx. volcanii H53"
+    ],
+    "Characteristics[OrganismPart]": [
+      "membrane (Mem)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "stepped"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UPLC (Thermo Fisher Scientific) coupled via a nanospray source to a Q-Exactive HFX tandem MS (Thermo Fisher Scientific) operated in positive ion mode."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD fragmentation with stepped normalized collision energy (25, 30, and 35 NCE)"
+    ],
+    "Comment[GradientTime]": [
+      "A 60-minute gradient was used"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 400 μL mL−1"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "a precursor mass tolerance of +/−10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "a fragment mass tolerance of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2 and 3 missed cleavages were allowed for data derived from samples digested with Trypsin and GluC, respectively"
+    ],
+    "Comment[Separation]": [
+      "in-house packed column (75 μm i.d. × 25 cm fused silica capillary packed with 3 μm ReproSil-Pur C18 beads (Dr. Maisch))"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "20 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide"
+    ]
+  },
+  "20190604_StS_Agl15_Cyt_GluC_Rep1.raw": {
+    "Source Name": [
+      "Agl15_Cyt"
+    ],
+    "Assay Name": [
+      "20190604_StS_Agl15_Cyt_GluC_Rep1"
+    ],
+    "Raw Data File": [
+      "20190604_StS_Agl15_Cyt_GluC_Rep1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Hfx. volcanii"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Δagl15"
+    ],
+    "Characteristics[OrganismPart]": [
+      "cytosol (Cyt)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "GluC"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep1"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UPLC (Thermo Fisher Scientific) coupled via a nanospray source to a Q-Exactive HFX tandem MS (Thermo Fisher Scientific) operated in positive ion mode."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD fragmentation with stepped normalized collision energy (25, 30, and 35 NCE)"
+    ],
+    "Comment[GradientTime]": [
+      "A 60-minute gradient was used"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 400 μL mL−1"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "a precursor mass tolerance of +/−10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "a fragment mass tolerance of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2 and 3 missed cleavages were allowed for data derived from samples digested with Trypsin and GluC, respectively"
+    ],
+    "Comment[Separation]": [
+      "in-house packed column (75 μm i.d. × 25 cm fused silica capillary packed with 3 μm ReproSil-Pur C18 beads (Dr. Maisch))"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "20 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide"
+    ]
+  },
+  "20190606_StS_H53_Mem_GluC_Rep2.raw": {
+    "Source Name": [
+      "H53_Mem"
+    ],
+    "Assay Name": [
+      "20190606_StS_H53_Mem_GluC_Rep2"
+    ],
+    "Raw Data File": [
+      "20190606_StS_H53_Mem_GluC_Rep2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Hfx. volcanii",
+      "Hfx. volcanii H53"
+    ],
+    "Characteristics[OrganismPart]": [
+      "membrane (Mem)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "GluC"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep2"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UPLC (Thermo Fisher Scientific) coupled via a nanospray source to a Q-Exactive HFX tandem MS (Thermo Fisher Scientific) operated in positive ion mode."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD fragmentation with stepped normalized collision energy (25, 30, and 35 NCE)"
+    ],
+    "Comment[GradientTime]": [
+      "A 60-minute gradient was used"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 400 μL mL−1"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "a precursor mass tolerance of +/−10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "a fragment mass tolerance of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2 and 3 missed cleavages were allowed for data derived from samples digested with Trypsin and GluC, respectively"
+    ],
+    "Comment[Separation]": [
+      "in-house packed column (75 μm i.d. × 25 cm fused silica capillary packed with 3 μm ReproSil-Pur C18 beads (Dr. Maisch))"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "20 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide"
+    ]
+  },
+  "20190604_StS_AglB_Cyt_Try_Rep1.raw": {
+    "Source Name": [
+      "AglB_Cyt"
+    ],
+    "Assay Name": [
+      "20190604_StS_AglB_Cyt_Try_Rep1"
+    ],
+    "Raw Data File": [
+      "20190604_StS_AglB_Cyt_Try_Rep1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Hfx. volcanii"
+    ],
+    "Characteristics[GeneticModification]": [
+      "ΔaglB"
+    ],
+    "Characteristics[OrganismPart]": [
+      "cytosol (Cyt)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep1"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UPLC (Thermo Fisher Scientific) coupled via a nanospray source to a Q-Exactive HFX tandem MS (Thermo Fisher Scientific) operated in positive ion mode."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD fragmentation with stepped normalized collision energy (25, 30, and 35 NCE)"
+    ],
+    "Comment[GradientTime]": [
+      "A 60-minute gradient was used"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 400 μL mL−1"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "a precursor mass tolerance of +/−10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "a fragment mass tolerance of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2 and 3 missed cleavages were allowed for data derived from samples digested with Trypsin and GluC, respectively"
+    ],
+    "Comment[Separation]": [
+      "in-house packed column (75 μm i.d. × 25 cm fused silica capillary packed with 3 μm ReproSil-Pur C18 beads (Dr. Maisch))"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "20 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide"
+    ]
+  },
+  "20190607_StS_AglB_SN_Try_Rep3.raw": {
+    "Source Name": [
+      "AglB_SN"
+    ],
+    "Assay Name": [
+      "20190607_StS_AglB_SN_Try_Rep3"
+    ],
+    "Raw Data File": [
+      "20190607_StS_AglB_SN_Try_Rep3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Hfx. volcanii"
+    ],
+    "Characteristics[GeneticModification]": [
+      "ΔaglB"
+    ],
+    "Characteristics[OrganismPart]": [
+      "culture supernatant (SN)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep3"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UPLC (Thermo Fisher Scientific) coupled via a nanospray source to a Q-Exactive HFX tandem MS (Thermo Fisher Scientific) operated in positive ion mode."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD fragmentation with stepped normalized collision energy (25, 30, and 35 NCE)"
+    ],
+    "Comment[GradientTime]": [
+      "A 60-minute gradient was used"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 400 μL mL−1"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "a precursor mass tolerance of +/−10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "a fragment mass tolerance of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2 and 3 missed cleavages were allowed for data derived from samples digested with Trypsin and GluC, respectively"
+    ],
+    "Comment[Separation]": [
+      "in-house packed column (75 μm i.d. × 25 cm fused silica capillary packed with 3 μm ReproSil-Pur C18 beads (Dr. Maisch))"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "20 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide"
+    ]
+  },
+  "20190604_StS_AglB_Mem_Try_Rep1.raw": {
+    "Source Name": [
+      "AglB_Mem"
+    ],
+    "Assay Name": [
+      "20190604_StS_AglB_Mem_Try_Rep1"
+    ],
+    "Raw Data File": [
+      "20190604_StS_AglB_Mem_Try_Rep1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Hfx. volcanii"
+    ],
+    "Characteristics[GeneticModification]": [
+      "ΔaglB"
+    ],
+    "Characteristics[OrganismPart]": [
+      "membrane (Mem)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep1"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UPLC (Thermo Fisher Scientific) coupled via a nanospray source to a Q-Exactive HFX tandem MS (Thermo Fisher Scientific) operated in positive ion mode."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD fragmentation with stepped normalized collision energy (25, 30, and 35 NCE)"
+    ],
+    "Comment[GradientTime]": [
+      "A 60-minute gradient was used"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 400 μL mL−1"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "a precursor mass tolerance of +/−10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "a fragment mass tolerance of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2 and 3 missed cleavages were allowed for data derived from samples digested with Trypsin and GluC, respectively"
+    ],
+    "Comment[Separation]": [
+      "in-house packed column (75 μm i.d. × 25 cm fused silica capillary packed with 3 μm ReproSil-Pur C18 beads (Dr. Maisch))"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "20 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide"
+    ]
+  },
+  "20190607_StS_AglB_SN_GluC_Rep3.raw": {
+    "Source Name": [
+      "AglB_SN"
+    ],
+    "Assay Name": [
+      "20190607_StS_AglB_SN_GluC_Rep3"
+    ],
+    "Raw Data File": [
+      "20190607_StS_AglB_SN_GluC_Rep3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Hfx. volcanii"
+    ],
+    "Characteristics[GeneticModification]": [
+      "ΔaglB"
+    ],
+    "Characteristics[OrganismPart]": [
+      "culture supernatant (SN)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "GluC"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep3"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UPLC (Thermo Fisher Scientific) coupled via a nanospray source to a Q-Exactive HFX tandem MS (Thermo Fisher Scientific) operated in positive ion mode."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD fragmentation with stepped normalized collision energy (25, 30, and 35 NCE)"
+    ],
+    "Comment[GradientTime]": [
+      "A 60-minute gradient was used"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 400 μL mL−1"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "a precursor mass tolerance of +/−10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "a fragment mass tolerance of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2 and 3 missed cleavages were allowed for data derived from samples digested with Trypsin and GluC, respectively"
+    ],
+    "Comment[Separation]": [
+      "in-house packed column (75 μm i.d. × 25 cm fused silica capillary packed with 3 μm ReproSil-Pur C18 beads (Dr. Maisch))"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "20 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide"
+    ]
+  },
+  "20190604_StS_Agl15_Cyt_Try_Rep1.raw": {
+    "Source Name": [
+      "Agl15_Cyt"
+    ],
+    "Assay Name": [
+      "20190604_StS_Agl15_Cyt_Try_Rep1"
+    ],
+    "Raw Data File": [
+      "20190604_StS_Agl15_Cyt_Try_Rep1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Hfx. volcanii"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Δagl15"
+    ],
+    "Characteristics[OrganismPart]": [
+      "cytosol (Cyt)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep1"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UPLC (Thermo Fisher Scientific) coupled via a nanospray source to a Q-Exactive HFX tandem MS (Thermo Fisher Scientific) operated in positive ion mode."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD fragmentation with stepped normalized collision energy (25, 30, and 35 NCE)"
+    ],
+    "Comment[GradientTime]": [
+      "A 60-minute gradient was used"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 400 μL mL−1"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "a precursor mass tolerance of +/−10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "a fragment mass tolerance of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2 and 3 missed cleavages were allowed for data derived from samples digested with Trypsin and GluC, respectively"
+    ],
+    "Comment[Separation]": [
+      "in-house packed column (75 μm i.d. × 25 cm fused silica capillary packed with 3 μm ReproSil-Pur C18 beads (Dr. Maisch))"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "20 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide"
+    ]
+  },
+  "20190604_StS_Agl15_Mem_Try_Rep1.raw": {
+    "Source Name": [
+      "Agl15_Mem"
+    ],
+    "Assay Name": [
+      "20190604_StS_Agl15_Mem_Try_Rep1"
+    ],
+    "Raw Data File": [
+      "20190604_StS_Agl15_Mem_Try_Rep1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Hfx. volcanii"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Δagl15"
+    ],
+    "Characteristics[OrganismPart]": [
+      "membrane (Mem)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep1"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UPLC (Thermo Fisher Scientific) coupled via a nanospray source to a Q-Exactive HFX tandem MS (Thermo Fisher Scientific) operated in positive ion mode."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD fragmentation with stepped normalized collision energy (25, 30, and 35 NCE)"
+    ],
+    "Comment[GradientTime]": [
+      "A 60-minute gradient was used"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 400 μL mL−1"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "a precursor mass tolerance of +/−10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "a fragment mass tolerance of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2 and 3 missed cleavages were allowed for data derived from samples digested with Trypsin and GluC, respectively"
+    ],
+    "Comment[Separation]": [
+      "in-house packed column (75 μm i.d. × 25 cm fused silica capillary packed with 3 μm ReproSil-Pur C18 beads (Dr. Maisch))"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "20 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide"
+    ]
+  },
+  "20190607_StS_H53_Mem_Try_Rep3.raw": {
+    "Source Name": [
+      "H53_Mem"
+    ],
+    "Assay Name": [
+      "20190607_StS_H53_Mem_Try_Rep3"
+    ],
+    "Raw Data File": [
+      "20190607_StS_H53_Mem_Try_Rep3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Hfx. volcanii",
+      "Hfx. volcanii H53"
+    ],
+    "Characteristics[OrganismPart]": [
+      "membrane (Mem)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep3"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UPLC (Thermo Fisher Scientific) coupled via a nanospray source to a Q-Exactive HFX tandem MS (Thermo Fisher Scientific) operated in positive ion mode."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD fragmentation with stepped normalized collision energy (25, 30, and 35 NCE)"
+    ],
+    "Comment[GradientTime]": [
+      "A 60-minute gradient was used"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 400 μL mL−1"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "a precursor mass tolerance of +/−10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "a fragment mass tolerance of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2 and 3 missed cleavages were allowed for data derived from samples digested with Trypsin and GluC, respectively"
+    ],
+    "Comment[Separation]": [
+      "in-house packed column (75 μm i.d. × 25 cm fused silica capillary packed with 3 μm ReproSil-Pur C18 beads (Dr. Maisch))"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "20 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide"
+    ]
+  },
+  "20190604_StS_AglB_SN_GluC_Rep1.raw": {
+    "Source Name": [
+      "AglB_SN"
+    ],
+    "Assay Name": [
+      "20190604_StS_AglB_SN_GluC_Rep1"
+    ],
+    "Raw Data File": [
+      "20190604_StS_AglB_SN_GluC_Rep1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Hfx. volcanii"
+    ],
+    "Characteristics[GeneticModification]": [
+      "ΔaglB"
+    ],
+    "Characteristics[OrganismPart]": [
+      "culture supernatant (SN)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "GluC"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep1"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UPLC (Thermo Fisher Scientific) coupled via a nanospray source to a Q-Exactive HFX tandem MS (Thermo Fisher Scientific) operated in positive ion mode."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD fragmentation with stepped normalized collision energy (25, 30, and 35 NCE)"
+    ],
+    "Comment[GradientTime]": [
+      "A 60-minute gradient was used"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 400 μL mL−1"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "a precursor mass tolerance of +/−10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "a fragment mass tolerance of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2 and 3 missed cleavages were allowed for data derived from samples digested with Trypsin and GluC, respectively"
+    ],
+    "Comment[Separation]": [
+      "in-house packed column (75 μm i.d. × 25 cm fused silica capillary packed with 3 μm ReproSil-Pur C18 beads (Dr. Maisch))"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "20 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide"
+    ]
+  },
+  "20190604_StS_H53_SN_Try_Rep1.raw": {
+    "Source Name": [
+      "H53_SN"
+    ],
+    "Assay Name": [
+      "20190604_StS_H53_SN_Try_Rep1"
+    ],
+    "Raw Data File": [
+      "20190604_StS_H53_SN_Try_Rep1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Hfx. volcanii",
+      "Hfx. volcanii H53"
+    ],
+    "Characteristics[OrganismPart]": [
+      "culture supernatant (SN)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep1"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UPLC (Thermo Fisher Scientific) coupled via a nanospray source to a Q-Exactive HFX tandem MS (Thermo Fisher Scientific) operated in positive ion mode."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD fragmentation with stepped normalized collision energy (25, 30, and 35 NCE)"
+    ],
+    "Comment[GradientTime]": [
+      "A 60-minute gradient was used"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 400 μL mL−1"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "a precursor mass tolerance of +/−10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "a fragment mass tolerance of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2 and 3 missed cleavages were allowed for data derived from samples digested with Trypsin and GluC, respectively"
+    ],
+    "Comment[Separation]": [
+      "in-house packed column (75 μm i.d. × 25 cm fused silica capillary packed with 3 μm ReproSil-Pur C18 beads (Dr. Maisch))"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "20 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide"
+    ]
+  },
+  "20190604_StS_AglB_Cyt_GluC_Rep1.raw": {
+    "Source Name": [
+      "AglB_Cyt"
+    ],
+    "Assay Name": [
+      "20190604_StS_AglB_Cyt_GluC_Rep1"
+    ],
+    "Raw Data File": [
+      "20190604_StS_AglB_Cyt_GluC_Rep1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Hfx. volcanii"
+    ],
+    "Characteristics[GeneticModification]": [
+      "ΔaglB"
+    ],
+    "Characteristics[OrganismPart]": [
+      "cytosol (Cyt)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "GluC"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep1"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UPLC (Thermo Fisher Scientific) coupled via a nanospray source to a Q-Exactive HFX tandem MS (Thermo Fisher Scientific) operated in positive ion mode."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD fragmentation with stepped normalized collision energy (25, 30, and 35 NCE)"
+    ],
+    "Comment[GradientTime]": [
+      "A 60-minute gradient was used"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 400 μL mL−1"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "a precursor mass tolerance of +/−10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "a fragment mass tolerance of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2 and 3 missed cleavages were allowed for data derived from samples digested with Trypsin and GluC, respectively"
+    ],
+    "Comment[Separation]": [
+      "in-house packed column (75 μm i.d. × 25 cm fused silica capillary packed with 3 μm ReproSil-Pur C18 beads (Dr. Maisch))"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "20 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide"
+    ]
+  },
+  "20190606_StS_H53_SN_GluC_Rep2.raw": {
+    "Source Name": [
+      "H53_SN"
+    ],
+    "Assay Name": [
+      "20190606_StS_H53_SN_GluC_Rep2"
+    ],
+    "Raw Data File": [
+      "20190606_StS_H53_SN_GluC_Rep2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Hfx. volcanii",
+      "Hfx. volcanii H53"
+    ],
+    "Characteristics[OrganismPart]": [
+      "culture supernatant (SN)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "GluC"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep2"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UPLC (Thermo Fisher Scientific) coupled via a nanospray source to a Q-Exactive HFX tandem MS (Thermo Fisher Scientific) operated in positive ion mode."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD fragmentation with stepped normalized collision energy (25, 30, and 35 NCE)"
+    ],
+    "Comment[GradientTime]": [
+      "A 60-minute gradient was used"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 400 μL mL−1"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "a precursor mass tolerance of +/−10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "a fragment mass tolerance of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2 and 3 missed cleavages were allowed for data derived from samples digested with Trypsin and GluC, respectively"
+    ],
+    "Comment[Separation]": [
+      "in-house packed column (75 μm i.d. × 25 cm fused silica capillary packed with 3 μm ReproSil-Pur C18 beads (Dr. Maisch))"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "20 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide"
+    ]
+  },
+  "20190604_StS_H53_Mem_Try_Rep1.raw": {
+    "Source Name": [
+      "H53_Mem"
+    ],
+    "Assay Name": [
+      "20190604_StS_H53_Mem_Try_Rep1"
+    ],
+    "Raw Data File": [
+      "20190604_StS_H53_Mem_Try_Rep1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Hfx. volcanii",
+      "Hfx. volcanii H53"
+    ],
+    "Characteristics[OrganismPart]": [
+      "membrane (Mem)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep1"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UPLC (Thermo Fisher Scientific) coupled via a nanospray source to a Q-Exactive HFX tandem MS (Thermo Fisher Scientific) operated in positive ion mode."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD fragmentation with stepped normalized collision energy (25, 30, and 35 NCE)"
+    ],
+    "Comment[GradientTime]": [
+      "A 60-minute gradient was used"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 400 μL mL−1"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "a precursor mass tolerance of +/−10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "a fragment mass tolerance of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2 and 3 missed cleavages were allowed for data derived from samples digested with Trypsin and GluC, respectively"
+    ],
+    "Comment[Separation]": [
+      "in-house packed column (75 μm i.d. × 25 cm fused silica capillary packed with 3 μm ReproSil-Pur C18 beads (Dr. Maisch))"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "20 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide"
+    ]
+  },
+  "20190604_StS_Agl15_Cyt_Try_Rep1.raw": {
+    "Source Name": [
+      "Agl15_Cyt"
+    ],
+    "Assay Name": [
+      "20190604_StS_Agl15_Cyt_Try_Rep1"
+    ],
+    "Raw Data File": [
+      "20190604_StS_Agl15_Cyt_Try_Rep1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Hfx. volcanii"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Δagl15"
+    ],
+    "Characteristics[OrganismPart]": [
+      "cytosol (Cyt)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep1"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UPLC (Thermo Fisher Scientific) coupled via a nanospray source to a Q-Exactive HFX tandem MS (Thermo Fisher Scientific) operated in positive ion mode."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD fragmentation with stepped normalized collision energy (25, 30, and 35 NCE)"
+    ],
+    "Comment[GradientTime]": [
+      "A 60-minute gradient was used"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 400 μL mL−1"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "a precursor mass tolerance of +/−10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "a fragment mass tolerance of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2 and 3 missed cleavages were allowed for data derived from samples digested with Trypsin and GluC, respectively"
+    ],
+    "Comment[Separation]": [
+      "in-house packed column (75 μm i.d. × 25 cm fused silica capillary packed with 3 μm ReproSil-Pur C18 beads (Dr. Maisch))"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "20 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide"
+    ]
+  },
+  "20190607_StS_Agl15_Mem_Try_Rep3.raw": {
+    "Source Name": [
+      "Agl15_Mem"
+    ],
+    "Assay Name": [
+      "20190607_StS_Agl15_Mem_Try_Rep3"
+    ],
+    "Raw Data File": [
+      "20190607_StS_Agl15_Mem_Try_Rep3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Hfx. volcanii"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Δagl15"
+    ],
+    "Characteristics[OrganismPart]": [
+      "membrane (Mem)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep3"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UPLC (Thermo Fisher Scientific) coupled via a nanospray source to a Q-Exactive HFX tandem MS (Thermo Fisher Scientific) operated in positive ion mode."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD fragmentation with stepped normalized collision energy (25, 30, and 35 NCE)"
+    ],
+    "Comment[GradientTime]": [
+      "A 60-minute gradient was used"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 400 μL mL−1"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "a precursor mass tolerance of +/−10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "a fragment mass tolerance of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2 and 3 missed cleavages were allowed for data derived from samples digested with Trypsin and GluC, respectively"
+    ],
+    "Comment[Separation]": [
+      "in-house packed column (75 μm i.d. × 25 cm fused silica capillary packed with 3 μm ReproSil-Pur C18 beads (Dr. Maisch))"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "20 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide"
+    ]
+  },
+  "20190606_StS_AglB_Cyt_GluC_Rep2.raw": {
+    "Source Name": [
+      "AglB_Cyt"
+    ],
+    "Assay Name": [
+      "20190606_StS_AglB_Cyt_GluC_Rep2"
+    ],
+    "Raw Data File": [
+      "20190606_StS_AglB_Cyt_GluC_Rep2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Hfx. volcanii"
+    ],
+    "Characteristics[GeneticModification]": [
+      "ΔaglB"
+    ],
+    "Characteristics[OrganismPart]": [
+      "cytosol (Cyt)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "GluC"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep2"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UPLC (Thermo Fisher Scientific) coupled via a nanospray source to a Q-Exactive HFX tandem MS (Thermo Fisher Scientific) operated in positive ion mode."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD fragmentation with stepped normalized collision energy (25, 30, and 35 NCE)"
+    ],
+    "Comment[GradientTime]": [
+      "A 60-minute gradient was used"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 400 μL mL−1"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "a precursor mass tolerance of +/−10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "a fragment mass tolerance of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2 and 3 missed cleavages were allowed for data derived from samples digested with Trypsin and GluC, respectively"
+    ],
+    "Comment[Separation]": [
+      "in-house packed column (75 μm i.d. × 25 cm fused silica capillary packed with 3 μm ReproSil-Pur C18 beads (Dr. Maisch))"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "20 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide"
+    ]
+  },
+  "20190607_StS_H53_SN_GluC_Rep3.raw": {
+    "Source Name": [
+      "H53_SN"
+    ],
+    "Assay Name": [
+      "20190607_StS_H53_SN_GluC_Rep3"
+    ],
+    "Raw Data File": [
+      "20190607_StS_H53_SN_GluC_Rep3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Hfx. volcanii",
+      "Hfx. volcanii H53"
+    ],
+    "Characteristics[OrganismPart]": [
+      "culture supernatant (SN)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "GluC"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep3"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UPLC (Thermo Fisher Scientific) coupled via a nanospray source to a Q-Exactive HFX tandem MS (Thermo Fisher Scientific) operated in positive ion mode."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD fragmentation with stepped normalized collision energy (25, 30, and 35 NCE)"
+    ],
+    "Comment[GradientTime]": [
+      "A 60-minute gradient was used"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 400 μL mL−1"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "a precursor mass tolerance of +/−10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "a fragment mass tolerance of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2 and 3 missed cleavages were allowed for data derived from samples digested with Trypsin and GluC, respectively"
+    ],
+    "Comment[Separation]": [
+      "in-house packed column (75 μm i.d. × 25 cm fused silica capillary packed with 3 μm ReproSil-Pur C18 beads (Dr. Maisch))"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "20 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide"
+    ]
+  },
+  "20190607_StS_H53_Cyt_GluC_Rep3.raw": {
+    "Source Name": [
+      "H53_Cyt"
+    ],
+    "Assay Name": [
+      "20190607_StS_H53_Cyt_GluC_Rep3"
+    ],
+    "Raw Data File": [
+      "20190607_StS_H53_Cyt_GluC_Rep3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Hfx. volcanii",
+      "Hfx. volcanii H53"
+    ],
+    "Characteristics[OrganismPart]": [
+      "cytosol (Cyt)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "GluC"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep3"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UPLC (Thermo Fisher Scientific) coupled via a nanospray source to a Q-Exactive HFX tandem MS (Thermo Fisher Scientific) operated in positive ion mode."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD fragmentation with stepped normalized collision energy (25, 30, and 35 NCE)"
+    ],
+    "Comment[GradientTime]": [
+      "A 60-minute gradient was used"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 400 μL mL−1"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "a precursor mass tolerance of +/−10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "a fragment mass tolerance of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2 and 3 missed cleavages were allowed for data derived from samples digested with Trypsin and GluC, respectively"
+    ],
+    "Comment[Separation]": [
+      "in-house packed column (75 μm i.d. × 25 cm fused silica capillary packed with 3 μm ReproSil-Pur C18 beads (Dr. Maisch))"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "20 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide"
+    ]
+  },
+  "20190604_StS_H53_Mem_GluC_Rep1.raw": {
+    "Source Name": [
+      "H53_Mem"
+    ],
+    "Assay Name": [
+      "20190604_StS_H53_Mem_GluC_Rep1"
+    ],
+    "Raw Data File": [
+      "20190604_StS_H53_Mem_GluC_Rep1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Hfx. volcanii",
+      "Hfx. volcanii H53"
+    ],
+    "Characteristics[OrganismPart]": [
+      "membrane (Mem)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "GluC"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep1"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UPLC (Thermo Fisher Scientific) coupled via a nanospray source to a Q-Exactive HFX tandem MS (Thermo Fisher Scientific) operated in positive ion mode."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD fragmentation with stepped normalized collision energy (25, 30, and 35 NCE)"
+    ],
+    "Comment[GradientTime]": [
+      "A 60-minute gradient was used"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 400 μL mL−1"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "a precursor mass tolerance of +/−10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "a fragment mass tolerance of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2 and 3 missed cleavages were allowed for data derived from samples digested with Trypsin and GluC, respectively"
+    ],
+    "Comment[Separation]": [
+      "in-house packed column (75 μm i.d. × 25 cm fused silica capillary packed with 3 μm ReproSil-Pur C18 beads (Dr. Maisch))"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "20 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide"
+    ]
+  },
+  "20190604_StS_AglB_Cyt_Try_Rep1_2.raw": {
+    "Source Name": [
+      "AglB_Cyt"
+    ],
+    "Assay Name": [
+      "20190604_StS_AglB_Cyt_Try_Rep1_2"
+    ],
+    "Raw Data File": [
+      "20190604_StS_AglB_Cyt_Try_Rep1_2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Hfx. volcanii"
+    ],
+    "Characteristics[GeneticModification]": [
+      "ΔaglB"
+    ],
+    "Characteristics[OrganismPart]": [
+      "cytosol (Cyt)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep1_2"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UPLC (Thermo Fisher Scientific) coupled via a nanospray source to a Q-Exactive HFX tandem MS (Thermo Fisher Scientific) operated in positive ion mode."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD fragmentation with stepped normalized collision energy (25, 30, and 35 NCE)"
+    ],
+    "Comment[GradientTime]": [
+      "A 60-minute gradient was used"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 400 μL mL−1"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "a precursor mass tolerance of +/−10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "a fragment mass tolerance of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2 and 3 missed cleavages were allowed for data derived from samples digested with Trypsin and GluC, respectively"
+    ],
+    "Comment[Separation]": [
+      "in-house packed column (75 μm i.d. × 25 cm fused silica capillary packed with 3 μm ReproSil-Pur C18 beads (Dr. Maisch))"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "20 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide"
+    ]
+  },
+  "20190606_StS_H53_SN_Try_Rep2.raw": {
+    "Source Name": [
+      "H53_SN"
+    ],
+    "Assay Name": [
+      "20190606_StS_H53_SN_Try_Rep2"
+    ],
+    "Raw Data File": [
+      "20190606_StS_H53_SN_Try_Rep2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Hfx. volcanii",
+      "Hfx. volcanii H53"
+    ],
+    "Characteristics[OrganismPart]": [
+      "culture supernatant (SN)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep2"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UPLC (Thermo Fisher Scientific) coupled via a nanospray source to a Q-Exactive HFX tandem MS (Thermo Fisher Scientific) operated in positive ion mode."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD fragmentation with stepped normalized collision energy (25, 30, and 35 NCE)"
+    ],
+    "Comment[GradientTime]": [
+      "A 60-minute gradient was used"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 400 μL mL−1"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "a precursor mass tolerance of +/−10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "a fragment mass tolerance of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2 and 3 missed cleavages were allowed for data derived from samples digested with Trypsin and GluC, respectively"
+    ],
+    "Comment[Separation]": [
+      "in-house packed column (75 μm i.d. × 25 cm fused silica capillary packed with 3 μm ReproSil-Pur C18 beads (Dr. Maisch))"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "20 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide"
+    ]
+  },
+  "20190606_StS_H53_Mem_Try_Rep2.raw": {
+    "Source Name": [
+      "H53_Mem"
+    ],
+    "Assay Name": [
+      "20190606_StS_H53_Mem_Try_Rep2"
+    ],
+    "Raw Data File": [
+      "20190606_StS_H53_Mem_Try_Rep2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Hfx. volcanii",
+      "Hfx. volcanii H53"
+    ],
+    "Characteristics[OrganismPart]": [
+      "membrane (Mem)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep2"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UPLC (Thermo Fisher Scientific) coupled via a nanospray source to a Q-Exactive HFX tandem MS (Thermo Fisher Scientific) operated in positive ion mode."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD fragmentation with stepped normalized collision energy (25, 30, and 35 NCE)"
+    ],
+    "Comment[GradientTime]": [
+      "A 60-minute gradient was used"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 400 μL mL−1"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "a precursor mass tolerance of +/−10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "a fragment mass tolerance of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2 and 3 missed cleavages were allowed for data derived from samples digested with Trypsin and GluC, respectively"
+    ],
+    "Comment[Separation]": [
+      "in-house packed column (75 μm i.d. × 25 cm fused silica capillary packed with 3 μm ReproSil-Pur C18 beads (Dr. Maisch))"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "20 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide"
+    ]
+  },
+  "20190607_StS_Agl15_Mem_GluC_Rep3.raw": {
+    "Source Name": [
+      "Agl15_Mem"
+    ],
+    "Assay Name": [
+      "20190607_StS_Agl15_Mem_GluC_Rep3"
+    ],
+    "Raw Data File": [
+      "20190607_StS_Agl15_Mem_GluC_Rep3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Hfx. volcanii"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Δagl15"
+    ],
+    "Characteristics[OrganismPart]": [
+      "membrane (Mem)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "GluC"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep3"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UPLC (Thermo Fisher Scientific) coupled via a nanospray source to a Q-Exactive HFX tandem MS (Thermo Fisher Scientific) operated in positive ion mode."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD fragmentation with stepped normalized collision energy (25, 30, and 35 NCE)"
+    ],
+    "Comment[GradientTime]": [
+      "A 60-minute gradient was used"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 400 μL mL−1"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "a precursor mass tolerance of +/−10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "a fragment mass tolerance of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2 and 3 missed cleavages were allowed for data derived from samples digested with Trypsin and GluC, respectively"
+    ],
+    "Comment[Separation]": [
+      "in-house packed column (75 μm i.d. × 25 cm fused silica capillary packed with 3 μm ReproSil-Pur C18 beads (Dr. Maisch))"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "20 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide"
+    ]
+  },
+  "20190606_StS_AglB_Cyt_Try_Rep2.raw": {
+    "Source Name": [
+      "AglB_Cyt"
+    ],
+    "Assay Name": [
+      "20190606_StS_AglB_Cyt_Try_Rep2"
+    ],
+    "Raw Data File": [
+      "20190606_StS_AglB_Cyt_Try_Rep2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Hfx. volcanii"
+    ],
+    "Characteristics[GeneticModification]": [
+      "ΔaglB"
+    ],
+    "Characteristics[OrganismPart]": [
+      "cytosol (Cyt)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep2"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UPLC (Thermo Fisher Scientific) coupled via a nanospray source to a Q-Exactive HFX tandem MS (Thermo Fisher Scientific) operated in positive ion mode."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD fragmentation with stepped normalized collision energy (25, 30, and 35 NCE)"
+    ],
+    "Comment[GradientTime]": [
+      "A 60-minute gradient was used"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 400 μL mL−1"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "a precursor mass tolerance of +/−10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "a fragment mass tolerance of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2 and 3 missed cleavages were allowed for data derived from samples digested with Trypsin and GluC, respectively"
+    ],
+    "Comment[Separation]": [
+      "in-house packed column (75 μm i.d. × 25 cm fused silica capillary packed with 3 μm ReproSil-Pur C18 beads (Dr. Maisch))"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "20 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide"
+    ]
+  },
+  "20190606_StS_AglB_SN_GluC_Rep2.raw": {
+    "Source Name": [
+      "AglB_SN"
+    ],
+    "Assay Name": [
+      "20190606_StS_AglB_SN_GluC_Rep2"
+    ],
+    "Raw Data File": [
+      "20190606_StS_AglB_SN_GluC_Rep2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Hfx. volcanii"
+    ],
+    "Characteristics[GeneticModification]": [
+      "ΔaglB"
+    ],
+    "Characteristics[OrganismPart]": [
+      "culture supernatant (SN)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "GluC"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "Rep2"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UPLC (Thermo Fisher Scientific) coupled via a nanospray source to a Q-Exactive HFX tandem MS (Thermo Fisher Scientific) operated in positive ion mode."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD fragmentation with stepped normalized collision energy (25, 30, and 35 NCE)"
+    ],
+    "Comment[GradientTime]": [
+      "A 60-minute gradient was used"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 400 μL mL−1"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "a precursor mass tolerance of +/−10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "a fragment mass tolerance of 10 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "2 and 3 missed cleavages were allowed for data derived from samples digested with Trypsin and GluC, respectively"
+    ],
+    "Comment[Separation]": [
+      "in-house packed column (75 μm i.d. × 25 cm fused silica capillary packed with 3 μm ReproSil-Pur C18 beads (Dr. Maisch))"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "20 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "40 mM iodoacetamide"
+    ]
+  }
+}

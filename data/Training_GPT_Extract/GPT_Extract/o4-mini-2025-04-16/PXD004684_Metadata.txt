@@ -1,0 +1,46 @@
+OrganismPart: Lung Tumor Proteomes  
+AssayName: single sample liquid chromatography-tandem mass spectrometry (LC-MS/MS)  
+AcquisitionMethod: data dependent acquisition (DDA)  
+AssayName: single sample LC-MS/MS  
+AcquisitionMethod: data independent acquisition (DIA)  
+FractionationMethod: peptide fractionation  
+AssayName: label-free quantification (LF)  
+AssayName: isobaric labeling followed by peptide fractionation (TMT 6-plex)  
+Label: TMT 6-plex  
+AnatomicSiteTumor: 4 frozen lung squamous cell carcinomas  
+Specimen: 4 adjacent tissues  
+TumorCellularity: tumor cellularity  
+ConcentrationOfCompound: 20 mM HEPES  
+ConcentrationOfCompound: 9 M urea  
+ConcentrationOfCompound: 1 mM sodium orthovanadate  
+ConcentrationOfCompound: 2.5 mM sodium pyrophosphate  
+ConcentrationOfCompound: 1 mM β-glycerophosphate  
+ReductionReagent: 4.5 mM DTT  
+Temperature: 60 °C  
+Time: 20 minutes  
+AlkylationReagent: 11 mM iodoacetamide  
+Temperature: room temperature  
+Time: 15 minutes  
+CleavageAgent: trypsin  
+Temperature: 37 °C  
+Time: overnight  
+FactorValue: enzyme/substrate ratio of 1/50  
+ConcentrationOfCompound: 20% TFA  
+ConcentrationOfCompound: 1%  
+Temperature: 15 °C  
+FractionationMethod: basic pH reversed phase HPLC  
+FractionationMethod: bRPLC separation  
+ConcentrationOfCompound: 20 mM ammonium formate  
+FlowRateChromatogram: 0.2 ml/min  
+NumberOfFractions: Twelve concatenated fractions  
+Instrument: QExactive Plus, Thermo, San Jose, CA  
+FlowRateChromatogram: 300 nl/min  
+CollisionEnergy: normalized collision energy set to 28  
+SpikedCompound: standard peptide retention time calibrator mixture (PRTC, Pierce #88320)  
+ConcentrationOfCompound: 10 fmol of each peptide per injection  
+Time: 2 days  
+Time: 24 days  
+CollisionEnergy: normalized collision energy value was set to 30  
+ConcentrationOfCompound: Twenty-five femtomoles of PRTC  
+Time: 6 days  
+PrecursorMassTolerance: 10 ppm

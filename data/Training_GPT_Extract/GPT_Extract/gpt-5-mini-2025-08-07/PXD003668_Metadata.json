@@ -1,0 +1,2102 @@
+{
+  "20150305_QEp7_FaCo_SA_CL_OVCAR3_A.raw": {
+    "Source Name": [
+      "OVCAR3"
+    ],
+    "Assay Name": [
+      "OVCAR3_A"
+    ],
+    "Raw Data File": [
+      "20150305_QEp7_FaCo_SA_CL_OVCAR3_A.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "OVCAR3"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell lines"
+    ],
+    "Characteristics[Organism]": [
+      "confirmed to be of human origin"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55\u2009mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 replicates for each line"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Thirty cell lines were included in this study"
+    ],
+    "Characteristics[Temperature]": [
+      "50\u2009\u00b0C"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "A"
+    ],
+    "Comment[Instrument]": [
+      "Quadrupole Orbitrap mass spectrometers (Q Exactive and Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run mass spectrometric workflow",
+      "A top-five method was used to select up to the five most abundant precursor ions with a charge \u22652."
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray source"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collisional dissociation fragmentation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "25 (27 for Q Exactive HF)"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were separated over a 250\u2009min gradient from 2% to 60% (5\u2009min to 5%, 180\u2009min to 25%, 45\u2009min to 35%, 20\u2009min to 60%) in buffer B (80% acetonitrile, 0.5% formic acid) at 200\u2009nl\u2009min\u22121."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "200\u2009nl\u2009min\u22121"
+    ],
+    "Comment[FractionationMethod]": [
+      "absence of any fractionation step"
+    ],
+    "Comment[Separation]": [
+      "Peptides were separated over a 250\u2009min gradient from 2% to 60% (5\u2009min to 5%, 180\u2009min to 25%, 45\u2009min to 35%, 20\u2009min to 60%) in buffer B (80% acetonitrile, 0.5% formic acid) at 200\u2009nl\u2009min\u22121."
+    ]
+  },
+  "20150305_QEp7_FaCo_SA_CL_COV318_B.raw": {
+    "Source Name": [
+      "COV318"
+    ],
+    "Assay Name": [
+      "COV318_B"
+    ],
+    "Raw Data File": [
+      "20150305_QEp7_FaCo_SA_CL_COV318_B.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "COV318"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell lines"
+    ],
+    "Characteristics[Organism]": [
+      "confirmed to be of human origin"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55\u2009mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 replicates for each line"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Thirty cell lines were included in this study"
+    ],
+    "Characteristics[Temperature]": [
+      "50\u2009\u00b0C"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "B"
+    ],
+    "Comment[Instrument]": [
+      "Quadrupole Orbitrap mass spectrometers (Q Exactive and Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run mass spectrometric workflow",
+      "A top-five method was used to select up to the five most abundant precursor ions with a charge \u22652."
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray source"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collisional dissociation fragmentation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "25 (27 for Q Exactive HF)"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were separated over a 250\u2009min gradient from 2% to 60% (5\u2009min to 5%, 180\u2009min to 25%, 45\u2009min to 35%, 20\u2009min to 60%) in buffer B (80% acetonitrile, 0.5% formic acid) at 200\u2009nl\u2009min\u22121."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "200\u2009nl\u2009min\u22121"
+    ],
+    "Comment[FractionationMethod]": [
+      "absence of any fractionation step"
+    ],
+    "Comment[Separation]": [
+      "Peptides were separated over a 250\u2009min gradient from 2% to 60% (5\u2009min to 5%, 180\u2009min to 25%, 45\u2009min to 35%, 20\u2009min to 60%) in buffer B (80% acetonitrile, 0.5% formic acid) at 200\u2009nl\u2009min\u22121."
+    ]
+  },
+  "20150305_QEp7_FaCo_SA_CL_JHOS2_A.raw": {
+    "Source Name": [
+      "JHOS2"
+    ],
+    "Assay Name": [
+      "JHOS2_A"
+    ],
+    "Raw Data File": [
+      "20150305_QEp7_FaCo_SA_CL_JHOS2_A.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "JHOS2"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell lines"
+    ],
+    "Characteristics[Organism]": [
+      "confirmed to be of human origin"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55\u2009mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 replicates for each line"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Thirty cell lines were included in this study"
+    ],
+    "Characteristics[Temperature]": [
+      "50\u2009\u00b0C"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "A"
+    ],
+    "Comment[Instrument]": [
+      "Quadrupole Orbitrap mass spectrometers (Q Exactive and Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run mass spectrometric workflow",
+      "A top-five method was used to select up to the five most abundant precursor ions with a charge \u22652."
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray source"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collisional dissociation fragmentation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "25 (27 for Q Exactive HF)"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were separated over a 250\u2009min gradient from 2% to 60% (5\u2009min to 5%, 180\u2009min to 25%, 45\u2009min to 35%, 20\u2009min to 60%) in buffer B (80% acetonitrile, 0.5% formic acid) at 200\u2009nl\u2009min\u22121."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "200\u2009nl\u2009min\u22121"
+    ],
+    "Comment[FractionationMethod]": [
+      "absence of any fractionation step"
+    ],
+    "Comment[Separation]": [
+      "Peptides were separated over a 250\u2009min gradient from 2% to 60% (5\u2009min to 5%, 180\u2009min to 25%, 45\u2009min to 35%, 20\u2009min to 60%) in buffer B (80% acetonitrile, 0.5% formic acid) at 200\u2009nl\u2009min\u22121."
+    ]
+  },
+  "20150305_QEp7_FaCo_SA_CL_HEYA8_A.raw": {
+    "Source Name": [
+      "HEYA8"
+    ],
+    "Assay Name": [
+      "HEYA8_A"
+    ],
+    "Raw Data File": [
+      "20150305_QEp7_FaCo_SA_CL_HEYA8_A.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEYA8"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell lines"
+    ],
+    "Characteristics[Organism]": [
+      "confirmed to be of human origin"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55\u2009mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 replicates for each line"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Thirty cell lines were included in this study"
+    ],
+    "Characteristics[Temperature]": [
+      "50\u2009\u00b0C"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "A"
+    ],
+    "Comment[Instrument]": [
+      "Quadrupole Orbitrap mass spectrometers (Q Exactive and Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run mass spectrometric workflow",
+      "A top-five method was used to select up to the five most abundant precursor ions with a charge \u22652."
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray source"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collisional dissociation fragmentation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "25 (27 for Q Exactive HF)"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were separated over a 250\u2009min gradient from 2% to 60% (5\u2009min to 5%, 180\u2009min to 25%, 45\u2009min to 35%, 20\u2009min to 60%) in buffer B (80% acetonitrile, 0.5% formic acid) at 200\u2009nl\u2009min\u22121."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "200\u2009nl\u2009min\u22121"
+    ],
+    "Comment[FractionationMethod]": [
+      "absence of any fractionation step"
+    ],
+    "Comment[Separation]": [
+      "Peptides were separated over a 250\u2009min gradient from 2% to 60% (5\u2009min to 5%, 180\u2009min to 25%, 45\u2009min to 35%, 20\u2009min to 60%) in buffer B (80% acetonitrile, 0.5% formic acid) at 200\u2009nl\u2009min\u22121."
+    ]
+  },
+  "20150305_QEp7_FaCo_SA_CL_OVCAR3_B.raw": {
+    "Source Name": [
+      "OVCAR3"
+    ],
+    "Assay Name": [
+      "OVCAR3_B"
+    ],
+    "Raw Data File": [
+      "20150305_QEp7_FaCo_SA_CL_OVCAR3_B.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "OVCAR3"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell lines"
+    ],
+    "Characteristics[Organism]": [
+      "confirmed to be of human origin"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55\u2009mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 replicates for each line"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Thirty cell lines were included in this study"
+    ],
+    "Characteristics[Temperature]": [
+      "50\u2009\u00b0C"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "B"
+    ],
+    "Comment[Instrument]": [
+      "Quadrupole Orbitrap mass spectrometers (Q Exactive and Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run mass spectrometric workflow",
+      "A top-five method was used to select up to the five most abundant precursor ions with a charge \u22652."
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray source"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collisional dissociation fragmentation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "25 (27 for Q Exactive HF)"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were separated over a 250\u2009min gradient from 2% to 60% (5\u2009min to 5%, 180\u2009min to 25%, 45\u2009min to 35%, 20\u2009min to 60%) in buffer B (80% acetonitrile, 0.5% formic acid) at 200\u2009nl\u2009min\u22121."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "200\u2009nl\u2009min\u22121"
+    ],
+    "Comment[FractionationMethod]": [
+      "absence of any fractionation step"
+    ],
+    "Comment[Separation]": [
+      "Peptides were separated over a 250\u2009min gradient from 2% to 60% (5\u2009min to 5%, 180\u2009min to 25%, 45\u2009min to 35%, 20\u2009min to 60%) in buffer B (80% acetonitrile, 0.5% formic acid) at 200\u2009nl\u2009min\u22121."
+    ]
+  },
+  "20150305_QEp7_FaCo_SA_CL_HEYA8_B.raw": {
+    "Source Name": [
+      "HEYA8"
+    ],
+    "Assay Name": [
+      "HEYA8_B"
+    ],
+    "Raw Data File": [
+      "20150305_QEp7_FaCo_SA_CL_HEYA8_B.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEYA8"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell lines"
+    ],
+    "Characteristics[Organism]": [
+      "confirmed to be of human origin"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55\u2009mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 replicates for each line"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Thirty cell lines were included in this study"
+    ],
+    "Characteristics[Temperature]": [
+      "50\u2009\u00b0C"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "B"
+    ],
+    "Comment[Instrument]": [
+      "Quadrupole Orbitrap mass spectrometers (Q Exactive and Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run mass spectrometric workflow",
+      "A top-five method was used to select up to the five most abundant precursor ions with a charge \u22652."
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray source"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collisional dissociation fragmentation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "25 (27 for Q Exactive HF)"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were separated over a 250\u2009min gradient from 2% to 60% (5\u2009min to 5%, 180\u2009min to 25%, 45\u2009min to 35%, 20\u2009min to 60%) in buffer B (80% acetonitrile, 0.5% formic acid) at 200\u2009nl\u2009min\u22121."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "200\u2009nl\u2009min\u22121"
+    ],
+    "Comment[FractionationMethod]": [
+      "absence of any fractionation step"
+    ],
+    "Comment[Separation]": [
+      "Peptides were separated over a 250\u2009min gradient from 2% to 60% (5\u2009min to 5%, 180\u2009min to 25%, 45\u2009min to 35%, 20\u2009min to 60%) in buffer B (80% acetonitrile, 0.5% formic acid) at 200\u2009nl\u2009min\u22121."
+    ]
+  },
+  "20150305_QEp7_FaCo_SA_CL_OVKATE_C.raw": {
+    "Source Name": [
+      "OVKATE"
+    ],
+    "Assay Name": [
+      "OVKATE_C"
+    ],
+    "Raw Data File": [
+      "20150305_QEp7_FaCo_SA_CL_OVKATE_C.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "OVKATE"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell lines"
+    ],
+    "Characteristics[Organism]": [
+      "confirmed to be of human origin"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55\u2009mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 replicates for each line"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Thirty cell lines were included in this study"
+    ],
+    "Characteristics[Temperature]": [
+      "50\u2009\u00b0C"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "C"
+    ],
+    "Comment[Instrument]": [
+      "Quadrupole Orbitrap mass spectrometers (Q Exactive and Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run mass spectrometric workflow",
+      "A top-five method was used to select up to the five most abundant precursor ions with a charge \u22652."
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray source"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collisional dissociation fragmentation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "25 (27 for Q Exactive HF)"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were separated over a 250\u2009min gradient from 2% to 60% (5\u2009min to 5%, 180\u2009min to 25%, 45\u2009min to 35%, 20\u2009min to 60%) in buffer B (80% acetonitrile, 0.5% formic acid) at 200\u2009nl\u2009min\u22121."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "200\u2009nl\u2009min\u22121"
+    ],
+    "Comment[FractionationMethod]": [
+      "absence of any fractionation step"
+    ],
+    "Comment[Separation]": [
+      "Peptides were separated over a 250\u2009min gradient from 2% to 60% (5\u2009min to 5%, 180\u2009min to 25%, 45\u2009min to 35%, 20\u2009min to 60%) in buffer B (80% acetonitrile, 0.5% formic acid) at 200\u2009nl\u2009min\u22121."
+    ]
+  },
+  "20130607_EXQ4_FaCo_SA_CL_A2780_A.raw": {
+    "Source Name": [
+      "A2780"
+    ],
+    "Assay Name": [
+      "A2780_A"
+    ],
+    "Raw Data File": [
+      "20130607_EXQ4_FaCo_SA_CL_A2780_A.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "A2780"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell lines"
+    ],
+    "Characteristics[Organism]": [
+      "confirmed to be of human origin"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55\u2009mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 replicates for each line"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Thirty cell lines were included in this study"
+    ],
+    "Characteristics[Temperature]": [
+      "50\u2009\u00b0C"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "A"
+    ],
+    "Comment[Instrument]": [
+      "Quadrupole Orbitrap mass spectrometers (Q Exactive and Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run mass spectrometric workflow",
+      "A top-five method was used to select up to the five most abundant precursor ions with a charge \u22652."
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray source"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collisional dissociation fragmentation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "25 (27 for Q Exactive HF)"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were separated over a 250\u2009min gradient from 2% to 60% (5\u2009min to 5%, 180\u2009min to 25%, 45\u2009min to 35%, 20\u2009min to 60%) in buffer B (80% acetonitrile, 0.5% formic acid) at 200\u2009nl\u2009min\u22121."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "200\u2009nl\u2009min\u22121"
+    ],
+    "Comment[FractionationMethod]": [
+      "absence of any fractionation step"
+    ],
+    "Comment[Separation]": [
+      "Peptides were separated over a 250\u2009min gradient from 2% to 60% (5\u2009min to 5%, 180\u2009min to 25%, 45\u2009min to 35%, 20\u2009min to 60%) in buffer B (80% acetonitrile, 0.5% formic acid) at 200\u2009nl\u2009min\u22121."
+    ]
+  },
+  "20130607_EXQ4_FaCo_SA_CL_A2780_B.raw": {
+    "Source Name": [
+      "A2780"
+    ],
+    "Assay Name": [
+      "A2780_B"
+    ],
+    "Raw Data File": [
+      "20130607_EXQ4_FaCo_SA_CL_A2780_B.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "A2780"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell lines"
+    ],
+    "Characteristics[Organism]": [
+      "confirmed to be of human origin"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55\u2009mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 replicates for each line"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Thirty cell lines were included in this study"
+    ],
+    "Characteristics[Temperature]": [
+      "50\u2009\u00b0C"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "B"
+    ],
+    "Comment[Instrument]": [
+      "Quadrupole Orbitrap mass spectrometers (Q Exactive and Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run mass spectrometric workflow",
+      "A top-five method was used to select up to the five most abundant precursor ions with a charge \u22652."
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray source"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collisional dissociation fragmentation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "25 (27 for Q Exactive HF)"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were separated over a 250\u2009min gradient from 2% to 60% (5\u2009min to 5%, 180\u2009min to 25%, 45\u2009min to 35%, 20\u2009min to 60%) in buffer B (80% acetonitrile, 0.5% formic acid) at 200\u2009nl\u2009min\u22121."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "200\u2009nl\u2009min\u22121"
+    ],
+    "Comment[FractionationMethod]": [
+      "absence of any fractionation step"
+    ],
+    "Comment[Separation]": [
+      "Peptides were separated over a 250\u2009min gradient from 2% to 60% (5\u2009min to 5%, 180\u2009min to 25%, 45\u2009min to 35%, 20\u2009min to 60%) in buffer B (80% acetonitrile, 0.5% formic acid) at 200\u2009nl\u2009min\u22121."
+    ]
+  },
+  "20150305_QEp7_FaCo_SA_CL_OVKATE_A.raw": {
+    "Source Name": [
+      "OVKATE"
+    ],
+    "Assay Name": [
+      "OVKATE_A"
+    ],
+    "Raw Data File": [
+      "20150305_QEp7_FaCo_SA_CL_OVKATE_A.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "OVKATE"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell lines"
+    ],
+    "Characteristics[Organism]": [
+      "confirmed to be of human origin"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55\u2009mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 replicates for each line"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Thirty cell lines were included in this study"
+    ],
+    "Characteristics[Temperature]": [
+      "50\u2009\u00b0C"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "A"
+    ],
+    "Comment[Instrument]": [
+      "Quadrupole Orbitrap mass spectrometers (Q Exactive and Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run mass spectrometric workflow",
+      "A top-five method was used to select up to the five most abundant precursor ions with a charge \u22652."
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray source"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collisional dissociation fragmentation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "25 (27 for Q Exactive HF)"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were separated over a 250\u2009min gradient from 2% to 60% (5\u2009min to 5%, 180\u2009min to 25%, 45\u2009min to 35%, 20\u2009min to 60%) in buffer B (80% acetonitrile, 0.5% formic acid) at 200\u2009nl\u2009min\u22121."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "200\u2009nl\u2009min\u22121"
+    ],
+    "Comment[FractionationMethod]": [
+      "absence of any fractionation step"
+    ],
+    "Comment[Separation]": [
+      "Peptides were separated over a 250\u2009min gradient from 2% to 60% (5\u2009min to 5%, 180\u2009min to 25%, 45\u2009min to 35%, 20\u2009min to 60%) in buffer B (80% acetonitrile, 0.5% formic acid) at 200\u2009nl\u2009min\u22121."
+    ]
+  },
+  "20150305_QEp7_FaCo_SA_CL_OVCAR5_A.raw": {
+    "Source Name": [
+      "OVCAR5"
+    ],
+    "Assay Name": [
+      "OVCAR5_A"
+    ],
+    "Raw Data File": [
+      "20150305_QEp7_FaCo_SA_CL_OVCAR5_A.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "OVCAR5"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell lines"
+    ],
+    "Characteristics[Organism]": [
+      "confirmed to be of human origin"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55\u2009mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 replicates for each line"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Thirty cell lines were included in this study"
+    ],
+    "Characteristics[Temperature]": [
+      "50\u2009\u00b0C"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "A"
+    ],
+    "Comment[Instrument]": [
+      "Quadrupole Orbitrap mass spectrometers (Q Exactive and Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run mass spectrometric workflow",
+      "A top-five method was used to select up to the five most abundant precursor ions with a charge \u22652."
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray source"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collisional dissociation fragmentation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "25 (27 for Q Exactive HF)"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were separated over a 250\u2009min gradient from 2% to 60% (5\u2009min to 5%, 180\u2009min to 25%, 45\u2009min to 35%, 20\u2009min to 60%) in buffer B (80% acetonitrile, 0.5% formic acid) at 200\u2009nl\u2009min\u22121."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "200\u2009nl\u2009min\u22121"
+    ],
+    "Comment[FractionationMethod]": [
+      "absence of any fractionation step"
+    ],
+    "Comment[Separation]": [
+      "Peptides were separated over a 250\u2009min gradient from 2% to 60% (5\u2009min to 5%, 180\u2009min to 25%, 45\u2009min to 35%, 20\u2009min to 60%) in buffer B (80% acetonitrile, 0.5% formic acid) at 200\u2009nl\u2009min\u22121."
+    ]
+  },
+  "20150305_QEp7_FaCo_SA_CL_OVCAR5_C.raw": {
+    "Source Name": [
+      "OVCAR5"
+    ],
+    "Assay Name": [
+      "OVCAR5_C"
+    ],
+    "Raw Data File": [
+      "20150305_QEp7_FaCo_SA_CL_OVCAR5_C.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "OVCAR5"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell lines"
+    ],
+    "Characteristics[Organism]": [
+      "confirmed to be of human origin"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55\u2009mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 replicates for each line"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Thirty cell lines were included in this study"
+    ],
+    "Characteristics[Temperature]": [
+      "50\u2009\u00b0C"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "C"
+    ],
+    "Comment[Instrument]": [
+      "Quadrupole Orbitrap mass spectrometers (Q Exactive and Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run mass spectrometric workflow",
+      "A top-five method was used to select up to the five most abundant precursor ions with a charge \u22652."
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray source"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collisional dissociation fragmentation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "25 (27 for Q Exactive HF)"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were separated over a 250\u2009min gradient from 2% to 60% (5\u2009min to 5%, 180\u2009min to 25%, 45\u2009min to 35%, 20\u2009min to 60%) in buffer B (80% acetonitrile, 0.5% formic acid) at 200\u2009nl\u2009min\u22121."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "200\u2009nl\u2009min\u22121"
+    ],
+    "Comment[FractionationMethod]": [
+      "absence of any fractionation step"
+    ],
+    "Comment[Separation]": [
+      "Peptides were separated over a 250\u2009min gradient from 2% to 60% (5\u2009min to 5%, 180\u2009min to 25%, 45\u2009min to 35%, 20\u2009min to 60%) in buffer B (80% acetonitrile, 0.5% formic acid) at 200\u2009nl\u2009min\u22121."
+    ]
+  },
+  "20150305_QEp7_FaCo_SA_CL_OVKATE_B.raw": {
+    "Source Name": [
+      "OVKATE"
+    ],
+    "Assay Name": [
+      "OVKATE_B"
+    ],
+    "Raw Data File": [
+      "20150305_QEp7_FaCo_SA_CL_OVKATE_B.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "OVKATE"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell lines"
+    ],
+    "Characteristics[Organism]": [
+      "confirmed to be of human origin"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55\u2009mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 replicates for each line"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Thirty cell lines were included in this study"
+    ],
+    "Characteristics[Temperature]": [
+      "50\u2009\u00b0C"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "B"
+    ],
+    "Comment[Instrument]": [
+      "Quadrupole Orbitrap mass spectrometers (Q Exactive and Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run mass spectrometric workflow",
+      "A top-five method was used to select up to the five most abundant precursor ions with a charge \u22652."
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray source"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collisional dissociation fragmentation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "25 (27 for Q Exactive HF)"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were separated over a 250\u2009min gradient from 2% to 60% (5\u2009min to 5%, 180\u2009min to 25%, 45\u2009min to 35%, 20\u2009min to 60%) in buffer B (80% acetonitrile, 0.5% formic acid) at 200\u2009nl\u2009min\u22121."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "200\u2009nl\u2009min\u22121"
+    ],
+    "Comment[FractionationMethod]": [
+      "absence of any fractionation step"
+    ],
+    "Comment[Separation]": [
+      "Peptides were separated over a 250\u2009min gradient from 2% to 60% (5\u2009min to 5%, 180\u2009min to 25%, 45\u2009min to 35%, 20\u2009min to 60%) in buffer B (80% acetonitrile, 0.5% formic acid) at 200\u2009nl\u2009min\u22121."
+    ]
+  },
+  "20150305_QEp7_FaCo_SA_CL_OVSAHO_A.raw": {
+    "Source Name": [
+      "OVSAHO"
+    ],
+    "Assay Name": [
+      "OVSAHO_A"
+    ],
+    "Raw Data File": [
+      "20150305_QEp7_FaCo_SA_CL_OVSAHO_A.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "OVSAHO"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell lines"
+    ],
+    "Characteristics[Organism]": [
+      "confirmed to be of human origin"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55\u2009mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 replicates for each line"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Thirty cell lines were included in this study"
+    ],
+    "Characteristics[Temperature]": [
+      "50\u2009\u00b0C"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "A"
+    ],
+    "Comment[Instrument]": [
+      "Quadrupole Orbitrap mass spectrometers (Q Exactive and Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run mass spectrometric workflow",
+      "A top-five method was used to select up to the five most abundant precursor ions with a charge \u22652."
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray source"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collisional dissociation fragmentation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "25 (27 for Q Exactive HF)"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were separated over a 250\u2009min gradient from 2% to 60% (5\u2009min to 5%, 180\u2009min to 25%, 45\u2009min to 35%, 20\u2009min to 60%) in buffer B (80% acetonitrile, 0.5% formic acid) at 200\u2009nl\u2009min\u22121."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "200\u2009nl\u2009min\u22121"
+    ],
+    "Comment[FractionationMethod]": [
+      "absence of any fractionation step"
+    ],
+    "Comment[Separation]": [
+      "Peptides were separated over a 250\u2009min gradient from 2% to 60% (5\u2009min to 5%, 180\u2009min to 25%, 45\u2009min to 35%, 20\u2009min to 60%) in buffer B (80% acetonitrile, 0.5% formic acid) at 200\u2009nl\u2009min\u22121."
+    ]
+  },
+  "20150305_QEp7_FaCo_SA_CL_CAOV3_B.raw": {
+    "Source Name": [
+      "CAOV3"
+    ],
+    "Assay Name": [
+      "CAOV3_B"
+    ],
+    "Raw Data File": [
+      "20150305_QEp7_FaCo_SA_CL_CAOV3_B.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "CAOV3"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell lines"
+    ],
+    "Characteristics[Organism]": [
+      "confirmed to be of human origin"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55\u2009mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 replicates for each line"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Thirty cell lines were included in this study"
+    ],
+    "Characteristics[Temperature]": [
+      "50\u2009\u00b0C"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "B"
+    ],
+    "Comment[Instrument]": [
+      "Quadrupole Orbitrap mass spectrometers (Q Exactive and Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run mass spectrometric workflow",
+      "A top-five method was used to select up to the five most abundant precursor ions with a charge \u22652."
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray source"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collisional dissociation fragmentation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "25 (27 for Q Exactive HF)"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were separated over a 250\u2009min gradient from 2% to 60% (5\u2009min to 5%, 180\u2009min to 25%, 45\u2009min to 35%, 20\u2009min to 60%) in buffer B (80% acetonitrile, 0.5% formic acid) at 200\u2009nl\u2009min\u22121."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "200\u2009nl\u2009min\u22121"
+    ],
+    "Comment[FractionationMethod]": [
+      "absence of any fractionation step"
+    ],
+    "Comment[Separation]": [
+      "Peptides were separated over a 250\u2009min gradient from 2% to 60% (5\u2009min to 5%, 180\u2009min to 25%, 45\u2009min to 35%, 20\u2009min to 60%) in buffer B (80% acetonitrile, 0.5% formic acid) at 200\u2009nl\u2009min\u22121."
+    ]
+  },
+  "20150305_QEp7_FaCo_SA_CL_JHOS2_B.raw": {
+    "Source Name": [
+      "JHOS2"
+    ],
+    "Assay Name": [
+      "JHOS2_B"
+    ],
+    "Raw Data File": [
+      "20150305_QEp7_FaCo_SA_CL_JHOS2_B.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "JHOS2"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell lines"
+    ],
+    "Characteristics[Organism]": [
+      "confirmed to be of human origin"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55\u2009mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 replicates for each line"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Thirty cell lines were included in this study"
+    ],
+    "Characteristics[Temperature]": [
+      "50\u2009\u00b0C"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "B"
+    ],
+    "Comment[Instrument]": [
+      "Quadrupole Orbitrap mass spectrometers (Q Exactive and Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run mass spectrometric workflow",
+      "A top-five method was used to select up to the five most abundant precursor ions with a charge \u22652."
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray source"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collisional dissociation fragmentation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "25 (27 for Q Exactive HF)"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were separated over a 250\u2009min gradient from 2% to 60% (5\u2009min to 5%, 180\u2009min to 25%, 45\u2009min to 35%, 20\u2009min to 60%) in buffer B (80% acetonitrile, 0.5% formic acid) at 200\u2009nl\u2009min\u22121."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "200\u2009nl\u2009min\u22121"
+    ],
+    "Comment[FractionationMethod]": [
+      "absence of any fractionation step"
+    ],
+    "Comment[Separation]": [
+      "Peptides were separated over a 250\u2009min gradient from 2% to 60% (5\u2009min to 5%, 180\u2009min to 25%, 45\u2009min to 35%, 20\u2009min to 60%) in buffer B (80% acetonitrile, 0.5% formic acid) at 200\u2009nl\u2009min\u22121."
+    ]
+  },
+  "20150305_QEp7_FaCo_SA_CL_COV318_A.raw": {
+    "Source Name": [
+      "COV318"
+    ],
+    "Assay Name": [
+      "COV318_A"
+    ],
+    "Raw Data File": [
+      "20150305_QEp7_FaCo_SA_CL_COV318_A.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "COV318"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell lines"
+    ],
+    "Characteristics[Organism]": [
+      "confirmed to be of human origin"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55\u2009mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 replicates for each line"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Thirty cell lines were included in this study"
+    ],
+    "Characteristics[Temperature]": [
+      "50\u2009\u00b0C"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "A"
+    ],
+    "Comment[Instrument]": [
+      "Quadrupole Orbitrap mass spectrometers (Q Exactive and Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run mass spectrometric workflow",
+      "A top-five method was used to select up to the five most abundant precursor ions with a charge \u22652."
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray source"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collisional dissociation fragmentation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "25 (27 for Q Exactive HF)"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were separated over a 250\u2009min gradient from 2% to 60% (5\u2009min to 5%, 180\u2009min to 25%, 45\u2009min to 35%, 20\u2009min to 60%) in buffer B (80% acetonitrile, 0.5% formic acid) at 200\u2009nl\u2009min\u22121."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "200\u2009nl\u2009min\u22121"
+    ],
+    "Comment[FractionationMethod]": [
+      "absence of any fractionation step"
+    ],
+    "Comment[Separation]": [
+      "Peptides were separated over a 250\u2009min gradient from 2% to 60% (5\u2009min to 5%, 180\u2009min to 25%, 45\u2009min to 35%, 20\u2009min to 60%) in buffer B (80% acetonitrile, 0.5% formic acid) at 200\u2009nl\u2009min\u22121."
+    ]
+  },
+  "20150305_QEp7_FaCo_SA_CL_JHOS4_C.raw": {
+    "Source Name": [
+      "JHOS4"
+    ],
+    "Assay Name": [
+      "JHOS4_C"
+    ],
+    "Raw Data File": [
+      "20150305_QEp7_FaCo_SA_CL_JHOS4_C.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "JHOS4"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell lines"
+    ],
+    "Characteristics[Organism]": [
+      "confirmed to be of human origin"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55\u2009mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 replicates for each line"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Thirty cell lines were included in this study"
+    ],
+    "Characteristics[Temperature]": [
+      "50\u2009\u00b0C"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "C"
+    ],
+    "Comment[Instrument]": [
+      "Quadrupole Orbitrap mass spectrometers (Q Exactive and Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run mass spectrometric workflow",
+      "A top-five method was used to select up to the five most abundant precursor ions with a charge \u22652."
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray source"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collisional dissociation fragmentation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "25 (27 for Q Exactive HF)"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were separated over a 250\u2009min gradient from 2% to 60% (5\u2009min to 5%, 180\u2009min to 25%, 45\u2009min to 35%, 20\u2009min to 60%) in buffer B (80% acetonitrile, 0.5% formic acid) at 200\u2009nl\u2009min\u22121."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "200\u2009nl\u2009min\u22121"
+    ],
+    "Comment[FractionationMethod]": [
+      "absence of any fractionation step"
+    ],
+    "Comment[Separation]": [
+      "Peptides were separated over a 250\u2009min gradient from 2% to 60% (5\u2009min to 5%, 180\u2009min to 25%, 45\u2009min to 35%, 20\u2009min to 60%) in buffer B (80% acetonitrile, 0.5% formic acid) at 200\u2009nl\u2009min\u22121."
+    ]
+  },
+  "20150305_QEp7_FaCo_SA_CL_HEYA8_C.raw": {
+    "Source Name": [
+      "HEYA8"
+    ],
+    "Assay Name": [
+      "HEYA8_C"
+    ],
+    "Raw Data File": [
+      "20150305_QEp7_FaCo_SA_CL_HEYA8_C.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEYA8"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell lines"
+    ],
+    "Characteristics[Organism]": [
+      "confirmed to be of human origin"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55\u2009mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 replicates for each line"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Thirty cell lines were included in this study"
+    ],
+    "Characteristics[Temperature]": [
+      "50\u2009\u00b0C"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "C"
+    ],
+    "Comment[Instrument]": [
+      "Quadrupole Orbitrap mass spectrometers (Q Exactive and Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run mass spectrometric workflow",
+      "A top-five method was used to select up to the five most abundant precursor ions with a charge \u22652."
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray source"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collisional dissociation fragmentation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "25 (27 for Q Exactive HF)"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were separated over a 250\u2009min gradient from 2% to 60% (5\u2009min to 5%, 180\u2009min to 25%, 45\u2009min to 35%, 20\u2009min to 60%) in buffer B (80% acetonitrile, 0.5% formic acid) at 200\u2009nl\u2009min\u22121."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "200\u2009nl\u2009min\u22121"
+    ],
+    "Comment[FractionationMethod]": [
+      "absence of any fractionation step"
+    ],
+    "Comment[Separation]": [
+      "Peptides were separated over a 250\u2009min gradient from 2% to 60% (5\u2009min to 5%, 180\u2009min to 25%, 45\u2009min to 35%, 20\u2009min to 60%) in buffer B (80% acetonitrile, 0.5% formic acid) at 200\u2009nl\u2009min\u22121."
+    ]
+  },
+  "20150305_QEp7_FaCo_SA_CL_JHOS2_C.raw": {
+    "Source Name": [
+      "JHOS2"
+    ],
+    "Assay Name": [
+      "JHOS2_C"
+    ],
+    "Raw Data File": [
+      "20150305_QEp7_FaCo_SA_CL_JHOS2_C.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "JHOS2"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell lines"
+    ],
+    "Characteristics[Organism]": [
+      "confirmed to be of human origin"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55\u2009mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 replicates for each line"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Thirty cell lines were included in this study"
+    ],
+    "Characteristics[Temperature]": [
+      "50\u2009\u00b0C"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "C"
+    ],
+    "Comment[Instrument]": [
+      "Quadrupole Orbitrap mass spectrometers (Q Exactive and Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run mass spectrometric workflow",
+      "A top-five method was used to select up to the five most abundant precursor ions with a charge \u22652."
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray source"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collisional dissociation fragmentation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "25 (27 for Q Exactive HF)"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were separated over a 250\u2009min gradient from 2% to 60% (5\u2009min to 5%, 180\u2009min to 25%, 45\u2009min to 35%, 20\u2009min to 60%) in buffer B (80% acetonitrile, 0.5% formic acid) at 200\u2009nl\u2009min\u22121."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "200\u2009nl\u2009min\u22121"
+    ],
+    "Comment[FractionationMethod]": [
+      "absence of any fractionation step"
+    ],
+    "Comment[Separation]": [
+      "Peptides were separated over a 250\u2009min gradient from 2% to 60% (5\u2009min to 5%, 180\u2009min to 25%, 45\u2009min to 35%, 20\u2009min to 60%) in buffer B (80% acetonitrile, 0.5% formic acid) at 200\u2009nl\u2009min\u22121."
+    ]
+  },
+  "20130619_EXQ4_FaCo_SA_CL_A2780_C.raw": {
+    "Source Name": [
+      "A2780"
+    ],
+    "Assay Name": [
+      "A2780_C"
+    ],
+    "Raw Data File": [
+      "20130619_EXQ4_FaCo_SA_CL_A2780_C.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "A2780"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell lines"
+    ],
+    "Characteristics[Organism]": [
+      "confirmed to be of human origin"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55\u2009mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 replicates for each line"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Thirty cell lines were included in this study"
+    ],
+    "Characteristics[Temperature]": [
+      "50\u2009\u00b0C"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "C"
+    ],
+    "Comment[Instrument]": [
+      "Quadrupole Orbitrap mass spectrometers (Q Exactive and Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run mass spectrometric workflow",
+      "A top-five method was used to select up to the five most abundant precursor ions with a charge \u22652."
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray source"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collisional dissociation fragmentation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "25 (27 for Q Exactive HF)"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were separated over a 250\u2009min gradient from 2% to 60% (5\u2009min to 5%, 180\u2009min to 25%, 45\u2009min to 35%, 20\u2009min to 60%) in buffer B (80% acetonitrile, 0.5% formic acid) at 200\u2009nl\u2009min\u22121."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "200\u2009nl\u2009min\u22121"
+    ],
+    "Comment[FractionationMethod]": [
+      "absence of any fractionation step"
+    ],
+    "Comment[Separation]": [
+      "Peptides were separated over a 250\u2009min gradient from 2% to 60% (5\u2009min to 5%, 180\u2009min to 25%, 45\u2009min to 35%, 20\u2009min to 60%) in buffer B (80% acetonitrile, 0.5% formic acid) at 200\u2009nl\u2009min\u22121."
+    ]
+  },
+  "20150305_QEp7_FaCo_SA_CL_COV318_C.raw": {
+    "Source Name": [
+      "COV318"
+    ],
+    "Assay Name": [
+      "COV318_C"
+    ],
+    "Raw Data File": [
+      "20150305_QEp7_FaCo_SA_CL_COV318_C.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "COV318"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell lines"
+    ],
+    "Characteristics[Organism]": [
+      "confirmed to be of human origin"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55\u2009mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 replicates for each line"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Thirty cell lines were included in this study"
+    ],
+    "Characteristics[Temperature]": [
+      "50\u2009\u00b0C"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "C"
+    ],
+    "Comment[Instrument]": [
+      "Quadrupole Orbitrap mass spectrometers (Q Exactive and Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run mass spectrometric workflow",
+      "A top-five method was used to select up to the five most abundant precursor ions with a charge \u22652."
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray source"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collisional dissociation fragmentation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "25 (27 for Q Exactive HF)"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were separated over a 250\u2009min gradient from 2% to 60% (5\u2009min to 5%, 180\u2009min to 25%, 45\u2009min to 35%, 20\u2009min to 60%) in buffer B (80% acetonitrile, 0.5% formic acid) at 200\u2009nl\u2009min\u22121."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "200\u2009nl\u2009min\u22121"
+    ],
+    "Comment[FractionationMethod]": [
+      "absence of any fractionation step"
+    ],
+    "Comment[Separation]": [
+      "Peptides were separated over a 250\u2009min gradient from 2% to 60% (5\u2009min to 5%, 180\u2009min to 25%, 45\u2009min to 35%, 20\u2009min to 60%) in buffer B (80% acetonitrile, 0.5% formic acid) at 200\u2009nl\u2009min\u22121."
+    ]
+  },
+  "20150305_QEp7_FaCo_SA_CL_OVCAR3_C.raw": {
+    "Source Name": [
+      "OVCAR3"
+    ],
+    "Assay Name": [
+      "OVCAR3_C"
+    ],
+    "Raw Data File": [
+      "20150305_QEp7_FaCo_SA_CL_OVCAR3_C.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "OVCAR3"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell lines"
+    ],
+    "Characteristics[Organism]": [
+      "confirmed to be of human origin"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55\u2009mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 replicates for each line"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Thirty cell lines were included in this study"
+    ],
+    "Characteristics[Temperature]": [
+      "50\u2009\u00b0C"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "C"
+    ],
+    "Comment[Instrument]": [
+      "Quadrupole Orbitrap mass spectrometers (Q Exactive and Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run mass spectrometric workflow",
+      "A top-five method was used to select up to the five most abundant precursor ions with a charge \u22652."
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray source"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collisional dissociation fragmentation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "25 (27 for Q Exactive HF)"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were separated over a 250\u2009min gradient from 2% to 60% (5\u2009min to 5%, 180\u2009min to 25%, 45\u2009min to 35%, 20\u2009min to 60%) in buffer B (80% acetonitrile, 0.5% formic acid) at 200\u2009nl\u2009min\u22121."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "200\u2009nl\u2009min\u22121"
+    ],
+    "Comment[FractionationMethod]": [
+      "absence of any fractionation step"
+    ],
+    "Comment[Separation]": [
+      "Peptides were separated over a 250\u2009min gradient from 2% to 60% (5\u2009min to 5%, 180\u2009min to 25%, 45\u2009min to 35%, 20\u2009min to 60%) in buffer B (80% acetonitrile, 0.5% formic acid) at 200\u2009nl\u2009min\u22121."
+    ]
+  },
+  "20150305_QEp7_FaCo_SA_CL_JHOS4_B.raw": {
+    "Source Name": [
+      "JHOS4"
+    ],
+    "Assay Name": [
+      "JHOS4_B"
+    ],
+    "Raw Data File": [
+      "20150305_QEp7_FaCo_SA_CL_JHOS4_B.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "JHOS4"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell lines"
+    ],
+    "Characteristics[Organism]": [
+      "confirmed to be of human origin"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55\u2009mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 replicates for each line"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Thirty cell lines were included in this study"
+    ],
+    "Characteristics[Temperature]": [
+      "50\u2009\u00b0C"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "B"
+    ],
+    "Comment[Instrument]": [
+      "Quadrupole Orbitrap mass spectrometers (Q Exactive and Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run mass spectrometric workflow",
+      "A top-five method was used to select up to the five most abundant precursor ions with a charge \u22652."
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray source"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collisional dissociation fragmentation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "25 (27 for Q Exactive HF)"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were separated over a 250\u2009min gradient from 2% to 60% (5\u2009min to 5%, 180\u2009min to 25%, 45\u2009min to 35%, 20\u2009min to 60%) in buffer B (80% acetonitrile, 0.5% formic acid) at 200\u2009nl\u2009min\u22121."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "200\u2009nl\u2009min\u22121"
+    ],
+    "Comment[FractionationMethod]": [
+      "absence of any fractionation step"
+    ],
+    "Comment[Separation]": [
+      "Peptides were separated over a 250\u2009min gradient from 2% to 60% (5\u2009min to 5%, 180\u2009min to 25%, 45\u2009min to 35%, 20\u2009min to 60%) in buffer B (80% acetonitrile, 0.5% formic acid) at 200\u2009nl\u2009min\u22121."
+    ]
+  },
+  "20150305_QEp7_FaCo_SA_CL_OVCAR5_B.raw": {
+    "Source Name": [
+      "OVCAR5"
+    ],
+    "Assay Name": [
+      "OVCAR5_B"
+    ],
+    "Raw Data File": [
+      "20150305_QEp7_FaCo_SA_CL_OVCAR5_B.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "OVCAR5"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell lines"
+    ],
+    "Characteristics[Organism]": [
+      "confirmed to be of human origin"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55\u2009mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 replicates for each line"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Thirty cell lines were included in this study"
+    ],
+    "Characteristics[Temperature]": [
+      "50\u2009\u00b0C"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "B"
+    ],
+    "Comment[Instrument]": [
+      "Quadrupole Orbitrap mass spectrometers (Q Exactive and Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run mass spectrometric workflow",
+      "A top-five method was used to select up to the five most abundant precursor ions with a charge \u22652."
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray source"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collisional dissociation fragmentation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "25 (27 for Q Exactive HF)"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were separated over a 250\u2009min gradient from 2% to 60% (5\u2009min to 5%, 180\u2009min to 25%, 45\u2009min to 35%, 20\u2009min to 60%) in buffer B (80% acetonitrile, 0.5% formic acid) at 200\u2009nl\u2009min\u22121."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "200\u2009nl\u2009min\u22121"
+    ],
+    "Comment[FractionationMethod]": [
+      "absence of any fractionation step"
+    ],
+    "Comment[Separation]": [
+      "Peptides were separated over a 250\u2009min gradient from 2% to 60% (5\u2009min to 5%, 180\u2009min to 25%, 45\u2009min to 35%, 20\u2009min to 60%) in buffer B (80% acetonitrile, 0.5% formic acid) at 200\u2009nl\u2009min\u22121."
+    ]
+  },
+  "20150305_QEp7_FaCo_SA_CL_OVSAHO_C.raw": {
+    "Source Name": [
+      "OVSAHO"
+    ],
+    "Assay Name": [
+      "OVSAHO_C"
+    ],
+    "Raw Data File": [
+      "20150305_QEp7_FaCo_SA_CL_OVSAHO_C.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "OVSAHO"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell lines"
+    ],
+    "Characteristics[Organism]": [
+      "confirmed to be of human origin"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55\u2009mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 replicates for each line"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Thirty cell lines were included in this study"
+    ],
+    "Characteristics[Temperature]": [
+      "50\u2009\u00b0C"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "C"
+    ],
+    "Comment[Instrument]": [
+      "Quadrupole Orbitrap mass spectrometers (Q Exactive and Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run mass spectrometric workflow",
+      "A top-five method was used to select up to the five most abundant precursor ions with a charge \u22652."
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray source"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collisional dissociation fragmentation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "25 (27 for Q Exactive HF)"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were separated over a 250\u2009min gradient from 2% to 60% (5\u2009min to 5%, 180\u2009min to 25%, 45\u2009min to 35%, 20\u2009min to 60%) in buffer B (80% acetonitrile, 0.5% formic acid) at 200\u2009nl\u2009min\u22121."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "200\u2009nl\u2009min\u22121"
+    ],
+    "Comment[FractionationMethod]": [
+      "absence of any fractionation step"
+    ],
+    "Comment[Separation]": [
+      "Peptides were separated over a 250\u2009min gradient from 2% to 60% (5\u2009min to 5%, 180\u2009min to 25%, 45\u2009min to 35%, 20\u2009min to 60%) in buffer B (80% acetonitrile, 0.5% formic acid) at 200\u2009nl\u2009min\u22121."
+    ]
+  },
+  "20150305_QEp7_FaCo_SA_CL_OVSAHO_B.raw": {
+    "Source Name": [
+      "OVSAHO"
+    ],
+    "Assay Name": [
+      "OVSAHO_B"
+    ],
+    "Raw Data File": [
+      "20150305_QEp7_FaCo_SA_CL_OVSAHO_B.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "OVSAHO"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell lines"
+    ],
+    "Characteristics[Organism]": [
+      "confirmed to be of human origin"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55\u2009mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 replicates for each line"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Thirty cell lines were included in this study"
+    ],
+    "Characteristics[Temperature]": [
+      "50\u2009\u00b0C"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "B"
+    ],
+    "Comment[Instrument]": [
+      "Quadrupole Orbitrap mass spectrometers (Q Exactive and Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run mass spectrometric workflow",
+      "A top-five method was used to select up to the five most abundant precursor ions with a charge \u22652."
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray source"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collisional dissociation fragmentation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "25 (27 for Q Exactive HF)"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were separated over a 250\u2009min gradient from 2% to 60% (5\u2009min to 5%, 180\u2009min to 25%, 45\u2009min to 35%, 20\u2009min to 60%) in buffer B (80% acetonitrile, 0.5% formic acid) at 200\u2009nl\u2009min\u22121."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "200\u2009nl\u2009min\u22121"
+    ],
+    "Comment[FractionationMethod]": [
+      "absence of any fractionation step"
+    ],
+    "Comment[Separation]": [
+      "Peptides were separated over a 250\u2009min gradient from 2% to 60% (5\u2009min to 5%, 180\u2009min to 25%, 45\u2009min to 35%, 20\u2009min to 60%) in buffer B (80% acetonitrile, 0.5% formic acid) at 200\u2009nl\u2009min\u22121."
+    ]
+  },
+  "20150305_QEp7_FaCo_SA_CL_JHOS4_A.raw": {
+    "Source Name": [
+      "JHOS4"
+    ],
+    "Assay Name": [
+      "JHOS4_A"
+    ],
+    "Raw Data File": [
+      "20150305_QEp7_FaCo_SA_CL_JHOS4_A.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "JHOS4"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell lines"
+    ],
+    "Characteristics[Organism]": [
+      "confirmed to be of human origin"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55\u2009mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 replicates for each line"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Thirty cell lines were included in this study"
+    ],
+    "Characteristics[Temperature]": [
+      "50\u2009\u00b0C"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "A"
+    ],
+    "Comment[Instrument]": [
+      "Quadrupole Orbitrap mass spectrometers (Q Exactive and Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run mass spectrometric workflow",
+      "A top-five method was used to select up to the five most abundant precursor ions with a charge \u22652."
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray source"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collisional dissociation fragmentation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "25 (27 for Q Exactive HF)"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were separated over a 250\u2009min gradient from 2% to 60% (5\u2009min to 5%, 180\u2009min to 25%, 45\u2009min to 35%, 20\u2009min to 60%) in buffer B (80% acetonitrile, 0.5% formic acid) at 200\u2009nl\u2009min\u22121."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "200\u2009nl\u2009min\u22121"
+    ],
+    "Comment[FractionationMethod]": [
+      "absence of any fractionation step"
+    ],
+    "Comment[Separation]": [
+      "Peptides were separated over a 250\u2009min gradient from 2% to 60% (5\u2009min to 5%, 180\u2009min to 25%, 45\u2009min to 35%, 20\u2009min to 60%) in buffer B (80% acetonitrile, 0.5% formic acid) at 200\u2009nl\u2009min\u22121."
+    ]
+  },
+  "20150305_QEp7_FaCo_SA_CL_CAOV3_C.raw": {
+    "Source Name": [
+      "CAOV3"
+    ],
+    "Assay Name": [
+      "CAOV3_C"
+    ],
+    "Raw Data File": [
+      "20150305_QEp7_FaCo_SA_CL_CAOV3_C.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "CAOV3"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell lines"
+    ],
+    "Characteristics[Organism]": [
+      "confirmed to be of human origin"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55\u2009mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 replicates for each line"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Thirty cell lines were included in this study"
+    ],
+    "Characteristics[Temperature]": [
+      "50\u2009\u00b0C"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "C"
+    ],
+    "Comment[Instrument]": [
+      "Quadrupole Orbitrap mass spectrometers (Q Exactive and Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run mass spectrometric workflow",
+      "A top-five method was used to select up to the five most abundant precursor ions with a charge \u22652."
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray source"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collisional dissociation fragmentation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "25 (27 for Q Exactive HF)"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were separated over a 250\u2009min gradient from 2% to 60% (5\u2009min to 5%, 180\u2009min to 25%, 45\u2009min to 35%, 20\u2009min to 60%) in buffer B (80% acetonitrile, 0.5% formic acid) at 200\u2009nl\u2009min\u22121."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "200\u2009nl\u2009min\u22121"
+    ],
+    "Comment[FractionationMethod]": [
+      "absence of any fractionation step"
+    ],
+    "Comment[Separation]": [
+      "Peptides were separated over a 250\u2009min gradient from 2% to 60% (5\u2009min to 5%, 180\u2009min to 25%, 45\u2009min to 35%, 20\u2009min to 60%) in buffer B (80% acetonitrile, 0.5% formic acid) at 200\u2009nl\u2009min\u22121."
+    ]
+  },
+  "20150305_QEp7_FaCo_SA_CL_CAOV3_A.raw": {
+    "Source Name": [
+      "CAOV3"
+    ],
+    "Assay Name": [
+      "CAOV3_A"
+    ],
+    "Raw Data File": [
+      "20150305_QEp7_FaCo_SA_CL_CAOV3_A.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "CAOV3"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell lines"
+    ],
+    "Characteristics[Organism]": [
+      "confirmed to be of human origin"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55\u2009mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 replicates for each line"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Thirty cell lines were included in this study"
+    ],
+    "Characteristics[Temperature]": [
+      "50\u2009\u00b0C"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "A"
+    ],
+    "Comment[Instrument]": [
+      "Quadrupole Orbitrap mass spectrometers (Q Exactive and Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "single-run mass spectrometric workflow",
+      "A top-five method was used to select up to the five most abundant precursor ions with a charge \u22652."
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray source"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collisional dissociation fragmentation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "25 (27 for Q Exactive HF)"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were separated over a 250\u2009min gradient from 2% to 60% (5\u2009min to 5%, 180\u2009min to 25%, 45\u2009min to 35%, 20\u2009min to 60%) in buffer B (80% acetonitrile, 0.5% formic acid) at 200\u2009nl\u2009min\u22121."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "200\u2009nl\u2009min\u22121"
+    ],
+    "Comment[FractionationMethod]": [
+      "absence of any fractionation step"
+    ],
+    "Comment[Separation]": [
+      "Peptides were separated over a 250\u2009min gradient from 2% to 60% (5\u2009min to 5%, 180\u2009min to 25%, 45\u2009min to 35%, 20\u2009min to 60%) in buffer B (80% acetonitrile, 0.5% formic acid) at 200\u2009nl\u2009min\u22121."
+    ]
+  }
+}

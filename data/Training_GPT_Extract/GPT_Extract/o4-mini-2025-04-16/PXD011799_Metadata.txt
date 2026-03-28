@@ -1,0 +1,80 @@
+CellType: B cells  
+Treatment: immune checkpoint blockade  
+Disease: human melanoma  
+CellType: Human B cells  
+CellType: plasmablast-like cells  
+Compound: CCL3  
+Compound: CCL4  
+Compound: CCL5  
+Treatment: anti-CD20 immunotherapy  
+Treatment: anti-PD-1 blockade  
+Treatment: immune checkpoint blockade therapy  
+Treatment: anti-CD20 antibody ofatumumab  
+Treatment: anti-CD20 antibody rituximab  
+Disease: metastatic melanoma  
+Specimen: PBMCs  
+GeneticModification: EBV-immortalized  
+CellLine: Jurkat E6.1 NF-kB::eGFP  
+CellLine: Jurkat E6.1 NF-kB::eGFP-PD-1  
+Compound: Staphylococcus enterotoxin E (SEE)  
+Compound: pembrolizumab (KeytrudaTM)  
+ConcentrationOfCompound: 300 pg/ml  
+ConcentrationOfCompound: 1 ng/ml  
+ConcentrationOfCompound: 10 µg/ml  
+Instrument: FACS Aria III  
+Instrument: FACS Calibur  
+Instrument: Orbitrap Fusion Lumos mass spectrometer  
+Instrument: Ultimate 3000 HPLC  
+Instrument: Ultimate 3000 RSLC nano-flow chromatography system  
+Instrument: Illumina HiSeq 2500  
+Instrument: Illumina HiSeq 3000/4000 instruments  
+EnrichmentMethod: TiO2 phosphopeptide enrichment  
+AssayName: SENSE mRNA-Seq Library Prep Kit V2  
+AssayName: TruSeq Stranded mRNA LT sample preparation kit  
+AssayName: BCA protein assay kit  
+AssayName: msConvert  
+AssayName: MSGF+  
+AssayName: X!Tandem  
+AssayName: isobar  
+AssayName: MSnbase  
+AssayName: limma  
+AssayName: edgeR  
+AssayName: Camera  
+AssayName: xCell  
+AssayName: GSVA  
+AssayName: geneRecommender  
+AssayName: CGDS-R  
+AssayName: STAR aligner  
+Separation: filter-aided sample preparation  
+FractionationMethod: off-line high-pH reversed phase fractionations  
+GradientTime: 2 h  
+FlowRateChromatogram: 0.8 ml/min  
+FlowRateChromatogram: 230 nl/min  
+Temperature: 37 °C  
+Temperature: 20 °C  
+Time: 48 h  
+Compound: fetal calf serum (FCS)  
+ConcentrationOfCompound: 10% FCS  
+Compound: penicillin G  
+ConcentrationOfCompound: 100 IU penicillin G  
+Compound: streptomycin  
+ConcentrationOfCompound: 100 mg/ml streptomycin  
+Compound: sodium dodecyl sulfate (SDS)  
+ConcentrationOfCompound: 2% sodium dodecyl sulfate (SDS)  
+Compound: Tris/HCl pH 7.6  
+ConcentrationOfCompound: 100 mM Tris/HCl pH 7.6  
+Compound: sodium vanadate  
+ConcentrationOfCompound: 1 mM sodium vanadate  
+Compound: NaF  
+ConcentrationOfCompound: 1 mM NaF  
+Compound: dithiothreitol (DTT)  
+ConcentrationOfCompound: 0.1 M dithiothreitol (DTT)  
+Compound: urea  
+ConcentrationOfCompound: 8 M urea  
+Compound: iodoacetamide  
+ConcentrationOfCompound: 50 mM iodoacetamide  
+Compound: triethylammonium bicarbonate (TEAB)  
+ConcentrationOfCompound: 50 mM triethylammonium bicarbonate (TEAB)  
+FragmentationMethod: HCD  
+CollisionEnergy: normalized collision energy of 42%  
+Label: 10plex tandem mass tag (TMT) reagents  

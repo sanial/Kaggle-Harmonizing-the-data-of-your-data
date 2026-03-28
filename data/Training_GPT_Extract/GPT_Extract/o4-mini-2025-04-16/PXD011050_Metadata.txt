@@ -1,0 +1,80 @@
+Organism: H. volcanii H26  
+Organism: N. magadii ATCC 43099  
+Organism: Haloferax volcanii  
+AssayName: mass spectrometry (MS) based proteomics  
+AssayName: peptide spectrum matching  
+AssayName: multiplex quantitative stable isotope labeling in cell culture (SILAC)  
+AssayName: LC-ESI-MS/MS  
+AssayName: in vivo cross-linking assay  
+AssayName: whole proteome turnover  
+Instrument: LTQ Orbitrap-Velos mass spectrometer  
+Instrument: Q Exactive Plus mass spectrometer  
+Instrument: nanoACQUITY gradient UPLC pump system  
+Instrument: Easy-nLC II  
+Instrument: Easy-nLC 1200  
+Instrument: TripleTOF 5600+  
+Instrument: Eksigent nanoLC 425  
+Instrument: Q Exactive HF mass spectrometer  
+Instrument: UltiMate 3000 RSLCnano system  
+Instrument: RSLC system (Ultimate 3000, Dionex, Sunnyvale, CA)  
+CleavageAgent: trypsin  
+CleavageAgent: GluC  
+ReductionReagent: tris-(2-carboxyethyl) phosphine (TCEP)  
+ReductionReagent: β-mercaptoethanol  
+AlkylationReagent: methyl methanethiosulfonate (MMTS)  
+AlkylationReagent: 2-iodoacetamide  
+EnrichmentMethod: α-Flag chromatography  
+EnrichmentMethod: cesium chloride fractionation  
+ConcentrationOfCompound: 2.5 mM NaOCl  
+ConcentrationOfCompound: 0.3 mM each  
+ConcentrationOfCompound: 7 M urea  
+ConcentrationOfCompound: 2 M thiourea  
+ConcentrationOfCompound: 4% (w/v) CHAPS  
+ConcentrationOfCompound: 1 mM PMSF  
+ConcentrationOfCompound: 1 mM benzamidine  
+ConcentrationOfCompound: 2% (w/v) SDS  
+ConcentrationOfCompound: 150 mM NaCl  
+ConcentrationOfCompound: 100 mM EDTA  
+ConcentrationOfCompound: 50 mM Tris pH 8.5  
+ConcentrationOfCompound: 1 mM MgCl2  
+ConcentrationOfCompound: 1% (w/v) SDS  
+ConcentrationOfCompound: 2% (v/v) β-mercaptoethanol  
+ConcentrationOfCompound: 80% (v/v) acetone  
+ConcentrationOfCompound: 30 mM 2-iodoacetamide  
+ConcentrationOfCompound: 25 mM Tris-HCl, pH 7.1  
+ConcentrationOfCompound: 6 M urea  
+ConcentrationOfCompound: 3 M thiourea  
+ConcentrationOfCompound: 50 mM KCl  
+ConcentrationOfCompound: 70 mM DTT  
+ConcentrationOfCompound: 2% (v/v) formic acid  
+ConcentrationOfCompound: 2–40% (v/v) acetonitrile  
+Temperature: 42 °C  
+Temperature: 45 °C  
+Temperature: 53 °C  
+Temperature: −80 °C  
+Temperature: 4 °C  
+SamplingTime: 0 h  
+SamplingTime: 1 h  
+SamplingTime: 2 h  
+SamplingTime: 3 h  
+FlowRateChromatogram: 250 nl min−1  
+GradientTime: 2 h  
+FragmentationMethod: HCD fragmentation  
+FragmentationMethod: in-source collision-induced dissociation (IS-CID)  
+CollisionEnergy: normalized collision energy of 30  
+CollisionEnergy: normalized collision energy of 27  
+CollisionEnergy: normalized collision energy of 28  
+FractionationMethod: strong cation exchange chromatography (SCX)  
+FractionationMethod: high‐pH/reversed‐phase separation  
+NumberOfFractions: 14  
+GeneticModification: ΔubaA  
+GeneticModification: ΔrhoII  
+GeneticModification: ΔartA  
+GeneticModification: Δabi  
+GeneticModification: ΔpssA  
+GeneticModification: A90K  
+MaterialType: centrifugal filter units (Millipore)  
+MaterialType: C18 PepMap 100 column (15 or 50 cm)  
+MaterialType: 50-cm C18 column  
+MaterialType: Acquity UPLC M-Class HSS T3 Column, 1.8 µm, 75 µm × 250 mm; Waters  
+MaterialType: whole-cell extracts

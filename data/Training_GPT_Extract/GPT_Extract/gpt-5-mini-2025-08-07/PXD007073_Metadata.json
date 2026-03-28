@@ -1,0 +1,2541 @@
+{
+  "20150902VS04.raw": {
+    "Source Name": [
+      "Source_20150902VS04"
+    ],
+    "Assay Name": [
+      "Source_20150902VS04_Assay"
+    ],
+    "Raw Data File": [
+      "20150902VS04.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "grade I, II and III frozen meningioma specimens and three normal healthy human meninges"
+    ],
+    "Characteristics[Specimen]": [
+      "frozen meningioma specimens"
+    ],
+    "Characteristics[Organism]": [
+      "human meningiomas"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C protease (Lysyl Endopeptidase®, Mass Spectrometry Grade, Wako)",
+      "trypsin (Promega, Wisconsin, US)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0·1 M dithiotheitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM 2-iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Qiagen® PhosphoProtein Purification Kit (Qiagen)",
+      "Titansphere 10 μm TiO2 beads (GL Sciences)",
+      "titanium dioxide (TiO2) beads",
+      "stop and go extraction (STAGE) tips"
+    ],
+    "Comment[FractionationMethod]": [
+      "Sample lanes were excised from gels, sliced into 6 fractions that were cut into 1 × 1 mm pieces before in-gel digestion."
+    ],
+    "Comment[NumberOfFractions]": [
+      "sliced into 6 fractions"
+    ],
+    "Comment[Separation]": [
+      "Proteins and phosphoproteins were separated using SDS-PAGE on 4–15% Mini-PROTEAN® TGX™ Precast Gels (Bio-Rad)"
+    ],
+    "FactorValue[Experimental]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ]
+  },
+  "20160403VS40.raw": {
+    "Source Name": [
+      "Source_20160403VS40"
+    ],
+    "Assay Name": [
+      "Source_20160403VS40_Assay"
+    ],
+    "Raw Data File": [
+      "20160403VS40.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "grade I, II and III frozen meningioma specimens and three normal healthy human meninges"
+    ],
+    "Characteristics[Specimen]": [
+      "frozen meningioma specimens"
+    ],
+    "Characteristics[Organism]": [
+      "human meningiomas"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C protease (Lysyl Endopeptidase®, Mass Spectrometry Grade, Wako)",
+      "trypsin (Promega, Wisconsin, US)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0·1 M dithiotheitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM 2-iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Qiagen® PhosphoProtein Purification Kit (Qiagen)",
+      "Titansphere 10 μm TiO2 beads (GL Sciences)",
+      "titanium dioxide (TiO2) beads",
+      "stop and go extraction (STAGE) tips"
+    ],
+    "Comment[FractionationMethod]": [
+      "Sample lanes were excised from gels, sliced into 6 fractions that were cut into 1 × 1 mm pieces before in-gel digestion."
+    ],
+    "Comment[NumberOfFractions]": [
+      "sliced into 6 fractions"
+    ],
+    "Comment[Separation]": [
+      "Proteins and phosphoproteins were separated using SDS-PAGE on 4–15% Mini-PROTEAN® TGX™ Precast Gels (Bio-Rad)"
+    ],
+    "FactorValue[Experimental]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ]
+  },
+  "20160403VS02.raw": {
+    "Source Name": [
+      "Source_20160403VS02"
+    ],
+    "Assay Name": [
+      "Source_20160403VS02_Assay"
+    ],
+    "Raw Data File": [
+      "20160403VS02.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "grade I, II and III frozen meningioma specimens and three normal healthy human meninges"
+    ],
+    "Characteristics[Specimen]": [
+      "frozen meningioma specimens"
+    ],
+    "Characteristics[Organism]": [
+      "human meningiomas"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C protease (Lysyl Endopeptidase®, Mass Spectrometry Grade, Wako)",
+      "trypsin (Promega, Wisconsin, US)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0·1 M dithiotheitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM 2-iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Qiagen® PhosphoProtein Purification Kit (Qiagen)",
+      "Titansphere 10 μm TiO2 beads (GL Sciences)",
+      "titanium dioxide (TiO2) beads",
+      "stop and go extraction (STAGE) tips"
+    ],
+    "Comment[FractionationMethod]": [
+      "Sample lanes were excised from gels, sliced into 6 fractions that were cut into 1 × 1 mm pieces before in-gel digestion."
+    ],
+    "Comment[NumberOfFractions]": [
+      "sliced into 6 fractions"
+    ],
+    "Comment[Separation]": [
+      "Proteins and phosphoproteins were separated using SDS-PAGE on 4–15% Mini-PROTEAN® TGX™ Precast Gels (Bio-Rad)"
+    ],
+    "FactorValue[Experimental]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ]
+  },
+  "20160403VS39.raw": {
+    "Source Name": [
+      "Source_20160403VS39"
+    ],
+    "Assay Name": [
+      "Source_20160403VS39_Assay"
+    ],
+    "Raw Data File": [
+      "20160403VS39.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "grade I, II and III frozen meningioma specimens and three normal healthy human meninges"
+    ],
+    "Characteristics[Specimen]": [
+      "frozen meningioma specimens"
+    ],
+    "Characteristics[Organism]": [
+      "human meningiomas"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C protease (Lysyl Endopeptidase®, Mass Spectrometry Grade, Wako)",
+      "trypsin (Promega, Wisconsin, US)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0·1 M dithiotheitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM 2-iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Qiagen® PhosphoProtein Purification Kit (Qiagen)",
+      "Titansphere 10 μm TiO2 beads (GL Sciences)",
+      "titanium dioxide (TiO2) beads",
+      "stop and go extraction (STAGE) tips"
+    ],
+    "Comment[FractionationMethod]": [
+      "Sample lanes were excised from gels, sliced into 6 fractions that were cut into 1 × 1 mm pieces before in-gel digestion."
+    ],
+    "Comment[NumberOfFractions]": [
+      "sliced into 6 fractions"
+    ],
+    "Comment[Separation]": [
+      "Proteins and phosphoproteins were separated using SDS-PAGE on 4–15% Mini-PROTEAN® TGX™ Precast Gels (Bio-Rad)"
+    ],
+    "FactorValue[Experimental]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ]
+  },
+  "20150918VS36.raw": {
+    "Source Name": [
+      "Source_20150918VS36"
+    ],
+    "Assay Name": [
+      "Source_20150918VS36_Assay"
+    ],
+    "Raw Data File": [
+      "20150918VS36.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "grade I, II and III frozen meningioma specimens and three normal healthy human meninges"
+    ],
+    "Characteristics[Specimen]": [
+      "frozen meningioma specimens"
+    ],
+    "Characteristics[Organism]": [
+      "human meningiomas"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C protease (Lysyl Endopeptidase®, Mass Spectrometry Grade, Wako)",
+      "trypsin (Promega, Wisconsin, US)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0·1 M dithiotheitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM 2-iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Qiagen® PhosphoProtein Purification Kit (Qiagen)",
+      "Titansphere 10 μm TiO2 beads (GL Sciences)",
+      "titanium dioxide (TiO2) beads",
+      "stop and go extraction (STAGE) tips"
+    ],
+    "Comment[FractionationMethod]": [
+      "Sample lanes were excised from gels, sliced into 6 fractions that were cut into 1 × 1 mm pieces before in-gel digestion."
+    ],
+    "Comment[NumberOfFractions]": [
+      "sliced into 6 fractions"
+    ],
+    "Comment[Separation]": [
+      "Proteins and phosphoproteins were separated using SDS-PAGE on 4–15% Mini-PROTEAN® TGX™ Precast Gels (Bio-Rad)"
+    ],
+    "FactorValue[Experimental]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ]
+  },
+  "20150918VS44.raw": {
+    "Source Name": [
+      "Source_20150918VS44"
+    ],
+    "Assay Name": [
+      "Source_20150918VS44_Assay"
+    ],
+    "Raw Data File": [
+      "20150918VS44.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "grade I, II and III frozen meningioma specimens and three normal healthy human meninges"
+    ],
+    "Characteristics[Specimen]": [
+      "frozen meningioma specimens"
+    ],
+    "Characteristics[Organism]": [
+      "human meningiomas"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C protease (Lysyl Endopeptidase®, Mass Spectrometry Grade, Wako)",
+      "trypsin (Promega, Wisconsin, US)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0·1 M dithiotheitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM 2-iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Qiagen® PhosphoProtein Purification Kit (Qiagen)",
+      "Titansphere 10 μm TiO2 beads (GL Sciences)",
+      "titanium dioxide (TiO2) beads",
+      "stop and go extraction (STAGE) tips"
+    ],
+    "Comment[FractionationMethod]": [
+      "Sample lanes were excised from gels, sliced into 6 fractions that were cut into 1 × 1 mm pieces before in-gel digestion."
+    ],
+    "Comment[NumberOfFractions]": [
+      "sliced into 6 fractions"
+    ],
+    "Comment[Separation]": [
+      "Proteins and phosphoproteins were separated using SDS-PAGE on 4–15% Mini-PROTEAN® TGX™ Precast Gels (Bio-Rad)"
+    ],
+    "FactorValue[Experimental]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ]
+  },
+  "20150924VS08.raw": {
+    "Source Name": [
+      "Source_20150924VS08"
+    ],
+    "Assay Name": [
+      "Source_20150924VS08_Assay"
+    ],
+    "Raw Data File": [
+      "20150924VS08.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "grade I, II and III frozen meningioma specimens and three normal healthy human meninges"
+    ],
+    "Characteristics[Specimen]": [
+      "frozen meningioma specimens"
+    ],
+    "Characteristics[Organism]": [
+      "human meningiomas"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C protease (Lysyl Endopeptidase®, Mass Spectrometry Grade, Wako)",
+      "trypsin (Promega, Wisconsin, US)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0·1 M dithiotheitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM 2-iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Qiagen® PhosphoProtein Purification Kit (Qiagen)",
+      "Titansphere 10 μm TiO2 beads (GL Sciences)",
+      "titanium dioxide (TiO2) beads",
+      "stop and go extraction (STAGE) tips"
+    ],
+    "Comment[FractionationMethod]": [
+      "Sample lanes were excised from gels, sliced into 6 fractions that were cut into 1 × 1 mm pieces before in-gel digestion."
+    ],
+    "Comment[NumberOfFractions]": [
+      "sliced into 6 fractions"
+    ],
+    "Comment[Separation]": [
+      "Proteins and phosphoproteins were separated using SDS-PAGE on 4–15% Mini-PROTEAN® TGX™ Precast Gels (Bio-Rad)"
+    ],
+    "FactorValue[Experimental]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ]
+  },
+  "20160423VS25.raw": {
+    "Source Name": [
+      "Source_20160423VS25"
+    ],
+    "Assay Name": [
+      "Source_20160423VS25_Assay"
+    ],
+    "Raw Data File": [
+      "20160423VS25.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "grade I, II and III frozen meningioma specimens and three normal healthy human meninges"
+    ],
+    "Characteristics[Specimen]": [
+      "frozen meningioma specimens"
+    ],
+    "Characteristics[Organism]": [
+      "human meningiomas"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C protease (Lysyl Endopeptidase®, Mass Spectrometry Grade, Wako)",
+      "trypsin (Promega, Wisconsin, US)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0·1 M dithiotheitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM 2-iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Qiagen® PhosphoProtein Purification Kit (Qiagen)",
+      "Titansphere 10 μm TiO2 beads (GL Sciences)",
+      "titanium dioxide (TiO2) beads",
+      "stop and go extraction (STAGE) tips"
+    ],
+    "Comment[FractionationMethod]": [
+      "Sample lanes were excised from gels, sliced into 6 fractions that were cut into 1 × 1 mm pieces before in-gel digestion."
+    ],
+    "Comment[NumberOfFractions]": [
+      "sliced into 6 fractions"
+    ],
+    "Comment[Separation]": [
+      "Proteins and phosphoproteins were separated using SDS-PAGE on 4–15% Mini-PROTEAN® TGX™ Precast Gels (Bio-Rad)"
+    ],
+    "FactorValue[Experimental]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ]
+  },
+  "20160423VS23.raw": {
+    "Source Name": [
+      "Source_20160423VS23"
+    ],
+    "Assay Name": [
+      "Source_20160423VS23_Assay"
+    ],
+    "Raw Data File": [
+      "20160423VS23.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "grade I, II and III frozen meningioma specimens and three normal healthy human meninges"
+    ],
+    "Characteristics[Specimen]": [
+      "frozen meningioma specimens"
+    ],
+    "Characteristics[Organism]": [
+      "human meningiomas"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C protease (Lysyl Endopeptidase®, Mass Spectrometry Grade, Wako)",
+      "trypsin (Promega, Wisconsin, US)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0·1 M dithiotheitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM 2-iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Qiagen® PhosphoProtein Purification Kit (Qiagen)",
+      "Titansphere 10 μm TiO2 beads (GL Sciences)",
+      "titanium dioxide (TiO2) beads",
+      "stop and go extraction (STAGE) tips"
+    ],
+    "Comment[FractionationMethod]": [
+      "Sample lanes were excised from gels, sliced into 6 fractions that were cut into 1 × 1 mm pieces before in-gel digestion."
+    ],
+    "Comment[NumberOfFractions]": [
+      "sliced into 6 fractions"
+    ],
+    "Comment[Separation]": [
+      "Proteins and phosphoproteins were separated using SDS-PAGE on 4–15% Mini-PROTEAN® TGX™ Precast Gels (Bio-Rad)"
+    ],
+    "FactorValue[Experimental]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ]
+  },
+  "20160423VS22.raw": {
+    "Source Name": [
+      "Source_20160423VS22"
+    ],
+    "Assay Name": [
+      "Source_20160423VS22_Assay"
+    ],
+    "Raw Data File": [
+      "20160423VS22.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "grade I, II and III frozen meningioma specimens and three normal healthy human meninges"
+    ],
+    "Characteristics[Specimen]": [
+      "frozen meningioma specimens"
+    ],
+    "Characteristics[Organism]": [
+      "human meningiomas"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C protease (Lysyl Endopeptidase®, Mass Spectrometry Grade, Wako)",
+      "trypsin (Promega, Wisconsin, US)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0·1 M dithiotheitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM 2-iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Qiagen® PhosphoProtein Purification Kit (Qiagen)",
+      "Titansphere 10 μm TiO2 beads (GL Sciences)",
+      "titanium dioxide (TiO2) beads",
+      "stop and go extraction (STAGE) tips"
+    ],
+    "Comment[FractionationMethod]": [
+      "Sample lanes were excised from gels, sliced into 6 fractions that were cut into 1 × 1 mm pieces before in-gel digestion."
+    ],
+    "Comment[NumberOfFractions]": [
+      "sliced into 6 fractions"
+    ],
+    "Comment[Separation]": [
+      "Proteins and phosphoproteins were separated using SDS-PAGE on 4–15% Mini-PROTEAN® TGX™ Precast Gels (Bio-Rad)"
+    ],
+    "FactorValue[Experimental]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ]
+  },
+  "20150823VS49.raw": {
+    "Source Name": [
+      "Source_20150823VS49"
+    ],
+    "Assay Name": [
+      "Source_20150823VS49_Assay"
+    ],
+    "Raw Data File": [
+      "20150823VS49.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "grade I, II and III frozen meningioma specimens and three normal healthy human meninges"
+    ],
+    "Characteristics[Specimen]": [
+      "frozen meningioma specimens"
+    ],
+    "Characteristics[Organism]": [
+      "human meningiomas"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C protease (Lysyl Endopeptidase®, Mass Spectrometry Grade, Wako)",
+      "trypsin (Promega, Wisconsin, US)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0·1 M dithiotheitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM 2-iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Qiagen® PhosphoProtein Purification Kit (Qiagen)",
+      "Titansphere 10 μm TiO2 beads (GL Sciences)",
+      "titanium dioxide (TiO2) beads",
+      "stop and go extraction (STAGE) tips"
+    ],
+    "Comment[FractionationMethod]": [
+      "Sample lanes were excised from gels, sliced into 6 fractions that were cut into 1 × 1 mm pieces before in-gel digestion."
+    ],
+    "Comment[NumberOfFractions]": [
+      "sliced into 6 fractions"
+    ],
+    "Comment[Separation]": [
+      "Proteins and phosphoproteins were separated using SDS-PAGE on 4–15% Mini-PROTEAN® TGX™ Precast Gels (Bio-Rad)"
+    ],
+    "FactorValue[Experimental]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ]
+  },
+  "20150902VS09.raw": {
+    "Source Name": [
+      "Source_20150902VS09"
+    ],
+    "Assay Name": [
+      "Source_20150902VS09_Assay"
+    ],
+    "Raw Data File": [
+      "20150902VS09.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "grade I, II and III frozen meningioma specimens and three normal healthy human meninges"
+    ],
+    "Characteristics[Specimen]": [
+      "frozen meningioma specimens"
+    ],
+    "Characteristics[Organism]": [
+      "human meningiomas"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C protease (Lysyl Endopeptidase®, Mass Spectrometry Grade, Wako)",
+      "trypsin (Promega, Wisconsin, US)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0·1 M dithiotheitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM 2-iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Qiagen® PhosphoProtein Purification Kit (Qiagen)",
+      "Titansphere 10 μm TiO2 beads (GL Sciences)",
+      "titanium dioxide (TiO2) beads",
+      "stop and go extraction (STAGE) tips"
+    ],
+    "Comment[FractionationMethod]": [
+      "Sample lanes were excised from gels, sliced into 6 fractions that were cut into 1 × 1 mm pieces before in-gel digestion."
+    ],
+    "Comment[NumberOfFractions]": [
+      "sliced into 6 fractions"
+    ],
+    "Comment[Separation]": [
+      "Proteins and phosphoproteins were separated using SDS-PAGE on 4–15% Mini-PROTEAN® TGX™ Precast Gels (Bio-Rad)"
+    ],
+    "FactorValue[Experimental]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ]
+  },
+  "20150918VS28.raw": {
+    "Source Name": [
+      "Source_20150918VS28"
+    ],
+    "Assay Name": [
+      "Source_20150918VS28_Assay"
+    ],
+    "Raw Data File": [
+      "20150918VS28.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "grade I, II and III frozen meningioma specimens and three normal healthy human meninges"
+    ],
+    "Characteristics[Specimen]": [
+      "frozen meningioma specimens"
+    ],
+    "Characteristics[Organism]": [
+      "human meningiomas"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C protease (Lysyl Endopeptidase®, Mass Spectrometry Grade, Wako)",
+      "trypsin (Promega, Wisconsin, US)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0·1 M dithiotheitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM 2-iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Qiagen® PhosphoProtein Purification Kit (Qiagen)",
+      "Titansphere 10 μm TiO2 beads (GL Sciences)",
+      "titanium dioxide (TiO2) beads",
+      "stop and go extraction (STAGE) tips"
+    ],
+    "Comment[FractionationMethod]": [
+      "Sample lanes were excised from gels, sliced into 6 fractions that were cut into 1 × 1 mm pieces before in-gel digestion."
+    ],
+    "Comment[NumberOfFractions]": [
+      "sliced into 6 fractions"
+    ],
+    "Comment[Separation]": [
+      "Proteins and phosphoproteins were separated using SDS-PAGE on 4–15% Mini-PROTEAN® TGX™ Precast Gels (Bio-Rad)"
+    ],
+    "FactorValue[Experimental]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ]
+  },
+  "20160403VS54.raw": {
+    "Source Name": [
+      "Source_20160403VS54"
+    ],
+    "Assay Name": [
+      "Source_20160403VS54_Assay"
+    ],
+    "Raw Data File": [
+      "20160403VS54.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "grade I, II and III frozen meningioma specimens and three normal healthy human meninges"
+    ],
+    "Characteristics[Specimen]": [
+      "frozen meningioma specimens"
+    ],
+    "Characteristics[Organism]": [
+      "human meningiomas"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C protease (Lysyl Endopeptidase®, Mass Spectrometry Grade, Wako)",
+      "trypsin (Promega, Wisconsin, US)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0·1 M dithiotheitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM 2-iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Qiagen® PhosphoProtein Purification Kit (Qiagen)",
+      "Titansphere 10 μm TiO2 beads (GL Sciences)",
+      "titanium dioxide (TiO2) beads",
+      "stop and go extraction (STAGE) tips"
+    ],
+    "Comment[FractionationMethod]": [
+      "Sample lanes were excised from gels, sliced into 6 fractions that were cut into 1 × 1 mm pieces before in-gel digestion."
+    ],
+    "Comment[NumberOfFractions]": [
+      "sliced into 6 fractions"
+    ],
+    "Comment[Separation]": [
+      "Proteins and phosphoproteins were separated using SDS-PAGE on 4–15% Mini-PROTEAN® TGX™ Precast Gels (Bio-Rad)"
+    ],
+    "FactorValue[Experimental]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ]
+  },
+  "20150902VS03.raw": {
+    "Source Name": [
+      "Source_20150902VS03"
+    ],
+    "Assay Name": [
+      "Source_20150902VS03_Assay"
+    ],
+    "Raw Data File": [
+      "20150902VS03.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "grade I, II and III frozen meningioma specimens and three normal healthy human meninges"
+    ],
+    "Characteristics[Specimen]": [
+      "frozen meningioma specimens"
+    ],
+    "Characteristics[Organism]": [
+      "human meningiomas"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C protease (Lysyl Endopeptidase®, Mass Spectrometry Grade, Wako)",
+      "trypsin (Promega, Wisconsin, US)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0·1 M dithiotheitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM 2-iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Qiagen® PhosphoProtein Purification Kit (Qiagen)",
+      "Titansphere 10 μm TiO2 beads (GL Sciences)",
+      "titanium dioxide (TiO2) beads",
+      "stop and go extraction (STAGE) tips"
+    ],
+    "Comment[FractionationMethod]": [
+      "Sample lanes were excised from gels, sliced into 6 fractions that were cut into 1 × 1 mm pieces before in-gel digestion."
+    ],
+    "Comment[NumberOfFractions]": [
+      "sliced into 6 fractions"
+    ],
+    "Comment[Separation]": [
+      "Proteins and phosphoproteins were separated using SDS-PAGE on 4–15% Mini-PROTEAN® TGX™ Precast Gels (Bio-Rad)"
+    ],
+    "FactorValue[Experimental]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ]
+  },
+  "20150902VS07.raw": {
+    "Source Name": [
+      "Source_20150902VS07"
+    ],
+    "Assay Name": [
+      "Source_20150902VS07_Assay"
+    ],
+    "Raw Data File": [
+      "20150902VS07.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "grade I, II and III frozen meningioma specimens and three normal healthy human meninges"
+    ],
+    "Characteristics[Specimen]": [
+      "frozen meningioma specimens"
+    ],
+    "Characteristics[Organism]": [
+      "human meningiomas"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C protease (Lysyl Endopeptidase®, Mass Spectrometry Grade, Wako)",
+      "trypsin (Promega, Wisconsin, US)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0·1 M dithiotheitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM 2-iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Qiagen® PhosphoProtein Purification Kit (Qiagen)",
+      "Titansphere 10 μm TiO2 beads (GL Sciences)",
+      "titanium dioxide (TiO2) beads",
+      "stop and go extraction (STAGE) tips"
+    ],
+    "Comment[FractionationMethod]": [
+      "Sample lanes were excised from gels, sliced into 6 fractions that were cut into 1 × 1 mm pieces before in-gel digestion."
+    ],
+    "Comment[NumberOfFractions]": [
+      "sliced into 6 fractions"
+    ],
+    "Comment[Separation]": [
+      "Proteins and phosphoproteins were separated using SDS-PAGE on 4–15% Mini-PROTEAN® TGX™ Precast Gels (Bio-Rad)"
+    ],
+    "FactorValue[Experimental]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ]
+  },
+  "20160403VS53.raw": {
+    "Source Name": [
+      "Source_20160403VS53"
+    ],
+    "Assay Name": [
+      "Source_20160403VS53_Assay"
+    ],
+    "Raw Data File": [
+      "20160403VS53.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "grade I, II and III frozen meningioma specimens and three normal healthy human meninges"
+    ],
+    "Characteristics[Specimen]": [
+      "frozen meningioma specimens"
+    ],
+    "Characteristics[Organism]": [
+      "human meningiomas"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C protease (Lysyl Endopeptidase®, Mass Spectrometry Grade, Wako)",
+      "trypsin (Promega, Wisconsin, US)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0·1 M dithiotheitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM 2-iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Qiagen® PhosphoProtein Purification Kit (Qiagen)",
+      "Titansphere 10 μm TiO2 beads (GL Sciences)",
+      "titanium dioxide (TiO2) beads",
+      "stop and go extraction (STAGE) tips"
+    ],
+    "Comment[FractionationMethod]": [
+      "Sample lanes were excised from gels, sliced into 6 fractions that were cut into 1 × 1 mm pieces before in-gel digestion."
+    ],
+    "Comment[NumberOfFractions]": [
+      "sliced into 6 fractions"
+    ],
+    "Comment[Separation]": [
+      "Proteins and phosphoproteins were separated using SDS-PAGE on 4–15% Mini-PROTEAN® TGX™ Precast Gels (Bio-Rad)"
+    ],
+    "FactorValue[Experimental]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ]
+  },
+  "20160403VS56.raw": {
+    "Source Name": [
+      "Source_20160403VS56"
+    ],
+    "Assay Name": [
+      "Source_20160403VS56_Assay"
+    ],
+    "Raw Data File": [
+      "20160403VS56.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "grade I, II and III frozen meningioma specimens and three normal healthy human meninges"
+    ],
+    "Characteristics[Specimen]": [
+      "frozen meningioma specimens"
+    ],
+    "Characteristics[Organism]": [
+      "human meningiomas"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C protease (Lysyl Endopeptidase®, Mass Spectrometry Grade, Wako)",
+      "trypsin (Promega, Wisconsin, US)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0·1 M dithiotheitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM 2-iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Qiagen® PhosphoProtein Purification Kit (Qiagen)",
+      "Titansphere 10 μm TiO2 beads (GL Sciences)",
+      "titanium dioxide (TiO2) beads",
+      "stop and go extraction (STAGE) tips"
+    ],
+    "Comment[FractionationMethod]": [
+      "Sample lanes were excised from gels, sliced into 6 fractions that were cut into 1 × 1 mm pieces before in-gel digestion."
+    ],
+    "Comment[NumberOfFractions]": [
+      "sliced into 6 fractions"
+    ],
+    "Comment[Separation]": [
+      "Proteins and phosphoproteins were separated using SDS-PAGE on 4–15% Mini-PROTEAN® TGX™ Precast Gels (Bio-Rad)"
+    ],
+    "FactorValue[Experimental]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ]
+  },
+  "20160403VS65.raw": {
+    "Source Name": [
+      "Source_20160403VS65"
+    ],
+    "Assay Name": [
+      "Source_20160403VS65_Assay"
+    ],
+    "Raw Data File": [
+      "20160403VS65.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "grade I, II and III frozen meningioma specimens and three normal healthy human meninges"
+    ],
+    "Characteristics[Specimen]": [
+      "frozen meningioma specimens"
+    ],
+    "Characteristics[Organism]": [
+      "human meningiomas"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C protease (Lysyl Endopeptidase®, Mass Spectrometry Grade, Wako)",
+      "trypsin (Promega, Wisconsin, US)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0·1 M dithiotheitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM 2-iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Qiagen® PhosphoProtein Purification Kit (Qiagen)",
+      "Titansphere 10 μm TiO2 beads (GL Sciences)",
+      "titanium dioxide (TiO2) beads",
+      "stop and go extraction (STAGE) tips"
+    ],
+    "Comment[FractionationMethod]": [
+      "Sample lanes were excised from gels, sliced into 6 fractions that were cut into 1 × 1 mm pieces before in-gel digestion."
+    ],
+    "Comment[NumberOfFractions]": [
+      "sliced into 6 fractions"
+    ],
+    "Comment[Separation]": [
+      "Proteins and phosphoproteins were separated using SDS-PAGE on 4–15% Mini-PROTEAN® TGX™ Precast Gels (Bio-Rad)"
+    ],
+    "FactorValue[Experimental]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ]
+  },
+  "20150310VS27.raw": {
+    "Source Name": [
+      "Source_20150310VS27"
+    ],
+    "Assay Name": [
+      "Source_20150310VS27_Assay"
+    ],
+    "Raw Data File": [
+      "20150310VS27.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "grade I, II and III frozen meningioma specimens and three normal healthy human meninges"
+    ],
+    "Characteristics[Specimen]": [
+      "frozen meningioma specimens"
+    ],
+    "Characteristics[Organism]": [
+      "human meningiomas"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C protease (Lysyl Endopeptidase®, Mass Spectrometry Grade, Wako)",
+      "trypsin (Promega, Wisconsin, US)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0·1 M dithiotheitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM 2-iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Qiagen® PhosphoProtein Purification Kit (Qiagen)",
+      "Titansphere 10 μm TiO2 beads (GL Sciences)",
+      "titanium dioxide (TiO2) beads",
+      "stop and go extraction (STAGE) tips"
+    ],
+    "Comment[FractionationMethod]": [
+      "Sample lanes were excised from gels, sliced into 6 fractions that were cut into 1 × 1 mm pieces before in-gel digestion."
+    ],
+    "Comment[NumberOfFractions]": [
+      "sliced into 6 fractions"
+    ],
+    "Comment[Separation]": [
+      "Proteins and phosphoproteins were separated using SDS-PAGE on 4–15% Mini-PROTEAN® TGX™ Precast Gels (Bio-Rad)"
+    ],
+    "FactorValue[Experimental]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ]
+  },
+  "20150918VS46.raw": {
+    "Source Name": [
+      "Source_20150918VS46"
+    ],
+    "Assay Name": [
+      "Source_20150918VS46_Assay"
+    ],
+    "Raw Data File": [
+      "20150918VS46.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "grade I, II and III frozen meningioma specimens and three normal healthy human meninges"
+    ],
+    "Characteristics[Specimen]": [
+      "frozen meningioma specimens"
+    ],
+    "Characteristics[Organism]": [
+      "human meningiomas"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C protease (Lysyl Endopeptidase®, Mass Spectrometry Grade, Wako)",
+      "trypsin (Promega, Wisconsin, US)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0·1 M dithiotheitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM 2-iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Qiagen® PhosphoProtein Purification Kit (Qiagen)",
+      "Titansphere 10 μm TiO2 beads (GL Sciences)",
+      "titanium dioxide (TiO2) beads",
+      "stop and go extraction (STAGE) tips"
+    ],
+    "Comment[FractionationMethod]": [
+      "Sample lanes were excised from gels, sliced into 6 fractions that were cut into 1 × 1 mm pieces before in-gel digestion."
+    ],
+    "Comment[NumberOfFractions]": [
+      "sliced into 6 fractions"
+    ],
+    "Comment[Separation]": [
+      "Proteins and phosphoproteins were separated using SDS-PAGE on 4–15% Mini-PROTEAN® TGX™ Precast Gels (Bio-Rad)"
+    ],
+    "FactorValue[Experimental]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ]
+  },
+  "20160403VS04.raw": {
+    "Source Name": [
+      "Source_20160403VS04"
+    ],
+    "Assay Name": [
+      "Source_20160403VS04_Assay"
+    ],
+    "Raw Data File": [
+      "20160403VS04.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "grade I, II and III frozen meningioma specimens and three normal healthy human meninges"
+    ],
+    "Characteristics[Specimen]": [
+      "frozen meningioma specimens"
+    ],
+    "Characteristics[Organism]": [
+      "human meningiomas"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C protease (Lysyl Endopeptidase®, Mass Spectrometry Grade, Wako)",
+      "trypsin (Promega, Wisconsin, US)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0·1 M dithiotheitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM 2-iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Qiagen® PhosphoProtein Purification Kit (Qiagen)",
+      "Titansphere 10 μm TiO2 beads (GL Sciences)",
+      "titanium dioxide (TiO2) beads",
+      "stop and go extraction (STAGE) tips"
+    ],
+    "Comment[FractionationMethod]": [
+      "Sample lanes were excised from gels, sliced into 6 fractions that were cut into 1 × 1 mm pieces before in-gel digestion."
+    ],
+    "Comment[NumberOfFractions]": [
+      "sliced into 6 fractions"
+    ],
+    "Comment[Separation]": [
+      "Proteins and phosphoproteins were separated using SDS-PAGE on 4–15% Mini-PROTEAN® TGX™ Precast Gels (Bio-Rad)"
+    ],
+    "FactorValue[Experimental]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ]
+  },
+  "20151119VS30.raw": {
+    "Source Name": [
+      "Source_20151119VS30"
+    ],
+    "Assay Name": [
+      "Source_20151119VS30_Assay"
+    ],
+    "Raw Data File": [
+      "20151119VS30.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "grade I, II and III frozen meningioma specimens and three normal healthy human meninges"
+    ],
+    "Characteristics[Specimen]": [
+      "frozen meningioma specimens"
+    ],
+    "Characteristics[Organism]": [
+      "human meningiomas"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C protease (Lysyl Endopeptidase®, Mass Spectrometry Grade, Wako)",
+      "trypsin (Promega, Wisconsin, US)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0·1 M dithiotheitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM 2-iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Qiagen® PhosphoProtein Purification Kit (Qiagen)",
+      "Titansphere 10 μm TiO2 beads (GL Sciences)",
+      "titanium dioxide (TiO2) beads",
+      "stop and go extraction (STAGE) tips"
+    ],
+    "Comment[FractionationMethod]": [
+      "Sample lanes were excised from gels, sliced into 6 fractions that were cut into 1 × 1 mm pieces before in-gel digestion."
+    ],
+    "Comment[NumberOfFractions]": [
+      "sliced into 6 fractions"
+    ],
+    "Comment[Separation]": [
+      "Proteins and phosphoproteins were separated using SDS-PAGE on 4–15% Mini-PROTEAN® TGX™ Precast Gels (Bio-Rad)"
+    ],
+    "FactorValue[Experimental]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ]
+  },
+  "20151119VS33.raw": {
+    "Source Name": [
+      "Source_20151119VS33"
+    ],
+    "Assay Name": [
+      "Source_20151119VS33_Assay"
+    ],
+    "Raw Data File": [
+      "20151119VS33.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "grade I, II and III frozen meningioma specimens and three normal healthy human meninges"
+    ],
+    "Characteristics[Specimen]": [
+      "frozen meningioma specimens"
+    ],
+    "Characteristics[Organism]": [
+      "human meningiomas"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C protease (Lysyl Endopeptidase®, Mass Spectrometry Grade, Wako)",
+      "trypsin (Promega, Wisconsin, US)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0·1 M dithiotheitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM 2-iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Qiagen® PhosphoProtein Purification Kit (Qiagen)",
+      "Titansphere 10 μm TiO2 beads (GL Sciences)",
+      "titanium dioxide (TiO2) beads",
+      "stop and go extraction (STAGE) tips"
+    ],
+    "Comment[FractionationMethod]": [
+      "Sample lanes were excised from gels, sliced into 6 fractions that were cut into 1 × 1 mm pieces before in-gel digestion."
+    ],
+    "Comment[NumberOfFractions]": [
+      "sliced into 6 fractions"
+    ],
+    "Comment[Separation]": [
+      "Proteins and phosphoproteins were separated using SDS-PAGE on 4–15% Mini-PROTEAN® TGX™ Precast Gels (Bio-Rad)"
+    ],
+    "FactorValue[Experimental]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ]
+  },
+  "20160403VS63.raw": {
+    "Source Name": [
+      "Source_20160403VS63"
+    ],
+    "Assay Name": [
+      "Source_20160403VS63_Assay"
+    ],
+    "Raw Data File": [
+      "20160403VS63.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "grade I, II and III frozen meningioma specimens and three normal healthy human meninges"
+    ],
+    "Characteristics[Specimen]": [
+      "frozen meningioma specimens"
+    ],
+    "Characteristics[Organism]": [
+      "human meningiomas"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C protease (Lysyl Endopeptidase®, Mass Spectrometry Grade, Wako)",
+      "trypsin (Promega, Wisconsin, US)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0·1 M dithiotheitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM 2-iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Qiagen® PhosphoProtein Purification Kit (Qiagen)",
+      "Titansphere 10 μm TiO2 beads (GL Sciences)",
+      "titanium dioxide (TiO2) beads",
+      "stop and go extraction (STAGE) tips"
+    ],
+    "Comment[FractionationMethod]": [
+      "Sample lanes were excised from gels, sliced into 6 fractions that were cut into 1 × 1 mm pieces before in-gel digestion."
+    ],
+    "Comment[NumberOfFractions]": [
+      "sliced into 6 fractions"
+    ],
+    "Comment[Separation]": [
+      "Proteins and phosphoproteins were separated using SDS-PAGE on 4–15% Mini-PROTEAN® TGX™ Precast Gels (Bio-Rad)"
+    ],
+    "FactorValue[Experimental]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ]
+  },
+  "20160423VS32.raw": {
+    "Source Name": [
+      "Source_20160423VS32"
+    ],
+    "Assay Name": [
+      "Source_20160423VS32_Assay"
+    ],
+    "Raw Data File": [
+      "20160423VS32.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "grade I, II and III frozen meningioma specimens and three normal healthy human meninges"
+    ],
+    "Characteristics[Specimen]": [
+      "frozen meningioma specimens"
+    ],
+    "Characteristics[Organism]": [
+      "human meningiomas"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C protease (Lysyl Endopeptidase®, Mass Spectrometry Grade, Wako)",
+      "trypsin (Promega, Wisconsin, US)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0·1 M dithiotheitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM 2-iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Qiagen® PhosphoProtein Purification Kit (Qiagen)",
+      "Titansphere 10 μm TiO2 beads (GL Sciences)",
+      "titanium dioxide (TiO2) beads",
+      "stop and go extraction (STAGE) tips"
+    ],
+    "Comment[FractionationMethod]": [
+      "Sample lanes were excised from gels, sliced into 6 fractions that were cut into 1 × 1 mm pieces before in-gel digestion."
+    ],
+    "Comment[NumberOfFractions]": [
+      "sliced into 6 fractions"
+    ],
+    "Comment[Separation]": [
+      "Proteins and phosphoproteins were separated using SDS-PAGE on 4–15% Mini-PROTEAN® TGX™ Precast Gels (Bio-Rad)"
+    ],
+    "FactorValue[Experimental]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ]
+  },
+  "20160403VS36.raw": {
+    "Source Name": [
+      "Source_20160403VS36"
+    ],
+    "Assay Name": [
+      "Source_20160403VS36_Assay"
+    ],
+    "Raw Data File": [
+      "20160403VS36.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "grade I, II and III frozen meningioma specimens and three normal healthy human meninges"
+    ],
+    "Characteristics[Specimen]": [
+      "frozen meningioma specimens"
+    ],
+    "Characteristics[Organism]": [
+      "human meningiomas"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C protease (Lysyl Endopeptidase®, Mass Spectrometry Grade, Wako)",
+      "trypsin (Promega, Wisconsin, US)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0·1 M dithiotheitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM 2-iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Qiagen® PhosphoProtein Purification Kit (Qiagen)",
+      "Titansphere 10 μm TiO2 beads (GL Sciences)",
+      "titanium dioxide (TiO2) beads",
+      "stop and go extraction (STAGE) tips"
+    ],
+    "Comment[FractionationMethod]": [
+      "Sample lanes were excised from gels, sliced into 6 fractions that were cut into 1 × 1 mm pieces before in-gel digestion."
+    ],
+    "Comment[NumberOfFractions]": [
+      "sliced into 6 fractions"
+    ],
+    "Comment[Separation]": [
+      "Proteins and phosphoproteins were separated using SDS-PAGE on 4–15% Mini-PROTEAN® TGX™ Precast Gels (Bio-Rad)"
+    ],
+    "FactorValue[Experimental]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ]
+  },
+  "20150823VS40.raw": {
+    "Source Name": [
+      "Source_20150823VS40"
+    ],
+    "Assay Name": [
+      "Source_20150823VS40_Assay"
+    ],
+    "Raw Data File": [
+      "20150823VS40.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "grade I, II and III frozen meningioma specimens and three normal healthy human meninges"
+    ],
+    "Characteristics[Specimen]": [
+      "frozen meningioma specimens"
+    ],
+    "Characteristics[Organism]": [
+      "human meningiomas"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C protease (Lysyl Endopeptidase®, Mass Spectrometry Grade, Wako)",
+      "trypsin (Promega, Wisconsin, US)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0·1 M dithiotheitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM 2-iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Qiagen® PhosphoProtein Purification Kit (Qiagen)",
+      "Titansphere 10 μm TiO2 beads (GL Sciences)",
+      "titanium dioxide (TiO2) beads",
+      "stop and go extraction (STAGE) tips"
+    ],
+    "Comment[FractionationMethod]": [
+      "Sample lanes were excised from gels, sliced into 6 fractions that were cut into 1 × 1 mm pieces before in-gel digestion."
+    ],
+    "Comment[NumberOfFractions]": [
+      "sliced into 6 fractions"
+    ],
+    "Comment[Separation]": [
+      "Proteins and phosphoproteins were separated using SDS-PAGE on 4–15% Mini-PROTEAN® TGX™ Precast Gels (Bio-Rad)"
+    ],
+    "FactorValue[Experimental]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ]
+  },
+  "20160403VS12.raw": {
+    "Source Name": [
+      "Source_20160403VS12"
+    ],
+    "Assay Name": [
+      "Source_20160403VS12_Assay"
+    ],
+    "Raw Data File": [
+      "20160403VS12.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "grade I, II and III frozen meningioma specimens and three normal healthy human meninges"
+    ],
+    "Characteristics[Specimen]": [
+      "frozen meningioma specimens"
+    ],
+    "Characteristics[Organism]": [
+      "human meningiomas"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C protease (Lysyl Endopeptidase®, Mass Spectrometry Grade, Wako)",
+      "trypsin (Promega, Wisconsin, US)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0·1 M dithiotheitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM 2-iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Qiagen® PhosphoProtein Purification Kit (Qiagen)",
+      "Titansphere 10 μm TiO2 beads (GL Sciences)",
+      "titanium dioxide (TiO2) beads",
+      "stop and go extraction (STAGE) tips"
+    ],
+    "Comment[FractionationMethod]": [
+      "Sample lanes were excised from gels, sliced into 6 fractions that were cut into 1 × 1 mm pieces before in-gel digestion."
+    ],
+    "Comment[NumberOfFractions]": [
+      "sliced into 6 fractions"
+    ],
+    "Comment[Separation]": [
+      "Proteins and phosphoproteins were separated using SDS-PAGE on 4–15% Mini-PROTEAN® TGX™ Precast Gels (Bio-Rad)"
+    ],
+    "FactorValue[Experimental]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ]
+  },
+  "20150918VS45.raw": {
+    "Source Name": [
+      "Source_20150918VS45"
+    ],
+    "Assay Name": [
+      "Source_20150918VS45_Assay"
+    ],
+    "Raw Data File": [
+      "20150918VS45.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "grade I, II and III frozen meningioma specimens and three normal healthy human meninges"
+    ],
+    "Characteristics[Specimen]": [
+      "frozen meningioma specimens"
+    ],
+    "Characteristics[Organism]": [
+      "human meningiomas"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C protease (Lysyl Endopeptidase®, Mass Spectrometry Grade, Wako)",
+      "trypsin (Promega, Wisconsin, US)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0·1 M dithiotheitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM 2-iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Qiagen® PhosphoProtein Purification Kit (Qiagen)",
+      "Titansphere 10 μm TiO2 beads (GL Sciences)",
+      "titanium dioxide (TiO2) beads",
+      "stop and go extraction (STAGE) tips"
+    ],
+    "Comment[FractionationMethod]": [
+      "Sample lanes were excised from gels, sliced into 6 fractions that were cut into 1 × 1 mm pieces before in-gel digestion."
+    ],
+    "Comment[NumberOfFractions]": [
+      "sliced into 6 fractions"
+    ],
+    "Comment[Separation]": [
+      "Proteins and phosphoproteins were separated using SDS-PAGE on 4–15% Mini-PROTEAN® TGX™ Precast Gels (Bio-Rad)"
+    ],
+    "FactorValue[Experimental]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ]
+  },
+  "20160403VS42.raw": {
+    "Source Name": [
+      "Source_20160403VS42"
+    ],
+    "Assay Name": [
+      "Source_20160403VS42_Assay"
+    ],
+    "Raw Data File": [
+      "20160403VS42.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "grade I, II and III frozen meningioma specimens and three normal healthy human meninges"
+    ],
+    "Characteristics[Specimen]": [
+      "frozen meningioma specimens"
+    ],
+    "Characteristics[Organism]": [
+      "human meningiomas"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C protease (Lysyl Endopeptidase®, Mass Spectrometry Grade, Wako)",
+      "trypsin (Promega, Wisconsin, US)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0·1 M dithiotheitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM 2-iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Qiagen® PhosphoProtein Purification Kit (Qiagen)",
+      "Titansphere 10 μm TiO2 beads (GL Sciences)",
+      "titanium dioxide (TiO2) beads",
+      "stop and go extraction (STAGE) tips"
+    ],
+    "Comment[FractionationMethod]": [
+      "Sample lanes were excised from gels, sliced into 6 fractions that were cut into 1 × 1 mm pieces before in-gel digestion."
+    ],
+    "Comment[NumberOfFractions]": [
+      "sliced into 6 fractions"
+    ],
+    "Comment[Separation]": [
+      "Proteins and phosphoproteins were separated using SDS-PAGE on 4–15% Mini-PROTEAN® TGX™ Precast Gels (Bio-Rad)"
+    ],
+    "FactorValue[Experimental]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ]
+  },
+  "20160403VS49.raw": {
+    "Source Name": [
+      "Source_20160403VS49"
+    ],
+    "Assay Name": [
+      "Source_20160403VS49_Assay"
+    ],
+    "Raw Data File": [
+      "20160403VS49.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "grade I, II and III frozen meningioma specimens and three normal healthy human meninges"
+    ],
+    "Characteristics[Specimen]": [
+      "frozen meningioma specimens"
+    ],
+    "Characteristics[Organism]": [
+      "human meningiomas"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C protease (Lysyl Endopeptidase®, Mass Spectrometry Grade, Wako)",
+      "trypsin (Promega, Wisconsin, US)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0·1 M dithiotheitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM 2-iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Qiagen® PhosphoProtein Purification Kit (Qiagen)",
+      "Titansphere 10 μm TiO2 beads (GL Sciences)",
+      "titanium dioxide (TiO2) beads",
+      "stop and go extraction (STAGE) tips"
+    ],
+    "Comment[FractionationMethod]": [
+      "Sample lanes were excised from gels, sliced into 6 fractions that were cut into 1 × 1 mm pieces before in-gel digestion."
+    ],
+    "Comment[NumberOfFractions]": [
+      "sliced into 6 fractions"
+    ],
+    "Comment[Separation]": [
+      "Proteins and phosphoproteins were separated using SDS-PAGE on 4–15% Mini-PROTEAN® TGX™ Precast Gels (Bio-Rad)"
+    ],
+    "FactorValue[Experimental]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ]
+  },
+  "20160403VS59.raw": {
+    "Source Name": [
+      "Source_20160403VS59"
+    ],
+    "Assay Name": [
+      "Source_20160403VS59_Assay"
+    ],
+    "Raw Data File": [
+      "20160403VS59.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "grade I, II and III frozen meningioma specimens and three normal healthy human meninges"
+    ],
+    "Characteristics[Specimen]": [
+      "frozen meningioma specimens"
+    ],
+    "Characteristics[Organism]": [
+      "human meningiomas"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C protease (Lysyl Endopeptidase®, Mass Spectrometry Grade, Wako)",
+      "trypsin (Promega, Wisconsin, US)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0·1 M dithiotheitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM 2-iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Qiagen® PhosphoProtein Purification Kit (Qiagen)",
+      "Titansphere 10 μm TiO2 beads (GL Sciences)",
+      "titanium dioxide (TiO2) beads",
+      "stop and go extraction (STAGE) tips"
+    ],
+    "Comment[FractionationMethod]": [
+      "Sample lanes were excised from gels, sliced into 6 fractions that were cut into 1 × 1 mm pieces before in-gel digestion."
+    ],
+    "Comment[NumberOfFractions]": [
+      "sliced into 6 fractions"
+    ],
+    "Comment[Separation]": [
+      "Proteins and phosphoproteins were separated using SDS-PAGE on 4–15% Mini-PROTEAN® TGX™ Precast Gels (Bio-Rad)"
+    ],
+    "FactorValue[Experimental]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ]
+  },
+  "20150918VS38.raw": {
+    "Source Name": [
+      "Source_20150918VS38"
+    ],
+    "Assay Name": [
+      "Source_20150918VS38_Assay"
+    ],
+    "Raw Data File": [
+      "20150918VS38.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "grade I, II and III frozen meningioma specimens and three normal healthy human meninges"
+    ],
+    "Characteristics[Specimen]": [
+      "frozen meningioma specimens"
+    ],
+    "Characteristics[Organism]": [
+      "human meningiomas"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C protease (Lysyl Endopeptidase®, Mass Spectrometry Grade, Wako)",
+      "trypsin (Promega, Wisconsin, US)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0·1 M dithiotheitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM 2-iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Qiagen® PhosphoProtein Purification Kit (Qiagen)",
+      "Titansphere 10 μm TiO2 beads (GL Sciences)",
+      "titanium dioxide (TiO2) beads",
+      "stop and go extraction (STAGE) tips"
+    ],
+    "Comment[FractionationMethod]": [
+      "Sample lanes were excised from gels, sliced into 6 fractions that were cut into 1 × 1 mm pieces before in-gel digestion."
+    ],
+    "Comment[NumberOfFractions]": [
+      "sliced into 6 fractions"
+    ],
+    "Comment[Separation]": [
+      "Proteins and phosphoproteins were separated using SDS-PAGE on 4–15% Mini-PROTEAN® TGX™ Precast Gels (Bio-Rad)"
+    ],
+    "FactorValue[Experimental]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ]
+  },
+  "20150902VS19.raw": {
+    "Source Name": [
+      "Source_20150902VS19"
+    ],
+    "Assay Name": [
+      "Source_20150902VS19_Assay"
+    ],
+    "Raw Data File": [
+      "20150902VS19.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "grade I, II and III frozen meningioma specimens and three normal healthy human meninges"
+    ],
+    "Characteristics[Specimen]": [
+      "frozen meningioma specimens"
+    ],
+    "Characteristics[Organism]": [
+      "human meningiomas"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C protease (Lysyl Endopeptidase®, Mass Spectrometry Grade, Wako)",
+      "trypsin (Promega, Wisconsin, US)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0·1 M dithiotheitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM 2-iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Qiagen® PhosphoProtein Purification Kit (Qiagen)",
+      "Titansphere 10 μm TiO2 beads (GL Sciences)",
+      "titanium dioxide (TiO2) beads",
+      "stop and go extraction (STAGE) tips"
+    ],
+    "Comment[FractionationMethod]": [
+      "Sample lanes were excised from gels, sliced into 6 fractions that were cut into 1 × 1 mm pieces before in-gel digestion."
+    ],
+    "Comment[NumberOfFractions]": [
+      "sliced into 6 fractions"
+    ],
+    "Comment[Separation]": [
+      "Proteins and phosphoproteins were separated using SDS-PAGE on 4–15% Mini-PROTEAN® TGX™ Precast Gels (Bio-Rad)"
+    ],
+    "FactorValue[Experimental]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ]
+  },
+  "20150918VS34.raw": {
+    "Source Name": [
+      "Source_20150918VS34"
+    ],
+    "Assay Name": [
+      "Source_20150918VS34_Assay"
+    ],
+    "Raw Data File": [
+      "20150918VS34.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "grade I, II and III frozen meningioma specimens and three normal healthy human meninges"
+    ],
+    "Characteristics[Specimen]": [
+      "frozen meningioma specimens"
+    ],
+    "Characteristics[Organism]": [
+      "human meningiomas"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C protease (Lysyl Endopeptidase®, Mass Spectrometry Grade, Wako)",
+      "trypsin (Promega, Wisconsin, US)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0·1 M dithiotheitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM 2-iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Qiagen® PhosphoProtein Purification Kit (Qiagen)",
+      "Titansphere 10 μm TiO2 beads (GL Sciences)",
+      "titanium dioxide (TiO2) beads",
+      "stop and go extraction (STAGE) tips"
+    ],
+    "Comment[FractionationMethod]": [
+      "Sample lanes were excised from gels, sliced into 6 fractions that were cut into 1 × 1 mm pieces before in-gel digestion."
+    ],
+    "Comment[NumberOfFractions]": [
+      "sliced into 6 fractions"
+    ],
+    "Comment[Separation]": [
+      "Proteins and phosphoproteins were separated using SDS-PAGE on 4–15% Mini-PROTEAN® TGX™ Precast Gels (Bio-Rad)"
+    ],
+    "FactorValue[Experimental]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ]
+  },
+  "20150310VS26.raw": {
+    "Source Name": [
+      "Source_20150310VS26"
+    ],
+    "Assay Name": [
+      "Source_20150310VS26_Assay"
+    ],
+    "Raw Data File": [
+      "20150310VS26.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "grade I, II and III frozen meningioma specimens and three normal healthy human meninges"
+    ],
+    "Characteristics[Specimen]": [
+      "frozen meningioma specimens"
+    ],
+    "Characteristics[Organism]": [
+      "human meningiomas"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C protease (Lysyl Endopeptidase®, Mass Spectrometry Grade, Wako)",
+      "trypsin (Promega, Wisconsin, US)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0·1 M dithiotheitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM 2-iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Qiagen® PhosphoProtein Purification Kit (Qiagen)",
+      "Titansphere 10 μm TiO2 beads (GL Sciences)",
+      "titanium dioxide (TiO2) beads",
+      "stop and go extraction (STAGE) tips"
+    ],
+    "Comment[FractionationMethod]": [
+      "Sample lanes were excised from gels, sliced into 6 fractions that were cut into 1 × 1 mm pieces before in-gel digestion."
+    ],
+    "Comment[NumberOfFractions]": [
+      "sliced into 6 fractions"
+    ],
+    "Comment[Separation]": [
+      "Proteins and phosphoproteins were separated using SDS-PAGE on 4–15% Mini-PROTEAN® TGX™ Precast Gels (Bio-Rad)"
+    ],
+    "FactorValue[Experimental]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ]
+  },
+  "20151119VS34.raw": {
+    "Source Name": [
+      "Source_20151119VS34"
+    ],
+    "Assay Name": [
+      "Source_20151119VS34_Assay"
+    ],
+    "Raw Data File": [
+      "20151119VS34.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "grade I, II and III frozen meningioma specimens and three normal healthy human meninges"
+    ],
+    "Characteristics[Specimen]": [
+      "frozen meningioma specimens"
+    ],
+    "Characteristics[Organism]": [
+      "human meningiomas"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C protease (Lysyl Endopeptidase®, Mass Spectrometry Grade, Wako)",
+      "trypsin (Promega, Wisconsin, US)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0·1 M dithiotheitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM 2-iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Qiagen® PhosphoProtein Purification Kit (Qiagen)",
+      "Titansphere 10 μm TiO2 beads (GL Sciences)",
+      "titanium dioxide (TiO2) beads",
+      "stop and go extraction (STAGE) tips"
+    ],
+    "Comment[FractionationMethod]": [
+      "Sample lanes were excised from gels, sliced into 6 fractions that were cut into 1 × 1 mm pieces before in-gel digestion."
+    ],
+    "Comment[NumberOfFractions]": [
+      "sliced into 6 fractions"
+    ],
+    "Comment[Separation]": [
+      "Proteins and phosphoproteins were separated using SDS-PAGE on 4–15% Mini-PROTEAN® TGX™ Precast Gels (Bio-Rad)"
+    ],
+    "FactorValue[Experimental]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ]
+  },
+  "20160423VS28.raw": {
+    "Source Name": [
+      "Source_20160423VS28"
+    ],
+    "Assay Name": [
+      "Source_20160423VS28_Assay"
+    ],
+    "Raw Data File": [
+      "20160423VS28.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "grade I, II and III frozen meningioma specimens and three normal healthy human meninges"
+    ],
+    "Characteristics[Specimen]": [
+      "frozen meningioma specimens"
+    ],
+    "Characteristics[Organism]": [
+      "human meningiomas"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C protease (Lysyl Endopeptidase®, Mass Spectrometry Grade, Wako)",
+      "trypsin (Promega, Wisconsin, US)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0·1 M dithiotheitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM 2-iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Qiagen® PhosphoProtein Purification Kit (Qiagen)",
+      "Titansphere 10 μm TiO2 beads (GL Sciences)",
+      "titanium dioxide (TiO2) beads",
+      "stop and go extraction (STAGE) tips"
+    ],
+    "Comment[FractionationMethod]": [
+      "Sample lanes were excised from gels, sliced into 6 fractions that were cut into 1 × 1 mm pieces before in-gel digestion."
+    ],
+    "Comment[NumberOfFractions]": [
+      "sliced into 6 fractions"
+    ],
+    "Comment[Separation]": [
+      "Proteins and phosphoproteins were separated using SDS-PAGE on 4–15% Mini-PROTEAN® TGX™ Precast Gels (Bio-Rad)"
+    ],
+    "FactorValue[Experimental]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ]
+  },
+  "20150902VS02.raw": {
+    "Source Name": [
+      "Source_20150902VS02"
+    ],
+    "Assay Name": [
+      "Source_20150902VS02_Assay"
+    ],
+    "Raw Data File": [
+      "20150902VS02.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "grade I, II and III frozen meningioma specimens and three normal healthy human meninges"
+    ],
+    "Characteristics[Specimen]": [
+      "frozen meningioma specimens"
+    ],
+    "Characteristics[Organism]": [
+      "human meningiomas"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C protease (Lysyl Endopeptidase®, Mass Spectrometry Grade, Wako)",
+      "trypsin (Promega, Wisconsin, US)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0·1 M dithiotheitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM 2-iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Qiagen® PhosphoProtein Purification Kit (Qiagen)",
+      "Titansphere 10 μm TiO2 beads (GL Sciences)",
+      "titanium dioxide (TiO2) beads",
+      "stop and go extraction (STAGE) tips"
+    ],
+    "Comment[FractionationMethod]": [
+      "Sample lanes were excised from gels, sliced into 6 fractions that were cut into 1 × 1 mm pieces before in-gel digestion."
+    ],
+    "Comment[NumberOfFractions]": [
+      "sliced into 6 fractions"
+    ],
+    "Comment[Separation]": [
+      "Proteins and phosphoproteins were separated using SDS-PAGE on 4–15% Mini-PROTEAN® TGX™ Precast Gels (Bio-Rad)"
+    ],
+    "FactorValue[Experimental]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ]
+  },
+  "20160423VS30.raw": {
+    "Source Name": [
+      "Source_20160423VS30"
+    ],
+    "Assay Name": [
+      "Source_20160423VS30_Assay"
+    ],
+    "Raw Data File": [
+      "20160423VS30.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "grade I, II and III frozen meningioma specimens and three normal healthy human meninges"
+    ],
+    "Characteristics[Specimen]": [
+      "frozen meningioma specimens"
+    ],
+    "Characteristics[Organism]": [
+      "human meningiomas"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C protease (Lysyl Endopeptidase®, Mass Spectrometry Grade, Wako)",
+      "trypsin (Promega, Wisconsin, US)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0·1 M dithiotheitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM 2-iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Qiagen® PhosphoProtein Purification Kit (Qiagen)",
+      "Titansphere 10 μm TiO2 beads (GL Sciences)",
+      "titanium dioxide (TiO2) beads",
+      "stop and go extraction (STAGE) tips"
+    ],
+    "Comment[FractionationMethod]": [
+      "Sample lanes were excised from gels, sliced into 6 fractions that were cut into 1 × 1 mm pieces before in-gel digestion."
+    ],
+    "Comment[NumberOfFractions]": [
+      "sliced into 6 fractions"
+    ],
+    "Comment[Separation]": [
+      "Proteins and phosphoproteins were separated using SDS-PAGE on 4–15% Mini-PROTEAN® TGX™ Precast Gels (Bio-Rad)"
+    ],
+    "FactorValue[Experimental]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ]
+  },
+  "20150918VS30.raw": {
+    "Source Name": [
+      "Source_20150918VS30"
+    ],
+    "Assay Name": [
+      "Source_20150918VS30_Assay"
+    ],
+    "Raw Data File": [
+      "20150918VS30.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "grade I, II and III frozen meningioma specimens and three normal healthy human meninges"
+    ],
+    "Characteristics[Specimen]": [
+      "frozen meningioma specimens"
+    ],
+    "Characteristics[Organism]": [
+      "human meningiomas"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C protease (Lysyl Endopeptidase®, Mass Spectrometry Grade, Wako)",
+      "trypsin (Promega, Wisconsin, US)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0·1 M dithiotheitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM 2-iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Qiagen® PhosphoProtein Purification Kit (Qiagen)",
+      "Titansphere 10 μm TiO2 beads (GL Sciences)",
+      "titanium dioxide (TiO2) beads",
+      "stop and go extraction (STAGE) tips"
+    ],
+    "Comment[FractionationMethod]": [
+      "Sample lanes were excised from gels, sliced into 6 fractions that were cut into 1 × 1 mm pieces before in-gel digestion."
+    ],
+    "Comment[NumberOfFractions]": [
+      "sliced into 6 fractions"
+    ],
+    "Comment[Separation]": [
+      "Proteins and phosphoproteins were separated using SDS-PAGE on 4–15% Mini-PROTEAN® TGX™ Precast Gels (Bio-Rad)"
+    ],
+    "FactorValue[Experimental]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ]
+  },
+  "20160403VS31.raw": {
+    "Source Name": [
+      "Source_20160403VS31"
+    ],
+    "Assay Name": [
+      "Source_20160403VS31_Assay"
+    ],
+    "Raw Data File": [
+      "20160403VS31.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "grade I, II and III frozen meningioma specimens and three normal healthy human meninges"
+    ],
+    "Characteristics[Specimen]": [
+      "frozen meningioma specimens"
+    ],
+    "Characteristics[Organism]": [
+      "human meningiomas"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C protease (Lysyl Endopeptidase®, Mass Spectrometry Grade, Wako)",
+      "trypsin (Promega, Wisconsin, US)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0·1 M dithiotheitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM 2-iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Qiagen® PhosphoProtein Purification Kit (Qiagen)",
+      "Titansphere 10 μm TiO2 beads (GL Sciences)",
+      "titanium dioxide (TiO2) beads",
+      "stop and go extraction (STAGE) tips"
+    ],
+    "Comment[FractionationMethod]": [
+      "Sample lanes were excised from gels, sliced into 6 fractions that were cut into 1 × 1 mm pieces before in-gel digestion."
+    ],
+    "Comment[NumberOfFractions]": [
+      "sliced into 6 fractions"
+    ],
+    "Comment[Separation]": [
+      "Proteins and phosphoproteins were separated using SDS-PAGE on 4–15% Mini-PROTEAN® TGX™ Precast Gels (Bio-Rad)"
+    ],
+    "FactorValue[Experimental]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ]
+  },
+  "20151002VS02.raw": {
+    "Source Name": [
+      "Source_20151002VS02"
+    ],
+    "Assay Name": [
+      "Source_20151002VS02_Assay"
+    ],
+    "Raw Data File": [
+      "20151002VS02.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "grade I, II and III frozen meningioma specimens and three normal healthy human meninges"
+    ],
+    "Characteristics[Specimen]": [
+      "frozen meningioma specimens"
+    ],
+    "Characteristics[Organism]": [
+      "human meningiomas"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C protease (Lysyl Endopeptidase®, Mass Spectrometry Grade, Wako)",
+      "trypsin (Promega, Wisconsin, US)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0·1 M dithiotheitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM 2-iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Qiagen® PhosphoProtein Purification Kit (Qiagen)",
+      "Titansphere 10 μm TiO2 beads (GL Sciences)",
+      "titanium dioxide (TiO2) beads",
+      "stop and go extraction (STAGE) tips"
+    ],
+    "Comment[FractionationMethod]": [
+      "Sample lanes were excised from gels, sliced into 6 fractions that were cut into 1 × 1 mm pieces before in-gel digestion."
+    ],
+    "Comment[NumberOfFractions]": [
+      "sliced into 6 fractions"
+    ],
+    "Comment[Separation]": [
+      "Proteins and phosphoproteins were separated using SDS-PAGE on 4–15% Mini-PROTEAN® TGX™ Precast Gels (Bio-Rad)"
+    ],
+    "FactorValue[Experimental]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ]
+  },
+  "20150924VS05.raw": {
+    "Source Name": [
+      "Source_20150924VS05"
+    ],
+    "Assay Name": [
+      "Source_20150924VS05_Assay"
+    ],
+    "Raw Data File": [
+      "20150924VS05.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "grade I, II and III frozen meningioma specimens and three normal healthy human meninges"
+    ],
+    "Characteristics[Specimen]": [
+      "frozen meningioma specimens"
+    ],
+    "Characteristics[Organism]": [
+      "human meningiomas"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C protease (Lysyl Endopeptidase®, Mass Spectrometry Grade, Wako)",
+      "trypsin (Promega, Wisconsin, US)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0·1 M dithiotheitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM 2-iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Qiagen® PhosphoProtein Purification Kit (Qiagen)",
+      "Titansphere 10 μm TiO2 beads (GL Sciences)",
+      "titanium dioxide (TiO2) beads",
+      "stop and go extraction (STAGE) tips"
+    ],
+    "Comment[FractionationMethod]": [
+      "Sample lanes were excised from gels, sliced into 6 fractions that were cut into 1 × 1 mm pieces before in-gel digestion."
+    ],
+    "Comment[NumberOfFractions]": [
+      "sliced into 6 fractions"
+    ],
+    "Comment[Separation]": [
+      "Proteins and phosphoproteins were separated using SDS-PAGE on 4–15% Mini-PROTEAN® TGX™ Precast Gels (Bio-Rad)"
+    ],
+    "FactorValue[Experimental]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ]
+  },
+  "20160403VS69.raw": {
+    "Source Name": [
+      "Source_20160403VS69"
+    ],
+    "Assay Name": [
+      "Source_20160403VS69_Assay"
+    ],
+    "Raw Data File": [
+      "20160403VS69.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "grade I, II and III frozen meningioma specimens and three normal healthy human meninges"
+    ],
+    "Characteristics[Specimen]": [
+      "frozen meningioma specimens"
+    ],
+    "Characteristics[Organism]": [
+      "human meningiomas"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C protease (Lysyl Endopeptidase®, Mass Spectrometry Grade, Wako)",
+      "trypsin (Promega, Wisconsin, US)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0·1 M dithiotheitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM 2-iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Qiagen® PhosphoProtein Purification Kit (Qiagen)",
+      "Titansphere 10 μm TiO2 beads (GL Sciences)",
+      "titanium dioxide (TiO2) beads",
+      "stop and go extraction (STAGE) tips"
+    ],
+    "Comment[FractionationMethod]": [
+      "Sample lanes were excised from gels, sliced into 6 fractions that were cut into 1 × 1 mm pieces before in-gel digestion."
+    ],
+    "Comment[NumberOfFractions]": [
+      "sliced into 6 fractions"
+    ],
+    "Comment[Separation]": [
+      "Proteins and phosphoproteins were separated using SDS-PAGE on 4–15% Mini-PROTEAN® TGX™ Precast Gels (Bio-Rad)"
+    ],
+    "FactorValue[Experimental]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ]
+  },
+  "20160403VS58.raw": {
+    "Source Name": [
+      "Source_20160403VS58"
+    ],
+    "Assay Name": [
+      "Source_20160403VS58_Assay"
+    ],
+    "Raw Data File": [
+      "20160403VS58.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "grade I, II and III frozen meningioma specimens and three normal healthy human meninges"
+    ],
+    "Characteristics[Specimen]": [
+      "frozen meningioma specimens"
+    ],
+    "Characteristics[Organism]": [
+      "human meningiomas"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C protease (Lysyl Endopeptidase®, Mass Spectrometry Grade, Wako)",
+      "trypsin (Promega, Wisconsin, US)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0·1 M dithiotheitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM 2-iodoacetamide"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-MS/MS"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Qiagen® PhosphoProtein Purification Kit (Qiagen)",
+      "Titansphere 10 μm TiO2 beads (GL Sciences)",
+      "titanium dioxide (TiO2) beads",
+      "stop and go extraction (STAGE) tips"
+    ],
+    "Comment[FractionationMethod]": [
+      "Sample lanes were excised from gels, sliced into 6 fractions that were cut into 1 × 1 mm pieces before in-gel digestion."
+    ],
+    "Comment[NumberOfFractions]": [
+      "sliced into 6 fractions"
+    ],
+    "Comment[Separation]": [
+      "Proteins and phosphoproteins were separated using SDS-PAGE on 4–15% Mini-PROTEAN® TGX™ Precast Gels (Bio-Rad)"
+    ],
+    "FactorValue[Experimental]": [
+      "discovery set consisting of 22 meningiomas (WHO grade I: n = 8, WHO grade II: n = 8, WHO grade III: n = 6)"
+    ]
+  },
+  "... (remaining files omitted for brevity) ...": {}
+}

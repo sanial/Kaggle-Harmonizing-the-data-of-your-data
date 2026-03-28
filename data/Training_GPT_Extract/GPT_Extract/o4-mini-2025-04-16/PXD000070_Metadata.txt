@@ -1,0 +1,63 @@
+AssayName: phosphoproteomics  
+AssayName: LC–MS/MS analysis  
+AssayName: Mascot v2.2  
+AcquisitionMethod: data-dependent neutral loss-triggered-ETD (DDNL) strategy  
+AcquisitionMethod: conventional decision-tree method  
+AcquisitionMethod: standard data dependent acquisition mode  
+Organism: Plasmodium falciparum  
+DevelopmentalStage: schizont  
+Strain: P. falciparum strain 3D7  
+CellType: human erythrocytes  
+SampleTreatment: 0.1% Saponin lysis buffer  
+SampleTreatment: FASP procedure  
+AlkylationReagent: iodoacetamide  
+ReductionReagent: DTT  
+CleavageAgent: Trypsin Gold  
+CleavageAgent: trypsin  
+Modification: Acetyl (Protein N-term)  
+Modification: Oxidation (M)  
+Modification: Deamidated (NQ)  
+Modification: Carbamidomethyl (C)  
+Modification: Phospho (ST)  
+Modification: Phospho Y  
+EnrichmentMethod: IMAC purifications  
+MaterialType: Sep-Pak® Light C18 cartridge  
+MaterialType: Phos-Select beads  
+MaterialType: TopTip  
+MaterialType: C18 Pepmap 100 micro-Precolumn cartridge  
+MaterialType: Acclaim PepMap100 C18 analytical column  
+Instrument: SpeedVac  
+Instrument: Ultimate 3000 nano/Capillary LC System  
+Instrument: LTQ Orbitrap Velos hybrid mass spectrometer  
+Instrument: Orbitrap  
+Instrument: linear ion trap  
+Instrument: Proteome Discoverer 1.1  
+IonizationType: nanospray  
+Separation: RP gradient  
+GradientTime: 320 min  
+FlowRateChromatogram: 0.3 μl/min  
+PooledSample: two IMAC purifications  
+NumberOfFractions: 6  
+NumberOfTechnicalReplicates: triplicate  
+Time: 5 min  
+Time: 4 h  
+Temperature: room temperature  
+Temperature: 97 °C  
+Temperature: 37 °C  
+FactorValue: enzyme substrate ratio of 1:20  
+PrecursorMassTolerance: 600–10,000 Da  
+PrecursorMassTolerance: 10 ppm  
+FragmentMassTolerance: 0.5 Da  
+ConcentrationOfCompound: 4% SDS  
+ConcentrationOfCompound: 0.1 M DTT  
+ConcentrationOfCompound: 0.1 M Tris pH 8  
+ConcentrationOfCompound: 0.5 mM PMSF  
+ConcentrationOfCompound: 2 μg/ml Aprotinin/Leupeptin  
+ConcentrationOfCompound: 20 μM ZnCl  
+ConcentrationOfCompound: 25 mM Sodium fluoride  
+ConcentrationOfCompound: 8 M  
+ConcentrationOfCompound: urea concentration of 1.8 M  
+ConcentrationOfCompound: 100 mM ammonium bicarbonate  
+ConcentrationOfCompound: 0.4% TFA  
+ConcentrationOfCompound: 50% acetonitrile  
+ConcentrationOfCompound: 0.1% TFA

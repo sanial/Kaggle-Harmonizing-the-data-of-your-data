@@ -1,0 +1,428 @@
+{
+  "OTPf-IMACDDNL_2010Mar9-01.raw": {
+    "Source Name": [
+      "OTPf-IMACDDNL_2010Mar9-01"
+    ],
+    "Assay Name": [
+      "OTPf-IMACDDNL_2010Mar9-01_assay"
+    ],
+    "Raw Data File": [
+      "OTPf-IMACDDNL_2010Mar9-01.raw"
+    ],
+    "Characteristics[Organism]": [
+      "P. falciparum strain 3D7"
+    ],
+    "Characteristics[OrganismPart]": [
+      "schizont digests (starting material that was used for phosphorylation analysis)"
+    ],
+    "Characteristics[Specimen]": [
+      "Parasite pellets"
+    ],
+    "Characteristics[MaterialType]": [
+      "Phosphopeptide samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin Gold (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 M DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos hybrid mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "Ultimate 3000 nano/Capillary LC System (Dionex)"
+    ],
+    "Comment[IonizationType]": [
+      "nanospray ion source"
+    ],
+    "Comment[GradientTime]": [
+      "a 320 min RP gradient (4–30% acetonitrile/0.1% formic acid)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3 μl/min."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "standard data dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID or ETD fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm for MS mass tolerance"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da for MS/MS mass tolerance"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "IMAC purifications were performed"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Phosphopeptides from two IMAC purifications were pooled and split into 6 aliquots for LC–MS/MS analysis."
+    ],
+    "FactorValue[Experimental]": [
+      "Triplicate DDNL experiments"
+    ]
+  },
+  "OTPf-IMACDDNL_2010Mar9-02.raw": {
+    "Source Name": [
+      "OTPf-IMACDDNL_2010Mar9-02"
+    ],
+    "Assay Name": [
+      "OTPf-IMACDDNL_2010Mar9-02_assay"
+    ],
+    "Raw Data File": [
+      "OTPf-IMACDDNL_2010Mar9-02.raw"
+    ],
+    "Characteristics[Organism]": [
+      "P. falciparum strain 3D7"
+    ],
+    "Characteristics[OrganismPart]": [
+      "schizont digests (starting material that was used for phosphorylation analysis)"
+    ],
+    "Characteristics[Specimen]": [
+      "Parasite pellets"
+    ],
+    "Characteristics[MaterialType]": [
+      "Phosphopeptide samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin Gold (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 M DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos hybrid mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "Ultimate 3000 nano/Capillary LC System (Dionex)"
+    ],
+    "Comment[IonizationType]": [
+      "nanospray ion source"
+    ],
+    "Comment[GradientTime]": [
+      "a 320 min RP gradient (4–30% acetonitrile/0.1% formic acid)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3 μl/min."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "standard data dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID or ETD fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm for MS mass tolerance"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da for MS/MS mass tolerance"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "IMAC purifications were performed"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Phosphopeptides from two IMAC purifications were pooled and split into 6 aliquots for LC–MS/MS analysis."
+    ],
+    "FactorValue[Experimental]": [
+      "Triplicate DDNL experiments"
+    ]
+  },
+  "OTPf-IMACDDNL_2010Mar06-02.raw": {
+    "Source Name": [
+      "OTPf-IMACDDNL_2010Mar06-02"
+    ],
+    "Assay Name": [
+      "OTPf-IMACDDNL_2010Mar06-02_assay"
+    ],
+    "Raw Data File": [
+      "OTPf-IMACDDNL_2010Mar06-02.raw"
+    ],
+    "Characteristics[Organism]": [
+      "P. falciparum strain 3D7"
+    ],
+    "Characteristics[OrganismPart]": [
+      "schizont digests (starting material that was used for phosphorylation analysis)"
+    ],
+    "Characteristics[Specimen]": [
+      "Parasite pellets"
+    ],
+    "Characteristics[MaterialType]": [
+      "Phosphopeptide samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin Gold (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 M DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos hybrid mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "Ultimate 3000 nano/Capillary LC System (Dionex)"
+    ],
+    "Comment[IonizationType]": [
+      "nanospray ion source"
+    ],
+    "Comment[GradientTime]": [
+      "a 320 min RP gradient (4–30% acetonitrile/0.1% formic acid)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3 μl/min."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "standard data dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID or ETD fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm for MS mass tolerance"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da for MS/MS mass tolerance"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "IMAC purifications were performed"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Phosphopeptides from two IMAC purifications were pooled and split into 6 aliquots for LC–MS/MS analysis."
+    ],
+    "FactorValue[Experimental]": [
+      "Triplicate DDNL experiments"
+    ]
+  },
+  "OTPf-IMACDT2010Mar11-01.raw": {
+    "Source Name": [
+      "OTPf-IMACDT2010Mar11-01"
+    ],
+    "Assay Name": [
+      "OTPf-IMACDT2010Mar11-01_assay"
+    ],
+    "Raw Data File": [
+      "OTPf-IMACDT2010Mar11-01.raw"
+    ],
+    "Characteristics[Organism]": [
+      "P. falciparum strain 3D7"
+    ],
+    "Characteristics[OrganismPart]": [
+      "schizont digests (starting material that was used for phosphorylation analysis)"
+    ],
+    "Characteristics[Specimen]": [
+      "Parasite pellets"
+    ],
+    "Characteristics[MaterialType]": [
+      "Phosphopeptide samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin Gold (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 M DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos hybrid mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "Ultimate 3000 nano/Capillary LC System (Dionex)"
+    ],
+    "Comment[IonizationType]": [
+      "nanospray ion source"
+    ],
+    "Comment[GradientTime]": [
+      "a 320 min RP gradient (4–30% acetonitrile/0.1% formic acid)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3 μl/min."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "standard data dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID or ETD fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm for MS mass tolerance"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da for MS/MS mass tolerance"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "IMAC purifications were performed"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Phosphopeptides from two IMAC purifications were pooled and split into 6 aliquots for LC–MS/MS analysis."
+    ],
+    "FactorValue[Experimental]": [
+      "Triplicate DT experiments"
+    ]
+  },
+  "OTPf-IMACDT2010Mar11-02.raw": {
+    "Source Name": [
+      "OTPf-IMACDT2010Mar11-02"
+    ],
+    "Assay Name": [
+      "OTPf-IMACDT2010Mar11-02_assay"
+    ],
+    "Raw Data File": [
+      "OTPf-IMACDT2010Mar11-02.raw"
+    ],
+    "Characteristics[Organism]": [
+      "P. falciparum strain 3D7"
+    ],
+    "Characteristics[OrganismPart]": [
+      "schizont digests (starting material that was used for phosphorylation analysis)"
+    ],
+    "Characteristics[Specimen]": [
+      "Parasite pellets"
+    ],
+    "Characteristics[MaterialType]": [
+      "Phosphopeptide samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin Gold (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 M DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos hybrid mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "Ultimate 3000 nano/Capillary LC System (Dionex)"
+    ],
+    "Comment[IonizationType]": [
+      "nanospray ion source"
+    ],
+    "Comment[GradientTime]": [
+      "a 320 min RP gradient (4–30% acetonitrile/0.1% formic acid)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3 μl/min."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "standard data dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID or ETD fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm for MS mass tolerance"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da for MS/MS mass tolerance"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "IMAC purifications were performed"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Phosphopeptides from two IMAC purifications were pooled and split into 6 aliquots for LC–MS/MS analysis."
+    ],
+    "FactorValue[Experimental]": [
+      "Triplicate DT experiments"
+    ]
+  },
+  "OTPf-IMACDT2010Mar10-01.raw": {
+    "Source Name": [
+      "OTPf-IMACDT2010Mar10-01"
+    ],
+    "Assay Name": [
+      "OTPf-IMACDT2010Mar10-01_assay"
+    ],
+    "Raw Data File": [
+      "OTPf-IMACDT2010Mar10-01.raw"
+    ],
+    "Characteristics[Organism]": [
+      "P. falciparum strain 3D7"
+    ],
+    "Characteristics[OrganismPart]": [
+      "schizont digests (starting material that was used for phosphorylation analysis)"
+    ],
+    "Characteristics[Specimen]": [
+      "Parasite pellets"
+    ],
+    "Characteristics[MaterialType]": [
+      "Phosphopeptide samples"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Trypsin Gold (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 M DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos hybrid mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "Ultimate 3000 nano/Capillary LC System (Dionex)"
+    ],
+    "Comment[IonizationType]": [
+      "nanospray ion source"
+    ],
+    "Comment[GradientTime]": [
+      "a 320 min RP gradient (4–30% acetonitrile/0.1% formic acid)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3 μl/min."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "standard data dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "CID or ETD fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm for MS mass tolerance"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.5 Da for MS/MS mass tolerance"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "IMAC purifications were performed"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Phosphopeptides from two IMAC purifications were pooled and split into 6 aliquots for LC–MS/MS analysis."
+    ],
+    "FactorValue[Experimental]": [
+      "Triplicate DT experiments"
+    ]
+  }
+}

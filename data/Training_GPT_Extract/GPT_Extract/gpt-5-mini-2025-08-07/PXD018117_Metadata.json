@@ -1,0 +1,5000 @@
+{
+  "qx017191.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017191"
+    ],
+    "Raw Data File": [
+      "qx017191.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017087.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017087"
+    ],
+    "Raw Data File": [
+      "qx017087.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017082.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017082"
+    ],
+    "Raw Data File": [
+      "qx017082.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017187.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017187"
+    ],
+    "Raw Data File": [
+      "qx017187.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017111.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017111"
+    ],
+    "Raw Data File": [
+      "qx017111.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017156.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017156"
+    ],
+    "Raw Data File": [
+      "qx017156.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017166.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017166"
+    ],
+    "Raw Data File": [
+      "qx017166.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017178.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017178"
+    ],
+    "Raw Data File": [
+      "qx017178.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017200.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017200"
+    ],
+    "Raw Data File": [
+      "qx017200.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017155.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017155"
+    ],
+    "Raw Data File": [
+      "qx017155.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017124.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017124"
+    ],
+    "Raw Data File": [
+      "qx017124.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017164.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017164"
+    ],
+    "Raw Data File": [
+      "qx017164.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017184.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017184"
+    ],
+    "Raw Data File": [
+      "qx017184.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017101.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017101"
+    ],
+    "Raw Data File": [
+      "qx017101.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017121.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017121"
+    ],
+    "Raw Data File": [
+      "qx017121.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017088.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017088"
+    ],
+    "Raw Data File": [
+      "qx017088.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017110.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017110"
+    ],
+    "Raw Data File": [
+      "qx017110.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017173.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017173"
+    ],
+    "Raw Data File": [
+      "qx017173.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017139.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017139"
+    ],
+    "Raw Data File": [
+      "qx017139.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017150.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017150"
+    ],
+    "Raw Data File": [
+      "qx017150.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017165.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017165"
+    ],
+    "Raw Data File": [
+      "qx017165.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017114.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017114"
+    ],
+    "Raw Data File": [
+      "qx017114.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017102.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017102"
+    ],
+    "Raw Data File": [
+      "qx017102.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017190.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017190"
+    ],
+    "Raw Data File": [
+      "qx017190.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017202.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017202"
+    ],
+    "Raw Data File": [
+      "qx017202.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017138.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017138"
+    ],
+    "Raw Data File": [
+      "qx017138.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017115.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017115"
+    ],
+    "Raw Data File": [
+      "qx017115.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017140.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017140"
+    ],
+    "Raw Data File": [
+      "qx017140.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017145.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017145"
+    ],
+    "Raw Data File": [
+      "qx017145.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017125.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017125"
+    ],
+    "Raw Data File": [
+      "qx017125.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017091.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017091"
+    ],
+    "Raw Data File": [
+      "qx017091.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017146.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017146"
+    ],
+    "Raw Data File": [
+      "qx017146.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017201.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017201"
+    ],
+    "Raw Data File": [
+      "qx017201.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017126.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017126"
+    ],
+    "Raw Data File": [
+      "qx017126.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017134.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017134"
+    ],
+    "Raw Data File": [
+      "qx017134.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017215.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017215"
+    ],
+    "Raw Data File": [
+      "qx017215.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017080.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017080"
+    ],
+    "Raw Data File": [
+      "qx017080.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017169.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017169"
+    ],
+    "Raw Data File": [
+      "qx017169.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017192.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017192"
+    ],
+    "Raw Data File": [
+      "qx017192.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ], 
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017106.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017106"
+    ],
+    "Raw Data File": [
+      "qx017106.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017152.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017152"
+    ],
+    "Raw Data File": [
+      "qx017152.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017144.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017144"
+    ],
+    "Raw Data File": [
+      "qx017144.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017105.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017105"
+    ],
+    "Raw Data File": [
+      "qx017105.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017212.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017212"
+    ],
+    "Raw Data File": [
+      "qx017212.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017100.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017100"
+    ],
+    "Raw Data File": [
+      "qx017100.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017180.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017180"
+    ],
+    "Raw Data File": [
+      "qx017180.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017204.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017204"
+    ],
+    "Raw Data File": [
+      "qx017204.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017211.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017211"
+    ],
+    "Raw Data File": [
+      "qx017211.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017205.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017205"
+    ],
+    "Raw Data File": [
+      "qx017205.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017129.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017129"
+    ],
+    "Raw Data File": [
+      "qx017129.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017196.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017196"
+    ],
+    "Raw Data File": [
+      "qx017196.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017116.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017116"
+    ],
+    "Raw Data File": [
+      "qx017116.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017194.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017194"
+    ],
+    "Raw Data File": [
+      "qx017194.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017098.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017098"
+    ],
+    "Raw Data File": [
+      "qx017098.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017151.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017151"
+    ],
+    "Raw Data File": [
+      "qx017151.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017112.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017112"
+    ],
+    "Raw Data File": [
+      "qx017112.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017161.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017161"
+    ],
+    "Raw Data File": [
+      "qx017161.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017208.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017208"
+    ],
+    "Raw Data File": [
+      "qx017208.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017081.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017081"
+    ],
+    "Raw Data File": [
+      "qx017081.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017132.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017132"
+    ],
+    "Raw Data File": [
+      "qx017132.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017176.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017176"
+    ],
+    "Raw Data File": [
+      "qx017176.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017210.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017210"
+    ],
+    "Raw Data File": [
+      "qx017210.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017092.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017092"
+    ],
+    "Raw Data File": [
+      "qx017092.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017158.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017158"
+    ],
+    "Raw Data File": [
+      "qx017158.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017084.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017084"
+    ],
+    "Raw Data File": [
+      "qx017084.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017188.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017188"
+    ],
+    "Raw Data File": [
+      "qx017188.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017174.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017174"
+    ],
+    "Raw Data File": [
+      "qx017174.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017186.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017186"
+    ],
+    "Raw Data File": [
+      "qx017186.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017177.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017177"
+    ],
+    "Raw Data File": [
+      "qx017177.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017214.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017214"
+    ],
+    "Raw Data File": [
+      "qx017214.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017216.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017216"
+    ],
+    "Raw Data File": [
+      "qx017216.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017154.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017154"
+    ],
+    "Raw Data File": [
+      "qx017154.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017182.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017182"
+    ],
+    "Raw Data File": [
+      "qx017182.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017104.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017104"
+    ],
+    "Raw Data File": [
+      "qx017104.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017162.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017162"
+    ],
+    "Raw Data File": [
+      "qx017162.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017090.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017090"
+    ],
+    "Raw Data File": [
+      "qx017090.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017118.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017118"
+    ],
+    "Raw Data File": [
+      "qx017118.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017128.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017128"
+    ],
+    "Raw Data File": [
+      "qx017128.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017195.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017195"
+    ],
+    "Raw Data File": [
+      "qx017195.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017136.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017136"
+    ],
+    "Raw Data File": [
+      "qx017136.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017135.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017135"
+    ],
+    "Raw Data File": [
+      "qx017135.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017077.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017077"
+    ],
+    "Raw Data File": [
+      "qx017077.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017120.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017120"
+    ],
+    "Raw Data File": [
+      "qx017120.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017078.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017078"
+    ],
+    "Raw Data File": [
+      "qx017078.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017142.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017142"
+    ],
+    "Raw Data File": [
+      "qx017142.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017086.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017086"
+    ],
+    "Raw Data File": [
+      "qx017086.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017160.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017160"
+    ],
+    "Raw Data File": [
+      "qx017160.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017206.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017206"
+    ],
+    "Raw Data File": [
+      "qx017206.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017170.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017170"
+    ],
+    "Raw Data File": [
+      "qx017170.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017096.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017096"
+    ],
+    "Raw Data File": [
+      "qx017096.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017181.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017181"
+    ],
+    "Raw Data File": [
+      "qx017181.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017172.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017172"
+    ],
+    "Raw Data File": [
+      "qx017172.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017168.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017168"
+    ],
+    "Raw Data File": [
+      "qx017168.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017108.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017108"
+    ],
+    "Raw Data File": [
+      "qx017108.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017130.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017130"
+    ],
+    "Raw Data File": [
+      "qx017130.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017094.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017094"
+    ],
+    "Raw Data File": [
+      "qx017094.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017095.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017095"
+    ],
+    "Raw Data File": [
+      "qx017095.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  },
+  "qx017122.raw": {
+    "Source Name": [
+      "source_HEK293T17_APMS"
+    ],
+    "Assay Name": [
+      "source_HEK293T17_APMS_qx017122"
+    ],
+    "Raw Data File": [
+      "qx017122.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293T/17 cells"
+    ],
+    "Characteristics[Organism]": [
+      "human cells"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Strep-tagged expression constructs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (0.5 μg/μl; Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "3 mM iodoacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "n=3 independent biological replicates"
+    ],
+    "Characteristics[Specimen]": [
+      "Cell pellets"
+    ],
+    "Comment[Instrument]": [
+      "Easy-nLC 1200 (Thermo Fisher Scientific)",
+      "Q-Exactive Plus mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[GradientTime]": [
+      "75 min acquisition"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "orbitrap"
+    ],
+    "Comment[Separation]": [
+      "reversed-phase gradient over a nanoflow C18 column (Dr. Maisch)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "MagStrep “type3” beads (30 μl; IBA Lifesciences)"
+    ]
+  }
+}

@@ -1,0 +1,2346 @@
+{
+  "20120802_MLP_363216_Tio2ps130.raw": {
+    "Source Name": [
+      "20120802_MLP_363216_Tio2ps130"
+    ],
+    "Assay Name": [
+      "20120802_MLP_363216_Tio2ps130_assay"
+    ],
+    "Raw Data File": [
+      "20120802_MLP_363216_Tio2ps130.raw"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "Reversed-phase chromatographic separation was carried out on a 200 μm inner diameter (i.d.) x 0.5 mm trap column packed with C18 (3 μm bead size, 120 A°, Eksigent), a 75 μm i.d. x 15 cm column packed with C18 (3 μm bead size, 120 A°, Eksigent) with a linear gradient of 5-50% solvent B (100% MeCN + 0.1% FA) against solvent A (100% H2O + 0.1% FA) with a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in the data-dependent mode."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "digested and enriched for phosphopeptides (Fig. 1B).",
+      "Titansphere TiO2 beads (10 µm; GL-Sciences 5020 75010)",
+      "TiO2 loading buffer (80% MeCN, 5% TFA, 1 M glycolic acid)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C (Wako 125-05061)",
+      "trypsin (Worthington)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced in 20 mM dithiothreitol (DTT), 40 mM ABC for 45 min and subsequently alkylated in 50 mM iodoacetamide (IAA) for 50 min in the dark at room temperature."
+    ],
+    "Characteristics[Label]": [
+      "L-arginine-13C6,15N4 hydrochloride (Arg+10 Da) and L-lysine-13C6,15N2 hydrochloride (Lys+8 Da) were used for heavy-labeling; L-arginine-13C6 hydrochloride (Arg+6 Da) and L-lysine-4,4,5,5-d4 hydrochloride (Lys+4 Da) were used for medium-labeling; and L-arginine (A8094) and L-lysine (L5501) were used for light-labeling."
+    ]
+  },
+  "20121010_MLP_363245_TiO2ps135T1_121011150632.raw": {
+    "Source Name": [
+      "20121010_MLP_363245_TiO2ps135T1_121011150632"
+    ],
+    "Assay Name": [
+      "20121010_MLP_363245_TiO2ps135T1_121011150632_assay"
+    ],
+    "Raw Data File": [
+      "20121010_MLP_363245_TiO2ps135T1_121011150632.raw"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "T1"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "Reversed-phase chromatographic separation was carried out on a 200 μm inner diameter (i.d.) x 0.5 mm trap column packed with C18 (3 μm bead size, 120 A°, Eksigent), a 75 μm i.d. x 15 cm column packed with C18 (3 μm bead size, 120 A°, Eksigent) with a linear gradient of 5-50% solvent B (100% MeCN + 0.1% FA) against solvent A (100% H2O + 0.1% FA) with a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in the data-dependent mode."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "digested and enriched for phosphopeptides (Fig. 1B).",
+      "Titansphere TiO2 beads (10 µm; GL-Sciences 5020 75010)",
+      "TiO2 loading buffer (80% MeCN, 5% TFA, 1 M glycolic acid)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C (Wako 125-05061)",
+      "trypsin (Worthington)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced in 20 mM dithiothreitol (DTT), 40 mM ABC for 45 min and subsequently alkylated in 50 mM iodoacetamide (IAA) for 50 min in the dark at room temperature."
+    ],
+    "Characteristics[Label]": [
+      "L-arginine-13C6,15N4 hydrochloride (Arg+10 Da) and L-lysine-13C6,15N2 hydrochloride (Lys+8 Da) were used for heavy-labeling; L-arginine-13C6 hydrochloride (Arg+6 Da) and L-lysine-4,4,5,5-d4 hydrochloride (Lys+4 Da) were used for medium-labeling; and L-arginine (A8094) and L-lysine (L5501) were used for light-labeling."
+    ]
+  },
+  "20120703_MLP_363211_TiO2ps128.raw": {
+    "Source Name": [
+      "20120703_MLP_363211_TiO2ps128"
+    ],
+    "Assay Name": [
+      "20120703_MLP_363211_TiO2ps128_assay"
+    ],
+    "Raw Data File": [
+      "20120703_MLP_363211_TiO2ps128.raw"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "Reversed-phase chromatographic separation was carried out on a 200 μm inner diameter (i.d.) x 0.5 mm trap column packed with C18 (3 μm bead size, 120 A°, Eksigent), a 75 μm i.d. x 15 cm column packed with C18 (3 μm bead size, 120 A°, Eksigent) with a linear gradient of 5-50% solvent B (100% MeCN + 0.1% FA) against solvent A (100% H2O + 0.1% FA) with a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in the data-dependent mode."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "digested and enriched for phosphopeptides (Fig. 1B).",
+      "Titansphere TiO2 beads (10 µm; GL-Sciences 5020 75010)",
+      "TiO2 loading buffer (80% MeCN, 5% TFA, 1 M glycolic acid)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C (Wako 125-05061)",
+      "trypsin (Worthington)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced in 20 mM dithiothreitol (DTT), 40 mM ABC for 45 min and subsequently alkylated in 50 mM iodoacetamide (IAA) for 50 min in the dark at room temperature."
+    ],
+    "Characteristics[Label]": [
+      "L-arginine-13C6,15N4 hydrochloride (Arg+10 Da) and L-lysine-13C6,15N2 hydrochloride (Lys+8 Da) were used for heavy-labeling; L-arginine-13C6 hydrochloride (Arg+6 Da) and L-lysine-4,4,5,5-d4 hydrochloride (Lys+4 Da) were used for medium-labeling; and L-arginine (A8094) and L-lysine (L5501) were used for light-labeling."
+    ]
+  },
+  "20120326_MLP_333188_Tio2ps111.raw": {
+    "Source Name": [
+      "20120326_MLP_333188_Tio2ps111"
+    ],
+    "Assay Name": [
+      "20120326_MLP_333188_Tio2ps111_assay"
+    ],
+    "Raw Data File": [
+      "20120326_MLP_333188_Tio2ps111.raw"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "Reversed-phase chromatographic separation was carried out on a 200 μm inner diameter (i.d.) x 0.5 mm trap column packed with C18 (3 μm bead size, 120 A°, Eksigent), a 75 μm i.d. x 15 cm column packed with C18 (3 μm bead size, 120 A°, Eksigent) with a linear gradient of 5-50% solvent B (100% MeCN + 0.1% FA) against solvent A (100% H2O + 0.1% FA) with a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in the data-dependent mode."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "digested and enriched for phosphopeptides (Fig. 1B).",
+      "Titansphere TiO2 beads (10 µm; GL-Sciences 5020 75010)",
+      "TiO2 loading buffer (80% MeCN, 5% TFA, 1 M glycolic acid)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C (Wako 125-05061)",
+      "trypsin (Worthington)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced in 20 mM dithiothreitol (DTT), 40 mM ABC for 45 min and subsequently alkylated in 50 mM iodoacetamide (IAA) for 50 min in the dark at room temperature."
+    ],
+    "Characteristics[Label]": [
+      "L-arginine-13C6,15N4 hydrochloride (Arg+10 Da) and L-lysine-13C6,15N2 hydrochloride (Lys+8 Da) were used for heavy-labeling; L-arginine-13C6 hydrochloride (Arg+6 Da) and L-lysine-4,4,5,5-d4 hydrochloride (Lys+4 Da) were used for medium-labeling; and L-arginine (A8094) and L-lysine (L5501) were used for light-labeling."
+    ]
+  },
+  "20120326_MLP_363207_Tio2ps123.raw": {
+    "Source Name": [
+      "20120326_MLP_363207_Tio2ps123"
+    ],
+    "Assay Name": [
+      "20120326_MLP_363207_Tio2ps123_assay"
+    ],
+    "Raw Data File": [
+      "20120326_MLP_363207_Tio2ps123.raw"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "Reversed-phase chromatographic separation was carried out on a 200 μm inner diameter (i.d.) x 0.5 mm trap column packed with C18 (3 μm bead size, 120 A°, Eksigent), a 75 μm i.d. x 15 cm column packed with C18 (3 μm bead size, 120 A°, Eksigent) with a linear gradient of 5-50% solvent B (100% MeCN + 0.1% FA) against solvent A (100% H2O + 0.1% FA) with a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in the data-dependent mode."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "digested and enriched for phosphopeptides (Fig. 1B).",
+      "Titansphere TiO2 beads (10 µm; GL-Sciences 5020 75010)",
+      "TiO2 loading buffer (80% MeCN, 5% TFA, 1 M glycolic acid)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C (Wako 125-05061)",
+      "trypsin (Worthington)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced in 20 mM dithiothreitol (DTT), 40 mM ABC for 45 min and subsequently alkylated in 50 mM iodoacetamide (IAA) for 50 min in the dark at room temperature."
+    ],
+    "Characteristics[Label]": [
+      "L-arginine-13C6,15N4 hydrochloride (Arg+10 Da) and L-lysine-13C6,15N2 hydrochloride (Lys+8 Da) were used for heavy-labeling; L-arginine-13C6 hydrochloride (Arg+6 Da) and L-lysine-4,4,5,5-d4 hydrochloride (Lys+4 Da) were used for medium-labeling; and L-arginine (A8094) and L-lysine (L5501) were used for light-labeling."
+    ]
+  },
+  "20130115_MLP_363262_ps139B.raw": {
+    "Source Name": [
+      "20130115_MLP_363262_ps139B"
+    ],
+    "Assay Name": [
+      "20130115_MLP_363262_ps139B_assay"
+    ],
+    "Raw Data File": [
+      "20130115_MLP_363262_ps139B.raw"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "Reversed-phase chromatographic separation was carried out on a 200 μm inner diameter (i.d.) x 0.5 mm trap column packed with C18 (3 μm bead size, 120 A°, Eksigent), a 75 μm i.d. x 15 cm column packed with C18 (3 μm bead size, 120 A°, Eksigent) with a linear gradient of 5-50% solvent B (100% MeCN + 0.1% FA) against solvent A (100% H2O + 0.1% FA) with a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in the data-dependent mode."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "digested and enriched for phosphopeptides (Fig. 1B).",
+      "Titansphere TiO2 beads (10 µm; GL-Sciences 5020 75010)",
+      "TiO2 loading buffer (80% MeCN, 5% TFA, 1 M glycolic acid)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C (Wako 125-05061)",
+      "trypsin (Worthington)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced in 20 mM dithiothreitol (DTT), 40 mM ABC for 45 min and subsequently alkylated in 50 mM iodoacetamide (IAA) for 50 min in the dark at room temperature."
+    ],
+    "Characteristics[Label]": [
+      "L-arginine-13C6,15N4 hydrochloride (Arg+10 Da) and L-lysine-13C6,15N2 hydrochloride (Lys+8 Da) were used for heavy-labeling; L-arginine-13C6 hydrochloride (Arg+6 Da) and L-lysine-4,4,5,5-d4 hydrochloride (Lys+4 Da) were used for medium-labeling; and L-arginine (A8094) and L-lysine (L5501) were used for light-labeling."
+    ]
+  },
+  "20130115_MLP_363262_ps139D.raw": {
+    "Source Name": [
+      "20130115_MLP_363262_ps139D"
+    ],
+    "Assay Name": [
+      "20130115_MLP_363262_ps139D_assay"
+    ],
+    "Raw Data File": [
+      "20130115_MLP_363262_ps139D.raw"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "Reversed-phase chromatographic separation was carried out on a 200 μm inner diameter (i.d.) x 0.5 mm trap column packed with C18 (3 μm bead size, 120 A°, Eksigent), a 75 μm i.d. x 15 cm column packed with C18 (3 μm bead size, 120 A°, Eksigent) with a linear gradient of 5-50% solvent B (100% MeCN + 0.1% FA) against solvent A (100% H2O + 0.1% FA) with a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in the data-dependent mode."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "digested and enriched for phosphopeptides (Fig. 1B).",
+      "Titansphere TiO2 beads (10 µm; GL-Sciences 5020 75010)",
+      "TiO2 loading buffer (80% MeCN, 5% TFA, 1 M glycolic acid)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C (Wako 125-05061)",
+      "trypsin (Worthington)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced in 20 mM dithiothreitol (DTT), 40 mM ABC for 45 min and subsequently alkylated in 50 mM iodoacetamide (IAA) for 50 min in the dark at room temperature."
+    ],
+    "Characteristics[Label]": [
+      "L-arginine-13C6,15N4 hydrochloride (Arg+10 Da) and L-lysine-13C6,15N2 hydrochloride (Lys+8 Da) were used for heavy-labeling; L-arginine-13C6 hydrochloride (Arg+6 Da) and L-lysine-4,4,5,5-d4 hydrochloride (Lys+4 Da) were used for medium-labeling; and L-arginine (A8094) and L-lysine (L5501) were used for light-labeling."
+    ]
+  },
+  "20120229_MLP_333188_ps108TiO2.raw": {
+    "Source Name": [
+      "20120229_MLP_333188_ps108TiO2"
+    ],
+    "Assay Name": [
+      "20120229_MLP_333188_ps108TiO2_assay"
+    ],
+    "Raw Data File": [
+      "20120229_MLP_333188_ps108TiO2.raw"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "Reversed-phase chromatographic separation was carried out on a 200 μm inner diameter (i.d.) x 0.5 mm trap column packed with C18 (3 μm bead size, 120 A°, Eksigent), a 75 μm i.d. x 15 cm column packed with C18 (3 μm bead size, 120 A°, Eksigent) with a linear gradient of 5-50% solvent B (100% MeCN + 0.1% FA) against solvent A (100% H2O + 0.1% FA) with a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in the data-dependent mode."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "digested and enriched for phosphopeptides (Fig. 1B).",
+      "Titansphere TiO2 beads (10 µm; GL-Sciences 5020 75010)",
+      "TiO2 loading buffer (80% MeCN, 5% TFA, 1 M glycolic acid)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C (Wako 125-05061)",
+      "trypsin (Worthington)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced in 20 mM dithiothreitol (DTT), 40 mM ABC for 45 min and subsequently alkylated in 50 mM iodoacetamide (IAA) for 50 min in the dark at room temperature."
+    ],
+    "Characteristics[Label]": [
+      "L-arginine-13C6,15N4 hydrochloride (Arg+10 Da) and L-lysine-13C6,15N2 hydrochloride (Lys+8 Da) were used for heavy-labeling; L-arginine-13C6 hydrochloride (Arg+6 Da) and L-lysine-4,4,5,5-d4 hydrochloride (Lys+4 Da) were used for medium-labeling; and L-arginine (A8094) and L-lysine (L5501) were used for light-labeling."
+    ]
+  },
+  "20120326_MLP_333188_Tio2ps109.raw": {
+    "Source Name": [
+      "20120326_MLP_333188_Tio2ps109"
+    ],
+    "Assay Name": [
+      "20120326_MLP_333188_Tio2ps109_assay"
+    ],
+    "Raw Data File": [
+      "20120326_MLP_333188_Tio2ps109.raw"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "Reversed-phase chromatographic separation was carried out on a 200 μm inner diameter (i.d.) x 0.5 mm trap column packed with C18 (3 μm bead size, 120 A°, Eksigent), a 75 μm i.d. x 15 cm column packed with C18 (3 μm bead size, 120 A°, Eksigent) with a linear gradient of 5-50% solvent B (100% MeCN + 0.1% FA) against solvent A (100% H2O + 0.1% FA) with a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in the data-dependent mode."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "digested and enriched for phosphopeptides (Fig. 1B).",
+      "Titansphere TiO2 beads (10 µm; GL-Sciences 5020 75010)",
+      "TiO2 loading buffer (80% MeCN, 5% TFA, 1 M glycolic acid)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C (Wako 125-05061)",
+      "trypsin (Worthington)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced in 20 mM dithiothreitol (DTT), 40 mM ABC for 45 min and subsequently alkylated in 50 mM iodoacetamide (IAA) for 50 min in the dark at room temperature."
+    ],
+    "Characteristics[Label]": [
+      "L-arginine-13C6,15N4 hydrochloride (Arg+10 Da) and L-lysine-13C6,15N2 hydrochloride (Lys+8 Da) were used for heavy-labeling; L-arginine-13C6 hydrochloride (Arg+6 Da) and L-lysine-4,4,5,5-d4 hydrochloride (Lys+4 Da) were used for medium-labeling; and L-arginine (A8094) and L-lysine (L5501) were used for light-labeling."
+    ]
+  },
+  "20120802_MLP_363216_Tio2ps131.raw": {
+    "Source Name": [
+      "20120802_MLP_363216_Tio2ps131"
+    ],
+    "Assay Name": [
+      "20120802_MLP_363216_Tio2ps131_assay"
+    ],
+    "Raw Data File": [
+      "20120802_MLP_363216_Tio2ps131.raw"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "Reversed-phase chromatographic separation was carried out on a 200 μm inner diameter (i.d.) x 0.5 mm trap column packed with C18 (3 μm bead size, 120 A°, Eksigent), a 75 μm i.d. x 15 cm column packed with C18 (3 μm bead size, 120 A°, Eksigent) with a linear gradient of 5-50% solvent B (100% MeCN + 0.1% FA) against solvent A (100% H2O + 0.1% FA) with a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in the data-dependent mode."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "digested and enriched for phosphopeptides (Fig. 1B).",
+      "Titansphere TiO2 beads (10 µm; GL-Sciences 5020 75010)",
+      "TiO2 loading buffer (80% MeCN, 5% TFA, 1 M glycolic acid)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C (Wako 125-05061)",
+      "trypsin (Worthington)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced in 20 mM dithiothreitol (DTT), 40 mM ABC for 45 min and subsequently alkylated in 50 mM iodoacetamide (IAA) for 50 min in the dark at room temperature."
+    ],
+    "Characteristics[Label]": [
+      "L-arginine-13C6,15N4 hydrochloride (Arg+10 Da) and L-lysine-13C6,15N2 hydrochloride (Lys+8 Da) were used for heavy-labeling; L-arginine-13C6 hydrochloride (Arg+6 Da) and L-lysine-4,4,5,5-d4 hydrochloride (Lys+4 Da) were used for medium-labeling; and L-arginine (A8094) and L-lysine (L5501) were used for light-labeling."
+    ]
+  },
+  "20121026_MLP_psMLP137BT.raw": {
+    "Source Name": [
+      "20121026_MLP_psMLP137BT"
+    ],
+    "Assay Name": [
+      "20121026_MLP_psMLP137BT_assay"
+    ],
+    "Raw Data File": [
+      "20121026_MLP_psMLP137BT.raw"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "Reversed-phase chromatographic separation was carried out on a 200 μm inner diameter (i.d.) x 0.5 mm trap column packed with C18 (3 μm bead size, 120 A°, Eksigent), a 75 μm i.d. x 15 cm column packed with C18 (3 μm bead size, 120 A°, Eksigent) with a linear gradient of 5-50% solvent B (100% MeCN + 0.1% FA) against solvent A (100% H2O + 0.1% FA) with a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in the data-dependent mode."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "digested and enriched for phosphopeptides (Fig. 1B).",
+      "Titansphere TiO2 beads (10 µm; GL-Sciences 5020 75010)",
+      "TiO2 loading buffer (80% MeCN, 5% TFA, 1 M glycolic acid)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C (Wako 125-05061)",
+      "trypsin (Worthington)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced in 20 mM dithiothreitol (DTT), 40 mM ABC for 45 min and subsequently alkylated in 50 mM iodoacetamide (IAA) for 50 min in the dark at room temperature."
+    ],
+    "Characteristics[Label]": [
+      "L-arginine-13C6,15N4 hydrochloride (Arg+10 Da) and L-lysine-13C6,15N2 hydrochloride (Lys+8 Da) were used for heavy-labeling; L-arginine-13C6 hydrochloride (Arg+6 Da) and L-lysine-4,4,5,5-d4 hydrochloride (Lys+4 Da) were used for medium-labeling; and L-arginine (A8094) and L-lysine (L5501) were used for light-labeling."
+    ]
+  },
+  "20120326_MLP_333188_Tio2ps114.raw": {
+    "Source Name": [
+      "20120326_MLP_333188_Tio2ps114"
+    ],
+    "Assay Name": [
+      "20120326_MLP_333188_Tio2ps114_assay"
+    ],
+    "Raw Data File": [
+      "20120326_MLP_333188_Tio2ps114.raw"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "Reversed-phase chromatographic separation was carried out on a 200 μm inner diameter (i.d.) x 0.5 mm trap column packed with C18 (3 μm bead size, 120 A°, Eksigent), a 75 μm i.d. x 15 cm column packed with C18 (3 μm bead size, 120 A°, Eksigent) with a linear gradient of 5-50% solvent B (100% MeCN + 0.1% FA) against solvent A (100% H2O + 0.1% FA) with a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in the data-dependent mode."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "digested and enriched for phosphopeptides (Fig. 1B).",
+      "Titansphere TiO2 beads (10 µm; GL-Sciences 5020 75010)",
+      "TiO2 loading buffer (80% MeCN, 5% TFA, 1 M glycolic acid)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C (Wako 125-05061)",
+      "trypsin (Worthington)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced in 20 mM dithiothreitol (DTT), 40 mM ABC for 45 min and subsequently alkylated in 50 mM iodoacetamide (IAA) for 50 min in the dark at room temperature."
+    ],
+    "Characteristics[Label]": [
+      "L-arginine-13C6,15N4 hydrochloride (Arg+10 Da) and L-lysine-13C6,15N2 hydrochloride (Lys+8 Da) were used for heavy-labeling; L-arginine-13C6 hydrochloride (Arg+6 Da) and L-lysine-4,4,5,5-d4 hydrochloride (Lys+4 Da) were used for medium-labeling; and L-arginine (A8094) and L-lysine (L5501) were used for light-labeling."
+    ]
+  },
+  "20120703_MLP_363211_TiO2ps124.raw": {
+    "Source Name": [
+      "20120703_MLP_363211_TiO2ps124"
+    ],
+    "Assay Name": [
+      "20120703_MLP_363211_TiO2ps124_assay"
+    ],
+    "Raw Data File": [
+      "20120703_MLP_363211_TiO2ps124.raw"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "Reversed-phase chromatographic separation was carried out on a 200 μm inner diameter (i.d.) x 0.5 mm trap column packed with C18 (3 μm bead size, 120 A°, Eksigent), a 75 μm i.d. x 15 cm column packed with C18 (3 μm bead size, 120 A°, Eksigent) with a linear gradient of 5-50% solvent B (100% MeCN + 0.1% FA) against solvent A (100% H2O + 0.1% FA) with a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in the data-dependent mode."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "digested and enriched for phosphopeptides (Fig. 1B).",
+      "Titansphere TiO2 beads (10 µm; GL-Sciences 5020 75010)",
+      "TiO2 loading buffer (80% MeCN, 5% TFA, 1 M glycolic acid)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C (Wako 125-05061)",
+      "trypsin (Worthington)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced in 20 mM dithiothreitol (DTT), 40 mM ABC for 45 min and subsequently alkylated in 50 mM iodoacetamide (IAA) for 50 min in the dark at room temperature."
+    ],
+    "Characteristics[Label]": [
+      "L-arginine-13C6,15N4 hydrochloride (Arg+10 Da) and L-lysine-13C6,15N2 hydrochloride (Lys+8 Da) were used for heavy-labeling; L-arginine-13C6 hydrochloride (Arg+6 Da) and L-lysine-4,4,5,5-d4 hydrochloride (Lys+4 Da) were used for medium-labeling; and L-arginine (A8094) and L-lysine (L5501) were used for light-labeling."
+    ]
+  },
+  "20120823_MLP_363227_TiO2ps132.raw": {
+    "Source Name": [
+      "20120823_MLP_363227_TiO2ps132"
+    ],
+    "Assay Name": [
+      "20120823_MLP_363227_TiO2ps132_assay"
+    ],
+    "Raw Data File": [
+      "20120823_MLP_363227_TiO2ps132.raw"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "Reversed-phase chromatographic separation was carried out on a 200 μm inner diameter (i.d.) x 0.5 mm trap column packed with C18 (3 μm bead size, 120 A°, Eksigent), a 75 μm i.d. x 15 cm column packed with C18 (3 μm bead size, 120 A°, Eksigent) with a linear gradient of 5-50% solvent B (100% MeCN + 0.1% FA) against solvent A (100% H2O + 0.1% FA) with a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in the data-dependent mode."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "digested and enriched for phosphopeptides (Fig. 1B).",
+      "Titansphere TiO2 beads (10 µm; GL-Sciences 5020 75010)",
+      "TiO2 loading buffer (80% MeCN, 5% TFA, 1 M glycolic acid)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C (Wako 125-05061)",
+      "trypsin (Worthington)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced in 20 mM dithiothreitol (DTT), 40 mM ABC for 45 min and subsequently alkylated in 50 mM iodoacetamide (IAA) for 50 min in the dark at room temperature."
+    ],
+    "Characteristics[Label]": [
+      "L-arginine-13C6,15N4 hydrochloride (Arg+10 Da) and L-lysine-13C6,15N2 hydrochloride (Lys+8 Da) were used for heavy-labeling; L-arginine-13C6 hydrochloride (Arg+6 Da) and L-lysine-4,4,5,5-d4 hydrochloride (Lys+4 Da) were used for medium-labeling; and L-arginine (A8094) and L-lysine (L5501) were used for light-labeling."
+    ]
+  },
+  "20121026_MLP_psMLP137CT.raw": {
+    "Source Name": [
+      "20121026_MLP_psMLP137CT"
+    ],
+    "Assay Name": [
+      "20121026_MLP_psMLP137CT_assay"
+    ],
+    "Raw Data File": [
+      "20121026_MLP_psMLP137CT.raw"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "Reversed-phase chromatographic separation was carried out on a 200 μm inner diameter (i.d.) x 0.5 mm trap column packed with C18 (3 μm bead size, 120 A°, Eksigent), a 75 μm i.d. x 15 cm column packed with C18 (3 μm bead size, 120 A°, Eksigent) with a linear gradient of 5-50% solvent B (100% MeCN + 0.1% FA) against solvent A (100% H2O + 0.1% FA) with a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in the data-dependent mode."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "digested and enriched for phosphopeptides (Fig. 1B).",
+      "Titansphere TiO2 beads (10 µm; GL-Sciences 5020 75010)",
+      "TiO2 loading buffer (80% MeCN, 5% TFA, 1 M glycolic acid)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C (Wako 125-05061)",
+      "trypsin (Worthington)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced in 20 mM dithiothreitol (DTT), 40 mM ABC for 45 min and subsequently alkylated in 50 mM iodoacetamide (IAA) for 50 min in the dark at room temperature."
+    ],
+    "Characteristics[Label]": [
+      "L-arginine-13C6,15N4 hydrochloride (Arg+10 Da) and L-lysine-13C6,15N2 hydrochloride (Lys+8 Da) were used for heavy-labeling; L-arginine-13C6 hydrochloride (Arg+6 Da) and L-lysine-4,4,5,5-d4 hydrochloride (Lys+4 Da) were used for medium-labeling; and L-arginine (A8094) and L-lysine (L5501) were used for light-labeling."
+    ]
+  },
+  "20120823_MLP_363227_TiO2ps133.raw": {
+    "Source Name": [
+      "20120823_MLP_363227_TiO2ps133"
+    ],
+    "Assay Name": [
+      "20120823_MLP_363227_TiO2ps133_assay"
+    ],
+    "Raw Data File": [
+      "20120823_MLP_363227_TiO2ps133.raw"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "Reversed-phase chromatographic separation was carried out on a 200 μm inner diameter (i.d.) x 0.5 mm trap column packed with C18 (3 μm bead size, 120 A°, Eksigent), a 75 μm i.d. x 15 cm column packed with C18 (3 μm bead size, 120 A°, Eksigent) with a linear gradient of 5-50% solvent B (100% MeCN + 0.1% FA) against solvent A (100% H2O + 0.1% FA) with a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in the data-dependent mode."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "digested and enriched for phosphopeptides (Fig. 1B).",
+      "Titansphere TiO2 beads (10 µm; GL-Sciences 5020 75010)",
+      "TiO2 loading buffer (80% MeCN, 5% TFA, 1 M glycolic acid)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C (Wako 125-05061)",
+      "trypsin (Worthington)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced in 20 mM dithiothreitol (DTT), 40 mM ABC for 45 min and subsequently alkylated in 50 mM iodoacetamide (IAA) for 50 min in the dark at room temperature."
+    ],
+    "Characteristics[Label]": [
+      "L-arginine-13C6,15N4 hydrochloride (Arg+10 Da) and L-lysine-13C6,15N2 hydrochloride (Lys+8 Da) were used for heavy-labeling; L-arginine-13C6 hydrochloride (Arg+6 Da) and L-lysine-4,4,5,5-d4 hydrochloride (Lys+4 Da) were used for medium-labeling; and L-arginine (A8094) and L-lysine (L5501) were used for light-labeling."
+    ]
+  },
+  "20120703_MLP_363211_TiO2ps125.raw": {
+    "Source Name": [
+      "20120703_MLP_363211_TiO2ps125"
+    ],
+    "Assay Name": [
+      "20120703_MLP_363211_TiO2ps125_assay"
+    ],
+    "Raw Data File": [
+      "20120703_MLP_363211_TiO2ps125.raw"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "Reversed-phase chromatographic separation was carried out on a 200 μm inner diameter (i.d.) x 0.5 mm trap column packed with C18 (3 μm bead size, 120 A°, Eksigent), a 75 μm i.d. x 15 cm column packed with C18 (3 μm bead size, 120 A°, Eksigent) with a linear gradient of 5-50% solvent B (100% MeCN + 0.1% FA) against solvent A (100% H2O + 0.1% FA) with a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in the data-dependent mode."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "digested and enriched for phosphopeptides (Fig. 1B).",
+      "Titansphere TiO2 beads (10 µm; GL-Sciences 5020 75010)",
+      "TiO2 loading buffer (80% MeCN, 5% TFA, 1 M glycolic acid)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C (Wako 125-05061)",
+      "trypsin (Worthington)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced in 20 mM dithiothreitol (DTT), 40 mM ABC for 45 min and subsequently alkylated in 50 mM iodoacetamide (IAA) for 50 min in the dark at room temperature."
+    ],
+    "Characteristics[Label]": [
+      "L-arginine-13C6,15N4 hydrochloride (Arg+10 Da) and L-lysine-13C6,15N2 hydrochloride (Lys+8 Da) were used for heavy-labeling; L-arginine-13C6 hydrochloride (Arg+6 Da) and L-lysine-4,4,5,5-d4 hydrochloride (Lys+4 Da) were used for medium-labeling; and L-arginine (A8094) and L-lysine (L5501) were used for light-labeling."
+    ]
+  },
+  "20120326_MLP_333188_Tio2ps112.raw": {
+    "Source Name": [
+      "20120326_MLP_333188_Tio2ps112"
+    ],
+    "Assay Name": [
+      "20120326_MLP_333188_Tio2ps112_assay"
+    ],
+    "Raw Data File": [
+      "20120326_MLP_333188_Tio2ps112.raw"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "Reversed-phase chromatographic separation was carried out on a 200 μm inner diameter (i.d.) x 0.5 mm trap column packed with C18 (3 μm bead size, 120 A°, Eksigent), a 75 μm i.d. x 15 cm column packed with C18 (3 μm bead size, 120 A°, Eksigent) with a linear gradient of 5-50% solvent B (100% MeCN + 0.1% FA) against solvent A (100% H2O + 0.1% FA) with a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in the data-dependent mode."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "digested and enriched for phosphopeptides (Fig. 1B).",
+      "Titansphere TiO2 beads (10 µm; GL-Sciences 5020 75010)",
+      "TiO2 loading buffer (80% MeCN, 5% TFA, 1 M glycolic acid)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C (Wako 125-05061)",
+      "trypsin (Worthington)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced in 20 mM dithiothreitol (DTT), 40 mM ABC for 45 min and subsequently alkylated in 50 mM iodoacetamide (IAA) for 50 min in the dark at room temperature."
+    ],
+    "Characteristics[Label]": [
+      "L-arginine-13C6,15N4 hydrochloride (Arg+10 Da) and L-lysine-13C6,15N2 hydrochloride (Lys+8 Da) were used for heavy-labeling; L-arginine-13C6 hydrochloride (Arg+6 Da) and L-lysine-4,4,5,5-d4 hydrochloride (Lys+4 Da) were used for medium-labeling; and L-arginine (A8094) and L-lysine (L5501) were used for light-labeling."
+    ]
+  },
+  "20120703_MLP_363211_TiO2ps127.raw": {
+    "Source Name": [
+      "20120703_MLP_363211_TiO2ps127"
+    ],
+    "Assay Name": [
+      "20120703_MLP_363211_TiO2ps127_assay"
+    ],
+    "Raw Data File": [
+      "20120703_MLP_363211_TiO2ps127.raw"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "Reversed-phase chromatographic separation was carried out on a 200 μm inner diameter (i.d.) x 0.5 mm trap column packed with C18 (3 μm bead size, 120 A°, Eksigent), a 75 μm i.d. x 15 cm column packed with C18 (3 μm bead size, 120 A°, Eksigent) with a linear gradient of 5-50% solvent B (100% MeCN + 0.1% FA) against solvent A (100% H2O + 0.1% FA) with a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in the data-dependent mode."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "digested and enriched for phosphopeptides (Fig. 1B).",
+      "Titansphere TiO2 beads (10 µm; GL-Sciences 5020 75010)",
+      "TiO2 loading buffer (80% MeCN, 5% TFA, 1 M glycolic acid)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C (Wako 125-05061)",
+      "trypsin (Worthington)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced in 20 mM dithiothreitol (DTT), 40 mM ABC for 45 min and subsequently alkylated in 50 mM iodoacetamide (IAA) for 50 min in the dark at room temperature."
+    ],
+    "Characteristics[Label]": [
+      "L-arginine-13C6,15N4 hydrochloride (Arg+10 Da) and L-lysine-13C6,15N2 hydrochloride (Lys+8 Da) were used for heavy-labeling; L-arginine-13C6 hydrochloride (Arg+6 Da) and L-lysine-4,4,5,5-d4 hydrochloride (Lys+4 Da) were used for medium-labeling; and L-arginine (A8094) and L-lysine (L5501) were used for light-labeling."
+    ]
+  },
+  "20120516_psMLP119.raw": {
+    "Source Name": [
+      "20120516_psMLP119"
+    ],
+    "Assay Name": [
+      "20120516_psMLP119_assay"
+    ],
+    "Raw Data File": [
+      "20120516_psMLP119.raw"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "Reversed-phase chromatographic separation was carried out on a 200 μm inner diameter (i.d.) x 0.5 mm trap column packed with C18 (3 μm bead size, 120 A°, Eksigent), a 75 μm i.d. x 15 cm column packed with C18 (3 μm bead size, 120 A°, Eksigent) with a linear gradient of 5-50% solvent B (100% MeCN + 0.1% FA) against solvent A (100% H2O + 0.1% FA) with a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in the data-dependent mode."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "digested and enriched for phosphopeptides (Fig. 1B).",
+      "Titansphere TiO2 beads (10 µm; GL-Sciences 5020 75010)",
+      "TiO2 loading buffer (80% MeCN, 5% TFA, 1 M glycolic acid)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C (Wako 125-05061)",
+      "trypsin (Worthington)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced in 20 mM dithiothreitol (DTT), 40 mM ABC for 45 min and subsequently alkylated in 50 mM iodoacetamide (IAA) for 50 min in the dark at room temperature."
+    ],
+    "Characteristics[Label]": [
+      "L-arginine-13C6,15N4 hydrochloride (Arg+10 Da) and L-lysine-13C6,15N2 hydrochloride (Lys+8 Da) were used for heavy-labeling; L-arginine-13C6 hydrochloride (Arg+6 Da) and L-lysine-4,4,5,5-d4 hydrochloride (Lys+4 Da) were used for medium-labeling; and L-arginine (A8094) and L-lysine (L5501) were used for light-labeling."
+    ]
+  },
+  "20120326_MLP_333188_Tio2ps113.raw": {
+    "Source Name": [
+      "20120326_MLP_333188_Tio2ps113"
+    ],
+    "Assay Name": [
+      "20120326_MLP_333188_Tio2ps113_assay"
+    ],
+    "Raw Data File": [
+      "20120326_MLP_333188_Tio2ps113.raw"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "Reversed-phase chromatographic separation was carried out on a 200 μm inner diameter (i.d.) x 0.5 mm trap column packed with C18 (3 μm bead size, 120 A°, Eksigent), a 75 μm i.d. x 15 cm column packed with C18 (3 μm bead size, 120 A°, Eksigent) with a linear gradient of 5-50% solvent B (100% MeCN + 0.1% FA) against solvent A (100% H2O + 0.1% FA) with a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in the data-dependent mode."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "digested and enriched for phosphopeptides (Fig. 1B).",
+      "Titansphere TiO2 beads (10 µm; GL-Sciences 5020 75010)",
+      "TiO2 loading buffer (80% MeCN, 5% TFA, 1 M glycolic acid)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C (Wako 125-05061)",
+      "trypsin (Worthington)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced in 20 mM dithiothreitol (DTT), 40 mM ABC for 45 min and subsequently alkylated in 50 mM iodoacetamide (IAA) for 50 min in the dark at room temperature."
+    ],
+    "Characteristics[Label]": [
+      "L-arginine-13C6,15N4 hydrochloride (Arg+10 Da) and L-lysine-13C6,15N2 hydrochloride (Lys+8 Da) were used for heavy-labeling; L-arginine-13C6 hydrochloride (Arg+6 Da) and L-lysine-4,4,5,5-d4 hydrochloride (Lys+4 Da) were used for medium-labeling; and L-arginine (A8094) and L-lysine (L5501) were used for light-labeling."
+    ]
+  },
+  "20120410_MLP_333195_TiO2ps117.raw": {
+    "Source Name": [
+      "20120410_MLP_333195_TiO2ps117"
+    ],
+    "Assay Name": [
+      "20120410_MLP_333195_TiO2ps117_assay"
+    ],
+    "Raw Data File": [
+      "20120410_MLP_333195_TiO2ps117.raw"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "Reversed-phase chromatographic separation was carried out on a 200 μm inner diameter (i.d.) x 0.5 mm trap column packed with C18 (3 μm bead size, 120 A°, Eksigent), a 75 μm i.d. x 15 cm column packed with C18 (3 μm bead size, 120 A°, Eksigent) with a linear gradient of 5-50% solvent B (100% MeCN + 0.1% FA) against solvent A (100% H2O + 0.1% FA) with a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in the data-dependent mode."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "digested and enriched for phosphopeptides (Fig. 1B).",
+      "Titansphere TiO2 beads (10 µm; GL-Sciences 5020 75010)",
+      "TiO2 loading buffer (80% MeCN, 5% TFA, 1 M glycolic acid)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C (Wako 125-05061)",
+      "trypsin (Worthington)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced in 20 mM dithiothreitol (DTT), 40 mM ABC for 45 min and subsequently alkylated in 50 mM iodoacetamide (IAA) for 50 min in the dark at room temperature."
+    ],
+    "Characteristics[Label]": [
+      "L-arginine-13C6,15N4 hydrochloride (Arg+10 Da) and L-lysine-13C6,15N2 hydrochloride (Lys+8 Da) were used for heavy-labeling; L-arginine-13C6 hydrochloride (Arg+6 Da) and L-lysine-4,4,5,5-d4 hydrochloride (Lys+4 Da) were used for medium-labeling; and L-arginine (A8094) and L-lysine (L5501) were used for light-labeling."
+    ]
+  },
+  "20130115_MLP_363262_ps139E.raw": {
+    "Source Name": [
+      "20130115_MLP_363262_ps139E"
+    ],
+    "Assay Name": [
+      "20130115_MLP_363262_ps139E_assay"
+    ],
+    "Raw Data File": [
+      "20130115_MLP_363262_ps139E.raw"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "Reversed-phase chromatographic separation was carried out on a 200 μm inner diameter (i.d.) x 0.5 mm trap column packed with C18 (3 μm bead size, 120 A°, Eksigent), a 75 μm i.d. x 15 cm column packed with C18 (3 μm bead size, 120 A°, Eksigent) with a linear gradient of 5-50% solvent B (100% MeCN + 0.1% FA) against solvent A (100% H2O + 0.1% FA) with a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in the data-dependent mode."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "digested and enriched for phosphopeptides (Fig. 1B).",
+      "Titansphere TiO2 beads (10 µm; GL-Sciences 5020 75010)",
+      "TiO2 loading buffer (80% MeCN, 5% TFA, 1 M glycolic acid)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C (Wako 125-05061)",
+      "trypsin (Worthington)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced in 20 mM dithiothreitol (DTT), 40 mM ABC for 45 min and subsequently alkylated in 50 mM iodoacetamide (IAA) for 50 min in the dark at room temperature."
+    ],
+    "Characteristics[Label]": [
+      "L-arginine-13C6,15N4 hydrochloride (Arg+10 Da) and L-lysine-13C6,15N2 hydrochloride (Lys+8 Da) were used for heavy-labeling; L-arginine-13C6 hydrochloride (Arg+6 Da) and L-lysine-4,4,5,5-d4 hydrochloride (Lys+4 Da) were used for medium-labeling; and L-arginine (A8094) and L-lysine (L5501) were used for light-labeling."
+    ]
+  },
+  "20120823_MLP_363227_TiO2ps111.raw": {
+    "Source Name": [
+      "20120823_MLP_363227_TiO2ps111"
+    ],
+    "Assay Name": [
+      "20120823_MLP_363227_TiO2ps111_assay"
+    ],
+    "Raw Data File": [
+      "20120823_MLP_363227_TiO2ps111.raw"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "Reversed-phase chromatographic separation was carried out on a 200 μm inner diameter (i.d.) x 0.5 mm trap column packed with C18 (3 μm bead size, 120 A°, Eksigent), a 75 μm i.d. x 15 cm column packed with C18 (3 μm bead size, 120 A°, Eksigent) with a linear gradient of 5-50% solvent B (100% MeCN + 0.1% FA) against solvent A (100% H2O + 0.1% FA) with a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in the data-dependent mode."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "digested and enriched for phosphopeptides (Fig. 1B).",
+      "Titansphere TiO2 beads (10 µm; GL-Sciences 5020 75010)",
+      "TiO2 loading buffer (80% MeCN, 5% TFA, 1 M glycolic acid)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C (Wako 125-05061)",
+      "trypsin (Worthington)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced in 20 mM dithiothreitol (DTT), 40 mM ABC for 45 min and subsequently alkylated in 50 mM iodoacetamide (IAA) for 50 min in the dark at room temperature."
+    ],
+    "Characteristics[Label]": [
+      "L-arginine-13C6,15N4 hydrochloride (Arg+10 Da) and L-lysine-13C6,15N2 hydrochloride (Lys+8 Da) were used for heavy-labeling; L-arginine-13C6 hydrochloride (Arg+6 Da) and L-lysine-4,4,5,5-d4 hydrochloride (Lys+4 Da) were used for medium-labeling; and L-arginine (A8094) and L-lysine (L5501) were used for light-labeling."
+    ]
+  },
+  "20120703_MLP_363211_TiO2ps129.raw": {
+    "Source Name": [
+      "20120703_MLP_363211_TiO2ps129"
+    ],
+    "Assay Name": [
+      "20120703_MLP_363211_TiO2ps129_assay"
+    ],
+    "Raw Data File": [
+      "20120703_MLP_363211_TiO2ps129.raw"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "Reversed-phase chromatographic separation was carried out on a 200 μm inner diameter (i.d.) x 0.5 mm trap column packed with C18 (3 μm bead size, 120 A°, Eksigent), a 75 μm i.d. x 15 cm column packed with C18 (3 μm bead size, 120 A°, Eksigent) with a linear gradient of 5-50% solvent B (100% MeCN + 0.1% FA) against solvent A (100% H2O + 0.1% FA) with a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in the data-dependent mode."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "digested and enriched for phosphopeptides (Fig. 1B).",
+      "Titansphere TiO2 beads (10 µm; GL-Sciences 5020 75010)",
+      "TiO2 loading buffer (80% MeCN, 5% TFA, 1 M glycolic acid)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C (Wako 125-05061)",
+      "trypsin (Worthington)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced in 20 mM dithiothreitol (DTT), 40 mM ABC for 45 min and subsequently alkylated in 50 mM iodoacetamide (IAA) for 50 min in the dark at room temperature."
+    ],
+    "Characteristics[Label]": [
+      "L-arginine-13C6,15N4 hydrochloride (Arg+10 Da) and L-lysine-13C6,15N2 hydrochloride (Lys+8 Da) were used for heavy-labeling; L-arginine-13C6 hydrochloride (Arg+6 Da) and L-lysine-4,4,5,5-d4 hydrochloride (Lys+4 Da) were used for medium-labeling; and L-arginine (A8094) and L-lysine (L5501) were used for light-labeling."
+    ]
+  },
+  "20130115_MLP_363262_ps139C.raw": {
+    "Source Name": [
+      "20130115_MLP_363262_ps139C"
+    ],
+    "Assay Name": [
+      "20130115_MLP_363262_ps139C_assay"
+    ],
+    "Raw Data File": [
+      "20130115_MLP_363262_ps139C.raw"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "Reversed-phase chromatographic separation was carried out on a 200 μm inner diameter (i.d.) x 0.5 mm trap column packed with C18 (3 μm bead size, 120 A°, Eksigent), a 75 μm i.d. x 15 cm column packed with C18 (3 μm bead size, 120 A°, Eksigent) with a linear gradient of 5-50% solvent B (100% MeCN + 0.1% FA) against solvent A (100% H2O + 0.1% FA) with a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in the data-dependent mode."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "digested and enriched for phosphopeptides (Fig. 1B).",
+      "Titansphere TiO2 beads (10 µm; GL-Sciences 5020 75010)",
+      "TiO2 loading buffer (80% MeCN, 5% TFA, 1 M glycolic acid)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C (Wako 125-05061)",
+      "trypsin (Worthington)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced in 20 mM dithiothreitol (DTT), 40 mM ABC for 45 min and subsequently alkylated in 50 mM iodoacetamide (IAA) for 50 min in the dark at room temperature."
+    ],
+    "Characteristics[Label]": [
+      "L-arginine-13C6,15N4 hydrochloride (Arg+10 Da) and L-lysine-13C6,15N2 hydrochloride (Lys+8 Da) were used for heavy-labeling; L-arginine-13C6 hydrochloride (Arg+6 Da) and L-lysine-4,4,5,5-d4 hydrochloride (Lys+4 Da) were used for medium-labeling; and L-arginine (A8094) and L-lysine (L5501) were used for light-labeling."
+    ]
+  },
+  "20120703_MLP_363211_TiO2ps126.raw": {
+    "Source Name": [
+      "20120703_MLP_363211_TiO2ps126"
+    ],
+    "Assay Name": [
+      "20120703_MLP_363211_TiO2ps126_assay"
+    ],
+    "Raw Data File": [
+      "20120703_MLP_363211_TiO2ps126.raw"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "Reversed-phase chromatographic separation was carried out on a 200 μm inner diameter (i.d.) x 0.5 mm trap column packed with C18 (3 μm bead size, 120 A°, Eksigent), a 75 μm i.d. x 15 cm column packed with C18 (3 μm bead size, 120 A°, Eksigent) with a linear gradient of 5-50% solvent B (100% MeCN + 0.1% FA) against solvent A (100% H2O + 0.1% FA) with a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in the data-dependent mode."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "digested and enriched for phosphopeptides (Fig. 1B).",
+      "Titansphere TiO2 beads (10 µm; GL-Sciences 5020 75010)",
+      "TiO2 loading buffer (80% MeCN, 5% TFA, 1 M glycolic acid)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C (Wako 125-05061)",
+      "trypsin (Worthington)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced in 20 mM dithiothreitol (DTT), 40 mM ABC for 45 min and subsequently alkylated in 50 mM iodoacetamide (IAA) for 50 min in the dark at room temperature."
+    ],
+    "Characteristics[Label]": [
+      "L-arginine-13C6,15N4 hydrochloride (Arg+10 Da) and L-lysine-13C6,15N2 hydrochloride (Lys+8 Da) were used for heavy-labeling; L-arginine-13C6 hydrochloride (Arg+6 Da) and L-lysine-4,4,5,5-d4 hydrochloride (Lys+4 Da) were used for medium-labeling; and L-arginine (A8094) and L-lysine (L5501) were used for light-labeling."
+    ]
+  },
+  "20120326_MLP_363207_Tio2ps121.raw": {
+    "Source Name": [
+      "20120326_MLP_363207_Tio2ps121"
+    ],
+    "Assay Name": [
+      "20120326_MLP_363207_Tio2ps121_assay"
+    ],
+    "Raw Data File": [
+      "20120326_MLP_363207_Tio2ps121.raw"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "Reversed-phase chromatographic separation was carried out on a 200 μm inner diameter (i.d.) x 0.5 mm trap column packed with C18 (3 μm bead size, 120 A°, Eksigent), a 75 μm i.d. x 15 cm column packed with C18 (3 μm bead size, 120 A°, Eksigent) with a linear gradient of 5-50% solvent B (100% MeCN + 0.1% FA) against solvent A (100% H2O + 0.1% FA) with a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in the data-dependent mode."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "digested and enriched for phosphopeptides (Fig. 1B).",
+      "Titansphere TiO2 beads (10 µm; GL-Sciences 5020 75010)",
+      "TiO2 loading buffer (80% MeCN, 5% TFA, 1 M glycolic acid)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C (Wako 125-05061)",
+      "trypsin (Worthington)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced in 20 mM dithiothreitol (DTT), 40 mM ABC for 45 min and subsequently alkylated in 50 mM iodoacetamide (IAA) for 50 min in the dark at room temperature."
+    ],
+    "Characteristics[Label]": [
+      "L-arginine-13C6,15N4 hydrochloride (Arg+10 Da) and L-lysine-13C6,15N2 hydrochloride (Lys+8 Da) were used for heavy-labeling; L-arginine-13C6 hydrochloride (Arg+6 Da) and L-lysine-4,4,5,5-d4 hydrochloride (Lys+4 Da) were used for medium-labeling; and L-arginine (A8094) and L-lysine (L5501) were used for light-labeling."
+    ]
+  },
+  "20121010_MLP_363245_TiO2ps135T2.raw": {
+    "Source Name": [
+      "20121010_MLP_363245_TiO2ps135T2"
+    ],
+    "Assay Name": [
+      "20121010_MLP_363245_TiO2ps135T2_assay"
+    ],
+    "Raw Data File": [
+      "20121010_MLP_363245_TiO2ps135T2.raw"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "T2"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "Reversed-phase chromatographic separation was carried out on a 200 μm inner diameter (i.d.) x 0.5 mm trap column packed with C18 (3 μm bead size, 120 A°, Eksigent), a 75 μm i.d. x 15 cm column packed with C18 (3 μm bead size, 120 A°, Eksigent) with a linear gradient of 5-50% solvent B (100% MeCN + 0.1% FA) against solvent A (100% H2O + 0.1% FA) with a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in the data-dependent mode."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "digested and enriched for phosphopeptides (Fig. 1B).",
+      "Titansphere TiO2 beads (10 µm; GL-Sciences 5020 75010)",
+      "TiO2 loading buffer (80% MeCN, 5% TFA, 1 M glycolic acid)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C (Wako 125-05061)",
+      "trypsin (Worthington)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced in 20 mM dithiothreitol (DTT), 40 mM ABC for 45 min and subsequently alkylated in 50 mM iodoacetamide (IAA) for 50 min in the dark at room temperature."
+    ],
+    "Characteristics[Label]": [
+      "L-arginine-13C6,15N4 hydrochloride (Arg+10 Da) and L-lysine-13C6,15N2 hydrochloride (Lys+8 Da) were used for heavy-labeling; L-arginine-13C6 hydrochloride (Arg+6 Da) and L-lysine-4,4,5,5-d4 hydrochloride (Lys+4 Da) were used for medium-labeling; and L-arginine (A8094) and L-lysine (L5501) were used for light-labeling."
+    ]
+  },
+  "20120326_MLP_363207_Tio2ps120.raw": {
+    "Source Name": [
+      "20120326_MLP_363207_Tio2ps120"
+    ],
+    "Assay Name": [
+      "20120326_MLP_363207_Tio2ps120_assay"
+    ],
+    "Raw Data File": [
+      "20120326_MLP_363207_Tio2ps120.raw"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "Reversed-phase chromatographic separation was carried out on a 200 μm inner diameter (i.d.) x 0.5 mm trap column packed with C18 (3 μm bead size, 120 A°, Eksigent), a 75 μm i.d. x 15 cm column packed with C18 (3 μm bead size, 120 A°, Eksigent) with a linear gradient of 5-50% solvent B (100% MeCN + 0.1% FA) against solvent A (100% H2O + 0.1% FA) with a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in the data-dependent mode."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "digested and enriched for phosphopeptides (Fig. 1B).",
+      "Titansphere TiO2 beads (10 µm; GL-Sciences 5020 75010)",
+      "TiO2 loading buffer (80% MeCN, 5% TFA, 1 M glycolic acid)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C (Wako 125-05061)",
+      "trypsin (Worthington)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced in 20 mM dithiothreitol (DTT), 40 mM ABC for 45 min and subsequently alkylated in 50 mM iodoacetamide (IAA) for 50 min in the dark at room temperature."
+    ],
+    "Characteristics[Label]": [
+      "L-arginine-13C6,15N4 hydrochloride (Arg+10 Da) and L-lysine-13C6,15N2 hydrochloride (Lys+8 Da) were used for heavy-labeling; L-arginine-13C6 hydrochloride (Arg+6 Da) and L-lysine-4,4,5,5-d4 hydrochloride (Lys+4 Da) were used for medium-labeling; and L-arginine (A8094) and L-lysine (L5501) were used for light-labeling."
+    ]
+  },
+  "20120229_MLP_333188_ps110ATiO2.raw": {
+    "Source Name": [
+      "20120229_MLP_333188_ps110ATiO2"
+    ],
+    "Assay Name": [
+      "20120229_MLP_333188_ps110ATiO2_assay"
+    ],
+    "Raw Data File": [
+      "20120229_MLP_333188_ps110ATiO2.raw"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "Reversed-phase chromatographic separation was carried out on a 200 μm inner diameter (i.d.) x 0.5 mm trap column packed with C18 (3 μm bead size, 120 A°, Eksigent), a 75 μm i.d. x 15 cm column packed with C18 (3 μm bead size, 120 A°, Eksigent) with a linear gradient of 5-50% solvent B (100% MeCN + 0.1% FA) against solvent A (100% H2O + 0.1% FA) with a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in the data-dependent mode."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "digested and enriched for phosphopeptides (Fig. 1B).",
+      "Titansphere TiO2 beads (10 µm; GL-Sciences 5020 75010)",
+      "TiO2 loading buffer (80% MeCN, 5% TFA, 1 M glycolic acid)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C (Wako 125-05061)",
+      "trypsin (Worthington)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced in 20 mM dithiothreitol (DTT), 40 mM ABC for 45 min and subsequently alkylated in 50 mM iodoacetamide (IAA) for 50 min in the dark at room temperature."
+    ],
+    "Characteristics[Label]": [
+      "L-arginine-13C6,15N4 hydrochloride (Arg+10 Da) and L-lysine-13C6,15N2 hydrochloride (Lys+8 Da) were used for heavy-labeling; L-arginine-13C6 hydrochloride (Arg+6 Da) and L-lysine-4,4,5,5-d4 hydrochloride (Lys+4 Da) were used for medium-labeling; and L-arginine (A8094) and L-lysine (L5501) were used for light-labeling."
+    ]
+  },
+  "20120410_MLP_333195_Tio2ps116.raw": {
+    "Source Name": [
+      "20120410_MLP_333195_Tio2ps116"
+    ],
+    "Assay Name": [
+      "20120410_MLP_333195_Tio2ps116_assay"
+    ],
+    "Raw Data File": [
+      "20120410_MLP_333195_Tio2ps116.raw"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "Reversed-phase chromatographic separation was carried out on a 200 μm inner diameter (i.d.) x 0.5 mm trap column packed with C18 (3 μm bead size, 120 A°, Eksigent), a 75 μm i.d. x 15 cm column packed with C18 (3 μm bead size, 120 A°, Eksigent) with a linear gradient of 5-50% solvent B (100% MeCN + 0.1% FA) against solvent A (100% H2O + 0.1% FA) with a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in the data-dependent mode."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "digested and enriched for phosphopeptides (Fig. 1B).",
+      "Titansphere TiO2 beads (10 µm; GL-Sciences 5020 75010)",
+      "TiO2 loading buffer (80% MeCN, 5% TFA, 1 M glycolic acid)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C (Wako 125-05061)",
+      "trypsin (Worthington)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced in 20 mM dithiothreitol (DTT), 40 mM ABC for 45 min and subsequently alkylated in 50 mM iodoacetamide (IAA) for 50 min in the dark at room temperature."
+    ],
+    "Characteristics[Label]": [
+      "L-arginine-13C6,15N4 hydrochloride (Arg+10 Da) and L-lysine-13C6,15N2 hydrochloride (Lys+8 Da) were used for heavy-labeling; L-arginine-13C6 hydrochloride (Arg+6 Da) and L-lysine-4,4,5,5-d4 hydrochloride (Lys+4 Da) were used for medium-labeling; and L-arginine (A8094) and L-lysine (L5501) were used for light-labeling."
+    ]
+  },
+  "20120326_MLP_363207_Tio2ps122.raw": {
+    "Source Name": [
+      "20120326_MLP_363207_Tio2ps122"
+    ],
+    "Assay Name": [
+      "20120326_MLP_363207_Tio2ps122_assay"
+    ],
+    "Raw Data File": [
+      "20120326_MLP_363207_Tio2ps122.raw"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "Reversed-phase chromatographic separation was carried out on a 200 μm inner diameter (i.d.) x 0.5 mm trap column packed with C18 (3 μm bead size, 120 A°, Eksigent), a 75 μm i.d. x 15 cm column packed with C18 (3 μm bead size, 120 A°, Eksigent) with a linear gradient of 5-50% solvent B (100% MeCN + 0.1% FA) against solvent A (100% H2O + 0.1% FA) with a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in the data-dependent mode."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "digested and enriched for phosphopeptides (Fig. 1B).",
+      "Titansphere TiO2 beads (10 µm; GL-Sciences 5020 75010)",
+      "TiO2 loading buffer (80% MeCN, 5% TFA, 1 M glycolic acid)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C (Wako 125-05061)",
+      "trypsin (Worthington)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced in 20 mM dithiothreitol (DTT), 40 mM ABC for 45 min and subsequently alkylated in 50 mM iodoacetamide (IAA) for 50 min in the dark at room temperature."
+    ],
+    "Characteristics[Label]": [
+      "L-arginine-13C6,15N4 hydrochloride (Arg+10 Da) and L-lysine-13C6,15N2 hydrochloride (Lys+8 Da) were used for heavy-labeling; L-arginine-13C6 hydrochloride (Arg+6 Da) and L-lysine-4,4,5,5-d4 hydrochloride (Lys+4 Da) were used for medium-labeling; and L-arginine (A8094) and L-lysine (L5501) were used for light-labeling."
+    ]
+  },
+  "20121010_MLP_363245_TiO2ps136T1.raw": {
+    "Source Name": [
+      "20121010_MLP_363245_TiO2ps136T1"
+    ],
+    "Assay Name": [
+      "20121010_MLP_363245_TiO2ps136T1_assay"
+    ],
+    "Raw Data File": [
+      "20121010_MLP_363245_TiO2ps136T1.raw"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "T1"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "Reversed-phase chromatographic separation was carried out on a 200 μm inner diameter (i.d.) x 0.5 mm trap column packed with C18 (3 μm bead size, 120 A°, Eksigent), a 75 μm i.d. x 15 cm column packed with C18 (3 μm bead size, 120 A°, Eksigent) with a linear gradient of 5-50% solvent B (100% MeCN + 0.1% FA) against solvent A (100% H2O + 0.1% FA) with a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in the data-dependent mode."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "digested and enriched for phosphopeptides (Fig. 1B).",
+      "Titansphere TiO2 beads (10 µm; GL-Sciences 5020 75010)",
+      "TiO2 loading buffer (80% MeCN, 5% TFA, 1 M glycolic acid)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C (Wako 125-05061)",
+      "trypsin (Worthington)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced in 20 mM dithiothreitol (DTT), 40 mM ABC for 45 min and subsequently alkylated in 50 mM iodoacetamide (IAA) for 50 min in the dark at room temperature."
+    ],
+    "Characteristics[Label]": [
+      "L-arginine-13C6,15N4 hydrochloride (Arg+10 Da) and L-lysine-13C6,15N2 hydrochloride (Lys+8 Da) were used for heavy-labeling; L-arginine-13C6 hydrochloride (Arg+6 Da) and L-lysine-4,4,5,5-d4 hydrochloride (Lys+4 Da) were used for medium-labeling; and L-arginine (A8094) and L-lysine (L5501) were used for light-labeling."
+    ]
+  },
+  "20121026_MLP_psMLP137AT.raw": {
+    "Source Name": [
+      "20121026_MLP_psMLP137AT"
+    ],
+    "Assay Name": [
+      "20121026_MLP_psMLP137AT_assay"
+    ],
+    "Raw Data File": [
+      "20121026_MLP_psMLP137AT.raw"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "Reversed-phase chromatographic separation was carried out on a 200 μm inner diameter (i.d.) x 0.5 mm trap column packed with C18 (3 μm bead size, 120 A°, Eksigent), a 75 μm i.d. x 15 cm column packed with C18 (3 μm bead size, 120 A°, Eksigent) with a linear gradient of 5-50% solvent B (100% MeCN + 0.1% FA) against solvent A (100% H2O + 0.1% FA) with a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in the data-dependent mode."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "digested and enriched for phosphopeptides (Fig. 1B).",
+      "Titansphere TiO2 beads (10 µm; GL-Sciences 5020 75010)",
+      "TiO2 loading buffer (80% MeCN, 5% TFA, 1 M glycolic acid)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C (Wako 125-05061)",
+      "trypsin (Worthington)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced in 20 mM dithiothreitol (DTT), 40 mM ABC for 45 min and subsequently alkylated in 50 mM iodoacetamide (IAA) for 50 min in the dark at room temperature."
+    ],
+    "Characteristics[Label]": [
+      "L-arginine-13C6,15N4 hydrochloride (Arg+10 Da) and L-lysine-13C6,15N2 hydrochloride (Lys+8 Da) were used for heavy-labeling; L-arginine-13C6 hydrochloride (Arg+6 Da) and L-lysine-4,4,5,5-d4 hydrochloride (Lys+4 Da) were used for medium-labeling; and L-arginine (A8094) and L-lysine (L5501) were used for light-labeling."
+    ]
+  },
+  "20120229_MLP_333188_ps111TiO2.raw": {
+    "Source Name": [
+      "20120229_MLP_333188_ps111TiO2"
+    ],
+    "Assay Name": [
+      "20120229_MLP_333188_ps111TiO2_assay"
+    ],
+    "Raw Data File": [
+      "20120229_MLP_333188_ps111TiO2.raw"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "Reversed-phase chromatographic separation was carried out on a 200 μm inner diameter (i.d.) x 0.5 mm trap column packed with C18 (3 μm bead size, 120 A°, Eksigent), a 75 μm i.d. x 15 cm column packed with C18 (3 μm bead size, 120 A°, Eksigent) with a linear gradient of 5-50% solvent B (100% MeCN + 0.1% FA) against solvent A (100% H2O + 0.1% FA) with a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in the data-dependent mode."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "digested and enriched for phosphopeptides (Fig. 1B).",
+      "Titansphere TiO2 beads (10 µm; GL-Sciences 5020 75010)",
+      "TiO2 loading buffer (80% MeCN, 5% TFA, 1 M glycolic acid)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C (Wako 125-05061)",
+      "trypsin (Worthington)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced in 20 mM dithiothreitol (DTT), 40 mM ABC for 45 min and subsequently alkylated in 50 mM iodoacetamide (IAA) for 50 min in the dark at room temperature."
+    ],
+    "Characteristics[Label]": [
+      "L-arginine-13C6,15N4 hydrochloride (Arg+10 Da) and L-lysine-13C6,15N2 hydrochloride (Lys+8 Da) were used for heavy-labeling; L-arginine-13C6 hydrochloride (Arg+6 Da) and L-lysine-4,4,5,5-d4 hydrochloride (Lys+4 Da) were used for medium-labeling; and L-arginine (A8094) and L-lysine (L5501) were used for light-labeling."
+    ]
+  },
+  "20120601_psMLP118.raw": {
+    "Source Name": [
+      "20120601_psMLP118"
+    ],
+    "Assay Name": [
+      "20120601_psMLP118_assay"
+    ],
+    "Raw Data File": [
+      "20120601_psMLP118.raw"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "Reversed-phase chromatographic separation was carried out on a 200 μm inner diameter (i.d.) x 0.5 mm trap column packed with C18 (3 μm bead size, 120 A°, Eksigent), a 75 μm i.d. x 15 cm column packed with C18 (3 μm bead size, 120 A°, Eksigent) with a linear gradient of 5-50% solvent B (100% MeCN + 0.1% FA) against solvent A (100% H2O + 0.1% FA) with a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in the data-dependent mode."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "digested and enriched for phosphopeptides (Fig. 1B).",
+      "Titansphere TiO2 beads (10 µm; GL-Sciences 5020 75010)",
+      "TiO2 loading buffer (80% MeCN, 5% TFA, 1 M glycolic acid)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C (Wako 125-05061)",
+      "trypsin (Worthington)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced in 20 mM dithiothreitol (DTT), 40 mM ABC for 45 min and subsequently alkylated in 50 mM iodoacetamide (IAA) for 50 min in the dark at room temperature."
+    ],
+    "Characteristics[Label]": [
+      "L-arginine-13C6,15N4 hydrochloride (Arg+10 Da) and L-lysine-13C6,15N2 hydrochloride (Lys+8 Da) were used for heavy-labeling; L-arginine-13C6 hydrochloride (Arg+6 Da) and L-lysine-4,4,5,5-d4 hydrochloride (Lys+4 Da) were used for medium-labeling; and L-arginine (A8094) and L-lysine (L5501) were used for light-labeling."
+    ]
+  },
+  "20120229_MLP_333188_ps109TiO2.raw": {
+    "Source Name": [
+      "20120229_MLP_333188_ps109TiO2"
+    ],
+    "Assay Name": [
+      "20120229_MLP_333188_ps109TiO2_assay"
+    ],
+    "Raw Data File": [
+      "20120229_MLP_333188_ps109TiO2.raw"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "Reversed-phase chromatographic separation was carried out on a 200 μm inner diameter (i.d.) x 0.5 mm trap column packed with C18 (3 μm bead size, 120 A°, Eksigent), a 75 μm i.d. x 15 cm column packed with C18 (3 μm bead size, 120 A°, Eksigent) with a linear gradient of 5-50% solvent B (100% MeCN + 0.1% FA) against solvent A (100% H2O + 0.1% FA) with a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in the data-dependent mode."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "digested and enriched for phosphopeptides (Fig. 1B).",
+      "Titansphere TiO2 beads (10 µm; GL-Sciences 5020 75010)",
+      "TiO2 loading buffer (80% MeCN, 5% TFA, 1 M glycolic acid)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C (Wako 125-05061)",
+      "trypsin (Worthington)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced in 20 mM dithiothreitol (DTT), 40 mM ABC for 45 min and subsequently alkylated in 50 mM iodoacetamide (IAA) for 50 min in the dark at room temperature."
+    ],
+    "Characteristics[Label]": [
+      "L-arginine-13C6,15N4 hydrochloride (Arg+10 Da) and L-lysine-13C6,15N2 hydrochloride (Lys+8 Da) were used for heavy-labeling; L-arginine-13C6 hydrochloride (Arg+6 Da) and L-lysine-4,4,5,5-d4 hydrochloride (Lys+4 Da) were used for medium-labeling; and L-arginine (A8094) and L-lysine (L5501) were used for light-labeling."
+    ]
+  },
+  "20120326_MLP_333188_Tio2ps115.raw": {
+    "Source Name": [
+      "20120326_MLP_333188_Tio2ps115"
+    ],
+    "Assay Name": [
+      "20120326_MLP_333188_Tio2ps115_assay"
+    ],
+    "Raw Data File": [
+      "20120326_MLP_333188_Tio2ps115.raw"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "Reversed-phase chromatographic separation was carried out on a 200 μm inner diameter (i.d.) x 0.5 mm trap column packed with C18 (3 μm bead size, 120 A°, Eksigent), a 75 μm i.d. x 15 cm column packed with C18 (3 μm bead size, 120 A°, Eksigent) with a linear gradient of 5-50% solvent B (100% MeCN + 0.1% FA) against solvent A (100% H2O + 0.1% FA) with a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in the data-dependent mode."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "digested and enriched for phosphopeptides (Fig. 1B).",
+      "Titansphere TiO2 beads (10 µm; GL-Sciences 5020 75010)",
+      "TiO2 loading buffer (80% MeCN, 5% TFA, 1 M glycolic acid)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C (Wako 125-05061)",
+      "trypsin (Worthington)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced in 20 mM dithiothreitol (DTT), 40 mM ABC for 45 min and subsequently alkylated in 50 mM iodoacetamide (IAA) for 50 min in the dark at room temperature."
+    ],
+    "Characteristics[Label]": [
+      "L-arginine-13C6,15N4 hydrochloride (Arg+10 Da) and L-lysine-13C6,15N2 hydrochloride (Lys+8 Da) were used for heavy-labeling; L-arginine-13C6 hydrochloride (Arg+6 Da) and L-lysine-4,4,5,5-d4 hydrochloride (Lys+4 Da) were used for medium-labeling; and L-arginine (A8094) and L-lysine (L5501) were used for light-labeling."
+    ]
+  },
+  "20121010_MLP_363245_TiO2ps136T2.raw": {
+    "Source Name": [
+      "20121010_MLP_363245_TiO2ps136T2"
+    ],
+    "Assay Name": [
+      "20121010_MLP_363245_TiO2ps136T2_assay"
+    ],
+    "Raw Data File": [
+      "20121010_MLP_363245_TiO2ps136T2.raw"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "T2"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "Reversed-phase chromatographic separation was carried out on a 200 μm inner diameter (i.d.) x 0.5 mm trap column packed with C18 (3 μm bead size, 120 A°, Eksigent), a 75 μm i.d. x 15 cm column packed with C18 (3 μm bead size, 120 A°, Eksigent) with a linear gradient of 5-50% solvent B (100% MeCN + 0.1% FA) against solvent A (100% H2O + 0.1% FA) with a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in the data-dependent mode."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "digested and enriched for phosphopeptides (Fig. 1B).",
+      "Titansphere TiO2 beads (10 µm; GL-Sciences 5020 75010)",
+      "TiO2 loading buffer (80% MeCN, 5% TFA, 1 M glycolic acid)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C (Wako 125-05061)",
+      "trypsin (Worthington)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced in 20 mM dithiothreitol (DTT), 40 mM ABC for 45 min and subsequently alkylated in 50 mM iodoacetamide (IAA) for 50 min in the dark at room temperature."
+    ],
+    "Characteristics[Label]": [
+      "L-arginine-13C6,15N4 hydrochloride (Arg+10 Da) and L-lysine-13C6,15N2 hydrochloride (Lys+8 Da) were used for heavy-labeling; L-arginine-13C6 hydrochloride (Arg+6 Da) and L-lysine-4,4,5,5-d4 hydrochloride (Lys+4 Da) were used for medium-labeling; and L-arginine (A8094) and L-lysine (L5501) were used for light-labeling."
+    ]
+  },
+  "20121026_MLP_psMLP138T.raw": {
+    "Source Name": [
+      "20121026_MLP_psMLP138T"
+    ],
+    "Assay Name": [
+      "20121026_MLP_psMLP138T_assay"
+    ],
+    "Raw Data File": [
+      "20121026_MLP_psMLP138T.raw"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "Reversed-phase chromatographic separation was carried out on a 200 μm inner diameter (i.d.) x 0.5 mm trap column packed with C18 (3 μm bead size, 120 A°, Eksigent), a 75 μm i.d. x 15 cm column packed with C18 (3 μm bead size, 120 A°, Eksigent) with a linear gradient of 5-50% solvent B (100% MeCN + 0.1% FA) against solvent A (100% H2O + 0.1% FA) with a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in the data-dependent mode."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "digested and enriched for phosphopeptides (Fig. 1B).",
+      "Titansphere TiO2 beads (10 µm; GL-Sciences 5020 75010)",
+      "TiO2 loading buffer (80% MeCN, 5% TFA, 1 M glycolic acid)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C (Wako 125-05061)",
+      "trypsin (Worthington)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced in 20 mM dithiothreitol (DTT), 40 mM ABC for 45 min and subsequently alkylated in 50 mM iodoacetamide (IAA) for 50 min in the dark at room temperature."
+    ],
+    "Characteristics[Label]": [
+      "L-arginine-13C6,15N4 hydrochloride (Arg+10 Da) and L-lysine-13C6,15N2 hydrochloride (Lys+8 Da) were used for heavy-labeling; L-arginine-13C6 hydrochloride (Arg+6 Da) and L-lysine-4,4,5,5-d4 hydrochloride (Lys+4 Da) were used for medium-labeling; and L-arginine (A8094) and L-lysine (L5501) were used for light-labeling."
+    ]
+  },
+  "20130115_MLP_363262_ps139A.raw": {
+    "Source Name": [
+      "20130115_MLP_363262_ps139A"
+    ],
+    "Assay Name": [
+      "20130115_MLP_363262_ps139A_assay"
+    ],
+    "Raw Data File": [
+      "20130115_MLP_363262_ps139A.raw"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "Reversed-phase chromatographic separation was carried out on a 200 μm inner diameter (i.d.) x 0.5 mm trap column packed with C18 (3 μm bead size, 120 A°, Eksigent), a 75 μm i.d. x 15 cm column packed with C18 (3 μm bead size, 120 A°, Eksigent) with a linear gradient of 5-50% solvent B (100% MeCN + 0.1% FA) against solvent A (100% H2O + 0.1% FA) with a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in the data-dependent mode."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "digested and enriched for phosphopeptides (Fig. 1B).",
+      "Titansphere TiO2 beads (10 µm; GL-Sciences 5020 75010)",
+      "TiO2 loading buffer (80% MeCN, 5% TFA, 1 M glycolic acid)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C (Wako 125-05061)",
+      "trypsin (Worthington)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced in 20 mM dithiothreitol (DTT), 40 mM ABC for 45 min and subsequently alkylated in 50 mM iodoacetamide (IAA) for 50 min in the dark at room temperature."
+    ],
+    "Characteristics[Label]": [
+      "L-arginine-13C6,15N4 hydrochloride (Arg+10 Da) and L-lysine-13C6,15N2 hydrochloride (Lys+8 Da) were used for heavy-labeling; L-arginine-13C6 hydrochloride (Arg+6 Da) and L-lysine-4,4,5,5-d4 hydrochloride (Lys+4 Da) were used for medium-labeling; and L-arginine (A8094) and L-lysine (L5501) were used for light-labeling."
+    ]
+  },
+  "20120703_MLP_363211_TiO2ps129.raw": {
+    "Source Name": [
+      "20120703_MLP_363211_TiO2ps129"
+    ],
+    "Assay Name": [
+      "20120703_MLP_363211_TiO2ps129_assay"
+    ],
+    "Raw Data File": [
+      "20120703_MLP_363211_TiO2ps129.raw"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "Reversed-phase chromatographic separation was carried out on a 200 μm inner diameter (i.d.) x 0.5 mm trap column packed with C18 (3 μm bead size, 120 A°, Eksigent), a 75 μm i.d. x 15 cm column packed with C18 (3 μm bead size, 120 A°, Eksigent) with a linear gradient of 5-50% solvent B (100% MeCN + 0.1% FA) against solvent A (100% H2O + 0.1% FA) with a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in the data-dependent mode."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "digested and enriched for phosphopeptides (Fig. 1B).",
+      "Titansphere TiO2 beads (10 µm; GL-Sciences 5020 75010)",
+      "TiO2 loading buffer (80% MeCN, 5% TFA, 1 M glycolic acid)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C (Wako 125-05061)",
+      "trypsin (Worthington)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced in 20 mM dithiothreitol (DTT), 40 mM ABC for 45 min and subsequently alkylated in 50 mM iodoacetamide (IAA) for 50 min in the dark at room temperature."
+    ],
+    "Characteristics[Label]": [
+      "L-arginine-13C6,15N4 hydrochloride (Arg+10 Da) and L-lysine-13C6,15N2 hydrochloride (Lys+8 Da) were used for heavy-labeling; L-arginine-13C6 hydrochloride (Arg+6 Da) and L-lysine-4,4,5,5-d4 hydrochloride (Lys+4 Da) were used for medium-labeling; and L-arginine (A8094) and L-lysine (L5501) were used for light-labeling."
+    ]
+  },
+  "20130115_MLP_363262_ps139A.raw": {
+    "Source Name": [
+      "20130115_MLP_363262_ps139A"
+    ],
+    "Assay Name": [
+      "20130115_MLP_363262_ps139A_assay"
+    ],
+    "Raw Data File": [
+      "20130115_MLP_363262_ps139A.raw"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "Reversed-phase chromatographic separation was carried out on a 200 μm inner diameter (i.d.) x 0.5 mm trap column packed with C18 (3 μm bead size, 120 A°, Eksigent), a 75 μm i.d. x 15 cm column packed with C18 (3 μm bead size, 120 A°, Eksigent) with a linear gradient of 5-50% solvent B (100% MeCN + 0.1% FA) against solvent A (100% H2O + 0.1% FA) with a flow rate of 300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The mass spectrometer was operated in the data-dependent mode."
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "digested and enriched for phosphopeptides (Fig. 1B).",
+      "Titansphere TiO2 beads (10 µm; GL-Sciences 5020 75010)",
+      "TiO2 loading buffer (80% MeCn, 5% TFA, 1 M glycolic acid)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C (Wako 125-05061)",
+      "trypsin (Worthington)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced in 20 mM dithiothreitol (DTT), 40 mM ABC for 45 min and subsequently alkylated in 50 mM iodoacetamide (IAA) for 50 min in the dark at room temperature."
+    ],
+    "Characteristics[Label]": [
+      "L-arginine-13C6,15N4 hydrochloride (Arg+10 Da) and L-lysine-13C6,15N2 hydrochloride (Lys+8 Da) were used for heavy-labeling; L-arginine-13C6 hydrochloride (Arg+6 Da) and L-lysine-4,4,5,5-d4 hydrochloride (Lys+4 Da) were used for medium-labeling; and L-arginine (A8094) and L-lysine (L5501) were used for light-labeling."
+    ]
+  }
+}

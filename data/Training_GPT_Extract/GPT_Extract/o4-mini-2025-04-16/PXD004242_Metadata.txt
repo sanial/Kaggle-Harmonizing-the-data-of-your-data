@@ -1,0 +1,31 @@
+AssayName: mass spectrometry‐based plasma proteome profiling  
+AssayName: liquid chromatography tandem mass spectrometry (LC‐MS/MS)  
+AssayName: label‐free protein quantitation (LFQ)  
+Instrument: EASY‐nLC 1000 ultra‐high-pressure system  
+Instrument: Q Exactive HF Orbitrap  
+IonizationType: nano‐electrospray ion source  
+FragmentationMethod: higher‐energy C‐trap dissociation (HCD)  
+AcquisitionMethod: Top15 data‐dependent MS/MS scan method  
+FlowRateChromatogram: flow rate of 350 nl/min  
+GradientTime: linear 18‐min gradient of 5–20% of buffer B  
+PrecursorMassTolerance: up to 7 ppm  
+FragmentMassTolerance: 20 ppm  
+CleavageAgent: Trypsin  
+CleavageAgent: LysC  
+Temperature: 37°C  
+Temperature: 95°C  
+Time: 1 h  
+Time: 10 min  
+SampleTreatment: fasted overnight  
+Treatment: weekly supervised very low‐calorie powder diet  
+Compound: Cambridge Weight Plan  
+ConcentrationOfCompound: 800 kcal per day  
+Compound: liraglutide  
+ConcentrationOfCompound: 1.2 mg of liraglutide  
+BMI: between 30 and 40 kg/m2  
+Age: between 18 and 65 years  
+SamplingTime: week −8  
+SamplingTime: week 0  
+SamplingTime: weeks 4, 13, 26, 39, 52  
+NumberOfTechnicalReplicates: triplicate  
+Depletion: depletion of the top 20 most abundant plasma proteins

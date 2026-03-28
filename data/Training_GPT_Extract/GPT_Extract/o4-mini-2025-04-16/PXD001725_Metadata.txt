@@ -1,0 +1,41 @@
+Specimen: lymph nodes metastases  
+NumberOfSamples: 10  
+SampleTreatment: snap frozen within minutes after removal and stored at -80°C in the Biobank  
+Temperature: -80°C  
+Staining: HE  
+ReductionReagent: DTT  
+ConcentrationOfCompound: 10 mM DTT  
+AlkylationReagent: iodoacetamide  
+ConcentrationOfCompound: 40 mM iodoacetamide  
+Time: 1 h  
+Temperature: 37°C  
+Time: 30 min  
+Temperature: room temperature  
+Time: overnight  
+CleavageAgent: sequencing grade trypsin  
+FractionationMethod: Strong cation exchange chromatography  
+Compound: KCl  
+ConcentrationOfCompound: 0 mM KCl  
+ConcentrationOfCompound: 20 mM KCl  
+ConcentrationOfCompound: 40 mM KCl  
+ConcentrationOfCompound: 60 mM KCl  
+ConcentrationOfCompound: 100 mM KCl  
+ConcentrationOfCompound: 500 mM KCl  
+Compound: potassium phosphate  
+ConcentrationOfCompound: 10 mM potassium phosphate  
+Compound: acetonitrile  
+ConcentrationOfCompound: 20% acetonitrile  
+SampleTreatment: dried using a centrifugal evaporator  
+Instrument: Branson Sonifier 250  
+Instrument: Q-Exactive  
+FlowRateChromatogram: 250 nL/min  
+FragmentationMethod: HCD collision cell  
+CollisionEnergy: normalized collision energy of 30%  
+AcquisitionMethod: top10 data-dependent approach  
+PrecursorMassTolerance: 1 Da  
+FragmentMassTolerance: 1 Da  
+NumberOfMissedCleavages: three  
+NumberOfFractions: 6  
+SamplingTime: 90 s  
+Separation: unfractionated tumor lysate digests  
+Separation: fractionated tumor lysate digests

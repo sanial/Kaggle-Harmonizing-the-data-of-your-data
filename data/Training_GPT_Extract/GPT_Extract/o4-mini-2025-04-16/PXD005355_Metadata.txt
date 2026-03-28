@@ -1,0 +1,60 @@
+Disease: human colon and rectal cancer
+NumberOfSamples: 65 colorectal cancer (CRC) cell lines
+NumberOfSamples: 90 CRC patients
+NumberOfSamples: 52 CRC cell lines
+NumberOfSamples: 1,074 CRC tumours
+CellLine: SW480
+CellLine: HDC‐135
+CellLine: CC07
+CellLine: HDC‐143
+CellLine: SK‐CO‐1
+CellLine: C10
+CellLine: CaCo‐2
+CellLine: T84
+CellLine: LS 180
+CellLine: OXCO‐1
+CellLine: RKO
+CellLine: HDC‐111
+CellLine: HT55
+CellLine: C125‐PM
+Instrument: Orbitrap Velos mass spectrometer
+Instrument: Orbitrap Elite mass spectrometer
+Instrument: Dionex Ultimate 3000 HPLC system
+EnrichmentMethod: Kinobeads
+SampleTreatment: acetone precipitation
+CleavageAgent: trypsin (Roche)
+ReductionReagent: DTT
+AlkylationReagent: chloroacetamide
+FragmentationMethod: higher‐energy collisional dissociation (HCD)
+IonizationType: positive ion mode
+CollisionEnergy: 30% normalised collision energy
+PrecursorMassTolerance: 4.5 ppm
+FragmentMassTolerance: 0.4 Da
+FlowRateChromatogram: 250 μl/min
+GradientTime: 24 min
+GradientTime: 13 min
+NumberOfFractions: 24 fractions
+BiologicalReplicate: biological triplicates
+ConcentrationOfCompound: 1% Pen‐Strep
+ConcentrationOfCompound: penicillin at 100 units/ml
+ConcentrationOfCompound: streptomycin at 100 μg/ml final concentration
+ConcentrationOfCompound: 10% foetal bovine serum (FBS, SLI EU‐000F Batch 503005)
+ConcentrationOfCompound: 10 mM DTT
+ConcentrationOfCompound: 55 mM chloroacetamide
+ConcentrationOfCompound: 20 mM Tris–HCl pH 7.5
+ConcentrationOfCompound: 1 mM EDTA
+ConcentrationOfCompound: 100 mM NaCl
+ConcentrationOfCompound: 1% Triton X‐100
+ConcentrationOfCompound: 0.5% sodium deoxycholate
+ConcentrationOfCompound: 0.1% SDS
+Compound: RIPA100 buffer
+Compound: urea buffer
+ConcentrationOfCompound: 40 mM Tris–HCl pH = 7.6
+ConcentrationOfCompound: 8 M urea
+Separation: hydrophilic strong anion exchange (hSAX) chromatography
+AssayName: in vitro cell viability assays
+Temperature: 37°C
+Temperature: 4°C
+Temperature: 275°C
+Time: 5 min
+Time: 72 h

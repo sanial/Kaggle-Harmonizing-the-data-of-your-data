@@ -1,0 +1,4512 @@
+{
+  "140725_Sunil_iTRAQ_AD_10_B.raw": {
+    "Source Name": [
+      "Source_10"
+    ],
+    "Assay Name": [
+      "Source_10_B"
+    ],
+    "Raw Data File": [
+      "140725_Sunil_iTRAQ_AD_10_B.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "medial frontal gyrus"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen brain samples of the medial frontal gyrus",
+      "human brain tissues"
+    ],
+    "Characteristics[Sex]": [
+      "women"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade modified trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris 2- carboxyethyl phosphine hydrochloride (5 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "methyl methanethiosulfonate (10 mM)"
+    ],
+    "Characteristics[Label]": [
+      "iTRAQ 4Plex"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "B"
+    ],
+    "FactorValue[Treatment]": [
+      "AD"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 RSLC nanoLC system",
+      "Q-Exactive apparatus (Thermo Fisher, MA)"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS analysis"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy was set to 28"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ],
+    "Comment[FractionationMethod]": [
+      "concatenate pooling method"
+    ],
+    "Comment[NumberOfFractions]": [
+      "sixty fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum miss cleavage: 2"
+    ],
+    "Comment[IonizationType]": [
+      "EASY nanospray source"
+    ],
+    "Comment[FractionIdentifier]": [
+      "10"
+    ]
+  },
+  "140725_Sunil_iTRAQ_AD_15_C.raw": {
+    "Source Name": [
+      "Source_15"
+    ],
+    "Assay Name": [
+      "Source_15_C"
+    ],
+    "Raw Data File": [
+      "140725_Sunil_iTRAQ_AD_15_C.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "medial frontal gyrus"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen brain samples of the medial frontal gyrus",
+      "human brain tissues"
+    ],
+    "Characteristics[Sex]": [
+      "women"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade modified trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris 2- carboxyethyl phosphine hydrochloride (5 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "methyl methanethiosulfonate (10 mM)"
+    ],
+    "Characteristics[Label]": [
+      "iTRAQ 4Plex"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "C"
+    ],
+    "FactorValue[Treatment]": [
+      "AD"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 RSLC nanoLC system",
+      "Q-Exactive apparatus (Thermo Fisher, MA)"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS analysis"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy was set to 28"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ],
+    "Comment[FractionationMethod]": [
+      "concatenate pooling method"
+    ],
+    "Comment[NumberOfFractions]": [
+      "sixty fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum miss cleavage: 2"
+    ],
+    "Comment[IonizationType]": [
+      "EASY nanospray source"
+    ],
+    "Comment[FractionIdentifier]": [
+      "15"
+    ]
+  },
+  "140725_Sunil_iTRAQ_AD_10_A.raw": {
+    "Source Name": [
+      "Source_10"
+    ],
+    "Assay Name": [
+      "Source_10_A"
+    ],
+    "Raw Data File": [
+      "140725_Sunil_iTRAQ_AD_10_A.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "medial frontal gyrus"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen brain samples of the medial frontal gyrus",
+      "human brain tissues"
+    ],
+    "Characteristics[Sex]": [
+      "women"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade modified trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris 2- carboxyethyl phosphine hydrochloride (5 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "methyl methanethiosulfonate (10 mM)"
+    ],
+    "Characteristics[Label]": [
+      "iTRAQ 4Plex"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "A"
+    ],
+    "FactorValue[Treatment]": [
+      "AD"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 RSLC nanoLC system",
+      "Q-Exactive apparatus (Thermo Fisher, MA)"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS analysis"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy was set to 28"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ],
+    "Comment[FractionationMethod]": [
+      "concatenate pooling method"
+    ],
+    "Comment[NumberOfFractions]": [
+      "sixty fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum miss cleavage: 2"
+    ],
+    "Comment[IonizationType]": [
+      "EASY nanospray source"
+    ],
+    "Comment[FractionIdentifier]": [
+      "10"
+    ]
+  },
+  "140725_Sunil_iTRAQ_AD_18_B.raw": {
+    "Source Name": [
+      "Source_18"
+    ],
+    "Assay Name": [
+      "Source_18_B"
+    ],
+    "Raw Data File": [
+      "140725_Sunil_iTRAQ_AD_18_B.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "medial frontal gyrus"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen brain samples of the medial frontal gyrus",
+      "human brain tissues"
+    ],
+    "Characteristics[Sex]": [
+      "women"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade modified trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris 2- carboxyethyl phosphine hydrochloride (5 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "methyl methanethiosulfonate (10 mM)"
+    ],
+    "Characteristics[Label]": [
+      "iTRAQ 4Plex"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "B"
+    ],
+    "FactorValue[Treatment]": [
+      "AD"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 RSLC nanoLC system",
+      "Q-Exactive apparatus (Thermo Fisher, MA)"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS analysis"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy was set to 28"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ],
+    "Comment[FractionationMethod]": [
+      "concatenate pooling method"
+    ],
+    "Comment[NumberOfFractions]": [
+      "sixty fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum miss cleavage: 2"
+    ],
+    "Comment[IonizationType]": [
+      "EASY nanospray source"
+    ],
+    "Comment[FractionIdentifier]": [
+      "18"
+    ]
+  },
+  "140725_Sunil_iTRAQ_AD_03_A.raw": {
+    "Source Name": [
+      "Source_03"
+    ],
+    "Assay Name": [
+      "Source_03_A"
+    ],
+    "Raw Data File": [
+      "140725_Sunil_iTRAQ_AD_03_A.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "medial frontal gyrus"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen brain samples of the medial frontal gyrus",
+      "human brain tissues"
+    ],
+    "Characteristics[Sex]": [
+      "women"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade modified trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris 2- carboxyethyl phosphine hydrochloride (5 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "methyl methanethiosulfonate (10 mM)"
+    ],
+    "Characteristics[Label]": [
+      "iTRAQ 4Plex"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "A"
+    ],
+    "FactorValue[Treatment]": [
+      "AD"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 RSLC nanoLC system",
+      "Q-Exactive apparatus (Thermo Fisher, MA)"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS analysis"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy was set to 28"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ],
+    "Comment[FractionationMethod]": [
+      "concatenate pooling method"
+    ],
+    "Comment[NumberOfFractions]": [
+      "sixty fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum miss cleavage: 2"
+    ],
+    "Comment[IonizationType]": [
+      "EASY nanospray source"
+    ],
+    "Comment[FractionIdentifier]": [
+      "03"
+    ]
+  },
+  "140725_Sunil_iTRAQ_AD_18_C.raw": {
+    "Source Name": [
+      "Source_18"
+    ],
+    "Assay Name": [
+      "Source_18_C"
+    ],
+    "Raw Data File": [
+      "140725_Sunil_iTRAQ_AD_18_C.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "medial frontal gyrus"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen brain samples of the medial frontal gyrus",
+      "human brain tissues"
+    ],
+    "Characteristics[Sex]": [
+      "women"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade modified trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris 2- carboxyethyl phosphine hydrochloride (5 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "methyl methanethiosulfonate (10 mM)"
+    ],
+    "Characteristics[Label]": [
+      "iTRAQ 4Plex"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "C"
+    ],
+    "FactorValue[Treatment]": [
+      "AD"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 RSLC nanoLC system",
+      "Q-Exactive apparatus (Thermo Fisher, MA)"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS analysis"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy was set to 28"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ],
+    "Comment[FractionationMethod]": [
+      "concatenate pooling method"
+    ],
+    "Comment[NumberOfFractions]": [
+      "sixty fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum miss cleavage: 2"
+    ],
+    "Comment[IonizationType]": [
+      "EASY nanospray source"
+    ],
+    "Comment[FractionIdentifier]": [
+      "18"
+    ]
+  },
+  "140725_Sunil_iTRAQ_AD_12_B.raw": {
+    "Source Name": [
+      "Source_12"
+    ],
+    "Assay Name": [
+      "Source_12_B"
+    ],
+    "Raw Data File": [
+      "140725_Sunil_iTRAQ_AD_12_B.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "medial frontal gyrus"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen brain samples of the medial frontal gyrus",
+      "human brain tissues"
+    ],
+    "Characteristics[Sex]": [
+      "women"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade modified trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris 2- carboxyethyl phosphine hydrochloride (5 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "methyl methanethiosulfonate (10 mM)"
+    ],
+    "Characteristics[Label]": [
+      "iTRAQ 4Plex"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "B"
+    ],
+    "FactorValue[Treatment]": [
+      "AD"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 RSLC nanoLC system",
+      "Q-Exactive apparatus (Thermo Fisher, MA)"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS analysis"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy was set to 28"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ],
+    "Comment[FractionationMethod]": [
+      "concatenate pooling method"
+    ],
+    "Comment[NumberOfFractions]": [
+      "sixty fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum miss cleavage: 2"
+    ],
+    "Comment[IonizationType]": [
+      "EASY nanospray source"
+    ],
+    "Comment[FractionIdentifier]": [
+      "12"
+    ]
+  },
+  "140725_Sunil_iTRAQ_AD_17_B.raw": {
+    "Source Name": [
+      "Source_17"
+    ],
+    "Assay Name": [
+      "Source_17_B"
+    ],
+    "Raw Data File": [
+      "140725_Sunil_iTRAQ_AD_17_B.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "medial frontal gyrus"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen brain samples of the medial frontal gyrus",
+      "human brain tissues"
+    ],
+    "Characteristics[Sex]": [
+      "women"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade modified trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris 2- carboxyethyl phosphine hydrochloride (5 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "methyl methanethiosulfonate (10 mM)"
+    ],
+    "Characteristics[Label]": [
+      "iTRAQ 4Plex"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "B"
+    ],
+    "FactorValue[Treatment]": [
+      "AD"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 RSLC nanoLC system",
+      "Q-Exactive apparatus (Thermo Fisher, MA)"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS analysis"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy was set to 28"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ],
+    "Comment[FractionationMethod]": [
+      "concatenate pooling method"
+    ],
+    "Comment[NumberOfFractions]": [
+      "sixty fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum miss cleavage: 2"
+    ],
+    "Comment[IonizationType]": [
+      "EASY nanospray source"
+    ],
+    "Comment[FractionIdentifier]": [
+      "17"
+    ]
+  },
+  "140725_Sunil_iTRAQ_AD_02_C.raw": {
+    "Source Name": [
+      "Source_02"
+    ],
+    "Assay Name": [
+      "Source_02_C"
+    ],
+    "Raw Data File": [
+      "140725_Sunil_iTRAQ_AD_02_C.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "medial frontal gyrus"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen brain samples of the medial frontal gyrus",
+      "human brain tissues"
+    ],
+    "Characteristics[Sex]": [
+      "women"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade modified trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris 2- carboxyethyl phosphine hydrochloride (5 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "methyl methanethiosulfonate (10 mM)"
+    ],
+    "Characteristics[Label]": [
+      "iTRAQ 4Plex"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "C"
+    ],
+    "FactorValue[Treatment]": [
+      "AD"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 RSLC nanoLC system",
+      "Q-Exactive apparatus (Thermo Fisher, MA)"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS analysis"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy was set to 28"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ],
+    "Comment[FractionationMethod]": [
+      "concatenate pooling method"
+    ],
+    "Comment[NumberOfFractions]": [
+      "sixty fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum miss cleavage: 2"
+    ],
+    "Comment[IonizationType]": [
+      "EASY nanospray source"
+    ],
+    "Comment[FractionIdentifier]": [
+      "02"
+    ]
+  },
+  "140725_Sunil_iTRAQ_AD_04_C.raw": {
+    "Source Name": [
+      "Source_04"
+    ],
+    "Assay Name": [
+      "Source_04_C"
+    ],
+    "Raw Data File": [
+      "140725_Sunil_iTRAQ_AD_04_C.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "medial frontal gyrus"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen brain samples of the medial frontal gyrus",
+      "human brain tissues"
+    ],
+    "Characteristics[Sex]": [
+      "women"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade modified trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris 2- carboxyethyl phosphine hydrochloride (5 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "methyl methanethiosulfonate (10 mM)"
+    ],
+    "Characteristics[Label]": [
+      "iTRAQ 4Plex"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "C"
+    ],
+    "FactorValue[Treatment]": [
+      "AD"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 RSLC nanoLC system",
+      "Q-Exactive apparatus (Thermo Fisher, MA)"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS analysis"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy was set to 28"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ],
+    "Comment[FractionationMethod]": [
+      "concatenate pooling method"
+    ],
+    "Comment[NumberOfFractions]": [
+      "sixty fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum miss cleavage: 2"
+    ],
+    "Comment[IonizationType]": [
+      "EASY nanospray source"
+    ],
+    "Comment[FractionIdentifier]": [
+      "04"
+    ]
+  },
+  "140725_Sunil_iTRAQ_AD_16_A.raw": {
+    "Source Name": [
+      "Source_16"
+    ],
+    "Assay Name": [
+      "Source_16_A"
+    ],
+    "Raw Data File": [
+      "140725_Sunil_iTRAQ_AD_16_A.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "medial frontal gyrus"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen brain samples of the medial frontal gyrus",
+      "human brain tissues"
+    ],
+    "Characteristics[Sex]": [
+      "women"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade modified trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris 2- carboxyethyl phosphine hydrochloride (5 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "methyl methanethiosulfonate (10 mM)"
+    ],
+    "Characteristics[Label]": [
+      "iTRAQ 4Plex"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "A"
+    ],
+    "FactorValue[Treatment]": [
+      "AD"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 RSLC nanoLC system",
+      "Q-Exactive apparatus (Thermo Fisher, MA)"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS analysis"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy was set to 28"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ],
+    "Comment[FractionationMethod]": [
+      "concatenate pooling method"
+    ],
+    "Comment[NumberOfFractions]": [
+      "sixty fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum miss cleavage: 2"
+    ],
+    "Comment[IonizationType]": [
+      "EASY nanospray source"
+    ],
+    "Comment[FractionIdentifier]": [
+      "16"
+    ]
+  },
+  "140725_Sunil_iTRAQ_AD_20_C.raw": {
+    "Source Name": [
+      "Source_20"
+    ],
+    "Assay Name": [
+      "Source_20_C"
+    ],
+    "Raw Data File": [
+      "140725_Sunil_iTRAQ_AD_20_C.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "medial frontal gyrus"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen brain samples of the medial frontal gyrus",
+      "human brain tissues"
+    ],
+    "Characteristics[Sex]": [
+      "women"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade modified trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris 2- carboxyethyl phosphine hydrochloride (5 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "methyl methanethiosulfonate (10 mM)"
+    ],
+    "Characteristics[Label]": [
+      "iTRAQ 4Plex"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "C"
+    ],
+    "FactorValue[Treatment]": [
+      "AD"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 RSLC nanoLC system",
+      "Q-Exactive apparatus (Thermo Fisher, MA)"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS analysis"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy was set to 28"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ],
+    "Comment[FractionationMethod]": [
+      "concatenate pooling method"
+    ],
+    "Comment[NumberOfFractions]": [
+      "sixty fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum miss cleavage: 2"
+    ],
+    "Comment[IonizationType]": [
+      "EASY nanospray source"
+    ],
+    "Comment[FractionIdentifier]": [
+      "20"
+    ]
+  },
+  "140725_Sunil_iTRAQ_AD_07_C.raw": {
+    "Source Name": [
+      "Source_07"
+    ],
+    "Assay Name": [
+      "Source_07_C"
+    ],
+    "Raw Data File": [
+      "140725_Sunil_iTRAQ_AD_07_C.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "medial frontal gyrus"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen brain samples of the medial frontal gyrus",
+      "human brain tissues"
+    ],
+    "Characteristics[Sex]": [
+      "women"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade modified trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris 2- carboxyethyl phosphine hydrochloride (5 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "methyl methanethiosulfonate (10 mM)"
+    ],
+    "Characteristics[Label]": [
+      "iTRAQ 4Plex"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "C"
+    ],
+    "FactorValue[Treatment]": [
+      "AD"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 RSLC nanoLC system",
+      "Q-Exactive apparatus (Thermo Fisher, MA)"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS analysis"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy was set to 28"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ],
+    "Comment[FractionationMethod]": [
+      "concatenate pooling method"
+    ],
+    "Comment[NumberOfFractions]": [
+      "sixty fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum miss cleavage: 2"
+    ],
+    "Comment[IonizationType]": [
+      "EASY nanospray source"
+    ],
+    "Comment[FractionIdentifier]": [
+      "07"
+    ]
+  },
+  "140725_Sunil_iTRAQ_AD_19_C.raw": {
+    "Source Name": [
+      "Source_19"
+    ],
+    "Assay Name": [
+      "Source_19_C"
+    ],
+    "Raw Data File": [
+      "140725_Sunil_iTRAQ_AD_19_C.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "medial frontal gyrus"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen brain samples of the medial frontal gyrus",
+      "human brain tissues"
+    ],
+    "Characteristics[Sex]": [
+      "women"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade modified trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris 2- carboxyethyl phosphine hydrochloride (5 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "methyl methanethiosulfonate (10 mM)"
+    ],
+    "Characteristics[Label]": [
+      "iTRAQ 4Plex"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "C"
+    ],
+    "FactorValue[Treatment]": [
+      "AD"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 RSLC nanoLC system",
+      "Q-Exactive apparatus (Thermo Fisher, MA)"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS analysis"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy was set to 28"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ],
+    "Comment[FractionationMethod]": [
+      "concatenate pooling method"
+    ],
+    "Comment[NumberOfFractions]": [
+      "sixty fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum miss cleavage: 2"
+    ],
+    "Comment[IonizationType]": [
+      "EASY nanospray source"
+    ],
+    "Comment[FractionIdentifier]": [
+      "19"
+    ]
+  },
+  "140725_Sunil_iTRAQ_AD_08_B.raw": {
+    "Source Name": [
+      "Source_08"
+    ],
+    "Assay Name": [
+      "Source_08_B"
+    ],
+    "Raw Data File": [
+      "140725_Sunil_iTRAQ_AD_08_B.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "medial frontal gyrus"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen brain samples of the medial frontal gyrus",
+      "human brain tissues"
+    ],
+    "Characteristics[Sex]": [
+      "women"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade modified trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris 2- carboxyethyl phosphine hydrochloride (5 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "methyl methanethiosulfonate (10 mM)"
+    ],
+    "Characteristics[Label]": [
+      "iTRAQ 4Plex"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "B"
+    ],
+    "FactorValue[Treatment]": [
+      "AD"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 RSLC nanoLC system",
+      "Q-Exactive apparatus (Thermo Fisher, MA)"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS analysis"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy was set to 28"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ],
+    "Comment[FractionationMethod]": [
+      "concatenate pooling method"
+    ],
+    "Comment[NumberOfFractions]": [
+      "sixty fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum miss cleavage: 2"
+    ],
+    "Comment[IonizationType]": [
+      "EASY nanospray source"
+    ],
+    "Comment[FractionIdentifier]": [
+      "08"
+    ]
+  },
+  "140725_Sunil_iTRAQ_AD_12_C.raw": {
+    "Source Name": [
+      "Source_12"
+    ],
+    "Assay Name": [
+      "Source_12_C"
+    ],
+    "Raw Data File": [
+      "140725_Sunil_iTRAQ_AD_12_C.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "medial frontal gyrus"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen brain samples of the medial frontal gyrus",
+      "human brain tissues"
+    ],
+    "Characteristics[Sex]": [
+      "women"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade modified trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris 2- carboxyethyl phosphine hydrochloride (5 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "methyl methanethiosulfonate (10 mM)"
+    ],
+    "Characteristics[Label]": [
+      "iTRAQ 4Plex"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "C"
+    ],
+    "FactorValue[Treatment]": [
+      "AD"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 RSLC nanoLC system",
+      "Q-Exactive apparatus (Thermo Fisher, MA)"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS analysis"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy was set to 28"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ],
+    "Comment[FractionationMethod]": [
+      "concatenate pooling method"
+    ],
+    "Comment[NumberOfFractions]": [
+      "sixty fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum miss cleavage: 2"
+    ],
+    "Comment[IonizationType]": [
+      "EASY nanospray source"
+    ],
+    "Comment[FractionIdentifier]": [
+      "12"
+    ]
+  },
+  "140725_Sunil_iTRAQ_AD_14_A.raw": {
+    "Source Name": [
+      "Source_14"
+    ],
+    "Assay Name": [
+      "Source_14_A"
+    ],
+    "Raw Data File": [
+      "140725_Sunil_iTRAQ_AD_14_A.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "medial frontal gyrus"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen brain samples of the medial frontal gyrus",
+      "human brain tissues"
+    ],
+    "Characteristics[Sex]": [
+      "women"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade modified trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris 2- carboxyethyl phosphine hydrochloride (5 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "methyl methanethiosulfonate (10 mM)"
+    ],
+    "Characteristics[Label]": [
+      "iTRAQ 4Plex"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "A"
+    ],
+    "FactorValue[Treatment]": [
+      "AD"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 RSLC nanoLC system",
+      "Q-Exactive apparatus (Thermo Fisher, MA)"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS analysis"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy was set to 28"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ],
+    "Comment[FractionationMethod]": [
+      "concatenate pooling method"
+    ],
+    "Comment[NumberOfFractions]": [
+      "sixty fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum miss cleavage: 2"
+    ],
+    "Comment[IonizationType]": [
+      "EASY nanospray source"
+    ],
+    "Comment[FractionIdentifier]": [
+      "14"
+    ]
+  },
+  "140725_Sunil_iTRAQ_AD_04_B.raw": {
+    "Source Name": [
+      "Source_04"
+    ],
+    "Assay Name": [
+      "Source_04_B"
+    ],
+    "Raw Data File": [
+      "140725_Sunil_iTRAQ_AD_04_B.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "medial frontal gyrus"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen brain samples of the medial frontal gyrus",
+      "human brain tissues"
+    ],
+    "Characteristics[Sex]": [
+      "women"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade modified trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris 2- carboxyethyl phosphine hydrochloride (5 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "methyl methanethiosulfonate (10 mM)"
+    ],
+    "Characteristics[Label]": [
+      "iTRAQ 4Plex"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "B"
+    ],
+    "FactorValue[Treatment]": [
+      "AD"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 RSLC nanoLC system",
+      "Q-Exactive apparatus (Thermo Fisher, MA)"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS analysis"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy was set to 28"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ],
+    "Comment[FractionationMethod]": [
+      "concatenate pooling method"
+    ],
+    "Comment[NumberOfFractions]": [
+      "sixty fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum miss cleavage: 2"
+    ],
+    "Comment[IonizationType]": [
+      "EASY nanospray source"
+    ],
+    "Comment[FractionIdentifier]": [
+      "04"
+    ]
+  },
+  "140725_Sunil_iTRAQ_AD_09_B.raw": {
+    "Source Name": [
+      "Source_09"
+    ],
+    "Assay Name": [
+      "Source_09_B"
+    ],
+    "Raw Data File": [
+      "140725_Sunil_iTRAQ_AD_09_B.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "medial frontal gyrus"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen brain samples of the medial frontal gyrus",
+      "human brain tissues"
+    ],
+    "Characteristics[Sex]": [
+      "women"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade modified trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris 2- carboxyethyl phosphine hydrochloride (5 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "methyl methanethiosulfonate (10 mM)"
+    ],
+    "Characteristics[Label]": [
+      "iTRAQ 4Plex"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "B"
+    ],
+    "FactorValue[Treatment]": [
+      "AD"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 RSLC nanoLC system",
+      "Q-Exactive apparatus (Thermo Fisher, MA)"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS analysis"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy was set to 28"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ],
+    "Comment[FractionationMethod]": [
+      "concatenate pooling method"
+    ],
+    "Comment[NumberOfFractions]": [
+      "sixty fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum miss cleavage: 2"
+    ],
+    "Comment[IonizationType]": [
+      "EASY nanospray source"
+    ],
+    "Comment[FractionIdentifier]": [
+      "09"
+    ]
+  },
+  "140725_Sunil_iTRAQ_AD_16_B.raw": {
+    "Source Name": [
+      "Source_16"
+    ],
+    "Assay Name": [
+      "Source_16_B"
+    ],
+    "Raw Data File": [
+      "140725_Sunil_iTRAQ_AD_16_B.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "medial frontal gyrus"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen brain samples of the medial frontal gyrus",
+      "human brain tissues"
+    ],
+    "Characteristics[Sex]": [
+      "women"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade modified trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris 2- carboxyethyl phosphine hydrochloride (5 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "methyl methanethiosulfonate (10 mM)"
+    ],
+    "Characteristics[Label]": [
+      "iTRAQ 4Plex"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "B"
+    ],
+    "FactorValue[Treatment]": [
+      "AD"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 RSLC nanoLC system",
+      "Q-Exactive apparatus (Thermo Fisher, MA)"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS analysis"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy was set to 28"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ],
+    "Comment[FractionationMethod]": [
+      "concatenate pooling method"
+    ],
+    "Comment[NumberOfFractions]": [
+      "sixty fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum miss cleavage: 2"
+    ],
+    "Comment[IonizationType]": [
+      "EASY nanospray source"
+    ],
+    "Comment[FractionIdentifier]": [
+      "16"
+    ]
+  },
+  "140725_Sunil_iTRAQ_AD_08_C.raw": {
+    "Source Name": [
+      "Source_08"
+    ],
+    "Assay Name": [
+      "Source_08_C"
+    ],
+    "Raw Data File": [
+      "140725_Sunil_iTRAQ_AD_08_C.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "medial frontal gyrus"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen brain samples of the medial frontal gyrus",
+      "human brain tissues"
+    ],
+    "Characteristics[Sex]": [
+      "women"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade modified trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris 2- carboxyethyl phosphine hydrochloride (5 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "methyl methanethiosulfonate (10 mM)"
+    ],
+    "Characteristics[Label]": [
+      "iTRAQ 4Plex"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "C"
+    ],
+    "FactorValue[Treatment]": [
+      "AD"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 RSLC nanoLC system",
+      "Q-Exactive apparatus (Thermo Fisher, MA)"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS analysis"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy was set to 28"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ],
+    "Comment[FractionationMethod]": [
+      "concatenate pooling method"
+    ],
+    "Comment[NumberOfFractions]": [
+      "sixty fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum miss cleavage: 2"
+    ],
+    "Comment[IonizationType]": [
+      "EASY nanospray source"
+    ],
+    "Comment[FractionIdentifier]": [
+      "08"
+    ]
+  },
+  "140725_Sunil_iTRAQ_AD_06_A.raw": {
+    "Source Name": [
+      "Source_06"
+    ],
+    "Assay Name": [
+      "Source_06_A"
+    ],
+    "Raw Data File": [
+      "140725_Sunil_iTRAQ_AD_06_A.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "medial frontal gyrus"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen brain samples of the medial frontal gyrus",
+      "human brain tissues"
+    ],
+    "Characteristics[Sex]": [
+      "women"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade modified trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris 2- carboxyethyl phosphine hydrochloride (5 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "methyl methanethiosulfonate (10 mM)"
+    ],
+    "Characteristics[Label]": [
+      "iTRAQ 4Plex"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "A"
+    ],
+    "FactorValue[Treatment]": [
+      "AD"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 RSLC nanoLC system",
+      "Q-Exactive apparatus (Thermo Fisher, MA)"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS analysis"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy was set to 28"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ],
+    "Comment[FractionationMethod]": [
+      "concatenate pooling method"
+    ],
+    "Comment[NumberOfFractions]": [
+      "sixty fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum miss cleavage: 2"
+    ],
+    "Comment[IonizationType]": [
+      "EASY nanospray source"
+    ],
+    "Comment[FractionIdentifier]": [
+      "06"
+    ]
+  },
+  "140725_Sunil_iTRAQ_AD_14_C.raw": {
+    "Source Name": [
+      "Source_14"
+    ],
+    "Assay Name": [
+      "Source_14_C"
+    ],
+    "Raw Data File": [
+      "140725_Sunil_iTRAQ_AD_14_C.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "medial frontal gyrus"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen brain samples of the medial frontal gyrus",
+      "human brain tissues"
+    ],
+    "Characteristics[Sex]": [
+      "women"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade modified trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris 2- carboxyethyl phosphine hydrochloride (5 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "methyl methanethiosulfonate (10 mM)"
+    ],
+    "Characteristics[Label]": [
+      "iTRAQ 4Plex"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "C"
+    ],
+    "FactorValue[Treatment]": [
+      "AD"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 RSLC nanoLC system",
+      "Q-Exactive apparatus (Thermo Fisher, MA)"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS analysis"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy was set to 28"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ],
+    "Comment[FractionationMethod]": [
+      "concatenate pooling method"
+    ],
+    "Comment[NumberOfFractions]": [
+      "sixty fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum miss cleavage: 2"
+    ],
+    "Comment[IonizationType]": [
+      "EASY nanospray source"
+    ],
+    "Comment[FractionIdentifier]": [
+      "14"
+    ]
+  },
+  "140725_Sunil_iTRAQ_AD_11_A.raw": {
+    "Source Name": [
+      "Source_11"
+    ],
+    "Assay Name": [
+      "Source_11_A"
+    ],
+    "Raw Data File": [
+      "140725_Sunil_iTRAQ_AD_11_A.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "medial frontal gyrus"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen brain samples of the medial frontal gyrus",
+      "human brain tissues"
+    ],
+    "Characteristics[Sex]": [
+      "women"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade modified trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris 2- carboxyethyl phosphine hydrochloride (5 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "methyl methanethiosulfonate (10 mM)"
+    ],
+    "Characteristics[Label]": [
+      "iTRAQ 4Plex"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "A"
+    ],
+    "FactorValue[Treatment]": [
+      "AD"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 RSLC nanoLC system",
+      "Q-Exactive apparatus (Thermo Fisher, MA)"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS analysis"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy was set to 28"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ],
+    "Comment[FractionationMethod]": [
+      "concatenate pooling method"
+    ],
+    "Comment[NumberOfFractions]": [
+      "sixty fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum miss cleavage: 2"
+    ],
+    "Comment[IonizationType]": [
+      "EASY nanospray source"
+    ],
+    "Comment[FractionIdentifier]": [
+      "11"
+    ]
+  },
+  "140725_Sunil_iTRAQ_AD_03_C.raw": {
+    "Source Name": [
+      "Source_03"
+    ],
+    "Assay Name": [
+      "Source_03_C"
+    ],
+    "Raw Data File": [
+      "140725_Sunil_iTRAQ_AD_03_C.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "medial frontal gyrus"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen brain samples of the medial frontal gyrus",
+      "human brain tissues"
+    ],
+    "Characteristics[Sex]": [
+      "women"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade modified trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris 2- carboxyethyl phosphine hydrochloride (5 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "methyl methanethiosulfonate (10 mM)"
+    ],
+    "Characteristics[Label]": [
+      "iTRAQ 4Plex"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "C"
+    ],
+    "FactorValue[Treatment]": [
+      "AD"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 RSLC nanoLC system",
+      "Q-Exactive apparatus (Thermo Fisher, MA)"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS analysis"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy was set to 28"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ],
+    "Comment[FractionationMethod]": [
+      "concatenate pooling method"
+    ],
+    "Comment[NumberOfFractions]": [
+      "sixty fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum miss cleavage: 2"
+    ],
+    "Comment[IonizationType]": [
+      "EASY nanospray source"
+    ],
+    "Comment[FractionIdentifier]": [
+      "03"
+    ]
+  },
+  "140725_Sunil_iTRAQ_AD_02_A.raw": {
+    "Source Name": [
+      "Source_02"
+    ],
+    "Assay Name": [
+      "Source_02_A"
+    ],
+    "Raw Data File": [
+      "140725_Sunil_iTRAQ_AD_02_A.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "medial frontal gyrus"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen brain samples of the medial frontal gyrus",
+      "human brain tissues"
+    ],
+    "Characteristics[Sex]": [
+      "women"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade modified trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris 2- carboxyethyl phosphine hydrochloride (5 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "methyl methanethiosulfonate (10 mM)"
+    ],
+    "Characteristics[Label]": [
+      "iTRAQ 4Plex"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "A"
+    ],
+    "FactorValue[Treatment]": [
+      "AD"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 RSLC nanoLC system",
+      "Q-Exactive apparatus (Thermo Fisher, MA)"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS analysis"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy was set to 28"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ],
+    "Comment[FractionationMethod]": [
+      "concatenate pooling method"
+    ],
+    "Comment[NumberOfFractions]": [
+      "sixty fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum miss cleavage: 2"
+    ],
+    "Comment[IonizationType]": [
+      "EASY nanospray source"
+    ],
+    "Comment[FractionIdentifier]": [
+      "02"
+    ]
+  },
+  "140725_Sunil_iTRAQ_AD_17_A.raw": {
+    "Source Name": [
+      "Source_17"
+    ],
+    "Assay Name": [
+      "Source_17_A"
+    ],
+    "Raw Data File": [
+      "140725_Sunil_iTRAQ_AD_17_A.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "medial frontal gyrus"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen brain samples of the medial frontal gyrus",
+      "human brain tissues"
+    ],
+    "Characteristics[Sex]": [
+      "women"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade modified trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris 2- carboxyethyl phosphine hydrochloride (5 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "methyl methanethiosulfonate (10 mM)"
+    ],
+    "Characteristics[Label]": [
+      "iTRAQ 4Plex"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "A"
+    ],
+    "FactorValue[Treatment]": [
+      "AD"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 RSLC nanoLC system",
+      "Q-Exactive apparatus (Thermo Fisher, MA)"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS analysis"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy was set to 28"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ],
+    "Comment[FractionationMethod]": [
+      "concatenate pooling method"
+    ],
+    "Comment[NumberOfFractions]": [
+      "sixty fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum miss cleavage: 2"
+    ],
+    "Comment[IonizationType]": [
+      "EASY nanospray source"
+    ],
+    "Comment[FractionIdentifier]": [
+      "17"
+    ]
+  },
+  "140725_Sunil_iTRAQ_AD_05_B.raw": {
+    "Source Name": [
+      "Source_05"
+    ],
+    "Assay Name": [
+      "Source_05_B"
+    ],
+    "Raw Data File": [
+      "140725_Sunil_iTRAQ_AD_05_B.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "medial frontal gyrus"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen brain samples of the medial frontal gyrus",
+      "human brain tissues"
+    ],
+    "Characteristics[Sex]": [
+      "women"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade modified trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris 2- carboxyethyl phosphine hydrochloride (5 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "methyl methanethiosulfonate (10 mM)"
+    ],
+    "Characteristics[Label]": [
+      "iTRAQ 4Plex"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "B"
+    ],
+    "FactorValue[Treatment]": [
+      "AD"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 RSLC nanoLC system",
+      "Q-Exactive apparatus (Thermo Fisher, MA)"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS analysis"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy was set to 28"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ],
+    "Comment[FractionationMethod]": [
+      "concatenate pooling method"
+    ],
+    "Comment[NumberOfFractions]": [
+      "sixty fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum miss cleavage: 2"
+    ],
+    "Comment[IonizationType]": [
+      "EASY nanospray source"
+    ],
+    "Comment[FractionIdentifier]": [
+      "05"
+    ]
+  },
+  "140725_Sunil_iTRAQ_AD_16_C.raw": {
+    "Source Name": [
+      "Source_16"
+    ],
+    "Assay Name": [
+      "Source_16_C"
+    ],
+    "Raw Data File": [
+      "140725_Sunil_iTRAQ_AD_16_C.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "medial frontal gyrus"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen brain samples of the medial frontal gyrus",
+      "human brain tissues"
+    ],
+    "Characteristics[Sex]": [
+      "women"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade modified trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris 2- carboxyethyl phosphine hydrochloride (5 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "methyl methanethiosulfonate (10 mM)"
+    ],
+    "Characteristics[Label]": [
+      "iTRAQ 4Plex"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "C"
+    ],
+    "FactorValue[Treatment]": [
+      "AD"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 RSLC nanoLC system",
+      "Q-Exactive apparatus (Thermo Fisher, MA)"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS analysis"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy was set to 28"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ],
+    "Comment[FractionationMethod]": [
+      "concatenate pooling method"
+    ],
+    "Comment[NumberOfFractions]": [
+      "sixty fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum miss cleavage: 2"
+    ],
+    "Comment[IonizationType]": [
+      "EASY nanospray source"
+    ],
+    "Comment[FractionIdentifier]": [
+      "16"
+    ]
+  },
+  "140725_Sunil_iTRAQ_AD_10_C.raw": {
+    "Source Name": [
+      "Source_10"
+    ],
+    "Assay Name": [
+      "Source_10_C"
+    ],
+    "Raw Data File": [
+      "140725_Sunil_iTRAQ_AD_10_C.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "medial frontal gyrus"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen brain samples of the medial frontal gyrus",
+      "human brain tissues"
+    ],
+    "Characteristics[Sex]": [
+      "women"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade modified trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris 2- carboxyethyl phosphine hydrochloride (5 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "methyl methanethiosulfonate (10 mM)"
+    ],
+    "Characteristics[Label]": [
+      "iTRAQ 4Plex"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "C"
+    ],
+    "FactorValue[Treatment]": [
+      "AD"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 RSLC nanoLC system",
+      "Q-Exactive apparatus (Thermo Fisher, MA)"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS analysis"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy was set to 28"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ],
+    "Comment[FractionationMethod]": [
+      "concatenate pooling method"
+    ],
+    "Comment[NumberOfFractions]": [
+      "sixty fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum miss cleavage: 2"
+    ],
+    "Comment[IonizationType]": [
+      "EASY nanospray source"
+    ],
+    "Comment[FractionIdentifier]": [
+      "10"
+    ]
+  },
+  "140725_Sunil_iTRAQ_AD_18_A.raw": {
+    "Source Name": [
+      "Source_18"
+    ],
+    "Assay Name": [
+      "Source_18_A"
+    ],
+    "Raw Data File": [
+      "140725_Sunil_iTRAQ_AD_18_A.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "medial frontal gyrus"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen brain samples of the medial frontal gyrus",
+      "human brain tissues"
+    ],
+    "Characteristics[Sex]": [
+      "women"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade modified trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris 2- carboxyethyl phosphine hydrochloride (5 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "methyl methanethiosulfonate (10 mM)"
+    ],
+    "Characteristics[Label]": [
+      "iTRAQ 4Plex"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "A"
+    ],
+    "FactorValue[Treatment]": [
+      "AD"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 RSLC nanoLC system",
+      "Q-Exactive apparatus (Thermo Fisher, MA)"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS analysis"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy was set to 28"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ],
+    "Comment[FractionationMethod]": [
+      "concatenate pooling method"
+    ],
+    "Comment[NumberOfFractions]": [
+      "sixty fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum miss cleavage: 2"
+    ],
+    "Comment[IonizationType]": [
+      "EASY nanospray source"
+    ],
+    "Comment[FractionIdentifier]": [
+      "18"
+    ]
+  },
+  "140725_Sunil_iTRAQ_AD_13_C.raw": {
+    "Source Name": [
+      "Source_13"
+    ],
+    "Assay Name": [
+      "Source_13_C"
+    ],
+    "Raw Data File": [
+      "140725_Sunil_iTRAQ_AD_13_C.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "medial frontal gyrus"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen brain samples of the medial frontal gyrus",
+      "human brain tissues"
+    ],
+    "Characteristics[Sex]": [
+      "women"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade modified trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris 2- carboxyethyl phosphine hydrochloride (5 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "methyl methanethiosulfonate (10 mM)"
+    ],
+    "Characteristics[Label]": [
+      "iTRAQ 4Plex"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "C"
+    ],
+    "FactorValue[Treatment]": [
+      "AD"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 RSLC nanoLC system",
+      "Q-Exactive apparatus (Thermo Fisher, MA)"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS analysis"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy was set to 28"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ],
+    "Comment[FractionationMethod]": [
+      "concatenate pooling method"
+    ],
+    "Comment[NumberOfFractions]": [
+      "sixty fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum miss cleavage: 2"
+    ],
+    "Comment[IonizationType]": [
+      "EASY nanospray source"
+    ],
+    "Comment[FractionIdentifier]": [
+      "13"
+    ]
+  },
+  "140725_Sunil_iTRAQ_AD_12_A.raw": {
+    "Source Name": [
+      "Source_12"
+    ],
+    "Assay Name": [
+      "Source_12_A"
+    ],
+    "Raw Data File": [
+      "140725_Sunil_iTRAQ_AD_12_A.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "medial frontal gyrus"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen brain samples of the medial frontal gyrus",
+      "human brain tissues"
+    ],
+    "Characteristics[Sex]": [
+      "women"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade modified trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris 2- carboxyethyl phosphine hydrochloride (5 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "methyl methanethiosulfonate (10 mM)"
+    ],
+    "Characteristics[Label]": [
+      "iTRAQ 4Plex"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "A"
+    ],
+    "FactorValue[Treatment]": [
+      "AD"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 RSLC nanoLC system",
+      "Q-Exactive apparatus (Thermo Fisher, MA)"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS analysis"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy was set to 28"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ],
+    "Comment[FractionationMethod]": [
+      "concatenate pooling method"
+    ],
+    "Comment[NumberOfFractions]": [
+      "sixty fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum miss cleavage: 2"
+    ],
+    "Comment[IonizationType]": [
+      "EASY nanospray source"
+    ],
+    "Comment[FractionIdentifier]": [
+      "12"
+    ]
+  },
+  "140725_Sunil_iTRAQ_AD_17_C.raw": {
+    "Source Name": [
+      "Source_17"
+    ],
+    "Assay Name": [
+      "Source_17_C"
+    ],
+    "Raw Data File": [
+      "140725_Sunil_iTRAQ_AD_17_C.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "medial frontal gyrus"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen brain samples of the medial frontal gyrus",
+      "human brain tissues"
+    ],
+    "Characteristics[Sex]": [
+      "women"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade modified trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris 2- carboxyethyl phosphine hydrochloride (5 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "methyl methanethiosulfonate (10 mM)"
+    ],
+    "Characteristics[Label]": [
+      "iTRAQ 4Plex"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "C"
+    ],
+    "FactorValue[Treatment]": [
+      "AD"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 RSLC nanoLC system",
+      "Q-Exactive apparatus (Thermo Fisher, MA)"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS analysis"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy was set to 28"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ],
+    "Comment[FractionationMethod]": [
+      "concatenate pooling method"
+    ],
+    "Comment[NumberOfFractions]": [
+      "sixty fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum miss cleavage: 2"
+    ],
+    "Comment[IonizationType]": [
+      "EASY nanospray source"
+    ],
+    "Comment[FractionIdentifier]": [
+      "17"
+    ]
+  },
+  "140725_Sunil_iTRAQ_AD_09_C.raw": {
+    "Source Name": [
+      "Source_09"
+    ],
+    "Assay Name": [
+      "Source_09_C"
+    ],
+    "Raw Data File": [
+      "140725_Sunil_iTRAQ_AD_09_C.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "medial frontal gyrus"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen brain samples of the medial frontal gyrus",
+      "human brain tissues"
+    ],
+    "Characteristics[Sex]": [
+      "women"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade modified trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris 2- carboxyethyl phosphine hydrochloride (5 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "methyl methanethiosulfonate (10 mM)"
+    ],
+    "Characteristics[Label]": [
+      "iTRAQ 4Plex"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "C"
+    ],
+    "FactorValue[Treatment]": [
+      "AD"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 RSLC nanoLC system",
+      "Q-Exactive apparatus (Thermo Fisher, MA)"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS analysis"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy was set to 28"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ],
+    "Comment[FractionationMethod]": [
+      "concatenate pooling method"
+    ],
+    "Comment[NumberOfFractions]": [
+      "sixty fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum miss cleavage: 2"
+    ],
+    "Comment[IonizationType]": [
+      "EASY nanospray source"
+    ],
+    "Comment[FractionIdentifier]": [
+      "09"
+    ]
+  },
+  "140725_Sunil_iTRAQ_AD_09_A.raw": {
+    "Source Name": [
+      "Source_09"
+    ],
+    "Assay Name": [
+      "Source_09_A"
+    ],
+    "Raw Data File": [
+      "140725_Sunil_iTRAQ_AD_09_A.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "medial frontal gyrus"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen brain samples of the medial frontal gyrus",
+      "human brain tissues"
+    ],
+    "Characteristics[Sex]": [
+      "women"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade modified trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris 2- carboxyethyl phosphine hydrochloride (5 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "methyl methanethiosulfonate (10 mM)"
+    ],
+    "Characteristics[Label]": [
+      "iTRAQ 4Plex"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "A"
+    ],
+    "FactorValue[Treatment]": [
+      "AD"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 RSLC nanoLC system",
+      "Q-Exactive apparatus (Thermo Fisher, MA)"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS analysis"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy was set to 28"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ],
+    "Comment[FractionationMethod]": [
+      "concatenate pooling method"
+    ],
+    "Comment[NumberOfFractions]": [
+      "sixty fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum miss cleavage: 2"
+    ],
+    "Comment[IonizationType]": [
+      "EASY nanospray source"
+    ],
+    "Comment[FractionIdentifier]": [
+      "09"
+    ]
+  },
+  "140725_Sunil_iTRAQ_AD_11_B.raw": {
+    "Source Name": [
+      "Source_11"
+    ],
+    "Assay Name": [
+      "Source_11_B"
+    ],
+    "Raw Data File": [
+      "140725_Sunil_iTRAQ_AD_11_B.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "medial frontal gyrus"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen brain samples of the medial frontal gyrus",
+      "human brain tissues"
+    ],
+    "Characteristics[Sex]": [
+      "women"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade modified trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris 2- carboxyethyl phosphine hydrochloride (5 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "methyl methanethiosulfonate (10 mM)"
+    ],
+    "Characteristics[Label]": [
+      "iTRAQ 4Plex"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "B"
+    ],
+    "FactorValue[Treatment]": [
+      "AD"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 RSLC nanoLC system",
+      "Q-Exactive apparatus (Thermo Fisher, MA)"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS analysis"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy was set to 28"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ],
+    "Comment[FractionationMethod]": [
+      "concatenate pooling method"
+    ],
+    "Comment[NumberOfFractions]": [
+      "sixty fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum miss cleavage: 2"
+    ],
+    "Comment[IonizationType]": [
+      "EASY nanospray source"
+    ],
+    "Comment[FractionIdentifier]": [
+      "11"
+    ]
+  },
+  "140725_Sunil_iTRAQ_AD_03_B.raw": {
+    "Source Name": [
+      "Source_03"
+    ],
+    "Assay Name": [
+      "Source_03_B"
+    ],
+    "Raw Data File": [
+      "140725_Sunil_iTRAQ_AD_03_B.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "medial frontal gyrus"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen brain samples of the medial frontal gyrus",
+      "human brain tissues"
+    ],
+    "Characteristics[Sex]": [
+      "women"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade modified trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris 2- carboxyethyl phosphine hydrochloride (5 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "methyl methanethiosulfonate (10 mM)"
+    ],
+    "Characteristics[Label]": [
+      "iTRAQ 4Plex"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "B"
+    ],
+    "FactorValue[Treatment]": [
+      "AD"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 RSLC nanoLC system",
+      "Q-Exactive apparatus (Thermo Fisher, MA)"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS analysis"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy was set to 28"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ],
+    "Comment[FractionationMethod]": [
+      "concatenate pooling method"
+    ],
+    "Comment[NumberOfFractions]": [
+      "sixty fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum miss cleavage: 2"
+    ],
+    "Comment[IonizationType]": [
+      "EASY nanospray source"
+    ],
+    "Comment[FractionIdentifier]": [
+      "03"
+    ]
+  },
+  "140725_Sunil_iTRAQ_AD_05_A.raw": {
+    "Source Name": [
+      "Source_05"
+    ],
+    "Assay Name": [
+      "Source_05_A"
+    ],
+    "Raw Data File": [
+      "140725_Sunil_iTRAQ_AD_05_A.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "medial frontal gyrus"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen brain samples of the medial frontal gyrus",
+      "human brain tissues"
+    ],
+    "Characteristics[Sex]": [
+      "women"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade modified trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris 2- carboxyethyl phosphine hydrochloride (5 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "methyl methanethiosulfonate (10 mM)"
+    ],
+    "Characteristics[Label]": [
+      "iTRAQ 4Plex"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "A"
+    ],
+    "FactorValue[Treatment]": [
+      "AD"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 RSLC nanoLC system",
+      "Q-Exactive apparatus (Thermo Fisher, MA)"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS analysis"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy was set to 28"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ],
+    "Comment[FractionationMethod]": [
+      "concatenate pooling method"
+    ],
+    "Comment[NumberOfFractions]": [
+      "sixty fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum miss cleavage: 2"
+    ],
+    "Comment[IonizationType]": [
+      "EASY nanospray source"
+    ],
+    "Comment[FractionIdentifier]": [
+      "05"
+    ]
+  },
+  "140725_Sunil_iTRAQ_AD_11_C.raw": {
+    "Source Name": [
+      "Source_11"
+    ],
+    "Assay Name": [
+      "Source_11_C"
+    ],
+    "Raw Data File": [
+      "140725_Sunil_iTRAQ_AD_11_C.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "medial frontal gyrus"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen brain samples of the medial frontal gyrus",
+      "human brain tissues"
+    ],
+    "Characteristics[Sex]": [
+      "women"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade modified trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris 2- carboxyethyl phosphine hydrochloride (5 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "methyl methanethiosulfonate (10 mM)"
+    ],
+    "Characteristics[Label]": [
+      "iTRAQ 4Plex"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "C"
+    ],
+    "FactorValue[Treatment]": [
+      "AD"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 RSLC nanoLC system",
+      "Q-Exactive apparatus (Thermo Fisher, MA)"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS analysis"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy was set to 28"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ],
+    "Comment[FractionationMethod]": [
+      "concatenate pooling method"
+    ],
+    "Comment[NumberOfFractions]": [
+      "sixty fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum miss cleavage: 2"
+    ],
+    "Comment[IonizationType]": [
+      "EASY nanospray source"
+    ],
+    "Comment[FractionIdentifier]": [
+      "11"
+    ]
+  },
+  "140725_Sunil_iTRAQ_AD_04_A.raw": {
+    "Source Name": [
+      "Source_04"
+    ],
+    "Assay Name": [
+      "Source_04_A"
+    ],
+    "Raw Data File": [
+      "140725_Sunil_iTRAQ_AD_04_A.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "medial frontal gyrus"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen brain samples of the medial frontal gyrus",
+      "human brain tissues"
+    ],
+    "Characteristics[Sex]": [
+      "women"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade modified trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris 2- carboxyethyl phosphine hydrochloride (5 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "methyl methanethiosulfonate (10 mM)"
+    ],
+    "Characteristics[Label]": [
+      "iTRAQ 4Plex"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "A"
+    ],
+    "FactorValue[Treatment]": [
+      "AD"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 RSLC nanoLC system",
+      "Q-Exactive apparatus (Thermo Fisher, MA)"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS analysis"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy was set to 28"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ],
+    "Comment[FractionationMethod]": [
+      "concatenate pooling method"
+    ],
+    "Comment[NumberOfFractions]": [
+      "sixty fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum miss cleavage: 2"
+    ],
+    "Comment[IonizationType]": [
+      "EASY nanospray source"
+    ],
+    "Comment[FractionIdentifier]": [
+      "04"
+    ]
+  },
+  "140725_Sunil_iTRAQ_AD_13_A.raw": {
+    "Source Name": [
+      "Source_13"
+    ],
+    "Assay Name": [
+      "Source_13_A"
+    ],
+    "Raw Data File": [
+      "140725_Sunil_iTRAQ_AD_13_A.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "medial frontal gyrus"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen brain samples of the medial frontal gyrus",
+      "human brain tissues"
+    ],
+    "Characteristics[Sex]": [
+      "women"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade modified trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris 2- carboxyethyl phosphine hydrochloride (5 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "methyl methanethiosulfonate (10 mM)"
+    ],
+    "Characteristics[Label]": [
+      "iTRAQ 4Plex"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "A"
+    ],
+    "FactorValue[Treatment]": [
+      "AD"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 RSLC nanoLC system",
+      "Q-Exactive apparatus (Thermo Fisher, MA)"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS analysis"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy was set to 28"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ],
+    "Comment[FractionationMethod]": [
+      "concatenate pooling method"
+    ],
+    "Comment[NumberOfFractions]": [
+      "sixty fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum miss cleavage: 2"
+    ],
+    "Comment[IonizationType]": [
+      "EASY nanospray source"
+    ],
+    "Comment[FractionIdentifier]": [
+      "13"
+    ]
+  },
+  "140725_Sunil_iTRAQ_AD_15_A.raw": {
+    "Source Name": [
+      "Source_15"
+    ],
+    "Assay Name": [
+      "Source_15_A"
+    ],
+    "Raw Data File": [
+      "140725_Sunil_iTRAQ_AD_15_A.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "medial frontal gyrus"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen brain samples of the medial frontal gyrus",
+      "human brain tissues"
+    ],
+    "Characteristics[Sex]": [
+      "women"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade modified trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris 2- carboxyethyl phosphine hydrochloride (5 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "methyl methanethiosulfonate (10 mM)"
+    ],
+    "Characteristics[Label]": [
+      "iTRAQ 4Plex"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "A"
+    ],
+    "FactorValue[Treatment]": [
+      "AD"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 RSLC nanoLC system",
+      "Q-Exactive apparatus (Thermo Fisher, MA)"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS analysis"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy was set to 28"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ],
+    "Comment[FractionationMethod]": [
+      "concatenate pooling method"
+    ],
+    "Comment[NumberOfFractions]": [
+      "sixty fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum miss cleavage: 2"
+    ],
+    "Comment[IonizationType]": [
+      "EASY nanospray source"
+    ],
+    "Comment[FractionIdentifier]": [
+      "15"
+    ]
+  },
+  "140725_Sunil_iTRAQ_AD_19_B.raw": {
+    "Source Name": [
+      "Source_19"
+    ],
+    "Assay Name": [
+      "Source_19_B"
+    ],
+    "Raw Data File": [
+      "140725_Sunil_iTRAQ_AD_19_B.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "medial frontal gyrus"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen brain samples of the medial frontal gyrus",
+      "human brain tissues"
+    ],
+    "Characteristics[Sex]": [
+      "women"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade modified trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris 2- carboxyethyl phosphine hydrochloride (5 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "methyl methanethiosulfonate (10 mM)"
+    ],
+    "Characteristics[Label]": [
+      "iTRAQ 4Plex"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "B"
+    ],
+    "FactorValue[Treatment]": [
+      "AD"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 RSLC nanoLC system",
+      "Q-Exactive apparatus (Thermo Fisher, MA)"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS analysis"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy was set to 28"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ],
+    "Comment[FractionationMethod]": [
+      "concatenate pooling method"
+    ],
+    "Comment[NumberOfFractions]": [
+      "sixty fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum miss cleavage: 2"
+    ],
+    "Comment[IonizationType]": [
+      "EASY nanospray source"
+    ],
+    "Comment[FractionIdentifier]": [
+      "19"
+    ]
+  },
+  "140725_Sunil_iTRAQ_AD_01_C.raw": {
+    "Source Name": [
+      "Source_01"
+    ],
+    "Assay Name": [
+      "Source_01_C"
+    ],
+    "Raw Data File": [
+      "140725_Sunil_iTRAQ_AD_01_C.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "medial frontal gyrus"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen brain samples of the medial frontal gyrus",
+      "human brain tissues"
+    ],
+    "Characteristics[Sex]": [
+      "women"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade modified trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris 2- carboxyethyl phosphine hydrochloride (5 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "methyl methanethiosulfonate (10 mM)"
+    ],
+    "Characteristics[Label]": [
+      "iTRAQ 4Plex"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "C"
+    ],
+    "FactorValue[Treatment]": [
+      "AD"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 RSLC nanoLC system",
+      "Q-Exactive apparatus (Thermo Fisher, MA)"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS analysis"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy was set to 28"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ],
+    "Comment[FractionationMethod]": [
+      "concatenate pooling method"
+    ],
+    "Comment[NumberOfFractions]": [
+      "sixty fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum miss cleavage: 2"
+    ],
+    "Comment[IonizationType]": [
+      "EASY nanospray source"
+    ],
+    "Comment[FractionIdentifier]": [
+      "01"
+    ]
+  },
+  "140725_Sunil_iTRAQ_AD_15_B.raw": {
+    "Source Name": [
+      "Source_15"
+    ],
+    "Assay Name": [
+      "Source_15_B"
+    ],
+    "Raw Data File": [
+      "140725_Sunil_iTRAQ_AD_15_B.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "medial frontal gyrus"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen brain samples of the medial frontal gyrus",
+      "human brain tissues"
+    ],
+    "Characteristics[Sex]": [
+      "women"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade modified trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris 2- carboxyethyl phosphine hydrochloride (5 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "methyl methanethiosulfonate (10 mM)"
+    ],
+    "Characteristics[Label]": [
+      "iTRAQ 4Plex"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "B"
+    ],
+    "FactorValue[Treatment]": [
+      "AD"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 RSLC nanoLC system",
+      "Q-Exactive apparatus (Thermo Fisher, MA)"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS analysis"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy was set to 28"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ],
+    "Comment[FractionationMethod]": [
+      "concatenate pooling method"
+    ],
+    "Comment[NumberOfFractions]": [
+      "sixty fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum miss cleavage: 2"
+    ],
+    "Comment[IonizationType]": [
+      "EASY nanospray source"
+    ],
+    "Comment[FractionIdentifier]": [
+      "15"
+    ]
+  },
+  "140725_Sunil_iTRAQ_AD_20_A.raw": {
+    "Source Name": [
+      "Source_20"
+    ],
+    "Assay Name": [
+      "Source_20_A"
+    ],
+    "Raw Data File": [
+      "140725_Sunil_iTRAQ_AD_20_A.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "medial frontal gyrus"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen brain samples of the medial frontal gyrus",
+      "human brain tissues"
+    ],
+    "Characteristics[Sex]": [
+      "women"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade modified trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris 2- carboxyethyl phosphine hydrochloride (5 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "methyl methanethiosulfonate (10 mM)"
+    ],
+    "Characteristics[Label]": [
+      "iTRAQ 4Plex"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "A"
+    ],
+    "FactorValue[Treatment]": [
+      "AD"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 RSLC nanoLC system",
+      "Q-Exactive apparatus (Thermo Fisher, MA)"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS analysis"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy was set to 28"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ],
+    "Comment[FractionationMethod]": [
+      "concatenate pooling method"
+    ],
+    "Comment[NumberOfFractions]": [
+      "sixty fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum miss cleavage: 2"
+    ],
+    "Comment[IonizationType]": [
+      "EASY nanospray source"
+    ],
+    "Comment[FractionIdentifier]": [
+      "20"
+    ]
+  },
+  "140725_Sunil_iTRAQ_AD_02_B.raw": {
+    "Source Name": [
+      "Source_02"
+    ],
+    "Assay Name": [
+      "Source_02_B"
+    ],
+    "Raw Data File": [
+      "140725_Sunil_iTRAQ_AD_02_B.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "medial frontal gyrus"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen brain samples of the medial frontal gyrus",
+      "human brain tissues"
+    ],
+    "Characteristics[Sex]": [
+      "women"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade modified trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris 2- carboxyethyl phosphine hydrochloride (5 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "methyl methanethiosulfonate (10 mM)"
+    ],
+    "Characteristics[Label]": [
+      "iTRAQ 4Plex"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "B"
+    ],
+    "FactorValue[Treatment]": [
+      "AD"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 RSLC nanoLC system",
+      "Q-Exactive apparatus (Thermo Fisher, MA)"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS analysis"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy was set to 28"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ],
+    "Comment[FractionationMethod]": [
+      "concatenate pooling method"
+    ],
+    "Comment[NumberOfFractions]": [
+      "sixty fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum miss cleavage: 2"
+    ],
+    "Comment[IonizationType]": [
+      "EASY nanospray source"
+    ],
+    "Comment[FractionIdentifier]": [
+      "02"
+    ]
+  },
+  "140725_Sunil_iTRAQ_AD_03_B.raw": {
+    "Source Name": [
+      "Source_03"
+    ],
+    "Assay Name": [
+      "Source_03_B"
+    ],
+    "Raw Data File": [
+      "140725_Sunil_iTRAQ_AD_03_B.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "medial frontal gyrus"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen brain samples of the medial frontal gyrus",
+      "human brain tissues"
+    ],
+    "Characteristics[Sex]": [
+      "women"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade modified trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris 2- carboxyethyl phosphine hydrochloride (5 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "methyl methanethiosulfonate (10 mM)"
+    ],
+    "Characteristics[Label]": [
+      "iTRAQ 4Plex"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "B"
+    ],
+    "FactorValue[Treatment]": [
+      "AD"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 RSLC nanoLC system",
+      "Q-Exactive apparatus (Thermo Fisher, MA)"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS analysis"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy was set to 28"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ],
+    "Comment[FractionationMethod]": [
+      "concatenate pooling method"
+    ],
+    "Comment[NumberOfFractions]": [
+      "sixty fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum miss cleavage: 2"
+    ],
+    "Comment[IonizationType]": [
+      "EASY nanospray source"
+    ],
+    "Comment[FractionIdentifier]": [
+      "03"
+    ]
+  },
+  "140725_Sunil_iTRAQ_AD_05_C.raw": {
+    "Source Name": [
+      "Source_05"
+    ],
+    "Assay Name": [
+      "Source_05_C"
+    ],
+    "Raw Data File": [
+      "140725_Sunil_iTRAQ_AD_05_C.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "medial frontal gyrus"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen brain samples of the medial frontal gyrus",
+      "human brain tissues"
+    ],
+    "Characteristics[Sex]": [
+      "women"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade modified trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris 2- carboxyethyl phosphine hydrochloride (5 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "methyl methanethiosulfonate (10 mM)"
+    ],
+    "Characteristics[Label]": [
+      "iTRAQ 4Plex"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "C"
+    ],
+    "FactorValue[Treatment]": [
+      "AD"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 RSLC nanoLC system",
+      "Q-Exactive apparatus (Thermo Fisher, MA)"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS analysis"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy was set to 28"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ],
+    "Comment[FractionationMethod]": [
+      "concatenate pooling method"
+    ],
+    "Comment[NumberOfFractions]": [
+      "sixty fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum miss cleavage: 2"
+    ],
+    "Comment[IonizationType]": [
+      "EASY nanospray source"
+    ],
+    "Comment[FractionIdentifier]": [
+      "05"
+    ]
+  },
+  "140725_Sunil_iTRAQ_AD_20_B.raw": {
+    "Source Name": [
+      "Source_20"
+    ],
+    "Assay Name": [
+      "Source_20_B"
+    ],
+    "Raw Data File": [
+      "140725_Sunil_iTRAQ_AD_20_B.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "medial frontal gyrus"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen brain samples of the medial frontal gyrus",
+      "human brain tissues"
+    ],
+    "Characteristics[Sex]": [
+      "women"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade modified trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris 2- carboxyethyl phosphine hydrochloride (5 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "methyl methanethiosulfonate (10 mM)"
+    ],
+    "Characteristics[Label]": [
+      "iTRAQ 4Plex"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "B"
+    ],
+    "FactorValue[Treatment]": [
+      "AD"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 RSLC nanoLC system",
+      "Q-Exactive apparatus (Thermo Fisher, MA)"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS analysis"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy was set to 28"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ],
+    "Comment[FractionationMethod]": [
+      "concatenate pooling method"
+    ],
+    "Comment[NumberOfFractions]": [
+      "sixty fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum miss cleavage: 2"
+    ],
+    "Comment[IonizationType]": [
+      "EASY nanospray source"
+    ],
+    "Comment[FractionIdentifier]": [
+      "20"
+    ]
+  },
+  "140725_Sunil_iTRAQ_AD_14_B.raw": {
+    "Source Name": [
+      "Source_14"
+    ],
+    "Assay Name": [
+      "Source_14_B"
+    ],
+    "Raw Data File": [
+      "140725_Sunil_iTRAQ_AD_14_B.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "medial frontal gyrus"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen brain samples of the medial frontal gyrus",
+      "human brain tissues"
+    ],
+    "Characteristics[Sex]": [
+      "women"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade modified trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris 2- carboxyethyl phosphine hydrochloride (5 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "methyl methanethiosulfonate (10 mM)"
+    ],
+    "Characteristics[Label]": [
+      "iTRAQ 4Plex"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "B"
+    ],
+    "FactorValue[Treatment]": [
+      "AD"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 RSLC nanoLC system",
+      "Q-Exactive apparatus (Thermo Fisher, MA)"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS analysis"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy was set to 28"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ],
+    "Comment[FractionationMethod]": [
+      "concatenate pooling method"
+    ],
+    "Comment[NumberOfFractions]": [
+      "sixty fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum miss cleavage: 2"
+    ],
+    "Comment[IonizationType]": [
+      "EASY nanospray source"
+    ],
+    "Comment[FractionIdentifier]": [
+      "14"
+    ]
+  },
+  "140725_Sunil_iTRAQ_AD_07_B.raw": {
+    "Source Name": [
+      "Source_07"
+    ],
+    "Assay Name": [
+      "Source_07_B"
+    ],
+    "Raw Data File": [
+      "140725_Sunil_iTRAQ_AD_07_B.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "medial frontal gyrus"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen brain samples of the medial frontal gyrus",
+      "human brain tissues"
+    ],
+    "Characteristics[Sex]": [
+      "women"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade modified trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris 2- carboxyethyl phosphine hydrochloride (5 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "methyl methanethiosulfonate (10 mM)"
+    ],
+    "Characteristics[Label]": [
+      "iTRAQ 4Plex"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "B"
+    ],
+    "FactorValue[Treatment]": [
+      "AD"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 RSLC nanoLC system",
+      "Q-Exactive apparatus (Thermo Fisher, MA)"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS analysis"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy was set to 28"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ],
+    "Comment[FractionationMethod]": [
+      "concatenate pooling method"
+    ],
+    "Comment[NumberOfFractions]": [
+      "sixty fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum miss cleavage: 2"
+    ],
+    "Comment[IonizationType]": [
+      "EASY nanospray source"
+    ],
+    "Comment[FractionIdentifier]": [
+      "07"
+    ]
+  },
+  "140725_Sunil_iTRAQ_AD_13_B.raw": {
+    "Source Name": [
+      "Source_13"
+    ],
+    "Assay Name": [
+      "Source_13_B"
+    ],
+    "Raw Data File": [
+      "140725_Sunil_iTRAQ_AD_13_B.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "medial frontal gyrus"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen brain samples of the medial frontal gyrus",
+      "human brain tissues"
+    ],
+    "Characteristics[Sex]": [
+      "women"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade modified trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris 2- carboxyethyl phosphine hydrochloride (5 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "methyl methanethiosulfonate (10 mM)"
+    ],
+    "Characteristics[Label]": [
+      "iTRAQ 4Plex"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "B"
+    ],
+    "FactorValue[Treatment]": [
+      "AD"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 RSLC nanoLC system",
+      "Q-Exactive apparatus (Thermo Fisher, MA)"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS analysis"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy was set to 28"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ],
+    "Comment[FractionationMethod]": [
+      "concatenate pooling method"
+    ],
+    "Comment[NumberOfFractions]": [
+      "sixty fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum miss cleavage: 2"
+    ],
+    "Comment[IonizationType]": [
+      "EASY nanospray source"
+    ],
+    "Comment[FractionIdentifier]": [
+      "13"
+    ]
+  },
+  "140725_Sunil_iTRAQ_AD_08_A.raw": {
+    "Source Name": [
+      "Source_08"
+    ],
+    "Assay Name": [
+      "Source_08_A"
+    ],
+    "Raw Data File": [
+      "140725_Sunil_iTRAQ_AD_08_A.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[OrganismPart]": [
+      "medial frontal gyrus"
+    ],
+    "Characteristics[Specimen]": [
+      "Frozen brain samples of the medial frontal gyrus",
+      "human brain tissues"
+    ],
+    "Characteristics[Sex]": [
+      "women"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing grade modified trypsin (Promega, Madison, WI)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Tris 2- carboxyethyl phosphine hydrochloride (5 mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "methyl methanethiosulfonate (10 mM)"
+    ],
+    "Characteristics[Label]": [
+      "iTRAQ 4Plex"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "A"
+    ],
+    "FactorValue[Treatment]": [
+      "AD"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 RSLC nanoLC system",
+      "Q-Exactive apparatus (Thermo Fisher, MA)"
+    ],
+    "Comment[Separation]": [
+      "LC-MS/MS analysis"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy was set to 28"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "60 min gradient"
+    ],
+    "Comment[FractionationMethod]": [
+      "concatenate pooling method"
+    ],
+    "Comment[NumberOfFractions]": [
+      "sixty fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum miss cleavage: 2"
+    ],
+    "Comment[IonizationType]": [
+      "EASY nanospray source"
+    ],
+    "Comment[FractionIdentifier]": [
+      "08"
+    ]
+  }
+}

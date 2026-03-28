@@ -1,0 +1,45 @@
+CellLine: HeLa cell line  
+Compound: Dulbecco's modified Eagle's medium  
+Compound: fetal bovine serum  
+ConcentrationOfCompound: 10%  
+Compound: antibiotics  
+ConcentrationOfCompound: 1%  
+SampleTreatment: washed with PBS three times  
+Compound: ProteaseMAX™ Surfactant  
+ConcentrationOfCompound: 0.1% w/v  
+Compound: aqueous ammonium bicarbonate  
+ConcentrationOfCompound: 50 mm  
+Compound: acetonitrile  
+ConcentrationOfCompound: 9:1 (v:v)  
+Temperature: 95 °C  
+SampleTreatment: 15 min sonication (30% amplitude, 3:3 pulse)  
+ReductionReagent: DTT  
+ConcentrationOfCompound: 10 mm  
+AlkylationReagent: iodoacetamide  
+ConcentrationOfCompound: 10 mm  
+CleavageAgent: trypsin  
+Temperature: 37 °C  
+Time: 9 h  
+Compound: acetic acid  
+ConcentrationOfCompound: 5% (vol.)  
+Temperature: 45 °C  
+Time: 30 min  
+SampleTreatment: purified using spin filtration (Pall Nanosep® 10 kDa with Omega membrane)  
+MaterialType: Thermo Scientific EASY-Spray columns (PepMap® RSLC, C18, 100 Å, 2 μm bead packed 50 cm column)  
+Instrument: Easy-nLC 1000 pump (Proxeon Biosystems, Odense, Denmark, now part of Thermo Fisher Scientific)  
+Compound: buffer A  
+ConcentrationOfCompound: 99.9% water, 0.1% formic acid  
+Compound: buffer B  
+ConcentrationOfCompound: 99.9% acetonitrile, 0.1% formic acid  
+GradientTime: 150 min  
+FlowRateChromatogram: 250 nL/min  
+Instrument: Orbitrap Q Exactive mass spectrometer (Thermo Scientific)  
+AcquisitionMethod: top-20 method  
+FragmentationMethod: higher-energy collisional dissociation  
+CollisionEnergy: 25 V of normalized collisional energy  
+Modification: carbamidomethylation of C  
+Modification: oxidation of M  
+Modification: acetylation of protein N terminus  
+PrecursorMassTolerance: ±20 ppm  
+FragmentMassTolerance: ±20 ppm  
+PrecursorMassTolerance: 10 ppm

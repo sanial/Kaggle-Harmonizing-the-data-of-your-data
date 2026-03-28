@@ -1,0 +1,17 @@
+Disease: human colon and rectal cancer
+SourceName: Cancer Genome Atlas (TCGA)
+SourceName: TCGA Biospecimen Core Resource (BCR)
+MaterialType: Patient-derived xenograft tumors
+Strain: NOD.Cg-Prkdcscid Il2rgtm1Wjl/SzJ mice
+Age: 8 week old
+Specimen: Normal colon biopsies
+SamplingTime: between July 2006 and October 2010
+AssayName: multidimensional liquid chromatography-tandem mass spectrometry
+AssayName: spectral count data
+AssayName: LC-MS/MS analysis
+SourceName: CPTAC Data Coordinating Center
+SupplementaryFile: raw and mzML files
+SupplementaryFile: complete protein assembly datasets
+FactorValue: Basal
+FactorValue: Luminal-B
+Disease: breast cancer

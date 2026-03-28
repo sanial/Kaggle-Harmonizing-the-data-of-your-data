@@ -1,0 +1,55 @@
+OrganismPart: dorsolateral prefrontal cortex; broadman area 9  
+NumberOfSamples: two cases  
+SourceName: Emory Brain Bank  
+Temperature: 4°C  
+AssayName: bicinchoninic acid (BCA) method  
+Temperature: -80°C  
+Compound: dithiothreitol (DTT)  
+ConcentrationOfCompound: 1 mM  
+Temperature: 37°C  
+Time: 30 min  
+Compound: iodoacetamide (IAA)  
+ConcentrationOfCompound: 5 mM  
+CleavageAgent: lysyl endopeptidase (LysC)  
+Time: 4 h  
+Compound: NH4HCO3  
+ConcentrationOfCompound: 50 mM  
+Compound: urea  
+ConcentrationOfCompound: 1.6 M  
+CleavageAgent: trypsin (Promega)  
+EnrichmentMethod: Electrostatic Repulsion-Hydrophilic Interaction Chromatography (ERLIC)  
+NumberOfFractions: 40  
+FractionationMethod: concatenated ERLIC pooled strategy  
+GradientTime: 66-min  
+FlowRateChromatogram: 0.3 ml/min  
+NumberOfFractions: 20  
+Separation: self-packed C18 (1.9 um Dr. Maisch, Germany) fused silica column (25 cm × 75 μM internal diameter (ID); New Objective, Woburn, MA)  
+Instrument: Orbitrap Fusion mass spectrometer  
+GradientTime: 120-min  
+FlowRateChromatogram: 300 nl/min  
+CollisionEnergy: 30%  
+FragmentationMethod: HCD  
+AssayName: Whole-exome sequencing  
+EnrichmentMethod: SeqCap EZ Exome v2 Human Exome Capture Kit (Roche, Switzerland)  
+Instrument: Illumina HiSeq 2000 instrument  
+AcquisitionMethod: 100-bp paired-end sequencing  
+PrecursorMassTolerance: ±10 ppm  
+FragmentMassTolerance: 0.05 Da  
+Modification: oxidized Met  
+Modification: deaminated Asn  
+Modification: deaminated Gln  
+Modification: protein N-terminal acetylation  
+Modification: carbamidomethyl Cys  
+NumberOfMissedCleavages: 2  
+AcquisitionMethod: data-independent acquisition  
+Instrument: Q-Exactive-Plus hybrid quadrupole-orbitrap mass spectrometer  
+Separation: self-packed 1.9 um C18 analytical column (New Objective, 35 cm × 75 μm inner diameter; 360 μm outer diameter)  
+GradientTime: 250-min  
+FlowRateChromatogram: 210 nl/min  
+CollisionEnergy: 30  
+SyntheticPeptide: heavy stable isotope labelled peptides  
+AssayName: bottom-up proteomics  
+AssayName: parallel reaction monitoring (PRM)  
+AssayName: label-free ion intensity measurements  
+AssayName: nanoLC-MS/MS  
+Time: 5 min

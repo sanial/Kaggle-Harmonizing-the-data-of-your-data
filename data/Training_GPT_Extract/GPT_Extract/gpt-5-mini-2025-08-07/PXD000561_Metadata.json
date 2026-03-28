@@ -1,0 +1,772 @@
+{
+  "Fetal_Liver_Gel_Velos_24_f07.raw": {
+    "Source Name": [
+      "Fetal_Liver"
+    ],
+    "Assay Name": [
+      "Fetal_Liver_f07"
+    ],
+    "Raw Data File": [
+      "Fetal_Liver_Gel_Velos_24_f07.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "histologically normal human tissues and cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "IAA"
+    ],
+    "Characteristics[Modification]": [
+      "carbamidomethylation of cysteine"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "30 histologically normal tissues and cells"
+    ],
+    "FactorValue[Experimental]": [
+      "Fetal_Liver"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collision dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35% normalized collision energy"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap mass analyzer"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "a flow rate of 350 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "over 60 min"
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE"
+    ],
+    "Comment[FractionIdentifier]": [
+      "f07"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated to 24 fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages allowed"
+    ],
+    "Comment[Separation]": [
+      "Easy-nLC II nanoflow liquid chromatography system"
+    ]
+  },
+  "Adult_Kidney_Gel_Velos_9_f09.raw": {
+    "Source Name": [
+      "Adult_Kidney"
+    ],
+    "Assay Name": [
+      "Adult_Kidney_f09"
+    ],
+    "Raw Data File": [
+      "Adult_Kidney_Gel_Velos_9_f09.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "histologically normal human tissues and cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "IAA"
+    ],
+    "Characteristics[Modification]": [
+      "carbamidomethylation of cysteine"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "30 histologically normal tissues and cells"
+    ],
+    "FactorValue[Experimental]": [
+      "Adult_Kidney"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collision dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35% normalized collision energy"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap mass analyzer"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "a flow rate of 350 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "over 60 min"
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE"
+    ],
+    "Comment[FractionIdentifier]": [
+      "f09"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated to 24 fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages allowed"
+    ],
+    "Comment[Separation]": [
+      "Easy-nLC II nanoflow liquid chromatography system"
+    ]
+  },
+  "Adult_NKcells_Gel_Elite_78_f13.raw": {
+    "Source Name": [
+      "Adult_NKcells"
+    ],
+    "Assay Name": [
+      "Adult_NKcells_f13"
+    ],
+    "Raw Data File": [
+      "Adult_NKcells_Gel_Elite_78_f13.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "histologically normal human tissues and cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "IAA"
+    ],
+    "Characteristics[Modification]": [
+      "carbamidomethylation of cysteine"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "30 histologically normal tissues and cells"
+    ],
+    "FactorValue[Experimental]": [
+      "Adult_NKcells"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Elite"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collision dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35% normalized collision energy"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap mass analyzer"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "a flow rate of 350 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "over 60 min"
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE"
+    ],
+    "Comment[FractionIdentifier]": [
+      "f13"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated to 24 fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages allowed"
+    ],
+    "Comment[Separation]": [
+      "Easy-nLC II nanoflow liquid chromatography system"
+    ]
+  },
+  "Fetal_Brain_Gel_Velos_16_f21.raw": {
+    "Source Name": [
+      "Fetal_Brain"
+    ],
+    "Assay Name": [
+      "Fetal_Brain_f21"
+    ],
+    "Raw Data File": [
+      "Fetal_Brain_Gel_Velos_16_f21.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "histologically normal human tissues and cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "IAA"
+    ],
+    "Characteristics[Modification]": [
+      "carbamidomethylation of cysteine"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "30 histologically normal tissues and cells"
+    ],
+    "FactorValue[Experimental]": [
+      "Fetal_Brain"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collision dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35% normalized collision energy"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap mass analyzer"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "a flow rate of 350 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "over 60 min"
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE"
+    ],
+    "Comment[FractionIdentifier]": [
+      "f21"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated to 24 fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages allowed"
+    ],
+    "Comment[Separation]": [
+      "Easy-nLC II nanoflow liquid chromatography system"
+    ]
+  },
+  "Adult_Platelets_Gel_Velos_36_f36.raw": {
+    "Source Name": [
+      "Adult_Platelets"
+    ],
+    "Assay Name": [
+      "Adult_Platelets_f36"
+    ],
+    "Raw Data File": [
+      "Adult_Platelets_Gel_Velos_36_f36.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "histologically normal human tissues and cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "IAA"
+    ],
+    "Characteristics[Modification]": [
+      "carbamidomethylation of cysteine"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "30 histologically normal tissues and cells"
+    ],
+    "FactorValue[Experimental]": [
+      "Adult_Platelets"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collision dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35% normalized collision energy"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap mass analyzer"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "a flow rate of 350 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "over 60 min"
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE"
+    ],
+    "Comment[FractionIdentifier]": [
+      "f36"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated to 24 fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages allowed"
+    ],
+    "Comment[Separation]": [
+      "Easy-nLC II nanoflow liquid chromatography system"
+    ]
+  },
+  "Adult_Liver_Gel_Elite_83_f16.raw": {
+    "Source Name": [
+      "Adult_Liver"
+    ],
+    "Assay Name": [
+      "Adult_Liver_f16"
+    ],
+    "Raw Data File": [
+      "Adult_Liver_Gel_Elite_83_f16.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "histologically normal human tissues and cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "IAA"
+    ],
+    "Characteristics[Modification]": [
+      "carbamidomethylation of cysteine"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "30 histologically normal tissues and cells"
+    ],
+    "FactorValue[Experimental]": [
+      "Adult_Liver"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Elite"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collision dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35% normalized collision energy"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap mass analyzer"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "a flow rate of 350 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "over 60 min"
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE"
+    ],
+    "Comment[FractionIdentifier]": [
+      "f16"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated to 24 fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages allowed"
+    ],
+    "Comment[Separation]": [
+      "Easy-nLC II nanoflow liquid chromatography system"
+    ]
+  },
+  "Adult_Liver_Gel_Velos_11_f26.raw": {
+    "Source Name": [
+      "Adult_Liver"
+    ],
+    "Assay Name": [
+      "Adult_Liver_f26"
+    ],
+    "Raw Data File": [
+      "Adult_Liver_Gel_Velos_11_f26.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "histologically normal human tissues and cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "IAA"
+    ],
+    "Characteristics[Modification]": [
+      "carbamidomethylation of cysteine"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "30 histologically normal tissues and cells"
+    ],
+    "FactorValue[Experimental]": [
+      "Adult_Liver"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collision dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35% normalized collision energy"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap mass analyzer"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "a flow rate of 350 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "over 60 min"
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE"
+    ],
+    "Comment[FractionIdentifier]": [
+      "f26"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated to 24 fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages allowed"
+    ],
+    "Comment[Separation]": [
+      "Easy-nLC II nanoflow liquid chromatography system"
+    ]
+  },
+  "Fetal_Heart_Gel_Velos_21_f24.raw": {
+    "Source Name": [
+      "Fetal_Heart"
+    ],
+    "Assay Name": [
+      "Fetal_Heart_f24"
+    ],
+    "Raw Data File": [
+      "Fetal_Heart_Gel_Velos_21_f24.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "histologically normal human tissues and cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "IAA"
+    ],
+    "Characteristics[Modification]": [
+      "carbamidomethylation of cysteine"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "30 histologically normal tissues and cells"
+    ],
+    "FactorValue[Experimental]": [
+      "Fetal_Heart"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collision dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35% normalized collision energy"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap mass analyzer"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "a flow rate of 350 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "over 60 min"
+    ],
+    "Comment[FractionationMethod]": [
+      "SDS-PAGE"
+    ],
+    "Comment[FractionIdentifier]": [
+      "f24"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated to 24 fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages allowed"
+    ],
+    "Comment[Separation]": [
+      "Easy-nLC II nanoflow liquid chromatography system"
+    ]
+  },
+  "Fetal_Ovary_bRP_Velos_41_f15.raw": {
+    "Source Name": [
+      "Fetal_Ovary"
+    ],
+    "Assay Name": [
+      "Fetal_Ovary_f15"
+    ],
+    "Raw Data File": [
+      "Fetal_Ovary_bRP_Velos_41_f15.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "histologically normal human tissues and cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "IAA"
+    ],
+    "Characteristics[Modification]": [
+      "carbamidomethylation of cysteine"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "30 histologically normal tissues and cells"
+    ],
+    "FactorValue[Experimental]": [
+      "Fetal_Ovary"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collision dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35% normalized collision energy"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap mass analyzer"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "a flow rate of 350 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "over 60 min"
+    ],
+    "Comment[FractionationMethod]": [
+      "bRPLC"
+    ],
+    "Comment[FractionIdentifier]": [
+      "f15"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated to 24 fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages allowed"
+    ],
+    "Comment[Separation]": [
+      "Easy-nLC II nanoflow liquid chromatography system"
+    ]
+  },
+  "Adult_CD4Tcells_bRP_Elite_28_f08.raw": {
+    "Source Name": [
+      "Adult_CD4Tcells"
+    ],
+    "Assay Name": [
+      "Adult_CD4Tcells_f08"
+    ],
+    "Raw Data File": [
+      "Adult_CD4Tcells_bRP_Elite_28_f08.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "histologically normal human tissues and cells"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "IAA"
+    ],
+    "Characteristics[Modification]": [
+      "carbamidomethylation of cysteine"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "30 histologically normal tissues and cells"
+    ],
+    "FactorValue[Experimental]": [
+      "Adult_CD4Tcells"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Elite"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Data-dependent acquisition"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collision dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35% normalized collision energy"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap mass analyzer"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "a flow rate of 350 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "over 60 min"
+    ],
+    "Comment[FractionationMethod]": [
+      "bRPLC"
+    ],
+    "Comment[FractionIdentifier]": [
+      "f08"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated to 24 fractions"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.05 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages allowed"
+    ],
+    "Comment[Separation]": [
+      "Easy-nLC II nanoflow liquid chromatography system"
+    ]
+  }
+}

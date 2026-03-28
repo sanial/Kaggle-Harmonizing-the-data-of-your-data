@@ -1,0 +1,31 @@
+Disease: human heart failure  
+AssayName: mass spectrometry  
+SourceName: human myocardial tissue  
+OrganismPart: left ventricular (LV) myocardium  
+ReductionReagent: dithiothreitol  
+AlkylationReagent: iodoacetamide  
+CleavageAgent: trypsin  
+EnrichmentMethod: C18 micro spin column  
+Instrument: Q-Exactive  
+Instrument: EasyLC system  
+FragmentationMethod: higher-energy collisional dissociation (HCD)  
+MS2MassAnalyzer: Orbitrap  
+PrecursorMassTolerance: 20 ppm  
+FragmentMassTolerance: 20 ppm  
+NumberOfMissedCleavages: 2  
+Modification: Carbamidomethyl [C]  
+Modification: Oxidation [M]  
+ConcentrationOfCompound: 8 M urea  
+ConcentrationOfCompound: 100 mM NH4HCO3  
+Time: over 60 min  
+Temperature: 52°C  
+ConcentrationOfCompound: 25 mM iodoacetamide  
+Time: 60 min  
+Temperature: room temperature  
+ConcentrationOfCompound: 1:50 ratio  
+Temperature: 37°C  
+Time: 16 hrs  
+ConcentrationOfCompound: 70 % acetonitrile  
+ConcentrationOfCompound: 0.1 % formic acid  
+AssayName: Label-free quantification  
+AssayName: intensity-based absolute-protein-quantification

@@ -1,0 +1,32 @@
+Organism: Saccharomyces cerevisiae  
+Strain: YPH499  
+Temperature: 24 °C  
+SampleTreatment: non-fermentable YPG medium (1% w/v yeast extract, 2% w/v bacto peptone, and 3% w/v glycerol (pH 5.0))  
+SampleTreatment: minimal medium (0.67% w/v yeast nitrogen base without amino acids, 3% w/v glycerol, 0.77% w/v Complete Supplement Mixture minus lysine and arginine)  
+Experiment: SILAC-analysis  
+Compound: natural arginine and lysine  
+Compound: [13C6/15N4]arginine and [13C6/15N2]lysine  
+SourceName: highly pure mitochondria  
+Separation: sonication  
+Separation: carbonate extraction  
+ReductionReagent: 10 mM DTT  
+AlkylationReagent: 30 mM iodoacetamide  
+CleavageAgent: Trypsin (Promega, sequencing grade)  
+PooledSample: heavy and light samples were pooled 1:1  
+NumberOfBiologicalReplicates: two biological replicates  
+NumberOfFractions: Six fractions  
+FractionationMethod: strong cation exchange chromatography  
+Instrument: LTQ-Orbitrap Elite mass spectrometer  
+Instrument: Q Exactive Plus  
+AssayName: Nano-LC-MS/MS analysis  
+FlowRateChromatogram: 20 μL min−1  
+FlowRateChromatogram: 250 nL min−1  
+GradientTime: 50 min  
+GradientTime: 185 min  
+PrecursorMassTolerance: 10 ppm  
+FragmentMassTolerance: 0.5 Da  
+FragmentationMethod: collision induced dissociation  
+FragmentationMethod: higher energy collisional dissociation  
+CollisionEnergy: normalized collision energy of 35%  
+Label: 13C6 15N2 Lys  
+Label: 13C6 15N4 Arg

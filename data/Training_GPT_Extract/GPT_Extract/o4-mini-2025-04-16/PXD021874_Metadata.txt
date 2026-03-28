@@ -1,0 +1,65 @@
+Strain: Hfx. volcanii H53  
+Strain: ΔaglB  
+Strain: Δagl15  
+Genotype: ΔpyrE2; ΔtrpA  
+Temperature: 45°C  
+Temperature: −80°C  
+Temperature: 55°C  
+Temperature: 37°C  
+Temperature: 4°C  
+ConcentrationOfCompound: 50 μg ml−1  
+ConcentrationOfCompound: 0.35%  
+ConcentrationOfCompound: 20 mM  
+ConcentrationOfCompound: 40 mM  
+ConcentrationOfCompound: 1.2%  
+Compound: tryptophan  
+Compound: uracil  
+Compound: agar  
+Compound: phosphoric acid  
+Compound: ACN  
+Compound: TFA  
+ReductionReagent: 20 mM DTT  
+AlkylationReagent: 40 mM iodoacetamide  
+SampleTreatment: freezing (−80°C) and thawing (on ice) them 3 times  
+FractionationMethod: centrifugation at 6,000 g for 10 minutes  
+FractionationMethod: centrifugation at 10,000 g for 10 minutes  
+FractionationMethod: centrifugation at 16,000 g for 20 minutes  
+FractionationMethod: ultracentrifugation at 300,000 g for 30 minutes  
+Staining: Coomassie brilliant blue  
+Staining: Pro-Q Emerald 300 glycoprotein staining kit  
+CleavageAgent: trypsin  
+CleavageAgent: GluC  
+Instrument: Dionex Ultimate 3000 UPLC  
+Instrument: Q-Exactive HFX tandem MS  
+Instrument: Amersham Imager 600  
+IonizationType: positive ion mode  
+GradientTime: 60-minute gradient  
+FlowRateChromatogram: flow rate of 400 μL mL−1  
+AcquisitionMethod: Data-dependent acquisition  
+FragmentationMethod: HCD fragmentation  
+CollisionEnergy: stepped normalized collision energy (25, 30, and 35 NCE)  
+PrecursorMassTolerance: +/−10 ppm  
+FragmentMassTolerance: 10 ppm  
+NumberOfMissedCleavages: 2  
+NumberOfMissedCleavages: 3  
+Modification: oxidation of M  
+Modification: N-terminal acetylation  
+Modification: carbamidomethylation of C  
+Modification: Hex(2)  
+SupplementaryFile: PXD021874  
+MaterialType: S-Trap mini spin columns  
+MaterialType: centrifugal filter units with a 3-kDa molecular mass cutoff  
+MaterialType: C18 stage-tips (3 M Empore Discs)  
+MaterialType: Acclaim PepMap100 C18, 5 μm, 100 Å, 300 μm i.d. × 5 mm  
+MaterialType: 75 μm i.d. × 25 cm fused silica capillary packed with 3 μm ReproSil-Pur C18 beads (Dr. Maisch)  
+AssayName: bicinchoninic acid assay (BCA Protein Assay Kit)  
+Time: 5 days  
+Time: 74 hours  
+Time: 30 minutes  
+Time: overnight  
+Time: 30 seconds  
+Time: 60 seconds  
+Separation: 4% to 12% v/v Bis-Tris NuPAGE gel (1.5 mm, 10 well)  
+Separation: MOPS SDS running buffer (NuPAGE)  
+EnrichmentMethod: desalting using homemade C18 stage-tips  
+SourceName: ArcPP Hfx. volcanii theoretical proteome

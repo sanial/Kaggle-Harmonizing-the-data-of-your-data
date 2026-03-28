@@ -1,0 +1,3081 @@
+{
+  "20160802_QEp2_SoDo_SA_LC12-13_SmoothP1acells-frac1_160913114949.raw": {
+    "Source Name": [
+      "20160802_QEp2_SoDo_SA_LC12-13_SmoothP1acells-frac1_160913114949.raw"
+    ],
+    "Assay Name": [
+      "20160802_QEp2_SoDo_SA_LC12-13_SmoothP1acells-frac1_160913114949.raw"
+    ],
+    "Raw Data File": [
+      "20160802_QEp2_SoDo_SA_LC12-13_SmoothP1acells-frac1_160913114949.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "heart tissue samples"
+    ],
+    "Characteristics[Organism]": [
+      "UP000005640_9606"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C and trypsin"
+    ],
+    "Characteristics[CellType]": [
+      "SmoothP1acells"
+    ],
+    "Comment[FractionIdentifier]": [
+      "frac1"
+    ],
+    "Comment[Instrument]": [
+      "quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top-15 data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy (NCE) of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap (15,000 resolution)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350\u2009nl per min"
+    ],
+    "Comment[GradientTime]": [
+      "The total duration of the run was 100\u2009min."
+    ],
+    "Comment[FractionationMethod]": [
+      "the recently described “loss-less” nano-fractionator"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 8 fractions"
+    ],
+    "Comment[Separation]": [
+      "Nanoflow LC–MS/MS analysis of tryptic peptides was conducted on a quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA) coupled to an EASYnLC 1200 ultra-high-pressure system (Thermo Fisher Scientific) via a nano-electrospray ion source."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160802_QEp2_SoDo_SA_LC12-13_SepV8-frac4.raw": {
+    "Source Name": [
+      "20160802_QEp2_SoDo_SA_LC12-13_SepV8-frac4.raw"
+    ],
+    "Assay Name": [
+      "20160802_QEp2_SoDo_SA_LC12-13_SepV8-frac4.raw"
+    ],
+    "Raw Data File": [
+      "20160802_QEp2_SoDo_SA_LC12-13_SepV8-frac4.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "heart tissue samples"
+    ],
+    "Characteristics[Organism]": [
+      "UP000005640_9606"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C and trypsin"
+    ],
+    "Comment[FractionIdentifier]": [
+      "frac4"
+    ],
+    "Comment[Instrument]": [
+      "quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top-15 data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy (NCE) of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap (15,000 resolution)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350\u2009nl per min"
+    ],
+    "Comment[GradientTime]": [
+      "The total duration of the run was 100\u2009min."
+    ],
+    "Comment[FractionationMethod]": [
+      "the recently described “loss-less” nano-fractionator"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 8 fractions"
+    ],
+    "Comment[Separation]": [
+      "Nanoflow LC–MS/MS analysis of tryptic peptides was conducted on a quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA) coupled to an EASYnLC 1200 ultra-high-pressure system (Thermo Fisher Scientific) via a nano-electrospray ion source."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160721_QEp2_SoDo_SA_LC12-13_LV3-frac3.raw": {
+    "Source Name": [
+      "20160721_QEp2_SoDo_SA_LC12-13_LV3-frac3.raw"
+    ],
+    "Assay Name": [
+      "20160721_QEp2_SoDo_SA_LC12-13_LV3-frac3.raw"
+    ],
+    "Raw Data File": [
+      "20160721_QEp2_SoDo_SA_LC12-13_LV3-frac3.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "heart tissue samples"
+    ],
+    "Characteristics[Organism]": [
+      "UP000005640_9606"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C and trypsin"
+    ],
+    "Comment[FractionIdentifier]": [
+      "frac3"
+    ],
+    "Comment[Instrument]": [
+      "quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top-15 data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy (NCE) of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap (15,000 resolution)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350\u2009nl per min"
+    ],
+    "Comment[GradientTime]": [
+      "The total duration of the run was 100\u2009min."
+    ],
+    "Comment[FractionationMethod]": [
+      "the recently described “loss-less” nano-fractionator"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 8 fractions"
+    ],
+    "Comment[Separation]": [
+      "Nanoflow LC–MS/MS analysis of tryptic peptides was conducted on a quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA) coupled to an EASYnLC 1200 ultra-high-pressure system (Thermo Fisher Scientific) via a nano-electrospray ion source."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160804_QEp2_SoDo_SA_LC12-13_RV8-boxCar2.raw": {
+    "Source Name": [
+      "20160804_QEp2_SoDo_SA_LC12-13_RV8-boxCar2.raw"
+    ],
+    "Assay Name": [
+      "20160804_QEp2_SoDo_SA_LC12-13_RV8-boxCar2.raw"
+    ],
+    "Raw Data File": [
+      "20160804_QEp2_SoDo_SA_LC12-13_RV8-boxCar2.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "heart tissue samples"
+    ],
+    "Characteristics[Organism]": [
+      "UP000005640_9606"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C and trypsin"
+    ],
+    "Comment[Instrument]": [
+      "quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top-15 data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy (NCE) of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap (15,000 resolution)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350\u2009nl per min"
+    ],
+    "Comment[GradientTime]": [
+      "The total duration of the run was 100\u2009min."
+    ],
+    "Comment[FractionationMethod]": [
+      "the recently described “loss-less” nano-fractionator"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 8 fractions"
+    ],
+    "Comment[Separation]": [
+      "Nanoflow LC–MS/MS analysis of tryptic peptides was conducted on a quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA) coupled to an EASYnLC 1200 ultra-high-pressure system (Thermo Fisher Scientific) via a nano-electrospray ion source."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160502_QEp4_SoDo_SA_LC12_RAA2578-8fraction3.raw": {
+    "Source Name": [
+      "20160502_QEp4_SoDo_SA_LC12_RAA2578-8fraction3.raw"
+    ],
+    "Assay Name": [
+      "20160502_QEp4_SoDo_SA_LC12_RAA2578-8fraction3.raw"
+    ],
+    "Raw Data File": [
+      "20160502_QEp4_SoDo_SA_LC12_RAA2578-8fraction3.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "heart tissue samples"
+    ],
+    "Characteristics[Organism]": [
+      "UP000005640_9606"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C and trypsin"
+    ],
+    "Comment[FractionIdentifier]": [
+      "8fraction3"
+    ],
+    "Comment[Instrument]": [
+      "quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top-15 data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy (NCE) of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap (15,000 resolution)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350\u2009nl per min"
+    ],
+    "Comment[GradientTime]": [
+      "The total duration of the run was 100\u2009min."
+    ],
+    "Comment[FractionationMethod]": [
+      "the recently described “loss-less” nano-fractionator"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 8 fractions"
+    ],
+    "Comment[Separation]": [
+      "Nanoflow LC–MS/MS analysis of tryptic peptides was conducted on a quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA) coupled to an EASYnLC 1200 ultra-high-pressure system (Thermo Fisher Scientific) via a nano-electrospray ion source."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20170227_QEp2_SoDo_SA_LC12_ECfrac6.raw": {
+    "Source Name": [
+      "20170227_QEp2_SoDo_SA_LC12_ECfrac6.raw"
+    ],
+    "Assay Name": [
+      "20170227_QEp2_SoDo_SA_LC12_ECfrac6.raw"
+    ],
+    "Raw Data File": [
+      "20170227_QEp2_SoDo_SA_LC12_ECfrac6.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "heart tissue samples"
+    ],
+    "Characteristics[Organism]": [
+      "UP000005640_9606"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C and trypsin"
+    ],
+    "Characteristics[CellType]": [
+      "EC"
+    ],
+    "Comment[FractionIdentifier]": [
+      "frac6"
+    ],
+    "Comment[Instrument]": [
+      "quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top-15 data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy (NCE) of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap (15,000 resolution)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350\u2009nl per min"
+    ],
+    "Comment[GradientTime]": [
+      "The total duration of the run was 100\u2009min."
+    ],
+    "Comment[FractionationMethod]": [
+      "the recently described “loss-less” nano-fractionator"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 8 fractions"
+    ],
+    "Comment[Separation]": [
+      "Nanoflow LC–MS/MS analysis of tryptic peptides was conducted on a quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA) coupled to an EASYnLC 1200 ultra-high-pressure system (Thermo Fisher Scientific) via a nano-electrospray ion source."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160721_QEp2_SoDo_SA_LC12-13_RA3-frac1.raw": {
+    "Source Name": [
+      "20160721_QEp2_SoDo_SA_LC12-13_RA3-frac1.raw"
+    ],
+    "Assay Name": [
+      "20160721_QEp2_SoDo_SA_LC12-13_RA3-frac1.raw"
+    ],
+    "Raw Data File": [
+      "20160721_QEp2_SoDo_SA_LC12-13_RA3-frac1.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "heart tissue samples"
+    ],
+    "Characteristics[Organism]": [
+      "UP000005640_9606"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C and trypsin"
+    ],
+    "Comment[FractionIdentifier]": [
+      "frac1"
+    ],
+    "Comment[Instrument]": [
+      "quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top-15 data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy (NCE) of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap (15,000 resolution)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350\u2009nl per min"
+    ],
+    "Comment[GradientTime]": [
+      "The total duration of the run was 100\u2009min."
+    ],
+    "Comment[FractionationMethod]": [
+      "the recently described “loss-less” nano-fractionator"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 8 fractions"
+    ],
+    "Comment[Separation]": [
+      "Nanoflow LC–MS/MS analysis of tryptic peptides was conducted on a quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA) coupled to an EASYnLC 1200 ultra-high-pressure system (Thermo Fisher Scientific) via a nano-electrospray ion source."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160802_QEp2_SoDo_SA_LC12-13_SepV3-frac7.raw": {
+    "Source Name": [
+      "20160802_QEp2_SoDo_SA_LC12-13_SepV3-frac7.raw"
+    ],
+    "Assay Name": [
+      "20160802_QEp2_SoDo_SA_LC12-13_SepV3-frac7.raw"
+    ],
+    "Raw Data File": [
+      "20160802_QEp2_SoDo_SA_LC12-13_SepV3-frac7.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "heart tissue samples"
+    ],
+    "Characteristics[Organism]": [
+      "UP000005640_9606"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C and trypsin"
+    ],
+    "Comment[FractionIdentifier]": [
+      "frac7"
+    ],
+    "Comment[Instrument]": [
+      "quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top-15 data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy (NCE) of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap (15,000 resolution)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350\u2009nl per min"
+    ],
+    "Comment[GradientTime]": [
+      "The total duration of the run was 100\u2009min."
+    ],
+    "Comment[FractionationMethod]": [
+      "the recently described “loss-less” nano-fractionator"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 8 fractions"
+    ],
+    "Comment[Separation]": [
+      "Nanoflow LC–MS/MS analysis of tryptic peptides was conducted on a quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA) coupled to an EASYnLC 1200 ultra-high-pressure system (Thermo Fisher Scientific) via a nano-electrospray ion source."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160802_QEp2_SoDo_SA_LC12-13_AV4--frac8.raw": {
+    "Source Name": [
+      "20160802_QEp2_SoDo_SA_LC12-13_AV4--frac8.raw"
+    ],
+    "Assay Name": [
+      "20160802_QEp2_SoDo_SA_LC12-13_AV4--frac8.raw"
+    ],
+    "Raw Data File": [
+      "20160802_QEp2_SoDo_SA_LC12-13_AV4--frac8.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "heart tissue samples"
+    ],
+    "Characteristics[Organism]": [
+      "UP000005640_9606"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C and trypsin"
+    ],
+    "Comment[FractionIdentifier]": [
+      "frac8"
+    ],
+    "Comment[Instrument]": [
+      "quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top-15 data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy (NCE) of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap (15,000 resolution)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350\u2009nl per min"
+    ],
+    "Comment[GradientTime]": [
+      "The total duration of the run was 100\u2009min."
+    ],
+    "Comment[FractionationMethod]": [
+      "the recently described “loss-less” nano-fractionator"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 8 fractions"
+    ],
+    "Comment[Separation]": [
+      "Nanoflow LC–MS/MS analysis of tryptic peptides was conducted on a quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA) coupled to an EASYnLC 1200 ultra-high-pressure system (Thermo Fisher Scientific) via a nano-electrospray ion source."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160802_QEp2_SoDo_SA_LC12-13_PA3-frac4.raw": {
+    "Source Name": [
+      "20160802_QEp2_SoDo_SA_LC12-13_PA3-frac4.raw"
+    ],
+    "Assay Name": [
+      "20160802_QEp2_SoDo_SA_LC12-13_PA3-frac4.raw"
+    ],
+    "Raw Data File": [
+      "20160802_QEp2_SoDo_SA_LC12-13_PA3-frac4.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "heart tissue samples"
+    ],
+    "Characteristics[Organism]": [
+      "UP000005640_9606"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C and trypsin"
+    ],
+    "Comment[FractionIdentifier]": [
+      "frac4"
+    ],
+    "Comment[Instrument]": [
+      "quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top-15 data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy (NCE) of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap (15,000 resolution)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350\u2009nl per min"
+    ],
+    "Comment[GradientTime]": [
+      "The total duration of the run was 100\u2009min."
+    ],
+    "Comment[FractionationMethod]": [
+      "the recently described “loss-less” nano-fractionator"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 8 fractions"
+    ],
+    "Comment[Separation]": [
+      "Nanoflow LC–MS/MS analysis of tryptic peptides was conducted on a quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA) coupled to an EASYnLC 1200 ultra-high-pressure system (Thermo Fisher Scientific) via a nano-electrospray ion source."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160901_QEp2_SoDo_SA_LC12-13_CD31ECcells-frac2.raw": {
+    "Source Name": [
+      "20160901_QEp2_SoDo_SA_LC12-13_CD31ECcells-frac2.raw"
+    ],
+    "Assay Name": [
+      "20160901_QEp2_SoDo_SA_LC12-13_CD31ECcells-frac2.raw"
+    ],
+    "Raw Data File": [
+      "20160901_QEp2_SoDo_SA_LC12-13_CD31ECcells-frac2.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "heart tissue samples"
+    ],
+    "Characteristics[Organism]": [
+      "UP000005640_9606"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C and trypsin"
+    ],
+    "Characteristics[CellType]": [
+      "CD31ECcells"
+    ],
+    "Comment[FractionIdentifier]": [
+      "frac2"
+    ],
+    "Comment[Instrument]": [
+      "quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top-15 data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy (NCE) of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap (15,000 resolution)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350\u2009nl per min"
+    ],
+    "Comment[GradientTime]": [
+      "The total duration of the run was 100\u2009min."
+    ],
+    "Comment[FractionationMethod]": [
+      "the recently described “loss-less” nano-fractionator"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 8 fractions"
+    ],
+    "Comment[Separation]": [
+      "Nanoflow LC–MS/MS analysis of tryptic peptides was conducted on a quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA) coupled to an EASYnLC 1200 ultra-high-pressure system (Thermo Fisher Scientific) via a nano-electrospray ion source."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160321_QEp4_SoDo_SA_test_SV1.raw": {
+    "Source Name": [
+      "20160321_QEp4_SoDo_SA_test_SV1.raw"
+    ],
+    "Assay Name": [
+      "20160321_QEp4_SoDo_SA_test_SV1.raw"
+    ],
+    "Raw Data File": [
+      "20160321_QEp4_SoDo_SA_test_SV1.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "heart tissue samples"
+    ],
+    "Characteristics[Organism]": [
+      "UP000005640_9606"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C and trypsin"
+    ],
+    "Comment[Instrument]": [
+      "quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top-15 data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy (NCE) of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap (15,000 resolution)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350\u2009nl per min"
+    ],
+    "Comment[GradientTime]": [
+      "The total duration of the run was 100\u2009min."
+    ],
+    "Comment[FractionationMethod]": [
+      "the recently described “loss-less” nano-fractionator"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 8 fractions"
+    ],
+    "Comment[Separation]": [
+      "Nanoflow LC–MS/MS analysis of tryptic peptides was conducted on a quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA) coupled to an EASYnLC 1200 ultra-high-pressure system (Thermo Fisher Scientific) via a nano-electrospray ion source."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160802_QEp2_SoDo_SA_LC12-13_CP4.raw": {
+    "Source Name": [
+      "20160802_QEp2_SoDo_SA_LC12-13_CP4.raw"
+    ],
+    "Assay Name": [
+      "20160802_QEp2_SoDo_SA_LC12-13_CP4.raw"
+    ],
+    "Raw Data File": [
+      "20160802_QEp2_SoDo_SA_LC12-13_CP4.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "heart tissue samples"
+    ],
+    "Characteristics[Organism]": [
+      "UP000005640_9606"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C and trypsin"
+    ],
+    "Comment[Instrument]": [
+      "quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top-15 data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy (NCE) of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap (15,000 resolution)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350\u2009nl per min"
+    ],
+    "Comment[GradientTime]": [
+      "The total duration of the run was 100\u2009min."
+    ],
+    "Comment[FractionationMethod]": [
+      "the recently described “loss-less” nano-fractionator"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 8 fractions"
+    ],
+    "Comment[Separation]": [
+      "Nanoflow LC–MS/MS analysis of tryptic peptides was conducted on a quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA) coupled to an EASYnLC 1200 ultra-high-pressure system (Thermo Fisher Scientific) via a nano-electrospray ion source."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160502_QEp4_SoDo_SA_LC12_Tri.raw": {
+    "Source Name": [
+      "20160502_QEp4_SoDo_SA_LC12_Tri.raw"
+    ],
+    "Assay Name": [
+      "20160502_QEp4_SoDo_SA_LC12_Tri.raw"
+    ],
+    "Raw Data File": [
+      "20160502_QEp4_SoDo_SA_LC12_Tri.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "heart tissue samples"
+    ],
+    "Characteristics[Organism]": [
+      "UP000005640_9606"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C and trypsin"
+    ],
+    "Comment[Instrument]": [
+      "quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top-15 data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy (NCE) of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap (15,000 resolution)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350\u2009nl per min"
+    ],
+    "Comment[GradientTime]": [
+      "The total duration of the run was 100\u2009min."
+    ],
+    "Comment[FractionationMethod]": [
+      "the recently described “loss-less” nano-fractionator"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 8 fractions"
+    ],
+    "Comment[Separation]": [
+      "Nanoflow LC–MS/MS analysis of tryptic peptides was conducted on a quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA) coupled to an EASYnLC 1200 ultra-high-pressure system (Thermo Fisher Scientific) via a nano-electrospray ion source."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160901_QEp2_SoDo_SA_LC12-13_AFcells-frac2.raw": {
+    "Source Name": [
+      "20160901_QEp2_SoDo_SA_LC12-13_AFcells-frac2.raw"
+    ],
+    "Assay Name": [
+      "20160901_QEp2_SoDo_SA_LC12-13_AFcells-frac2.raw"
+    ],
+    "Raw Data File": [
+      "20160901_QEp2_SoDo_SA_LC12-13_AFcells-frac2.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "heart tissue samples"
+    ],
+    "Characteristics[Organism]": [
+      "UP000005640_9606"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C and trypsin"
+    ],
+    "Characteristics[CellType]": [
+      "AFcells"
+    ],
+    "Comment[FractionIdentifier]": [
+      "frac2"
+    ],
+    "Comment[Instrument]": [
+      "quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top-15 data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy (NCE) of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap (15,000 resolution)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350\u2009nl per min"
+    ],
+    "Comment[GradientTime]": [
+      "The total duration of the run was 100\u2009min."
+    ],
+    "Comment[FractionationMethod]": [
+      "the recently described “loss-less” nano-fractionator"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 8 fractions"
+    ],
+    "Comment[Separation]": [
+      "Nanoflow LC–MS/MS analysis of tryptic peptides was conducted on a quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA) coupled to an EASYnLC 1200 ultra-high-pressure system (Thermo Fisher Scientific) via a nano-electrospray ion source."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160721_QEp2_SoDo_SA_LC12-13_RA8.raw": {
+    "Source Name": [
+      "20160721_QEp2_SoDo_SA_LC12-13_RA8.raw"
+    ],
+    "Assay Name": [
+      "20160721_QEp2_SoDo_SA_LC12-13_RA8.raw"
+    ],
+    "Raw Data File": [
+      "20160721_QEp2_SoDo_SA_LC12-13_RA8.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "heart tissue samples"
+    ],
+    "Characteristics[Organism]": [
+      "UP000005640_9606"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C and trypsin"
+    ],
+    "Comment[Instrument]": [
+      "quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top-15 data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy (NCE) of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap (15,000 resolution)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350\u2009nl per min"
+    ],
+    "Comment[GradientTime]": [
+      "The total duration of the run was 100\u2009min."
+    ],
+    "Comment[FractionationMethod]": [
+      "the recently described “loss-less” nano-fractionator"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 8 fractions"
+    ],
+    "Comment[Separation]": [
+      "Nanoflow LC–MS/MS analysis of tryptic peptides was conducted on a quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA) coupled to an EASYnLC 1200 ultra-high-pressure system (Thermo Fisher Scientific) via a nano-electrospray ion source."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160901_QEp2_SoDo_SA_LC12-13_PV8-frac1.raw": {
+    "Source Name": [
+      "20160901_QEp2_SoDo_SA_LC12-13_PV8-frac1.raw"
+    ],
+    "Assay Name": [
+      "20160901_QEp2_SoDo_SA_LC12-13_PV8-frac1.raw"
+    ],
+    "Raw Data File": [
+      "20160901_QEp2_SoDo_SA_LC12-13_PV8-frac1.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "heart tissue samples"
+    ],
+    "Characteristics[Organism]": [
+      "UP000005640_9606"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C and trypsin"
+    ],
+    "Comment[FractionIdentifier]": [
+      "frac1"
+    ],
+    "Comment[Instrument]": [
+      "quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top-15 data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy (NCE) of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap (15,000 resolution)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350\u2009nl per min"
+    ],
+    "Comment[GradientTime]": [
+      "The total duration of the run was 100\u2009min."
+    ],
+    "Comment[FractionationMethod]": [
+      "the recently described “loss-less” nano-fractionator"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 8 fractions"
+    ],
+    "Comment[Separation]": [
+      "Nanoflow LC–MS/MS analysis of tryptic peptides was conducted on a quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA) coupled to an EASYnLC 1200 ultra-high-pressure system (Thermo Fisher Scientific) via a nano-electrospray ion source."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160802_QEp2_SoDo_SA_LC12-13_SepA8-frac4.raw": {
+    "Source Name": [
+      "20160802_QEp2_SoDo_SA_LC12-13_SepA8-frac4.raw"
+    ],
+    "Assay Name": [
+      "20160802_QEp2_SoDo_SA_LC12-13_SepA8-frac4.raw"
+    ],
+    "Raw Data File": [
+      "20160802_QEp2_SoDo_SA_LC12-13_SepA8-frac4.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "heart tissue samples"
+    ],
+    "Characteristics[Organism]": [
+      "UP000005640_9606"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C and trypsin"
+    ],
+    "Comment[FractionIdentifier]": [
+      "frac4"
+    ],
+    "Comment[Instrument]": [
+      "quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top-15 data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy (NCE) of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap (15,000 resolution)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350\u2009nl per min"
+    ],
+    "Comment[GradientTime]": [
+      "The total duration of the run was 100\u2009min."
+    ],
+    "Comment[FractionationMethod]": [
+      "the recently described “loss-less” nano-fractionator"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 8 fractions"
+    ],
+    "Comment[Separation]": [
+      "Nanoflow LC–MS/MS analysis of tryptic peptides was conducted on a quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA) coupled to an EASYnLC 1200 ultra-high-pressure system (Thermo Fisher Scientific) via a nano-electrospray ion source."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160802_QEp2_SoDo_SA_LC12-13_SepA8-frac1.raw": {
+    "Source Name": [
+      "20160802_QEp2_SoDo_SA_LC12-13_SepA8-frac1.raw"
+    ],
+    "Assay Name": [
+      "20160802_QEp2_SoDo_SA_LC12-13_SepA8-frac1.raw"
+    ],
+    "Raw Data File": [
+      "20160802_QEp2_SoDo_SA_LC12-13_SepA8-frac1.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "heart tissue samples"
+    ],
+    "Characteristics[Organism]": [
+      "UP000005640_9606"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C and trypsin"
+    ],
+    "Comment[FractionIdentifier]": [
+      "frac1"
+    ],
+    "Comment[Instrument]": [
+      "quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top-15 data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy (NCE) of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap (15,000 resolution)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350\u2009nl per min"
+    ],
+    "Comment[GradientTime]": [
+      "The total duration of the run was 100\u2009min."
+    ],
+    "Comment[FractionationMethod]": [
+      "the recently described “loss-less” nano-fractionator"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 8 fractions"
+    ],
+    "Comment[Separation]": [
+      "Nanoflow LC–MS/MS analysis of tryptic peptides was conducted on a quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA) coupled to an EASYnLC 1200 ultra-high-pressure system (Thermo Fisher Scientific) via a nano-electrospray ion source."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160802_QEp2_SoDo_SA_LC12-13_CP3-frac4.raw": {
+    "Source Name": [
+      "20160802_QEp2_SoDo_SA_LC12-13_CP3-frac4.raw"
+    ],
+    "Assay Name": [
+      "20160802_QEp2_SoDo_SA_LC12-13_CP3-frac4.raw"
+    ],
+    "Raw Data File": [
+      "20160802_QEp2_SoDo_SA_LC12-13_CP3-frac4.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "heart tissue samples"
+    ],
+    "Characteristics[Organism]": [
+      "UP000005640_9606"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C and trypsin"
+    ],
+    "Comment[FractionIdentifier]": [
+      "frac4"
+    ],
+    "Comment[Instrument]": [
+      "quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top-15 data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy (NCE) of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap (15,000 resolution)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350\u2009nl per min"
+    ],
+    "Comment[GradientTime]": [
+      "The total duration of the run was 100\u2009min."
+    ],
+    "Comment[FractionationMethod]": [
+      "the recently described “loss-less” nano-fractionator"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 8 fractions"
+    ],
+    "Comment[Separation]": [
+      "Nanoflow LC–MS/MS analysis of tryptic peptides was conducted on a quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA) coupled to an EASYnLC 1200 ultra-high-pressure system (Thermo Fisher Scientific) via a nano-electrospray ion source."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160721_QEp2_SoDo_SA_LC12-13_LA3-frac6.raw": {
+    "Source Name": [
+      "20160721_QEp2_SoDo_SA_LC12-13_LA3-frac6.raw"
+    ],
+    "Assay Name": [
+      "20160721_QEp2_SoDo_SA_LC12-13_LA3-frac6.raw"
+    ],
+    "Raw Data File": [
+      "20160721_QEp2_SoDo_SA_LC12-13_LA3-frac6.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "heart tissue samples"
+    ],
+    "Characteristics[Organism]": [
+      "UP000005640_9606"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C and trypsin"
+    ],
+    "Comment[FractionIdentifier]": [
+      "frac6"
+    ],
+    "Comment[Instrument]": [
+      "quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top-15 data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy (NCE) of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap (15,000 resolution)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350\u2009nl per min"
+    ],
+    "Comment[GradientTime]": [
+      "The total duration of the run was 100\u2009min."
+    ],
+    "Comment[FractionationMethod]": [
+      "the recently described “loss-less” nano-fractionator"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 8 fractions"
+    ],
+    "Comment[Separation]": [
+      "Nanoflow LC–MS/MS analysis of tryptic peptides was conducted on a quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA) coupled to an EASYnLC 1200 ultra-high-pressure system (Thermo Fisher Scientific) via a nano-electrospray ion source."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160721_QEp2_SoDo_SA_LC12-13_LV3-frac2.raw": {
+    "Source Name": [
+      "20160721_QEp2_SoDo_SA_LC12-13_LV3-frac2.raw"
+    ],
+    "Assay Name": [
+      "20160721_QEp2_SoDo_SA_LC12-13_LV3-frac2.raw"
+    ],
+    "Raw Data File": [
+      "20160721_QEp2_SoDo_SA_LC12-13_LV3-frac2.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "heart tissue samples"
+    ],
+    "Characteristics[Organism]": [
+      "UP000005640_9606"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C and trypsin"
+    ],
+    "Comment[FractionIdentifier]": [
+      "frac2"
+    ],
+    "Comment[Instrument]": [
+      "quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top-15 data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy (NCE) of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap (15,000 resolution)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350\u2009nl per min"
+    ],
+    "Comment[GradientTime]": [
+      "The total duration of the run was 100\u2009min."
+    ],
+    "Comment[FractionationMethod]": [
+      "the recently described “loss-less” nano-fractionator"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 8 fractions"
+    ],
+    "Comment[Separation]": [
+      "Nanoflow LC–MS/MS analysis of tryptic peptides was conducted on a quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA) coupled to an EASYnLC 1200 ultra-high-pressure system (Thermo Fisher Scientific) via a nano-electrospray ion source."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160802_QEp2_SoDo_SA_LC12-13_TV3-frac3.raw": {
+    "Source Name": [
+      "20160802_QEp2_SoDo_SA_LC12-13_TV3-frac3.raw"
+    ],
+    "Assay Name": [
+      "20160802_QEp2_SoDo_SA_LC12-13_TV3-frac3.raw"
+    ],
+    "Raw Data File": [
+      "20160802_QEp2_SoDo_SA_LC12-13_TV3-frac3.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "heart tissue samples"
+    ],
+    "Characteristics[Organism]": [
+      "UP000005640_9606"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C and trypsin"
+    ],
+    "Comment[FractionIdentifier]": [
+      "frac3"
+    ],
+    "Comment[Instrument]": [
+      "quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top-15 data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy (NCE) of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap (15,000 resolution)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350\u2009nl per min"
+    ],
+    "Comment[GradientTime]": [
+      "The total duration of the run was 100\u2009min."
+    ],
+    "Comment[FractionationMethod]": [
+      "the recently described “loss-less” nano-fractionator"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 8 fractions"
+    ],
+    "Comment[Separation]": [
+      "Nanoflow LC–MS/MS analysis of tryptic peptides was conducted on a quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA) coupled to an EASYnLC 1200 ultra-high-pressure system (Thermo Fisher Scientific) via a nano-electrospray ion source."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160802_QEp2_SoDo_SA_LC12-13_LH3-frac4.raw": {
+    "Source Name": [
+      "20160802_QEp2_SoDo_SA_LC12-13_LH3-frac4.raw"
+    ],
+    "Assay Name": [
+      "20160802_QEp2_SoDo_SA_LC12-13_LH3-frac4.raw"
+    ],
+    "Raw Data File": [
+      "20160802_QEp2_SoDo_SA_LC12-13_LH3-frac4.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "heart tissue samples"
+    ],
+    "Characteristics[Organism]": [
+      "UP000005640_9606"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C and trypsin"
+    ],
+    "Comment[FractionIdentifier]": [
+      "frac4"
+    ],
+    "Comment[Instrument]": [
+      "quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top-15 data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy (NCE) of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap (15,000 resolution)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350\u2009nl per min"
+    ],
+    "Comment[GradientTime]": [
+      "The total duration of the run was 100\u2009min."
+    ],
+    "Comment[FractionationMethod]": [
+      "the recently described “loss-less” nano-fractionator"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 8 fractions"
+    ],
+    "Comment[Separation]": [
+      "Nanoflow LC–MS/MS analysis of tryptic peptides was conducted on a quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA) coupled to an EASYnLC 1200 ultra-high-pressure system (Thermo Fisher Scientific) via a nano-electrospray ion source."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160804_QEp2_SoDo_SA_LC12-13_RV8-frac6.raw": {
+    "Source Name": [
+      "20160804_QEp2_SoDo_SA_LC12-13_RV8-frac6.raw"
+    ],
+    "Assay Name": [
+      "20160804_QEp2_SoDo_SA_LC12-13_RV8-frac6.raw"
+    ],
+    "Raw Data File": [
+      "20160804_QEp2_SoDo_SA_LC12-13_RV8-frac6.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "heart tissue samples"
+    ],
+    "Characteristics[Organism]": [
+      "UP000005640_9606"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C and trypsin"
+    ],
+    "Comment[FractionIdentifier]": [
+      "frac6"
+    ],
+    "Comment[Instrument]": [
+      "quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top-15 data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy (NCE) of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap (15,000 resolution)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350\u2009nl per min"
+    ],
+    "Comment[GradientTime]": [
+      "The total duration of the run was 100\u2009min."
+    ],
+    "Comment[FractionationMethod]": [
+      "the recently described “loss-less” nano-fractionator"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 8 fractions"
+    ],
+    "Comment[Separation]": [
+      "Nanoflow LC–MS/MS analysis of tryptic peptides was conducted on a quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA) coupled to an EASYnLC 1200 ultra-high-pressure system (Thermo Fisher Scientific) via a nano-electrospray ion source."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160802_QEp2_SoDo_SA_LC12-13_PVe3.raw": {
+    "Source Name": [
+      "20160802_QEp2_SoDo_SA_LC12-13_PVe3.raw"
+    ],
+    "Assay Name": [
+      "20160802_QEp2_SoDo_SA_LC12-13_PVe3.raw"
+    ],
+    "Raw Data File": [
+      "20160802_QEp2_SoDo_SA_LC12-13_PVe3.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "heart tissue samples"
+    ],
+    "Characteristics[Organism]": [
+      "UP000005640_9606"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C and trypsin"
+    ],
+    "Comment[Instrument]": [
+      "quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top-15 data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy (NCE) of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap (15,000 resolution)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350\u2009nl per min"
+    ],
+    "Comment[GradientTime]": [
+      "The total duration of the run was 100\u2009min."
+    ],
+    "Comment[FractionationMethod]": [
+      "the recently described “loss-less” nano-fractionator"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 8 fractions"
+    ],
+    "Comment[Separation]": [
+      "Nanoflow LC–MS/MS analysis of tryptic peptides was conducted on a quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA) coupled to an EASYnLC 1200 ultra-high-pressure system (Thermo Fisher Scientific) via a nano-electrospray ion source."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160802_QEp2_SoDo_SA_LC12-13_KFcells-frac1.raw": {
+    "Source Name": [
+      "20160802_QEp2_SoDo_SA_LC12-13_KFcells-frac1.raw"
+    ],
+    "Assay Name": [
+      "20160802_QEp2_SoDo_SA_LC12-13_KFcells-frac1.raw"
+    ],
+    "Raw Data File": [
+      "20160802_QEp2_SoDo_SA_LC12-13_KFcells-frac1.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "heart tissue samples"
+    ],
+    "Characteristics[Organism]": [
+      "UP000005640_9606"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C and trypsin"
+    ],
+    "Characteristics[CellType]": [
+      "KFcells"
+    ],
+    "Comment[FractionIdentifier]": [
+      "frac1"
+    ],
+    "Comment[Instrument]": [
+      "quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top-15 data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy (NCE) of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap (15,000 resolution)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350\u2009nl per min"
+    ],
+    "Comment[GradientTime]": [
+      "The total duration of the run was 100\u2009min."
+    ],
+    "Comment[FractionationMethod]": [
+      "the recently described “loss-less” nano-fractionator"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 8 fractions"
+    ],
+    "Comment[Separation]": [
+      "Nanoflow LC–MS/MS analysis of tryptic peptides was conducted on a quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA) coupled to an EASYnLC 1200 ultra-high-pressure system (Thermo Fisher Scientific) via a nano-electrospray ion source."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160721_QEp2_SoDo_SA_LC12-13_LV3-frac6.raw": {
+    "Source Name": [
+      "20160721_QEp2_SoDo_SA_LC12-13_LV3-frac6.raw"
+    ],
+    "Assay Name": [
+      "20160721_QEp2_SoDo_SA_LC12-13_LV3-frac6.raw"
+    ],
+    "Raw Data File": [
+      "20160721_QEp2_SoDo_SA_LC12-13_LV3-frac6.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "heart tissue samples"
+    ],
+    "Characteristics[Organism]": [
+      "UP000005640_9606"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C and trypsin"
+    ],
+    "Comment[FractionIdentifier]": [
+      "frac6"
+    ],
+    "Comment[Instrument]": [
+      "quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top-15 data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy (NCE) of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap (15,000 resolution)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350\u2009nl per min"
+    ],
+    "Comment[GradientTime]": [
+      "The total duration of the run was 100\u2009min."
+    ],
+    "Comment[FractionationMethod]": [
+      "the recently described “loss-less” nano-fractionator"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 8 fractions"
+    ],
+    "Comment[Separation]": [
+      "Nanoflow LC–MS/MS analysis of tryptic peptides was conducted on a quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA) coupled to an EASYnLC 1200 ultra-high-pressure system (Thermo Fisher Scientific) via a nano-electrospray ion source."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160802_QEp2_SoDo_SA_LC12-13_PA3-frac3.raw": {
+    "Source Name": [
+      "20160802_QEp2_SoDo_SA_LC12-13_PA3-frac3.raw"
+    ],
+    "Assay Name": [
+      "20160802_QEp2_SoDo_SA_LC12-13_PA3-frac3.raw"
+    ],
+    "Raw Data File": [
+      "20160802_QEp2_SoDo_SA_LC12-13_PA3-frac3.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "heart tissue samples"
+    ],
+    "Characteristics[Organism]": [
+      "UP000005640_9606"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C and trypsin"
+    ],
+    "Comment[FractionIdentifier]": [
+      "frac3"
+    ],
+    "Comment[Instrument]": [
+      "quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top-15 data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy (NCE) of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap (15,000 resolution)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350\u2009nl per min"
+    ],
+    "Comment[GradientTime]": [
+      "The total duration of the run was 100\u2009min."
+    ],
+    "Comment[FractionationMethod]": [
+      "the recently described “loss-less” nano-fractionator"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 8 fractions"
+    ],
+    "Comment[Separation]": [
+      "Nanoflow LC–MS/MS analysis of tryptic peptides was conducted on a quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA) coupled to an EASYnLC 1200 ultra-high-pressure system (Thermo Fisher Scientific) via a nano-electrospray ion source."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160802_QEp2_SoDo_SA_LC12-13_PA4-frac3misslabeled.raw": {
+    "Source Name": [
+      "20160802_QEp2_SoDo_SA_LC12-13_PA4-frac3misslabeled.raw"
+    ],
+    "Assay Name": [
+      "20160802_QEp2_SoDo_SA_LC12-13_PA4-frac3misslabeled.raw"
+    ],
+    "Raw Data File": [
+      "20160802_QEp2_SoDo_SA_LC12-13_PA4-frac3misslabeled.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "heart tissue samples"
+    ],
+    "Characteristics[Organism]": [
+      "UP000005640_9606"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C and trypsin"
+    ],
+    "Comment[FractionIdentifier]": [
+      "frac3misslabeled"
+    ],
+    "Comment[Instrument]": [
+      "quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top-15 data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy (NCE) of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap (15,000 resolution)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350\u2009nl per min"
+    ],
+    "Comment[GradientTime]": [
+      "The total duration of the run was 100\u2009min."
+    ],
+    "Comment[FractionationMethod]": [
+      "the recently described “loss-less” nano-fractionator"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 8 fractions"
+    ],
+    "Comment[Separation]": [
+      "Nanoflow LC–MS/MS analysis of tryptic peptides was conducted on a quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA) coupled to an EASYnLC 1200 ultra-high-pressure system (Thermo Fisher Scientific) via a nano-electrospray ion source."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20161118_QEp1_SoDo_SA_LCproto_LA3BoxCar1.raw": {
+    "Source Name": [
+      "20161118_QEp1_SoDo_SA_LCproto_LA3BoxCar1.raw"
+    ],
+    "Assay Name": [
+      "20161118_QEp1_SoDo_SA_LCproto_LA3BoxCar1.raw"
+    ],
+    "Raw Data File": [
+      "20161118_QEp1_SoDo_SA_LCproto_LA3BoxCar1.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "heart tissue samples"
+    ],
+    "Characteristics[Organism]": [
+      "UP000005640_9606"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C and trypsin"
+    ],
+    "Comment[Instrument]": [
+      "quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top-15 data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy (NCE) of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap (15,000 resolution)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350\u2009nl per min"
+    ],
+    "Comment[GradientTime]": [
+      "The total duration of the run was 100\u2009min."
+    ],
+    "Comment[FractionationMethod]": [
+      "the recently described “loss-less” nano-fractionator"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 8 fractions"
+    ],
+    "Comment[Separation]": [
+      "Nanoflow LC–MS/MS analysis of tryptic peptides was conducted on a quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA) coupled to an EASYnLC 1200 ultra-high-pressure system (Thermo Fisher Scientific) via a nano-electrospray ion source."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160802_QEp2_SoDo_SA_LC12-13_TV4.raw": {
+    "Source Name": [
+      "20160802_QEp2_SoDo_SA_LC12-13_TV4.raw"
+    ],
+    "Assay Name": [
+      "20160802_QEp2_SoDo_SA_LC12-13_TV4.raw"
+    ],
+    "Raw Data File": [
+      "20160802_QEp2_SoDo_SA_LC12-13_TV4.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "heart tissue samples"
+    ],
+    "Characteristics[Organism]": [
+      "UP000005640_9606"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C and trypsin"
+    ],
+    "Comment[Instrument]": [
+      "quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top-15 data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy (NCE) of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap (15,000 resolution)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350\u2009nl per min"
+    ],
+    "Comment[GradientTime]": [
+      "The total duration of the run was 100\u2009min."
+    ],
+    "Comment[FractionationMethod]": [
+      "the recently described “loss-less” nano-fractionator"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 8 fractions"
+    ],
+    "Comment[Separation]": [
+      "Nanoflow LC–MS/MS analysis of tryptic peptides was conducted on a quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA) coupled to an EASYnLC 1200 ultra-high-pressure system (Thermo Fisher Scientific) via a nano-electrospray ion source."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160802_QEp2_SoDo_SA_LC12-13_MV3-frac6.raw": {
+    "Source Name": [
+      "20160802_QEp2_SoDo_SA_LC12-13_MV3-frac6.raw"
+    ],
+    "Assay Name": [
+      "20160802_QEp2_SoDo_SA_LC12-13_MV3-frac6.raw"
+    ],
+    "Raw Data File": [
+      "20160802_QEp2_SoDo_SA_LC12-13_MV3-frac6.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "heart tissue samples"
+    ],
+    "Characteristics[Organism]": [
+      "UP000005640_9606"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C and trypsin"
+    ],
+    "Comment[FractionIdentifier]": [
+      "frac6"
+    ],
+    "Comment[Instrument]": [
+      "quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top-15 data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy (NCE) of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap (15,000 resolution)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350\u2009nl per min"
+    ],
+    "Comment[GradientTime]": [
+      "The total duration of the run was 100\u2009min."
+    ],
+    "Comment[FractionationMethod]": [
+      "the recently described “loss-less” nano-fractionator"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 8 fractions"
+    ],
+    "Comment[Separation]": [
+      "Nanoflow LC–MS/MS analysis of tryptic peptides was conducted on a quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA) coupled to an EASYnLC 1200 ultra-high-pressure system (Thermo Fisher Scientific) via a nano-electrospray ion source."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20161111_QEp1_SoDo_SA_LCproto_A2719.raw": {
+    "Source Name": [
+      "20161111_QEp1_SoDo_SA_LCproto_A2719.raw"
+    ],
+    "Assay Name": [
+      "20161111_QEp1_SoDo_SA_LCproto_A2719.raw"
+    ],
+    "Raw Data File": [
+      "20161111_QEp1_SoDo_SA_LCproto_A2719.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "heart tissue samples"
+    ],
+    "Characteristics[Organism]": [
+      "UP000005640_9606"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C and trypsin"
+    ],
+    "Comment[Instrument]": [
+      "quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top-15 data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy (NCE) of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap (15,000 resolution)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350\u2009nl per min"
+    ],
+    "Comment[GradientTime]": [
+      "The total duration of the run was 100\u2009min."
+    ],
+    "Comment[FractionationMethod]": [
+      "the recently described “loss-less” nano-fractionator"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 8 fractions"
+    ],
+    "Comment[Separation]": [
+      "Nanoflow LC–MS/MS analysis of tryptic peptides was conducted on a quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA) coupled to an EASYnLC 1200 ultra-high-pressure system (Thermo Fisher Scientific) via a nano-electrospray ion source."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160721_QEp2_SoDo_SA_LC12-13_RV4-frac4.raw": {
+    "Source Name": [
+      "20160721_QEp2_SoDo_SA_LC12-13_RV4-frac4.raw"
+    ],
+    "Assay Name": [
+      "20160721_QEp2_SoDo_SA_LC12-13_RV4-frac4.raw"
+    ],
+    "Raw Data File": [
+      "20160721_QEp2_SoDo_SA_LC12-13_RV4-frac4.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "heart tissue samples"
+    ],
+    "Characteristics[Organism]": [
+      "UP000005640_9606"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C and trypsin"
+    ],
+    "Comment[FractionIdentifier]": [
+      "frac4"
+    ],
+    "Comment[Instrument]": [
+      "quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top-15 data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy (NCE) of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap (15,000 resolution)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350\u2009nl per min"
+    ],
+    "Comment[GradientTime]": [
+      "The total duration of the run was 100\u2009min."
+    ],
+    "Comment[FractionationMethod]": [
+      "the recently described “loss-less” nano-fractionator"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 8 fractions"
+    ],
+    "Comment[Separation]": [
+      "Nanoflow LC–MS/MS analysis of tryptic peptides was conducted on a quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA) coupled to an EASYnLC 1200 ultra-high-pressure system (Thermo Fisher Scientific) via a nano-electrospray ion source."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160802_QEp2_SoDo_SA_LC12-13_SepV3-frac2.raw": {
+    "Source Name": [
+      "20160802_QEp2_SoDo_SA_LC12-13_SepV3-frac2.raw"
+    ],
+    "Assay Name": [
+      "20160802_QEp2_SoDo_SA_LC12-13_SepV3-frac2.raw"
+    ],
+    "Raw Data File": [
+      "20160802_QEp2_SoDo_SA_LC12-13_SepV3-frac2.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "heart tissue samples"
+    ],
+    "Characteristics[Organism]": [
+      "UP000005640_9606"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C and trypsin"
+    ],
+    "Comment[FractionIdentifier]": [
+      "frac2"
+    ],
+    "Comment[Instrument]": [
+      "quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top-15 data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy (NCE) of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap (15,000 resolution)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350\u2009nl per min"
+    ],
+    "Comment[GradientTime]": [
+      "The total duration of the run was 100\u2009min."
+    ],
+    "Comment[FractionationMethod]": [
+      "the recently described “loss-less” nano-fractionator"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 8 fractions"
+    ],
+    "Comment[Separation]": [
+      "Nanoflow LC–MS/MS analysis of tryptic peptides was conducted on a quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA) coupled to an EASYnLC 1200 ultra-high-pressure system (Thermo Fisher Scientific) via a nano-electrospray ion source."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160901_QEp2_SoDo_SA_LC12-13_PV8-frac6.raw": {
+    "Source Name": [
+      "20160901_QEp2_SoDo_SA_LC12-13_PV8-frac6.raw"
+    ],
+    "Assay Name": [
+      "20160901_QEp2_SoDo_SA_LC12-13_PV8-frac6.raw"
+    ],
+    "Raw Data File": [
+      "20160901_QEp2_SoDo_SA_LC12-13_PV8-frac6.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "heart tissue samples"
+    ],
+    "Characteristics[Organism]": [
+      "UP000005640_9606"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C and trypsin"
+    ],
+    "Comment[FractionIdentifier]": [
+      "frac6"
+    ],
+    "Comment[Instrument]": [
+      "quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top-15 data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy (NCE) of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap (15,000 resolution)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350\u2009nl per min"
+    ],
+    "Comment[GradientTime]": [
+      "The total duration of the run was 100\u2009min."
+    ],
+    "Comment[FractionationMethod]": [
+      "the recently described “loss-less” nano-fractionator"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 8 fractions"
+    ],
+    "Comment[Separation]": [
+      "Nanoflow LC–MS/MS analysis of tryptic peptides was conducted on a quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA) coupled to an EASYnLC 1200 ultra-high-pressure system (Thermo Fisher Scientific) via a nano-electrospray ion source."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160321_QEp4_SoDo_SA_test_LA1.raw": {
+    "Source Name": [
+      "20160321_QEp4_SoDo_SA_test_LA1.raw"
+    ],
+    "Assay Name": [
+      "20160321_QEp4_SoDo_SA_test_LA1.raw"
+    ],
+    "Raw Data File": [
+      "20160321_QEp4_SoDo_SA_test_LA1.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "heart tissue samples"
+    ],
+    "Characteristics[Organism]": [
+      "UP000005640_9606"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C and trypsin"
+    ],
+    "Comment[Instrument]": [
+      "quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top-15 data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy (NCE) of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap (15,000 resolution)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350\u2009nl per min"
+    ],
+    "Comment[GradientTime]": [
+      "The total duration of the run was 100\u2009min."
+    ],
+    "Comment[FractionationMethod]": [
+      "the recently described “loss-less” nano-fractionator"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 8 fractions"
+    ],
+    "Comment[Separation]": [
+      "Nanoflow LC–MS/MS analysis of tryptic peptides was conducted on a quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA) coupled to an EASYnLC 1200 ultra-high-pressure system (Thermo Fisher Scientific) via a nano-electrospray ion source."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160802_QEp2_SoDo_SA_LC12-13_AV4--frac6.raw": {
+    "Source Name": [
+      "20160802_QEp2_SoDo_SA_LC12-13_AV4--frac6.raw"
+    ],
+    "Assay Name": [
+      "20160802_QEp2_SoDo_SA_LC12-13_AV4--frac6.raw"
+    ],
+    "Raw Data File": [
+      "20160802_QEp2_SoDo_SA_LC12-13_AV4--frac6.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "heart tissue samples"
+    ],
+    "Characteristics[Organism]": [
+      "UP000005640_9606"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C and trypsin"
+    ],
+    "Comment[FractionIdentifier]": [
+      "frac6"
+    ],
+    "Comment[Instrument]": [
+      "quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top-15 data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy (NCE) of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap (15,000 resolution)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350\u2009nl per min"
+    ],
+    "Comment[GradientTime]": [
+      "The total duration of the run was 100\u2009min."
+    ],
+    "Comment[FractionationMethod]": [
+      "the recently described “loss-less” nano-fractionator"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 8 fractions"
+    ],
+    "Comment[Separation]": [
+      "Nanoflow LC–MS/MS analysis of tryptic peptides was conducted on a quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA) coupled to an EASYnLC 1200 ultra-high-pressure system (Thermo Fisher Scientific) via a nano-electrospray ion source."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160802_QEp2_SoDo_SA_LC12-13_SepA3-frac6.raw": {
+    "Source Name": [
+      "20160802_QEp2_SoDo_SA_LC12-13_SepA3-frac6.raw"
+    ],
+    "Assay Name": [
+      "20160802_QEp2_SoDo_SA_LC12-13_SepA3-frac6.raw"
+    ],
+    "Raw Data File": [
+      "20160802_QEp2_SoDo_SA_LC12-13_SepA3-frac6.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "heart tissue samples"
+    ],
+    "Characteristics[Organism]": [
+      "UP000005640_9606"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C and trypsin"
+    ],
+    "Comment[FractionIdentifier]": [
+      "frac6"
+    ],
+    "Comment[Instrument]": [
+      "quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top-15 data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy (NCE) of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap (15,000 resolution)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350\u2009nl per min"
+    ],
+    "Comment[GradientTime]": [
+      "The total duration of the run was 100\u2009min."
+    ],
+    "Comment[FractionationMethod]": [
+      "the recently described “loss-less” nano-fractionator"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 8 fractions"
+    ],
+    "Comment[Separation]": [
+      "Nanoflow LC–MS/MS analysis of tryptic peptides was conducted on a quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA) coupled to an EASYnLC 1200 ultra-high-pressure system (Thermo Fisher Scientific) via a nano-electrospray ion source."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160901_QEp2_SoDo_SA_LC12-13_PV4-frac8.raw": {
+    "Source Name": [
+      "20160901_QEp2_SoDo_SA_LC12-13_PV4-frac8.raw"
+    ],
+    "Assay Name": [
+      "20160901_QEp2_SoDo_SA_LC12-13_PV4-frac8.raw"
+    ],
+    "Raw Data File": [
+      "20160901_QEp2_SoDo_SA_LC12-13_PV4-frac8.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "heart tissue samples"
+    ],
+    "Characteristics[Organism]": [
+      "UP000005640_9606"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C and trypsin"
+    ],
+    "Comment[FractionIdentifier]": [
+      "frac8"
+    ],
+    "Comment[Instrument]": [
+      "quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top-15 data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy (NCE) of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap (15,000 resolution)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350\u2009nl per min"
+    ],
+    "Comment[GradientTime]": [
+      "The total duration of the run was 100\u2009min."
+    ],
+    "Comment[FractionationMethod]": [
+      "the recently described “loss-less” nano-fractionator"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 8 fractions"
+    ],
+    "Comment[Separation]": [
+      "Nanoflow LC–MS/MS analysis of tryptic peptides was conducted on a quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA) coupled to an EASYnLC 1200 ultra-high-pressure system (Thermo Fisher Scientific) via a nano-electrospray ion source."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160721_QEp2_SoDo_SA_LC12-13_LA3.raw": {
+    "Source Name": [
+      "20160721_QEp2_SoDo_SA_LC12-13_LA3.raw"
+    ],
+    "Assay Name": [
+      "20160721_QEp2_SoDo_SA_LC12-13_LA3.raw"
+    ],
+    "Raw Data File": [
+      "20160721_QEp2_SoDo_SA_LC12-13_LA3.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "heart tissue samples"
+    ],
+    "Characteristics[Organism]": [
+      "UP000005640_9606"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C and trypsin"
+    ],
+    "Comment[Instrument]": [
+      "quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top-15 data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy (NCE) of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap (15,000 resolution)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350\u2009nl per min"
+    ],
+    "Comment[GradientTime]": [
+      "The total duration of the run was 100\u2009min."
+    ],
+    "Comment[FractionationMethod]": [
+      "the recently described “loss-less” nano-fractionator"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 8 fractions"
+    ],
+    "Comment[Separation]": [
+      "Nanoflow LC–MS/MS analysis of tryptic peptides was conducted on a quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA) coupled to an EASYnLC 1200 ultra-high-pressure system (Thermo Fisher Scientific) via a nano-electrospray ion source."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20161118_QEp1_SoDo_SA_LCproto_LA3BoxCar2.raw": {
+    "Source Name": [
+      "20161118_QEp1_SoDo_SA_LCproto_LA3BoxCar2.raw"
+    ],
+    "Assay Name": [
+      "20161118_QEp1_SoDo_SA_LCproto_LA3BoxCar2.raw"
+    ],
+    "Raw Data File": [
+      "20161118_QEp1_SoDo_SA_LCproto_LA3BoxCar2.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "heart tissue samples"
+    ],
+    "Characteristics[Organism]": [
+      "UP000005640_9606"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C and trypsin"
+    ],
+    "Comment[Instrument]": [
+      "quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top-15 data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy (NCE) of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap (15,000 resolution)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350\u2009nl per min"
+    ],
+    "Comment[GradientTime]": [
+      "The total duration of the run was 100\u2009min."
+    ],
+    "Comment[FractionationMethod]": [
+      "the recently described “loss-less” nano-fractionator"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 8 fractions"
+    ],
+    "Comment[Separation]": [
+      "Nanoflow LC–MS/MS analysis of tryptic peptides was conducted on a quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA) coupled to an EASYnLC 1200 ultra-high-pressure system (Thermo Fisher Scientific) via a nano-electrospray ion source."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160721_QEp2_SoDo_SA_LC12-13_RV8-frac8.raw": {
+    "Source Name": [
+      "20160721_QEp2_SoDo_SA_LC12-13_RV8-frac8.raw"
+    ],
+    "Assay Name": [
+      "20160721_QEp2_SoDo_SA_LC12-13_RV8-frac8.raw"
+    ],
+    "Raw Data File": [
+      "20160721_QEp2_SoDo_SA_LC12-13_RV8-frac8.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "heart tissue samples"
+    ],
+    "Characteristics[Organism]": [
+      "UP000005640_9606"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C and trypsin"
+    ],
+    "Comment[FractionIdentifier]": [
+      "frac8"
+    ],
+    "Comment[Instrument]": [
+      "quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top-15 data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy (NCE) of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap (15,000 resolution)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350\u2009nl per min"
+    ],
+    "Comment[GradientTime]": [
+      "The total duration of the run was 100\u2009min."
+    ],
+    "Comment[FractionationMethod]": [
+      "the recently described “loss-less” nano-fractionator"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 8 fractions"
+    ],
+    "Comment[Separation]": [
+      "Nanoflow LC–MS/MS analysis of tryptic peptides was conducted on a quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA) coupled to an EASYnLC 1200 ultra-high-pressure system (Thermo Fisher Scientific) via a nano-electrospray ion source."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160802_QEp2_SoDo_SA_LC12-13_Ao8-correct-frac7.raw": {
+    "Source Name": [
+      "20160802_QEp2_SoDo_SA_LC12-13_Ao8-correct-frac7.raw"
+    ],
+    "Assay Name": [
+      "20160802_QEp2_SoDo_SA_LC12-13_Ao8-correct-frac7.raw"
+    ],
+    "Raw Data File": [
+      "20160802_QEp2_SoDo_SA_LC12-13_Ao8-correct-frac7.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "heart tissue samples"
+    ],
+    "Characteristics[Organism]": [
+      "UP000005640_9606"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C and trypsin"
+    ],
+    "Comment[FractionIdentifier]": [
+      "frac7"
+    ],
+    "Comment[Instrument]": [
+      "quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top-15 data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy (NCE) of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap (15,000 resolution)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350\u2009nl per min"
+    ],
+    "Comment[GradientTime]": [
+      "The total duration of the run was 100\u2009min."
+    ],
+    "Comment[FractionationMethod]": [
+      "the recently described “loss-less” nano-fractionator"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 8 fractions"
+    ],
+    "Comment[Separation]": [
+      "Nanoflow LC–MS/MS analysis of tryptic peptides was conducted on a quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA) coupled to an EASYnLC 1200 ultra-high-pressure system (Thermo Fisher Scientific) via a nano-electrospray ion source."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160802_QEp2_SoDo_SA_LC12-13_PA8--frac5.raw": {
+    "Source Name": [
+      "20160802_QEp2_SoDo_SA_LC12-13_PA8--frac5.raw"
+    ],
+    "Assay Name": [
+      "20160802_QEp2_SoDo_SA_LC12-13_PA8--frac5.raw"
+    ],
+    "Raw Data File": [
+      "20160802_QEp2_SoDo_SA_LC12-13_PA8--frac5.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "heart tissue samples"
+    ],
+    "Characteristics[Organism]": [
+      "UP000005640_9606"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C and trypsin"
+    ],
+    "Comment[FractionIdentifier]": [
+      "frac5"
+    ],
+    "Comment[Instrument]": [
+      "quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top-15 data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy (NCE) of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap (15,000 resolution)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350\u2009nl per min"
+    ],
+    "Comment[GradientTime]": [
+      "The total duration of the run was 100\u2009min."
+    ],
+    "Comment[FractionationMethod]": [
+      "the recently described “loss-less” nano-fractionator"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 8 fractions"
+    ],
+    "Comment[Separation]": [
+      "Nanoflow LC–MS/MS analysis of tryptic peptides was conducted on a quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA) coupled to an EASYnLC 1200 ultra-high-pressure system (Thermo Fisher Scientific) via a nano-electrospray ion source."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160802_QEp2_SoDo_SA_LC12-13_Vcavainf4-frac7.raw": {
+    "Source Name": [
+      "20160802_QEp2_SoDo_SA_LC12-13_Vcavainf4-frac7.raw"
+    ],
+    "Assay Name": [
+      "20160802_QEp2_SoDo_SA_LC12-13_Vcavainf4-frac7.raw"
+    ],
+    "Raw Data File": [
+      "20160802_QEp2_SoDo_SA_LC12-13_Vcavainf4-frac7.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "heart tissue samples"
+    ],
+    "Characteristics[Organism]": [
+      "UP000005640_9606"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C and trypsin"
+    ],
+    "Comment[FractionIdentifier]": [
+      "frac7"
+    ],
+    "Comment[Instrument]": [
+      "quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top-15 data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy (NCE) of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap (15,000 resolution)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350\u2009nl per min"
+    ],
+    "Comment[GradientTime]": [
+      "The total duration of the run was 100\u2009min."
+    ],
+    "Comment[FractionationMethod]": [
+      "the recently described “loss-less” nano-fractionator"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 8 fractions"
+    ],
+    "Comment[Separation]": [
+      "Nanoflow LC–MS/MS analysis of tryptic peptides was conducted on a quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA) coupled to an EASYnLC 1200 ultra-high-pressure system (Thermo Fisher Scientific) via a nano-electrospray ion source."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160901_QEp2_SoDo_SA_LC12-13_PV3-frac5new.raw": {
+    "Source Name": [
+      "20160901_QEp2_SoDo_SA_LC12-13_PV3-frac5new.raw"
+    ],
+    "Assay Name": [
+      "20160901_QEp2_SoDo_SA_LC12-13_PV3-frac5new.raw"
+    ],
+    "Raw Data File": [
+      "20160901_QEp2_SoDo_SA_LC12-13_PV3-frac5new.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "heart tissue samples"
+    ],
+    "Characteristics[Organism]": [
+      "UP000005640_9606"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C and trypsin"
+    ],
+    "Comment[FractionIdentifier]": [
+      "frac5new"
+    ],
+    "Comment[Instrument]": [
+      "quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top-15 data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy (NCE) of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap (15,000 resolution)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350\u2009nl per min"
+    ],
+    "Comment[GradientTime]": [
+      "The total duration of the run was 100\u2009min."
+    ],
+    "Comment[FractionationMethod]": [
+      "the recently described “loss-less” nano-fractionator"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 8 fractions"
+    ],
+    "Comment[Separation]": [
+      "Nanoflow LC–MS/MS analysis of tryptic peptides was conducted on a quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA) coupled to an EASYnLC 1200 ultra-high-pressure system (Thermo Fisher Scientific) via a nano-electrospray ion source."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160721_QEp2_SoDo_SA_LC12-13_RV3-frac5.raw": {
+    "Source Name": [
+      "20160721_QEp2_SoDo_SA_LC12-13_RV3-frac5.raw"
+    ],
+    "Assay Name": [
+      "20160721_QEp2_SoDo_SA_LC12-13_RV3-frac5.raw"
+    ],
+    "Raw Data File": [
+      "20160721_QEp2_SoDo_SA_LC12-13_RV3-frac5.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "heart tissue samples"
+    ],
+    "Characteristics[Organism]": [
+      "UP000005640_9606"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C and trypsin"
+    ],
+    "Comment[FractionIdentifier]": [
+      "frac5"
+    ],
+    "Comment[Instrument]": [
+      "quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top-15 data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy (NCE) of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap (15,000 resolution)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350\u2009nl per min"
+    ],
+    "Comment[GradientTime]": [
+      "The total duration of the run was 100\u2009min."
+    ],
+    "Comment[FractionationMethod]": [
+      "the recently described “loss-less” nano-fractionator"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 8 fractions"
+    ],
+    "Comment[Separation]": [
+      "Nanoflow LC–MS/MS analysis of tryptic peptides was conducted on a quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA) coupled to an EASYnLC 1200 ultra-high-pressure system (Thermo Fisher Scientific) via a nano-electrospray ion source."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  },
+  "20160901_QEp2_SoDo_SA_LC12-13_PV8-frac3.raw": {
+    "Source Name": [
+      "20160901_QEp2_SoDo_SA_LC12-13_PV8-frac3.raw"
+    ],
+    "Assay Name": [
+      "20160901_QEp2_SoDo_SA_LC12-13_PV8-frac3.raw"
+    ],
+    "Raw Data File": [
+      "20160901_QEp2_SoDo_SA_LC12-13_PV8-frac3.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "heart tissue samples"
+    ],
+    "Characteristics[Organism]": [
+      "UP000005640_9606"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C and trypsin"
+    ],
+    "Comment[FractionIdentifier]": [
+      "frac3"
+    ],
+    "Comment[Instrument]": [
+      "quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "top-15 data-dependent mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy (NCE) of 27%"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap (15,000 resolution)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "350\u2009nl per min"
+    ],
+    "Comment[GradientTime]": [
+      "The total duration of the run was 100\u2009min."
+    ],
+    "Comment[FractionationMethod]": [
+      "the recently described “loss-less” nano-fractionator"
+    ],
+    "Comment[NumberOfFractions]": [
+      "concatenated into 8 fractions"
+    ],
+    "Comment[Separation]": [
+      "Nanoflow LC–MS/MS analysis of tryptic peptides was conducted on a quadrupole Orbitrap mass spectrometer (Q Exactive HF, Thermo Fisher Scientific, Rockford, IL, USA) coupled to an EASYnLC 1200 ultra-high-pressure system (Thermo Fisher Scientific) via a nano-electrospray ion source."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Characteristics[Specimen]": [
+      "biopsies"
+    ]
+  }
+}

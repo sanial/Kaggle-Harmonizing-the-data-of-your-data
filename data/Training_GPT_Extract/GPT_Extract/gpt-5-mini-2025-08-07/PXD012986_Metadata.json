@@ -1,0 +1,872 @@
+{
+  "QExHF04026.raw": {
+    "Source Name": [
+      "gold standard spike-in sample set (GS)"
+    ],
+    "Assay Name": [
+      "gold standard spike-in sample set (GS)_QExHF04026.raw"
+    ],
+    "Raw Data File": [
+      "QExHF04026.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Frozen C2C12 cells"
+    ],
+    "Characteristics[Organism]": [
+      "whole mouse cell lysate"
+    ],
+    "Characteristics[MaterialType]": [
+      "C2C12 cell lysate"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "13 non-mouse proteins",
+      "the iRT kit provided by Biognosys"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digestion was carried out using trypsin (Serva, Heidelberg, Germany) at an enzyme to substrate ratio of approx. 1:27 at 37 °C overnight"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduction with dithiothreitol (DTT, final concentration of 5 mm) for 20 min at 56 °C"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with iodoacetamide (13.75 mm final concentration) at ambient temperature for 30 min in the dark"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "The GS consisted of five different samples"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "each sample was measured in triplicate in DDA and DIA mode using the same instrumental setup (nano-LC coupled to Q-Exactive HF)"
+    ],
+    "Comment[Instrument]": [
+      "transferred into a Q Exactive HF mass spectrometer (Thermo Fisher Scientific).",
+      "nano-LC coupled to Q-Exactive HF"
+    ],
+    "Comment[Separation]": [
+      "For LC separation the nanoHPLC system Ultimate 3000 (Thermo Fisher Scientific) was used with a PepMap 100 C18 (100 μm ID × 2 cm, particle size 5 μm, pore size 100 Å; Thermo Fisher Scientific) as precolumn and a PepMap C18 (75 μm × 50 cm, particle size 2 μm, pore size 100 Å; Thermo Fisher Scientific) as analytical column."
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were separated by a 120 min gradient using 0.1% formic acid (FA) as buffer A and 84% ACN in 0.1% FA as buffer B."
+    ],
+    "Comment[IonizationType]": [
+      "electrospray ionization"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Fragment analysis (MS2) was subdivided into 22 DIA isolation windows of equal width (49 m/z wide) using a resolution of 30,000 at 200 m/z (AGC 3 × 106, auto maximum injection time)."
+    ],
+    "Comment[CollisionEnergy]": [
+      "Stepped collision energy was used (25.5%, 27 and 30% NCE)."
+    ]
+  },
+  "QExHF04032.raw": {
+    "Source Name": [
+      "gold standard spike-in sample set (GS)"
+    ],
+    "Assay Name": [
+      "gold standard spike-in sample set (GS)_QExHF04032.raw"
+    ],
+    "Raw Data File": [
+      "QExHF04032.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Frozen C2C12 cells"
+    ],
+    "Characteristics[Organism]": [
+      "whole mouse cell lysate"
+    ],
+    "Characteristics[MaterialType]": [
+      "C2C12 cell lysate"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "13 non-mouse proteins",
+      "the iRT kit provided by Biognosys"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digestion was carried out using trypsin (Serva, Heidelberg, Germany) at an enzyme to substrate ratio of approx. 1:27 at 37 °C overnight"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduction with dithiothreitol (DTT, final concentration of 5 mm) for 20 min at 56 °C"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with iodoacetamide (13.75 mm final concentration) at ambient temperature for 30 min in the dark"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "The GS consisted of five different samples"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "each sample was measured in triplicate in DDA and DIA mode using the same instrumental setup (nano-LC coupled to Q-Exactive HF)"
+    ],
+    "Comment[Instrument]": [
+      "transferred into a Q Exactive HF mass spectrometer (Thermo Fisher Scientific).",
+      "nano-LC coupled to Q-Exactive HF"
+    ],
+    "Comment[Separation]": [
+      "For LC separation the nanoHPLC system Ultimate 3000 (Thermo Fisher Scientific) was used with a PepMap 100 C18 (100 μm ID × 2 cm, particle size 5 μm, pore size 100 Å; Thermo Fisher Scientific) as precolumn and a PepMap C18 (75 μm × 50 cm, particle size 2 μm, pore size 100 Å; Thermo Fisher Scientific) as analytical column."
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were separated by a 120 min gradient using 0.1% formic acid (FA) as buffer A and 84% ACN in 0.1% FA as buffer B."
+    ],
+    "Comment[IonizationType]": [
+      "electrospray ionization"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Fragment analysis (MS2) was subdivided into 22 DIA isolation windows of equal width (49 m/z wide) using a resolution of 30,000 at 200 m/z (AGC 3 × 106, auto maximum injection time)."
+    ],
+    "Comment[CollisionEnergy]": [
+      "Stepped collision energy was used (25.5%, 27 and 30% NCE)."
+    ]
+  },
+  "QExHF04050.raw": {
+    "Source Name": [
+      "gold standard spike-in sample set (GS)"
+    ],
+    "Assay Name": [
+      "gold standard spike-in sample set (GS)_QExHF04050.raw"
+    ],
+    "Raw Data File": [
+      "QExHF04050.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Frozen C2C12 cells"
+    ],
+    "Characteristics[Organism]": [
+      "whole mouse cell lysate"
+    ],
+    "Characteristics[MaterialType]": [
+      "C2C12 cell lysate"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "13 non-mouse proteins",
+      "the iRT kit provided by Biognosys"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digestion was carried out using trypsin (Serva, Heidelberg, Germany) at an enzyme to substrate ratio of approx. 1:27 at 37 °C overnight"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduction with dithiothreitol (DTT, final concentration of 5 mm) for 20 min at 56 °C"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with iodoacetamide (13.75 mm final concentration) at ambient temperature for 30 min in the dark"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "The GS consisted of five different samples"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "each sample was measured in triplicate in DDA and DIA mode using the same instrumental setup (nano-LC coupled to Q-Exactive HF)"
+    ],
+    "Comment[Instrument]": [
+      "transferred into a Q Exactive HF mass spectrometer (Thermo Fisher Scientific).",
+      "nano-LC coupled to Q-Exactive HF"
+    ],
+    "Comment[Separation]": [
+      "For LC separation the nanoHPLC system Ultimate 3000 (Thermo Fisher Scientific) was used with a PepMap 100 C18 (100 μm ID × 2 cm, particle size 5 μm, pore size 100 Å; Thermo Fisher Scientific) as precolumn and a PepMap C18 (75 μm × 50 cm, particle size 2 μm, pore size 100 Å; Thermo Fisher Scientific) as analytical column."
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were separated by a 120 min gradient using 0.1% formic acid (FA) as buffer A and 84% ACN in 0.1% FA as buffer B."
+    ],
+    "Comment[IonizationType]": [
+      "electrospray ionization"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Fragment analysis (MS2) was subdivided into 22 DIA isolation windows of equal width (49 m/z wide) using a resolution of 30,000 at 200 m/z (AGC 3 × 106, auto maximum injection time)."
+    ],
+    "Comment[CollisionEnergy]": [
+      "Stepped collision energy was used (25.5%, 27 and 30% NCE)."
+    ]
+  },
+  "QExHF04036.raw": {
+    "Source Name": [
+      "gold standard spike-in sample set (GS)"
+    ],
+    "Assay Name": [
+      "gold standard spike-in sample set (GS)_QExHF04036.raw"
+    ],
+    "Raw Data File": [
+      "QExHF04036.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Frozen C2C12 cells"
+    ],
+    "Characteristics[Organism]": [
+      "whole mouse cell lysate"
+    ],
+    "Characteristics[MaterialType]": [
+      "C2C12 cell lysate"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "13 non-mouse proteins",
+      "the iRT kit provided by Biognosys"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digestion was carried out using trypsin (Serva, Heidelberg, Germany) at an enzyme to substrate ratio of approx. 1:27 at 37 °C overnight"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduction with dithiothreitol (DTT, final concentration of 5 mm) for 20 min at 56 °C"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with iodoacetamide (13.75 mm final concentration) at ambient temperature for 30 min in the dark"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "The GS consisted of five different samples"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "each sample was measured in triplicate in DDA and DIA mode using the same instrumental setup (nano-LC coupled to Q-Exactive HF)"
+    ],
+    "Comment[Instrument]": [
+      "transferred into a Q Exactive HF mass spectrometer (Thermo Fisher Scientific).",
+      "nano-LC coupled to Q-Exactive HF"
+    ],
+    "Comment[Separation]": [
+      "For LC separation the nanoHPLC system Ultimate 3000 (Thermo Fisher Scientific) was used with a PepMap 100 C18 (100 μm ID × 2 cm, particle size 5 μm, pore size 100 Å; Thermo Fisher Scientific) as precolumn and a PepMap C18 (75 μm × 50 cm, particle size 2 μm, pore size 100 Å; Thermo Fisher Scientific) as analytical column."
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were separated by a 120 min gradient using 0.1% formic acid (FA) as buffer A and 84% ACN in 0.1% FA as buffer B."
+    ],
+    "Comment[IonizationType]": [
+      "electrospray ionization"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Fragment analysis (MS2) was subdivided into 22 DIA isolation windows of equal width (49 m/z wide) using a resolution of 30,000 at 200 m/z (AGC 3 × 106, auto maximum injection time)."
+    ],
+    "Comment[CollisionEnergy]": [
+      "Stepped collision energy was used (25.5%, 27 and 30% NCE)."
+    ]
+  },
+  "QExHF04044.raw": {
+    "Source Name": [
+      "gold standard spike-in sample set (GS)"
+    ],
+    "Assay Name": [
+      "gold standard spike-in sample set (GS)_QExHF04044.raw"
+    ],
+    "Raw Data File": [
+      "QExHF04044.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Frozen C2C12 cells"
+    ],
+    "Characteristics[Organism]": [
+      "whole mouse cell lysate"
+    ],
+    "Characteristics[MaterialType]": [
+      "C2C12 cell lysate"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "13 non-mouse proteins",
+      "the iRT kit provided by Biognosys"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digestion was carried out using trypsin (Serva, Heidelberg, Germany) at an enzyme to substrate ratio of approx. 1:27 at 37 °C overnight"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduction with dithiothreitol (DTT, final concentration of 5 mm) for 20 min at 56 °C"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with iodoacetamide (13.75 mm final concentration) at ambient temperature for 30 min in the dark"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "The GS consisted of five different samples"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "each sample was measured in triplicate in DDA and DIA mode using the same instrumental setup (nano-LC coupled to Q-Exactive HF)"
+    ],
+    "Comment[Instrument]": [
+      "transferred into a Q Exactive HF mass spectrometer (Thermo Fisher Scientific).",
+      "nano-LC coupled to Q-Exactive HF"
+    ],
+    "Comment[Separation]": [
+      "For LC separation the nanoHPLC system Ultimate 3000 (Thermo Fisher Scientific) was used with a PepMap 100 C18 (100 μm ID × 2 cm, particle size 5 μm, pore size 100 Å; Thermo Fisher Scientific) as precolumn and a PepMap C18 (75 μm × 50 cm, particle size 2 μm, pore size 100 Å; Thermo Fisher Scientific) as analytical column."
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were separated by a 120 min gradient using 0.1% formic acid (FA) as buffer A and 84% ACN in 0.1% FA as buffer B."
+    ],
+    "Comment[IonizationType]": [
+      "electrospray ionization"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Fragment analysis (MS2) was subdivided into 22 DIA isolation windows of equal width (49 m/z wide) using a resolution of 30,000 at 200 m/z (AGC 3 × 106, auto maximum injection time)."
+    ],
+    "Comment[CollisionEnergy]": [
+      "Stepped collision energy was used (25.5%, 27 and 30% NCE)."
+    ]
+  },
+  "QExHF04028.raw": {
+    "Source Name": [
+      "gold standard spike-in sample set (GS)"
+    ],
+    "Assay Name": [
+      "gold standard spike-in sample set (GS)_QExHF04028.raw"
+    ],
+    "Raw Data File": [
+      "QExHF04028.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Frozen C2C12 cells"
+    ],
+    "Characteristics[Organism]": [
+      "whole mouse cell lysate"
+    ],
+    "Characteristics[MaterialType]": [
+      "C2C12 cell lysate"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "13 non-mouse proteins",
+      "the iRT kit provided by Biognosys"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digestion was carried out using trypsin (Serva, Heidelberg, Germany) at an enzyme to substrate ratio of approx. 1:27 at 37 °C overnight"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduction with dithiothreitol (DTT, final concentration of 5 mm) for 20 min at 56 °C"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with iodoacetamide (13.75 mm final concentration) at ambient temperature for 30 min in the dark"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "The GS consisted of five different samples"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "each sample was measured in triplicate in DDA and DIA mode using the same instrumental setup (nano-LC coupled to Q-Exactive HF)"
+    ],
+    "Comment[Instrument]": [
+      "transferred into a Q Exactive HF mass spectrometer (Thermo Fisher Scientific).",
+      "nano-LC coupled to Q-Exactive HF"
+    ],
+    "Comment[Separation]": [
+      "For LC separation the nanoHPLC system Ultimate 3000 (Thermo Fisher Scientific) was used with a PepMap 100 C18 (100 μm ID × 2 cm, particle size 5 μm, pore size 100 Å; Thermo Fisher Scientific) as precolumn and a PepMap C18 (75 μm × 50 cm, particle size 2 μm, pore size 100 Å; Thermo Fisher Scientific) as analytical column."
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were separated by a 120 min gradient using 0.1% formic acid (FA) as buffer A and 84% ACN in 0.1% FA as buffer B."
+    ],
+    "Comment[IonizationType]": [
+      "electrospray ionization"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Fragment analysis (MS2) was subdivided into 22 DIA isolation windows of equal width (49 m/z wide) using a resolution of 30,000 at 200 m/z (AGC 3 × 106, auto maximum injection time)."
+    ],
+    "Comment[CollisionEnergy]": [
+      "Stepped collision energy was used (25.5%, 27 and 30% NCE)."
+    ]
+  },
+  "QExHF04034.raw": {
+    "Source Name": [
+      "gold standard spike-in sample set (GS)"
+    ],
+    "Assay Name": [
+      "gold standard spike-in sample set (GS)_QExHF04034.raw"
+    ],
+    "Raw Data File": [
+      "QExHF04034.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Frozen C2C12 cells"
+    ],
+    "Characteristics[Organism]": [
+      "whole mouse cell lysate"
+    ],
+    "Characteristics[MaterialType]": [
+      "C2C12 cell lysate"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "13 non-mouse proteins",
+      "the iRT kit provided by Biognosys"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digestion was carried out using trypsin (Serva, Heidelberg, Germany) at an enzyme to substrate ratio of approx. 1:27 at 37 °C overnight"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduction with dithiothreitol (DTT, final concentration of 5 mm) for 20 min at 56 °C"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with iodoacetamide (13.75 mm final concentration) at ambient temperature for 30 min in the dark"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "The GS consisted of five different samples"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "each sample was measured in triplicate in DDA and DIA mode using the same instrumental setup (nano-LC coupled to Q-Exactive HF)"
+    ],
+    "Comment[Instrument]": [
+      "transferred into a Q Exactive HF mass spectrometer (Thermo Fisher Scientific).",
+      "nano-LC coupled to Q-Exactive HF"
+    ],
+    "Comment[Separation]": [
+      "For LC separation the nanoHPLC system Ultimate 3000 (Thermo Fisher Scientific) was used with a PepMap 100 C18 (100 μm ID × 2 cm, particle size 5 μm, pore size 100 Å; Thermo Fisher Scientific) as precolumn and a PepMap C18 (75 μm × 50 cm, particle size 2 μm, pore size 100 Å; Thermo Fisher Scientific) as analytical column."
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were separated by a 120 min gradient using 0.1% formic acid (FA) as buffer A and 84% ACN in 0.1% FA as buffer B."
+    ],
+    "Comment[IonizationType]": [
+      "electrospray ionization"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Fragment analysis (MS2) was subdivided into 22 DIA isolation windows of equal width (49 m/z wide) using a resolution of 30,000 at 200 m/z (AGC 3 × 106, auto maximum injection time)."
+    ],
+    "Comment[CollisionEnergy]": [
+      "Stepped collision energy was used (25.5%, 27 and 30% NCE)."
+    ]
+  },
+  "QExHF04048.raw": {
+    "Source Name": [
+      "gold standard spike-in sample set (GS)"
+    ],
+    "Assay Name": [
+      "gold standard spike-in sample set (GS)_QExHF04048.raw"
+    ],
+    "Raw Data File": [
+      "QExHF04048.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Frozen C2C12 cells"
+    ],
+    "Characteristics[Organism]": [
+      "whole mouse cell lysate"
+    ],
+    "Characteristics[MaterialType]": [
+      "C2C12 cell lysate"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "13 non-mouse proteins",
+      "the iRT kit provided by Biognosys"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digestion was carried out using trypsin (Serva, Heidelberg, Germany) at an enzyme to substrate ratio of approx. 1:27 at 37 °C overnight"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduction with dithiothreitol (DTT, final concentration of 5 mm) for 20 min at 56 °C"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with iodoacetamide (13.75 mm final concentration) at ambient temperature for 30 min in the dark"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "The GS consisted of five different samples"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "each sample was measured in triplicate in DDA and DIA mode using the same instrumental setup (nano-LC coupled to Q-Exactive HF)"
+    ],
+    "Comment[Instrument]": [
+      "transferred into a Q Exactive HF mass spectrometer (Thermo Fisher Scientific).",
+      "nano-LC coupled to Q-Exactive HF"
+    ],
+    "Comment[Separation]": [
+      "For LC separation the nanoHPLC system Ultimate 3000 (Thermo Fisher Scientific) was used with a PepMap 100 C18 (100 μm ID × 2 cm, particle size 5 μm, pore size 100 Å; Thermo Fisher Scientific) as precolumn and a PepMap C18 (75 μm × 50 cm, particle size 2 μm, pore size 100 Å; Thermo Fisher Scientific) as analytical column."
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were separated by a 120 min gradient using 0.1% formic acid (FA) as buffer A and 84% ACN in 0.1% FA as buffer B."
+    ],
+    "Comment[IonizationType]": [
+      "electrospray ionization"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Fragment analysis (MS2) was subdivided into 22 DIA isolation windows of equal width (49 m/z wide) using a resolution of 30,000 at 200 m/z (AGC 3 × 106, auto maximum injection time)."
+    ],
+    "Comment[CollisionEnergy]": [
+      "Stepped collision energy was used (25.5%, 27 and 30% NCE)."
+    ]
+  },
+  "QExHF04046.raw": {
+    "Source Name": [
+      "gold standard spike-in sample set (GS)"
+    ],
+    "Assay Name": [
+      "gold standard spike-in sample set (GS)_QExHF04046.raw"
+    ],
+    "Raw Data File": [
+      "QExHF04046.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Frozen C2C12 cells"
+    ],
+    "Characteristics[Organism]": [
+      "whole mouse cell lysate"
+    ],
+    "Characteristics[MaterialType]": [
+      "C2C12 cell lysate"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "13 non-mouse proteins",
+      "the iRT kit provided by Biognosys"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digestion was carried out using trypsin (Serva, Heidelberg, Germany) at an enzyme to substrate ratio of approx. 1:27 at 37 °C overnight"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduction with dithiothreitol (DTT, final concentration of 5 mm) for 20 min at 56 °C"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with iodoacetamide (13.75 mm final concentration) at ambient temperature for 30 min in the dark"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "The GS consisted of five different samples"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "each sample was measured in triplicate in DDA and DIA mode using the same instrumental setup (nano-LC coupled to Q-Exactive HF)"
+    ],
+    "Comment[Instrument]": [
+      "transferred into a Q Exactive HF mass spectrometer (Thermo Fisher Scientific).",
+      "nano-LC coupled to Q-Exactive HF"
+    ],
+    "Comment[Separation]": [
+      "For LC separation the nanoHPLC system Ultimate 3000 (Thermo Fisher Scientific) was used with a PepMap 100 C18 (100 μm ID × 2 cm, particle size 5 μm, pore size 100 Å; Thermo Fisher Scientific) as precolumn and a PepMap C18 (75 μm × 50 cm, particle size 2 μm, pore size 100 Å; Thermo Fisher Scientific) as analytical column."
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were separated by a 120 min gradient using 0.1% formic acid (FA) as buffer A and 84% ACN in 0.1% FA as buffer B."
+    ],
+    "Comment[IonizationType]": [
+      "electrospray ionization"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Fragment analysis (MS2) was subdivided into 22 DIA isolation windows of equal width (49 m/z wide) using a resolution of 30,000 at 200 m/z (AGC 3 × 106, auto maximum injection time)."
+    ],
+    "Comment[CollisionEnergy]": [
+      "Stepped collision energy was used (25.5%, 27 and 30% NCE)."
+    ]
+  },
+  "QExHF04038.raw": {
+    "Source Name": [
+      "gold standard spike-in sample set (GS)"
+    ],
+    "Assay Name": [
+      "gold standard spike-in sample set (GS)_QExHF04038.raw"
+    ],
+    "Raw Data File": [
+      "QExHF04038.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Frozen C2C12 cells"
+    ],
+    "Characteristics[Organism]": [
+      "whole mouse cell lysate"
+    ],
+    "Characteristics[MaterialType]": [
+      "C2C12 cell lysate"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "13 non-mouse proteins",
+      "the iRT kit provided by Biognosys"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digestion was carried out using trypsin (Serva, Heidelberg, Germany) at an enzyme to substrate ratio of approx. 1:27 at 37 °C overnight"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduction with dithiothreitol (DTT, final concentration of 5 mm) for 20 min at 56 °C"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with iodoacetamide (13.75 mm final concentration) at ambient temperature for 30 min in the dark"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "The GS consisted of five different samples"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "each sample was measured in triplicate in DDA and DIA mode using the same instrumental setup (nano-LC coupled to Q-Exactive HF)"
+    ],
+    "Comment[Instrument]": [
+      "transferred into a Q Exactive HF mass spectrometer (Thermo Fisher Scientific).",
+      "nano-LC coupled to Q-Exactive HF"
+    ],
+    "Comment[Separation]": [
+      "For LC separation the nanoHPLC system Ultimate 3000 (Thermo Fisher Scientific) was used with a PepMap 100 C18 (100 μm ID × 2 cm, particle size 5 μm, pore size 100 Å; Thermo Fisher Scientific) as precolumn and a PepMap C18 (75 μm × 50 cm, particle size 2 μm, pore size 100 Å; Thermo Fisher Scientific) as analytical column."
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were separated by a 120 min gradient using 0.1% formic acid (FA) as buffer A and 84% ACN in 0.1% FA as buffer B."
+    ],
+    "Comment[IonizationType]": [
+      "electrospray ionization"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Fragment analysis (MS2) was subdivided into 22 DIA isolation windows of equal width (49 m/z wide) using a resolution of 30,000 at 200 m/z (AGC 3 × 106, auto maximum injection time)."
+    ],
+    "Comment[CollisionEnergy]": [
+      "Stepped collision energy was used (25.5%, 27 and 30% NCE)."
+    ]
+  },
+  "QExHF04030.raw": {
+    "Source Name": [
+      "gold standard spike-in sample set (GS)"
+    ],
+    "Assay Name": [
+      "gold standard spike-in sample set (GS)_QExHF04030.raw"
+    ],
+    "Raw Data File": [
+      "QExHF04030.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Frozen C2C12 cells"
+    ],
+    "Characteristics[Organism]": [
+      "whole mouse cell lysate"
+    ],
+    "Characteristics[MaterialType]": [
+      "C2C12 cell lysate"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "13 non-mouse proteins",
+      "the iRT kit provided by Biognosys"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digestion was carried out using trypsin (Serva, Heidelberg, Germany) at an enzyme to substrate ratio of approx. 1:27 at 37 °C overnight"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduction with dithiothreitol (DTT, final concentration of 5 mm) for 20 min at 56 °C"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with iodoacetamide (13.75 mm final concentration) at ambient temperature for 30 min in the dark"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "The GS consisted of five different samples"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "each sample was measured in triplicate in DDA and DIA mode using the same instrumental setup (nano-LC coupled to Q-Exactive HF)"
+    ],
+    "Comment[Instrument]": [
+      "transferred into a Q Exactive HF mass spectrometer (Thermo Fisher Scientific).",
+      "nano-LC coupled to Q-Exactive HF"
+    ],
+    "Comment[Separation]": [
+      "For LC separation the nanoHPLC system Ultimate 3000 (Thermo Fisher Scientific) was used with a PepMap 100 C18 (100 μm ID × 2 cm, particle size 5 μm, pore size 100 Å; Thermo Fisher Scientific) as precolumn and a PepMap C18 (75 μm × 50 cm, particle size 2 μm, pore size 100 Å; Thermo Fisher Scientific) as analytical column."
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were separated by a 120 min gradient using 0.1% formic acid (FA) as buffer A and 84% ACN in 0.1% FA as buffer B."
+    ],
+    "Comment[IonizationType]": [
+      "electrospray ionization"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Fragment analysis (MS2) was subdivided into 22 DIA isolation windows of equal width (49 m/z wide) using a resolution of 30,000 at 200 m/z (AGC 3 × 106, auto maximum injection time)."
+    ],
+    "Comment[CollisionEnergy]": [
+      "Stepped collision energy was used (25.5%, 27 and 30% NCE)."
+    ]
+  },
+  "QExHF04040.raw": {
+    "Source Name": [
+      "gold standard spike-in sample set (GS)"
+    ],
+    "Assay Name": [
+      "gold standard spike-in sample set (GS)_QExHF04040.raw"
+    ],
+    "Raw Data File": [
+      "QExHF04040.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Frozen C2C12 cells"
+    ],
+    "Characteristics[Organism]": [
+      "whole mouse cell lysate"
+    ],
+    "Characteristics[MaterialType]": [
+      "C2C12 cell lysate"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "13 non-mouse proteins",
+      "the iRT kit provided by Biognosys"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digestion was carried out using trypsin (Serva, Heidelberg, Germany) at an enzyme to substrate ratio of approx. 1:27 at 37 °C overnight"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduction with dithiothreitol (DTT, final concentration of 5 mm) for 20 min at 56 °C"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with iodoacetamide (13.75 mm final concentration) at ambient temperature for 30 min in the dark"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "The GS consisted of five different samples"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "each sample was measured in triplicate in DDA and DIA mode using the same instrumental setup (nano-LC coupled to Q-Exactive HF)"
+    ],
+    "Comment[Instrument]": [
+      "transferred into a Q Exactive HF mass spectrometer (Thermo Fisher Scientific).",
+      "nano-LC coupled to Q-Exactive HF"
+    ],
+    "Comment[Separation]": [
+      "For LC separation the nanoHPLC system Ultimate 3000 (Thermo Fisher Scientific) was used with a PepMap 100 C18 (100 μm ID × 2 cm, particle size 5 μm, pore size 100 Å; Thermo Fisher Scientific) as precolumn and a PepMap C18 (75 μm × 50 cm, particle size 2 μm, pore size 100 Å; Thermo Fisher Scientific) as analytical column."
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were separated by a 120 min gradient using 0.1% formic acid (FA) as buffer A and 84% ACN in 0.1% FA as buffer B."
+    ],
+    "Comment[IonizationType]": [
+      "electrospray ionization"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Fragment analysis (MS2) was subdivided into 22 DIA isolation windows of equal width (49 m/z wide) using a resolution of 30,000 at 200 m/z (AGC 3 × 106, auto maximum injection time)."
+    ],
+    "Comment[CollisionEnergy]": [
+      "Stepped collision energy was used (25.5%, 27 and 30% NCE)."
+    ]
+  },
+  "QExHF04052.raw": {
+    "Source Name": [
+      "gold standard spike-in sample set (GS)"
+    ],
+    "Assay Name": [
+      "gold standard spike-in sample set (GS)_QExHF04052.raw"
+    ],
+    "Raw Data File": [
+      "QExHF04052.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Frozen C2C12 cells"
+    ],
+    "Characteristics[Organism]": [
+      "whole mouse cell lysate"
+    ],
+    "Characteristics[MaterialType]": [
+      "C2C12 cell lysate"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "13 non-mouse proteins",
+      "the iRT kit provided by Biognosys"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digestion was carried out using trypsin (Serva, Heidelberg, Germany) at an enzyme to substrate ratio of approx. 1:27 at 37 °C overnight"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduction with dithiothreitol (DTT, final concentration of 5 mm) for 20 min at 56 °C"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with iodoacetamide (13.75 mm final concentration) at ambient temperature for 30 min in the dark"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "The GS consisted of five different samples"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "each sample was measured in triplicate in DDA and DIA mode using the same instrumental setup (nano-LC coupled to Q-Exactive HF)"
+    ],
+    "Comment[Instrument]": [
+      "transferred into a Q Exactive HF mass spectrometer (Thermo Fisher Scientific).",
+      "nano-LC coupled to Q-Exactive HF"
+    ],
+    "Comment[Separation]": [
+      "For LC separation the nanoHPLC system Ultimate 3000 (Thermo Fisher Scientific) was used with a PepMap 100 C18 (100 μm ID × 2 cm, particle size 5 μm, pore size 100 Å; Thermo Fisher Scientific) as precolumn and a PepMap C18 (75 μm × 50 cm, particle size 2 μm, pore size 100 Å; Thermo Fisher Scientific) as analytical column."
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were separated by a 120 min gradient using 0.1% formic acid (FA) as buffer A and 84% ACN in 0.1% FA as buffer B."
+    ],
+    "Comment[IonizationType]": [
+      "electrospray ionization"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Fragment analysis (MS2) was subdivided into 22 DIA isolation windows of equal width (49 m/z wide) using a resolution of 30,000 at 200 m/z (AGC 3 × 106, auto maximum injection time)."
+    ],
+    "Comment[CollisionEnergy]": [
+      "Stepped collision energy was used (25.5%, 27 and 30% NCE)."
+    ]
+  },
+  "QExHF04054.raw": {
+    "Source Name": [
+      "gold standard spike-in sample set (GS)"
+    ],
+    "Assay Name": [
+      "gold standard spike-in sample set (GS)_QExHF04054.raw"
+    ],
+    "Raw Data File": [
+      "QExHF04054.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Frozen C2C12 cells"
+    ],
+    "Characteristics[Organism]": [
+      "whole mouse cell lysate"
+    ],
+    "Characteristics[MaterialType]": [
+      "C2C12 cell lysate"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "13 non-mouse proteins",
+      "the iRT kit provided by Biognosys"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digestion was carried out using trypsin (Serva, Heidelberg, Germany) at an enzyme to substrate ratio of approx. 1:27 at 37 °C overnight"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduction with dithiothreitol (DTT, final concentration of 5 mm) for 20 min at 56 °C"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with iodoacetamide (13.75 mm final concentration) at ambient temperature for 30 min in the dark"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "The GS consisted of five different samples"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "each sample was measured in triplicate in DDA and DIA mode using the same instrumental setup (nano-LC coupled to Q-Exactive HF)"
+    ],
+    "Comment[Instrument]": [
+      "transferred into a Q Exactive HF mass spectrometer (Thermo Fisher Scientific).",
+      "nano-LC coupled to Q-Exactive HF"
+    ],
+    "Comment[Separation]": [
+      "For LC separation the nanoHPLC system Ultimate 3000 (Thermo Fisher Scientific) was used with a PepMap 100 C18 (100 μm ID × 2 cm, particle size 5 μm, pore size 100 Å; Thermo Fisher Scientific) as precolumn and a PepMap C18 (75 μm × 50 cm, particle size 2 μm, pore size 100 Å; Thermo Fisher Scientific) as analytical column."
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were separated by a 120 min gradient using 0.1% formic acid (FA) as buffer A and 84% ACN in 0.1% FA as buffer B."
+    ],
+    "Comment[IonizationType]": [
+      "electrospray ionization"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Fragment analysis (MS2) was subdivided into 22 DIA isolation windows of equal width (49 m/z wide) using a resolution of 30,000 at 200 m/z (AGC 3 × 106, auto maximum injection time)."
+    ],
+    "Comment[CollisionEnergy]": [
+      "Stepped collision energy was used (25.5%, 27 and 30% NCE)."
+    ]
+  },
+  "QExHF04042.raw": {
+    "Source Name": [
+      "gold standard spike-in sample set (GS)"
+    ],
+    "Assay Name": [
+      "gold standard spike-in sample set (GS)_QExHF04042.raw"
+    ],
+    "Raw Data File": [
+      "QExHF04042.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Frozen C2C12 cells"
+    ],
+    "Characteristics[Organism]": [
+      "whole mouse cell lysate"
+    ],
+    "Characteristics[MaterialType]": [
+      "C2C12 cell lysate"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "13 non-mouse proteins",
+      "the iRT kit provided by Biognosys"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digestion was carried out using trypsin (Serva, Heidelberg, Germany) at an enzyme to substrate ratio of approx. 1:27 at 37 °C overnight"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduction with dithiothreitol (DTT, final concentration of 5 mm) for 20 min at 56 °C"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylated with iodoacetamide (13.75 mm final concentration) at ambient temperature for 30 min in the dark"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "The GS consisted of five different samples"
+    ],
+    "Characteristics[NumberOfTechnicalReplicates]": [
+      "each sample was measured in triplicate in DDA and DIA mode using the same instrumental setup (nano-LC coupled to Q-Exactive HF)"
+    ],
+    "Comment[Instrument]": [
+      "transferred into a Q Exactive HF mass spectrometer (Thermo Fisher Scientific).",
+      "nano-LC coupled to Q-Exactive HF"
+    ],
+    "Comment[Separation]": [
+      "For LC separation the nanoHPLC system Ultimate 3000 (Thermo Fisher Scientific) was used with a PepMap 100 C18 (100 μm ID × 2 cm, particle size 5 μm, pore size 100 Å; Thermo Fisher Scientific) as precolumn and a PepMap C18 (75 μm × 50 cm, particle size 2 μm, pore size 100 Å; Thermo Fisher Scientific) as analytical column."
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were separated by a 120 min gradient using 0.1% formic acid (FA) as buffer A and 84% ACN in 0.1% FA as buffer B."
+    ],
+    "Comment[IonizationType]": [
+      "electrospray ionization"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Fragment analysis (MS2) was subdivided into 22 DIA isolation windows of equal width (49 m/z wide) using a resolution of 30,000 at 200 m/z (AGC 3 × 106, auto maximum injection time)."
+    ],
+    "Comment[CollisionEnergy]": [
+      "Stepped collision energy was used (25.5%, 27 and 30% NCE)."
+    ]
+  }
+}

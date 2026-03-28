@@ -1,0 +1,46 @@
+SourceName: Polycythemia Vera Patients  
+SourceName: Healthy Controls  
+MaterialType: Extracellular vesicles (EVs)  
+MaterialType: exosomes  
+MaterialType: microvesicles  
+OrganismPart: serum  
+Disease: polycythemia vera (PV)  
+AssayName: Multiple Enzyme Filter Aided Sample Preparation approach (MED-FASP)  
+AssayName: LC-MS/MS measurements  
+Instrument: Q-Exactive HF-X mass spectrometer  
+AssayName: Total Protein Approach (TPA)  
+NumberOfSamples: In total, 18 samples were collected  
+Temperature: room temperature  
+SamplingTime: 30 min  
+SamplingTime: 10 min  
+Temperature: −80 °C  
+Temperature: 4 °C  
+Compound: PBS buffer  
+Compound: 100 mM Tris-HCl pH 8  
+Compound: 1% SDS  
+ReductionReagent: 50 mM DTT  
+Temperature: 95 °C  
+AssayName: Multi-Enzyme Digestion Filter Aided Sample Preparation  
+ConcentrationOfCompound: 100 µg of total protein  
+Compound: UA buffer (8 M urea in 100 mM Tris-HCl pH 8.5)  
+AlkylationReagent: 55 mM iodoacetamide solution  
+Compound: 50 mM Tris-HCl  
+CleavageAgent: LysC  
+CleavageAgent: trypsin  
+CleavageAgent: chymotrypsin  
+Compound: 10 mM CaCl2 in 100 mM Tris-HCl pH 7.8  
+Temperature: 37 °C  
+EnrichmentMethod: STAGE (STop And Go Extraction) TIPS procedure  
+Compound: 60% acetonitrile/1% acetic acid solution  
+Instrument: QExactive HF-X mass spectrometer  
+Separation: nanoLC  
+FlowRateChromatogram: 300 nL/min  
+GradientTime: 95 min  
+Separation: acetonitrile gradient of 5–30%  
+Temperature: 55 °C  
+PrecursorMassTolerance: 1.4 m/z  
+CollisionEnergy: normalized collision energies of 25  
+SamplingTime: 30 s  
+Modification: Carbamidomethylation  
+NumberOfMissedCleavages: two  
+SupplementaryFile: PXD013234

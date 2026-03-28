@@ -1,0 +1,2338 @@
+{
+  "20131023_EXQ8_HeSc_SA_FR2_young_11_1.raw": {
+    "Source Name": [
+      "young_11"
+    ],
+    "Assay Name": [
+      "young_11_FR2_1"
+    ],
+    "Raw Data File": [
+      "20131023_EXQ8_HeSc_SA_FR2_young_11_1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "C57BL/6 mice"
+    ],
+    "Characteristics[Specimen]": [
+      "total tissue (wet weight) of mouse lungs"
+    ],
+    "Characteristics[OrganismPart]": [
+      "whole lung tissue"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM CAA"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "four replicates"
+    ],
+    "FactorValue[Age]": [
+      "young (3 months)"
+    ],
+    "Comment[Instrument]": [
+      "Quadrupole/Orbitrap type Mass Spectrometer (Q-Exactive, Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "shotgun proteomics method",
+      "top10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 25%"
+    ],
+    "Comment[Separation]": [
+      "Reverse-phase chromatography was performed with an EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 250\u2009nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "a nonlinear 240\u2009min gradient of 5\u201360% buffer B (0.1% (v/v) formic acid, 80% (v/v) acetonitrile)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "a total of three soluble fractions and one insoluble pellet"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "up to 4.5\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "allowed fragment mass deviation of 20\u2009ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed in the database search."
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR2"
+    ]
+  },
+  "20131023_EXQ8_HeSc_SA_FR3_old_14_4.raw": {
+    "Source Name": [
+      "old_14"
+    ],
+    "Assay Name": [
+      "old_14_FR3_4"
+    ],
+    "Raw Data File": [
+      "20131023_EXQ8_HeSc_SA_FR3_old_14_4.raw"
+    ],
+    "Characteristics[Organism]": [
+      "C57BL/6 mice"
+    ],
+    "Characteristics[Specimen]": [
+      "total tissue (wet weight) of mouse lungs"
+    ],
+    "Characteristics[OrganismPart]": [
+      "whole lung tissue"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM CAA"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "four replicates"
+    ],
+    "FactorValue[Age]": [
+      "old mice (24 months)"
+    ],
+    "Comment[Instrument]": [
+      "Quadrupole/Orbitrap type Mass Spectrometer (Q-Exactive, Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "shotgun proteomics method",
+      "top10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 25%"
+    ],
+    "Comment[Separation]": [
+      "Reverse-phase chromatography was performed with an EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 250\u2009nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "a nonlinear 240\u2009min gradient of 5\u201360% buffer B (0.1% (v/v) formic acid, 80% (v/v) acetonitrile)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "a total of three soluble fractions and one insoluble pellet"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "up to 4.5\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "allowed fragment mass deviation of 20\u2009ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed in the database search."
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR3"
+    ]
+  },
+  "20131023_EXQ8_HeSc_SA_FR1_old_14_1.raw": {
+    "Source Name": [
+      "old_14"
+    ],
+    "Assay Name": [
+      "old_14_FR1_1"
+    ],
+    "Raw Data File": [
+      "20131023_EXQ8_HeSc_SA_FR1_old_14_1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "C57BL/6 mice"
+    ],
+    "Characteristics[Specimen]": [
+      "total tissue (wet weight) of mouse lungs"
+    ],
+    "Characteristics[OrganismPart]": [
+      "whole lung tissue"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM CAA"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "four replicates"
+    ],
+    "FactorValue[Age]": [
+      "old mice (24 months)"
+    ],
+    "Comment[Instrument]": [
+      "Quadrupole/Orbitrap type Mass Spectrometer (Q-Exactive, Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "shotgun proteomics method",
+      "top10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 25%"
+    ],
+    "Comment[Separation]": [
+      "Reverse-phase chromatography was performed with an EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 250\u2009nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "a nonlinear 240\u2009min gradient of 5\u201360% buffer B (0.1% (v/v) formic acid, 80% (v/v) acetonitrile)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "a total of three soluble fractions and one insoluble pellet"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "up to 4.5\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "allowed fragment mass deviation of 20\u2009ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed in the database search."
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR1"
+    ]
+  },
+  "20131023_EXQ8_HeSc_SA_FR1_old_14_4.raw": {
+    "Source Name": [
+      "old_14"
+    ],
+    "Assay Name": [
+      "old_14_FR1_4"
+    ],
+    "Raw Data File": [
+      "20131023_EXQ8_HeSc_SA_FR1_old_14_4.raw"
+    ],
+    "Characteristics[Organism]": [
+      "C57BL/6 mice"
+    ],
+    "Characteristics[Specimen]": [
+      "total tissue (wet weight) of mouse lungs"
+    ],
+    "Characteristics[OrganismPart]": [
+      "whole lung tissue"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM CAA"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "four replicates"
+    ],
+    "FactorValue[Age]": [
+      "old mice (24 months)"
+    ],
+    "Comment[Instrument]": [
+      "Quadrupole/Orbitrap type Mass Spectrometer (Q-Exactive, Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "shotgun proteomics method",
+      "top10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 25%"
+    ],
+    "Comment[Separation]": [
+      "Reverse-phase chromatography was performed with an EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 250\u2009nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "a nonlinear 240\u2009min gradient of 5\u201360% buffer B (0.1% (v/v) formic acid, 80% (v/v) acetonitrile)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "a total of three soluble fractions and one insoluble pellet"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "up to 4.5\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "allowed fragment mass deviation of 20\u2009ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed in the database search."
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR1"
+    ]
+  },
+  "20131023_EXQ8_HeSc_SA_FR1_young_11_2.raw": {
+    "Source Name": [
+      "young_11"
+    ],
+    "Assay Name": [
+      "young_11_FR1_2"
+    ],
+    "Raw Data File": [
+      "20131023_EXQ8_HeSc_SA_FR1_young_11_2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "C57BL/6 mice"
+    ],
+    "Characteristics[Specimen]": [
+      "total tissue (wet weight) of mouse lungs"
+    ],
+    "Characteristics[OrganismPart]": [
+      "whole lung tissue"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM CAA"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "four replicates"
+    ],
+    "FactorValue[Age]": [
+      "young (3 months)"
+    ],
+    "Comment[Instrument]": [
+      "Quadrupole/Orbitrap type Mass Spectrometer (Q-Exactive, Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "shotgun proteomics method",
+      "top10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 25%"
+    ],
+    "Comment[Separation]": [
+      "Reverse-phase chromatography was performed with an EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 250\u2009nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "a nonlinear 240\u2009min gradient of 5\u201360% buffer B (0.1% (v/v) formic acid, 80% (v/v) acetonitrile)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "a total of three soluble fractions and one insoluble pellet"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "up to 4.5\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "allowed fragment mass deviation of 20\u2009ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed in the database search."
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR1"
+    ]
+  },
+  "20131023_EXQ8_HeSc_SA_FR2_young_11_3.raw": {
+    "Source Name": [
+      "young_11"
+    ],
+    "Assay Name": [
+      "young_11_FR2_3"
+    ],
+    "Raw Data File": [
+      "20131023_EXQ8_HeSc_SA_FR2_young_11_3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "C57BL/6 mice"
+    ],
+    "Characteristics[Specimen]": [
+      "total tissue (wet weight) of mouse lungs"
+    ],
+    "Characteristics[OrganismPart]": [
+      "whole lung tissue"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM CAA"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "four replicates"
+    ],
+    "FactorValue[Age]": [
+      "young (3 months)"
+    ],
+    "Comment[Instrument]": [
+      "Quadrupole/Orbitrap type Mass Spectrometer (Q-Exactive, Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "shotgun proteomics method",
+      "top10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 25%"
+    ],
+    "Comment[Separation]": [
+      "Reverse-phase chromatography was performed with an EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 250\u2009nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "a nonlinear 240\u2009min gradient of 5\u201360% buffer B (0.1% (v/v) formic acid, 80% (v/v) acetonitrile)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "a total of three soluble fractions and one insoluble pellet"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "up to 4.5\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "allowed fragment mass deviation of 20\u2009ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed in the database search."
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR2"
+    ]
+  },
+  "20131023_EXQ8_HeSc_SA_FR2_young_11_2.raw": {
+    "Source Name": [
+      "young_11"
+    ],
+    "Assay Name": [
+      "young_11_FR2_2"
+    ],
+    "Raw Data File": [
+      "20131023_EXQ8_HeSc_SA_FR2_young_11_2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "C57BL/6 mice"
+    ],
+    "Characteristics[Specimen]": [
+      "total tissue (wet weight) of mouse lungs"
+    ],
+    "Characteristics[OrganismPart]": [
+      "whole lung tissue"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM CAA"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "four replicates"
+    ],
+    "FactorValue[Age]": [
+      "young (3 months)"
+    ],
+    "Comment[Instrument]": [
+      "Quadrupole/Orbitrap type Mass Spectrometer (Q-Exactive, Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "shotgun proteomics method",
+      "top10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 25%"
+    ],
+    "Comment[Separation]": [
+      "Reverse-phase chromatography was performed with an EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 250\u2009nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "a nonlinear 240\u2009min gradient of 5\u201360% buffer B (0.1% (v/v) formic acid, 80% (v/v) acetonitrile)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "a total of three soluble fractions and one insoluble pellet"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "up to 4.5\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "allowed fragment mass deviation of 20\u2009ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed in the database search."
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR2"
+    ]
+  },
+  "20131023_EXQ8_HeSc_SA_FR1_old_14_2.raw": {
+    "Source Name": [
+      "old_14"
+    ],
+    "Assay Name": [
+      "old_14_FR1_2"
+    ],
+    "Raw Data File": [
+      "20131023_EXQ8_HeSc_SA_FR1_old_14_2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "C57BL/6 mice"
+    ],
+    "Characteristics[Specimen]": [
+      "total tissue (wet weight) of mouse lungs"
+    ],
+    "Characteristics[OrganismPart]": [
+      "whole lung tissue"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM CAA"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "four replicates"
+    ],
+    "FactorValue[Age]": [
+      "old mice (24 months)"
+    ],
+    "Comment[Instrument]": [
+      "Quadrupole/Orbitrap type Mass Spectrometer (Q-Exactive, Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "shotgun proteomics method",
+      "top10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 25%"
+    ],
+    "Comment[Separation]": [
+      "Reverse-phase chromatography was performed with an EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 250\u2009nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "a nonlinear 240\u2009min gradient of 5\u201360% buffer B (0.1% (v/v) formic acid, 80% (v/v) acetonitrile)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "a total of three soluble fractions and one insoluble pellet"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "up to 4.5\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "allowed fragment mass deviation of 20\u2009ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed in the database search."
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR1"
+    ]
+  },
+  "20131023_EXQ8_HeSc_SA_FR3_young_11_4.raw": {
+    "Source Name": [
+      "young_11"
+    ],
+    "Assay Name": [
+      "young_11_FR3_4"
+    ],
+    "Raw Data File": [
+      "20131023_EXQ8_HeSc_SA_FR3_young_11_4.raw"
+    ],
+    "Characteristics[Organism]": [
+      "C57BL/6 mice"
+    ],
+    "Characteristics[Specimen]": [
+      "total tissue (wet weight) of mouse lungs"
+    ],
+    "Characteristics[OrganismPart]": [
+      "whole lung tissue"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM CAA"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "four replicates"
+    ],
+    "FactorValue[Age]": [
+      "young (3 months)"
+    ],
+    "Comment[Instrument]": [
+      "Quadrupole/Orbitrap type Mass Spectrometer (Q-Exactive, Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "shotgun proteomics method",
+      "top10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 25%"
+    ],
+    "Comment[Separation]": [
+      "Reverse-phase chromatography was performed with an EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 250\u2009nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "a nonlinear 240\u2009min gradient of 5\u201360% buffer B (0.1% (v/v) formic acid, 80% (v/v) acetonitrile)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "a total of three soluble fractions and one insoluble pellet"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "up to 4.5\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "allowed fragment mass deviation of 20\u2009ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed in the database search."
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR3"
+    ]
+  },
+  "20131023_EXQ8_HeSc_SA_ECM_old_14_1.raw": {
+    "Source Name": [
+      "old_14"
+    ],
+    "Assay Name": [
+      "old_14_ECM_1"
+    ],
+    "Raw Data File": [
+      "20131023_EXQ8_HeSc_SA_ECM_old_14_1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "C57BL/6 mice"
+    ],
+    "Characteristics[Specimen]": [
+      "total tissue (wet weight) of mouse lungs"
+    ],
+    "Characteristics[OrganismPart]": [
+      "whole lung tissue"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM CAA"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "four replicates"
+    ],
+    "FactorValue[Age]": [
+      "old mice (24 months)"
+    ],
+    "Comment[Instrument]": [
+      "Quadrupole/Orbitrap type Mass Spectrometer (Q-Exactive, Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "shotgun proteomics method",
+      "top10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 25%"
+    ],
+    "Comment[Separation]": [
+      "Reverse-phase chromatography was performed with an EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 250\u2009nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "a nonlinear 240\u2009min gradient of 5\u201360% buffer B (0.1% (v/v) formic acid, 80% (v/v) acetonitrile)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "a total of three soluble fractions and one insoluble pellet"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "up to 4.5\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "allowed fragment mass deviation of 20\u2009ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed in the database search."
+    ],
+    "Comment[FractionIdentifier]": [
+      "ECM"
+    ]
+  },
+  "20131023_EXQ8_HeSc_SA_ECM_young_11_3.raw": {
+    "Source Name": [
+      "young_11"
+    ],
+    "Assay Name": [
+      "young_11_ECM_3"
+    ],
+    "Raw Data File": [
+      "20131023_EXQ8_HeSc_SA_ECM_young_11_3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "C57BL/6 mice"
+    ],
+    "Characteristics[Specimen]": [
+      "total tissue (wet weight) of mouse lungs"
+    ],
+    "Characteristics[OrganismPart]": [
+      "whole lung tissue"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM CAA"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "four replicates"
+    ],
+    "FactorValue[Age]": [
+      "young (3 months)"
+    ],
+    "Comment[Instrument]": [
+      "Quadrupole/Orbitrap type Mass Spectrometer (Q-Exactive, Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "shotgun proteomics method",
+      "top10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 25%"
+    ],
+    "Comment[Separation]": [
+      "Reverse-phase chromatography was performed with an EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 250\u2009nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "a nonlinear 240\u2009min gradient of 5\u201360% buffer B (0.1% (v/v) formic acid, 80% (v/v) acetonitrile)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "a total of three soluble fractions and one insoluble pellet"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "up to 4.5\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "allowed fragment mass deviation of 20\u2009ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed in the database search."
+    ],
+    "Comment[FractionIdentifier]": [
+      "ECM"
+    ]
+  },
+  "20131023_EXQ8_HeSc_SA_ECM_young_11_1.raw": {
+    "Source Name": [
+      "young_11"
+    ],
+    "Assay Name": [
+      "young_11_ECM_1"
+    ],
+    "Raw Data File": [
+      "20131023_EXQ8_HeSc_SA_ECM_young_11_1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "C57BL/6 mice"
+    ],
+    "Characteristics[Specimen]": [
+      "total tissue (wet weight) of mouse lungs"
+    ],
+    "Characteristics[OrganismPart]": [
+      "whole lung tissue"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM CAA"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "four replicates"
+    ],
+    "FactorValue[Age]": [
+      "young (3 months)"
+    ],
+    "Comment[Instrument]": [
+      "Quadrupole/Orbitrap type Mass Spectrometer (Q-Exactive, Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "shotgun proteomics method",
+      "top10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 25%"
+    ],
+    "Comment[Separation]": [
+      "Reverse-phase chromatography was performed with an EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 250\u2009nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "a nonlinear 240\u2009min gradient of 5\u201360% buffer B (0.1% (v/v) formic acid, 80% (v/v) acetonitrile)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "a total of three soluble fractions and one insoluble pellet"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "up to 4.5\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "allowed fragment mass deviation of 20\u2009ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed in the database search."
+    ],
+    "Comment[FractionIdentifier]": [
+      "ECM"
+    ]
+  },
+  "20131023_EXQ8_HeSc_SA_ECM_old_14_4.raw": {
+    "Source Name": [
+      "old_14"
+    ],
+    "Assay Name": [
+      "old_14_ECM_4"
+    ],
+    "Raw Data File": [
+      "20131023_EXQ8_HeSc_SA_ECM_old_14_4.raw"
+    ],
+    "Characteristics[Organism]": [
+      "C57BL/6 mice"
+    ],
+    "Characteristics[Specimen]": [
+      "total tissue (wet weight) of mouse lungs"
+    ],
+    "Characteristics[OrganismPart]": [
+      "whole lung tissue"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM CAA"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "four replicates"
+    ],
+    "FactorValue[Age]": [
+      "old mice (24 months)"
+    ],
+    "Comment[Instrument]": [
+      "Quadrupole/Orbitrap type Mass Spectrometer (Q-Exactive, Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "shotgun proteomics method",
+      "top10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 25%"
+    ],
+    "Comment[Separation]": [
+      "Reverse-phase chromatography was performed with an EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 250\u2009nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "a nonlinear 240\u2009min gradient of 5\u201360% buffer B (0.1% (v/v) formic acid, 80% (v/v) acetonitrile)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "a total of three soluble fractions and one insoluble pellet"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "up to 4.5\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "allowed fragment mass deviation of 20\u2009ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed in the database search."
+    ],
+    "Comment[FractionIdentifier]": [
+      "ECM"
+    ]
+  },
+  "20131023_EXQ8_HeSc_SA_FR2_young_11_4.raw": {
+    "Source Name": [
+      "young_11"
+    ],
+    "Assay Name": [
+      "young_11_FR2_4"
+    ],
+    "Raw Data File": [
+      "20131023_EXQ8_HeSc_SA_FR2_young_11_4.raw"
+    ],
+    "Characteristics[Organism]": [
+      "C57BL/6 mice"
+    ],
+    "Characteristics[Specimen]": [
+      "total tissue (wet weight) of mouse lungs"
+    ],
+    "Characteristics[OrganismPart]": [
+      "whole lung tissue"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM CAA"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "four replicates"
+    ],
+    "FactorValue[Age]": [
+      "young (3 months)"
+    ],
+    "Comment[Instrument]": [
+      "Quadrupole/Orbitrap type Mass Spectrometer (Q-Exactive, Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "shotgun proteomics method",
+      "top10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 25%"
+    ],
+    "Comment[Separation]": [
+      "Reverse-phase chromatography was performed with an EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 250\u2009nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "a nonlinear 240\u2009min gradient of 5\u201360% buffer B (0.1% (v/v) formic acid, 80% (v/v) acetonitrile)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "a total of three soluble fractions and one insoluble pellet"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "up to 4.5\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "allowed fragment mass deviation of 20\u2009ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed in the database search."
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR2"
+    ]
+  },
+  "20131023_EXQ8_HeSc_SA_FR3_young_11_2.raw": {
+    "Source Name": [
+      "young_11"
+    ],
+    "Assay Name": [
+      "young_11_FR3_2"
+    ],
+    "Raw Data File": [
+      "20131023_EXQ8_HeSc_SA_FR3_young_11_2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "C57BL/6 mice"
+    ],
+    "Characteristics[Specimen]": [
+      "total tissue (wet weight) of mouse lungs"
+    ],
+    "Characteristics[OrganismPart]": [
+      "whole lung tissue"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM CAA"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "four replicates"
+    ],
+    "FactorValue[Age]": [
+      "young (3 months)"
+    ],
+    "Comment[Instrument]": [
+      "Quadrupole/Orbitrap type Mass Spectrometer (Q-Exactive, Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "shotgun proteomics method",
+      "top10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 25%"
+    ],
+    "Comment[Separation]": [
+      "Reverse-phase chromatography was performed with an EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 250\u2009nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "a nonlinear 240\u2009min gradient of 5\u201360% buffer B (0.1% (v/v) formic acid, 80% (v/v) acetonitrile)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "a total of three soluble fractions and one insoluble pellet"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "up to 4.5\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "allowed fragment mass deviation of 20\u2009ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed in the database search."
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR3"
+    ]
+  },
+  "20131023_EXQ8_HeSc_SA_FR3_old_14_2.raw": {
+    "Source Name": [
+      "old_14"
+    ],
+    "Assay Name": [
+      "old_14_FR3_2"
+    ],
+    "Raw Data File": [
+      "20131023_EXQ8_HeSc_SA_FR3_old_14_2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "C57BL/6 mice"
+    ],
+    "Characteristics[Specimen]": [
+      "total tissue (wet weight) of mouse lungs"
+    ],
+    "Characteristics[OrganismPart]": [
+      "whole lung tissue"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM CAA"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "four replicates"
+    ],
+    "FactorValue[Age]": [
+      "old mice (24 months)"
+    ],
+    "Comment[Instrument]": [
+      "Quadrupole/Orbitrap type Mass Spectrometer (Q-Exactive, Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "shotgun proteomics method",
+      "top10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 25%"
+    ],
+    "Comment[Separation]": [
+      "Reverse-phase chromatography was performed with an EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 250\u2009nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "a nonlinear 240\u2009min gradient of 5\u201360% buffer B (0.1% (v/v) formic acid, 80% (v/v) acetonitrile)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "a total of three soluble fractions and one insoluble pellet"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "up to 4.5\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "allowed fragment mass deviation of 20\u2009ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed in the database search."
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR3"
+    ]
+  },
+  "20131023_EXQ8_HeSc_SA_ECM_old_14_3.raw": {
+    "Source Name": [
+      "old_14"
+    ],
+    "Assay Name": [
+      "old_14_ECM_3"
+    ],
+    "Raw Data File": [
+      "20131023_EXQ8_HeSc_SA_ECM_old_14_3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "C57BL/6 mice"
+    ],
+    "Characteristics[Specimen]": [
+      "total tissue (wet weight) of mouse lungs"
+    ],
+    "Characteristics[OrganismPart]": [
+      "whole lung tissue"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM CAA"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "four replicates"
+    ],
+    "FactorValue[Age]": [
+      "old mice (24 months)"
+    ],
+    "Comment[Instrument]": [
+      "Quadrupole/Orbitrap type Mass Spectrometer (Q-Exactive, Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "shotgun proteomics method",
+      "top10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 25%"
+    ],
+    "Comment[Separation]": [
+      "Reverse-phase chromatography was performed with an EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 250\u2009nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "a nonlinear 240\u2009min gradient of 5\u201360% buffer B (0.1% (v/v) formic acid, 80% (v/v) acetonitrile)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "a total of three soluble fractions and one insoluble pellet"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "up to 4.5\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "allowed fragment mass deviation of 20\u2009ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed in the database search."
+    ],
+    "Comment[FractionIdentifier]": [
+      "ECM"
+    ]
+  },
+  "20131023_EXQ8_HeSc_SA_ECM_young_11_2.raw": {
+    "Source Name": [
+      "young_11"
+    ],
+    "Assay Name": [
+      "young_11_ECM_2"
+    ],
+    "Raw Data File": [
+      "20131023_EXQ8_HeSc_SA_ECM_young_11_2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "C57BL/6 mice"
+    ],
+    "Characteristics[Specimen]": [
+      "total tissue (wet weight) of mouse lungs"
+    ],
+    "Characteristics[OrganismPart]": [
+      "whole lung tissue"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM CAA"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "four replicates"
+    ],
+    "FactorValue[Age]": [
+      "young (3 months)"
+    ],
+    "Comment[Instrument]": [
+      "Quadrupole/Orbitrap type Mass Spectrometer (Q-Exactive, Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "shotgun proteomics method",
+      "top10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 25%"
+    ],
+    "Comment[Separation]": [
+      "Reverse-phase chromatography was performed with an EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 250\u2009nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "a nonlinear 240\u2009min gradient of 5\u201360% buffer B (0.1% (v/v) formic acid, 80% (v/v) acetonitrile)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "a total of three soluble fractions and one insoluble pellet"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "up to 4.5\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "allowed fragment mass deviation of 20\u2009ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed in the database search."
+    ],
+    "Comment[FractionIdentifier]": [
+      "ECM"
+    ]
+  },
+  "20131023_EXQ8_HeSc_SA_FR3_young_11_3.raw": {
+    "Source Name": [
+      "young_11"
+    ],
+    "Assay Name": [
+      "young_11_FR3_3"
+    ],
+    "Raw Data File": [
+      "20131023_EXQ8_HeSc_SA_FR3_young_11_3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "C57BL/6 mice"
+    ],
+    "Characteristics[Specimen]": [
+      "total tissue (wet weight) of mouse lungs"
+    ],
+    "Characteristics[OrganismPart]": [
+      "whole lung tissue"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM CAA"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "four replicates"
+    ],
+    "FactorValue[Age]": [
+      "young (3 months)"
+    ],
+    "Comment[Instrument]": [
+      "Quadrupole/Orbitrap type Mass Spectrometer (Q-Exactive, Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "shotgun proteomics method",
+      "top10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 25%"
+    ],
+    "Comment[Separation]": [
+      "Reverse-phase chromatography was performed with an EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 250\u2009nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "a nonlinear 240\u2009min gradient of 5\u201360% buffer B (0.1% (v/v) formic acid, 80% (v/v) acetonitrile)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "a total of three soluble fractions and one insoluble pellet"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "up to 4.5\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "allowed fragment mass deviation of 20\u2009ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed in the database search."
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR3"
+    ]
+  },
+  "20131023_EXQ8_HeSc_SA_FR2_old_14_3.raw": {
+    "Source Name": [
+      "old_14"
+    ],
+    "Assay Name": [
+      "old_14_FR2_3"
+    ],
+    "Raw Data File": [
+      "20131023_EXQ8_HeSc_SA_FR2_old_14_3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "C57BL/6 mice"
+    ],
+    "Characteristics[Specimen]": [
+      "total tissue (wet weight) of mouse lungs"
+    ],
+    "Characteristics[OrganismPart]": [
+      "whole lung tissue"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM CAA"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "four replicates"
+    ],
+    "FactorValue[Age]": [
+      "old mice (24 months)"
+    ],
+    "Comment[Instrument]": [
+      "Quadrupole/Orbitrap type Mass Spectrometer (Q-Exactive, Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "shotgun proteomics method",
+      "top10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 25%"
+    ],
+    "Comment[Separation]": [
+      "Reverse-phase chromatography was performed with an EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 250\u2009nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "a nonlinear 240\u2009min gradient of 5\u201360% buffer B (0.1% (v/v) formic acid, 80% (v/v) acetonitrile)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "a total of three soluble fractions and one insoluble pellet"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "up to 4.5\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "allowed fragment mass deviation of 20\u2009ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed in the database search."
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR2"
+    ]
+  },
+  "20131023_EXQ8_HeSc_SA_FR3_old_14_1.raw": {
+    "Source Name": [
+      "old_14"
+    ],
+    "Assay Name": [
+      "old_14_FR3_1"
+    ],
+    "Raw Data File": [
+      "20131023_EXQ8_HeSc_SA_FR3_old_14_1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "C57BL/6 mice"
+    ],
+    "Characteristics[Specimen]": [
+      "total tissue (wet weight) of mouse lungs"
+    ],
+    "Characteristics[OrganismPart]": [
+      "whole lung tissue"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM CAA"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "four replicates"
+    ],
+    "FactorValue[Age]": [
+      "old mice (24 months)"
+    ],
+    "Comment[Instrument]": [
+      "Quadrupole/Orbitrap type Mass Spectrometer (Q-Exactive, Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "shotgun proteomics method",
+      "top10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 25%"
+    ],
+    "Comment[Separation]": [
+      "Reverse-phase chromatography was performed with an EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 250\u2009nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "a nonlinear 240\u2009min gradient of 5\u201360% buffer B (0.1% (v/v) formic acid, 80% (v/v) acetonitrile)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "a total of three soluble fractions and one insoluble pellet"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "up to 4.5\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "allowed fragment mass deviation of 20\u2009ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed in the database search."
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR3"
+    ]
+  },
+  "20131023_EXQ8_HeSc_SA_FR2_old_14_4.raw": {
+    "Source Name": [
+      "old_14"
+    ],
+    "Assay Name": [
+      "old_14_FR2_4"
+    ],
+    "Raw Data File": [
+      "20131023_EXQ8_HeSc_SA_FR2_old_14_4.raw"
+    ],
+    "Characteristics[Organism]": [
+      "C57BL/6 mice"
+    ],
+    "Characteristics[Specimen]": [
+      "total tissue (wet weight) of mouse lungs"
+    ],
+    "Characteristics[OrganismPart]": [
+      "whole lung tissue"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM CAA"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "four replicates"
+    ],
+    "FactorValue[Age]": [
+      "old mice (24 months)"
+    ],
+    "Comment[Instrument]": [
+      "Quadrupole/Orbitrap type Mass Spectrometer (Q-Exactive, Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "shotgun proteomics method",
+      "top10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 25%"
+    ],
+    "Comment[Separation]": [
+      "Reverse-phase chromatography was performed with an EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 250\u2009nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "a nonlinear 240\u2009min gradient of 5\u201360% buffer B (0.1% (v/v) formic acid, 80% (v/v) acetonitrile)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "a total of three soluble fractions and one insoluble pellet"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "up to 4.5\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "allowed fragment mass deviation of 20\u2009ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed in the database search."
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR2"
+    ]
+  },
+  "20131023_EXQ8_HeSc_SA_FR1_young_11_4.raw": {
+    "Source Name": [
+      "young_11"
+    ],
+    "Assay Name": [
+      "young_11_FR1_4"
+    ],
+    "Raw Data File": [
+      "20131023_EXQ8_HeSc_SA_FR1_young_11_4.raw"
+    ],
+    "Characteristics[Organism]": [
+      "C57BL/6 mice"
+    ],
+    "Characteristics[Specimen]": [
+      "total tissue (wet weight) of mouse lungs"
+    ],
+    "Characteristics[OrganismPart]": [
+      "whole lung tissue"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM CAA"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "four replicates"
+    ],
+    "FactorValue[Age]": [
+      "young (3 months)"
+    ],
+    "Comment[Instrument]": [
+      "Quadrupole/Orbitrap type Mass Spectrometer (Q-Exactive, Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "shotgun proteomics method",
+      "top10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 25%"
+    ],
+    "Comment[Separation]": [
+      "Reverse-phase chromatography was performed with an EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 250\u2009nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "a nonlinear 240\u2009min gradient of 5\u201360% buffer B (0.1% (v/v) formic acid, 80% (v/v) acetonitrile)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "a total of three soluble fractions and one insoluble pellet"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "up to 4.5\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "allowed fragment mass deviation of 20\u2009ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed in the database search."
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR1"
+    ]
+  },
+  "20131023_EXQ8_HeSc_SA_FR2_old_14_1.raw": {
+    "Source Name": [
+      "old_14"
+    ],
+    "Assay Name": [
+      "old_14_FR2_1"
+    ],
+    "Raw Data File": [
+      "20131023_EXQ8_HeSc_SA_FR2_old_14_1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "C57BL/6 mice"
+    ],
+    "Characteristics[Specimen]": [
+      "total tissue (wet weight) of mouse lungs"
+    ],
+    "Characteristics[OrganismPart]": [
+      "whole lung tissue"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM CAA"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "four replicates"
+    ],
+    "FactorValue[Age]": [
+      "old mice (24 months)"
+    ],
+    "Comment[Instrument]": [
+      "Quadrupole/Orbitrap type Mass Spectrometer (Q-Exactive, Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "shotgun proteomics method",
+      "top10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 25%"
+    ],
+    "Comment[Separation]": [
+      "Reverse-phase chromatography was performed with an EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 250\u2009nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "a nonlinear 240\u2009min gradient of 5\u201360% buffer B (0.1% (v/v) formic acid, 80% (v/v) acetonitrile)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "a total of three soluble fractions and one insoluble pellet"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "up to 4.5\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "allowed fragment mass deviation of 20\u2009ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed in the database search."
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR2"
+    ]
+  },
+  "20131023_EXQ8_HeSc_SA_FR1_young_11_1.raw": {
+    "Source Name": [
+      "young_11"
+    ],
+    "Assay Name": [
+      "young_11_FR1_1"
+    ],
+    "Raw Data File": [
+      "20131023_EXQ8_HeSc_SA_FR1_young_11_1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "C57BL/6 mice"
+    ],
+    "Characteristics[Specimen]": [
+      "total tissue (wet weight) of mouse lungs"
+    ],
+    "Characteristics[OrganismPart]": [
+      "whole lung tissue"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM CAA"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "four replicates"
+    ],
+    "FactorValue[Age]": [
+      "young (3 months)"
+    ],
+    "Comment[Instrument]": [
+      "Quadrupole/Orbitrap type Mass Spectrometer (Q-Exactive, Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "shotgun proteomics method",
+      "top10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 25%"
+    ],
+    "Comment[Separation]": [
+      "Reverse-phase chromatography was performed with an EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 250\u2009nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "a nonlinear 240\u2009min gradient of 5\u201360% buffer B (0.1% (v/v) formic acid, 80% (v/v) acetonitrile)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "a total of three soluble fractions and one insoluble pellet"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "up to 4.5\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "allowed fragment mass deviation of 20\u2009ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed in the database search."
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR1"
+    ]
+  },
+  "20131023_EXQ8_HeSc_SA_FR2_old_14_2.raw": {
+    "Source Name": [
+      "old_14"
+    ],
+    "Assay Name": [
+      "old_14_FR2_2"
+    ],
+    "Raw Data File": [
+      "20131023_EXQ8_HeSc_SA_FR2_old_14_2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "C57BL/6 mice"
+    ],
+    "Characteristics[Specimen]": [
+      "total tissue (wet weight) of mouse lungs"
+    ],
+    "Characteristics[OrganismPart]": [
+      "whole lung tissue"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM CAA"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "four replicates"
+    ],
+    "FactorValue[Age]": [
+      "old mice (24 months)"
+    ],
+    "Comment[Instrument]": [
+      "Quadrupole/Orbitrap type Mass Spectrometer (Q-Exactive, Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "shotgun proteomics method",
+      "top10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 25%"
+    ],
+    "Comment[Separation]": [
+      "Reverse-phase chromatography was performed with an EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 250\u2009nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "a nonlinear 240\u2009min gradient of 5\u201360% buffer B (0.1% (v/v) formic acid, 80% (v/v) acetonitrile)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "a total of three soluble fractions and one insoluble pellet"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "up to 4.5\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "allowed fragment mass deviation of 20\u2009ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed in the database search."
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR2"
+    ]
+  },
+  "20131023_EXQ8_HeSc_SA_ECM_old_14_2.raw": {
+    "Source Name": [
+      "old_14"
+    ],
+    "Assay Name": [
+      "old_14_ECM_2"
+    ],
+    "Raw Data File": [
+      "20131023_EXQ8_HeSc_SA_ECM_old_14_2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "C57BL/6 mice"
+    ],
+    "Characteristics[Specimen]": [
+      "total tissue (wet weight) of mouse lungs"
+    ],
+    "Characteristics[OrganismPart]": [
+      "whole lung tissue"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM CAA"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "four replicates"
+    ],
+    "FactorValue[Age]": [
+      "old mice (24 months)"
+    ],
+    "Comment[Instrument]": [
+      "Quadrupole/Orbitrap type Mass Spectrometer (Q-Exactive, Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "shotgun proteomics method",
+      "top10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 25%"
+    ],
+    "Comment[Separation]": [
+      "Reverse-phase chromatography was performed with an EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 250\u2009nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "a nonlinear 240\u2009min gradient of 5\u201360% buffer B (0.1% (v/v) formic acid, 80% (v/v) acetonitrile)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "a total of three soluble fractions and one insoluble pellet"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "up to 4.5\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "allowed fragment mass deviation of 20\u2009ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed in the database search."
+    ],
+    "Comment[FractionIdentifier]": [
+      "ECM"
+    ]
+  },
+  "20131023_EXQ8_HeSc_SA_FR1_young_11_3.raw": {
+    "Source Name": [
+      "young_11"
+    ],
+    "Assay Name": [
+      "young_11_FR1_3"
+    ],
+    "Raw Data File": [
+      "20131023_EXQ8_HeSc_SA_FR1_young_11_3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "C57BL/6 mice"
+    ],
+    "Characteristics[Specimen]": [
+      "total tissue (wet weight) of mouse lungs"
+    ],
+    "Characteristics[OrganismPart]": [
+      "whole lung tissue"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM CAA"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "four replicates"
+    ],
+    "FactorValue[Age]": [
+      "young (3 months)"
+    ],
+    "Comment[Instrument]": [
+      "Quadrupole/Orbitrap type Mass Spectrometer (Q-Exactive, Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "shotgun proteomics method",
+      "top10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 25%"
+    ],
+    "Comment[Separation]": [
+      "Reverse-phase chromatography was performed with an EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 250\u2009nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "a nonlinear 240\u2009min gradient of 5\u201360% buffer B (0.1% (v/v) formic acid, 80% (v/v) acetonitrile)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "a total of three soluble fractions and one insoluble pellet"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "up to 4.5\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "allowed fragment mass deviation of 20\u2009ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed in the database search."
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR1"
+    ]
+  },
+  "20131023_EXQ8_HeSc_SA_FR3_old_14_3.raw": {
+    "Source Name": [
+      "old_14"
+    ],
+    "Assay Name": [
+      "old_14_FR3_3"
+    ],
+    "Raw Data File": [
+      "20131023_EXQ8_HeSc_SA_FR3_old_14_3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "C57BL/6 mice"
+    ],
+    "Characteristics[Specimen]": [
+      "total tissue (wet weight) of mouse lungs"
+    ],
+    "Characteristics[OrganismPart]": [
+      "whole lung tissue"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM CAA"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "four replicates"
+    ],
+    "FactorValue[Age]": [
+      "old mice (24 months)"
+    ],
+    "Comment[Instrument]": [
+      "Quadrupole/Orbitrap type Mass Spectrometer (Q-Exactive, Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "shotgun proteomics method",
+      "top10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 25%"
+    ],
+    "Comment[Separation]": [
+      "Reverse-phase chromatography was performed with an EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 250\u2009nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "a nonlinear 240\u2009min gradient of 5\u201360% buffer B (0.1% (v/v) formic acid, 80% (v/v) acetonitrile)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "a total of three soluble fractions and one insoluble pellet"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "up to 4.5\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "allowed fragment mass deviation of 20\u2009ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed in the database search."
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR3"
+    ]
+  },
+  "20131023_EXQ8_HeSc_SA_FR1_old_14_3.raw": {
+    "Source Name": [
+      "old_14"
+    ],
+    "Assay Name": [
+      "old_14_FR1_3"
+    ],
+    "Raw Data File": [
+      "20131023_EXQ8_HeSc_SA_FR1_old_14_3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "C57BL/6 mice"
+    ],
+    "Characteristics[Specimen]": [
+      "total tissue (wet weight) of mouse lungs"
+    ],
+    "Characteristics[OrganismPart]": [
+      "whole lung tissue"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM CAA"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "four replicates"
+    ],
+    "FactorValue[Age]": [
+      "old mice (24 months)"
+    ],
+    "Comment[Instrument]": [
+      "Quadrupole/Orbitrap type Mass Spectrometer (Q-Exactive, Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "shotgun proteomics method",
+      "top10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 25%"
+    ],
+    "Comment[Separation]": [
+      "Reverse-phase chromatography was performed with an EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 250\u2009nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "a nonlinear 240\u2009min gradient of 5\u201360% buffer B (0.1% (v/v) formic acid, 80% (v/v) acetonitrile)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "a total of three soluble fractions and one insoluble pellet"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "up to 4.5\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "allowed fragment mass deviation of 20\u2009ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed in the database search."
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR1"
+    ]
+  },
+  "20131023_EXQ8_HeSc_SA_ECM_young_11_4.raw": {
+    "Source Name": [
+      "young_11"
+    ],
+    "Assay Name": [
+      "young_11_ECM_4"
+    ],
+    "Raw Data File": [
+      "20131023_EXQ8_HeSc_SA_ECM_young_11_4.raw"
+    ],
+    "Characteristics[Organism]": [
+      "C57BL/6 mice"
+    ],
+    "Characteristics[Specimen]": [
+      "total tissue (wet weight) of mouse lungs"
+    ],
+    "Characteristics[OrganismPart]": [
+      "whole lung tissue"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM CAA"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "four replicates"
+    ],
+    "FactorValue[Age]": [
+      "young (3 months)"
+    ],
+    "Comment[Instrument]": [
+      "Quadrupole/Orbitrap type Mass Spectrometer (Q-Exactive, Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "shotgun proteomics method",
+      "top10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 25%"
+    ],
+    "Comment[Separation]": [
+      "Reverse-phase chromatography was performed with an EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 250\u2009nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "a nonlinear 240\u2009min gradient of 5\u201360% buffer B (0.1% (v/v) formic acid, 80% (v/v) acetonitrile)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "a total of three soluble fractions and one insoluble pellet"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "up to 4.5\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "allowed fragment mass deviation of 20\u2009ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed in the database search."
+    ],
+    "Comment[FractionIdentifier]": [
+      "ECM"
+    ]
+  },
+  "20131023_EXQ8_HeSc_SA_FR3_young_11_1.raw": {
+    "Source Name": [
+      "young_11"
+    ],
+    "Assay Name": [
+      "young_11_FR3_1"
+    ],
+    "Raw Data File": [
+      "20131023_EXQ8_HeSc_SA_FR3_young_11_1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "C57BL/6 mice"
+    ],
+    "Characteristics[Specimen]": [
+      "total tissue (wet weight) of mouse lungs"
+    ],
+    "Characteristics[OrganismPart]": [
+      "whole lung tissue"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM TCEP"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM CAA"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "four replicates"
+    ],
+    "FactorValue[Age]": [
+      "young (3 months)"
+    ],
+    "Comment[Instrument]": [
+      "Quadrupole/Orbitrap type Mass Spectrometer (Q-Exactive, Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "shotgun proteomics method",
+      "top10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 25%"
+    ],
+    "Comment[Separation]": [
+      "Reverse-phase chromatography was performed with an EASY-nLC 1000 ultra-high pressure system (Thermo Fisher Scientific)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at a flow rate of 250\u2009nl/min."
+    ],
+    "Comment[GradientTime]": [
+      "a nonlinear 240\u2009min gradient of 5\u201360% buffer B (0.1% (v/v) formic acid, 80% (v/v) acetonitrile)"
+    ],
+    "Comment[NumberOfFractions]": [
+      "a total of three soluble fractions and one insoluble pellet"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "up to 4.5\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "allowed fragment mass deviation of 20\u2009ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed in the database search."
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR3"
+    ]
+  }
+}

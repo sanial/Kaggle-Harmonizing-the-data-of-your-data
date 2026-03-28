@@ -1,0 +1,3774 @@
+{
+  "anteriorcingulategyrus_batch4_fraction14.raw": {
+    "Source Name": [
+      "anteriorcingulategyrus_batch4_source"
+    ],
+    "Assay Name": [
+      "anteriorcingulategyrus_batch4_source_assay_fraction14"
+    ],
+    "Raw Data File": [
+      "anteriorcingulategyrus_batch4_fraction14.raw"
+    ],
+    "Characteristics[Organism]": [
+      "post-mortem human brain tissues (n=80)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Post-mortem tissues"
+    ],
+    "Characteristics[OrganismPart]": [
+      "anterior cingulate gyrus (Cingulate, Brodmann Area 24)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lysyl endopeptidase (Wako)",
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "5 mM iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 40 samples across four pathological groups (n=10 per control, PD, AD and AD/PD groupings)"
+    ],
+    "Characteristics[Label]": [
+      "10-plex TMT kits (ThermoFisher)"
+    ],
+    "FactorValue[Experimental]": [
+      "four different groups defined as controls, AD, PD, and co-morbid AD/PD cases across two brain regions (frontal cortex and anterior cingulate gyrus)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fraction14"
+    ],
+    "Comment[FractionationMethod]": [
+      "Electrostatic repulsion-hydrophilic interaction chromatography (ERLIC) fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "A total of 44 fractions were collected and then combined to 21 fractions."
+    ],
+    "Comment[GradientTime]": [
+      "Sample elution was performed over a gradient of 3 to 30% Buffer B (0.1% formic acid in ACN) over 105 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at 300 nl",
+      "flow rate of 500 nl/min",
+      "flow rate of 350 nl/min"
+    ],
+    "Comment[IonizationType]": [
+      "Flex nano-electrospray ion source (ThermoFisher)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The Orbitrap Fusion (Thermo Scientific) was operated in positive ion data dependent mode with synchronous precursor selection (SPS)-MS3 analysis for reporter ion quantitation."
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)-MS2 fragmentation",
+      "higher-energy collision dissociation (HCD) fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 0.6 daltons"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages allowed"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion mass spectrometer",
+      "Platform 1 (Orbitrap Fusion1)"
+    ]
+  },
+  "anteriorcingulategyrus_batch3_fraction15.raw": {
+    "Source Name": [
+      "anteriorcingulategyrus_batch3_source"
+    ],
+    "Assay Name": [
+      "anteriorcingulategyrus_batch3_source_assay_fraction15"
+    ],
+    "Raw Data File": [
+      "anteriorcingulategyrus_batch3_fraction15.raw"
+    ],
+    "Characteristics[Organism]": [
+      "post-mortem human brain tissues (n=80)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Post-mortem tissues"
+    ],
+    "Characteristics[OrganismPart]": [
+      "anterior cingulate gyrus (Cingulate, Brodmann Area 24)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lysyl endopeptidase (Wako)",
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "5 mM iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 40 samples across four pathological groups (n=10 per control, PD, AD and AD/PD groupings)"
+    ],
+    "Characteristics[Label]": [
+      "10-plex TMT kits (ThermoFisher)"
+    ],
+    "FactorValue[Experimental]": [
+      "four different groups defined as controls, AD, PD, and co-morbid AD/PD cases across two brain regions (frontal cortex and anterior cingulate gyrus)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fraction15"
+    ],
+    "Comment[FractionationMethod]": [
+      "Electrostatic repulsion-hydrophilic interaction chromatography (ERLIC) fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "A total of 44 fractions were collected and then combined to 21 fractions."
+    ],
+    "Comment[GradientTime]": [
+      "Sample elution was performed over a gradient of 3 to 30% Buffer B (0.1% formic acid in ACN) over 105 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at 300 nl",
+      "flow rate of 500 nl/min",
+      "flow rate of 350 nl/min"
+    ],
+    "Comment[IonizationType]": [
+      "Flex nano-electrospray ion source (ThermoFisher)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The Orbitrap Fusion (Thermo Scientific) was operated in positive ion data dependent mode with synchronous precursor selection (SPS)-MS3 analysis for reporter ion quantitation."
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)-MS2 fragmentation",
+      "higher-energy collision dissociation (HCD) fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 0.6 daltons"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages allowed"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion mass spectrometer",
+      "Platform 1 (Orbitrap Fusion1)"
+    ]
+  },
+  "anteriorcingulategyrus_batch4_fraction04.raw": {
+    "Source Name": [
+      "anteriorcingulategyrus_batch4_source"
+    ],
+    "Assay Name": [
+      "anteriorcingulategyrus_batch4_source_assay_fraction04"
+    ],
+    "Raw Data File": [
+      "anteriorcingulategyrus_batch4_fraction04.raw"
+    ],
+    "Characteristics[Organism]": [
+      "post-mortem human brain tissues (n=80)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Post-mortem tissues"
+    ],
+    "Characteristics[OrganismPart]": [
+      "anterior cingulate gyrus (Cingulate, Brodmann Area 24)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lysyl endopeptidase (Wako)",
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "5 mM iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 40 samples across four pathological groups (n=10 per control, PD, AD and AD/PD groupings)"
+    ],
+    "Characteristics[Label]": [
+      "10-plex TMT kits (ThermoFisher)"
+    ],
+    "FactorValue[Experimental]": [
+      "four different groups defined as controls, AD, PD, and co-morbid AD/PD cases across two brain regions (frontal cortex and anterior cingulate gyrus)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fraction04"
+    ],
+    "Comment[FractionationMethod]": [
+      "Electrostatic repulsion-hydrophilic interaction chromatography (ERLIC) fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "A total of 44 fractions were collected and then combined to 21 fractions."
+    ],
+    "Comment[GradientTime]": [
+      "Sample elution was performed over a gradient of 3 to 30% Buffer B (0.1% formic acid in ACN) over 105 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at 300 nl",
+      "flow rate of 500 nl/min",
+      "flow rate of 350 nl/min"
+    ],
+    "Comment[IonizationType]": [
+      "Flex nano-electrospray ion source (ThermoFisher)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The Orbitrap Fusion (Thermo Scientific) was operated in positive ion data dependent mode with synchronous precursor selection (SPS)-MS3 analysis for reporter ion quantitation."
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)-MS2 fragmentation",
+      "higher-energy collision dissociation (HCD) fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 0.6 daltons"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages allowed"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion mass spectrometer",
+      "Platform 1 (Orbitrap Fusion1)"
+    ]
+  },
+  "frontalcortex_batch5_fraction01.raw": {
+    "Source Name": [
+      "frontalcortex_batch5_source"
+    ],
+    "Assay Name": [
+      "frontalcortex_batch5_source_assay_fraction01"
+    ],
+    "Raw Data File": [
+      "frontalcortex_batch5_fraction01.raw"
+    ],
+    "Characteristics[Organism]": [
+      "post-mortem human brain tissues (n=80)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Post-mortem tissues"
+    ],
+    "Characteristics[OrganismPart]": [
+      "dorsolateral prefrontal frontal cortex (Frontal Cortex, Brodmann Area 9)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lysyl endopeptidase (Wako)",
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "5 mM iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 40 samples across four pathological groups (n=10 per control, PD, AD and AD/PD groupings)"
+    ],
+    "Characteristics[Label]": [
+      "10-plex TMT kits (ThermoFisher)"
+    ],
+    "FactorValue[Experimental]": [
+      "four different groups defined as controls, AD, PD, and co-morbid AD/PD cases across two brain regions (frontal cortex and anterior cingulate gyrus)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fraction01"
+    ],
+    "Comment[FractionationMethod]": [
+      "Electrostatic repulsion-hydrophilic interaction chromatography (ERLIC) fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "A total of 44 fractions were collected and then combined to 21 fractions."
+    ],
+    "Comment[GradientTime]": [
+      "Sample elution was performed over a gradient of 3 to 30% Buffer B (0.1% formic acid in ACN) over 105 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at 300 nl",
+      "flow rate of 500 nl/min",
+      "flow rate of 350 nl/min"
+    ],
+    "Comment[IonizationType]": [
+      "Flex nano-electrospray ion source (ThermoFisher)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The Orbitrap Fusion (Thermo Scientific) was operated in positive ion data dependent mode with synchronous precursor selection (SPS)-MS3 analysis for reporter ion quantitation."
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)-MS2 fragmentation",
+      "higher-energy collision dissociation (HCD) fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 0.6 daltons"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages allowed"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion mass spectrometer",
+      "Platform 2 (Orbitrap Fusion2)"
+    ]
+  },
+  "anteriorcingulategyrus_batch4_fraction17.raw": {
+    "Source Name": [
+      "anteriorcingulategyrus_batch4_source"
+    ],
+    "Assay Name": [
+      "anteriorcingulategyrus_batch4_source_assay_fraction17"
+    ],
+    "Raw Data File": [
+      "anteriorcingulategyrus_batch4_fraction17.raw"
+    ],
+    "Characteristics[Organism]": [
+      "post-mortem human brain tissues (n=80)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Post-mortem tissues"
+    ],
+    "Characteristics[OrganismPart]": [
+      "anterior cingulate gyrus (Cingulate, Brodmann Area 24)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lysyl endopeptidase (Wako)",
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "5 mM iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 40 samples across four pathological groups (n=10 per control, PD, AD and AD/PD groupings)"
+    ],
+    "Characteristics[Label]": [
+      "10-plex TMT kits (ThermoFisher)"
+    ],
+    "FactorValue[Experimental]": [
+      "four different groups defined as controls, AD, PD, and co-morbid AD/PD cases across two brain regions (frontal cortex and anterior cingulate gyrus)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fraction17"
+    ],
+    "Comment[FractionationMethod]": [
+      "Electrostatic repulsion-hydrophilic interaction chromatography (ERLIC) fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "A total of 44 fractions were collected and then combined to 21 fractions."
+    ],
+    "Comment[GradientTime]": [
+      "Sample elution was performed over a gradient of 3 to 30% Buffer B (0.1% formic acid in ACN) over 105 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at 300 nl",
+      "flow rate of 500 nl/min",
+      "flow rate of 350 nl/min"
+    ],
+    "Comment[IonizationType]": [
+      "Flex nano-electrospray ion source (ThermoFisher)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The Orbitrap Fusion (Thermo Scientific) was operated in positive ion data dependent mode with synchronous precursor selection (SPS)-MS3 analysis for reporter ion quantitation."
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)-MS2 fragmentation",
+      "higher-energy collision dissociation (HCD) fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 0.6 daltons"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages allowed"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion mass spectrometer",
+      "Platform 1 (Orbitrap Fusion1)"
+    ]
+  },
+  "frontalcortex_batch3_fraction07.raw": {
+    "Source Name": [
+      "frontalcortex_batch3_source"
+    ],
+    "Assay Name": [
+      "frontalcortex_batch3_source_assay_fraction07"
+    ],
+    "Raw Data File": [
+      "frontalcortex_batch3_fraction07.raw"
+    ],
+    "Characteristics[Organism]": [
+      "post-mortem human brain tissues (n=80)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Post-mortem tissues"
+    ],
+    "Characteristics[OrganismPart]": [
+      "dorsolateral prefrontal frontal cortex (Frontal Cortex, Brodmann Area 9)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lysyl endopeptidase (Wako)",
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "5 mM iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 40 samples across four pathological groups (n=10 per control, PD, AD and AD/PD groupings)"
+    ],
+    "Characteristics[Label]": [
+      "10-plex TMT kits (ThermoFisher)"
+    ],
+    "FactorValue[Experimental]": [
+      "four different groups defined as controls, AD, PD, and co-morbid AD/PD cases across two brain regions (frontal cortex and anterior cingulate gyrus)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fraction07"
+    ],
+    "Comment[FractionationMethod]": [
+      "Electrostatic repulsion-hydrophilic interaction chromatography (ERLIC) fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "A total of 44 fractions were collected and then combined to 21 fractions."
+    ],
+    "Comment[GradientTime]": [
+      "Sample elution was performed over a gradient of 3 to 30% Buffer B (0.1% formic acid in ACN) over 105 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at 300 nl",
+      "flow rate of 500 nl/min",
+      "flow rate of 350 nl/min"
+    ],
+    "Comment[IonizationType]": [
+      "Flex nano-electrospray ion source (ThermoFisher)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The Orbitrap Fusion (Thermo Scientific) was operated in positive ion data dependent mode with synchronous precursor selection (SPS)-MS3 analysis for reporter ion quantitation."
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)-MS2 fragmentation",
+      "higher-energy collision dissociation (HCD) fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 0.6 daltons"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages allowed"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion mass spectrometer",
+      "Platform 2 (Orbitrap Fusion2)"
+    ]
+  },
+  "anteriorcingulategyrus_batch2_fraction16.raw": {
+    "Source Name": [
+      "anteriorcingulategyrus_batch2_source"
+    ],
+    "Assay Name": [
+      "anteriorcingulategyrus_batch2_source_assay_fraction16"
+    ],
+    "Raw Data File": [
+      "anteriorcingulategyrus_batch2_fraction16.raw"
+    ],
+    "Characteristics[Organism]": [
+      "post-mortem human brain tissues (n=80)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Post-mortem tissues"
+    ],
+    "Characteristics[OrganismPart]": [
+      "anterior cingulate gyrus (Cingulate, Brodmann Area 24)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lysyl endopeptidase (Wako)",
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "5 mM iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 40 samples across four pathological groups (n=10 per control, PD, AD and AD/PD groupings)"
+    ],
+    "Characteristics[Label]": [
+      "10-plex TMT kits (ThermoFisher)"
+    ],
+    "FactorValue[Experimental]": [
+      "four different groups defined as controls, AD, PD, and co-morbid AD/PD cases across two brain regions (frontal cortex and anterior cingulate gyrus)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fraction16"
+    ],
+    "Comment[FractionationMethod]": [
+      "Electrostatic repulsion-hydrophilic interaction chromatography (ERLIC) fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "A total of 44 fractions were collected and then combined to 21 fractions."
+    ],
+    "Comment[GradientTime]": [
+      "Sample elution was performed over a gradient of 3 to 30% Buffer B (0.1% formic acid in ACN) over 105 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at 300 nl",
+      "flow rate of 500 nl/min",
+      "flow rate of 350 nl/min"
+    ],
+    "Comment[IonizationType]": [
+      "Flex nano-electrospray ion source (ThermoFisher)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The Orbitrap Fusion (Thermo Scientific) was operated in positive ion data dependent mode with synchronous precursor selection (SPS)-MS3 analysis for reporter ion quantitation."
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)-MS2 fragmentation",
+      "higher-energy collision dissociation (HCD) fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 0.6 daltons"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages allowed"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion mass spectrometer",
+      "Platform 1 (Orbitrap Fusion1)"
+    ]
+  },
+  "anteriorcingulategyrus_batch5_fraction03.raw": {
+    "Source Name": [
+      "anteriorcingulategyrus_batch5_source"
+    ],
+    "Assay Name": [
+      "anteriorcingulategyrus_batch5_source_assay_fraction03"
+    ],
+    "Raw Data File": [
+      "anteriorcingulategyrus_batch5_fraction03.raw"
+    ],
+    "Characteristics[Organism]": [
+      "post-mortem human brain tissues (n=80)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Post-mortem tissues"
+    ],
+    "Characteristics[OrganismPart]": [
+      "anterior cingulate gyrus (Cingulate, Brodmann Area 24)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lysyl endopeptidase (Wako)",
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "5 mM iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 40 samples across four pathological groups (n=10 per control, PD, AD and AD/PD groupings)"
+    ],
+    "Characteristics[Label]": [
+      "10-plex TMT kits (ThermoFisher)"
+    ],
+    "FactorValue[Experimental]": [
+      "four different groups defined as controls, AD, PD, and co-morbid AD/PD cases across two brain regions (frontal cortex and anterior cingulate gyrus)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fraction03"
+    ],
+    "Comment[FractionationMethod]": [
+      "Electrostatic repulsion-hydrophilic interaction chromatography (ERLIC) fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "A total of 44 fractions were collected and then combined to 21 fractions."
+    ],
+    "Comment[GradientTime]": [
+      "Sample elution was performed over a gradient of 3 to 30% Buffer B (0.1% formic acid in ACN) over 105 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at 300 nl",
+      "flow rate of 500 nl/min",
+      "flow rate of 350 nl/min"
+    ],
+    "Comment[IonizationType]": [
+      "Flex nano-electrospray ion source (ThermoFisher)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The Orbitrap Fusion (Thermo Scientific) was operated in positive ion data dependent mode with synchronous precursor selection (SPS)-MS3 analysis for reporter ion quantitation."
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)-MS2 fragmentation",
+      "higher-energy collision dissociation (HCD) fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 0.6 daltons"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages allowed"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion mass spectrometer",
+      "Platform 1 (Orbitrap Fusion1)"
+    ]
+  },
+  "frontalcortex_batch5_fraction05.raw": {
+    "Source Name": [
+      "frontalcortex_batch5_source"
+    ],
+    "Assay Name": [
+      "frontalcortex_batch5_source_assay_fraction05"
+    ],
+    "Raw Data File": [
+      "frontalcortex_batch5_fraction05.raw"
+    ],
+    "Characteristics[Organism]": [
+      "post-mortem human brain tissues (n=80)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Post-mortem tissues"
+    ],
+    "Characteristics[OrganismPart]": [
+      "dorsolateral prefrontal frontal cortex (Frontal Cortex, Brodmann Area 9)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lysyl endopeptidase (Wako)",
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "5 mM iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 40 samples across four pathological groups (n=10 per control, PD, AD and AD/PD groupings)"
+    ],
+    "Characteristics[Label]": [
+      "10-plex TMT kits (ThermoFisher)"
+    ],
+    "FactorValue[Experimental]": [
+      "four different groups defined as controls, AD, PD, and co-morbid AD/PD cases across two brain regions (frontal cortex and anterior cingulate gyrus)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fraction05"
+    ],
+    "Comment[FractionationMethod]": [
+      "Electrostatic repulsion-hydrophilic interaction chromatography (ERLIC) fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "A total of 44 fractions were collected and then combined to 21 fractions."
+    ],
+    "Comment[GradientTime]": [
+      "Sample elution was performed over a gradient of 3 to 30% Buffer B (0.1% formic acid in ACN) over 105 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at 300 nl",
+      "flow rate of 500 nl/min",
+      "flow rate of 350 nl/min"
+    ],
+    "Comment[IonizationType]": [
+      "Flex nano-electrospray ion source (ThermoFisher)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The Orbitrap Fusion (Thermo Scientific) was operated in positive ion data dependent mode with synchronous precursor selection (SPS)-MS3 analysis for reporter ion quantitation."
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)-MS2 fragmentation",
+      "higher-energy collision dissociation (HCD) fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 0.6 daltons"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages allowed"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion mass spectrometer",
+      "Platform 2 (Orbitrap Fusion2)"
+    ]
+  },
+  "frontalcortex_batch5_fraction13.raw": {
+    "Source Name": [
+      "frontalcortex_batch5_source"
+    ],
+    "Assay Name": [
+      "frontalcortex_batch5_source_assay_fraction13"
+    ],
+    "Raw Data File": [
+      "frontalcortex_batch5_fraction13.raw"
+    ],
+    "Characteristics[Organism]": [
+      "post-mortem human brain tissues (n=80)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Post-mortem tissues"
+    ],
+    "Characteristics[OrganismPart]": [
+      "dorsolateral prefrontal frontal cortex (Frontal Cortex, Brodmann Area 9)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lysyl endopeptidase (Wako)",
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "5 mM iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 40 samples across four pathological groups (n=10 per control, PD, AD and AD/PD groupings)"
+    ],
+    "Characteristics[Label]": [
+      "10-plex TMT kits (ThermoFisher)"
+    ],
+    "FactorValue[Experimental]": [
+      "four different groups defined as controls, AD, PD, and co-morbid AD/PD cases across two brain regions (frontal cortex and anterior cingulate gyrus)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fraction13"
+    ],
+    "Comment[FractionationMethod]": [
+      "Electrostatic repulsion-hydrophilic interaction chromatography (ERLIC) fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "A total of 44 fractions were collected and then combined to 21 fractions."
+    ],
+    "Comment[GradientTime]": [
+      "Sample elution was performed over a gradient of 3 to 30% Buffer B (0.1% formic acid in ACN) over 105 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at 300 nl",
+      "flow rate of 500 nl/min",
+      "flow rate of 350 nl/min"
+    ],
+    "Comment[IonizationType]": [
+      "Flex nano-electrospray ion source (ThermoFisher)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The Orbitrap Fusion (Thermo Scientific) was operated in positive ion data dependent mode with synchronous precursor selection (SPS)-MS3 analysis for reporter ion quantitation."
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)-MS2 fragmentation",
+      "higher-energy collision dissociation (HCD) fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 0.6 daltons"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages allowed"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion mass spectrometer",
+      "Platform 2 (Orbitrap Fusion2)"
+    ]
+  },
+  "frontalcortex_batch4_fraction03.raw": {
+    "Source Name": [
+      "frontalcortex_batch4_source"
+    ],
+    "Assay Name": [
+      "frontalcortex_batch4_source_assay_fraction03"
+    ],
+    "Raw Data File": [
+      "frontalcortex_batch4_fraction03.raw"
+    ],
+    "Characteristics[Organism]": [
+      "post-mortem human brain tissues (n=80)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Post-mortem tissues"
+    ],
+    "Characteristics[OrganismPart]": [
+      "dorsolateral prefrontal frontal cortex (Frontal Cortex, Brodmann Area 9)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lysyl endopeptidase (Wako)",
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "5 mM iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 40 samples across four pathological groups (n=10 per control, PD, AD and AD/PD groupings)"
+    ],
+    "Characteristics[Label]": [
+      "10-plex TMT kits (ThermoFisher)"
+    ],
+    "FactorValue[Experimental]": [
+      "four different groups defined as controls, AD, PD, and co-morbid AD/PD cases across two brain regions (frontal cortex and anterior cingulate gyrus)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fraction03"
+    ],
+    "Comment[FractionationMethod]": [
+      "Electrostatic repulsion-hydrophilic interaction chromatography (ERLIC) fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "A total of 44 fractions were collected and then combined to 21 fractions."
+    ],
+    "Comment[GradientTime]": [
+      "Sample elution was performed over a gradient of 3 to 30% Buffer B (0.1% formic acid in ACN) over 105 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at 300 nl",
+      "flow rate of 500 nl/min",
+      "flow rate of 350 nl/min"
+    ],
+    "Comment[IonizationType]": [
+      "Flex nano-electrospray ion source (ThermoFisher)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The Orbitrap Fusion (Thermo Scientific) was operated in positive ion data dependent mode with synchronous precursor selection (SPS)-MS3 analysis for reporter ion quantitation."
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)-MS2 fragmentation",
+      "higher-energy collision dissociation (HCD) fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 0.6 daltons"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages allowed"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion mass spectrometer",
+      "Platform 1 (Orbitrap Fusion1)"
+    ]
+  },
+  "anteriorcingulategyrus_batch2_fraction03.raw": {
+    "Source Name": [
+      "anteriorcingulategyrus_batch2_source"
+    ],
+    "Assay Name": [
+      "anteriorcingulategyrus_batch2_source_assay_fraction03"
+    ],
+    "Raw Data File": [
+      "anteriorcingulategyrus_batch2_fraction03.raw"
+    ],
+    "Characteristics[Organism]": [
+      "post-mortem human brain tissues (n=80)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Post-mortem tissues"
+    ],
+    "Characteristics[OrganismPart]": [
+      "anterior cingulate gyrus (Cingulate, Brodmann Area 24)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lysyl endopeptidase (Wako)",
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "5 mM iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 40 samples across four pathological groups (n=10 per control, PD, AD and AD/PD groupings)"
+    ],
+    "Characteristics[Label]": [
+      "10-plex TMT kits (ThermoFisher)"
+    ],
+    "FactorValue[Experimental]": [
+      "four different groups defined as controls, AD, PD, and co-morbid AD/PD cases across two brain regions (frontal cortex and anterior cingulate gyrus)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fraction03"
+    ],
+    "Comment[FractionationMethod]": [
+      "Electrostatic repulsion-hydrophilic interaction chromatography (ERLIC) fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "A total of 44 fractions were collected and then combined to 21 fractions."
+    ],
+    "Comment[GradientTime]": [
+      "Sample elution was performed over a gradient of 3 to 30% Buffer B (0.1% formic acid in ACN) over 105 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at 300 nl",
+      "flow rate of 500 nl/min",
+      "flow rate of 350 nl/min"
+    ],
+    "Comment[IonizationType]": [
+      "Flex nano-electrospray ion source (ThermoFisher)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The Orbitrap Fusion (Thermo Scientific) was operated in positive ion data dependent mode with synchronous precursor selection (SPS)-MS3 analysis for reporter ion quantitation."
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)-MS2 fragmentation",
+      "higher-energy collision dissociation (HCD) fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 0.6 daltons"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages allowed"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion mass spectrometer",
+      "Platform 1 (Orbitrap Fusion1)"
+    ]
+  },
+  "anteriorcingulategyrus_batch5_fraction04.raw": {
+    "Source Name": [
+      "anteriorcingulategyrus_batch5_source"
+    ],
+    "Assay Name": [
+      "anteriorcingulategyrus_batch5_source_assay_fraction04"
+    ],
+    "Raw Data File": [
+      "anteriorcingulategyrus_batch5_fraction04.raw"
+    ],
+    "Characteristics[Organism]": [
+      "post-mortem human brain tissues (n=80)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Post-mortem tissues"
+    ],
+    "Characteristics[OrganismPart]": [
+      "anterior cingulate gyrus (Cingulate, Brodmann Area 24)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lysyl endopeptidase (Wako)",
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "5 mM iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 40 samples across four pathological groups (n=10 per control, PD, AD and AD/PD groupings)"
+    ],
+    "Characteristics[Label]": [
+      "10-plex TMT kits (ThermoFisher)"
+    ],
+    "FactorValue[Experimental]": [
+      "four different groups defined as controls, AD, PD, and co-morbid AD/PD cases across two brain regions (frontal cortex and anterior cingulate gyrus)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fraction04"
+    ],
+    "Comment[FractionationMethod]": [
+      "Electrostatic repulsion-hydrophilic interaction chromatography (ERLIC) fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "A total of 44 fractions were collected and then combined to 21 fractions."
+    ],
+    "Comment[GradientTime]": [
+      "Sample elution was performed over a gradient of 3 to 30% Buffer B (0.1% formic acid in ACN) over 105 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at 300 nl",
+      "flow rate of 500 nl/min",
+      "flow rate of 350 nl/min"
+    ],
+    "Comment[IonizationType]": [
+      "Flex nano-electrospray ion source (ThermoFisher)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The Orbitrap Fusion (Thermo Scientific) was operated in positive ion data dependent mode with synchronous precursor selection (SPS)-MS3 analysis for reporter ion quantitation."
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)-MS2 fragmentation",
+      "higher-energy collision dissociation (HCD) fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 0.6 daltons"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages allowed"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion mass spectrometer",
+      "Platform 1 (Orbitrap Fusion1)"
+    ]
+  },
+  "frontalcortex_batch3_fraction20.raw": {
+    "Source Name": [
+      "frontalcortex_batch3_source"
+    ],
+    "Assay Name": [
+      "frontalcortex_batch3_source_assay_fraction20"
+    ],
+    "Raw Data File": [
+      "frontalcortex_batch3_fraction20.raw"
+    ],
+    "Characteristics[Organism]": [
+      "post-mortem human brain tissues (n=80)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Post-mortem tissues"
+    ],
+    "Characteristics[OrganismPart]": [
+      "dorsolateral prefrontal frontal cortex (Frontal Cortex, Brodmann Area 9)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lysyl endopeptidase (Wako)",
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "5 mM iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 40 samples across four pathological groups (n=10 per control, PD, AD and AD/PD groupings)"
+    ],
+    "Characteristics[Label]": [
+      "10-plex TMT kits (ThermoFisher)"
+    ],
+    "FactorValue[Experimental]": [
+      "four different groups defined as controls, AD, PD, and co-morbid AD/PD cases across two brain regions (frontal cortex and anterior cingulate gyrus)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fraction20"
+    ],
+    "Comment[FractionationMethod]": [
+      "Electrostatic repulsion-hydrophilic interaction chromatography (ERLIC) fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "A total of 44 fractions were collected and then combined to 21 fractions."
+    ],
+    "Comment[GradientTime]": [
+      "Sample elution was performed over a gradient of 3 to 30% Buffer B (0.1% formic acid in ACN) over 105 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at 300 nl",
+      "flow rate of 500 nl/min",
+      "flow rate of 350 nl/min"
+    ],
+    "Comment[IonizationType]": [
+      "Flex nano-electrospray ion source (ThermoFisher)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The Orbitrap Fusion (Thermo Scientific) was operated in positive ion data dependent mode with synchronous precursor selection (SPS)-MS3 analysis for reporter ion quantitation."
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)-MS2 fragmentation",
+      "higher-energy collision dissociation (HCD) fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 0.6 daltons"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages allowed"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion mass spectrometer",
+      "Platform 2 (Orbitrap Fusion2)"
+    ]
+  },
+  "anteriorcingulategyrus_batch3_fraction08.raw": {
+    "Source Name": [
+      "anteriorcingulategyrus_batch3_source"
+    ],
+    "Assay Name": [
+      "anteriorcingulategyrus_batch3_source_assay_fraction08"
+    ],
+    "Raw Data File": [
+      "anteriorcingulategyrus_batch3_fraction08.raw"
+    ],
+    "Characteristics[Organism]": [
+      "post-mortem human brain tissues (n=80)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Post-mortem tissues"
+    ],
+    "Characteristics[OrganismPart]": [
+      "anterior cingulate gyrus (Cingulate, Brodmann Area 24)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lysyl endopeptidase (Wako)",
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "5 mM iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 40 samples across four pathological groups (n=10 per control, PD, AD and AD/PD groupings)"
+    ],
+    "Characteristics[Label]": [
+      "10-plex TMT kits (ThermoFisher)"
+    ],
+    "FactorValue[Experimental]": [
+      "four different groups defined as controls, AD, PD, and co-morbid AD/PD cases across two brain regions (frontal cortex and anterior cingulate gyrus)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fraction08"
+    ],
+    "Comment[FractionationMethod]": [
+      "Electrostatic repulsion-hydrophilic interaction chromatography (ERLIC) fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "A total of 44 fractions were collected and then combined to 21 fractions."
+    ],
+    "Comment[GradientTime]": [
+      "Sample elution was performed over a gradient of 3 to 30% Buffer B (0.1% formic acid in ACN) over 105 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at 300 nl",
+      "flow rate of 500 nl/min",
+      "flow rate of 350 nl/min"
+    ],
+    "Comment[IonizationType]": [
+      "Flex nano-electrospray ion source (ThermoFisher)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The Orbitrap Fusion (Thermo Scientific) was operated in positive ion data dependent mode with synchronous precursor selection (SPS)-MS3 analysis for reporter ion quantitation."
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)-MS2 fragmentation",
+      "higher-energy collision dissociation (HCD) fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 0.6 daltons"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages allowed"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion mass spectrometer",
+      "Platform 1 (Orbitrap Fusion1)"
+    ]
+  },
+  "frontalcortex_batch2_fraction05.raw": {
+    "Source Name": [
+      "frontalcortex_batch2_source"
+    ],
+    "Assay Name": [
+      "frontalcortex_batch2_source_assay_fraction05"
+    ],
+    "Raw Data File": [
+      "frontalcortex_batch2_fraction05.raw"
+    ],
+    "Characteristics[Organism]": [
+      "post-mortem human brain tissues (n=80)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Post-mortem tissues"
+    ],
+    "Characteristics[OrganismPart]": [
+      "dorsolateral prefrontal frontal cortex (Frontal Cortex, Brodmann Area 9)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lysyl endopeptidase (Wako)",
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "5 mM iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 40 samples across four pathological groups (n=10 per control, PD, AD and AD/PD groupings)"
+    ],
+    "Characteristics[Label]": [
+      "10-plex TMT kits (ThermoFisher)"
+    ],
+    "FactorValue[Experimental]": [
+      "four different groups defined as controls, AD, PD, and co-morbid AD/PD cases across two brain regions (frontal cortex and anterior cingulate gyrus)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fraction05"
+    ],
+    "Comment[FractionationMethod]": [
+      "Electrostatic repulsion-hydrophilic interaction chromatography (ERLIC) fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "A total of 44 fractions were collected and then combined to 21 fractions."
+    ],
+    "Comment[GradientTime]": [
+      "Sample elution was performed over a gradient of 3 to 30% Buffer B (0.1% formic acid in ACN) over 105 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at 300 nl",
+      "flow rate of 500 nl/min",
+      "flow rate of 350 nl/min"
+    ],
+    "Comment[IonizationType]": [
+      "Flex nano-electrospray ion source (ThermoFisher)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The Orbitrap Fusion (Thermo Scientific) was operated in positive ion data dependent mode with synchronous precursor selection (SPS)-MS3 analysis for reporter ion quantitation."
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)-MS2 fragmentation",
+      "higher-energy collision dissociation (HCD) fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 0.6 daltons"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages allowed"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion mass spectrometer",
+      "Platform 2 (Orbitrap Fusion2)"
+    ]
+  },
+  "frontalcortex_batch3_fraction15.raw": {
+    "Source Name": [
+      "frontalcortex_batch3_source"
+    ],
+    "Assay Name": [
+      "frontalcortex_batch3_source_assay_fraction15"
+    ],
+    "Raw Data File": [
+      "frontalcortex_batch3_fraction15.raw"
+    ],
+    "Characteristics[Organism]": [
+      "post-mortem human brain tissues (n=80)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Post-mortem tissues"
+    ],
+    "Characteristics[OrganismPart]": [
+      "dorsolateral prefrontal frontal cortex (Frontal Cortex, Brodmann Area 9)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lysyl endopeptidase (Wako)",
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "5 mM iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 40 samples across four pathological groups (n=10 per control, PD, AD and AD/PD groupings)"
+    ],
+    "Characteristics[Label]": [
+      "10-plex TMT kits (ThermoFisher)"
+    ],
+    "FactorValue[Experimental]": [
+      "four different groups defined as controls, AD, PD, and co-morbid AD/PD cases across two brain regions (frontal cortex and anterior cingulate gyrus)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fraction15"
+    ],
+    "Comment[FractionationMethod]": [
+      "Electrostatic repulsion-hydrophilic interaction chromatography (ERLIC) fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "A total of 44 fractions were collected and then combined to 21 fractions."
+    ],
+    "Comment[GradientTime]": [
+      "Sample elution was performed over a gradient of 3 to 30% Buffer B (0.1% formic acid in ACN) over 105 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at 300 nl",
+      "flow rate of 500 nl/min",
+      "flow rate of 350 nl/min"
+    ],
+    "Comment[IonizationType]": [
+      "Flex nano-electrospray ion source (ThermoFisher)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The Orbitrap Fusion (Thermo Scientific) was operated in positive ion data dependent mode with synchronous precursor selection (SPS)-MS3 analysis for reporter ion quantitation."
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)-MS2 fragmentation",
+      "higher-energy collision dissociation (HCD) fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 0.6 daltons"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages allowed"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion mass spectrometer",
+      "Platform 2 (Orbitrap Fusion2)"
+    ]
+  },
+  "anteriorcingulategyrus_batch2_fraction08.raw": {
+    "Source Name": [
+      "anteriorcingulategyrus_batch2_source"
+    ],
+    "Assay Name": [
+      "anteriorcingulategyrus_batch2_source_assay_fraction08"
+    ],
+    "Raw Data File": [
+      "anteriorcingulategyrus_batch2_fraction08.raw"
+    ],
+    "Characteristics[Organism]": [
+      "post-mortem human brain tissues (n=80)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Post-mortem tissues"
+    ],
+    "Characteristics[OrganismPart]": [
+      "anterior cingulate gyrus (Cingulate, Brodmann Area 24)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lysyl endopeptidase (Wako)",
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "5 mM iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 40 samples across four pathological groups (n=10 per control, PD, AD and AD/PD groupings)"
+    ],
+    "Characteristics[Label]": [
+      "10-plex TMT kits (ThermoFisher)"
+    ],
+    "FactorValue[Experimental]": [
+      "four different groups defined as controls, AD, PD, and co-morbid AD/PD cases across two brain regions (frontal cortex and anterior cingulate gyrus)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fraction08"
+    ],
+    "Comment[FractionationMethod]": [
+      "Electrostatic repulsion-hydrophilic interaction chromatography (ERLIC) fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "A total of 44 fractions were collected and then combined to 21 fractions."
+    ],
+    "Comment[GradientTime]": [
+      "Sample elution was performed over a gradient of 3 to 30% Buffer B (0.1% formic acid in ACN) over 105 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at 300 nl",
+      "flow rate of 500 nl/min",
+      "flow rate of 350 nl/min"
+    ],
+    "Comment[IonizationType]": [
+      "Flex nano-electrospray ion source (ThermoFisher)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The Orbitrap Fusion (Thermo Scientific) was operated in positive ion data dependent mode with synchronous precursor selection (SPS)-MS3 analysis for reporter ion quantitation."
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)-MS2 fragmentation",
+      "higher-energy collision dissociation (HCD) fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 0.6 daltons"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages allowed"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion mass spectrometer",
+      "Platform 1 (Orbitrap Fusion1)"
+    ]
+  },
+  "anteriorcingulategyrus_batch4_fraction06.raw": {
+    "Source Name": [
+      "anteriorcingulategyrus_batch4_source"
+    ],
+    "Assay Name": [
+      "anteriorcingulategyrus_batch4_source_assay_fraction06"
+    ],
+    "Raw Data File": [
+      "anteriorcingulategyrus_batch4_fraction06.raw"
+    ],
+    "Characteristics[Organism]": [
+      "post-mortem human brain tissues (n=80)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Post-mortem tissues"
+    ],
+    "Characteristics[OrganismPart]": [
+      "anterior cingulate gyrus (Cingulate, Brodmann Area 24)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lysyl endopeptidase (Wako)",
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "5 mM iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 40 samples across four pathological groups (n=10 per control, PD, AD and AD/PD groupings)"
+    ],
+    "Characteristics[Label]": [
+      "10-plex TMT kits (ThermoFisher)"
+    ],
+    "FactorValue[Experimental]": [
+      "four different groups defined as controls, AD, PD, and co-morbid AD/PD cases across two brain regions (frontal cortex and anterior cingulate gyrus)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fraction06"
+    ],
+    "Comment[FractionationMethod]": [
+      "Electrostatic repulsion-hydrophilic interaction chromatography (ERLIC) fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "A total of 44 fractions were collected and then combined to 21 fractions."
+    ],
+    "Comment[GradientTime]": [
+      "Sample elution was performed over a gradient of 3 to 30% Buffer B (0.1% formic acid in ACN) over 105 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at 300 nl",
+      "flow rate of 500 nl/min",
+      "flow rate of 350 nl/min"
+    ],
+    "Comment[IonizationType]": [
+      "Flex nano-electrospray ion source (ThermoFisher)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The Orbitrap Fusion (Thermo Scientific) was operated in positive ion data dependent mode with synchronous precursor selection (SPS)-MS3 analysis for reporter ion quantitation."
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)-MS2 fragmentation",
+      "higher-energy collision dissociation (HCD) fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 0.6 daltons"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages allowed"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion mass spectrometer",
+      "Platform 1 (Orbitrap Fusion1)"
+    ]
+  },
+  "frontalcortex_batch1_fraction09.raw": {
+    "Source Name": [
+      "frontalcortex_batch1_source"
+    ],
+    "Assay Name": [
+      "frontalcortex_batch1_source_assay_fraction09"
+    ],
+    "Raw Data File": [
+      "frontalcortex_batch1_fraction09.raw"
+    ],
+    "Characteristics[Organism]": [
+      "post-mortem human brain tissues (n=80)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Post-mortem tissues"
+    ],
+    "Characteristics[OrganismPart]": [
+      "dorsolateral prefrontal frontal cortex (Frontal Cortex, Brodmann Area 9)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lysyl endopeptidase (Wako)",
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "5 mM iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 40 samples across four pathological groups (n=10 per control, PD, AD and AD/PD groupings)"
+    ],
+    "Characteristics[Label]": [
+      "10-plex TMT kits (ThermoFisher)"
+    ],
+    "FactorValue[Experimental]": [
+      "four different groups defined as controls, AD, PD, and co-morbid AD/PD cases across two brain regions (frontal cortex and anterior cingulate gyrus)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fraction09"
+    ],
+    "Comment[FractionationMethod]": [
+      "Electrostatic repulsion-hydrophilic interaction chromatography (ERLIC) fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "A total of 44 fractions were collected and then combined to 21 fractions."
+    ],
+    "Comment[GradientTime]": [
+      "Sample elution was performed over a gradient of 3 to 30% Buffer B (0.1% formic acid in ACN) over 105 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at 300 nl",
+      "flow rate of 500 nl/min",
+      "flow rate of 350 nl/min"
+    ],
+    "Comment[IonizationType]": [
+      "Flex nano-electrospray ion source (ThermoFisher)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The Orbitrap Fusion (Thermo Scientific) was operated in positive ion data dependent mode with synchronous precursor selection (SPS)-MS3 analysis for reporter ion quantitation."
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)-MS2 fragmentation",
+      "higher-energy collision dissociation (HCD) fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 0.6 daltons"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages allowed"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion mass spectrometer",
+      "Platform 1 (Orbitrap Fusion1)"
+    ]
+  },
+  "anteriorcingulategyrus_batch3_fraction16.raw": {
+    "Source Name": [
+      "anteriorcingulategyrus_batch3_source"
+    ],
+    "Assay Name": [
+      "anteriorcingulategyrus_batch3_source_assay_fraction16"
+    ],
+    "Raw Data File": [
+      "anteriorcingulategyrus_batch3_fraction16.raw"
+    ],
+    "Characteristics[Organism]": [
+      "post-mortem human brain tissues (n=80)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Post-mortem tissues"
+    ],
+    "Characteristics[OrganismPart]": [
+      "anterior cingulate gyrus (Cingulate, Brodmann Area 24)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lysyl endopeptidase (Wako)",
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "5 mM iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 40 samples across four pathological groups (n=10 per control, PD, AD and AD/PD groupings)"
+    ],
+    "Characteristics[Label]": [
+      "10-plex TMT kits (ThermoFisher)"
+    ],
+    "FactorValue[Experimental]": [
+      "four different groups defined as controls, AD, PD, and co-morbid AD/PD cases across two brain regions (frontal cortex and anterior cingulate gyrus)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fraction16"
+    ],
+    "Comment[FractionationMethod]": [
+      "Electrostatic repulsion-hydrophilic interaction chromatography (ERLIC) fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "A total of 44 fractions were collected and then combined to 21 fractions."
+    ],
+    "Comment[GradientTime]": [
+      "Sample elution was performed over a gradient of 3 to 30% Buffer B (0.1% formic acid in ACN) over 105 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at 300 nl",
+      "flow rate of 500 nl/min",
+      "flow rate of 350 nl/min"
+    ],
+    "Comment[IonizationType]": [
+      "Flex nano-electrospray ion source (ThermoFisher)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The Orbitrap Fusion (Thermo Scientific) was operated in positive ion data dependent mode with synchronous precursor selection (SPS)-MS3 analysis for reporter ion quantitation."
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)-MS2 fragmentation",
+      "higher-energy collision dissociation (HCD) fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 0.6 daltons"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages allowed"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion mass spectrometer",
+      "Platform 1 (Orbitrap Fusion1)"
+    ]
+  },
+  "anteriorcingulategyrus_batch3_fraction04.raw": {
+    "Source Name": [
+      "anteriorcingulategyrus_batch3_source"
+    ],
+    "Assay Name": [
+      "anteriorcingulategyrus_batch3_source_assay_fraction04"
+    ],
+    "Raw Data File": [
+      "anteriorcingulategyrus_batch3_fraction04.raw"
+    ],
+    "Characteristics[Organism]": [
+      "post-mortem human brain tissues (n=80)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Post-mortem tissues"
+    ],
+    "Characteristics[OrganismPart]": [
+      "anterior cingulate gyrus (Cingulate, Brodmann Area 24)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lysyl endopeptidase (Wako)",
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "5 mM iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 40 samples across four pathological groups (n=10 per control, PD, AD and AD/PD groupings)"
+    ],
+    "Characteristics[Label]": [
+      "10-plex TMT kits (ThermoFisher)"
+    ],
+    "FactorValue[Experimental]": [
+      "four different groups defined as controls, AD, PD, and co-morbid AD/PD cases across two brain regions (frontal cortex and anterior cingulate gyrus)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fraction04"
+    ],
+    "Comment[FractionationMethod]": [
+      "Electrostatic repulsion-hydrophilic interaction chromatography (ERLIC) fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "A total of 44 fractions were collected and then combined to 21 fractions."
+    ],
+    "Comment[GradientTime]": [
+      "Sample elution was performed over a gradient of 3 to 30% Buffer B (0.1% formic acid in ACN) over 105 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at 300 nl",
+      "flow rate of 500 nl/min",
+      "flow rate of 350 nl/min"
+    ],
+    "Comment[IonizationType]": [
+      "Flex nano-electrospray ion source (ThermoFisher)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The Orbitrap Fusion (Thermo Scientific) was operated in positive ion data dependent mode with synchronous precursor selection (SPS)-MS3 analysis for reporter ion quantitation."
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)-MS2 fragmentation",
+      "higher-energy collision dissociation (HCD) fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 0.6 daltons"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages allowed"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion mass spectrometer",
+      "Platform 1 (Orbitrap Fusion1)"
+    ]
+  },
+  "anteriorcingulategyrus_batch2_fraction13.raw": {
+    "Source Name": [
+      "anteriorcingulategyrus_batch2_source"
+    ],
+    "Assay Name": [
+      "anteriorcingulategyrus_batch2_source_assay_fraction13"
+    ],
+    "Raw Data File": [
+      "anteriorcingulategyrus_batch2_fraction13.raw"
+    ],
+    "Characteristics[Organism]": [
+      "post-mortem human brain tissues (n=80)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Post-mortem tissues"
+    ],
+    "Characteristics[OrganismPart]": [
+      "anterior cingulate gyrus (Cingulate, Brodmann Area 24)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lysyl endopeptidase (Wako)",
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "5 mM iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 40 samples across four pathological groups (n=10 per control, PD, AD and AD/PD groupings)"
+    ],
+    "Characteristics[Label]": [
+      "10-plex TMT kits (ThermoFisher)"
+    ],
+    "FactorValue[Experimental]": [
+      "four different groups defined as controls, AD, PD, and co-morbid AD/PD cases across two brain regions (frontal cortex and anterior cingulate gyrus)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fraction13"
+    ],
+    "Comment[FractionationMethod]": [
+      "Electrostatic repulsion-hydrophilic interaction chromatography (ERLIC) fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "A total of 44 fractions were collected and then combined to 21 fractions."
+    ],
+    "Comment[GradientTime]": [
+      "Sample elution was performed over a gradient of 3 to 30% Buffer B (0.1% formic acid in ACN) over 105 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at 300 nl",
+      "flow rate of 500 nl/min",
+      "flow rate of 350 nl/min"
+    ],
+    "Comment[IonizationType]": [
+      "Flex nano-electrospray ion source (ThermoFisher)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The Orbitrap Fusion (Thermo Scientific) was operated in positive ion data dependent mode with synchronous precursor selection (SPS)-MS3 analysis for reporter ion quantitation."
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)-MS2 fragmentation",
+      "higher-energy collision dissociation (HCD) fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 0.6 daltons"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages allowed"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion mass spectrometer",
+      "Platform 1 (Orbitrap Fusion1)"
+    ]
+  },
+  "anteriorcingulategyrus_batch4_fraction16.raw": {
+    "Source Name": [
+      "anteriorcingulategyrus_batch4_source"
+    ],
+    "Assay Name": [
+      "anteriorcingulategyrus_batch4_source_assay_fraction16"
+    ],
+    "Raw Data File": [
+      "anteriorcingulategyrus_batch4_fraction16.raw"
+    ],
+    "Characteristics[Organism]": [
+      "post-mortem human brain tissues (n=80)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Post-mortem tissues"
+    ],
+    "Characteristics[OrganismPart]": [
+      "anterior cingulate gyrus (Cingulate, Brodmann Area 24)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lysyl endopeptidase (Wako)",
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "5 mM iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 40 samples across four pathological groups (n=10 per control, PD, AD and AD/PD groupings)"
+    ],
+    "Characteristics[Label]": [
+      "10-plex TMT kits (ThermoFisher)"
+    ],
+    "FactorValue[Experimental]": [
+      "four different groups defined as controls, AD, PD, and co-morbid AD/PD cases across two brain regions (frontal cortex and anterior cingulate gyrus)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fraction16"
+    ],
+    "Comment[FractionationMethod]": [
+      "Electrostatic repulsion-hydrophilic interaction chromatography (ERLIC) fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "A total of 44 fractions were collected and then combined to 21 fractions."
+    ],
+    "Comment[GradientTime]": [
+      "Sample elution was performed over a gradient of 3 to 30% Buffer B (0.1% formic acid in ACN) over 105 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at 300 nl",
+      "flow rate of 500 nl/min",
+      "flow rate of 350 nl/min"
+    ],
+    "Comment[IonizationType]": [
+      "Flex nano-electrospray ion source (ThermoFisher)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The Orbitrap Fusion (Thermo Scientific) was operated in positive ion data dependent mode with synchronous precursor selection (SPS)-MS3 analysis for reporter ion quantitation."
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)-MS2 fragmentation",
+      "higher-energy collision dissociation (HCD) fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 0.6 daltons"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages allowed"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion mass spectrometer",
+      "Platform 1 (Orbitrap Fusion1)"
+    ]
+  },
+  "frontalcortex_batch1_fraction13.raw": {
+    "Source Name": [
+      "frontalcortex_batch1_source"
+    ],
+    "Assay Name": [
+      "frontalcortex_batch1_source_assay_fraction13"
+    ],
+    "Raw Data File": [
+      "frontalcortex_batch1_fraction13.raw"
+    ],
+    "Characteristics[Organism]": [
+      "post-mortem human brain tissues (n=80)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Post-mortem tissues"
+    ],
+       "Characteristics[OrganismPart]": [
+      "dorsolateral prefrontal frontal cortex (Frontal Cortex, Brodmann Area 9)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lysyl endopeptidase (Wako)",
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "5 mM iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 40 samples across four pathological groups (n=10 per control, PD, AD and AD/PD groupings)"
+    ],
+    "Characteristics[Label]": [
+      "10-plex TMT kits (ThermoFisher)"
+    ],
+    "FactorValue[Experimental]": [
+      "four different groups defined as controls, AD, PD, and co-morbid AD/PD cases across two brain regions (frontal cortex and anterior cingulate gyrus)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fraction13"
+    ],
+    "Comment[FractionationMethod]": [
+      "Electrostatic repulsion-hydrophilic interaction chromatography (ERLIC) fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "A total of 44 fractions were collected and then combined to 21 fractions."
+    ],
+    "Comment[GradientTime]": [
+      "Sample elution was performed over a gradient of 3 to 30% Buffer B (0.1% formic acid in ACN) over 105 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at 300 nl",
+      "flow rate of 500 nl/min",
+      "flow rate of 350 nl/min"
+    ],
+    "Comment[IonizationType]": [
+      "Flex nano-electrospray ion source (ThermoFisher)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The Orbitrap Fusion (Thermo Scientific) was operated in positive ion data dependent mode with synchronous precursor selection (SPS)-MS3 analysis for reporter ion quantitation."
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)-MS2 fragmentation",
+      "higher-energy collision dissociation (HCD) fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 0.6 daltons"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages allowed"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion mass spectrometer",
+      "Platform 1 (Orbitrap Fusion1)"
+    ]
+  },
+  "frontalcortex_batch4_fraction04.raw": {
+    "Source Name": [
+      "frontalcortex_batch4_source"
+    ],
+    "Assay Name": [
+      "frontalcortex_batch4_source_assay_fraction04"
+    ],
+    "Raw Data File": [
+      "frontalcortex_batch4_fraction04.raw"
+    ],
+    "Characteristics[Organism]": [
+      "post-mortem human brain tissues (n=80)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Post-mortem tissues"
+    ],
+    "Characteristics[OrganismPart]": [
+      "dorsolateral prefrontal frontal cortex (Frontal Cortex, Brodmann Area 9)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lysyl endopeptidase (Wako)",
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "5 mM iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 40 samples across four pathological groups (n=10 per control, PD, AD and AD/PD groupings)"
+    ],
+    "Characteristics[Label]": [
+      "10-plex TMT kits (ThermoFisher)"
+    ],
+    "FactorValue[Experimental]": [
+      "four different groups defined as controls, AD, PD, and co-morbid AD/PD cases across two brain regions (frontal cortex and anterior cingulate gyrus)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fraction04"
+    ],
+    "Comment[FractionationMethod]": [
+      "Electrostatic repulsion-hydrophilic interaction chromatography (ERLIC) fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "A total of 44 fractions were collected and then combined to 21 fractions."
+    ],
+    "Comment[GradientTime]": [
+      "Sample elution was performed over a gradient of 3 to 30% Buffer B (0.1% formic acid in ACN) over 105 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at 300 nl",
+      "flow rate of 500 nl/min",
+      "flow rate of 350 nl/min"
+    ],
+    "Comment[IonizationType]": [
+      "Flex nano-electrospray ion source (ThermoFisher)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The Orbitrap Fusion (Thermo Scientific) was operated in positive ion data dependent mode with synchronous precursor selection (SPS)-MS3 analysis for reporter ion quantitation."
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)-MS2 fragmentation",
+      "higher-energy collision dissociation (HCD) fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 0.6 daltons"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages allowed"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion mass spectrometer",
+      "Platform 1 (Orbitrap Fusion1)"
+    ]
+  },
+  "anteriorcingulategyrus_batch4_fraction10.raw": {
+    "Source Name": [
+      "anteriorcingulategyrus_batch4_source"
+    ],
+    "Assay Name": [
+      "anteriorcingulategyrus_batch4_source_assay_fraction10"
+    ],
+    "Raw Data File": [
+      "anteriorcingulategyrus_batch4_fraction10.raw"
+    ],
+    "Characteristics[Organism]": [
+      "post-mortem human brain tissues (n=80)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Post-mortem tissues"
+    ],
+    "Characteristics[OrganismPart]": [
+      "anterior cingulate gyrus (Cingulate, Brodmann Area 24)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lysyl endopeptidase (Wako)",
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "5 mM iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 40 samples across four pathological groups (n=10 per control, PD, AD and AD/PD groupings)"
+    ],
+    "Characteristics[Label]": [
+      "10-plex TMT kits (ThermoFisher)"
+    ],
+    "FactorValue[Experimental]": [
+      "four different groups defined as controls, AD, PD, and co-morbid AD/PD cases across two brain regions (frontal cortex and anterior cingulate gyrus)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fraction10"
+    ],
+    "Comment[FractionationMethod]": [
+      "Electrostatic repulsion-hydrophilic interaction chromatography (ERLIC) fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "A total of 44 fractions were collected and then combined to 21 fractions."
+    ],
+    "Comment[GradientTime]": [
+      "Sample elution was performed over a gradient of 3 to 30% Buffer B (0.1% formic acid in ACN) over 105 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at 300 nl",
+      "flow rate of 500 nl/min",
+      "flow rate of 350 nl/min"
+    ],
+    "Comment[IonizationType]": [
+      "Flex nano-electrospray ion source (ThermoFisher)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The Orbitrap Fusion (Thermo Scientific) was operated in positive ion data dependent mode with synchronous precursor selection (SPS)-MS3 analysis for reporter ion quantitation."
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)-MS2 fragmentation",
+      "higher-energy collision dissociation (HCD) fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 0.6 daltons"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages allowed"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion mass spectrometer",
+      "Platform 1 (Orbitrap Fusion1)"
+    ]
+  },
+  "frontalcortex_batch2_fraction10.raw": {
+    "Source Name": [
+      "frontalcortex_batch2_source"
+    ],
+    "Assay Name": [
+      "frontalcortex_batch2_source_assay_fraction10"
+    ],
+    "Raw Data File": [
+      "frontalcortex_batch2_fraction10.raw"
+    ],
+    "Characteristics[Organism]": [
+      "post-mortem human brain tissues (n=80)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Post-mortem tissues"
+    ],
+    "Characteristics[OrganismPart]": [
+      "dorsolateral prefrontal frontal cortex (Frontal Cortex, Brodmann Area 9)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lysyl endopeptidase (Wako)",
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "5 mM iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 40 samples across four pathological groups (n=10 per control, PD, AD and AD/PD groupings)"
+    ],
+    "Characteristics[Label]": [
+      "10-plex TMT kits (ThermoFisher)"
+    ],
+    "FactorValue[Experimental]": [
+      "four different groups defined as controls, AD, PD, and co-morbid AD/PD cases across two brain regions (frontal cortex and anterior cingulate gyrus)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fraction10"
+    ],
+    "Comment[FractionationMethod]": [
+      "Electrostatic repulsion-hydrophilic interaction chromatography (ERLIC) fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "A total of 44 fractions were collected and then combined to 21 fractions."
+    ],
+    "Comment[GradientTime]": [
+      "Sample elution was performed over a gradient of 3 to 30% Buffer B (0.1% formic acid in ACN) over 105 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at 300 nl",
+      "flow rate of 500 nl/min",
+      "flow rate of 350 nl/min"
+    ],
+    "Comment[IonizationType]": [
+      "Flex nano-electrospray ion source (ThermoFisher)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The Orbitrap Fusion (Thermo Scientific) was operated in positive ion data dependent mode with synchronous precursor selection (SPS)-MS3 analysis for reporter ion quantitation."
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)-MS2 fragmentation",
+      "higher-energy collision dissociation (HCD) fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 0.6 daltons"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages allowed"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion mass spectrometer",
+      "Platform 2 (Orbitrap Fusion2)"
+    ]
+  },
+  "frontalcortex_batch3_fraction13.raw": {
+    "Source Name": [
+      "frontalcortex_batch3_source"
+    ],
+    "Assay Name": [
+      "frontalcortex_batch3_source_assay_fraction13"
+    ],
+    "Raw Data File": [
+      "frontalcortex_batch3_fraction13.raw"
+    ],
+    "Characteristics[Organism]": [
+      "post-mortem human brain tissues (n=80)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Post-mortem tissues"
+    ],
+    "Characteristics[OrganismPart]": [
+      "dorsolateral prefrontal frontal cortex (Frontal Cortex, Brodmann Area 9)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lysyl endopeptidase (Wako)",
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "5 mM iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 40 samples across four pathological groups (n=10 per control, PD, AD and AD/PD groupings)"
+    ],
+    "Characteristics[Label]": [
+      "10-plex TMT kits (ThermoFisher)"
+    ],
+    "FactorValue[Experimental]": [
+      "four different groups defined as controls, AD, PD, and co-morbid AD/PD cases across two brain regions (frontal cortex and anterior cingulate gyrus)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fraction13"
+    ],
+    "Comment[FractionationMethod]": [
+      "Electrostatic repulsion-hydrophilic interaction chromatography (ERLIC) fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "A total of 44 fractions were collected and then combined to 21 fractions."
+    ],
+    "Comment[GradientTime]": [
+      "Sample elution was performed over a gradient of 3 to 30% Buffer B (0.1% formic acid in ACN) over 105 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at 300 nl",
+      "flow rate of 500 nl/min",
+      "flow rate of 350 nl/min"
+    ],
+    "Comment[IonizationType]": [
+      "Flex nano-electrospray ion source (ThermoFisher)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The Orbitrap Fusion (Thermo Scientific) was operated in positive ion data dependent mode with synchronous precursor selection (SPS)-MS3 analysis for reporter ion quantitation."
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)-MS2 fragmentation",
+      "higher-energy collision dissociation (HCD) fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 0.6 daltons"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages allowed"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion mass spectrometer",
+      "Platform 2 (Orbitrap Fusion2)"
+    ]
+  },
+  "frontalcortex_batch4_fraction13.raw": {
+    "Source Name": [
+      "frontalcortex_batch4_source"
+    ],
+    "Assay Name": [
+      "frontalcortex_batch4_source_assay_fraction13"
+    ],
+    "Raw Data File": [
+      "frontalcortex_batch4_fraction13.raw"
+    ],
+    "Characteristics[Organism]": [
+      "post-mortem human brain tissues (n=80)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Post-mortem tissues"
+    ],
+    "Characteristics[OrganismPart]": [
+      "dorsolateral prefrontal frontal cortex (Frontal Cortex, Brodmann Area 9)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lysyl endopeptidase (Wako)",
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "5 mM iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 40 samples across four pathological groups (n=10 per control, PD, AD and AD/PD groupings)"
+    ],
+    "Characteristics[Label]": [
+      "10-plex TMT kits (ThermoFisher)"
+    ],
+    "FactorValue[Experimental]": [
+      "four different groups defined as controls, AD, PD, and co-morbid AD/PD cases across two brain regions (frontal cortex and anterior cingulate gyrus)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fraction13"
+    ],
+    "Comment[FractionationMethod]": [
+      "Electrostatic repulsion-hydrophilic interaction chromatography (ERLIC) fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "A total of 44 fractions were collected and then combined to 21 fractions."
+    ],
+    "Comment[GradientTime]": [
+      "Sample elution was performed over a gradient of 3 to 30% Buffer B (0.1% formic acid in ACN) over 105 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at 300 nl",
+      "flow rate of 500 nl/min",
+      "flow rate of 350 nl/min"
+    ],
+    "Comment[IonizationType]": [
+      "Flex nano-electrospray ion source (ThermoFisher)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The Orbitrap Fusion (Thermo Scientific) was operated in positive ion data dependent mode with synchronous precursor selection (SPS)-MS3 analysis for reporter ion quantitation."
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)-MS2 fragmentation",
+      "higher-energy collision dissociation (HCD) fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 0.6 daltons"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages allowed"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion mass spectrometer",
+      "Platform 1 (Orbitrap Fusion1)"
+    ]
+  },
+  "frontalcortex_batch5_fraction18.raw": {
+    "Source Name": [
+      "frontalcortex_batch5_source"
+    ],
+    "Assay Name": [
+      "frontalcortex_batch5_source_assay_fraction18"
+    ],
+    "Raw Data File": [
+      "frontalcortex_batch5_fraction18.raw"
+    ],
+    "Characteristics[Organism]": [
+      "post-mortem human brain tissues (n=80)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Post-mortem tissues"
+    ],
+    "Characteristics[OrganismPart]": [
+      "dorsolateral prefrontal frontal cortex (Frontal Cortex, Brodmann Area 9)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lysyl endopeptidase (Wako)",
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "5 mM iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 40 samples across four pathological groups (n=10 per control, PD, AD and AD/PD groupings)"
+    ],
+    "Characteristics[Label]": [
+      "10-plex TMT kits (ThermoFisher)"
+    ],
+    "FactorValue[Experimental]": [
+      "four different groups defined as controls, AD, PD, and co-morbid AD/PD cases across two brain regions (frontal cortex and anterior cingulate gyrus)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fraction18"
+    ],
+    "Comment[FractionationMethod]": [
+      "Electrostatic repulsion-hydrophilic interaction chromatography (ERLIC) fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "A total of 44 fractions were collected and then combined to 21 fractions."
+    ],
+    "Comment[GradientTime]": [
+      "Sample elution was performed over a gradient of 3 to 30% Buffer B (0.1% formic acid in ACN) over 105 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at 300 nl",
+      "flow rate of 500 nl/min",
+      "flow rate of 350 nl/min"
+    ],
+    "Comment[IonizationType]": [
+      "Flex nano-electrospray ion source (ThermoFisher)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The Orbitrap Fusion (Thermo Scientific) was operated in positive ion data dependent mode with synchronous precursor selection (SPS)-MS3 analysis for reporter ion quantitation."
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)-MS2 fragmentation",
+      "higher-energy collision dissociation (HCD) fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 0.6 daltons"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages allowed"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion mass spectrometer",
+      "Platform 2 (Orbitrap Fusion2)"
+    ]
+  },
+  "frontalcortex_batch5_fraction17.raw": {
+    "Source Name": [
+      "frontalcortex_batch5_source"
+    ],
+    "Assay Name": [
+      "frontalcortex_batch5_source_assay_fraction17"
+    ],
+    "Raw Data File": [
+      "frontalcortex_batch5_fraction17.raw"
+    ],
+    "Characteristics[Organism]": [
+      "post-mortem human brain tissues (n=80)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Post-mortem tissues"
+    ],
+    "Characteristics[OrganismPart]": [
+      "dorsolateral prefrontal frontal cortex (Frontal Cortex, Brodmann Area 9)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lysyl endopeptidase (Wako)",
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "5 mM iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 40 samples across four pathological groups (n=10 per control, PD, AD and AD/PD groupings)"
+    ],
+    "Characteristics[Label]": [
+      "10-plex TMT kits (ThermoFisher)"
+    ],
+    "FactorValue[Experimental]": [
+      "four different groups defined as controls, AD, PD, and co-morbid AD/PD cases across two brain regions (frontal cortex and anterior cingulate gyrus)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fraction17"
+    ],
+    "Comment[FractionationMethod]": [
+      "Electrostatic repulsion-hydrophilic interaction chromatography (ERLIC) fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "A total of 44 fractions were collected and then combined to 21 fractions."
+    ],
+    "Comment[GradientTime]": [
+      "Sample elution was performed over a gradient of 3 to 30% Buffer B (0.1% formic acid in ACN) over 105 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at 300 nl",
+      "flow rate of 500 nl/min",
+      "flow rate of 350 nl/min"
+    ],
+    "Comment[IonizationType]": [
+      "Flex nano-electrospray ion source (ThermoFisher)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The Orbitrap Fusion (Thermo Scientific) was operated in positive ion data dependent mode with synchronous precursor selection (SPS)-MS3 analysis for reporter ion quantitation."
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)-MS2 fragmentation",
+      "higher-energy collision dissociation (HCD) fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 0.6 daltons"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages allowed"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion mass spectrometer",
+      "Platform 2 (Orbitrap Fusion2)"
+    ]
+  },
+  "frontalcortex_batch5_fraction16.raw": {
+    "Source Name": [
+      "frontalcortex_batch5_source"
+    ],
+    "Assay Name": [
+      "frontalcortex_batch5_source_assay_fraction16"
+    ],
+    "Raw Data File": [
+      "frontalcortex_batch5_fraction16.raw"
+    ],
+    "Characteristics[Organism]": [
+      "post-mortem human brain tissues (n=80)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Post-mortem tissues"
+    ],
+    "Characteristics[OrganismPart]": [
+      "dorsolateral prefrontal frontal cortex (Frontal Cortex, Brodmann Area 9)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lysyl endopeptidase (Wako)",
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "5 mM iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 40 samples across four pathological groups (n=10 per control, PD, AD and AD/PD groupings)"
+    ],
+    "Characteristics[Label]": [
+      "10-plex TMT kits (ThermoFisher)"
+    ],
+    "FactorValue[Experimental]": [
+      "four different groups defined as controls, AD, PD, and co-morbid AD/PD cases across two brain regions (frontal cortex and anterior cingulate gyrus)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fraction16"
+    ],
+    "Comment[FractionationMethod]": [
+      "Electrostatic repulsion-hydrophilic interaction chromatography (ERLIC) fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "A total of 44 fractions were collected and then combined to 21 fractions."
+    ],
+    "Comment[GradientTime]": [
+      "Sample elution was performed over a gradient of 3 to 30% Buffer B (0.1% formic acid in ACN) over 105 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at 300 nl",
+      "flow rate of 500 nl/min",
+      "flow rate of 350 nl/min"
+    ],
+    "Comment[IonizationType]": [
+      "Flex nano-electrospray ion source (ThermoFisher)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The Orbitrap Fusion (Thermo Scientific) was operated in positive ion data dependent mode with synchronous precursor selection (SPS)-MS3 analysis for reporter ion quantitation."
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)-MS2 fragmentation",
+      "higher-energy collision dissociation (HCD) fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 0.6 daltons"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages allowed"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion mass spectrometer",
+      "Platform 2 (Orbitrap Fusion2)"
+    ]
+  },
+  "anteriorcingulategyrus_batch3_fraction09.raw": {
+    "Source Name": [
+      "anteriorcingulategyrus_batch3_source"
+    ],
+    "Assay Name": [
+      "anteriorcingulategyrus_batch3_source_assay_fraction09"
+    ],
+    "Raw Data File": [
+      "anteriorcingulategyrus_batch3_fraction09.raw"
+    ],
+    "Characteristics[Organism]": [
+      "post-mortem human brain tissues (n=80)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Post-mortem tissues"
+    ],
+    "Characteristics[OrganismPart]": [
+      "anterior cingulate gyrus (Cingulate, Brodmann Area 24)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lysyl endopeptidase (Wako)",
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "5 mM iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 40 samples across four pathological groups (n=10 per control, PD, AD and AD/PD groupings)"
+    ],
+    "Characteristics[Label]": [
+      "10-plex TMT kits (ThermoFisher)"
+    ],
+    "FactorValue[Experimental]": [
+      "four different groups defined as controls, AD, PD, and co-morbid AD/PD cases across two brain regions (frontal cortex and anterior cingulate gyrus)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fraction09"
+    ],
+    "Comment[FractionationMethod]": [
+      "Electrostatic repulsion-hydrophilic interaction chromatography (ERLIC) fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "A total of 44 fractions were collected and then combined to 21 fractions."
+    ],
+    "Comment[GradientTime]": [
+      "Sample elution was performed over a gradient of 3 to 30% Buffer B (0.1% formic acid in ACN) over 105 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at 300 nl",
+      "flow rate of 500 nl/min",
+      "flow rate of 350 nl/min"
+    ],
+    "Comment[IonizationType]": [
+      "Flex nano-electrospray ion source (ThermoFisher)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The Orbitrap Fusion (Thermo Scientific) was operated in positive ion data dependent mode with synchronous precursor selection (SPS)-MS3 analysis for reporter ion quantitation."
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)-MS2 fragmentation",
+      "higher-energy collision dissociation (HCD) fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 0.6 daltons"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages allowed"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion mass spectrometer",
+      "Platform 1 (Orbitrap Fusion1)"
+    ]
+  },
+  "anteriorcingulategyrus_batch2_fraction09.raw": {
+    "Source Name": [
+      "anteriorcingulategyrus_batch2_source"
+    ],
+    "Assay Name": [
+      "anteriorcingulategyrus_batch2_source_assay_fraction09"
+    ],
+    "Raw Data File": [
+      "anteriorcingulategyrus_batch2_fraction09.raw"
+    ],
+    "Characteristics[Organism]": [
+      "post-mortem human brain tissues (n=80)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Post-mortem tissues"
+    ],
+    "Characteristics[OrganismPart]": [
+      "anterior cingulate gyrus (Cingulate, Brodmann Area 24)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lysyl endopeptidase (Wako)",
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "5 mM iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 40 samples across four pathological groups (n=10 per control, PD, AD and AD/PD groupings)"
+    ],
+    "Characteristics[Label]": [
+      "10-plex TMT kits (ThermoFisher)"
+    ],
+    "FactorValue[Experimental]": [
+      "four different groups defined as controls, AD, PD, and co-morbid AD/PD cases across two brain regions (frontal cortex and anterior cingulate gyrus)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fraction09"
+    ],
+    "Comment[FractionationMethod]": [
+      "Electrostatic repulsion-hydrophilic interaction chromatography (ERLIC) fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "A total of 44 fractions were collected and then combined to 21 fractions."
+    ],
+    "Comment[GradientTime]": [
+      "Sample elution was performed over a gradient of 3 to 30% Buffer B (0.1% formic acid in ACN) over 105 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at 300 nl",
+      "flow rate of 500 nl/min",
+      "flow rate of 350 nl/min"
+    ],
+    "Comment[IonizationType]": [
+      "Flex nano-electrospray ion source (ThermoFisher)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The Orbitrap Fusion (Thermo Scientific) was operated in positive ion data dependent mode with synchronous precursor selection (SPS)-MS3 analysis for reporter ion quantitation."
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)-MS2 fragmentation",
+      "higher-energy collision dissociation (HCD) fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 0.6 daltons"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages allowed"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion mass spectrometer",
+      "Platform 1 (Orbitrap Fusion1)"
+    ]
+  },
+  "anteriorcingulategyrus_batch2_fraction14.raw": {
+    "Source Name": [
+      "anteriorcingulategyrus_batch2_source"
+    ],
+    "Assay Name": [
+      "anteriorcingulategyrus_batch2_source_assay_fraction14"
+    ],
+    "Raw Data File": [
+      "anteriorcingulategyrus_batch2_fraction14.raw"
+    ],
+    "Characteristics[Organism]": [
+      "post-mortem human brain tissues (n=80)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Post-mortem tissues"
+    ],
+    "Characteristics[OrganismPart]": [
+      "anterior cingulate gyrus (Cingulate, Brodmann Area 24)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lysyl endopeptidase (Wako)",
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "5 mM iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 40 samples across four pathological groups (n=10 per control, PD, AD and AD/PD groupings)"
+    ],
+    "Characteristics[Label]": [
+      "10-plex TMT kits (ThermoFisher)"
+    ],
+    "FactorValue[Experimental]": [
+      "four different groups defined as controls, AD, PD, and co-morbid AD/PD cases across two brain regions (frontal cortex and anterior cingulate gyrus)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fraction14"
+    ],
+    "Comment[FractionationMethod]": [
+      "Electrostatic repulsion-hydrophilic interaction chromatography (ERLIC) fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "A total of 44 fractions were collected and then combined to 21 fractions."
+    ],
+    "Comment[GradientTime]": [
+      "Sample elution was performed over a gradient of 3 to 30% Buffer B (0.1% formic acid in ACN) over 105 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at 300 nl",
+      "flow rate of 500 nl/min",
+      "flow rate of 350 nl/min"
+    ],
+    "Comment[IonizationType]": [
+      "Flex nano-electrospray ion source (ThermoFisher)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The Orbitrap Fusion (Thermo Scientific) was operated in positive ion data dependent mode with synchronous precursor selection (SPS)-MS3 analysis for reporter ion quantitation."
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)-MS2 fragmentation",
+      "higher-energy collision dissociation (HCD) fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 0.6 daltons"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages allowed"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion mass spectrometer",
+      "Platform 1 (Orbitrap Fusion1)"
+    ]
+  },
+  "anteriorcingulategyrus_batch1_fraction06.raw": {
+    "Source Name": [
+      "anteriorcingulategyrus_batch1_source"
+    ],
+    "Assay Name": [
+      "anteriorcingulategyrus_batch1_source_assay_fraction06"
+    ],
+    "Raw Data File": [
+      "anteriorcingulategyrus_batch1_fraction06.raw"
+    ],
+    "Characteristics[Organism]": [
+      "post-mortem human brain tissues (n=80)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Post-mortem tissues"
+    ],
+    "Characteristics[OrganismPart]": [
+      "anterior cingulate gyrus (Cingulate, Brodmann Area 24)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lysyl endopeptidase (Wako)",
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "5 mM iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 40 samples across four pathological groups (n=10 per control, PD, AD and AD/PD groupings)"
+    ],
+    "Characteristics[Label]": [
+      "10-plex TMT kits (ThermoFisher)"
+    ],
+    "FactorValue[Experimental]": [
+      "four different groups defined as controls, AD, PD, and co-morbid AD/PD cases across two brain regions (frontal cortex and anterior cingulate gyrus)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fraction06"
+    ],
+    "Comment[FractionationMethod]": [
+      "Electrostatic repulsion-hydrophilic interaction chromatography (ERLIC) fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "A total of 44 fractions were collected and then combined to 21 fractions."
+    ],
+    "Comment[GradientTime]": [
+      "Sample elution was performed over a gradient of 3 to 30% Buffer B (0.1% formic acid in ACN) over 105 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at 300 nl",
+      "flow rate of 500 nl/min",
+      "flow rate of 350 nl/min"
+    ],
+    "Comment[IonizationType]": [
+      "Flex nano-electrospray ion source (ThermoFisher)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The Orbitrap Fusion (Thermo Scientific) was operated in positive ion data dependent mode with synchronous precursor selection (SPS)-MS3 analysis for reporter ion quantitation."
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)-MS2 fragmentation",
+      "higher-energy collision dissociation (HCD) fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 0.6 daltons"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages allowed"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion mass spectrometer",
+      "Platform 1 (Orbitrap Fusion1)"
+    ]
+  },
+  "frontalcortex_batch4_fraction21.raw": {
+    "Source Name": [
+      "frontalcortex_batch4_source"
+    ],
+    "Assay Name": [
+      "frontalcortex_batch4_source_assay_fraction21"
+    ],
+    "Raw Data File": [
+      "frontalcortex_batch4_fraction21.raw"
+    ],
+    "Characteristics[Organism]": [
+      "post-mortem human brain tissues (n=80)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Post-mortem tissues"
+    ],
+    "Characteristics[OrganismPart]": [
+      "dorsolateral prefrontal frontal cortex (Frontal Cortex, Brodmann Area 9)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lysyl endopeptidase (Wako)",
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "5 mM iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 40 samples across four pathological groups (n=10 per control, PD, AD and AD/PD groupings)"
+    ],
+    "Characteristics[Label]": [
+      "10-plex TMT kits (ThermoFisher)"
+    ],
+    "FactorValue[Experimental]": [
+      "four different groups defined as controls, AD, PD, and co-morbid AD/PD cases across two brain regions (frontal cortex and anterior cingulate gyrus)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fraction21"
+    ],
+    "Comment[FractionationMethod]": [
+      "Electrostatic repulsion-hydrophilic interaction chromatography (ERLIC) fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "A total of 44 fractions were collected and then combined to 21 fractions."
+    ],
+    "Comment[GradientTime]": [
+      "Sample elution was performed over a gradient of 3 to 30% Buffer B (0.1% formic acid in ACN) over 105 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at 300 nl",
+      "flow rate of 500 nl/min",
+      "flow rate of 350 nl/min"
+    ],
+    "Comment[IonizationType]": [
+      "Flex nano-electrospray ion source (ThermoFisher)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The Orbitrap Fusion (Thermo Scientific) was operated in positive ion data dependent mode with synchronous precursor selection (SPS)-MS3 analysis for reporter ion quantitation."
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)-MS2 fragmentation",
+      "higher-energy collision dissociation (HCD) fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 0.6 daltons"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages allowed"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion mass spectrometer",
+      "Platform 1 (Orbitrap Fusion1)"
+    ]
+  },
+  "anteriorcingulategyrus_batch2_fraction19.raw": {
+    "Source Name": [
+      "anteriorcingulategyrus_batch2_source"
+    ],
+    "Assay Name": [
+      "anteriorcingulategyrus_batch2_source_assay_fraction19"
+    ],
+    "Raw Data File": [
+      "anteriorcingulategyrus_batch2_fraction19.raw"
+    ],
+    "Characteristics[Organism]": [
+      "post-mortem human brain tissues (n=80)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Post-mortem tissues"
+    ],
+    "Characteristics[OrganismPart]": [
+      "anterior cingulate gyrus (Cingulate, Brodmann Area 24)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lysyl endopeptidase (Wako)",
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "5 mM iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 40 samples across four pathological groups (n=10 per control, PD, AD and AD/PD groupings)"
+    ],
+    "Characteristics[Label]": [
+      "10-plex TMT kits (ThermoFisher)"
+    ],
+    "FactorValue[Experimental]": [
+      "four different groups defined as controls, AD, PD, and co-morbid AD/PD cases across two brain regions (frontal cortex and anterior cingulate gyrus)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fraction19"
+    ],
+    "Comment[FractionationMethod]": [
+      "Electrostatic repulsion-hydrophilic interaction chromatography (ERLIC) fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "A total of 44 fractions were collected and then combined to 21 fractions."
+    ],
+    "Comment[GradientTime]": [
+      "Sample elution was performed over a gradient of 3 to 30% Buffer B (0.1% formic acid in ACN) over 105 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at 300 nl",
+      "flow rate of 500 nl/min",
+      "flow rate of 350 nl/min"
+    ],
+    "Comment[IonizationType]": [
+      "Flex nano-electrospray ion source (ThermoFisher)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The Orbitrap Fusion (Thermo Scientific) was operated in positive ion data dependent mode with synchronous precursor selection (SPS)-MS3 analysis for reporter ion quantitation."
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)-MS2 fragmentation",
+      "higher-energy collision dissociation (HCD) fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 0.6 daltons"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages allowed"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion mass spectrometer",
+      "Platform 1 (Orbitrap Fusion1)"
+    ]
+  },
+  "frontalcortex_batch2_fraction08.raw": {
+    "Source Name": [
+      "frontalcortex_batch2_source"
+    ],
+    "Assay Name": [
+      "frontalcortex_batch2_source_assay_fraction08"
+    ],
+    "Raw Data File": [
+      "frontalcortex_batch2_fraction08.raw"
+    ],
+    "Characteristics[Organism]": [
+      "post-mortem human brain tissues (n=80)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Post-mortem tissues"
+    ],
+    "Characteristics[OrganismPart]": [
+      "dorsolateral prefrontal frontal cortex (Frontal Cortex, Brodmann Area 9)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lysyl endopeptidase (Wako)",
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "5 mM iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 40 samples across four pathological groups (n=10 per control, PD, AD and AD/PD groupings)"
+    ],
+    "Characteristics[Label]": [
+      "10-plex TMT kits (ThermoFisher)"
+    ],
+    "FactorValue[Experimental]": [
+      "four different groups defined as controls, AD, PD, and co-morbid AD/PD cases across two brain regions (frontal cortex and anterior cingulate gyrus)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fraction08"
+    ],
+    "Comment[FractionationMethod]": [
+      "Electrostatic repulsion-hydrophilic interaction chromatography (ERLIC) fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "A total of 44 fractions were collected and then combined to 21 fractions."
+    ],
+    "Comment[GradientTime]": [
+      "Sample elution was performed over a gradient of 3 to 30% Buffer B (0.1% formic acid in ACN) over 105 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at 300 nl",
+      "flow rate of 500 nl/min",
+      "flow rate of 350 nl/min"
+    ],
+    "Comment[IonizationType]": [
+      "Flex nano-electrospray ion source (ThermoFisher)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The Orbitrap Fusion (Thermo Scientific) was operated in positive ion data dependent mode with synchronous precursor selection (SPS)-MS3 analysis for reporter ion quantitation."
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)-MS2 fragmentation",
+      "higher-energy collision dissociation (HCD) fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 0.6 daltons"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages allowed"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion mass spectrometer",
+      "Platform 2 (Orbitrap Fusion2)"
+    ]
+  },
+  "frontalcortex_batch2_fraction16.raw": {
+    "Source Name": [
+      "frontalcortex_batch2_source"
+    ],
+    "Assay Name": [
+      "frontalcortex_batch2_source_assay_fraction16"
+    ],
+    "Raw Data File": [
+      "frontalcortex_batch2_fraction16.raw"
+    ],
+    "Characteristics[Organism]": [
+      "post-mortem human brain tissues (n=80)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Post-mortem tissues"
+    ],
+    "Characteristics[OrganismPart]": [
+      "dorsolateral prefrontal frontal cortex (Frontal Cortex, Brodmann Area 9)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lysyl endopeptidase (Wako)",
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "5 mM iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 40 samples across four pathological groups (n=10 per control, PD, AD and AD/PD groupings)"
+    ],
+    "Characteristics[Label]": [
+      "10-plex TMT kits (ThermoFisher)"
+    ],
+    "FactorValue[Experimental]": [
+      "four different groups defined as controls, AD, PD, and co-morbid AD/PD cases across two brain regions (frontal cortex and anterior cingulate gyrus)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fraction16"
+    ],
+    "Comment[FractionationMethod]": [
+      "Electrostatic repulsion-hydrophilic interaction chromatography (ERLIC) fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "A total of 44 fractions were collected and then combined to 21 fractions."
+    ],
+    "Comment[GradientTime]": [
+      "Sample elution was performed over a gradient of 3 to 30% Buffer B (0.1% formic acid in ACN) over 105 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at 300 nl",
+      "flow rate of 500 nl/min",
+      "flow rate of 350 nl/min"
+    ],
+    "Comment[IonizationType]": [
+      "Flex nano-electrospray ion source (ThermoFisher)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The Orbitrap Fusion (Thermo Scientific) was operated in positive ion data dependent mode with synchronous precursor selection (SPS)-MS3 analysis for reporter ion quantitation."
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)-MS2 fragmentation",
+      "higher-energy collision dissociation (HCD) fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 0.6 daltons"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages allowed"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion mass spectrometer",
+      "Platform 2 (Orbitrap Fusion2)"
+    ]
+  },
+  "anteriorcingulategyrus_batch4_fraction11.raw": {
+    "Source Name": [
+      "anteriorcingulategyrus_batch4_source"
+    ],
+    "Assay Name": [
+      "anteriorcingulategyrus_batch4_source_assay_fraction11"
+    ],
+    "Raw Data File": [
+      "anteriorcingulategyrus_batch4_fraction11.raw"
+    ],
+    "Characteristics[Organism]": [
+      "post-mortem human brain tissues (n=80)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Post-mortem tissues"
+    ],
+    "Characteristics[OrganismPart]": [
+      "anterior cingulate gyrus (Cingulate, Brodmann Area 24)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lysyl endopeptidase (Wako)",
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "5 mM iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 40 samples across four pathological groups (n=10 per control, PD, AD and AD/PD groupings)"
+    ],
+    "Characteristics[Label]": [
+      "10-plex TMT kits (ThermoFisher)"
+    ],
+    "FactorValue[Experimental]": [
+      "four different groups defined as controls, AD, PD, and co-morbid AD/PD cases across two brain regions (frontal cortex and anterior cingulate gyrus)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fraction11"
+    ],
+    "Comment[FractionationMethod]": [
+      "Electrostatic repulsion-hydrophilic interaction chromatography (ERLIC) fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "A total of 44 fractions were collected and then combined to 21 fractions."
+    ],
+    "Comment[GradientTime]": [
+      "Sample elution was performed over a gradient of 3 to 30% Buffer B (0.1% formic acid in ACN) over 105 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at 300 nl",
+      "flow rate of 500 nl/min",
+      "flow rate of 350 nl/min"
+    ],
+    "Comment[IonizationType]": [
+      "Flex nano-electrospray ion source (ThermoFisher)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The Orbitrap Fusion (Thermo Scientific) was operated in positive ion data dependent mode with synchronous precursor selection (SPS)-MS3 analysis for reporter ion quantitation."
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)-MS2 fragmentation",
+      "higher-energy collision dissociation (HCD) fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 0.6 daltons"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages allowed"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion mass spectrometer",
+      "Platform 1 (Orbitrap Fusion1)"
+    ]
+  },
+  "anteriorcingulategyrus_batch3_fraction05.raw": {
+    "Source Name": [
+      "anteriorcingulategyrus_batch3_source"
+    ],
+    "Assay Name": [
+      "anteriorcingulategyrus_batch3_source_assay_fraction05"
+    ],
+    "Raw Data File": [
+      "anteriorcingulategyrus_batch3_fraction05.raw"
+    ],
+    "Characteristics[Organism]": [
+      "post-mortem human brain tissues (n=80)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Post-mortem tissues"
+    ],
+    "Characteristics[OrganismPart]": [
+      "anterior cingulate gyrus (Cingulate, Brodmann Area 24)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lysyl endopeptidase (Wako)",
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "5 mM iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 40 samples across four pathological groups (n=10 per control, PD, AD and AD/PD groupings)"
+    ],
+    "Characteristics[Label]": [
+      "10-plex TMT kits (ThermoFisher)"
+    ],
+    "FactorValue[Experimental]": [
+      "four different groups defined as controls, AD, PD, and co-morbid AD/PD cases across two brain regions (frontal cortex and anterior cingulate gyrus)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fraction05"
+    ],
+    "Comment[FractionationMethod]": [
+      "Electrostatic repulsion-hydrophilic interaction chromatography (ERLIC) fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "A total of 44 fractions were collected and then combined to 21 fractions."
+    ],
+    "Comment[GradientTime]": [
+      "Sample elution was performed over a gradient of 3 to 30% Buffer B (0.1% formic acid in ACN) over 105 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at 300 nl",
+      "flow rate of 500 nl/min",
+      "flow rate of 350 nl/min"
+    ],
+    "Comment[IonizationType]": [
+      "Flex nano-electrospray ion source (ThermoFisher)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The Orbitrap Fusion (Thermo Scientific) was operated in positive ion data dependent mode with synchronous precursor selection (SPS)-MS3 analysis for reporter ion quantitation."
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)-MS2 fragmentation",
+      "higher-energy collision dissociation (HCD) fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 0.6 daltons"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages allowed"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion mass spectrometer",
+      "Platform 1 (Orbitrap Fusion1)"
+    ]
+  },
+  "frontalcortex_batch5_fraction03.raw": {
+    "Source Name": [
+      "frontalcortex_batch5_source"
+    ],
+    "Assay Name": [
+      "frontalcortex_batch5_source_assay_fraction03"
+    ],
+    "Raw Data File": [
+      "frontalcortex_batch5_fraction03.raw"
+    ],
+    "Characteristics[Organism]": [
+      "post-mortem human brain tissues (n=80)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Post-mortem tissues"
+    ],
+    "Characteristics[OrganismPart]": [
+      "dorsolateral prefrontal frontal cortex (Frontal Cortex, Brodmann Area 9)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lysyl endopeptidase (Wako)",
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "5 mM iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 40 samples across four pathological groups (n=10 per control, PD, AD and AD/PD groupings)"
+    ],
+    "Characteristics[Label]": [
+      "10-plex TMT kits (ThermoFisher)"
+    ],
+    "FactorValue[Experimental]": [
+      "four different groups defined as controls, AD, PD, and co-morbid AD/PD cases across two brain regions (frontal cortex and anterior cingulate gyrus)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fraction03"
+    ],
+    "Comment[FractionationMethod]": [
+      "Electrostatic repulsion-hydrophilic interaction chromatography (ERLIC) fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "A total of 44 fractions were collected and then combined to 21 fractions."
+    ],
+    "Comment[GradientTime]": [
+      "Sample elution was performed over a gradient of 3 to 30% Buffer B (0.1% formic acid in ACN) over 105 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at 300 nl",
+      "flow rate of 500 nl/min",
+      "flow rate of 350 nl/min"
+    ],
+    "Comment[IonizationType]": [
+      "Flex nano-electrospray ion source (ThermoFisher)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The Orbitrap Fusion (Thermo Scientific) was operated in positive ion data dependent mode with synchronous precursor selection (SPS)-MS3 analysis for reporter ion quantitation."
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)-MS2 fragmentation",
+      "higher-energy collision dissociation (HCD) fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 0.6 daltons"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages allowed"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion mass spectrometer",
+      "Platform 2 (Orbitrap Fusion2)"
+    ]
+  },
+  "anteriorcingulategyrus_batch4_fraction13.raw": {
+    "Source Name": [
+      "anteriorcingulategyrus_batch4_source"
+    ],
+    "Assay Name": [
+      "anteriorcingulategyrus_batch4_source_assay_fraction13"
+    ],
+    "Raw Data File": [
+      "anteriorcingulategyrus_batch4_fraction13.raw"
+    ],
+    "Characteristics[Organism]": [
+      "post-mortem human brain tissues (n=80)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Post-mortem tissues"
+    ],
+    "Characteristics[OrganismPart]": [
+      "anterior cingulate gyrus (Cingulate, Brodmann Area 24)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lysyl endopeptidase (Wako)",
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "5 mM iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 40 samples across four pathological groups (n=10 per control, PD, AD and AD/PD groupings)"
+    ],
+    "Characteristics[Label]": [
+      "10-plex TMT kits (ThermoFisher)"
+    ],
+    "FactorValue[Experimental]": [
+      "four different groups defined as controls, AD, PD, and co-morbid AD/PD cases across two brain regions (frontal cortex and anterior cingulate gyrus)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fraction13"
+    ],
+    "Comment[FractionationMethod]": [
+      "Electrostatic repulsion-hydrophilic interaction chromatography (ERLIC) fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "A total of 44 fractions were collected and then combined to 21 fractions."
+    ],
+    "Comment[GradientTime]": [
+      "Sample elution was performed over a gradient of 3 to 30% Buffer B (0.1% formic acid in ACN) over 105 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at 300 nl",
+      "flow rate of 500 nl/min",
+      "flow rate of 350 nl/min"
+    ],
+    "Comment[IonizationType]": [
+      "Flex nano-electrospray ion source (ThermoFisher)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The Orbitrap Fusion (Thermo Scientific) was operated in positive ion data dependent mode with synchronous precursor selection (SPS)-MS3 analysis for reporter ion quantitation."
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)-MS2 fragmentation",
+      "higher-energy collision dissociation (HCD) fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 0.6 daltons"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages allowed"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion mass spectrometer",
+      "Platform 1 (Orbitrap Fusion1)"
+    ]
+  },
+  "frontalcortex_batch1_fraction04.raw": {
+    "Source Name": [
+      "frontalcortex_batch1_source"
+    ],
+    "Assay Name": [
+      "frontalcortex_batch1_source_assay_fraction04"
+    ],
+    "Raw Data File": [
+      "frontalcortex_batch1_fraction04.raw"
+    ],
+    "Characteristics[Organism]": [
+      "post-mortem human brain tissues (n=80)"
+    ],
+    "Characteristics[MaterialType]": [
+      "Post-mortem tissues"
+    ],
+    "Characteristics[OrganismPart]": [
+      "dorsolateral prefrontal frontal cortex (Frontal Cortex, Brodmann Area 9)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lysyl endopeptidase (Wako)",
+      "Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "1 mM dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "5 mM iodoacetamide (IAA)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 40 samples across four pathological groups (n=10 per control, PD, AD and AD/PD groupings)"
+    ],
+    "Characteristics[Label]": [
+      "10-plex TMT kits (ThermoFisher)"
+    ],
+    "FactorValue[Experimental]": [
+      "four different groups defined as controls, AD, PD, and co-morbid AD/PD cases across two brain regions (frontal cortex and anterior cingulate gyrus)"
+    ],
+    "Comment[FractionIdentifier]": [
+      "fraction04"
+    ],
+    "Comment[FractionationMethod]": [
+      "Electrostatic repulsion-hydrophilic interaction chromatography (ERLIC) fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "A total of 44 fractions were collected and then combined to 21 fractions."
+    ],
+    "Comment[GradientTime]": [
+      "Sample elution was performed over a gradient of 3 to 30% Buffer B (0.1% formic acid in ACN) over 105 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "at 300 nl",
+      "flow rate of 500 nl/min",
+      "flow rate of 350 nl/min"
+    ],
+    "Comment[IonizationType]": [
+      "Flex nano-electrospray ion source (ThermoFisher)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "The Orbitrap Fusion (Thermo Scientific) was operated in positive ion data dependent mode with synchronous precursor selection (SPS)-MS3 analysis for reporter ion quantitation."
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation (CID)-MS2 fragmentation",
+      "higher-energy collision dissociation (HCD) fragmentation"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 0.6 daltons"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages allowed"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion mass spectrometer",
+      "Platform 1 (Orbitrap Fusion1)"
+    ]
+  }
+}

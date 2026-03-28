@@ -1,0 +1,42 @@
+GeneticModification: Thr90 mutated to Lys  
+CleavageAgent: Lys-C  
+EnrichmentMethod: immunoprecipitation  
+AssayName: Mass spectrometry analysis  
+SourceName: human cell lysates  
+CellLine: HEK293 N3S cells  
+GeneticModification: 6His-SUMO2T90K  
+ConcentrationOfCompound: 2 g/ml puromycin  
+ConcentrationOfCompound: 1 μg/ml puromycin  
+ConcentrationOfCompound: 10% dialyzed fetal calf serum  
+ConcentrationOfCompound: 100 U/ml penicillin and streptomycin  
+ConcentrationOfCompound: 2 mM L-glutamine  
+SampleTreatment: stimulated by heat shock at 43 °C  
+ConcentrationOfCompound: 6 M guanidinium-HCl  
+ConcentrationOfCompound: 100 mM sodium phosphate buffer pH 8.0  
+ConcentrationOfCompound: 10 mM Tris-HCl  
+ConcentrationOfCompound: 20 mM imidazole  
+ConcentrationOfCompound: 5 mM β-mercaptoethanol  
+MaterialType: Ni2+-NTA agarose beads  
+Temperature: 4 °C  
+Time: 16 hours  
+CleavageAgent: endoproteinase Glu-C  
+Temperature: 37 °C  
+Temperature: 20 °C  
+ConcentrationOfCompound: 50 mM chloroacetamide  
+EnrichmentMethod: anti-KεGG  
+ConcentrationOfCompound: 50 mM sodium borate pH 9.0  
+ConcentrationOfCompound: 20 mM dimethyl pimelimidate  
+ConcentrationOfCompound: 200 mM ethanolamine pH 8.0  
+ConcentrationOfCompound: 0.1% trifluoroacetic acid  
+Instrument: Q Exactive mass spectrometer  
+Instrument: EASY-nLC 1000 liquid chromatography system  
+MaterialType: 75 μm × 500 mm EASY-Spray column  
+FactorValue: maximum pressure of 800 bars  
+AssayName: liquid chromatography tandem MS  
+GradientTime: 90 minutes to 150 minutes  
+FlowRateChromatogram: 250 nl/min  
+AcquisitionMethod: “top 1” data dependent acquisition  
+FactorValue: 2.1 × 10^4 units  
+FactorValue: FDR of 1 %  
+FactorValue: mass deviation of 6 parts per million  
+FactorValue: 0.5 Da

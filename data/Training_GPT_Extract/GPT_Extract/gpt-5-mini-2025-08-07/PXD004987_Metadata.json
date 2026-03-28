@@ -1,0 +1,659 @@
+{
+  "OEI15208.raw": {
+    "Source Name": [
+      "Source_OEI15208"
+    ],
+    "Assay Name": [
+      "Assay_OEI15208"
+    ],
+    "Raw Data File": [
+      "OEI15208.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "“trypsin”"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "250 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "0.55 M iodoacetamide"
+    ],
+    "Characteristics[Organism]": [
+      "“Homo sapiens”"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "five human subjects"
+    ],
+    "Characteristics[Specimen]": [
+      "Cryopreserved postmortem SN sections"
+    ],
+    "Characteristics[OrganismPart]": [
+      "substantia nigra"
+    ],
+    "Characteristics[Temperature]": [
+      "stored at −80 °C",
+      "slices were cut at −18 °C object temperature and −20 °C chamber temperature"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate 3000 RSLC nano LC system (Dionex, Idstein, Germany) coupled to an Orbitrap Elite mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)",
+      "Orbitrap Elite mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)"
+    ],
+    "Comment[Separation]": [
+      "analytical C18 column (Dionex, 75 μm × 50 cm, particle size 2 μm, pore size 100 Å)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "400 nL/min flow rate"
+    ],
+    "Comment[GradientTime]": [
+      "up to 40% within 95 min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "From each full scan, the 20 most intensive ions were selected for low-energy collision induced dissociation (CID) with 35% collision energy and 50 ms maximal acquisition time."
+    ],
+    "Comment[FragmentationMethod]": [
+      "low-energy collision induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35% collision energy"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "peptide mass tolerance was set to 5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance was 0.4 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "one possible missed cleavage site."
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray ionization source (Thermo Fisher Scientific)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "laser microdissection"
+    ]
+  },
+  "OEI15224.raw": {
+    "Source Name": [
+      "Source_OEI15224"
+    ],
+    "Assay Name": [
+      "Assay_OEI15224"
+    ],
+    "Raw Data File": [
+      "OEI15224.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "“trypsin”"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "250 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "0.55 M iodoacetamide"
+    ],
+    "Characteristics[Organism]": [
+      "“Homo sapiens”"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "five human subjects"
+    ],
+    "Characteristics[Specimen]": [
+      "Cryopreserved postmortem SN sections"
+    ],
+    "Characteristics[OrganismPart]": [
+      "substantia nigra"
+    ],
+    "Characteristics[Temperature]": [
+      "stored at −80 °C",
+      "slices were cut at −18 °C object temperature and −20 °C chamber temperature"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate 3000 RSLC nano LC system (Dionex, Idstein, Germany) coupled to an Orbitrap Elite mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)",
+      "Orbitrap Elite mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)"
+    ],
+    "Comment[Separation]": [
+      "analytical C18 column (Dionex, 75 μm × 50 cm, particle size 2 μm, pore size 100 Å)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "400 nL/min flow rate"
+    ],
+    "Comment[GradientTime]": [
+      "up to 40% within 95 min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "From each full scan, the 20 most intensive ions were selected for low-energy collision induced dissociation (CID) with 35% collision energy and 50 ms maximal acquisition time."
+    ],
+    "Comment[FragmentationMethod]": [
+      "low-energy collision induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35% collision energy"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "peptide mass tolerance was set to 5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance was 0.4 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "one possible missed cleavage site."
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray ionization source (Thermo Fisher Scientific)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "laser microdissection"
+    ]
+  },
+  "OEI16027.raw": {
+    "Source Name": [
+      "Source_OEI16027"
+    ],
+    "Assay Name": [
+      "Assay_OEI16027"
+    ],
+    "Raw Data File": [
+      "OEI16027.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "“trypsin”"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "250 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "0.55 M iodoacetamide"
+    ],
+    "Characteristics[Organism]": [
+      "“Homo sapiens”"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "five human subjects"
+    ],
+    "Characteristics[Specimen]": [
+      "Cryopreserved postmortem SN sections"
+    ],
+    "Characteristics[OrganismPart]": [
+      "substantia nigra"
+    ],
+    "Characteristics[Temperature]": [
+      "stored at −80 °C",
+      "slices were cut at −18 °C object temperature and −20 °C chamber temperature"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate 3000 RSLC nano LC system (Dionex, Idstein, Germany) coupled to an Orbitrap Elite mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)",
+      "Orbitrap Elite mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)"
+    ],
+    "Comment[Separation]": [
+      "analytical C18 column (Dionex, 75 μm × 50 cm, particle size 2 μm, pore size 100 Å)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "400 nL/min flow rate"
+    ],
+    "Comment[GradientTime]": [
+      "up to 40% within 95 min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "From each full scan, the 20 most intensive ions were selected for low-energy collision induced dissociation (CID) with 35% collision energy and 50 ms maximal acquisition time."
+    ],
+    "Comment[FragmentationMethod]": [
+      "low-energy collision induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35% collision energy"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "peptide mass tolerance was set to 5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance was 0.4 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "one possible missed cleavage site."
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray ionization source (Thermo Fisher Scientific)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "laser microdissection"
+    ]
+  },
+  "OEI16013.raw": {
+    "Source Name": [
+      "Source_OEI16013"
+    ],
+    "Assay Name": [
+      "Assay_OEI16013"
+    ],
+    "Raw Data File": [
+      "OEI16013.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "“trypsin”"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "250 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "0.55 M iodoacetamide"
+    ],
+    "Characteristics[Organism]": [
+      "“Homo sapiens”"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "five human subjects"
+    ],
+    "Characteristics[Specimen]": [
+      "Cryopreserved postmortem SN sections"
+    ],
+    "Characteristics[OrganismPart]": [
+      "substantia nigra"
+    ],
+    "Characteristics[Temperature]": [
+      "stored at −80 °C",
+      "slices were cut at −18 °C object temperature and −20 °C chamber temperature"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate 3000 RSLC nano LC system (Dionex, Idstein, Germany) coupled to an Orbitrap Elite mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)",
+      "Orbitrap Elite mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)"
+    ],
+    "Comment[Separation]": [
+      "analytical C18 column (Dionex, 75 μm × 50 cm, particle size 2 μm, pore size 100 Å)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "400 nL/min flow rate"
+    ],
+    "Comment[GradientTime]": [
+      "up to 40% within 95 min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "From each full scan, the 20 most intensive ions were selected for low-energy collision induced dissociation (CID) with 35% collision energy and 50 ms maximal acquisition time."
+    ],
+    "Comment[FragmentationMethod]": [
+      "low-energy collision induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35% collision energy"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "peptide mass tolerance was set to 5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance was 0.4 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "one possible missed cleavage site."
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray ionization source (Thermo Fisher Scientific)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "laser microdissection"
+    ]
+  },
+  "OEI15216.raw": {
+    "Source Name": [
+      "Source_OEI15216"
+    ],
+    "Assay Name": [
+      "Assay_OEI15216"
+    ],
+    "Raw Data File": [
+      "OEI15216.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "“trypsin”"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "250 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "0.55 M iodoacetamide"
+    ],
+    "Characteristics[Organism]": [
+      "“Homo sapiens”"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "five human subjects"
+    ],
+    "Characteristics[Specimen]": [
+      "Cryopreserved postmortem SN sections"
+    ],
+    "Characteristics[OrganismPart]": [
+      "substantia nigra"
+    ],
+    "Characteristics[Temperature]": [
+      "stored at −80 °C",
+      "slices were cut at −18 °C object temperature and −20 °C chamber temperature"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate 3000 RSLC nano LC system (Dionex, Idstein, Germany) coupled to an Orbitrap Elite mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)",
+      "Orbitrap Elite mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)"
+    ],
+    "Comment[Separation]": [
+      "analytical C18 column (Dionex, 75 μm × 50 cm, particle size 2 μm, pore size 100 Å)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "400 nL/min flow rate"
+    ],
+    "Comment[GradientTime]": [
+      "up to 40% within 95 min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "From each full scan, the 20 most intensive ions were selected for low-energy collision induced dissociation (CID) with 35% collision energy and 50 ms maximal acquisition time."
+    ],
+    "Comment[FragmentationMethod]": [
+      "low-energy collision induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35% collision energy"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "peptide mass tolerance was set to 5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance was 0.4 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "one possible missed cleavage site."
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray ionization source (Thermo Fisher Scientific)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "laser microdissection"
+    ]
+  },
+  "OEI15202.raw": {
+    "Source Name": [
+      "Source_OEI15202"
+    ],
+    "Assay Name": [
+      "Assay_OEI15202"
+    ],
+    "Raw Data File": [
+      "OEI15202.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "“trypsin”"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "250 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "0.55 M iodoacetamide"
+    ],
+    "Characteristics[Organism]": [
+      "“Homo sapiens”"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "five human subjects"
+    ],
+    "Characteristics[Specimen]": [
+      "Cryopreserved postmortem SN sections"
+    ],
+    "Characteristics[OrganismPart]": [
+      "substantia nigra"
+    ],
+    "Characteristics[Temperature]": [
+      "stored at −80 °C",
+      "slices were cut at −18 °C object temperature and −20 °C chamber temperature"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate 3000 RSLC nano LC system (Dionex, Idstein, Germany) coupled to an Orbitrap Elite mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)",
+      "Orbitrap Elite mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)"
+    ],
+    "Comment[Separation]": [
+      "analytical C18 column (Dionex, 75 μm × 50 cm, particle size 2 μm, pore size 100 Å)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "400 nL/min flow rate"
+    ],
+    "Comment[GradientTime]": [
+      "up to 40% within 95 min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "From each full scan, the 20 most intensive ions were selected for low-energy collision induced dissociation (CID) with 35% collision energy and 50 ms maximal acquisition time."
+    ],
+    "Comment[FragmentationMethod]": [
+      "low-energy collision induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35% collision energy"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "peptide mass tolerance was set to 5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance was 0.4 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "one possible missed cleavage site."
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray ionization source (Thermo Fisher Scientific)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "laser microdissection"
+    ]
+  },
+  "OEI15218.raw": {
+    "Source Name": [
+      "Source_OEI15218"
+    ],
+    "Assay Name": [
+      "Assay_OEI15218"
+    ],
+    "Raw Data File": [
+      "OEI15218.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "“trypsin”"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "250 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "0.55 M iodoacetamide"
+    ],
+    "Characteristics[Organism]": [
+      "“Homo sapiens”"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "five human subjects"
+    ],
+    "Characteristics[Specimen]": [
+      "Cryopreserved postmortem SN sections"
+    ],
+    "Characteristics[OrganismPart]": [
+      "substantia nigra"
+    ],
+    "Characteristics[Temperature]": [
+      "stored at −80 °C",
+      "slices were cut at −18 °C object temperature and −20 °C chamber temperature"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate 3000 RSLC nano LC system (Dionex, Idstein, Germany) coupled to an Orbitrap Elite mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)",
+      "Orbitrap Elite mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)"
+    ],
+    "Comment[Separation]": [
+      "analytical C18 column (Dionex, 75 μm × 50 cm, particle size 2 μm, pore size 100 Å)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "400 nL/min flow rate"
+    ],
+    "Comment[GradientTime]": [
+      "up to 40% within 95 min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "From each full scan, the 20 most intensive ions were selected for low-energy collision induced dissociation (CID) with 35% collision energy and 50 ms maximal acquisition time."
+    ],
+    "Comment[FragmentationMethod]": [
+      "low-energy collision induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35% collision energy"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "peptide mass tolerance was set to 5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance was 0.4 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "one possible missed cleavage site."
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray ionization source (Thermo Fisher Scientific)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "laser microdissection"
+    ]
+  },
+  "OEI15234.raw": {
+    "Source Name": [
+      "Source_OEI15234"
+    ],
+    "Assay Name": [
+      "Assay_OEI15234"
+    ],
+    "Raw Data File": [
+      "OEI15234.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "“trypsin”"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "250 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "0.55 M iodoacetamide"
+    ],
+    "Characteristics[Organism]": [
+      "“Homo sapiens”"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "five human subjects"
+    ],
+    "Characteristics[Specimen]": [
+      "Cryopreserved postmortem SN sections"
+    ],
+    "Characteristics[OrganismPart]": [
+      "substantia nigra"
+    ],
+    "Characteristics[Temperature]": [
+      "stored at −80 °C",
+      "slices were cut at −18 °C object temperature and −20 °C chamber temperature"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate 3000 RSLC nano LC system (Dionex, Idstein, Germany) coupled to an Orbitrap Elite mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)",
+      "Orbitrap Elite mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)"
+    ],
+    "Comment[Separation]": [
+      "analytical C18 column (Dionex, 75 μm × 50 cm, particle size 2 μm, pore size 100 Å)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "400 nL/min flow rate"
+    ],
+    "Comment[GradientTime]": [
+      "up to 40% within 95 min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "From each full scan, the 20 most intensive ions were selected for low-energy collision induced dissociation (CID) with 35% collision energy and 50 ms maximal acquisition time."
+    ],
+    "Comment[FragmentationMethod]": [
+      "low-energy collision induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35% collision energy"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "peptide mass tolerance was set to 5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance was 0.4 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "one possible missed cleavage site."
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray ionization source (Thermo Fisher Scientific)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "laser microdissection"
+    ]
+  },
+  "OEI16007.raw": {
+    "Source Name": [
+      "Source_OEI16007"
+    ],
+    "Assay Name": [
+      "Assay_OEI16007"
+    ],
+    "Raw Data File": [
+      "OEI16007.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "“trypsin”"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "250 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "0.55 M iodoacetamide"
+    ],
+    "Characteristics[Organism]": [
+      "“Homo sapiens”"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "five human subjects"
+    ],
+    "Characteristics[Specimen]": [
+      "Cryopreserved postmortem SN sections"
+    ],
+    "Characteristics[OrganismPart]": [
+      "substantia nigra"
+    ],
+    "Characteristics[Temperature]": [
+      "stored at −80 °C",
+      "slices were cut at −18 °C object temperature and −20 °C chamber temperature"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate 3000 RSLC nano LC system (Dionex, Idstein, Germany) coupled to an Orbitrap Elite mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)",
+      "Orbitrap Elite mass spectrometer (Thermo Fisher Scientific, Bremen, Germany)"
+    ],
+    "Comment[Separation]": [
+      "analytical C18 column (Dionex, 75 μm × 50 cm, particle size 2 μm, pore size 100 Å)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "400 nL/min flow rate"
+    ],
+    "Comment[GradientTime]": [
+      "up to 40% within 95 min"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "From each full scan, the 20 most intensive ions were selected for low-energy collision induced dissociation (CID) with 35% collision energy and 50 ms maximal acquisition time."
+    ],
+    "Comment[FragmentationMethod]": [
+      "low-energy collision induced dissociation (CID)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "35% collision energy"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "peptide mass tolerance was set to 5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance was 0.4 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "one possible missed cleavage site."
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray ionization source (Thermo Fisher Scientific)"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "laser microdissection"
+    ]
+  }
+}

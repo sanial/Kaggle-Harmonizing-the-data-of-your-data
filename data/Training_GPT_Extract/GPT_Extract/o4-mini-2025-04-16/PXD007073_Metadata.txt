@@ -1,0 +1,43 @@
+Specimen: frozen meningioma specimens  
+Specimen: normal healthy human meninges  
+NumberOfSamples: 22 meningiomas  
+NumberOfSamples: 15 meningioma samples  
+NumberOfSamples: Two frozen normal meninges  
+NumberOfSamples: one human brain cerebral meninges  
+FactorValue: WHO grade I  
+FactorValue: WHO grade II  
+FactorValue: WHO grade III  
+AssayName: proteomic profiling  
+AssayName: LC-MS/MS  
+AssayName: Western blot  
+AssayName: immunohistochemistry  
+AssayName: Liquid chromatography tandem mass spectrometry  
+EnrichmentMethod: Qiagen® PhosphoProtein Purification Kit  
+EnrichmentMethod: Titansphere 10 μm TiO2 beads  
+CleavageAgent: Lys-C protease  
+CleavageAgent: trypsin  
+ReductionReagent: 0·1 M dithiotheitol (DTT)  
+AlkylationReagent: 50 mM 2-iodoacetamide  
+FractionationMethod: SDS-PAGE on 4–15% Mini-PROTEAN® TGX™ Precast Gels  
+FractionationMethod: in-gel digestion  
+MaterialType: protein lysate  
+Organism: human  
+Compound: foetal bovine serum (FBS)  
+ConcentrationOfCompound: 10%  
+Compound: d-(+)-glucose  
+ConcentrationOfCompound: 1%  
+Compound: penicllin/streptomycin  
+ConcentrationOfCompound: 100 U/ml  
+Compound: l-glutamine  
+ConcentrationOfCompound: 2 mM  
+Compound: dimethyl sulfoxide (DMSO)  
+ConcentrationOfCompound: 0·1%  
+Treatment: AZD5363  
+Treatment: Ku-0063794  
+Temperature: 37 °C  
+Temperature: room temperature  
+Temperature: −80 °C  
+Time: overnight  
+Time: 24 h  
+Time: 72 h  
+Time: 30 min

@@ -1,0 +1,1850 @@
+{
+  "b1922_293T_proteinID_02A_QE3_122212.raw": {
+    "Source Name": [
+      "HEK293 cells"
+    ],
+    "Assay Name": [
+      "HEK293 cells_02A"
+    ],
+    "Raw Data File": [
+      "b1922_293T_proteinID_02A_QE3_122212.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293 cells"
+    ],
+    "Characteristics[MaterialType]": [
+      "human cell line"
+    ],
+    "Characteristics[Organism]": [
+      "Homo_sapiens GRCh37.61"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "Protein pellets from HEK293 cells"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "24 raw mass spectrometry data files (.raw)"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive Orbitrap mass spectrometer"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-ESI-MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01 Da"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm",
+      "500 Da"
+    ],
+    "Comment[GradientTime]": [
+      "3-hr gradients",
+      "Peptides were separated using a 3 hr gradient of 6 to 30% acetonitrile gradient in 0.125% formic acid with a flow rate of ∼300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "∼300 nL/min"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reverse phase fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[Separation]": [
+      "Peptides were separated using a 3 hr gradient of 6 to 30% acetonitrile gradient in 0.125% formic acid with a flow rate of ∼300 nL/min."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[IonizationType]": [
+      "LC-ESI-MS/MS"
+    ],
+    "Comment[FractionIdentifier]": [
+      "02A"
+    ]
+  },
+  "b1928_293T_proteinID_08A_QE3_122212.raw": {
+    "Source Name": [
+      "HEK293 cells"
+    ],
+    "Assay Name": [
+      "HEK293 cells_08A"
+    ],
+    "Raw Data File": [
+      "b1928_293T_proteinID_08A_QE3_122212.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293 cells"
+    ],
+    "Characteristics[MaterialType]": [
+      "human cell line"
+    ],
+    "Characteristics[Organism]": [
+      "Homo_sapiens GRCh37.61"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "Protein pellets from HEK293 cells"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "24 raw mass spectrometry data files (.raw)"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive Orbitrap mass spectrometer"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-ESI-MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01 Da"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm",
+      "500 Da"
+    ],
+    "Comment[GradientTime]": [
+      "3-hr gradients",
+      "Peptides were separated using a 3 hr gradient of 6 to 30% acetonitrile gradient in 0.125% formic acid with a flow rate of ∼300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "∼300 nL/min"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reverse phase fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[Separation]": [
+      "Peptides were separated using a 3 hr gradient of 6 to 30% acetonitrile gradient in 0.125% formic acid with a flow rate of ∼300 nL/min."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[IonizationType]": [
+      "LC-ESI-MS/MS"
+    ],
+    "Comment[FractionIdentifier]": [
+      "08A"
+    ]
+  },
+  "b1923_293T_proteinID_03A_QE3_122212.raw": {
+    "Source Name": [
+      "HEK293 cells"
+    ],
+    "Assay Name": [
+      "HEK293 cells_03A"
+    ],
+    "Raw Data File": [
+      "b1923_293T_proteinID_03A_QE3_122212.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293 cells"
+    ],
+    "Characteristics[MaterialType]": [
+      "human cell line"
+    ],
+    "Characteristics[Organism]": [
+      "Homo_sapiens GRCh37.61"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "Protein pellets from HEK293 cells"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "24 raw mass spectrometry data files (.raw)"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive Orbitrap mass spectrometer"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-ESI-MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01 Da"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm",
+      "500 Da"
+    ],
+    "Comment[GradientTime]": [
+      "3-hr gradients",
+      "Peptides were separated using a 3 hr gradient of 6 to 30% acetonitrile gradient in 0.125% formic acid with a flow rate of ∼300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "∼300 nL/min"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reverse phase fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[Separation]": [
+      "Peptides were separated using a 3 hr gradient of 6 to 30% acetonitrile gradient in 0.125% formic acid with a flow rate of ∼300 nL/min."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[IonizationType]": [
+      "LC-ESI-MS/MS"
+    ],
+    "Comment[FractionIdentifier]": [
+      "03A"
+    ]
+  },
+  "b1929_293T_proteinID_09A_QE3_122212.raw": {
+    "Source Name": [
+      "HEK293 cells"
+    ],
+    "Assay Name": [
+      "HEK293 cells_09A"
+    ],
+    "Raw Data File": [
+      "b1929_293T_proteinID_09A_QE3_122212.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293 cells"
+    ],
+    "Characteristics[MaterialType]": [
+      "human cell line"
+    ],
+    "Characteristics[Organism]": [
+      "Homo_sapiens GRCh37.61"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "Protein pellets from HEK293 cells"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "24 raw mass spectrometry data files (.raw)"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive Orbitrap mass spectrometer"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-ESI-MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01 Da"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm",
+      "500 Da"
+    ],
+    "Comment[GradientTime]": [
+      "3-hr gradients",
+      "Peptides were separated using a 3 hr gradient of 6 to 30% acetonitrile gradient in 0.125% formic acid with a flow rate of ∼300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "∼300 nL/min"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reverse phase fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[Separation]": [
+      "Peptides were separated using a 3 hr gradient of 6 to 30% acetonitrile gradient in 0.125% formic acid with a flow rate of ∼300 nL/min."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[IonizationType]": [
+      "LC-ESI-MS/MS"
+    ],
+    "Comment[FractionIdentifier]": [
+      "09A"
+    ]
+  },
+  "b1939_293T_proteinID_03B_QE3_122212.raw": {
+    "Source Name": [
+      "HEK293 cells"
+    ],
+    "Assay Name": [
+      "HEK293 cells_03B"
+    ],
+    "Raw Data File": [
+      "b1939_293T_proteinID_03B_QE3_122212.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293 cells"
+    ],
+    "Characteristics[MaterialType]": [
+      "human cell line"
+    ],
+    "Characteristics[Organism]": [
+      "Homo_sapiens GRCh37.61"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "Protein pellets from HEK293 cells"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "24 raw mass spectrometry data files (.raw)"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive Orbitrap mass spectrometer"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-ESI-MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01 Da"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm",
+      "500 Da"
+    ],
+    "Comment[GradientTime]": [
+      "3-hr gradients",
+      "Peptides were separated using a 3 hr gradient of 6 to 30% acetonitrile gradient in 0.125% formic acid with a flow rate of ∼300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "∼300 nL/min"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reverse phase fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[Separation]": [
+      "Peptides were separated using a 3 hr gradient of 6 to 30% acetonitrile gradient in 0.125% formic acid with a flow rate of ∼300 nL/min."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[IonizationType]": [
+      "LC-ESI-MS/MS"
+    ],
+    "Comment[FractionIdentifier]": [
+      "03B"
+    ]
+  },
+  "b1938_293T_proteinID_02B_QE3_122212.raw": {
+    "Source Name": [
+      "HEK293 cells"
+    ],
+    "Assay Name": [
+      "HEK293 cells_02B"
+    ],
+    "Raw Data File": [
+      "b1938_293T_proteinID_02B_QE3_122212.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293 cells"
+    ],
+    "Characteristics[MaterialType]": [
+      "human cell line"
+    ],
+    "Characteristics[Organism]": [
+      "Homo_sapiens GRCh37.61"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "Protein pellets from HEK293 cells"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "24 raw mass spectrometry data files (.raw)"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive Orbitrap mass spectrometer"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-ESI-MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01 Da"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm",
+      "500 Da"
+    ],
+    "Comment[GradientTime]": [
+      "3-hr gradients",
+      "Peptides were separated using a 3 hr gradient of 6 to 30% acetonitrile gradient in 0.125% formic acid with a flow rate of ∼300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "∼300 nL/min"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reverse phase fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[Separation]": [
+      "Peptides were separated using a 3 hr gradient of 6 to 30% acetonitrile gradient in 0.125% formic acid with a flow rate of ∼300 nL/min."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[IonizationType]": [
+      "LC-ESI-MS/MS"
+    ],
+    "Comment[FractionIdentifier]": [
+      "02B"
+    ]
+  },
+  "b1925_293T_proteinID_05A_QE3_122212.raw": {
+    "Source Name": [
+      "HEK293 cells"
+    ],
+    "Assay Name": [
+      "HEK293 cells_05A"
+    ],
+    "Raw Data File": [
+      "b1925_293T_proteinID_05A_QE3_122212.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293 cells"
+    ],
+    "Characteristics[MaterialType]": [
+      "human cell line"
+    ],
+    "Characteristics[Organism]": [
+      "Homo_sapiens GRCh37.61"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "Protein pellets from HEK293 cells"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "24 raw mass spectrometry data files (.raw)"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive Orbitrap mass spectrometer"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-ESI-MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01 Da"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm",
+      "500 Da"
+    ],
+    "Comment[GradientTime]": [
+      "3-hr gradients",
+      "Peptides were separated using a 3 hr gradient of 6 to 30% acetonitrile gradient in 0.125% formic acid with a flow rate of ∼300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "∼300 nL/min"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reverse phase fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[Separation]": [
+      "Peptides were separated using a 3 hr gradient of 6 to 30% acetonitrile gradient in 0.125% formic acid with a flow rate of ∼300 nL/min."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[IonizationType]": [
+      "LC-ESI-MS/MS"
+    ],
+    "Comment[FractionIdentifier]": [
+      "05A"
+    ]
+  },
+  "b1924_293T_proteinID_04A_QE3_122212.raw": {
+    "Source Name": [
+      "HEK293 cells"
+    ],
+    "Assay Name": [
+      "HEK293 cells_04A"
+    ],
+    "Raw Data File": [
+      "b1924_293T_proteinID_04A_QE3_122212.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293 cells"
+    ],
+    "Characteristics[MaterialType]": [
+      "human cell line"
+    ],
+    "Characteristics[Organism]": [
+      "Homo_sapiens GRCh37.61"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "Protein pellets from HEK293 cells"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "24 raw mass spectrometry data files (.raw)"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive Orbitrap mass spectrometer"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-ESI-MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01 Da"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm",
+      "500 Da"
+    ],
+    "Comment[GradientTime]": [
+      "3-hr gradients",
+      "Peptides were separated using a 3 hr gradient of 6 to 30% acetonitrile gradient in 0.125% formic acid with a flow rate of ∼300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "∼300 nL/min"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reverse phase fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[Separation]": [
+      "Peptides were separated using a 3 hr gradient of 6 to 30% acetonitrile gradient in 0.125% formic acid with a flow rate of ∼300 nL/min."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[IonizationType]": [
+      "LC-ESI-MS/MS"
+    ],
+    "Comment[FractionIdentifier]": [
+      "04A"
+    ]
+  },
+  "b1946_293T_proteinID_10B_QE3_122212.raw": {
+    "Source Name": [
+      "HEK293 cells"
+    ],
+    "Assay Name": [
+      "HEK293 cells_10B"
+    ],
+    "Raw Data File": [
+      "b1946_293T_proteinID_10B_QE3_122212.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293 cells"
+    ],
+    "Characteristics[MaterialType]": [
+      "human cell line"
+    ],
+    "Characteristics[Organism]": [
+      "Homo_sapiens GRCh37.61"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "Protein pellets from HEK293 cells"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "24 raw mass spectrometry data files (.raw)"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive Orbitrap mass spectrometer"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-ESI-MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01 Da"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm",
+      "500 Da"
+    ],
+    "Comment[GradientTime]": [
+      "3-hr gradients",
+      "Peptides were separated using a 3 hr gradient of 6 to 30% acetonitrile gradient in 0.125% formic acid with a flow rate of ∼300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "∼300 nL/min"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reverse phase fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[Separation]": [
+      "Peptides were separated using a 3 hr gradient of 6 to 30% acetonitrile gradient in 0.125% formic acid with a flow rate of ∼300 nL/min."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[IonizationType]": [
+      "LC-ESI-MS/MS"
+    ],
+    "Comment[FractionIdentifier]": [
+      "10B"
+    ]
+  },
+  "b1906_293T_proteinID_01A_QE3_122212.raw": {
+    "Source Name": [
+      "HEK293 cells"
+    ],
+    "Assay Name": [
+      "HEK293 cells_01A"
+    ],
+    "Raw Data File": [
+      "b1906_293T_proteinID_01A_QE3_122212.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293 cells"
+    ],
+    "Characteristics[MaterialType]": [
+      "human cell line"
+    ],
+    "Characteristics[Organism]": [
+      "Homo_sapiens GRCh37.61"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "Protein pellets from HEK293 cells"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "24 raw mass spectrometry data files (.raw)"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive Orbitrap mass spectrometer"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-ESI-MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01 Da"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm",
+      "500 Da"
+    ],
+    "Comment[GradientTime]": [
+      "3-hr gradients",
+      "Peptides were separated using a 3 hr gradient of 6 to 30% acetonitrile gradient in 0.125% formic acid with a flow rate of ∼300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "∼300 nL/min"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reverse phase fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[Separation]": [
+      "Peptides were separated using a 3 hr gradient of 6 to 30% acetonitrile gradient in 0.125% formic acid with a flow rate of ∼300 nL/min."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[IonizationType]": [
+      "LC-ESI-MS/MS"
+    ],
+    "Comment[FractionIdentifier]": [
+      "01A"
+    ]
+  },
+  "b1945_293T_proteinID_09B_QE3_122212.raw": {
+    "Source Name": [
+      "HEK293 cells"
+    ],
+    "Assay Name": [
+      "HEK293 cells_09B"
+    ],
+    "Raw Data File": [
+      "b1945_293T_proteinID_09B_QE3_122212.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293 cells"
+    ],
+    "Characteristics[MaterialType]": [
+      "human cell line"
+    ],
+    "Characteristics[Organism]": [
+      "Homo_sapiens GRCh37.61"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "Protein pellets from HEK293 cells"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "24 raw mass spectrometry data files (.raw)"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive Orbitrap mass spectrometer"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-ESI-MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01 Da"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm",
+      "500 Da"
+    ],
+    "Comment[GradientTime]": [
+      "3-hr gradients",
+      "Peptides were separated using a 3 hr gradient of 6 to 30% acetonitrile gradient in 0.125% formic acid with a flow rate of ∼300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "∼300 nL/min"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reverse phase fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[Separation]": [
+      "Peptides were separated using a 3 hr gradient of 6 to 30% acetonitrile gradient in 0.125% formic acid with a flow rate of ∼300 nL/min."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[IonizationType]": [
+      "LC-ESI-MS/MS"
+    ],
+    "Comment[FractionIdentifier]": [
+      "09B"
+    ]
+  },
+  "b1940_293T_proteinID_04B_QE3_122212.raw": {
+    "Source Name": [
+      "HEK293 cells"
+    ],
+    "Assay Name": [
+      "HEK293 cells_04B"
+    ],
+    "Raw Data File": [
+      "b1940_293T_proteinID_04B_QE3_122212.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293 cells"
+    ],
+    "Characteristics[MaterialType]": [
+      "human cell line"
+    ],
+    "Characteristics[Organism]": [
+      "Homo_sapiens GRCh37.61"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "Protein pellets from HEK293 cells"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "24 raw mass spectrometry data files (.raw)"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive Orbitrap mass spectrometer"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-ESI-MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01 Da"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm",
+      "500 Da"
+    ],
+    "Comment[GradientTime]": [
+      "3-hr gradients",
+      "Peptides were separated using a 3 hr gradient of 6 to 30% acetonitrile gradient in 0.125% formic acid with a flow rate of ∼300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "∼300 nL/min"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reverse phase fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[Separation]": [
+      "Peptides were separated using a 3 hr gradient of 6 to 30% acetonitrile gradient in 0.125% formic acid with a flow rate of ∼300 nL/min."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[IonizationType]": [
+      "LC-ESI-MS/MS"
+    ],
+    "Comment[FractionIdentifier]": [
+      "04B"
+    ]
+  },
+  "b1937_293T_proteinID_01B_QE3_122212.raw": {
+    "Source Name": [
+      "HEK293 cells"
+    ],
+    "Assay Name": [
+      "HEK293 cells_01B"
+    ],
+    "Raw Data File": [
+      "b1937_293T_proteinID_01B_QE3_122212.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293 cells"
+    ],
+    "Characteristics[MaterialType]": [
+      "human cell line"
+    ],
+    "Characteristics[Organism]": [
+      "Homo_sapiens GRCh37.61"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "Protein pellets from HEK293 cells"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "24 raw mass spectrometry data files (.raw)"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive Orbitrap mass spectrometer"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-ESI-MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01 Da"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm",
+      "500 Da"
+    ],
+    "Comment[GradientTime]": [
+      "3-hr gradients",
+      "Peptides were separated using a 3 hr gradient of 6 to 30% acetonitrile gradient in 0.125% formic acid with a flow rate of ∼300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "∼300 nL/min"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reverse phase fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[Separation]": [
+      "Peptides were separated using a 3 hr gradient of 6 to 30% acetonitrile gradient in 0.125% formic acid with a flow rate of ∼300 nL/min."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[IonizationType]": [
+      "LC-ESI-MS/MS"
+    ],
+    "Comment[FractionIdentifier]": [
+      "01B"
+    ]
+  },
+  "b1926_293T_proteinID_06A_QE3_122212.raw": {
+    "Source Name": [
+      "HEK293 cells"
+    ],
+    "Assay Name": [
+      "HEK293 cells_06A"
+    ],
+    "Raw Data File": [
+      "b1926_293T_proteinID_06A_QE3_122212.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293 cells"
+    ],
+    "Characteristics[MaterialType]": [
+      "human cell line"
+    ],
+    "Characteristics[Organism]": [
+      "Homo_sapiens GRCh37.61"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "Protein pellets from HEK293 cells"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "24 raw mass spectrometry data files (.raw)"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive Orbitrap mass spectrometer"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-ESI-MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01 Da"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm",
+      "500 Da"
+    ],
+    "Comment[GradientTime]": [
+      "3-hr gradients",
+      "Peptides were separated using a 3 hr gradient of 6 to 30% acetonitrile gradient in 0.125% formic acid with a flow rate of ∼300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "∼300 nL/min"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reverse phase fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[Separation]": [
+      "Peptides were separated using a 3 hr gradient of 6 to 30% acetonitrile gradient in 0.125% formic acid with a flow rate of ∼300 nL/min."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[IonizationType]": [
+      "LC-ESI-MS/MS"
+    ],
+    "Comment[FractionIdentifier]": [
+      "06A"
+    ]
+  },
+  "b1942_293T_proteinID_06B_QE3_122212.raw": {
+    "Source Name": [
+      "HEK293 cells"
+    ],
+    "Assay Name": [
+      "HEK293 cells_06B"
+    ],
+    "Raw Data File": [
+      "b1942_293T_proteinID_06B_QE3_122212.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293 cells"
+    ],
+    "Characteristics[MaterialType]": [
+      "human cell line"
+    ],
+    "Characteristics[Organism]": [
+      "Homo_sapiens GRCh37.61"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "Protein pellets from HEK293 cells"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "24 raw mass spectrometry data files (.raw)"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive Orbitrap mass spectrometer"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-ESI-MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01 Da"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm",
+      "500 Da"
+    ],
+    "Comment[GradientTime]": [
+      "3-hr gradients",
+      "Peptides were separated using a 3 hr gradient of 6 to 30% acetonitrile gradient in 0.125% formic acid with a flow rate of ∼300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "∼300 nL/min"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reverse phase fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[Separation]": [
+      "Peptides were separated using a 3 hr gradient of 6 to 30% acetonitrile gradient in 0.125% formic acid with a flow rate of ∼300 nL/min."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[IonizationType]": [
+      "LC-ESI-MS/MS"
+    ],
+    "Comment[FractionIdentifier]": [
+      "06B"
+    ]
+  },
+  "b1941_293T_proteinID_05B_QE3_122212.raw": {
+    "Source Name": [
+      "HEK293 cells"
+    ],
+    "Assay Name": [
+      "HEK293 cells_05B"
+    ],
+    "Raw Data File": [
+      "b1941_293T_proteinID_05B_QE3_122212.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293 cells"
+    ],
+    "Characteristics[MaterialType]": [
+      "human cell line"
+    ],
+    "Characteristics[Organism]": [
+      "Homo_sapiens GRCh37.61"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "Protein pellets from HEK293 cells"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "24 raw mass spectrometry data files (.raw)"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive Orbitrap mass spectrometer"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-ESI-MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01 Da"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm",
+      "500 Da"
+    ],
+    "Comment[GradientTime]": [
+      "3-hr gradients",
+      "Peptides were separated using a 3 hr gradient of 6 to 30% acetonitrile gradient in 0.125% formic acid with a flow rate of ∼300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "∼300 nL/min"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reverse phase fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[Separation]": [
+      "Peptides were separated using a 3 hr gradient of 6 to 30% acetonitrile gradient in 0.125% formic acid with a flow rate of ∼300 nL/min."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[IonizationType]": [
+      "LC-ESI-MS/MS"
+    ],
+    "Comment[FractionIdentifier]": [
+      "05B"
+    ]
+  },
+  "b1932_293T_proteinID_12A_QE3_122212.raw": {
+    "Source Name": [
+      "HEK293 cells"
+    ],
+    "Assay Name": [
+      "HEK293 cells_12A"
+    ],
+    "Raw Data File": [
+      "b1932_293T_proteinID_12A_QE3_122212.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293 cells"
+    ],
+    "Characteristics[MaterialType]": [
+      "human cell line"
+    ],
+    "Characteristics[Organism]": [
+      "Homo_sapiens GRCh37.61"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "Protein pellets from HEK293 cells"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "24 raw mass spectrometry data files (.raw)"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive Orbitrap mass spectrometer"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-ESI-MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01 Da"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm",
+      "500 Da"
+    ],
+    "Comment[GradientTime]": [
+      "3-hr gradients",
+      "Peptides were separated using a 3 hr gradient of 6 to 30% acetonitrile gradient in 0.125% formic acid with a flow rate of ∼300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "∼300 nL/min"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reverse phase fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[Separation]": [
+      "Peptides were separated using a 3 hr gradient of 6 to 30% acetonitrile gradient in 0.125% formic acid with a flow rate of ∼300 nL/min."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[IonizationType]": [
+      "LC-ESI-MS/MS"
+    ],
+    "Comment[FractionIdentifier]": [
+      "12A"
+    ]
+  },
+  "b1931_293T_proteinID_11A_QE3_122212.raw": {
+    "Source Name": [
+      "HEK293 cells"
+    ],
+    "Assay Name": [
+      "HEK293 cells_11A"
+    ],
+    "Raw Data File": [
+      "b1931_293T_proteinID_11A_QE3_122212.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293 cells"
+    ],
+    "Characteristics[MaterialType]": [
+      "human cell line"
+    ],
+    "Characteristics[Organism]": [
+      "Homo_sapiens GRCh37.61"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "Protein pellets from HEK293 cells"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "24 raw mass spectrometry data files (.raw)"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive Orbitrap mass spectrometer"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-ESI-MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01 Da"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm",
+      "500 Da"
+    ],
+    "Comment[GradientTime]": [
+      "3-hr gradients",
+      "Peptides were separated using a 3 hr gradient of 6 to 30% acetonitrile gradient in 0.125% formic acid with a flow rate of ∼300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "∼300 nL/min"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reverse phase fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[Separation]": [
+      "Peptides were separated using a 3 hr gradient of 6 to 30% acetonitrile gradient in 0.125% formic acid with a flow rate of ∼300 nL/min."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[IonizationType]": [
+      "LC-ESI-MS/MS"
+    ],
+    "Comment[FractionIdentifier]": [
+      "11A"
+    ]
+  },
+  "b1944_293T_proteinID_08B_QE3_122212.raw": {
+    "Source Name": [
+      "HEK293 cells"
+    ],
+    "Assay Name": [
+      "HEK293 cells_08B"
+    ],
+    "Raw Data File": [
+      "b1944_293T_proteinID_08B_QE3_122212.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293 cells"
+    ],
+    "Characteristics[MaterialType]": [
+      "human cell line"
+    ],
+    "Characteristics[Organism]": [
+      "Homo_sapiens GRCh37.61"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "Protein pellets from HEK293 cells"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "24 raw mass spectrometry data files (.raw)"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive Orbitrap mass spectrometer"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-ESI-MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01 Da"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm",
+      "500 Da"
+    ],
+    "Comment[GradientTime]": [
+      "3-hr gradients",
+      "Peptides were separated using a 3 hr gradient of 6 to 30% acetonitrile gradient in 0.125% formic acid with a flow rate of ∼300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "∼300 nL/min"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reverse phase fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[Separation]": [
+      "Peptides were separated using a 3 hr gradient of 6 to 30% acetonitrile gradient in 0.125% formic acid with a flow rate of ∼300 nL/min."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[IonizationType]": [
+      "LC-ESI-MS/MS"
+    ],
+    "Comment[FractionIdentifier]": [
+      "08B"
+    ]
+  },
+  "b1943_293T_proteinID_07B_QE3_122212.raw": {
+    "Source Name": [
+      "HEK293 cells"
+    ],
+    "Assay Name": [
+      "HEK293 cells_07B"
+    ],
+    "Raw Data File": [
+      "b1943_293T_proteinID_07B_QE3_122212.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293 cells"
+    ],
+    "Characteristics[MaterialType]": [
+      "human cell line"
+    ],
+    "Characteristics[Organism]": [
+      "Homo_sapiens GRCh37.61"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "Protein pellets from HEK293 cells"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "24 raw mass spectrometry data files (.raw)"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive Orbitrap mass spectrometer"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-ESI-MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01 Da"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm",
+      "500 Da"
+    ],
+    "Comment[GradientTime]": [
+      "3-hr gradients",
+      "Peptides were separated using a 3 hr gradient of 6 to 30% acetonitrile gradient in 0.125% formic acid with a flow rate of ∼300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "∼300 nL/min"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reverse phase fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[Separation]": [
+      "Peptides were separated using a 3 hr gradient of 6 to 30% acetonitrile gradient in 0.125% formic acid with a flow rate of ∼300 nL/min."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[IonizationType]": [
+      "LC-ESI-MS/MS"
+    ],
+    "Comment[FractionIdentifier]": [
+      "07B"
+    ]
+  },
+  "b1948_293T_proteinID_12B_QE3_122212.raw": {
+    "Source Name": [
+      "HEK293 cells"
+    ],
+    "Assay Name": [
+      "HEK293 cells_12B"
+    ],
+    "Raw Data File": [
+      "b1948_293T_proteinID_12B_QE3_122212.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293 cells"
+    ],
+    "Characteristics[MaterialType]": [
+      "human cell line"
+    ],
+    "Characteristics[Organism]": [
+      "Homo_sapiens GRCh37.61"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "Protein pellets from HEK293 cells"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "24 raw mass spectrometry data files (.raw)"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive Orbitrap mass spectrometer"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-ESI-MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01 Da"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm",
+      "500 Da"
+    ],
+    "Comment[GradientTime]": [
+      "3-hr gradients",
+      "Peptides were separated using a 3 hr gradient of 6 to 30% acetonitrile gradient in 0.125% formic acid with a flow rate of ∼300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "∼300 nL/min"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reverse phase fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[Separation]": [
+      "Peptides were separated using a 3 hr gradient of 6 to 30% acetonitrile gradient in 0.125% formic acid with a flow rate of ∼300 nL/min."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[IonizationType]": [
+      "LC-ESI-MS/MS"
+    ],
+    "Comment[FractionIdentifier]": [
+      "12B"
+    ]
+  },
+  "b1947_293T_proteinID_11B_QE3_122212.raw": {
+    "Source Name": [
+      "HEK293 cells"
+    ],
+    "Assay Name": [
+      "HEK293 cells_11B"
+    ],
+    "Raw Data File": [
+      "b1947_293T_proteinID_11B_QE3_122212.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293 cells"
+    ],
+    "Characteristics[MaterialType]": [
+      "human cell line"
+    ],
+    "Characteristics[Organism]": [
+      "Homo_sapiens GRCh37.61"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "Protein pellets from HEK293 cells"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "24 raw mass spectrometry data files (.raw)"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive Orbitrap mass spectrometer"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-ESI-MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01 Da"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm",
+      "500 Da"
+    ],
+    "Comment[GradientTime]": [
+      "3-hr gradients",
+      "Peptides were separated using a 3 hr gradient of 6 to 30% acetonitrile gradient in 0.125% formic acid with a flow rate of ∼300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "∼300 nL/min"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reverse phase fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[Separation]": [
+      "Peptides were separated using a 3 hr gradient of 6 to 30% acetonitrile gradient in 0.125% formic acid with a flow rate of ∼300 nL/min."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[IonizationType]": [
+      "LC-ESI-MS/MS"
+    ],
+    "Comment[FractionIdentifier]": [
+      "11B"
+    ]
+  },
+  "b1927_293T_proteinID_07A_QE3_122212.raw": {
+    "Source Name": [
+      "HEK293 cells"
+    ],
+    "Assay Name": [
+      "HEK293 cells_07A"
+    ],
+    "Raw Data File": [
+      "b1927_293T_proteinID_07A_QE3_122212.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293 cells"
+    ],
+    "Characteristics[MaterialType]": [
+      "human cell line"
+    ],
+    "Characteristics[Organism]": [
+      "Homo_sapiens GRCh37.61"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "Protein pellets from HEK293 cells"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "24 raw mass spectrometry data files (.raw)"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive Orbitrap mass spectrometer"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-ESI-MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01 Da"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm",
+      "500 Da"
+    ],
+    "Comment[GradientTime]": [
+      "3-hr gradients",
+      "Peptides were separated using a 3 hr gradient of 6 to 30% acetonitrile gradient in 0.125% formic acid with a flow rate of ∼300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "∼300 nL/min"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reverse phase fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[Separation]": [
+      "Peptides were separated using a 3 hr gradient of 6 to 30% acetonitrile gradient in 0.125% formic acid with a flow rate of ∼300 nL/min."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[IonizationType]": [
+      "LC-ESI-MS/MS"
+    ],
+    "Comment[FractionIdentifier]": [
+      "07A"
+    ]
+  },
+  "b1930_293T_proteinID_10A_QE3_122212.raw": {
+    "Source Name": [
+      "HEK293 cells"
+    ],
+    "Assay Name": [
+      "HEK293 cells_10A"
+    ],
+    "Raw Data File": [
+      "b1930_293T_proteinID_10A_QE3_122212.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293 cells"
+    ],
+    "Characteristics[MaterialType]": [
+      "human cell line"
+    ],
+    "Characteristics[Organism]": [
+      "Homo_sapiens GRCh37.61"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Lys-C",
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "5 mM dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "10 mM iodoacetamide"
+    ],
+    "Characteristics[Specimen]": [
+      "Protein pellets from HEK293 cells"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "24 raw mass spectrometry data files (.raw)"
+    ],
+    "Comment[Instrument]": [
+      "Q-Exactive Orbitrap mass spectrometer"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-ESI-MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01 Da"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm",
+      "500 Da"
+    ],
+    "Comment[GradientTime]": [
+      "3-hr gradients",
+      "Peptides were separated using a 3 hr gradient of 6 to 30% acetonitrile gradient in 0.125% formic acid with a flow rate of ∼300 nL/min."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "∼300 nL/min"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reverse phase fractionation"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[Separation]": [
+      "Peptides were separated using a 3 hr gradient of 6 to 30% acetonitrile gradient in 0.125% formic acid with a flow rate of ∼300 nL/min."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap"
+    ],
+    "Comment[IonizationType]": [
+      "LC-ESI-MS/MS"
+    ],
+    "Comment[FractionIdentifier]": [
+      "10A"
+    ]
+  }
+}

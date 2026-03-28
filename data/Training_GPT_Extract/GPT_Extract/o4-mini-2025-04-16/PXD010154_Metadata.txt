@@ -1,0 +1,53 @@
+NumberOfSamples: 29 healthy human tissues
+
+MaterialType: human tissue samples
+
+Temperature: −80°C
+
+CleavageAgent: trypsin
+
+CleavageAgent: LysC
+
+CleavageAgent: ArgC
+
+CleavageAgent: GluC
+
+CleavageAgent: AspN
+
+CleavageAgent: LysN
+
+CleavageAgent: chymotrypsin
+
+ReductionReagent: tris(2‐carboxyethyl)phosphin hydrochloride
+
+ConcentrationOfCompound: 10 mM tris(2‐carboxyethyl)phosphin hydrochloride
+
+AlkylationReagent: chloroacetamide
+
+ConcentrationOfCompound: 40 mM chloroacetamide
+
+AssayName: label‐free quantitative proteomics
+
+AssayName: RNA‐Seq
+
+Instrument: Q Exactive Plus mass spectrometer
+
+Instrument: Q Exactive HF mass spectrometer
+
+Instrument: Orbitrap Fusion Lumos Mass Spectrometer
+
+FragmentationMethod: higher‐energy collisional dissociation (HCD)
+
+FragmentationMethod: CID
+
+FragmentationMethod: EThcD/ETD
+
+AcquisitionMethod: LC‐MS/MS
+
+FlowRateChromatogram: 5 μl/min
+
+FlowRateChromatogram: 300 nL/min
+
+GradientTime: 110-min gradient
+
+FractionationMethod: off‐line hydrophilic strong anion chromatography (hSAX)

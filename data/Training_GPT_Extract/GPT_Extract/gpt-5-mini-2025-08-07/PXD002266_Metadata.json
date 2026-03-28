@@ -1,0 +1,2630 @@
+{
+  "130412_002_UL01429-LS-13.raw": {
+    "Source Name": [
+      "UL01429"
+    ],
+    "Assay Name": [
+      "UL01429_LS-13"
+    ],
+    "Raw Data File": [
+      "130412_002_UL01429-LS-13.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Plasmodium falciparum"
+    ],
+    "Characteristics[MaterialType]": [
+      "parasites"
+    ],
+    "Characteristics[Specimen]": [
+      "Late-stage schizonts (segmented)"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "late schizont stage parasites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "6-plex TMT reagents (Thermo scientific)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (1\u2009M solution)"
+    ],
+    "Comment[Instrument]": [
+      "RSLCnano HPLC system (Dionex)",
+      "LTQ-Orbitrap-Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase PicoFrit capillary column (75\u2009\u00b5m i.d. \u00d7 400\u2009mm)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3\u2009\u00b5l\u2009min\u22121"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were eluted over a period of 4\u2009h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "up to ten data-dependent higher-energy collision dissociation (HCD) MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collision dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 42.5"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02\u2009Da"
+    ],
+    "Comment[IonizationType]": [
+      "nanospray ion source"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "IMAC enrichment of phosphopeptides for mass spectrometry",
+      "TiO2 enrichment of phosphopeptides for mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "LS-13"
+    ]
+  },
+  "130830_001_UL01504-LS-05.raw": {
+    "Source Name": [
+      "UL01504"
+    ],
+    "Assay Name": [
+      "UL01504_LS-05"
+    ],
+    "Raw Data File": [
+      "130830_001_UL01504-LS-05.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Plasmodium falciparum"
+    ],
+    "Characteristics[MaterialType]": [
+      "parasites"
+    ],
+    "Characteristics[Specimen]": [
+      "Late-stage schizonts (segmented)"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "late schizont stage parasites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "6-plex TMT reagents (Thermo scientific)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (1\u2009M solution)"
+    ],
+    "Comment[Instrument]": [
+      "RSLCnano HPLC system (Dionex)",
+      "LTQ-Orbitrap-Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase PicoFrit capillary column (75\u2009\u00b5m i.d. \u00d7 400\u2009mm)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3\u2009\u00b5l\u2009min\u22121"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were eluted over a period of 4\u2009h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "up to ten data-dependent higher-energy collision dissociation (HCD) MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collision dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 42.5"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02\u2009Da"
+    ],
+    "Comment[IonizationType]": [
+      "nanospray ion source"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "IMAC enrichment of phosphopeptides for mass spectrometry",
+      "TiO2 enrichment of phosphopeptides for mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "LS-05"
+    ]
+  },
+  "130830_001_UL01504-LS-15.raw": {
+    "Source Name": [
+      "UL01504"
+    ],
+    "Assay Name": [
+      "UL01504_LS-15"
+    ],
+    "Raw Data File": [
+      "130830_001_UL01504-LS-15.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Plasmodium falciparum"
+    ],
+    "Characteristics[MaterialType]": [
+      "parasites"
+    ],
+    "Characteristics[Specimen]": [
+      "Late-stage schizonts (segmented)"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "late schizont stage parasites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "6-plex TMT reagents (Thermo scientific)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (1\u2009M solution)"
+    ],
+    "Comment[Instrument]": [
+      "RSLCnano HPLC system (Dionex)",
+      "LTQ-Orbitrap-Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase PicoFrit capillary column (75\u2009\u00b5m i.d. \u00d7 400\u2009mm)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3\u2009\u00b5l\u2009min\u22121"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were eluted over a period of 4\u2009h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "up to ten data-dependent higher-energy collision dissociation (HCD) MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collision dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 42.5"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02\u2009Da"
+    ],
+    "Comment[IonizationType]": [
+      "nanospray ion source"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "IMAC enrichment of phosphopeptides for mass spectrometry",
+      "TiO2 enrichment of phosphopeptides for mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "LS-15"
+    ]
+  },
+  "130830_001_UL01504-LS-13.raw": {
+    "Source Name": [
+      "UL01504"
+    ],
+    "Assay Name": [
+      "UL01504_LS-13"
+    ],
+    "Raw Data File": [
+      "130830_001_UL01504-LS-13.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Plasmodium falciparum"
+    ],
+    "Characteristics[MaterialType]": [
+      "parasites"
+    ],
+    "Characteristics[Specimen]": [
+      "Late-stage schizonts (segmented)"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "late schizont stage parasites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "6-plex TMT reagents (Thermo scientific)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (1\u2009M solution)"
+    ],
+    "Comment[Instrument]": [
+      "RSLCnano HPLC system (Dionex)",
+      "LTQ-Orbitrap-Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase PicoFrit capillary column (75\u2009\u00b5m i.d. \u00d7 400\u2009mm)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3\u2009\u00b5l\u2009min\u22121"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were eluted over a period of 4\u2009h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "up to ten data-dependent higher-energy collision dissociation (HCD) MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collision dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 42.5"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02\u2009Da"
+    ],
+    "Comment[IonizationType]": [
+      "nanospray ion source"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "IMAC enrichment of phosphopeptides for mass spectrometry",
+      "TiO2 enrichment of phosphopeptides for mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "LS-13"
+    ]
+  },
+  "130412_002_UL01429-LS-05.raw": {
+    "Source Name": [
+      "UL01429"
+    ],
+    "Assay Name": [
+      "UL01429_LS-05"
+    ],
+    "Raw Data File": [
+      "130412_002_UL01429-LS-05.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Plasmodium falciparum"
+    ],
+    "Characteristics[MaterialType]": [
+      "parasites"
+    ],
+    "Characteristics[Specimen]": [
+      "Late-stage schizonts (segmented)"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "late schizont stage parasites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "6-plex TMT reagents (Thermo scientific)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (1\u2009M solution)"
+    ],
+    "Comment[Instrument]": [
+      "RSLCnano HPLC system (Dionex)",
+      "LTQ-Orbitrap-Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase PicoFrit capillary column (75\u2009\u00b5m i.d. \u00d7 400\u2009mm)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3\u2009\u00b5l\u2009min\u22121"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were eluted over a period of 4\u2009h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "up to ten data-dependent higher-energy collision dissociation (HCD) MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collision dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 42.5"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02\u2009Da"
+    ],
+    "Comment[IonizationType]": [
+      "nanospray ion source"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "IMAC enrichment of phosphopeptides for mass spectrometry",
+      "TiO2 enrichment of phosphopeptides for mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "LS-05"
+    ]
+  },
+  "130412_002_UL01429-LS-18.raw": {
+    "Source Name": [
+      "UL01429"
+    ],
+    "Assay Name": [
+      "UL01429_LS-18"
+    ],
+    "Raw Data File": [
+      "130412_002_UL01429-LS-18.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Plasmodium falciparum"
+    ],
+    "Characteristics[MaterialType]": [
+      "parasites"
+    ],
+    "Characteristics[Specimen]": [
+      "Late-stage schizonts (segmented)"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "late schizont stage parasites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "6-plex TMT reagents (Thermo scientific)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (1\u2009M solution)"
+    ],
+    "Comment[Instrument]": [
+      "RSLCnano HPLC system (Dionex)",
+      "LTQ-Orbitrap-Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase PicoFrit capillary column (75\u2009\u00b5m i.d. \u00d7 400\u2009mm)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3\u2009\u00b5l\u2009min\u22121"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were eluted over a period of 4\u2009h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "up to ten data-dependent higher-energy collision dissociation (HCD) MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collision dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 42.5"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02\u2009Da"
+    ],
+    "Comment[IonizationType]": [
+      "nanospray ion source"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "IMAC enrichment of phosphopeptides for mass spectrometry",
+      "TiO2 enrichment of phosphopeptides for mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "LS-18"
+    ]
+  },
+  "130412_002_UL01429-LS-17.raw": {
+    "Source Name": [
+      "UL01429"
+    ],
+    "Assay Name": [
+      "UL01429_LS-17"
+    ],
+    "Raw Data File": [
+      "130412_002_UL01429-LS-17.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Plasmodium falciparum"
+    ],
+    "Characteristics[MaterialType]": [
+      "parasites"
+    ],
+    "Characteristics[Specimen]": [
+      "Late-stage schizonts (segmented)"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "late schizont stage parasites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "6-plex TMT reagents (Thermo scientific)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (1\u2009M solution)"
+    ],
+    "Comment[Instrument]": [
+      "RSLCnano HPLC system (Dionex)",
+      "LTQ-Orbitrap-Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase PicoFrit capillary column (75\u2009\u00b5m i.d. \u00d7 400\u2009mm)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3\u2009\u00b5l\u2009min\u22121"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were eluted over a period of 4\u2009h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "up to ten data-dependent higher-energy collision dissociation (HCD) MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collision dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 42.5"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02\u2009Da"
+    ],
+    "Comment[IonizationType]": [
+      "nanospray ion source"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "IMAC enrichment of phosphopeptides for mass spectrometry",
+      "TiO2 enrichment of phosphopeptides for mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "LS-17"
+    ]
+  },
+  "130830_001_UL01504-LS-10.raw": {
+    "Source Name": [
+      "UL01504"
+    ],
+    "Assay Name": [
+      "UL01504_LS-10"
+    ],
+    "Raw Data File": [
+      "130830_001_UL01504-LS-10.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Plasmodium falciparum"
+    ],
+    "Characteristics[MaterialType]": [
+      "parasites"
+    ],
+    "Characteristics[Specimen]": [
+      "Late-stage schizonts (segmented)"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "late schizont stage parasites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "6-plex TMT reagents (Thermo scientific)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (1\u2009M solution)"
+    ],
+    "Comment[Instrument]": [
+      "RSLCnano HPLC system (Dionex)",
+      "LTQ-Orbitrap-Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase PicoFrit capillary column (75\u2009\u00b5m i.d. \u00d7 400\u2009mm)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3\u2009\u00b5l\u2009min\u22121"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were eluted over a period of 4\u2009h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "up to ten data-dependent higher-energy collision dissociation (HCD) MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collision dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 42.5"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02\u2009Da"
+    ],
+    "Comment[IonizationType]": [
+      "nanospray ion source"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "IMAC enrichment of phosphopeptides for mass spectrometry",
+      "TiO2 enrichment of phosphopeptides for mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "LS-10"
+    ]
+  },
+  "130830_001_UL01504-LS-14.raw": {
+    "Source Name": [
+      "UL01504"
+    ],
+    "Assay Name": [
+      "UL01504_LS-14"
+    ],
+    "Raw Data File": [
+      "130830_001_UL01504-LS-14.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Plasmodium falciparum"
+    ],
+    "Characteristics[MaterialType]": [
+      "parasites"
+    ],
+    "Characteristics[Specimen]": [
+      "Late-stage schizonts (segmented)"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "late schizont stage parasites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "6-plex TMT reagents (Thermo scientific)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (1\u2009M solution)"
+    ],
+    "Comment[Instrument]": [
+      "RSLCnano HPLC system (Dionex)",
+      "LTQ-Orbitrap-Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase PicoFrit capillary column (75\u2009\u00b5m i.d. \u00d7 400\u2009mm)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3\u2009\u00b5l\u2009min\u22121"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were eluted over a period of 4\u2009h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "up to ten data-dependent higher-energy collision dissociation (HCD) MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collision dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 42.5"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02\u2009Da"
+    ],
+    "Comment[IonizationType]": [
+      "nanospray ion source"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "IMAC enrichment of phosphopeptides for mass spectrometry",
+      "TiO2 enrichment of phosphopeptides for mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "LS-14"
+    ]
+  },
+  "130412_002_UL01429-LS-07.raw": {
+    "Source Name": [
+      "UL01429"
+    ],
+    "Assay Name": [
+      "UL01429_LS-07"
+    ],
+    "Raw Data File": [
+      "130412_002_UL01429-LS-07.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Plasmodium falciparum"
+    ],
+    "Characteristics[MaterialType]": [
+      "parasites"
+    ],
+    "Characteristics[Specimen]": [
+      "Late-stage schizonts (segmented)"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "late schizont stage parasites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "6-plex TMT reagents (Thermo scientific)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (1\u2009M solution)"
+    ],
+    "Comment[Instrument]": [
+      "RSLCnano HPLC system (Dionex)",
+      "LTQ-Orbitrap-Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase PicoFrit capillary column (75\u2009\u00b5m i.d. \u00d7 400\u2009mm)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3\u2009\u00b5l\u2009min\u22121"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were eluted over a period of 4\u2009h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "up to ten data-dependent higher-energy collision dissociation (HCD) MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collision dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 42.5"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02\u2009Da"
+    ],
+    "Comment[IonizationType]": [
+      "nanospray ion source"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "IMAC enrichment of phosphopeptides for mass spectrometry",
+      "TiO2 enrichment of phosphopeptides for mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "LS-07"
+    ]
+  },
+  "130412_002_UL01429-LS-10.raw": {
+    "Source Name": [
+      "UL01429"
+    ],
+    "Assay Name": [
+      "UL01429_LS-10"
+    ],
+    "Raw Data File": [
+      "130412_002_UL01429-LS-10.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Plasmodium falciparum"
+    ],
+    "Characteristics[MaterialType]": [
+      "parasites"
+    ],
+    "Characteristics[Specimen]": [
+      "Late-stage schizonts (segmented)"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "late schizont stage parasites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "6-plex TMT reagents (Thermo scientific)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (1\u2009M solution)"
+    ],
+    "Comment[Instrument]": [
+      "RSLCnano HPLC system (Dionex)",
+      "LTQ-Orbitrap-Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase PicoFrit capillary column (75\u2009\u00b5m i.d. \u00d7 400\u2009mm)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3\u2009\u00b5l\u2009min\u22121"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were eluted over a period of 4\u2009h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "up to ten data-dependent higher-energy collision dissociation (HCD) MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collision dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 42.5"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02\u2009Da"
+    ],
+    "Comment[IonizationType]": [
+      "nanospray ion source"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "IMAC enrichment of phosphopeptides for mass spectrometry",
+      "TiO2 enrichment of phosphopeptides for mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "LS-10"
+    ]
+  },
+  "130830_001_UL01504-LS-11.raw": {
+    "Source Name": [
+      "UL01504"
+    ],
+    "Assay Name": [
+      "UL01504_LS-11"
+    ],
+    "Raw Data File": [
+      "130830_001_UL01504-LS-11.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Plasmodium falciparum"
+    ],
+    "Characteristics[MaterialType]": [
+      "parasites"
+    ],
+    "Characteristics[Specimen]": [
+      "Late-stage schizonts (segmented)"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "late schizont stage parasites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "6-plex TMT reagents (Thermo scientific)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (1\u2009M solution)"
+    ],
+    "Comment[Instrument]": [
+      "RSLCnano HPLC system (Dionex)",
+      "LTQ-Orbitrap-Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase PicoFrit capillary column (75\u2009\u00b5m i.d. \u00d7 400\u2009mm)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3\u2009\u00b5l\u2009min\u22121"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were eluted over a period of 4\u2009h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "up to ten data-dependent higher-energy collision dissociation (HCD) MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collision dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 42.5"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02\u2009Da"
+    ],
+    "Comment[IonizationType]": [
+      "nanospray ion source"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "IMAC enrichment of phosphopeptides for mass spectrometry",
+      "TiO2 enrichment of phosphopeptides for mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "LS-11"
+    ]
+  },
+  "130412_002_UL01429-LS-03.raw": {
+    "Source Name": [
+      "UL01429"
+    ],
+    "Assay Name": [
+      "UL01429_LS-03"
+    ],
+    "Raw Data File": [
+      "130412_002_UL01429-LS-03.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Plasmodium falciparum"
+    ],
+    "Characteristics[MaterialType]": [
+      "parasites"
+    ],
+    "Characteristics[Specimen]": [
+      "Late-stage schizonts (segmented)"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "late schizont stage parasites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "6-plex TMT reagents (Thermo scientific)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (1\u2009M solution)"
+    ],
+    "Comment[Instrument]": [
+      "RSLCnano HPLC system (Dionex)",
+      "LTQ-Orbitrap-Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase PicoFrit capillary column (75\u2009\u00b5m i.d. \u00d7 400\u2009mm)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3\u2009\u00b5l\u2009min\u22121"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were eluted over a period of 4\u2009h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "up to ten data-dependent higher-energy collision dissociation (HCD) MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collision dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 42.5"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02\u2009Da"
+    ],
+    "Comment[IonizationType]": [
+      "nanospray ion source"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "IMAC enrichment of phosphopeptides for mass spectrometry",
+      "TiO2 enrichment of phosphopeptides for mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "LS-03"
+    ]
+  },
+  "130412_002_UL01429-LS-15.raw": {
+    "Source Name": [
+      "UL01429"
+    ],
+    "Assay Name": [
+      "UL01429_LS-15"
+    ],
+    "Raw Data File": [
+      "130412_002_UL01429-LS-15.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Plasmodium falciparum"
+    ],
+    "Characteristics[MaterialType]": [
+      "parasites"
+    ],
+    "Characteristics[Specimen]": [
+      "Late-stage schizonts (segmented)"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "late schizont stage parasites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "6-plex TMT reagents (Thermo scientific)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (1\u2009M solution)"
+    ],
+    "Comment[Instrument]": [
+      "RSLCnano HPLC system (Dionex)",
+      "LTQ-Orbitrap-Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase PicoFrit capillary column (75\u2009\u00b5m i.d. \u00d7 400\u2009mm)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3\u2009\u00b5l\u2009min\u22121"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were eluted over a period of 4\u2009h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "up to ten data-dependent higher-energy collision dissociation (HCD) MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collision dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 42.5"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02\u2009Da"
+    ],
+    "Comment[IonizationType]": [
+      "nanospray ion source"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "IMAC enrichment of phosphopeptides for mass spectrometry",
+      "TiO2 enrichment of phosphopeptides for mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "LS-15"
+    ]
+  },
+  "130412_002_UL01429-LS-14.raw": {
+    "Source Name": [
+      "UL01429"
+    ],
+    "Assay Name": [
+      "UL01429_LS-14"
+    ],
+    "Raw Data File": [
+      "130412_002_UL01429-LS-14.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Plasmodium falciparum"
+    ],
+    "Characteristics[MaterialType]": [
+      "parasites"
+    ],
+    "Characteristics[Specimen]": [
+      "Late-stage schizonts (segmented)"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "late schizont stage parasites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "6-plex TMT reagents (Thermo scientific)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (1\u2009M solution)"
+    ],
+    "Comment[Instrument]": [
+      "RSLCnano HPLC system (Dionex)",
+      "LTQ-Orbitrap-Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase PicoFrit capillary column (75\u2009\u00b5m i.d. \u00d7 400\u2009mm)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3\u2009\u00b5l\u2009min\u22121"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were eluted over a period of 4\u2009h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "up to ten data-dependent higher-energy collision dissociation (HCD) MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collision dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 42.5"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02\u2009Da"
+    ],
+    "Comment[IonizationType]": [
+      "nanospray ion source"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "IMAC enrichment of phosphopeptides for mass spectrometry",
+      "TiO2 enrichment of phosphopeptides for mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "LS-14"
+    ]
+  },
+  "130830_001_UL01504-LS-01.raw": {
+    "Source Name": [
+      "UL01504"
+    ],
+    "Assay Name": [
+      "UL01504_LS-01"
+    ],
+    "Raw Data File": [
+      "130830_001_UL01504-LS-01.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Plasmodium falciparum"
+    ],
+    "Characteristics[MaterialType]": [
+      "parasites"
+    ],
+    "Characteristics[Specimen]": [
+      "Late-stage schizonts (segmented)"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "late schizont stage parasites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "6-plex TMT reagents (Thermo scientific)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (1\u2009M solution)"
+    ],
+    "Comment[Instrument]": [
+      "RSLCnano HPLC system (Dionex)",
+      "LTQ-Orbitrap-Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase PicoFrit capillary column (75\u2009\u00b5m i.d. \u00d7 400\u2009mm)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3\u2009\u00b5l\u2009min\u22121"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were eluted over a period of 4\u2009h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "up to ten data-dependent higher-energy collision dissociation (HCD) MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collision dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 42.5"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02\u2009Da"
+    ],
+    "Comment[IonizationType]": [
+      "nanospray ion source"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "IMAC enrichment of phosphopeptides for mass spectrometry",
+      "TiO2 enrichment of phosphopeptides for mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "LS-01"
+    ]
+  },
+  "130830_001_UL01504-LS-07.raw": {
+    "Source Name": [
+      "UL01504"
+    ],
+    "Assay Name": [
+      "UL01504_LS-07"
+    ],
+    "Raw Data File": [
+      "130830_001_UL01504-LS-07.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Plasmodium falciparum"
+    ],
+    "Characteristics[MaterialType]": [
+      "parasites"
+    ],
+    "Characteristics[Specimen]": [
+      "Late-stage schizonts (segmented)"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "late schizont stage parasites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "6-plex TMT reagents (Thermo scientific)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (1\u2009M solution)"
+    ],
+    "Comment[Instrument]": [
+      "RSLCnano HPLC system (Dionex)",
+      "LTQ-Orbitrap-Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase PicoFrit capillary column (75\u2009\u00b5m i.d. \u00d7 400\u2009mm)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3\u2009\u00b5l\u2009min\u22121"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were eluted over a period of 4\u2009h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "up to ten data-dependent higher-energy collision dissociation (HCD) MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collision dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 42.5"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02\u2009Da"
+    ],
+    "Comment[IonizationType]": [
+      "nanospray ion source"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "IMAC enrichment of phosphopeptides for mass spectrometry",
+      "TiO2 enrichment of phosphopeptides for mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "LS-07"
+    ]
+  },
+  "130830_001_UL01504-LS-06.raw": {
+    "Source Name": [
+      "UL01504"
+    ],
+    "Assay Name": [
+      "UL01504_LS-06"
+    ],
+    "Raw Data File": [
+      "130830_001_UL01504-LS-06.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Plasmodium falciparum"
+    ],
+    "Characteristics[MaterialType]": [
+      "parasites"
+    ],
+    "Characteristics[Specimen]": [
+      "Late-stage schizonts (segmented)"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "late schizont stage parasites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "6-plex TMT reagents (Thermo scientific)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (1\u2009M solution)"
+    ],
+    "Comment[Instrument]": [
+      "RSLCnano HPLC system (Dionex)",
+      "LTQ-Orbitrap-Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase PicoFrit capillary column (75\u2009\u00b5m i.d. \u00d7 400\u2009mm)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3\u2009\u00b5l\u2009min\u22121"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were eluted over a period of 4\u2009h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "up to ten data-dependent higher-energy collision dissociation (HCD) MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collision dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 42.5"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02\u2009Da"
+    ],
+    "Comment[IonizationType]": [
+      "nanospray ion source"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "IMAC enrichment of phosphopeptides for mass spectrometry",
+      "TiO2 enrichment of phosphopeptides for mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "LS-06"
+    ]
+  },
+  "130830_001_UL01504-LS-18.raw": {
+    "Source Name": [
+      "UL01504"
+    ],
+    "Assay Name": [
+      "UL01504_LS-18"
+    ],
+    "Raw Data File": [
+      "130830_001_UL01504-LS-18.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Plasmodium falciparum"
+    ],
+    "Characteristics[MaterialType]": [
+      "parasites"
+    ],
+    "Characteristics[Specimen]": [
+      "Late-stage schizonts (segmented)"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "late schizont stage parasites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "6-plex TMT reagents (Thermo scientific)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (1\u2009M solution)"
+    ],
+    "Comment[Instrument]": [
+      "RSLCnano HPLC system (Dionex)",
+      "LTQ-Orbitrap-Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase PicoFrit capillary column (75\u2009\u00b5m i.d. \u00d7 400\u2009mm)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3\u2009\u00b5l\u2009min\u22121"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were eluted over a period of 4\u2009h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "up to ten data-dependent higher-energy collision dissociation (HCD) MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collision dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 42.5"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02\u2009Da"
+    ],
+    "Comment[IonizationType]": [
+      "nanospray ion source"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "IMAC enrichment of phosphopeptides for mass spectrometry",
+      "TiO2 enrichment of phosphopeptides for mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "LS-18"
+    ]
+  },
+  "130412_002_UL01429-LS-01.raw": {
+    "Source Name": [
+      "UL01429"
+    ],
+    "Assay Name": [
+      "UL01429_LS-01"
+    ],
+    "Raw Data File": [
+      "130412_002_UL01429-LS-01.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Plasmodium falciparum"
+    ],
+    "Characteristics[MaterialType]": [
+      "parasites"
+    ],
+    "Characteristics[Specimen]": [
+      "Late-stage schizonts (segmented)"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "late schizont stage parasites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "6-plex TMT reagents (Thermo scientific)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (1\u2009M solution)"
+    ],
+    "Comment[Instrument]": [
+      "RSLCnano HPLC system (Dionex)",
+      "LTQ-Orbitrap-Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase PicoFrit capillary column (75\u2009\u00b5m i.d. \u00d7 400\u2009mm)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3\u2009\u00b5l\u2009min\u22121"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were eluted over a period of 4\u2009h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "up to ten data-dependent higher-energy collision dissociation (HCD) MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collision dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 42.5"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02\u2009Da"
+    ],
+    "Comment[IonizationType]": [
+      "nanospray ion source"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "IMAC enrichment of phosphopeptides for mass spectrometry",
+      "TiO2 enrichment of phosphopeptides for mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "LS-01"
+    ]
+  },
+  "130412_002_UL01429-LS-12.raw": {
+    "Source Name": [
+      "UL01429"
+    ],
+    "Assay Name": [
+      "UL01429_LS-12"
+    ],
+    "Raw Data File": [
+      "130412_002_UL01429-LS-12.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Plasmodium falciparum"
+    ],
+    "Characteristics[MaterialType]": [
+      "parasites"
+    ],
+    "Characteristics[Specimen]": [
+      "Late-stage schizonts (segmented)"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "late schizont stage parasites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "6-plex TMT reagents (Thermo scientific)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (1\u2009M solution)"
+    ],
+    "Comment[Instrument]": [
+      "RSLCnano HPLC system (Dionex)",
+      "LTQ-Orbitrap-Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase PicoFrit capillary column (75\u2009\u00b5m i.d. \u00d7 400\u2009mm)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3\u2009\u00b5l\u2009min\u22121"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were eluted over a period of 4\u2009h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "up to ten data-dependent higher-energy collision dissociation (HCD) MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collision dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 42.5"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02\u2009Da"
+    ],
+    "Comment[IonizationType]": [
+      "nanospray ion source"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "IMAC enrichment of phosphopeptides for mass spectrometry",
+      "TiO2 enrichment of phosphopeptides for mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "LS-12"
+    ]
+  },
+  "130830_001_UL01504-LS-08.raw": {
+    "Source Name": [
+      "UL01504"
+    ],
+    "Assay Name": [
+      "UL01504_LS-08"
+    ],
+    "Raw Data File": [
+      "130830_001_UL01504-LS-08.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Plasmodium falciparum"
+    ],
+    "Characteristics[MaterialType]": [
+      "parasites"
+    ],
+    "Characteristics[Specimen]": [
+      "Late-stage schizonts (segmented)"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "late schizont stage parasites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "6-plex TMT reagents (Thermo scientific)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (1\u2009M solution)"
+    ],
+    "Comment[Instrument]": [
+      "RSLCnano HPLC system (Dionex)",
+      "LTQ-Orbitrap-Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase PicoFrit capillary column (75\u2009\u00b5m i.d. \u00d7 400\u2009mm)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3\u2009\u00b5l\u2009min\u22121"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were eluted over a period of 4\u2009h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "up to ten data-dependent higher-energy collision dissociation (HCD) MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collision dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 42.5"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02\u2009Da"
+    ],
+    "Comment[IonizationType]": [
+      "nanospray ion source"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "IMAC enrichment of phosphopeptides for mass spectrometry",
+      "TiO2 enrichment of phosphopeptides for mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "LS-08"
+    ]
+  },
+  "130412_002_UL01429-LS-04.raw": {
+    "Source Name": [
+      "UL01429"
+    ],
+    "Assay Name": [
+      "UL01429_LS-04"
+    ],
+    "Raw Data File": [
+      "130412_002_UL01429-LS-04.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Plasmodium falciparum"
+    ],
+    "Characteristics[MaterialType]": [
+      "parasites"
+    ],
+    "Characteristics[Specimen]": [
+      "Late-stage schizonts (segmented)"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "late schizont stage parasites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "6-plex TMT reagents (Thermo scientific)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (1\u2009M solution)"
+    ],
+    "Comment[Instrument]": [
+      "RSLCnano HPLC system (Dionex)",
+      "LTQ-Orbitrap-Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase PicoFrit capillary column (75\u2009\u00b5m i.d. \u00d7 400\u2009mm)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3\u2009\u00b5l\u2009min\u22121"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were eluted over a period of 4\u2009h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "up to ten data-dependent higher-energy collision dissociation (HCD) MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collision dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 42.5"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02\u2009Da"
+    ],
+    "Comment[IonizationType]": [
+      "nanospray ion source"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "IMAC enrichment of phosphopeptides for mass spectrometry",
+      "TiO2 enrichment of phosphopeptides for mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "LS-04"
+    ]
+  },
+  "130830_001_UL01504-LS-03.raw": {
+    "Source Name": [
+      "UL01504"
+    ],
+    "Assay Name": [
+      "UL01504_LS-03"
+    ],
+    "Raw Data File": [
+      "130830_001_UL01504-LS-03.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Plasmodium falciparum"
+    ],
+    "Characteristics[MaterialType]": [
+      "parasites"
+    ],
+    "Characteristics[Specimen]": [
+      "Late-stage schizonts (segmented)"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "late schizont stage parasites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "6-plex TMT reagents (Thermo scientific)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (1\u2009M solution)"
+    ],
+    "Comment[Instrument]": [
+      "RSLCnano HPLC system (Dionex)",
+      "LTQ-Orbitrap-Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase PicoFrit capillary column (75\u2009\u00b5m i.d. \u00d7 400\u2009mm)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3\u2009\u00b5l\u2009min\u22121"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were eluted over a period of 4\u2009h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "up to ten data-dependent higher-energy collision dissociation (HCD) MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collision dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 42.5"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02\u2009Da"
+    ],
+    "Comment[IonizationType]": [
+      "nanospray ion source"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "IMAC enrichment of phosphopeptides for mass spectrometry",
+      "TiO2 enrichment of phosphopeptides for mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "LS-03"
+    ]
+  },
+  "130412_002_UL01429-LS-16.raw": {
+    "Source Name": [
+      "UL01429"
+    ],
+    "Assay Name": [
+      "UL01429_LS-16"
+    ],
+    "Raw Data File": [
+      "130412_002_UL01429-LS-16.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Plasmodium falciparum"
+    ],
+    "Characteristics[MaterialType]": [
+      "parasites"
+    ],
+    "Characteristics[Specimen]": [
+      "Late-stage schizonts (segmented)"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "late schizont stage parasites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "6-plex TMT reagents (Thermo scientific)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (1\u2009M solution)"
+    ],
+    "Comment[Instrument]": [
+      "RSLCnano HPLC system (Dionex)",
+      "LTQ-Orbitrap-Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase PicoFrit capillary column (75\u2009\u00b5m i.d. \u00d7 400\u2009mm)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3\u2009\u00b5l\u2009min\u22121"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were eluted over a period of 4\u2009h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "up to ten data-dependent higher-energy collision dissociation (HCD) MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collision dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 42.5"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02\u2009Da"
+    ],
+    "Comment[IonizationType]": [
+      "nanospray ion source"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "IMAC enrichment of phosphopeptides for mass spectrometry",
+      "TiO2 enrichment of phosphopeptides for mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "LS-16"
+    ]
+  },
+  "130412_002_UL01429-LS-02.raw": {
+    "Source Name": [
+      "UL01429"
+    ],
+    "Assay Name": [
+      "UL01429_LS-02"
+    ],
+    "Raw Data File": [
+      "130412_002_UL01429-LS-02.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Plasmodium falciparum"
+    ],
+    "Characteristics[MaterialType]": [
+      "parasites"
+    ],
+    "Characteristics[Specimen]": [
+      "Late-stage schizonts (segmented)"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "late schizont stage parasites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "6-plex TMT reagents (Thermo scientific)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (1\u2009M solution)"
+    ],
+    "Comment[Instrument]": [
+      "RSLCnano HPLC system (Dionex)",
+      "LTQ-Orbitrap-Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase PicoFrit capillary column (75\u2009\u00b5m i.d. \u00d7 400\u2009mm)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3\u2009\u00b5l\u2009min\u22121"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were eluted over a period of 4\u2009h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "up to ten data-dependent higher-energy collision dissociation (HCD) MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collision dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 42.5"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02\u2009Da"
+    ],
+    "Comment[IonizationType]": [
+      "nanospray ion source"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "IMAC enrichment of phosphopeptides for mass spectrometry",
+      "TiO2 enrichment of phosphopeptides for mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "LS-02"
+    ]
+  },
+  "130830_001_UL01504-LS-17.raw": {
+    "Source Name": [
+      "UL01504"
+    ],
+    "Assay Name": [
+      "UL01504_LS-17"
+    ],
+    "Raw Data File": [
+      "130830_001_UL01504-LS-17.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Plasmodium falciparum"
+    ],
+    "Characteristics[MaterialType]": [
+      "parasites"
+    ],
+    "Characteristics[Specimen]": [
+      "Late-stage schizonts (segmented)"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "late schizont stage parasites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "6-plex TMT reagents (Thermo scientific)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (1\u2009M solution)"
+    ],
+    "Comment[Instrument]": [
+      "RSLCnano HPLC system (Dionex)",
+      "LTQ-Orbitrap-Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase PicoFrit capillary column (75\u2009\u00b5m i.d. \u00d7 400\u2009mm)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3\u2009\u00b5l\u2009min\u22121"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were eluted over a period of 4\u2009h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "up to ten data-dependent higher-energy collision dissociation (HCD) MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collision dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 42.5"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02\u2009Da"
+    ],
+    "Comment[IonizationType]": [
+      "nanospray ion source"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "IMAC enrichment of phosphopeptides for mass spectrometry",
+      "TiO2 enrichment of phosphopeptides for mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "LS-17"
+    ]
+  },
+  "130830_001_UL01504-LS-04.raw": {
+    "Source Name": [
+      "UL01504"
+    ],
+    "Assay Name": [
+      "UL01504_LS-04"
+    ],
+    "Raw Data File": [
+      "130830_001_UL01504-LS-04.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Plasmodium falciparum"
+    ],
+    "Characteristics[MaterialType]": [
+      "parasites"
+    ],
+    "Characteristics[Specimen]": [
+      "Late-stage schizonts (segmented)"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "late schizont stage parasites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "6-plex TMT reagents (Thermo scientific)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (1\u2009M solution)"
+    ],
+    "Comment[Instrument]": [
+      "RSLCnano HPLC system (Dionex)",
+      "LTQ-Orbitrap-Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase PicoFrit capillary column (75\u2009\u00b5m i.d. \u00d7 400\u2009mm)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3\u2009\u00b5l\u2009min\u22121"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were eluted over a period of 4\u2009h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "up to ten data-dependent higher-energy collision dissociation (HCD) MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collision dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 42.5"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02\u2009Da"
+    ],
+    "Comment[IonizationType]": [
+      "nanospray ion source"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "IMAC enrichment of phosphopeptides for mass spectrometry",
+      "TiO2 enrichment of phosphopeptides for mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "LS-04"
+    ]
+  },
+  "130412_002_UL01429-LS-11.raw": {
+    "Source Name": [
+      "UL01429"
+    ],
+    "Assay Name": [
+      "UL01429_LS-11"
+    ],
+    "Raw Data File": [
+      "130412_002_UL01429-LS-11.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Plasmodium falciparum"
+    ],
+    "Characteristics[MaterialType]": [
+      "parasites"
+    ],
+    "Characteristics[Specimen]": [
+      "Late-stage schizonts (segmented)"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "late schizont stage parasites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "6-plex TMT reagents (Thermo scientific)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (1\u2009M solution)"
+    ],
+    "Comment[Instrument]": [
+      "RSLCnano HPLC system (Dionex)",
+      "LTQ-Orbitrap-Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase PicoFrit capillary column (75\u2009\u00b5m i.d. \u00d7 400\u2009mm)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3\u2009\u00b5l\u2009min\u22121"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were eluted over a period of 4\u2009h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "up to ten data-dependent higher-energy collision dissociation (HCD) MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collision dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 42.5"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02\u2009Da"
+    ],
+    "Comment[IonizationType]": [
+      "nanospray ion source"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "IMAC enrichment of phosphopeptides for mass spectrometry",
+      "TiO2 enrichment of phosphopeptides for mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "LS-11"
+    ]
+  },
+  "130830_001_UL01504-LS-16.raw": {
+    "Source Name": [
+      "UL01504"
+    ],
+    "Assay Name": [
+      "UL01504_LS-16"
+    ],
+    "Raw Data File": [
+      "130830_001_UL01504-LS-16.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Plasmodium falciparum"
+    ],
+    "Characteristics[MaterialType]": [
+      "parasites"
+    ],
+    "Characteristics[Specimen]": [
+      "Late-stage schizonts (segmented)"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "late schizont stage parasites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "6-plex TMT reagents (Thermo scientific)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (1\u2009M solution)"
+    ],
+    "Comment[Instrument]": [
+      "RSLCnano HPLC system (Dionex)",
+      "LTQ-Orbitrap-Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase PicoFrit capillary column (75\u2009\u00b5m i.d. \u00d7 400\u2009mm)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3\u2009\u00b5l\u2009min\u22121"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were eluted over a period of 4\u2009h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "up to ten data-dependent higher-energy collision dissociation (HCD) MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collision dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 42.5"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02\u2009Da"
+    ],
+    "Comment[IonizationType]": [
+      "nanospray ion source"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "IMAC enrichment of phosphopeptides for mass spectrometry",
+      "TiO2 enrichment of phosphopeptides for mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "LS-16"
+    ]
+  },
+  "130830_001_UL01504-LS-02.raw": {
+    "Source Name": [
+      "UL01504"
+    ],
+    "Assay Name": [
+      "UL01504_LS-02"
+    ],
+    "Raw Data File": [
+      "130830_001_UL01504-LS-02.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Plasmodium falciparum"
+    ],
+    "Characteristics[MaterialType]": [
+      "parasites"
+    ],
+    "Characteristics[Specimen]": [
+      "Late-stage schizonts (segmented)"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "late schizont stage parasites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "6-plex TMT reagents (Thermo scientific)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (1\u2009M solution)"
+    ],
+    "Comment[Instrument]": [
+      "RSLCnano HPLC system (Dionex)",
+      "LTQ-Orbitrap-Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase PicoFrit capillary column (75\u2009\u00b5m i.d. \u00d7 400\u2009mm)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3\u2009\u00b5l\u2009min\u22121"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were eluted over a period of 4\u2009h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "up to ten data-dependent higher-energy collision dissociation (HCD) MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collision dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 42.5"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02\u2009Da"
+    ],
+    "Comment[IonizationType]": [
+      "nanospray ion source"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "IMAC enrichment of phosphopeptides for mass spectrometry",
+      "TiO2 enrichment of phosphopeptides for mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "LS-02"
+    ]
+  },
+  "130412_002_UL01429-LS-08.raw": {
+    "Source Name": [
+      "UL01429"
+    ],
+    "Assay Name": [
+      "UL01429_LS-08"
+    ],
+    "Raw Data File": [
+      "130412_002_UL01429-LS-08.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Plasmodium falciparum"
+    ],
+    "Characteristics[MaterialType]": [
+      "parasites"
+    ],
+    "Characteristics[Specimen]": [
+      "Late-stage schizonts (segmented)"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "late schizont stage parasites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "6-plex TMT reagents (Thermo scientific)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (1\u2009M solution)"
+    ],
+    "Comment[Instrument]": [
+      "RSLCnano HPLC system (Dionex)",
+      "LTQ-Orbitrap-Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase PicoFrit capillary column (75\u2009\u00b5m i.d. \u00d7 400\u2009mm)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3\u2009\u00b5l\u2009min\u22121"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were eluted over a period of 4\u2009h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "up to ten data-dependent higher-energy collision dissociation (HCD) MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collision dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 42.5"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02\u2009Da"
+    ],
+    "Comment[IonizationType]": [
+      "nanospray ion source"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "IMAC enrichment of phosphopeptides for mass spectrometry",
+      "TiO2 enrichment of phosphopeptides for mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "LS-08"
+    ]
+  },
+  "130830_001_UL01504-LS-09.raw": {
+    "Source Name": [
+      "UL01504"
+    ],
+    "Assay Name": [
+      "UL01504_LS-09"
+    ],
+    "Raw Data File": [
+      "130830_001_UL01504-LS-09.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Plasmodium falciparum"
+    ],
+    "Characteristics[MaterialType]": [
+      "parasites"
+    ],
+    "Characteristics[Specimen]": [
+      "Late-stage schizonts (segmented)"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "late schizont stage parasites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "6-plex TMT reagents (Thermo scientific)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (1\u2009M solution)"
+    ],
+    "Comment[Instrument]": [
+      "RSLCnano HPLC system (Dionex)",
+      "LTQ-Orbitrap-Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase PicoFrit capillary column (75\u2009\u00b5m i.d. \u00d7 400\u2009mm)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3\u2009\u00b5l\u2009min\u22121"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were eluted over a period of 4\u2009h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "up to ten data-dependent higher-energy collision dissociation (HCD) MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collision dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 42.5"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02\u2009Da"
+    ],
+    "Comment[IonizationType]": [
+      "nanospray ion source"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "IMAC enrichment of phosphopeptides for mass spectrometry",
+      "TiO2 enrichment of phosphopeptides for mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "LS-09"
+    ]
+  },
+  "130412_002_UL01429-LS-09.raw": {
+    "Source Name": [
+      "UL01429"
+    ],
+    "Assay Name": [
+      "UL01429_LS-09"
+    ],
+    "Raw Data File": [
+      "130412_002_UL01429-LS-09.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Plasmodium falciparum"
+    ],
+    "Characteristics[MaterialType]": [
+      "parasites"
+    ],
+    "Characteristics[Specimen]": [
+      "Late-stage schizonts (segmented)"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "late schizont stage parasites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "6-plex TMT reagents (Thermo scientific)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (1\u2009M solution)"
+    ],
+    "Comment[Instrument]": [
+      "RSLCnano HPLC system (Dionex)",
+      "LTQ-Orbitrap-Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase PicoFrit capillary column (75\u2009\u00b5m i.d. \u00d7 400\u2009mm)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3\u2009\u00b5l\u2009min\u22121"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were eluted over a period of 4\u2009h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "up to ten data-dependent higher-energy collision dissociation (HCD) MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collision dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 42.5"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02\u2009Da"
+    ],
+    "Comment[IonizationType]": [
+      "nanospray ion source"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "IMAC enrichment of phosphopeptides for mass spectrometry",
+      "TiO2 enrichment of phosphopeptides for mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "LS-09"
+    ]
+  },
+  "130830_001_UL01504-LS-12.raw": {
+    "Source Name": [
+      "UL01504"
+    ],
+    "Assay Name": [
+      "UL01504_LS-12"
+    ],
+    "Raw Data File": [
+      "130830_001_UL01504-LS-12.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Plasmodium falciparum"
+    ],
+    "Characteristics[MaterialType]": [
+      "parasites"
+    ],
+    "Characteristics[Specimen]": [
+      "Late-stage schizonts (segmented)"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "late schizont stage parasites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "6-plex TMT reagents (Thermo scientific)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (1\u2009M solution)"
+    ],
+    "Comment[Instrument]": [
+      "RSLCnano HPLC system (Dionex)",
+      "LTQ-Orbitrap-Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase PicoFrit capillary column (75\u2009\u00b5m i.d. \u00d7 400\u2009mm)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3\u2009\u00b5l\u2009min\u22121"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were eluted over a period of 4\u2009h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "up to ten data-dependent higher-energy collision dissociation (HCD) MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collision dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 42.5"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02\u2009Da"
+    ],
+    "Comment[IonizationType]": [
+      "nanospray ion source"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "IMAC enrichment of phosphopeptides for mass spectrometry",
+      "TiO2 enrichment of phosphopeptides for mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "LS-12"
+    ]
+  },
+  "130412_002_UL01429-LS-06.raw": {
+    "Source Name": [
+      "UL01429"
+    ],
+    "Assay Name": [
+      "UL01429_LS-06"
+    ],
+    "Raw Data File": [
+      "130412_002_UL01429-LS-06.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Plasmodium falciparum"
+    ],
+    "Characteristics[MaterialType]": [
+      "parasites"
+    ],
+    "Characteristics[Specimen]": [
+      "Late-stage schizonts (segmented)"
+    ],
+    "Characteristics[DevelopmentalStage]": [
+      "late schizont stage parasites"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Promega)"
+    ],
+    "Characteristics[Label]": [
+      "6-plex TMT reagents (Thermo scientific)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "Iodoacetamide (1\u2009M solution)"
+    ],
+    "Comment[Instrument]": [
+      "RSLCnano HPLC system (Dionex)",
+      "LTQ-Orbitrap-Velos mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase PicoFrit capillary column (75\u2009\u00b5m i.d. \u00d7 400\u2009mm)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 0.3\u2009\u00b5l\u2009min\u22121"
+    ],
+    "Comment[GradientTime]": [
+      "Peptides were eluted over a period of 4\u2009h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "up to ten data-dependent higher-energy collision dissociation (HCD) MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collision dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 42.5"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10 p.p.m."
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.02\u2009Da"
+    ],
+    "Comment[IonizationType]": [
+      "nanospray ion source"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "IMAC enrichment of phosphopeptides for mass spectrometry",
+      "TiO2 enrichment of phosphopeptides for mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "LS-06"
+    ]
+  }
+}

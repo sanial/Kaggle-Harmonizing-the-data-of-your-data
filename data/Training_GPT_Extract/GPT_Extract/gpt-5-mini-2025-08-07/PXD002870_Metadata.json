@@ -1,0 +1,712 @@
+{
+  "BALB_ISO_Heart_Mito_d10_A10.raw": {
+    "Source Name": [
+      "BALB_ISO_Heart_Mito_d10"
+    ],
+    "Assay Name": [
+      "BALB_ISO_Heart_Mito_d10_A10"
+    ],
+    "Raw Data File": [
+      "BALB_ISO_Heart_Mito_d10_A10.raw"
+    ],
+    "Characteristics[Strain]": [
+      "BALB"
+    ],
+    "FactorValue[Treatment]": [
+      "ISO"
+    ],
+    "FactorValue[Time]": [
+      "d10"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Mito"
+    ],
+    "Characteristics[OrganismPart]": [
+      "heart"
+    ],
+    "Characteristics[Organism]": [
+      "mice"
+    ],
+    "Characteristics[Sex]": [
+      "male"
+    ],
+    "Characteristics[Age]": [
+      "9–12 weeks of age"
+    ],
+    "Characteristics[MaterialType]": [
+      "cardiac tissues"
+    ],
+    "Characteristics[Compound]": [
+      "2H2O labeling"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing-grade modified trypsin (50:1, Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol (3\u2009mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (9\u2009mM)"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Elite instrument (Thermo Scientific)"
+    ],
+    "Comment[FractionationMethod]": [
+      "high-pH/low\u2013pH two-dimensional reversed-phase chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve fractions were collected"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300\u2009nl\u00b7min\u22121"
+    ],
+    "Comment[GradientTime]": [
+      "0\u2013110\u2019min: 0\u201340% solvent B in solvent A; 110\u2013117\u2019min: 40\u201380% solvent B in solvent A; 117\u2013120\u2019min: 80% solvent B in solvent A"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Fourier-Transform/Ion-Trap (FT/IT) mode"
+    ],
+    "Comment[Separation]": [
+      "on-line second-dimension (low-pH) reversed-phase chromatography"
+    ]
+  },
+  "AJ_CTRL_Heart_Nucl_d14_A17.raw": {
+    "Source Name": [
+      "AJ_CTRL_Heart_Nucl_d14"
+    ],
+    "Assay Name": [
+      "AJ_CTRL_Heart_Nucl_d14_A17"
+    ],
+    "Raw Data File": [
+      "AJ_CTRL_Heart_Nucl_d14_A17.raw"
+    ],
+    "Characteristics[Strain]": [
+      "AJ"
+    ],
+    "FactorValue[Treatment]": [
+      "CTRL"
+    ],
+    "FactorValue[Time]": [
+      "d14"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Nucl"
+    ],
+    "Characteristics[OrganismPart]": [
+      "heart"
+    ],
+    "Characteristics[Organism]": [
+      "mice"
+    ],
+    "Characteristics[Sex]": [
+      "male"
+    ],
+    "Characteristics[Age]": [
+      "9–12 weeks of age"
+    ],
+    "Characteristics[MaterialType]": [
+      "cardiac tissues"
+    ],
+    "Characteristics[Compound]": [
+      "2H2O labeling"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing-grade modified trypsin (50:1, Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol (3\u2009mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (9\u2009mM)"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Elite instrument (Thermo Scientific)"
+    ],
+    "Comment[FractionationMethod]": [
+      "high-pH/low\u2013pH two-dimensional reversed-phase chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve fractions were collected"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300\u2009nl\u00b7min\u22121"
+    ],
+    "Comment[GradientTime]": [
+      "0\u2013110\u2019min: 0\u201340% solvent B in solvent A; 110\u2013117\u2019min: 40\u201380% solvent B in solvent A; 117\u2013120\u2019min: 80% solvent B in solvent A"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Fourier-Transform/Ion-Trap (FT/IT) mode"
+    ],
+    "Comment[Separation]": [
+      "on-line second-dimension (low-pH) reversed-phase chromatography"
+    ]
+  },
+  "DBA_ISO_Heart_Nucl_d05_A17.raw": {
+    "Source Name": [
+      "DBA_ISO_Heart_Nucl_d05"
+    ],
+    "Assay Name": [
+      "DBA_ISO_Heart_Nucl_d05_A17"
+    ],
+    "Raw Data File": [
+      "DBA_ISO_Heart_Nucl_d05_A17.raw"
+    ],
+    "Characteristics[Strain]": [
+      "DBA"
+    ],
+    "FactorValue[Treatment]": [
+      "ISO"
+    ],
+    "FactorValue[Time]": [
+      "d05"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Nucl"
+    ],
+    "Characteristics[OrganismPart]": [
+      "heart"
+    ],
+    "Characteristics[Organism]": [
+      "mice"
+    ],
+    "Characteristics[Sex]": [
+      "male"
+    ],
+    "Characteristics[Age]": [
+      "9–12 weeks of age"
+    ],
+    "Characteristics[MaterialType]": [
+      "cardiac tissues"
+    ],
+    "Characteristics[Compound]": [
+      "2H2O labeling"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing-grade modified trypsin (50:1, Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol (3\u2009mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (9\u2009mM)"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Elite instrument (Thermo Scientific)"
+    ],
+    "Comment[FractionationMethod]": [
+      "high-pH/low\u2013pH two-dimensional reversed-phase chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve fractions were collected"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300\u2009nl\u00b7min\u22121"
+    ],
+    "Comment[GradientTime]": [
+      "0\u2013110\u2019min: 0\u201340% solvent B in solvent A; 110\u2013117\u2019min: 40\u201380% solvent B in solvent A; 117\u2013120\u2019min: 80% solvent B in solvent A"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Fourier-Transform/Ion-Trap (FT/IT) mode"
+    ],
+    "Comment[Separation]": [
+      "on-line second-dimension (low-pH) reversed-phase chromatography"
+    ]
+  },
+  "DBA_ISO_Heart_Cyto_d07_A05.raw": {
+    "Source Name": [
+      "DBA_ISO_Heart_Cyto_d07"
+    ],
+    "Assay Name": [
+      "DBA_ISO_Heart_Cyto_d07_A05"
+    ],
+    "Raw Data File": [
+      "DBA_ISO_Heart_Cyto_d07_A05.raw"
+    ],
+    "Characteristics[Strain]": [
+      "DBA"
+    ],
+    "FactorValue[Treatment]": [
+      "ISO"
+    ],
+    "FactorValue[Time]": [
+      "d07"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Cyto"
+    ],
+    "Characteristics[OrganismPart]": [
+      "heart"
+    ],
+    "Characteristics[Organism]": [
+      "mice"
+    ],
+    "Characteristics[Sex]": [
+      "male"
+    ],
+    "Characteristics[Age]": [
+      "9–12 weeks of age"
+    ],
+    "Characteristics[MaterialType]": [
+      "cardiac tissues"
+    ],
+    "Characteristics[Compound]": [
+      "2H2O labeling"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing-grade modified trypsin (50:1, Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol (3\u2009mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (9\u2009mM)"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Elite instrument (Thermo Scientific)"
+    ],
+    "Comment[FractionationMethod]": [
+      "high-pH/low\u2013pH two-dimensional reversed-phase chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve fractions were collected"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300\u2009nl\u00b7min\u22121"
+    ],
+    "Comment[GradientTime]": [
+      "0\u2013110\u2019min: 0\u201340% solvent B in solvent A; 110\u2013117\u2019min: 40\u201380% solvent B in solvent A; 117\u2013120\u2019min: 80% solvent B in solvent A"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Fourier-Transform/Ion-Trap (FT/IT) mode"
+    ],
+    "Comment[Separation]": [
+      "on-line second-dimension (low-pH) reversed-phase chromatography"
+    ]
+  },
+  "CEJ_CTRL_Heart_Mito_d00_A12.raw": {
+    "Source Name": [
+      "CEJ_CTRL_Heart_Mito_d00"
+    ],
+    "Assay Name": [
+      "CEJ_CTRL_Heart_Mito_d00_A12"
+    ],
+    "Raw Data File": [
+      "CEJ_CTRL_Heart_Mito_d00_A12.raw"
+    ],
+    "Characteristics[Strain]": [
+      "CEJ"
+    ],
+    "FactorValue[Treatment]": [
+      "CTRL"
+    ],
+    "FactorValue[Time]": [
+      "d00"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Mito"
+    ],
+    "Characteristics[OrganismPart]": [
+      "heart"
+    ],
+    "Characteristics[Organism]": [
+      "mice"
+    ],
+    "Characteristics[Sex]": [
+      "male"
+    ],
+    "Characteristics[Age]": [
+      "9–12 weeks of age"
+    ],
+    "Characteristics[MaterialType]": [
+      "cardiac tissues"
+    ],
+    "Characteristics[Compound]": [
+      "2H2O labeling"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing-grade modified trypsin (50:1, Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol (3\u2009mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (9\u2009mM)"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Elite instrument (Thermo Scientific)"
+    ],
+    "Comment[FractionationMethod]": [
+      "high-pH/low\u2013pH two-dimensional reversed-phase chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve fractions were collected"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300\u2009nl\u00b7min\u22121"
+    ],
+    "Comment[GradientTime]": [
+      "0\u2013110\u2019min: 0\u201340% solvent B in solvent A; 110\u2013117\u2019min: 40\u201380% solvent B in solvent A; 117\u2013120\u2019min: 80% solvent B in solvent A"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Fourier-Transform/Ion-Trap (FT/IT) mode"
+    ],
+    "Comment[Separation]": [
+      "on-line second-dimension (low-pH) reversed-phase chromatography"
+    ]
+  },
+  "AJ_ISO_Heart_Cyto_d10_A03.raw": {
+    "Source Name": [
+      "AJ_ISO_Heart_Cyto_d10"
+    ],
+    "Assay Name": [
+      "AJ_ISO_Heart_Cyto_d10_A03"
+    ],
+    "Raw Data File": [
+      "AJ_ISO_Heart_Cyto_d10_A03.raw"
+    ],
+    "Characteristics[Strain]": [
+      "AJ"
+    ],
+    "FactorValue[Treatment]": [
+      "ISO"
+    ],
+    "FactorValue[Time]": [
+      "d10"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Cyto"
+    ],
+    "Characteristics[OrganismPart]": [
+      "heart"
+    ],
+    "Characteristics[Organism]": [
+      "mice"
+    ],
+    "Characteristics[Sex]": [
+      "male"
+    ],
+    "Characteristics[Age]": [
+      "9–12 weeks of age"
+    ],
+    "Characteristics[MaterialType]": [
+      "cardiac tissues"
+    ],
+    "Characteristics[Compound]": [
+      "2H2O labeling"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing-grade modified trypsin (50:1, Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol (3\u2009mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (9\u2009mM)"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Elite instrument (Thermo Scientific)"
+    ],
+    "Comment[FractionationMethod]": [
+      "high-pH/low\u2013pH two-dimensional reversed-phase chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve fractions were collected"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300\u2009nl\u00b7min\u22121"
+    ],
+    "Comment[GradientTime]": [
+      "0\u2013110\u2019min: 0\u201340% solvent B in solvent A; 110\u2013117\u2019min: 40\u201380% solvent B in solvent A; 117\u2013120\u2019min: 80% solvent B in solvent A"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Fourier-Transform/Ion-Trap (FT/IT) mode"
+    ],
+    "Comment[Separation]": [
+      "on-line second-dimension (low-pH) reversed-phase chromatography"
+    ]
+  },
+  "CEJ_ISO_Heart_Nucl_d03_A13.raw": {
+    "Source Name": [
+      "CEJ_ISO_Heart_Nucl_d03"
+    ],
+    "Assay Name": [
+      "CEJ_ISO_Heart_Nucl_d03_A13"
+    ],
+    "Raw Data File": [
+      "CEJ_ISO_Heart_Nucl_d03_A13.raw"
+    ],
+    "Characteristics[Strain]": [
+      "CEJ"
+    ],
+    "FactorValue[Treatment]": [
+      "ISO"
+    ],
+    "FactorValue[Time]": [
+      "d03"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Nucl"
+    ],
+    "Characteristics[OrganismPart]": [
+      "heart"
+    ],
+    "Characteristics[Organism]": [
+      "mice"
+    ],
+    "Characteristics[Sex]": [
+      "male"
+    ],
+    "Characteristics[Age]": [
+      "9–12 weeks of age"
+    ],
+    "Characteristics[MaterialType]": [
+      "cardiac tissues"
+    ],
+    "Characteristics[Compound]": [
+      "2H2O labeling"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing-grade modified trypsin (50:1, Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol (3\u2009mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (9\u2009mM)"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Elite instrument (Thermo Scientific)"
+    ],
+    "Comment[FractionationMethod]": [
+      "high-pH/low\u2013pH two-dimensional reversed-phase chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve fractions were collected"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300\u2009nl\u00b7min\u22121"
+    ],
+    "Comment[GradientTime]": [
+      "0\u2013110\u2019min: 0\u201340% solvent B in solvent A; 110\u2013117\u2019min: 40\u201380% solvent B in solvent A; 117\u2013120\u2019min: 80% solvent B in solvent A"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Fourier-Transform/Ion-Trap (FT/IT) mode"
+    ],
+    "Comment[Separation]": [
+      "on-line second-dimension (low-pH) reversed-phase chromatography"
+    ]
+  },
+  "C57_CTRL_Heart_Cyto_d00_A04.raw": {
+    "Source Name": [
+      "C57_CTRL_Heart_Cyto_d00"
+    ],
+    "Assay Name": [
+      "C57_CTRL_Heart_Cyto_d00_A04"
+    ],
+    "Raw Data File": [
+      "C57_CTRL_Heart_Cyto_d00_A04.raw"
+    ],
+    "Characteristics[Strain]": [
+      "C57"
+    ],
+    "FactorValue[Treatment]": [
+      "CTRL"
+    ],
+    "FactorValue[Time]": [
+      "d00"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Cyto"
+    ],
+    "Characteristics[OrganismPart]": [
+      "heart"
+    ],
+    "Characteristics[Organism]": [
+      "mice"
+    ],
+    "Characteristics[Sex]": [
+      "male"
+    ],
+    "Characteristics[Age]": [
+      "9–12 weeks of age"
+    ],
+    "Characteristics[MaterialType]": [
+      "cardiac tissues"
+    ],
+    "Characteristics[Compound]": [
+      "2H2O labeling"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing-grade modified trypsin (50:1, Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol (3\u2009mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (9\u2009mM)"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Elite instrument (Thermo Scientific)"
+    ],
+    "Comment[FractionationMethod]": [
+      "high-pH/low\u2013pH two-dimensional reversed-phase chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve fractions were collected"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300\u2009nl\u00b7min\u22121"
+    ],
+    "Comment[GradientTime]": [
+      "0\u2013110\u2019min: 0\u201340% solvent B in solvent A; 110\u2013117\u2019min: 40\u201380% solvent B in solvent A; 117\u2013120\u2019min: 80% solvent B in solvent A"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Fourier-Transform/Ion-Trap (FT/IT) mode"
+    ],
+    "Comment[Separation]": [
+      "on-line second-dimension (low-pH) reversed-phase chromatography"
+    ]
+  },
+  "CEJ_CTRL_Heart_Mito_d05_A08.raw": {
+    "Source Name": [
+      "CEJ_CTRL_Heart_Mito_d05"
+    ],
+    "Assay Name": [
+      "CEJ_CTRL_Heart_Mito_d05_A08"
+    ],
+    "Raw Data File": [
+      "CEJ_CTRL_Heart_Mito_d05_A08.raw"
+    ],
+    "Characteristics[Strain]": [
+      "CEJ"
+    ],
+    "FactorValue[Treatment]": [
+      "CTRL"
+    ],
+    "FactorValue[Time]": [
+      "d05"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Mito"
+    ],
+    "Characteristics[OrganismPart]": [
+      "heart"
+    ],
+    "Characteristics[Organism]": [
+      "mice"
+    ],
+    "Characteristics[Sex]": [
+      "male"
+    ],
+    "Characteristics[Age]": [
+      "9–12 weeks of age"
+    ],
+    "Characteristics[MaterialType]": [
+      "cardiac tissues"
+    ],
+    "Characteristics[Compound]": [
+      "2H2O labeling"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing-grade modified trypsin (50:1, Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol (3\u2009mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (9\u2009mM)"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Elite instrument (Thermo Scientific)"
+    ],
+    "Comment[FractionationMethod]": [
+      "high-pH/low\u2013pH two-dimensional reversed-phase chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve fractions were collected"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300\u2009nl\u00b7min\u22121"
+    ],
+    "Comment[GradientTime]": [
+      "0\u2013110\u2019min: 0\u201340% solvent B in solvent A; 110\u2013117\u2019min: 40\u201380% solvent B in solvent A; 117\u2013120\u2019min: 80% solvent B in solvent A"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Fourier-Transform/Ion-Trap (FT/IT) mode"
+    ],
+    "Comment[Separation]": [
+      "on-line second-dimension (low-pH) reversed-phase chromatography"
+    ]
+  },
+  "FVB_ISO_Heart_Cyto_d10_A05.raw": {
+    "Source Name": [
+      "FVB_ISO_Heart_Cyto_d10"
+    ],
+    "Assay Name": [
+      "FVB_ISO_Heart_Cyto_d10_A05"
+    ],
+    "Raw Data File": [
+      "FVB_ISO_Heart_Cyto_d10_A05.raw"
+    ],
+    "Characteristics[Strain]": [
+      "FVB"
+    ],
+    "FactorValue[Treatment]": [
+      "ISO"
+    ],
+    "FactorValue[Time]": [
+      "d10"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Cyto"
+    ],
+    "Characteristics[OrganismPart]": [
+      "heart"
+    ],
+    "Characteristics[Organism]": [
+      "mice"
+    ],
+    "Characteristics[Sex]": [
+      "male"
+    ],
+    "Characteristics[Age]": [
+      "9–12 weeks of age"
+    ],
+    "Characteristics[MaterialType]": [
+      "cardiac tissues"
+    ],
+    "Characteristics[Compound]": [
+      "2H2O labeling"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "sequencing-grade modified trypsin (50:1, Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol (3\u2009mM)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide (9\u2009mM)"
+    ],
+    "Comment[Instrument]": [
+      "LTQ Orbitrap Elite instrument (Thermo Scientific)"
+    ],
+    "Comment[FractionationMethod]": [
+      "high-pH/low\u2013pH two-dimensional reversed-phase chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve fractions were collected"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300\u2009nl\u00b7min\u22121"
+    ],
+    "Comment[GradientTime]": [
+      "0\u2013110\u2019min: 0\u201340% solvent B in solvent A; 110\u2013117\u2019min: 40\u201380% solvent B in solvent A; 117\u2013120\u2019min: 80% solvent B in solvent A"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Fourier-Transform/Ion-Trap (FT/IT) mode"
+    ],
+    "Comment[Separation]": [
+      "on-line second-dimension (low-pH) reversed-phase chromatography"
+    ]
+  }
+}

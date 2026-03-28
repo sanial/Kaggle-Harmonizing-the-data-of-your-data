@@ -1,0 +1,56 @@
+Disease: Colorectal Cancer  
+Disease: colorectal carcinoma  
+OrganismPart: colon tissue  
+NumberOfSamples: n=30  
+NumberOfSamples: n=19  
+NumberOfSamples: n=35  
+NumberOfSamples: n=20  
+Age: 69 years  
+Age: 27-85 years  
+Sex: women  
+Sex: men  
+TumorSite: caecum  
+TumorSite: colon  
+TumorSite: sigma  
+TumorSite: rectum  
+Age: 62 years  
+Age: 24-82 years  
+NumberOfSamples: n=50  
+NumberOfSamples: n=15  
+MaterialType: Peripheral blood mononuclear cells (PBMC)  
+Separation: density gradient centrifugation  
+AssayName: HLA-typing  
+AssayName: LUMINEX  
+AssayName: sequence-based typing  
+AssayName: molecular HLA-typing  
+EnrichmentMethod: immunoaffinity purification  
+Bait: panHLA-class I monoclonal antibody W6/32  
+Bait: HLA-DR monoclonal antibody L243  
+Bait: panHLA-class II monoclonal antibody Tü39  
+SampleTreatment: 0.2% trifluoroacetic acid  
+AssayName: LC-MS/MS  
+Instrument: UltiMate 3000 RSLCnano System  
+Separation: nanoflow uHPLC  
+Instrument: LTQ Orbitrap XL mass spectrometer  
+GradientTime: 90 minutes  
+FragmentationMethod: collision-induced dissociation  
+SourceName: Swiss-Prot database  
+Modification: Oxidized methionine  
+SourceName: in-house database of HLA-ligandome data from 132 non-malignant tissues  
+SupplementaryFile: PXD009602  
+AssayName: KEGG pathway analysis  
+AssayName: PANTHER  
+AssayName: label-free quantitation  
+Instrument: Lab Vision Autostainer  
+Staining: HLA-class I  
+Staining: HLA-class II  
+Instrument: EPS 221  
+Instrument: ABI 433A  
+Modification: Fmoc/tBu  
+Instrument: FACSCanto  
+AssayName: IFN-γ ELISpot  
+AssayName: multimer staining  
+Treatment: IL-12  
+Treatment: IL-2  
+Compound: LSM 1077  
+Compound: trifluoroacetic acid

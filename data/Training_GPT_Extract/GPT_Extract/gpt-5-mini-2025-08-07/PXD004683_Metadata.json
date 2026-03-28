@@ -1,0 +1,2978 @@
+{
+  "20150820_Haura-Pilot-TMT1-bRPLC11-1.raw": {
+    "Source Name": [
+      "20150820_Haura-Pilot-TMT1-bRPLC11-1"
+    ],
+    "Assay Name": [
+      "20150820_Haura-Pilot-TMT1-bRPLC11-1.raw"
+    ],
+    "Raw Data File": [
+      "20150820_Haura-Pilot-TMT1-bRPLC11-1.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 \u00b0C"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 \u00b0C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Characteristics[Label]": [
+      "TMT 6-plex"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec) and resuspended in lysis buffer containing 20 mM HEPES, pH 8.0, 9 M urea, 1 mM sodium orthovanadate, 2.5 mM sodium pyrophosphate, and 1 mM \u03b2-glycerophosphate."
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC was spiked in each LC-MS/MS analysis to monitor instrument performance (Figure S1)."
+    ],
+    "Comment[Instrument]": [
+      "QExactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "DDA"
+    ],
+    "Comment[CollisionEnergy]": [
+      "the normalized collision energy value was set to 30."
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC11"
+    ]
+  },
+  "20150820_Haura-Pilot-TMT2-bRPLC06-2.raw": {
+    "Source Name": [
+      "20150820_Haura-Pilot-TMT2-bRPLC06-2"
+    ],
+    "Assay Name": [
+      "20150820_Haura-Pilot-TMT2-bRPLC06-2.raw"
+    ],
+    "Raw Data File": [
+      "20150820_Haura-Pilot-TMT2-bRPLC06-2.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 \u00b0C"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 \u00b0C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Characteristics[Label]": [
+      "TMT 6-plex"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec) and resuspended in lysis buffer containing 20 mM HEPES, pH 8.0, 9 M urea, 1 mM sodium orthovanadate, 2.5 mM sodium pyrophosphate, and 1 mM \u03b2-glycerophosphate."
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC was spiked in each LC-MS/MS analysis to monitor instrument performance (Figure S1)."
+    ],
+    "Comment[Instrument]": [
+      "QExactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "DDA"
+    ],
+    "Comment[CollisionEnergy]": [
+      "the normalized collision energy value was set to 30."
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC06"
+    ]
+  },
+  "20150820_Haura-Pilot-TMT2-bRPLC04-1.raw": {
+    "Source Name": [
+      "20150820_Haura-Pilot-TMT2-bRPLC04-1"
+    ],
+    "Assay Name": [
+      "20150820_Haura-Pilot-TMT2-bRPLC04-1.raw"
+    ],
+    "Raw Data File": [
+      "20150820_Haura-Pilot-TMT2-bRPLC04-1.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 \u00b0C"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 \u00b0C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Characteristics[Label]": [
+      "TMT 6-plex"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec) and resuspended in lysis buffer containing 20 mM HEPES, pH 8.0, 9 M urea, 1 mM sodium orthovanadate, 2.5 mM sodium pyrophosphate, and 1 mM \u03b2-glycerophosphate."
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC was spiked in each LC-MS/MS analysis to monitor instrument performance (Figure S1)."
+    ],
+    "Comment[Instrument]": [
+      "QExactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "DDA"
+    ],
+    "Comment[CollisionEnergy]": [
+      "the normalized collision energy value was set to 30."
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC04"
+    ]
+  },
+  "20150820_Haura-Pilot-TMT1-bRPLC03-2.raw": {
+    "Source Name": [
+      "20150820_Haura-Pilot-TMT1-bRPLC03-2"
+    ],
+    "Assay Name": [
+      "20150820_Haura-Pilot-TMT1-bRPLC03-2.raw"
+    ],
+    "Raw Data File": [
+      "20150820_Haura-Pilot-TMT1-bRPLC03-2.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 \u00b0C"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 \u00b0C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Characteristics[Label]": [
+      "TMT 6-plex"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec) and resuspended in lysis buffer containing 20 mM HEPES, pH 8.0, 9 M urea, 1 mM sodium orthovanadate, 2.5 mM sodium pyrophosphate, and 1 mM \u03b2-glycerophosphate."
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC was spiked in each LC-MS/MS analysis to monitor instrument performance (Figure S1)."
+    ],
+    "Comment[Instrument]": [
+      "QExactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "DDA"
+    ],
+    "Comment[CollisionEnergy]": [
+      "the normalized collision energy value was set to 30."
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC03"
+    ]
+  },
+  "20150820_Haura-Pilot-TMT1-bRPLC09-1.raw": {
+    "Source Name": [
+      "20150820_Haura-Pilot-TMT1-bRPLC09-1"
+    ],
+    "Assay Name": [
+      "20150820_Haura-Pilot-TMT1-bRPLC09-1.raw"
+    ],
+    "Raw Data File": [
+      "20150820_Haura-Pilot-TMT1-bRPLC09-1.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 \u00b0C"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 \u00b0C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Characteristics[Label]": [
+      "TMT 6-plex"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec) and resuspended in lysis buffer containing 20 mM HEPES, pH 8.0, 9 M urea, 1 mM sodium orthovanadate, 2.5 mM sodium pyrophosphate, and 1 mM \u03b2-glycerophosphate."
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC was spiked in each LC-MS/MS analysis to monitor instrument performance (Figure S1)."
+    ],
+    "Comment[Instrument]": [
+      "QExactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "DDA"
+    ],
+    "Comment[CollisionEnergy]": [
+      "the normalized collision energy value was set to 30."
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC09"
+    ]
+  },
+  "20150820_Haura-Pilot-TMT2-bRPLC04-2.raw": {
+    "Source Name": [
+      "20150820_Haura-Pilot-TMT2-bRPLC04-2"
+    ],
+    "Assay Name": [
+      "20150820_Haura-Pilot-TMT2-bRPLC04-2.raw"
+    ],
+    "Raw Data File": [
+      "20150820_Haura-Pilot-TMT2-bRPLC04-2.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 \u00b0C"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 \u00b0C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Characteristics[Label]": [
+      "TMT 6-plex"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec) and resuspended in lysis buffer containing 20 mM HEPES, pH 8.0, 9 M urea, 1 mM sodium orthovanadate, 2.5 mM sodium pyrophosphate, and 1 mM \u03b2-glycerophosphate."
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC was spiked in each LC-MS/MS analysis to monitor instrument performance (Figure S1)."
+    ],
+    "Comment[Instrument]": [
+      "QExactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "DDA"
+    ],
+    "Comment[CollisionEnergy]": [
+      "the normalized collision energy value was set to 30."
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC04"
+    ]
+  },
+  "20150820_Haura-Pilot-TMT2-bRPLC06-1.raw": {
+    "Source Name": [
+      "20150820_Haura-Pilot-TMT2-bRPLC06-1"
+    ],
+    "Assay Name": [
+      "20150820_Haura-Pilot-TMT2-bRPLC06-1.raw"
+    ],
+    "Raw Data File": [
+      "20150820_Haura-Pilot-TMT2-bRPLC06-1.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 \u00b0C"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 \u00b0C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Characteristics[Label]": [
+      "TMT 6-plex"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec) and resuspended in lysis buffer containing 20 mM HEPES, pH 8.0, 9 M urea, 1 mM sodium orthovanadate, 2.5 mM sodium pyrophosphate, and 1 mM \u03b2-glycerophosphate."
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC was spiked in each LC-MS/MS analysis to monitor instrument performance (Figure S1)."
+    ],
+    "Comment[Instrument]": [
+      "QExactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "DDA"
+    ],
+    "Comment[CollisionEnergy]": [
+      "the normalized collision energy value was set to 30."
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC06"
+    ]
+  },
+  "20150820_Haura-Pilot-TMT1-bRPLC05-1.raw": {
+    "Source Name": [
+      "20150820_Haura-Pilot-TMT1-bRPLC05-1"
+    ],
+    "Assay Name": [
+      "20150820_Haura-Pilot-TMT1-bRPLC05-1.raw"
+    ],
+    "Raw Data File": [
+      "20150820_Haura-Pilot-TMT1-bRPLC05-1.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 \u00b0C"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 \u00b0C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Characteristics[Label]": [
+      "TMT 6-plex"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec) and resuspended in lysis buffer containing 20 mM HEPES, pH 8.0, 9 M urea, 1 mM sodium orthovanadate, 2.5 mM sodium pyrophosphate, and 1 mM \u03b2-glycerophosphate."
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC was spiked in each LC-MS/MS analysis to monitor instrument performance (Figure S1)."
+    ],
+    "Comment[Instrument]": [
+      "QExactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "DDA"
+    ],
+    "Comment[CollisionEnergy]": [
+      "the normalized collision energy value was set to 30."
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC05"
+    ]
+  },
+  "20150820_Haura-Pilot-TMT2-bRPLC08-1.raw": {
+    "Source Name": [
+      "20150820_Haura-Pilot-TMT2-bRPLC08-1"
+    ],
+    "Assay Name": [
+      "20150820_Haura-Pilot-TMT2-bRPLC08-1.raw"
+    ],
+    "Raw Data File": [
+      "20150820_Haura-Pilot-TMT2-bRPLC08-1.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 \u00b0C"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 \u00b0C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Characteristics[Label]": [
+      "TMT 6-plex"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec) and resuspended in lysis buffer containing 20 mM HEPES, pH 8.0, 9 M urea, 1 mM sodium orthovanadate, 2.5 mM sodium pyrophosphate, and 1 mM \u03b2-glycerophosphate."
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC was spiked in each LC-MS/MS analysis to monitor instrument performance (Figure S1)."
+    ],
+    "Comment[Instrument]": [
+      "QExactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "DDA"
+    ],
+    "Comment[CollisionEnergy]": [
+      "the normalized collision energy value was set to 30."
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC08"
+    ]
+  },
+  "20150820_Haura-Pilot-TMT2-bRPLC02-1.raw": {
+    "Source Name": [
+      "20150820_Haura-Pilot-TMT2-bRPLC02-1"
+    ],
+    "Assay Name": [
+      "20150820_Haura-Pilot-TMT2-bRPLC02-1.raw"
+    ],
+    "Raw Data File": [
+      "20150820_Haura-Pilot-TMT2-bRPLC02-1.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 \u00b0C"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 \u00b0C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Characteristics[Label]": [
+      "TMT 6-plex"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec) and resuspended in lysis buffer containing 20 mM HEPES, pH 8.0, 9 M urea, 1 mM sodium orthovanadate, 2.5 mM sodium pyrophosphate, and 1 mM \u03b2-glycerophosphate."
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC was spiked in each LC-MS/MS analysis to monitor instrument performance (Figure S1)."
+    ],
+    "Comment[Instrument]": [
+      "QExactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "DDA"
+    ],
+    "Comment[CollisionEnergy]": [
+      "the normalized collision energy value was set to 30."
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC02"
+    ]
+  },
+  "20150820_Haura-Pilot-TMT1-bRPLC07-2.raw": {
+    "Source Name": [
+      "20150820_Haura-Pilot-TMT1-bRPLC07-2"
+    ],
+    "Assay Name": [
+      "20150820_Haura-Pilot-TMT1-bRPLC07-2.raw"
+    ],
+    "Raw Data File": [
+      "20150820_Haura-Pilot-TMT1-bRPLC07-2.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 \u00b0C"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 \u00b0C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Characteristics[Label]": [
+      "TMT 6-plex"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec) and resuspended in lysis buffer containing 20 mM HEPES, pH 8.0, 9 M urea, 1 mM sodium orthovanadate, 2.5 mM sodium pyrophosphate, and 1 mM \u03b2-glycerophosphate."
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC was spiked in each LC-MS/MS analysis to monitor instrument performance (Figure S1)."
+    ],
+    "Comment[Instrument]": [
+      "QExactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "DDA"
+    ],
+    "Comment[CollisionEnergy]": [
+      "the normalized collision energy value was set to 30."
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC07"
+    ]
+  },
+  "20150820_Haura-Pilot-TMT1-bRPLC12-2.raw": {
+    "Source Name": [
+      "20150820_Haura-Pilot-TMT1-bRPLC12-2"
+    ],
+    "Assay Name": [
+      "20150820_Haura-Pilot-TMT1-bRPLC12-2.raw"
+    ],
+    "Raw Data File": [
+      "20150820_Haura-Pilot-TMT1-bRPLC12-2.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 \u00b0C"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 \u00b0C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Characteristics[Label]": [
+      "TMT 6-plex"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec) and resuspended in lysis buffer containing 20 mM HEPES, pH 8.0, 9 M urea, 1 mM sodium orthovanadate, 2.5 mM sodium pyrophosphate, and 1 mM \u03b2-glycerophosphate."
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC was spiked in each LC-MS/MS analysis to monitor instrument performance (Figure S1)."
+    ],
+    "Comment[Instrument]": [
+      "QExactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "DDA"
+    ],
+    "Comment[CollisionEnergy]": [
+      "the normalized collision energy value was set to 30."
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC12"
+    ]
+  },
+  "20150820_Haura-Pilot-TMT1-bRPLC12-1.raw": {
+    "Source Name": [
+      "20150820_Haura-Pilot-TMT1-bRPLC12-1"
+    ],
+    "Assay Name": [
+      "20150820_Haura-Pilot-TMT1-bRPLC12-1.raw"
+    ],
+    "Raw Data File": [
+      "20150820_Haura-Pilot-TMT1-bRPLC12-1.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 \u00b0C"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 \u00b0C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Characteristics[Label]": [
+      "TMT 6-plex"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec) and resuspended in lysis buffer containing 20 mM HEPES, pH 8.0, 9 M urea, 1 mM sodium orthovanadate, 2.5 mM sodium pyrophosphate, and 1 mM \u03b2-glycerophosphate."
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC was spiked in each LC-MS/MS analysis to monitor instrument performance (Figure S1)."
+    ],
+    "Comment[Instrument]": [
+      "QExactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "DDA"
+    ],
+    "Comment[CollisionEnergy]": [
+      "the normalized collision energy value was set to 30."
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC12"
+    ]
+  },
+  "20150820_Haura-Pilot-TMT2-bRPLC11-2.raw": {
+    "Source Name": [
+      "20150820_Haura-Pilot-TMT2-bRPLC11-2"
+    ],
+    "Assay Name": [
+      "20150820_Haura-Pilot-TMT2-bRPLC11-2.raw"
+    ],
+    "Raw Data File": [
+      "20150820_Haura-Pilot-TMT2-bRPLC11-2.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 \u00b0C"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 \u00b0C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Characteristics[Label]": [
+      "TMT 6-plex"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec) and resuspended in lysis buffer containing 20 mM HEPES, pH 8.0, 9 M urea, 1 mM sodium orthovanadate, 2.5 mM sodium pyrophosphate, and 1 mM \u03b2-glycerophosphate."
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC was spiked in each LC-MS/MS analysis to monitor instrument performance (Figure S1)."
+    ],
+    "Comment[Instrument]": [
+      "QExactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "DDA"
+    ],
+    "Comment[CollisionEnergy]": [
+      "the normalized collision energy value was set to 30."
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC11"
+    ]
+  },
+  "20150820_Haura-Pilot-TMT1-bRPLC01-1.raw": {
+    "Source Name": [
+      "20150820_Haura-Pilot-TMT1-bRPLC01-1"
+    ],
+    "Assay Name": [
+      "20150820_Haura-Pilot-TMT1-bRPLC01-1.raw"
+    ],
+    "Raw Data File": [
+      "20150820_Haura-Pilot-TMT1-bRPLC01-1.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 \u00b0C"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 \u00b0C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Characteristics[Label]": [
+      "TMT 6-plex"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec) and resuspended in lysis buffer containing 20 mM HEPES, pH 8.0, 9 M urea, 1 mM sodium orthovanadate, 2.5 mM sodium pyrophosphate, and 1 mM \u03b2-glycerophosphate."
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC was spiked in each LC-MS/MS analysis to monitor instrument performance (Figure S1)."
+    ],
+    "Comment[Instrument]": [
+      "QExactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "DDA"
+    ],
+    "Comment[CollisionEnergy]": [
+      "the normalized collision energy value was set to 30."
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC01"
+    ]
+  },
+  "20150820_Haura-Pilot-TMT2-bRPLC10-1.raw": {
+    "Source Name": [
+      "20150820_Haura-Pilot-TMT2-bRPLC10-1"
+    ],
+    "Assay Name": [
+      "20150820_Haura-Pilot-TMT2-bRPLC10-1.raw"
+    ],
+    "Raw Data File": [
+      "20150820_Haura-Pilot-TMT2-bRPLC10-1.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 \u00b0C"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 \u00b0C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Characteristics[Label]": [
+      "TMT 6-plex"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec) and resuspended in lysis buffer containing 20 mM HEPES, pH 8.0, 9 M urea, 1 mM sodium orthovanadate, 2.5 mM sodium pyrophosphate, and 1 mM \u03b2-glycerophosphate."
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC was spiked in each LC-MS/MS analysis to monitor instrument performance (Figure S1)."
+    ],
+    "Comment[Instrument]": [
+      "QExactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "DDA"
+    ],
+    "Comment[CollisionEnergy]": [
+      "the normalized collision energy value was set to 30."
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC10"
+    ]
+  },
+  "20150820_Haura-Pilot-TMT2-bRPLC05-2.raw": {
+    "Source Name": [
+      "20150820_Haura-Pilot-TMT2-bRPLC05-2"
+    ],
+    "Assay Name": [
+      "20150820_Haura-Pilot-TMT2-bRPLC05-2.raw"
+    ],
+    "Raw Data File": [
+      "20150820_Haura-Pilot-TMT2-bRPLC05-2.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 \u00b0C"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 \u00b0C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Characteristics[Label]": [
+      "TMT 6-plex"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec) and resuspended in lysis buffer containing 20 mM HEPES, pH 8.0, 9 M urea, 1 mM sodium orthovanadate, 2.5 mM sodium pyrophosphate, and 1 mM \u03b2-glycerophosphate."
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC was spiked in each LC-MS/MS analysis to monitor instrument performance (Figure S1)."
+    ],
+    "Comment[Instrument]": [
+      "QExactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "DDA"
+    ],
+    "Comment[CollisionEnergy]": [
+      "the normalized collision energy value was set to 30."
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC05"
+    ]
+  },
+  "20150820_Haura-Pilot-TMT2-bRPLC10-2.raw": {
+    "Source Name": [
+      "20150820_Haura-Pilot-TMT2-bRPLC10-2"
+    ],
+    "Assay Name": [
+      "20150820_Haura-Pilot-TMT2-bRPLC10-2.raw"
+    ],
+    "Raw Data File": [
+      "20150820_Haura-Pilot-TMT2-bRPLC10-2.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 \u00b0C"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 \u00b0C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Characteristics[Label]": [
+      "TMT 6-plex"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec) and resuspended in lysis buffer containing 20 mM HEPES, pH 8.0, 9 M urea, 1 mM sodium orthovanadate, 2.5 mM sodium pyrophosphate, and 1 mM \u03b2-glycerophosphate."
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC was spiked in each LC-MS/MS analysis to monitor instrument performance (Figure S1)."
+    ],
+    "Comment[Instrument]": [
+      "QExactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "DDA"
+    ],
+    "Comment[CollisionEnergy]": [
+      "the normalized collision energy value was set to 30."
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC10"
+    ]
+  },
+  "20150820_Haura-Pilot-TMT1-bRPLC02-2.raw": {
+    "Source Name": [
+      "20150820_Haura-Pilot-TMT1-bRPLC02-2"
+    ],
+    "Assay Name": [
+      "20150820_Haura-Pilot-TMT1-bRPLC02-2.raw"
+    ],
+    "Raw Data File": [
+      "20150820_Haura-Pilot-TMT1-bRPLC02-2.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 \u00b0C"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 \u00b0C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Characteristics[Label]": [
+      "TMT 6-plex"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec) and resuspended in lysis buffer containing 20 mM HEPES, pH 8.0, 9 M urea, 1 mM sodium orthovanadate, 2.5 mM sodium pyrophosphate, and 1 mM \u03b2-glycerophosphate."
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC was spiked in each LC-MS/MS analysis to monitor instrument performance (Figure S1)."
+    ],
+    "Comment[Instrument]": [
+      "QExactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "DDA"
+    ],
+    "Comment[CollisionEnergy]": [
+      "the normalized collision energy value was set to 30."
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC02"
+    ]
+  },
+  "20150820_Haura-Pilot-TMT1-bRPLC05-2.raw": {
+    "Source Name": [
+      "20150820_Haura-Pilot-TMT1-bRPLC05-2"
+    ],
+    "Assay Name": [
+      "20150820_Haura-Pilot-TMT1-bRPLC05-2.raw"
+    ],
+    "Raw Data File": [
+      "20150820_Haura-Pilot-TMT1-bRPLC05-2.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 \u00b0C"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 \u00b0C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Characteristics[Label]": [
+      "TMT 6-plex"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec) and resuspended in lysis buffer containing 20 mM HEPES, pH 8.0, 9 M urea, 1 mM sodium orthovanadate, 2.5 mM sodium pyrophosphate, and 1 mM \u03b2-glycerophosphate."
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC was spiked in each LC-MS/MS analysis to monitor instrument performance (Figure S1)."
+    ],
+    "Comment[Instrument]": [
+      "QExactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "DDA"
+    ],
+    "Comment[CollisionEnergy]": [
+      "the normalized collision energy value was set to 30."
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC05"
+    ]
+  },
+  "20150820_Haura-Pilot-TMT1-bRPLC02-1.raw": {
+    "Source Name": [
+      "20150820_Haura-Pilot-TMT1-bRPLC02-1"
+    ],
+    "Assay Name": [
+      "20150820_Haura-Pilot-TMT1-bRPLC02-1.raw"
+    ],
+    "Raw Data File": [
+      "20150820_Haura-Pilot-TMT1-bRPLC02-1.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 \u00b0C"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 \u00b0C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Characteristics[Label]": [
+      "TMT 6-plex"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec) and resuspended in lysis buffer containing 20 mM HEPES, pH 8.0, 9 M urea, 1 mM sodium orthovanadate, 2.5 mM sodium pyrophosphate, and 1 mM \u03b2-glycerophosphate."
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC was spiked in each LC-MS/MS analysis to monitor instrument performance (Figure S1)."
+    ],
+    "Comment[Instrument]": [
+      "QExactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "DDA"
+    ],
+    "Comment[CollisionEnergy]": [
+      "the normalized collision energy value was set to 30."
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC02"
+    ]
+  },
+  "20150820_Haura-Pilot-TMT2-bRPLC07-2.raw": {
+    "Source Name": [
+      "20150820_Haura-Pilot-TMT2-bRPLC07-2"
+    ],
+    "Assay Name": [
+      "20150820_Haura-Pilot-TMT2-bRPLC07-2.raw"
+    ],
+    "Raw Data File": [
+      "20150820_Haura-Pilot-TMT2-bRPLC07-2.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 \u00b0C"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 \u00b0C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Characteristics[Label]": [
+      "TMT 6-plex"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec) and resuspended in lysis buffer containing 20 mM HEPES, pH 8.0, 9 M urea, 1 mM sodium orthovanadate, 2.5 mM sodium pyrophosphate, and 1 mM \u03b2-glycerophosphate."
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC was spiked in each LC-MS/MS analysis to monitor instrument performance (Figure S1)."
+    ],
+    "Comment[Instrument]": [
+      "QExactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "DDA"
+    ],
+    "Comment[CollisionEnergy]": [
+      "the normalized collision energy value was set to 30."
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC07"
+    ]
+  },
+  "20150820_Haura-Pilot-TMT1-bRPLC08-1.raw": {
+    "Source Name": [
+      "20150820_Haura-Pilot-TMT1-bRPLC08-1"
+    ],
+    "Assay Name": [
+      "20150820_Haura-Pilot-TMT1-bRPLC08-1.raw"
+    ],
+    "Raw Data File": [
+      "20150820_Haura-Pilot-TMT1-bRPLC08-1.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 \u00b0C"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 \u00b0C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Characteristics[Label]": [
+      "TMT 6-plex"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec) and resuspended in lysis buffer containing 20 mM HEPES, pH 8.0, 9 M urea, 1 mM sodium orthovanadate, 2.5 mM sodium pyrophosphate, and 1 mM \u03b2-glycerophosphate."
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC was spiked in each LC-MS/MS analysis to monitor instrument performance (Figure S1)."
+    ],
+    "Comment[Instrument]": [
+      "QExactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "DDA"
+    ],
+    "Comment[CollisionEnergy]": [
+      "the normalized collision energy value was set to 30."
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC08"
+    ]
+  },
+  "20150820_Haura-Pilot-TMT1-bRPLC06-2.raw": {
+    "Source Name": [
+      "20150820_Haura-Pilot-TMT1-bRPLC06-2"
+    ],
+    "Assay Name": [
+      "20150820_Haura-Pilot-TMT1-bRPLC06-2.raw"
+    ],
+    "Raw Data File": [
+      "20150820_Haura-Pilot-TMT1-bRPLC06-2.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 \u00b0C"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 \u00b0C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Characteristics[Label]": [
+      "TMT 6-plex"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec) and resuspended in lysis buffer containing 20 mM HEPES, pH 8.0, 9 M urea, 1 mM sodium orthovanadate, 2.5 mM sodium pyrophosphate, and 1 mM \u03b2-glycerophosphate."
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC was spiked in each LC-MS/MS analysis to monitor instrument performance (Figure S1)."
+    ],
+    "Comment[Instrument]": [
+      "QExactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "DDA"
+    ],
+    "Comment[CollisionEnergy]": [
+      "the normalized collision energy value was set to 30."
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC06"
+    ]
+  },
+  "20150820_Haura-Pilot-TMT2-bRPLC03-2.raw": {
+    "Source Name": [
+      "20150820_Haura-Pilot-TMT2-bRPLC03-2"
+    ],
+    "Assay Name": [
+      "20150820_Haura-Pilot-TMT2-bRPLC03-2.raw"
+    ],
+    "Raw Data File": [
+      "20150820_Haura-Pilot-TMT2-bRPLC03-2.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 \u00b0C"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 \u00b0C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Characteristics[Label]": [
+      "TMT 6-plex"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec) and resuspended in lysis buffer containing 20 mM HEPES, pH 8.0, 9 M urea, 1 mM sodium orthovanadate, 2.5 mM sodium pyrophosphate, and 1 mM \u03b2-glycerophosphate."
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC was spiked in each LC-MS/MS analysis to monitor instrument performance (Figure S1)."
+    ],
+    "Comment[Instrument]": [
+      "QExactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "DDA"
+    ],
+    "Comment[CollisionEnergy]": [
+      "the normalized collision energy value was set to 30."
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC03"
+    ]
+  },
+  "20150820_Haura-Pilot-TMT1-bRPLC10-2.raw": {
+    "Source Name": [
+      "20150820_Haura-Pilot-TMT1-bRPLC10-2"
+    ],
+    "Assay Name": [
+      "20150820_Haura-Pilot-TMT1-bRPLC10-2.raw"
+    ],
+    "Raw Data File": [
+      "20150820_Haura-Pilot-TMT1-bRPLC10-2.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 \u00b0C"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 \u00b0C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Characteristics[Label]": [
+      "TMT 6-plex"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec) and resuspended in lysis buffer containing 20 mM HEPES, pH 8.0, 9 M urea, 1 mM sodium orthovanadate, 2.5 mM sodium pyrophosphate, and 1 mM \u03b2-glycerophosphate."
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC was spiked in each LC-MS/MS analysis to monitor instrument performance (Figure S1)."
+    ],
+    "Comment[Instrument]": [
+      "QExactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "DDA"
+    ],
+    "Comment[CollisionEnergy]": [
+      "the normalized collision energy value was set to 30."
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC10"
+    ]
+  },
+  "20150820_Haura-Pilot-TMT2-bRPLC09-1.raw": {
+    "Source Name": [
+      "20150820_Haura-Pilot-TMT2-bRPLC09-1"
+    ],
+    "Assay Name": [
+      "20150820_Haura-Pilot-TMT2-bRPLC09-1.raw"
+    ],
+    "Raw Data File": [
+      "20150820_Haura-Pilot-TMT2-bRPLC09-1.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 \u00b0C"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 \u00b0C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Characteristics[Label]": [
+      "TMT 6-plex"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec) and resuspended in lysis buffer containing 20 mM HEPES, pH 8.0, 9 M urea, 1 mM sodium orthovanadate, 2.5 mM sodium pyrophosphate, and 1 mM \u03b2-glycerophosphate."
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC was spiked in each LC-MS/MS analysis to monitor instrument performance (Figure S1)."
+    ],
+    "Comment[Instrument]": [
+      "QExactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "DDA"
+    ],
+    "Comment[CollisionEnergy]": [
+      "the normalized collision energy value was set to 30."
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC09"
+    ]
+  },
+  "20150820_Haura-Pilot-TMT1-bRPLC09-2.raw": {
+    "Source Name": [
+      "20150820_Haura-Pilot-TMT1-bRPLC09-2"
+    ],
+    "Assay Name": [
+      "20150820_Haura-Pilot-TMT1-bRPLC09-2.raw"
+    ],
+    "Raw Data File": [
+      "20150820_Haura-Pilot-TMT1-bRPLC09-2.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 \u00b0C"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 \u00b0C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Characteristics[Label]": [
+      "TMT 6-plex"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec) and resuspended in lysis buffer containing 20 mM HEPES, pH 8.0, 9 M urea, 1 mM sodium orthovanadate, 2.5 mM sodium pyrophosphate, and 1 mM \u03b2-glycerophosphate."
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC was spiked in each LC-MS/MS analysis to monitor instrument performance (Figure S1)."
+    ],
+    "Comment[Instrument]": [
+      "QExactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "DDA"
+    ],
+    "Comment[CollisionEnergy]": [
+      "the normalized collision energy value was set to 30."
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC09"
+    ]
+  },
+  "20150820_Haura-Pilot-TMT2-bRPLC03-1.raw": {
+    "Source Name": [
+      "20150820_Haura-Pilot-TMT2-bRPLC03-1"
+    ],
+    "Assay Name": [
+      "20150820_Haura-Pilot-TMT2-bRPLC03-1.raw"
+    ],
+    "Raw Data File": [
+      "20150820_Haura-Pilot-TMT2-bRPLC03-1.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 \u00b0C"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 \u00b0C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Characteristics[Label]": [
+      "TMT 6-plex"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec) and resuspended in lysis buffer containing 20 mM HEPES, pH 8.0, 9 M urea, 1 mM sodium orthovanadate, 2.5 mM sodium pyrophosphate, and 1 mM \u03b2-glycerophosphate."
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC was spiked in each LC-MS/MS analysis to monitor instrument performance (Figure S1)."
+    ],
+    "Comment[Instrument]": [
+      "QExactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "DDA"
+    ],
+    "Comment[CollisionEnergy]": [
+      "the normalized collision energy value was set to 30."
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC03"
+    ]
+  },
+  "20150820_Haura-Pilot-TMT2-bRPLC07-1.raw": {
+    "Source Name": [
+      "20150820_Haura-Pilot-TMT2-bRPLC07-1"
+    ],
+    "Assay Name": [
+      "20150820_Haura-Pilot-TMT2-bRPLC07-1.raw"
+    ],
+    "Raw Data File": [
+      "20150820_Haura-Pilot-TMT2-bRPLC07-1.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 \u00b0C"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 \u00b0C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Characteristics[Label]": [
+      "TMT 6-plex"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec) and resuspended in lysis buffer containing 20 mM HEPES, pH 8.0, 9 M urea, 1 mM sodium orthovanadate, 2.5 mM sodium pyrophosphate, and 1 mM \u03b2-glycerophosphate."
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC was spiked in each LC-MS/MS analysis to monitor instrument performance (Figure S1)."
+    ],
+    "Comment[Instrument]": [
+      "QExactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "DDA"
+    ],
+    "Comment[CollisionEnergy]": [
+      "the normalized collision energy value was set to 30."
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC07"
+    ]
+  },
+  "20150820_Haura-Pilot-TMT2-bRPLC01-1.raw": {
+    "Source Name": [
+      "20150820_Haura-Pilot-TMT2-bRPLC01-1"
+    ],
+    "Assay Name": [
+      "20150820_Haura-Pilot-TMT2-bRPLC01-1.raw"
+    ],
+    "Raw Data File": [
+      "20150820_Haura-Pilot-TMT2-bRPLC01-1.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 \u00b0C"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 \u00b0C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Characteristics[Label]": [
+      "TMT 6-plex"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec) and resuspended in lysis buffer containing 20 mM HEPES, pH 8.0, 9 M urea, 1 mM sodium orthovanadate, 2.5 mM sodium pyrophosphate, and 1 mM \u03b2-glycerophosphate."
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC was spiked in each LC-MS/MS analysis to monitor instrument performance (Figure S1)."
+    ],
+    "Comment[Instrument]": [
+      "QExactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "DDA"
+    ],
+    "Comment[CollisionEnergy]": [
+      "the normalized collision energy value was set to 30."
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC01"
+    ]
+  },
+  "20150820_Haura-Pilot-TMT1-bRPLC03-1.raw": {
+    "Source Name": [
+      "20150820_Haura-Pilot-TMT1-bRPLC03-1"
+    ],
+    "Assay Name": [
+      "20150820_Haura-Pilot-TMT1-bRPLC03-1.raw"
+    ],
+    "Raw Data File": [
+      "20150820_Haura-Pilot-TMT1-bRPLC03-1.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 \u00b0C"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 \u00b0C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Characteristics[Label]": [
+      "TMT 6-plex"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec) and resuspended in lysis buffer containing 20 mM HEPES, pH 8.0, 9 M urea, 1 mM sodium orthovanadate, 2.5 mM sodium pyrophosphate, and 1 mM \u03b2-glycerophosphate."
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC was spiked in each LC-MS/MS analysis to monitor instrument performance (Figure S1)."
+    ],
+    "Comment[Instrument]": [
+      "QExactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "DDA"
+    ],
+    "Comment[CollisionEnergy]": [
+      "the normalized collision energy value was set to 30."
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC03"
+    ]
+  },
+  "20150820_Haura-Pilot-TMT2-bRPLC01-2.raw": {
+    "Source Name": [
+      "20150820_Haura-Pilot-TMT2-bRPLC01-2"
+    ],
+    "Assay Name": [
+      "20150820_Haura-Pilot-TMT2-bRPLC01-2.raw"
+    ],
+    "Raw Data File": [
+      "20150820_Haura-Pilot-TMT2-bRPLC01-2.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 \u00b0C"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 \u00b0C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Characteristics[Label]": [
+      "TMT 6-plex"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec) and resuspended in lysis buffer containing 20 mM HEPES, pH 8.0, 9 M urea, 1 mM sodium orthovanadate, 2.5 mM sodium pyrophosphate, and 1 mM \u03b2-glycerophosphate."
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC was spiked in each LC-MS/MS analysis to monitor instrument performance (Figure S1)."
+    ],
+    "Comment[Instrument]": [
+      "QExactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "DDA"
+    ],
+    "Comment[CollisionEnergy]": [
+      "the normalized collision energy value was set to 30."
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC01"
+    ]
+  },
+  "20150820_Haura-Pilot-TMT1-bRPLC08-2.raw": {
+    "Source Name": [
+      "20150820_Haura-Pilot-TMT1-bRPLC08-2"
+    ],
+    "Assay Name": [
+      "20150820_Haura-Pilot-TMT1-bRPLC08-2.raw"
+    ],
+    "Raw Data File": [
+      "20150820_Haura-Pilot-TMT1-bRPLC08-2.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 \u00b0C"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 \u00b0C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Characteristics[Label]": [
+      "TMT 6-plex"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec) and resuspended in lysis buffer containing 20 mM HEPES, pH 8.0, 9 M urea, 1 mM sodium orthovanadate, 2.5 mM sodium pyrophosphate, and 1 mM \u03b2-glycerophosphate."
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC was spiked in each LC-MS/MS analysis to monitor instrument performance (Figure S1)."
+    ],
+    "Comment[Instrument]": [
+      "QExactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "DDA"
+    ],
+    "Comment[CollisionEnergy]": [
+      "the normalized collision energy value was set to 30."
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC08"
+    ]
+  },
+  "20150820_Haura-Pilot-TMT2-bRPLC12-2.raw": {
+    "Source Name": [
+      "20150820_Haura-Pilot-TMT2-bRPLC12-2"
+    ],
+    "Assay Name": [
+      "20150820_Haura-Pilot-TMT2-bRPLC12-2.raw"
+    ],
+    "Raw Data File": [
+      "20150820_Haura-Pilot-TMT2-bRPLC12-2.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 \u00b0C"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 \u00b0C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Characteristics[Label]": [
+      "TMT 6-plex"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec) and resuspended in lysis buffer containing 20 mM HEPES, pH 8.0, 9 M urea, 1 mM sodium orthovanadate, 2.5 mM sodium pyrophosphate, and 1 mM \u03b2-glycerophosphate."
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC was spiked in each LC-MS/MS analysis to monitor instrument performance (Figure S1)."
+    ],
+    "Comment[Instrument]": [
+      "QExactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "DDA"
+    ],
+    "Comment[CollisionEnergy]": [
+      "the normalized collision energy value was set to 30."
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC12"
+    ]
+  },
+  "20150820_Haura-Pilot-TMT2-bRPLC12-1.raw": {
+    "Source Name": [
+      "20150820_Haura-Pilot-TMT2-bRPLC12-1"
+    ],
+    "Assay Name": [
+      "20150820_Haura-Pilot-TMT2-bRPLC12-1.raw"
+    ],
+    "Raw Data File": [
+      "20150820_Haura-Pilot-TMT2-bRPLC12-1.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 \u00b0C"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 \u00b0C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Characteristics[Label]": [
+      "TMT 6-plex"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec) and resuspended in lysis buffer containing 20 mM HEPES, pH 8.0, 9 M urea, 1 mM sodium orthovanadate, 2.5 mM sodium pyrophosphate, and 1 mM \u03b2-glycerophosphate."
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC was spiked in each LC-MS/MS analysis to monitor instrument performance (Figure S1)."
+    ],
+    "Comment[Instrument]": [
+      "QExactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "DDA"
+    ],
+    "Comment[CollisionEnergy]": [
+      "the normalized collision energy value was set to 30."
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC12"
+    ]
+  },
+  "20150820_Haura-Pilot-TMT2-bRPLC05-1.raw": {
+    "Source Name": [
+      "20150820_Haura-Pilot-TMT2-bRPLC05-1"
+    ],
+    "Assay Name": [
+      "20150820_Haura-Pilot-TMT2-bRPLC05-1.raw"
+    ],
+    "Raw Data File": [
+      "20150820_Haura-Pilot-TMT2-bRPLC05-1.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 \u00b0C"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 \u00b0C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Characteristics[Label]": [
+      "TMT 6-plex"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec) and resuspended in lysis buffer containing 20 mM HEPES, pH 8.0, 9 M urea, 1 mM sodium orthovanadate, 2.5 mM sodium pyrophosphate, and 1 mM \u03b2-glycerophosphate."
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC was spiked in each LC-MS/MS analysis to monitor instrument performance (Figure S1)."
+    ],
+    "Comment[Instrument]": [
+      "QExactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "DDA"
+    ],
+    "Comment[CollisionEnergy]": [
+      "the normalized collision energy value was set to 30."
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC05"
+    ]
+  },
+  "20150820_Haura-Pilot-TMT2-bRPLC09-2.raw": {
+    "Source Name": [
+      "20150820_Haura-Pilot-TMT2-bRPLC09-2"
+    ],
+    "Assay Name": [
+      "20150820_Haura-Pilot-TMT2-bRPLC09-2.raw"
+    ],
+    "Raw Data File": [
+      "20150820_Haura-Pilot-TMT2-bRPLC09-2.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 \u00b0C"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 \u00b0C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Characteristics[Label]": [
+      "TMT 6-plex"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec) and resuspended in lysis buffer containing 20 mM HEPES, pH 8.0, 9 M urea, 1 mM sodium orthovanadate, 2.5 mM sodium pyrophosphate, and 1 mM \u03b2-glycerophosphate."
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC was spiked in each LC-MS/MS analysis to monitor instrument performance (Figure S1)."
+    ],
+    "Comment[Instrument]": [
+      "QExactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "DDA"
+    ],
+    "Comment[CollisionEnergy]": [
+      "the normalized collision energy value was set to 30."
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC09"
+    ]
+  },
+  "20150820_Haura-Pilot-TMT1-bRPLC01-2.raw": {
+    "Source Name": [
+      "20150820_Haura-Pilot-TMT1-bRPLC01-2"
+    ],
+    "Assay Name": [
+      "20150820_Haura-Pilot-TMT1-bRPLC01-2.raw"
+    ],
+    "Raw Data File": [
+      "20150820_Haura-Pilot-TMT1-bRPLC01-2.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 \u00b0C"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 \u00b0C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Characteristics[Label]": [
+      "TMT 6-plex"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec) and resuspended in lysis buffer containing 20 mM HEPES, pH 8.0, 9 M urea, 1 mM sodium orthovanadate, 2.5 mM sodium pyrophosphate, and 1 mM \u03b2-glycerophosphate."
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC was spiked in each LC-MS/MS analysis to monitor instrument performance (Figure S1)."
+    ],
+    "Comment[Instrument]": [
+      "QExactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "DDA"
+    ],
+    "Comment[CollisionEnergy]": [
+      "the normalized collision energy value was set to 30."
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC01"
+    ]
+  },
+  "20150820_Haura-Pilot-TMT2-bRPLC02-2.raw": {
+    "Source Name": [
+      "20150820_Haura-Pilot-TMT2-bRPLC02-2"
+    ],
+    "Assay Name": [
+      "20150820_Haura-Pilot-TMT2-bRPLC02-2.raw"
+    ],
+    "Raw Data File": [
+      "20150820_Haura-Pilot-TMT2-bRPLC02-2.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 \u00b0C"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 \u00b0C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Characteristics[Label]": [
+      "TMT 6-plex"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec) and resuspended in lysis buffer containing 20 mM HEPES, pH 8.0, 9 M urea, 1 mM sodium orthovanadate, 2.5 mM sodium pyrophosphate, and 1 mM \u03b2-glycerophosphate."
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC was spiked in each LC-MS/MS analysis to monitor instrument performance (Figure S1)."
+    ],
+    "Comment[Instrument]": [
+      "QExactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "DDA"
+    ],
+    "Comment[CollisionEnergy]": [
+      "the normalized collision energy value was set to 30."
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC02"
+    ]
+  },
+  "20150820_Haura-Pilot-TMT2-bRPLC11-1.raw": {
+    "Source Name": [
+      "20150820_Haura-Pilot-TMT2-bRPLC11-1"
+    ],
+    "Assay Name": [
+      "20150820_Haura-Pilot-TMT2-bRPLC11-1.raw"
+    ],
+    "Raw Data File": [
+      "20150820_Haura-Pilot-TMT2-bRPLC11-1.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 \u00b0C"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 \u00b0C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Characteristics[Label]": [
+      "TMT 6-plex"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec) and resuspended in lysis buffer containing 20 mM HEPES, pH 8.0, 9 M urea, 1 mM sodium orthovanadate, 2.5 mM sodium pyrophosphate, and 1 mM \u03b2-glycerophosphate."
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC was spiked in each LC-MS/MS analysis to monitor instrument performance (Figure S1)."
+    ],
+    "Comment[Instrument]": [
+      "QExactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "DDA"
+    ],
+    "Comment[CollisionEnergy]": [
+      "the normalized collision energy value was set to 30."
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC11"
+    ]
+  },
+  "20150820_Haura-Pilot-TMT1-bRPLC07-1.raw": {
+    "Source Name": [
+      "20150820_Haura-Pilot-TMT1-bRPLC07-1"
+    ],
+    "Assay Name": [
+      "20150820_Haura-Pilot-TMT1-bRPLC07-1.raw"
+    ],
+    "Raw Data File": [
+      "20150820_Haura-Pilot-TMT1-bRPLC07-1.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 \u00b0C"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 \u00b0C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Characteristics[Label]": [
+      "TMT 6-plex"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec) and resuspended in lysis buffer containing 20 mM HEPES, pH 8.0, 9 M urea, 1 mM sodium orthovanadate, 2.5 mM sodium pyrophosphate, and 1 mM \u03b2-glycerophosphate."
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC was spiked in each LC-MS/MS analysis to monitor instrument performance (Figure S1)."
+    ],
+    "Comment[Instrument]": [
+      "QExactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "DDA"
+    ],
+    "Comment[CollisionEnergy]": [
+      "the normalized collision energy value was set to 30."
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC07"
+    ]
+  },
+  "20150820_Haura-Pilot-TMT1-bRPLC06-1.raw": {
+    "Source Name": [
+      "20150820_Haura-Pilot-TMT1-bRPLC06-1"
+    ],
+    "Assay Name": [
+      "20150820_Haura-Pilot-TMT1-bRPLC06-1.raw"
+    ],
+    "Raw Data File": [
+      "20150820_Haura-Pilot-TMT1-bRPLC06-1.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 \u00b0C"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 \u00b0C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Characteristics[Label]": [
+      "TMT 6-plex"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec) and resuspended in lysis buffer containing 20 mM HEPES, pH 8.0, 9 M urea, 1 mM sodium orthovanadate, 2.5 mM sodium pyrophosphate, and 1 mM \u03b2-glycerophosphate."
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC was spiked in each LC-MS/MS analysis to monitor instrument performance (Figure S1)."
+    ],
+    "Comment[Instrument]": [
+      "QExactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "DDA"
+    ],
+    "Comment[CollisionEnergy]": [
+      "the normalized collision energy value was set to 30."
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC06"
+    ]
+  },
+  "20150820_Haura-Pilot-TMT2-bRPLC08-2.raw": {
+    "Source Name": [
+      "20150820_Haura-Pilot-TMT2-bRPLC08-2"
+    ],
+    "Assay Name": [
+      "20150820_Haura-Pilot-TMT2-bRPLC08-2.raw"
+    ],
+    "Raw Data File": [
+      "20150820_Haura-Pilot-TMT2-bRPLC08-2.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 \u00b0C"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 \u00b0C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Characteristics[Label]": [
+      "TMT 6-plex"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec) and resuspended in lysis buffer containing 20 mM HEPES, pH 8.0, 9 M urea, 1 mM sodium orthovanadate, 2.5 mM sodium pyrophosphate, and 1 mM \u03b2-glycerophosphate."
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC was spiked in each LC-MS/MS analysis to monitor instrument performance (Figure S1)."
+    ],
+    "Comment[Instrument]": [
+      "QExactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "DDA"
+    ],
+    "Comment[CollisionEnergy]": [
+      "the normalized collision energy value was set to 30."
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC08"
+    ]
+  },
+  "20150820_Haura-Pilot-TMT1-bRPLC04-1.raw": {
+    "Source Name": [
+      "20150820_Haura-Pilot-TMT1-bRPLC04-1"
+    ],
+    "Assay Name": [
+      "20150820_Haura-Pilot-TMT1-bRPLC04-1.raw"
+    ],
+    "Raw Data File": [
+      "20150820_Haura-Pilot-TMT1-bRPLC04-1.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 \u00b0C"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 \u00b0C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Characteristics[Label]": [
+      "TMT 6-plex"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec) and resuspended in lysis buffer containing 20 mM HEPES, pH 8.0, 9 M urea, 1 mM sodium orthovanadate, 2.5 mM sodium pyrophosphate, and 1 mM \u03b2-glycerophosphate."
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC was spiked in each LC-MS/MS analysis to monitor instrument performance (Figure S1)."
+    ],
+    "Comment[Instrument]": [
+      "QExactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "DDA"
+    ],
+    "Comment[CollisionEnergy]": [
+      "the normalized collision energy value was set to 30."
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC04"
+    ]
+  },
+  "20150820_Haura-Pilot-TMT1-bRPLC04-2.raw": {
+    "Source Name": [
+      "20150820_Haura-Pilot-TMT1-bRPLC04-2"
+    ],
+    "Assay Name": [
+      "20150820_Haura-Pilot-TMT1-bRPLC04-2.raw"
+    ],
+    "Raw Data File": [
+      "20150820_Haura-Pilot-TMT1-bRPLC04-2.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 \u00b0C"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 \u00b0C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Characteristics[Label]": [
+      "TMT 6-plex"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec) and resuspended in lysis buffer containing 20 mM HEPES, pH 8.0, 9 M urea, 1 mM sodium orthovanadate, 2.5 mM sodium pyrophosphate, and 1 mM \u03b2-glycerophosphate."
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC was spiked in each LC-MS/MS analysis to monitor instrument performance (Figure S1)."
+    ],
+    "Comment[Instrument]": [
+      "QExactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "DDA"
+    ],
+    "Comment[CollisionEnergy]": [
+      "the normalized collision energy value was set to 30."
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC04"
+    ]
+  },
+  "20150820_Haura-Pilot-TMT1-bRPLC11-2.raw": {
+    "Source Name": [
+      "20150820_Haura-Pilot-TMT1-bRPLC11-2"
+    ],
+    "Assay Name": [
+      "20150820_Haura-Pilot-TMT1-bRPLC11-2.raw"
+    ],
+    "Raw Data File": [
+      "20150820_Haura-Pilot-TMT1-bRPLC11-2.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 \u00b0C"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 \u00b0C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Characteristics[Label]": [
+      "TMT 6-plex"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec) and resuspended in lysis buffer containing 20 mM HEPES, pH 8.0, 9 M urea, 1 mM sodium orthovanadate, 2.5 mM sodium pyrophosphate, and 1 mM \u03b2-glycerophosphate."
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC was spiked in each LC-MS/MS analysis to monitor instrument performance (Figure S1)."
+    ],
+    "Comment[Instrument]": [
+      "QExactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "DDA"
+    ],
+    "Comment[CollisionEnergy]": [
+      "the normalized collision energy value was set to 30."
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC11"
+    ]
+  },
+  "20150820_Haura-Pilot-TMT1-bRPLC10-1.raw": {
+    "Source Name": [
+      "20150820_Haura-Pilot-TMT1-bRPLC10-1"
+    ],
+    "Assay Name": [
+      "20150820_Haura-Pilot-TMT1-bRPLC10-1.raw"
+    ],
+    "Raw Data File": [
+      "20150820_Haura-Pilot-TMT1-bRPLC10-1.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin digestion was carried out overnight at 37 \u00b0C"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "reduced with 4.5 mM DTT at 60 \u00b0C for 20 minutes"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "alkylation with 11 mM iodoacetamide at room temperature for 15 minutes in the dark"
+    ],
+    "Characteristics[Label]": [
+      "TMT 6-plex"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue samples were homogenized with a BioPulverizer (Biospec) and resuspended in lysis buffer containing 20 mM HEPES, pH 8.0, 9 M urea, 1 mM sodium orthovanadate, 2.5 mM sodium pyrophosphate, and 1 mM \u03b2-glycerophosphate."
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "4 frozen lung squamous cell carcinomas and 4 adjacent tissues"
+    ],
+    "Characteristics[Organism]": [
+      "human entries in UniProt (downloaded 05/25/2015)"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "Twenty-five femtomoles of PRTC was spiked in each LC-MS/MS analysis to monitor instrument performance (Figure S1)."
+    ],
+    "Comment[Instrument]": [
+      "QExactive Plus, Thermo, San Jose, CA"
+    ],
+    "Comment[FractionationMethod]": [
+      "basic pH reversed phase HPLC"
+    ],
+    "Comment[NumberOfFractions]": [
+      "Twelve concatenated fractions were analyzed with LC-MS/MS for the LF and TMT experiments."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "DDA"
+    ],
+    "Comment[CollisionEnergy]": [
+      "the normalized collision energy value was set to 30."
+    ],
+    "Comment[Separation]": [
+      "bRPLC separation"
+    ],
+    "Comment[GradientTime]": [
+      "90-minute gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "The flow rate on analytical column was 300 nl/min."
+    ],
+    "Comment[FractionIdentifier]": [
+      "bRPLC10"
+    ]
+  }
+}

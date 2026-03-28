@@ -1,0 +1,48 @@
+AssayName: single sample liquid chromatography-tandem mass spectrometry (LC-MS/MS) with data dependent acquisition (DDA)  
+AssayName: single sample LC-MS/MS with data independent acquisition (DIA)  
+AssayName: peptide fractionation with label-free quantification (LF)  
+AssayName: isobaric labeling followed by peptide fractionation (TMT 6-plex)  
+AnatomicSiteTumor: lung squamous cell carcinomas  
+SupplementaryFile: PXD004682  
+SupplementaryFile: PXD004683  
+SupplementaryFile: PXD004684  
+SupplementaryFile: PXD005733  
+Instrument: BioPulverizer (Biospec)  
+Compound: 20 mM HEPES  
+Compound: 9 M urea  
+Compound: 1 mM sodium orthovanadate  
+Compound: 2.5 mM sodium pyrophosphate  
+Compound: 1 mM β-glycerophosphate  
+ReductionReagent: 4.5 mM DTT  
+Temperature: 60 °C  
+Time: 20 minutes  
+AlkylationReagent: 11 mM iodoacetamide  
+Temperature: room temperature  
+Time: 15 minutes  
+ConcentrationOfCompound: 2 M urea  
+CleavageAgent: trypsin digestion  
+Temperature: 37 °C  
+Time: overnight  
+FactorValue: enzyme/substrate ratio of 1/50  
+Compound: 20% TFA  
+ConcentrationOfCompound: final TFA concentration of 1%  
+FractionationMethod: basic pH reversed phase HPLC  
+ConcentrationOfCompound: 600 µg  
+Label: TMT  
+ConcentrationOfCompound: 100 µg  
+ConcentrationOfCompound: 500 ng  
+Instrument: Dionex Ultimate3000 UPLC  
+FlowRateChromatogram: 0.2 ml/min  
+Instrument: QExactive Plus  
+IonizationType: electrospray  
+FlowRateChromatogram: 300 nl/min  
+CollisionEnergy: normalized collision energy set to 28  
+SpikedCompound: PRTC, Pierce #88320  
+ConcentrationOfCompound: 10 fmol of each peptide per injection  
+Time: 2 days each  
+Time: 24 days  
+CollisionEnergy: normalized collision energy value was set to 30  
+SpikedCompound: PRTC  
+ConcentrationOfCompound: 25 femtomoles  
+Time: 6 days  
+SpikedCompound: PRTC peptide mix

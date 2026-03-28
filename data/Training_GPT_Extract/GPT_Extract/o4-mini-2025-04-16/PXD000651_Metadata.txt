@@ -1,0 +1,64 @@
+Organism: human  
+OrganismPart: Cerebrospinal Fluid (CSF)  
+AssayName: Orbitrap LC-MS/MS analysis  
+FractionationMethod: SDS-PAGE  
+FractionationMethod: mixed mode reversed phase-anion exchange  
+EnrichmentMethod: hydrazide-based glycopeptide capture  
+OrganismPart: plasma  
+SampleTreatment: centrifuged and cells removed  
+Temperature: room temperature  
+Instrument: Qubit™ fluorometer kit (Invitrogen, Carlsbrad, CA)  
+Instrument: LTQ Orbitrap Velos Pro mass spectrometer (Thermo Fischer Scientific, Bremen, Germany)  
+Depletion: human Multiple Affinity Removal System (MARS HU-14) 4.6 mm x 50 mm LC column  
+Compound: N-octyl-Beta-d-glucopyranoside (NOG)  
+ConcentrationOfCompound: 0.1% N-octyl-Beta-d-glucopyranoside (NOG)  
+Compound: LDS sample buffer (Invitrogen)  
+Compound: DTT (GE Healthcare, Amersham Biosciences, Buckinghamshire, UK)  
+ConcentrationOfCompound: 10 mm DTT (GE Healthcare, Amersham Biosciences, Buckinghamshire, UK)  
+Temperature: 95¦°C  
+Time: 5 min  
+Compound: iodoacetamine (IAA)  
+ConcentrationOfCompound: 20 mm iodoacetamine (IAA)  
+SampleTreatment: incubation in the dark  
+Time: 20 min  
+FractionationMethod: 5–15% SDS-polyacrylamide gradient gel  
+Staining: Coomassie Brilliant Blue  
+CleavageAgent: trypsin  
+FractionationMethod: mixed mode reversed phase-anion exchange (MM RP-AX) HPLC  
+FlowRateChromatogram: 50 μl/min  
+GradientTime: 70 min  
+NumberOfFractions: 80  
+NumberOfFractions: 10  
+EnrichmentMethod: solid-phase extraction of N-linked glycopeptides (SPEG)  
+Compound: Urea  
+ConcentrationOfCompound: 8 m Urea  
+Compound: Ammonium Bicarbonate (ambic)  
+ConcentrationOfCompound: 0.4 M Ammonium Bicarbonate (ambic)  
+Compound: SDS  
+ConcentrationOfCompound: 0.1% SDS  
+Compound: Tris(2-carboxyethyl)phosphine (TCEP)  
+ConcentrationOfCompound: 10 mm Tris(2-carboxyethyl)phosphine (TCEP)  
+Compound: IAA  
+ConcentrationOfCompound: 12 mm IAA  
+CleavageAgent: Trypsin porcine (Promega, Madison, WI)  
+FactorValue: 1:50 ratio trypsin:protein  
+Temperature: 37¦°C  
+Time: overnight  
+Compound: formic acid (FA)  
+ConcentrationOfCompound: 100% formic acid (FA)  
+Compound: TFA  
+ConcentrationOfCompound: 0.1% TFA  
+NumberOfFractions: 20  
+IonizationType: nano spray  
+FlowRateChromatogram: 5 μl/min  
+Compound: FA  
+ConcentrationOfCompound: 0.1% FA  
+Compound: ACN  
+ConcentrationOfCompound: 2% ACN  
+Compound: ACN  
+ConcentrationOfCompound: 90% ACN  
+FragmentationMethod: collision-induced dissociation (CID)  
+CollisionEnergy: 35%  
+PrecursorMassTolerance: 10 ppm  
+FragmentMassTolerance: 0.7 Da  
+NumberOfMissedCleavages: 2

@@ -1,0 +1,1787 @@
+{
+  "20140214_KMJ_CCS_ERKi30min_V3_S01.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984_20140214_KMJ_CCS_ERKi30min_V3_S01.raw"
+    ],
+    "Raw Data File": [
+      "20140214_KMJ_CCS_ERKi30min_V3_S01.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "SCH772984",
+      "ERKi30min"
+    ]
+  },
+  "20140213_KMJ_CCS_MEKi_V3_30min_P03.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_trametinib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_trametinib_20140213_KMJ_CCS_MEKi_V3_30min_P03.raw"
+    ],
+    "Raw Data File": [
+      "20140213_KMJ_CCS_MEKi_V3_30min_P03.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "trametinib",
+      "MEKi"
+    ]
+  },
+  "20140515_CCS_JL_ERKi_30min_V5_S07_8.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984_20140515_CCS_JL_ERKi_30min_V5_S07_8.raw"
+    ],
+    "Raw Data File": [
+      "20140515_CCS_JL_ERKi_30min_V5_S07_8.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "SCH772984",
+      "ERKi"
+    ]
+  },
+  "20140210_KMJ_CCS_MEKi30min_V3_S013_14.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_trametinib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_trametinib_20140210_KMJ_CCS_MEKi30min_V3_S013_14.raw"
+    ],
+    "Raw Data File": [
+      "20140210_KMJ_CCS_MEKi30min_V3_S013_14.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "trametinib",
+      "MEKi30min"
+    ]
+  },
+  "2013114_CCS_RAFi_30min_P06.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib_2013114_CCS_RAFi_30min_P06.raw"
+    ],
+    "Raw Data File": [
+      "2013114_CCS_RAFi_30min_P06.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "dabrafenib",
+      "RAFi"
+    ]
+  },
+  "20140211_KMJ_CCS_RAFi_V3_30min_P03.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib_20140211_KMJ_CCS_RAFi_V3_30min_P03.raw"
+    ],
+    "Raw Data File": [
+      "20140211_KMJ_CCS_RAFi_V3_30min_P03.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "dabrafenib",
+      "RAFi"
+    ]
+  },
+  "2013114_CCS_ERKi_30min_P06.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984_2013114_CCS_ERKi_30min_P06.raw"
+    ],
+    "Raw Data File": [
+      "2013114_CCS_ERKi_30min_P06.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "SCH772984",
+      "ERKi"
+    ]
+  },
+  "20140515_CCS_JL_ERKi_30min_V5_S09_10_11.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984_20140515_CCS_JL_ERKi_30min_V5_S09_10_11.raw"
+    ],
+    "Raw Data File": [
+      "20140515_CCS_JL_ERKi_30min_V5_S09_10_11.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "SCH772984",
+      "ERKi"
+    ]
+  },
+  "2013114_CCS_RAFi_30min_P01.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib_2013114_CCS_RAFi_30min_P01.raw"
+    ],
+    "Raw Data File": [
+      "2013114_CCS_RAFi_30min_P01.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "dabrafenib",
+      "RAFi"
+    ]
+  },
+  "20140214_CCS_EV_A375_MEKi_30min_v4_P06.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_trametinib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_trametinib_20140214_CCS_EV_A375_MEKi_30min_v4_P06.raw"
+    ],
+    "Raw Data File": [
+      "20140214_CCS_EV_A375_MEKi_30min_v4_P06.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "trametinib",
+      "MEKi"
+    ]
+  },
+  "2013114_CCS_ERKi_30min_P01.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984_2013114_CCS_ERKi_30min_P01.raw"
+    ],
+    "Raw Data File": [
+      "2013114_CCS_ERKi_30min_P01.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "SCH772984",
+      "ERKi"
+    ]
+  },
+  "20140515_CCS_JL_ERKi_30min_V5_P2.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984_20140515_CCS_JL_ERKi_30min_V5_P2.raw"
+    ],
+    "Raw Data File": [
+      "20140515_CCS_JL_ERKi_30min_V5_P2.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "SCH772984",
+      "ERKi"
+    ]
+  },
+  "20131116_CCs_EV_A375_ERKi_30min_S03_4_5_6_131122061521.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984_20131116_CCs_EV_A375_ERKi_30min_S03_4_5_6_131122061521.raw"
+    ],
+    "Raw Data File": [
+      "20131116_CCs_EV_A375_ERKi_30min_S03_4_5_6_131122061521.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "SCH772984",
+      "ERKi"
+    ]
+  },
+  "20140210_KMJ_CCS_MEKi30min_V3_S03_4_5_6.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_trametinib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_trametinib_20140210_KMJ_CCS_MEKi30min_V3_S03_4_5_6.raw"
+    ],
+    "Raw Data File": [
+      "20140210_KMJ_CCS_MEKi30min_V3_S03_4_5_6.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "trametinib",
+      "MEKi30min"
+    ]
+  },
+  "20131116_CCs_EV_A375_MEKi_30min_S03_4_5_6.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_trametinib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_trametinib_20131116_CCs_EV_A375_MEKi_30min_S03_4_5_6.raw"
+    ],
+    "Raw Data File": [
+      "20131116_CCs_EV_A375_MEKi_30min_S03_4_5_6.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "trametinib",
+      "MEKi"
+    ]
+  },
+  "20140515_CCS_JL_ERKi_30min_V5_P1.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984_20140515_CCS_JL_ERKi_30min_V5_P1.raw"
+    ],
+    "Raw Data File": [
+      "20140515_CCS_JL_ERKi_30min_V5_P1.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "SCH772984",
+      "ERKi"
+    ]
+  },
+  "2013114_CCS_MEKi_30min_P05.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_trametinib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_trametinib_2013114_CCS_MEKi_30min_P05.raw"
+    ],
+    "Raw Data File": [
+      "2013114_CCS_MEKi_30min_P05.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "trametinib",
+      "MEKi"
+    ]
+  },
+  "20140214_KMJ_CCS_ERKi30min_V3_S015.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984_20140214_KMJ_CCS_ERKi30min_V3_S015.raw"
+    ],
+    "Raw Data File": [
+      "20140214_KMJ_CCS_ERKi30min_V3_S015.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "SCH772984",
+      "ERKi30min"
+    ]
+  },
+  "20131116_CCs_EV_A375_ERKi_30min_S02_12_131122013411.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984_20131116_CCs_EV_A375_ERKi_30min_S02_12_131122013411.raw"
+    ],
+    "Raw Data File": [
+      "20131116_CCs_EV_A375_ERKi_30min_S02_12_131122013411.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "SCH772984",
+      "ERKi"
+    ]
+  },
+  "20140214_CCS_EV_A375_MEKi_30min_v4_P05.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_trametinib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_trametinib_20140214_CCS_EV_A375_MEKi_30min_v4_P05.raw"
+    ],
+    "Raw Data File": [
+      "20140214_CCS_EV_A375_MEKi_30min_v4_P05.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "trametinib",
+      "MEKi"
+    ]
+  },
+  "20140211_KMJ_CCS_RAFi_V3_30min_P06.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib_20140211_KMJ_CCS_RAFi_V3_30min_P06.raw"
+    ],
+    "Raw Data File": [
+      "20140211_KMJ_CCS_RAFi_V3_30min_P06.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "dabrafenib",
+      "RAFi"
+    ]
+  },
+  "20140213_KMJ_CCS_MEKi_V3_30min_P01.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_trametinib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_trametinib_20140213_KMJ_CCS_MEKi_V3_30min_P01.raw"
+    ],
+    "Raw Data File": [
+      "20140213_KMJ_CCS_MEKi_V3_30min_P01.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "trametinib",
+      "MEKi"
+    ]
+  },
+  "20140320_CCS_EV_A375_RAFi_30min_v4_S09_10_11.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib_20140320_CCS_EV_A375_RAFi_30min_v4_S09_10_11.raw"
+    ],
+    "Raw Data File": [
+      "20140320_CCS_EV_A375_RAFi_30min_v4_S09_10_11.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "dabrafenib",
+      "RAFi"
+    ]
+  },
+  "20131116_CCs_EV_A375_MEKi_30min_S03_4_5_6.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_trametinib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_trametinib_20131116_CCs_EV_A375_MEKi_30min_S03_4_5_6.raw"
+    ],
+    "Raw Data File": [
+      "20131116_CCs_EV_A375_MEKi_30min_S03_4_5_6.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "trametinib",
+      "MEKi"
+    ]
+  },
+  "20140515_CCS_JL_ERKi_30min_V5_P6.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984_20140515_CCS_JL_ERKi_30min_V5_P6.raw"
+    ],
+    "Raw Data File": [
+      "20140515_CCS_JL_ERKi_30min_V5_P6.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "SCH772984",
+      "ERKi"
+    ]
+  },
+  "2013114_CCS_RAFi_30min_P05.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib_2013114_CCS_RAFi_30min_P05.raw"
+    ],
+    "Raw Data File": [
+      "2013114_CCS_RAFi_30min_P05.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "dabrafenib",
+      "RAFi"
+    ]
+  },
+  "20140214_KMJ_CCS_ERKi30min_V3_S07_8.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984_20140214_KMJ_CCS_ERKi30min_V3_S07_8.raw"
+    ],
+    "Raw Data File": [
+      "20140214_KMJ_CCS_ERKi30min_V3_S07_8.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "SCH772984",
+      "ERKi30min"
+    ]
+  },
+  "20140214_KMJ_CCS_ERKi_V3_30min_P05.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984_20140214_KMJ_CCS_ERKi_V3_30min_P05.raw"
+    ],
+    "Raw Data File": [
+      "20140214_KMJ_CCS_ERKi_V3_30min_P05.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "SCH772984",
+      "ERKi"
+    ]
+  },
+  "20131116_CCs_EV_A375_ERKi_30min_S07_8_131122105649.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984_20131116_CCs_EV_A375_ERKi_30min_S07_8_131122105649.raw"
+    ],
+    "Raw Data File": [
+      "20131116_CCs_EV_A375_ERKi_30min_S07_8_131122105649.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "SCH772984",
+      "ERKi"
+    ]
+  },
+  "20140320_CCS_EV_A375_RAFi_30min_v4_P03.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib_20140320_CCS_EV_A375_RAFi_30min_v4_P03.raw"
+    ],
+    "Raw Data File": [
+      "20140320_CCS_EV_A375_RAFi_30min_v4_P03.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "dabrafenib",
+      "RAFi"
+    ]
+  },
+  "20140320_CCS_EV_A375_RAFi_30min_v4_S07_8.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib_20140320_CCS_EV_A375_RAFi_30min_v4_S07_8.raw"
+    ],
+    "Raw Data File": [
+      "20140320_CCS_EV_A375_RAFi_30min_v4_S07_8.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "dabrafenib",
+      "RAFi"
+    ]
+  },
+  "20140515_CCS_JL_ERKi_30min_V5_P4.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984_20140515_CCS_JL_ERKi_30min_V5_P4.raw"
+    ],
+    "Raw Data File": [
+      "20140515_CCS_JL_ERKi_30min_V5_P4.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "SCH772984",
+      "ERKi"
+    ]
+  },
+  "20140515_CCS_JL_ERKi_30min_V5_S03_4_5_6.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984_20140515_CCS_JL_ERKi_30min_V5_S03_4_5_6.raw"
+    ],
+    "Raw Data File": [
+      "20140515_CCS_JL_ERKi_30min_V5_S03_4_5_6.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "SCH772984",
+      "ERKi"
+    ]
+  },
+  "20140320_CCS_EV_A375_RAFi_30min_v4_P04.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib_20140320_CCS_EV_A375_RAFi_30min_v4_P04.raw"
+    ],
+    "Raw Data File": [
+      "20140320_CCS_EV_A375_RAFi_30min_v4_P04.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "dabrafenib",
+      "RAFi"
+    ]
+  },
+  "2013114_CCS_ERKi_30min_P05.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984_2013114_CCS_ERKi_30min_P05.raw"
+    ],
+    "Raw Data File": [
+      "2013114_CCS_ERKi_30min_P05.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "SCH772984",
+      "ERKi"
+    ]
+  },
+  "20140214_CCS_EV_A375_MEKi_30min_v4_P01.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_trametinib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_trametinib_20140214_CCS_EV_A375_MEKi_30min_v4_P01.raw"
+    ],
+    "Raw Data File": [
+      "20140214_CCS_EV_A375_MEKi_30min_v4_P01.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "trametinib",
+      "MEKi"
+    ]
+  },
+  "20140214_KMJ_CCS_ERKi_V3_30min_P06.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984_20140214_KMJ_CCS_ERKi_V3_30min_P06.raw"
+    ],
+    "Raw Data File": [
+      "20140214_KMJ_CCS_ERKi_V3_30min_P06.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "SCH772984",
+      "ERKi"
+    ]
+  },
+  "2013114_CCS_MEKi_30min_P06.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_trametinib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_trametinib_2013114_CCS_MEKi_30min_P06.raw"
+    ],
+    "Raw Data File": [
+      "2013114_CCS_MEKi_30min_P06.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "trametinib",
+      "MEKi"
+    ]
+  },
+  "20131114_CCS_EV_A375_RAFi_30min_S01.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib_20131114_CCS_EV_A375_RAFi_30min_S01.raw"
+    ],
+    "Raw Data File": [
+      "20131114_CCS_EV_A375_RAFi_30min_S01.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "dabrafenib",
+      "RAFi"
+    ]
+  },
+  "20131116_CCs_EV_A375_MEKi_30min_S015.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_trametinib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_trametinib_20131116_CCs_EV_A375_MEKi_30min_S015.raw"
+    ],
+    "Raw Data File": [
+      "20131116_CCs_EV_A375_MEKi_30min_S015.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "trametinib",
+      "MEKi"
+    ]
+  },
+  "20140214_KMJ_CCS_ERKi30min_V3_S02_12.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984_20140214_KMJ_CCS_ERKi30min_V3_S02_12.raw"
+    ],
+    "Raw Data File": [
+      "20140214_KMJ_CCS_ERKi30min_V3_S02_12.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "SCH772984",
+      "ERKi30min"
+    ]
+  },
+  "20140515_CCS_JL_ERKi_30min_V5_P5.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984_20140515_CCS_JL_ERKi_30min_V5_P5.raw"
+    ],
+    "Raw Data File": [
+      "20140515_CCS_JL_ERKi_30min_V5_P5.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "SCH772984",
+      "ERKi"
+    ]
+  },
+  "20140320_CCS_EV_A375_RAFi_30min_v4_S01.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib_20140320_CCS_EV_A375_RAFi_30min_v4_S01.raw"
+    ],
+    "Raw Data File": [
+      "20140320_CCS_EV_A375_RAFi_30min_v4_S01.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "dabrafenib",
+      "RAFi"
+    ]
+  },
+  "20140210_KMJ_CCS_MEKi30min_V3_S09_10_11.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_trametinib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_trametinib_20140210_KMJ_CCS_MEKi30min_V3_S09_10_11.raw"
+    ],
+    "Raw Data File": [
+      "20140210_KMJ_CCS_MEKi30min_V3_S09_10_11.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "trametinib",
+      "MEKi30min"
+    ]
+  },
+  "20140320_CCS_EV_A375_RAFi_30min_v4_S013_14.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib_20140320_CCS_EV_A375_RAFi_30min_v4_S013_14.raw"
+    ],
+    "Raw Data File": [
+      "20140320_CCS_EV_A375_RAFi_30min_v4_S013_14.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "dabrafenib",
+      "RAFi"
+    ]
+  },
+  "20140515_CCS_JL_ERKi_30min_V5_S02_12.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984_20140515_CCS_JL_ERKi_30min_V5_S02_12.raw"
+    ],
+    "Raw Data File": [
+      "20140515_CCS_JL_ERKi_30min_V5_S02_12.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "SCH772984",
+      "ERKi"
+    ]
+  },
+  "20140214_CCS_EV_A375_MEKi_30min_v4_P03.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_trametinib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_trametinib_20140214_CCS_EV_A375_MEKi_30min_v4_P03.raw"
+    ],
+    "Raw Data File": [
+      "20140214_CCS_EV_A375_MEKi_30min_v4_P03.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "trametinib",
+      "MEKi"
+    ]
+  },
+  "20140214_KMJ_CCS_ERKi30min_V3_S013_14.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984_20140214_KMJ_CCS_ERKi30min_V3_S013_14.raw"
+    ],
+    "Raw Data File": [
+      "20140214_KMJ_CCS_ERKi30min_V3_S013_14.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "SCH772984",
+      "ERKi30min"
+    ]
+  },
+  "20140207_KMJ_CCS_RAFi30min_V3_S015.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib_20140207_KMJ_CCS_RAFi30min_V3_S015.raw"
+    ],
+    "Raw Data File": [
+      "20140207_KMJ_CCS_RAFi30min_V3_S015.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "dabrafenib",
+      "RAFi30min"
+    ]
+  },
+  "20140210_KMJ_CCS_MEKi30min_V3_S07_8.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_trametinib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_trametinib_20140210_KMJ_CCS_MEKi30min_V3_S07_8.raw"
+    ],
+    "Raw Data File": [
+      "20140210_KMJ_CCS_MEKi30min_V3_S07_8.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "trametinib",
+      "MEKi30min"
+    ]
+  },
+  "20140207_KMJ_CCS_RAFi30min_V3_S09_10_11.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib_20140207_KMJ_CCS_RAFi30min_V3_S09_10_11.raw"
+    ],
+    "Raw Data File": [
+      "20140207_KMJ_CCS_RAFi30min_V3_S09_10_11.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "dabrafenib",
+      "RAFi30min"
+    ]
+  },
+  "20140320_CCS_EV_A375_RAFi_30min_v4_S015.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib_20140320_CCS_EV_A375_RAFi_30min_v4_S015.raw"
+    ],
+    "Raw Data File": [
+      "20140320_CCS_EV_A375_RAFi_30min_v4_S015.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "dabrafenib",
+      "RAFi"
+    ]
+  },
+  "20131116_CCs_EV_A375_MEKi_30min_S02_12.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_trametinib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_trametinib_20131116_CCs_EV_A375_MEKi_30min_S02_12.raw"
+    ],
+    "Raw Data File": [
+      "20131116_CCs_EV_A375_MEKi_30min_S02_12.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "trametinib",
+      "MEKi"
+    ]
+  },
+  "20140207_KMJ_CCS_RAFi30min_V3_S03_4_5_6.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib_20140207_KMJ_CCS_RAFi30min_V3_S03_4_5_6.raw"
+    ],
+    "Raw Data File": [
+      "20140207_KMJ_CCS_RAFi30min_V3_S03_4_5_6.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "dabrafenib",
+      "RAFi30min"
+    ]
+  },
+  "20140211_KMJ_CCS_RAFi_V3_30min_P05.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib_20140211_KMJ_CCS_RAFi_V3_30min_P05.raw"
+    ],
+    "Raw Data File": [
+      "20140211_KMJ_CCS_RAFi_V3_30min_P05.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "dabrafenib",
+      "RAFi"
+    ]
+  },
+  "20131116_CCs_EV_A375_ERKi_30min_S013_14.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984_20131116_CCs_EV_A375_ERKi_30min_S013_14.raw"
+    ],
+    "Raw Data File": [
+      "20131116_CCs_EV_A375_ERKi_30min_S013_14.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "SCH772984",
+      "ERKi"
+    ]
+  },
+  "20140515_CCS_JL_ERKi_30min_V5_S013_14.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984_20140515_CCS_JL_ERKi_30min_V5_S013_14.raw"
+    ],
+    "Raw Data File": [
+      "20140515_CCS_JL_ERKi_30min_V5_S013_14.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "SCH772984",
+      "ERKi"
+    ]
+  },
+  "20140214_KMJ_CCS_ERKi_V3_30min_P04.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984_20140214_KMJ_CCS_ERKi_V3_30min_P04.raw"
+    ],
+    "Raw Data File": [
+      "20140214_KMJ_CCS_ERKi_V3_30min_P04.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "SCH772984",
+      "ERKi"
+    ]
+  },
+  "2013114_CCS_ERKi_30min_P03.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984_2013114_CCS_ERKi_30min_P03.raw"
+    ],
+    "Raw Data File": [
+      "2013114_CCS_ERKi_30min_P03.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "SCH772984",
+      "ERKi"
+    ]
+  },
+  "20131116_CCs_EV_A375_MEKi_30min_S01.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_trametinib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_trametinib_20131116_CCs_EV_A375_MEKi_30min_S01.raw"
+    ],
+    "Raw Data File": [
+      "20131116_CCs_EV_A375_MEKi_30min_S01.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "trametinib",
+      "MEKi"
+    ]
+  },
+  "20131114_CCS_EV_A375_RAFi_30min_S07_8.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib_20131114_CCS_EV_A375_RAFi_30min_S07_8.raw"
+    ],
+    "Raw Data File": [
+      "20131114_CCS_EV_A375_RAFi_30min_S07_8.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "dabrafenib",
+      "RAFi"
+    ]
+  },
+  "20140320_CCS_EV_A375_RAFi_30min_v4_P05.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib_20140320_CCS_EV_A375_RAFi_30min_v4_P05.raw"
+    ],
+    "Raw Data File": [
+      "20140320_CCS_EV_A375_RAFi_30min_v4_P05.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "dabrafenib",
+      "RAFi"
+    ]
+  },
+  "20140515_CCS_JL_ERKi_30min_V5_S01.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984_20140515_CCS_JL_ERKi_30min_V5_S01.raw"
+    ],
+    "Raw Data File": [
+      "20140515_CCS_JL_ERKi_30min_V5_S01.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "SCH772984",
+      "ERKi"
+    ]
+  },
+  "20140207_KMJ_CCS_RAFi30min_V3_S07_8.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib_20140207_KMJ_CCS_RAFi30min_V3_S07_8.raw"
+    ],
+    "Raw Data File": [
+      "20140207_KMJ_CCS_RAFi30min_V3_S07_8.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "dabrafenib",
+      "RAFi30min"
+    ]
+  },
+  "20131114_CCS_EV_A375_RAFi_30min_S03_4_5_6.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib_20131114_CCS_EV_A375_RAFi_30min_S03_4_5_6.raw"
+    ],
+    "Raw Data File": [
+      "20131114_CCS_EV_A375_RAFi_30min_S03_4_5_6.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "dabrafenib",
+      "RAFi"
+    ]
+  },
+  "20131116_CCs_EV_A375_ERKi_30min_S01_131121210011.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984_20131116_CCs_EV_A375_ERKi_30min_S01_131121210011.raw"
+    ],
+    "Raw Data File": [
+      "20131116_CCs_EV_A375_ERKi_30min_S01_131121210011.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "SCH772984",
+      "ERKi"
+    ]
+  },
+  "20140320_CCS_EV_A375_RAFi_30min_v4_S02_12.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib_20140320_CCS_EV_A375_RAFi_30min_v4_S02_12.raw"
+    ],
+    "Raw Data File": [
+      "20140320_CCS_EV_A375_RAFi_30min_v4_S02_12.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "dabrafenib",
+      "RAFi"
+    ]
+  },
+  "20140214_CCS_EV_A375_MEKi_30min_v4_S09_10_11.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_trametinib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_trametinib_20140214_CCS_EV_A375_MEKi_30min_v4_S09_10_11.raw"
+    ],
+    "Raw Data File": [
+      "20140214_CCS_EV_A375_MEKi_30min_v4_S09_10_11.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "trametinib",
+      "MEKi"
+    ]
+  },
+  "20131114_CCS_EV_A375_RAFi_30min_S09_10_11.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib_20131114_CCS_EV_A375_RAFi_30min_S09_10_11.raw"
+    ],
+    "Raw Data File": [
+      "20131114_CCS_EV_A375_RAFi_30min_S09_10_11.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "dabrafenib",
+      "RAFi"
+    ]
+  },
+  "20140207_KMJ_CCS_RAFi30min_V3_S02_12.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib_20140207_KMJ_CCS_RAFi30min_V3_S02_12.raw"
+    ],
+    "Raw Data File": [
+      "20140207_KMJ_CCS_RAFi30min_V3_S02_12.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "dabrafenib",
+      "RAFi30min"
+    ]
+  },
+  "20131116_CCs_EV_A375_ERKi_30min_S01.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984_20131116_CCs_EV_A375_ERKi_30min_S01.raw"
+    ],
+    "Raw Data File": [
+      "20131116_CCs_EV_A375_ERKi_30min_S01.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "SCH772984",
+      "ERKi"
+    ]
+  },
+  "20140214_CCS_EV_A375_MEKi_30min_v4_P02.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_trametinib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_trametinib_20140214_CCS_EV_A375_MEKi_30min_v4_P02.raw"
+    ],
+    "Raw Data File": [
+      "20140214_CCS_EV_A375_MEKi_30min_v4_P02.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "trametinib",
+      "MEKi"
+    ]
+  },
+  "20140214_CCS_EV_A375_MEKi_30min_v4_S013_14.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_trametinib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_trametinib_20140214_CCS_EV_A375_MEKi_30min_v4_S013_14.raw"
+    ],
+    "Raw Data File": [
+      "20140214_CCS_EV_A375_MEKi_30min_v4_S013_14.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "trametinib",
+      "MEKi"
+    ]
+  },
+  "2013114_CCS_RAFi_30min_P03.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib_2013114_CCS_RAFi_30min_P03.raw"
+    ],
+    "Raw Data File": [
+      "2013114_CCS_RAFi_30min_P03.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "dabrafenib",
+      "RAFi"
+    ]
+  },
+  "2013114_CCS_MEKi_30min_P03.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_trametinib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_trametinib_2013114_CCS_MEKi_30min_P03.raw"
+    ],
+    "Raw Data File": [
+      "2013114_CCS_MEKi_30min_P03.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "trametinib",
+      "MEKi"
+    ]
+  },
+  "20131116_CCs_EV_A375_MEKi_30min_S013_14.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_trametinib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_trametinib_20131116_CCs_EV_A375_MEKi_30min_S013_14.raw"
+    ],
+    "Raw Data File": [
+      "20131116_CCs_EV_A375_MEKi_30min_S013_14.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "trametinib",
+      "MEKi"
+    ]
+  },
+  "20140207_KMJ_CCS_RAFi30min_V3_S013_14.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib_20140207_KMJ_CCS_RAFi30min_V3_S013_14.raw"
+    ],
+    "Raw Data File": [
+      "20140207_KMJ_CCS_RAFi30min_V3_S013_14.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "dabrafenib",
+      "RAFi30min"
+    ]
+  },
+  "2013114_CCS_RAFi_30min_P04.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib_2013114_CCS_RAFi_30min_P04.raw"
+    ],
+    "Raw Data File": [
+      "2013114_CCS_RAFi_30min_P04.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "dabrafenib",
+      "RAFi"
+    ]
+  },
+  "20140214_KMJ_CCS_ERKi_V3_30min_P03.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984_20140214_KMJ_CCS_ERKi_V3_30min_P03.raw"
+    ],
+    "Raw Data File": [
+      "20140214_KMJ_CCS_ERKi_V3_30min_P03.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "SCH772984",
+      "ERKi"
+    ]
+  },
+  "20140515_CCS_JL_ERKi_30min_V5_P3.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984_20140515_CCS_JL_ERKi_30min_V5_P3.raw"
+    ],
+    "Raw Data File": [
+      "20140515_CCS_JL_ERKi_30min_V5_P3.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "SCH772984",
+      "ERKi"
+    ]
+  },
+  "20140515_CCS_JL_ERKi_30min_V5_S015.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984_20140515_CCS_JL_ERKi_30min_V5_S015.raw"
+    ],
+    "Raw Data File": [
+      "20140515_CCS_JL_ERKi_30min_V5_S015.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "SCH772984",
+      "ERKi"
+    ]
+  },
+  "20131116_CCs_EV_A375_ERKi_30min_S015.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984_20131116_CCs_EV_A375_ERKi_30min_S015.raw"
+    ],
+    "Raw Data File": [
+      "20131116_CCs_EV_A375_ERKi_30min_S015.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "SCH772984",
+      "ERKi"
+    ]
+  },
+  "20140214_KMJ_CCS_ERKi_V3_30min_P02.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984_20140214_KMJ_CCS_ERKi_V3_30min_P02.raw"
+    ],
+    "Raw Data File": [
+      "20140214_KMJ_CCS_ERKi_V3_30min_P02.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "SCH772984",
+      "ERKi"
+    ]
+  },
+  "2013114_CCS_MEKi_30min_P01.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_trametinib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_trametinib_2013114_CCS_MEKi_30min_P01.raw"
+    ],
+    "Raw Data File": [
+      "2013114_CCS_MEKi_30min_P01.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "trametinib",
+      "MEKi"
+    ]
+  },
+  "20131116_CCs_EV_A375_ERKi_30min_S015_131123012154.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984_20131116_CCs_EV_A375_ERKi_30min_S015_131123012154.raw"
+    ],
+    "Raw Data File": [
+      "20131116_CCs_EV_A375_ERKi_30min_S015_131123012154.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "SCH772984",
+      "ERKi"
+    ]
+  },
+  "20140210_KMJ_CCS_MEKi30min_V3_S01.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_trametinib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_trametinib_20140210_KMJ_CCS_MEKi30min_V3_S01.raw"
+    ],
+    "Raw Data File": [
+      "20140210_KMJ_CCS_MEKi30min_V3_S01.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "trametinib",
+      "MEKi30min"
+    ]
+  },
+  "20140210_KMJ_CCS_MEKi30min_V3_S015.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_trametinib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_trametinib_20140210_KMJ_CCS_MEKi30min_V3_S015.raw"
+    ],
+    "Raw Data File": [
+      "20140210_KMJ_CCS_MEKi30min_V3_S015.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "trametinib",
+      "MEKi30min"
+    ]
+  },
+  "20140211_KMJ_CCS_RAFi_V3_30min_P01.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib_20140211_KMJ_CCS_RAFi_V3_30min_P01.raw"
+    ],
+    "Raw Data File": [
+      "20140211_KMJ_CCS_RAFi_V3_30min_P01.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "dabrafenib",
+      "RAFi"
+    ]
+  },
+  "2013114_CCS_MEKi_30min_P02.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_trametinib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_trametinib_2013114_CCS_MEKi_30min_P02.raw"
+    ],
+    "Raw Data File": [
+      "2013114_CCS_MEKi_30min_P02.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "trametinib",
+      "MEKi"
+    ]
+  },
+  "20140213_KMJ_CCS_MEKi_V3_30min_P05.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_trametinib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_trametinib_20140213_KMJ_CCS_MEKi_V3_30min_P05.raw"
+    ],
+    "Raw Data File": [
+      "20140213_KMJ_CCS_MEKi_V3_30min_P05.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "trametinib",
+      "MEKi"
+    ]
+  },
+  "2013114_CCS_RAFi_30min_P02.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib_2013114_CCS_RAFi_30min_P02.raw"
+    ],
+    "Raw Data File": [
+      "2013114_CCS_RAFi_30min_P02.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "dabrafenib",
+      "RAFi"
+    ]
+  },
+  "20131116_CCs_EV_A375_MEKi_30min_S07_8.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_trametinib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_trametinib_20131116_CCs_EV_A375_MEKi_30min_S07_8.raw"
+    ],
+    "Raw Data File": [
+      "20131116_CCs_EV_A375_MEKi_30min_S07_8.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "trametinib",
+      "MEKi"
+    ]
+  },
+  "20140211_KMJ_CCS_RAFi_V3_30min_P02.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib_20140211_KMJ_CCS_RAFi_V3_30min_P02.raw"
+    ],
+    "Raw Data File": [
+      "20140211_KMJ_CCS_RAFi_V3_30min_P02.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "dabrafenib",
+      "RAFi"
+    ]
+  },
+  "20131116_CCs_EV_A375_ERKi_30min_S09_10_11_131122154332.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984_20131116_CCs_EV_A375_ERKi_30min_S09_10_11_131122154332.raw"
+    ],
+    "Raw Data File": [
+      "20131116_CCs_EV_A375_ERKi_30min_S09_10_11_131122154332.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "SCH772984",
+      "ERKi"
+    ]
+  },
+  "20131114_CCS_EV_A375_RAFi_30min_S013_14.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib_20131114_CCS_EV_A375_RAFi_30min_S013_14.raw"
+    ],
+    "Raw Data File": [
+      "20131114_CCS_EV_A375_RAFi_30min_S013_14.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "dabrafenib",
+      "RAFi"
+    ]
+  },
+  "20131116_CCs_EV_A375_ERKi_30min_S09_10_11.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984_20131116_CCs_EV_A375_ERKi_30min_S09_10_11.raw"
+    ],
+    "Raw Data File": [
+      "20131116_CCs_EV_A375_ERKi_30min_S09_10_11.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "SCH772984",
+      "ERKi"
+    ]
+  },
+  "20131116_CCs_EV_A375_ERKi_30min_S013_14_131122203229.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984_20131116_CCs_EV_A375_ERKi_30min_S013_14_131122203229.raw"
+    ],
+    "Raw Data File": [
+      "20131116_CCs_EV_A375_ERKi_30min_S013_14_131122203229.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "SCH772984",
+      "ERKi"
+    ]
+  },
+  "20140213_KMJ_CCS_MEKi_V3_30min_P06.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_trametinib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_trametinib_20140213_KMJ_CCS_MEKi_V3_30min_P06.raw"
+    ],
+    "Raw Data File": [
+      "20140213_KMJ_CCS_MEKi_V3_30min_P06.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "trametinib",
+      "MEKi"
+    ]
+  },
+  "20140320_CCS_EV_A375_RAFi_30min_v4_P02.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib_20140320_CCS_EV_A375_RAFi_30min_v4_P02.raw"
+    ],
+    "Raw Data File": [
+      "20140320_CCS_EV_A375_RAFi_30min_v4_P02.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "dabrafenib",
+      "RAFi"
+    ]
+  },
+  "20140213_KMJ_CCS_MEKi_V3_30min_P04.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_trametinib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_trametinib_20140213_KMJ_CCS_MEKi_V3_30min_P04.raw"
+    ],
+    "Raw Data File": [
+      "20140213_KMJ_CCS_MEKi_V3_30min_P04.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "trametinib",
+      "MEKi"
+    ]
+  },
+  "20131114_CCS_EV_A375_RAFi_30min_S02_12.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib_20131114_CCS_EV_A375_RAFi_30min_S02_12.raw"
+    ],
+    "Raw Data File": [
+      "20131114_CCS_EV_A375_RAFi_30min_S02_12.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "dabrafenib",
+      "RAFi"
+    ]
+  },
+  "20131114_CCS_EV_A375_RAFi_30min_S015.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib_20131114_CCS_EV_A375_RAFi_30min_S015.raw"
+    ],
+    "Raw Data File": [
+      "20131114_CCS_EV_A375_RAFi_30min_S015.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "dabrafenib",
+      "RAFi"
+    ]
+  },
+  "2013114_CCS_ERKi_30min_P04.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984_2013114_CCS_ERKi_30min_P04.raw"
+    ],
+    "Raw Data File": [
+      "2013114_CCS_ERKi_30min_P04.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "SCH772984",
+      "ERKi"
+    ]
+  },
+  "20140213_KMJ_CCS_MEKi_V3_30min_P02.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_trametinib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_trametinib_20140213_KMJ_CCS_MEKi_V3_30min_P02.raw"
+    ],
+    "Raw Data File": [
+      "20140213_KMJ_CCS_MEKi_V3_30min_P02.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "trametinib",
+      "MEKi"
+    ]
+  },
+  "20131116_CCs_EV_A375_ERKi_30min_S07_8.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984_20131116_CCs_EV_A375_ERKi_30min_S07_8.raw"
+    ],
+    "Raw Data File": [
+      "20131116_CCs_EV_A375_ERKi_30min_S07_8.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "SCH772984",
+      "ERKi"
+    ]
+  },
+  "20140207_KMJ_CCS_RAFi30min_V3_S01.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib_20140207_KMJ_CCS_RAFi30min_V3_S01.raw"
+    ],
+    "Raw Data File": [
+      "20140207_KMJ_CCS_RAFi30min_V3_S01.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "dabrafenib",
+      "RAFi30min"
+    ]
+  },
+  "20140214_CCS_EV_A375_MEKi_30min_v4_S01.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_trametinib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_trametinib_20140214_CCS_EV_A375_MEKi_30min_v4_S01.raw"
+    ],
+    "Raw Data File": [
+      "20140214_CCS_EV_A375_MEKi_30min_v4_S01.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "trametinib",
+      "MEKi"
+    ]
+  },
+  "20140214_CCS_EV_A375_MEKi_30min_v4_S015.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_trametinib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_trametinib_20140214_CCS_EV_A375_MEKi_30min_v4_S015.raw"
+    ],
+    "Raw Data File": [
+      "20140214_CCS_EV_A375_MEKi_30min_v4_S015.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "trametinib",
+      "MEKi"
+    ]
+  },
+  "20140320_CCS_EV_A375_RAFi_30min_v4_S03_4_5_6.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib_20140320_CCS_EV_A375_RAFi_30min_v4_S03_4_5_6.raw"
+    ],
+    "Raw Data File": [
+      "20140320_CCS_EV_A375_RAFi_30min_v4_S03_4_5_6.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "dabrafenib",
+      "RAFi"
+    ]
+  },
+  "20140211_KMJ_CCS_RAFi_V3_30min_P04.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib_20140211_KMJ_CCS_RAFi_V3_30min_P04.raw"
+    ],
+    "Raw Data File": [
+      "20140211_KMJ_CCS_RAFi_V3_30min_P04.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "dabrafenib",
+      "RAFi"
+    ]
+  },
+  "20140214_KMJ_CCS_ERKi30min_V3_S09_10_11.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984_20140214_KMJ_CCS_ERKi30min_V3_S09_10_11.raw"
+    ],
+    "Raw Data File": [
+      "20140214_KMJ_CCS_ERKi30min_V3_S09_10_11.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "SCH772984",
+      "ERKi30min"
+    ]
+  },
+  "20140210_KMJ_CCS_MEKi30min_V3_S02_12.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_trametinib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_trametinib_20140210_KMJ_CCS_MEKi30min_V3_S02_12.raw"
+    ],
+    "Raw Data File": [
+      "20140210_KMJ_CCS_MEKi30min_V3_S02_12.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "trametinib",
+      "MEKi30min"
+    ]
+  },
+  "2013114_CCS_ERKi_30min_P02.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984_2013114_CCS_ERKi_30min_P02.raw"
+    ],
+    "Raw Data File": [
+      "2013114_CCS_ERKi_30min_P02.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "SCH772984",
+      "ERKi"
+    ]
+  },
+  "20140214_KMJ_CCS_ERKi30min_V3_S03_4_5_6.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984_20140214_KMJ_CCS_ERKi30min_V3_S03_4_5_6.raw"
+    ],
+    "Raw Data File": [
+      "20140214_KMJ_CCS_ERKi30min_V3_S03_4_5_6.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "SCH772984",
+      "ERKi30min"
+    ]
+  },
+  "20140320_CCS_EV_A375_RAFi_30min_v4_P01.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_dabrafenib_20140320_CCS_EV_A375_RAFi_30min_v4_P01.raw"
+    ],
+    "Raw Data File": [
+      "20140320_CCS_EV_A375_RAFi_30min_v4_P01.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "dabrafenib",
+      "RAFi"
+    ]
+  },
+  "20131116_CCs_EV_A375_MEKi_30min_S09_10_11.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_trametinib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_trametinib_20131116_CCs_EV_A375_MEKi_30min_S09_10_11.raw"
+    ],
+    "Raw Data File": [
+      "20131116_CCs_EV_A375_MEKi_30min_S09_10_11.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "trametinib",
+      "MEKi"
+    ]
+  },
+  "2013114_CCS_MEKi_30min_P04.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_trametinib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_trametinib_2013114_CCS_MEKi_30min_P04.raw"
+    ],
+    "Raw Data File": [
+      "2013114_CCS_MEKi_30min_P04.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "trametinib",
+      "MEKi"
+    ]
+  },
+  "20140214_CCS_EV_A375_MEKi_30min_v4_S07_8.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_trametinib"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_trametinib_20140214_CCS_EV_A375_MEKi_30min_v4_S07_8.raw"
+    ],
+    "Raw Data File": [
+      "20140214_CCS_EV_A375_MEKi_30min_v4_S07_8.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "trametinib",
+      "MEKi"
+    ]
+  },
+  "20131116_CCs_EV_A375_ERKi_30min_S03_4_5_6.raw": {
+    "Source Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984"
+    ],
+    "Assay Name": [
+      "A375 (ATCC, CRL-1619)_SCH772984_20131116_CCs_EV_A375_ERKi_30min_S03_4_5_6.raw"
+    ],
+    "Raw Data File": [
+      "20131116_CCs_EV_A375_ERKi_30min_S03_4_5_6.raw"
+    ],
+    "FactorValue[Treatment]": [
+      "SCH772984",
+      "ERKi"
+    ]
+  }
+}

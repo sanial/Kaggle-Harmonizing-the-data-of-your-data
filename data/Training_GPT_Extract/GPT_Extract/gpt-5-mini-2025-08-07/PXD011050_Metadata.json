@@ -1,0 +1,511 @@
+{
+  "StS_pssA-GluC-SN_22082017.raw": {
+    "Source Name": [
+      "StS_pssA-GluC-SN_22082017"
+    ],
+    "Assay Name": [
+      "StS_pssA-GluC-SN_22082017_assay"
+    ],
+    "Raw Data File": [
+      "StS_pssA-GluC-SN_22082017.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Haloferax volcanii"
+    ],
+    "Characteristics[GeneticModification]": [
+      "ΔpssA"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "GluC"
+    ],
+    "Characteristics[Specimen]": [
+      "supernatant"
+    ],
+    "Characteristics[CellPart]": [
+      "membrane fraction"
+    ],
+    "FactorValue[Treatment]": [
+      "ΔpssA"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive plus mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 27"
+    ]
+  },
+  "StS_Hvo_wt_GluC_SN_Big12_20160929.raw": {
+    "Source Name": [
+      "StS_Hvo_wt_GluC_SN_Big12_20160929"
+    ],
+    "Assay Name": [
+      "StS_Hvo_wt_GluC_SN_Big12_20160929_assay"
+    ],
+    "Raw Data File": [
+      "StS_Hvo_wt_GluC_SN_Big12_20160929.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Haloferax volcanii"
+    ],
+    "FactorValue[Treatment]": [
+      "H53"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "GluC"
+    ],
+    "Characteristics[Specimen]": [
+      "supernatant"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive plus mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 27"
+    ]
+  },
+  "StS_Hvo_1143_Try_SN_Big12_20160929.raw": {
+    "Source Name": [
+      "StS_Hvo_1143_Try_SN_Big12_20160929"
+    ],
+    "Assay Name": [
+      "StS_Hvo_1143_Try_SN_Big12_20160929_assay"
+    ],
+    "Raw Data File": [
+      "StS_Hvo_1143_Try_SN_Big12_20160929.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Haloferax volcanii"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Hvo_1143"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[Specimen]": [
+      "supernatant"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive plus mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 27"
+    ]
+  },
+  "StS_WT-GluC-membrane_22082017.raw": {
+    "Source Name": [
+      "StS_WT-GluC-membrane_22082017"
+    ],
+    "Assay Name": [
+      "StS_WT-GluC-membrane_22082017_assay"
+    ],
+    "Raw Data File": [
+      "StS_WT-GluC-membrane_22082017.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Haloferax volcanii"
+    ],
+    "FactorValue[Treatment]": [
+      "H53"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "GluC"
+    ],
+    "Characteristics[CellPart]": [
+      "membrane fraction"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive plus mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 27"
+    ]
+  },
+  "StS_Hvo_wt_Try_SN_Big12_20160929.raw": {
+    "Source Name": [
+      "StS_Hvo_wt_Try_SN_Big12_20160929"
+    ],
+    "Assay Name": [
+      "StS_Hvo_wt_Try_SN_Big12_20160929_assay"
+    ],
+    "Raw Data File": [
+      "StS_Hvo_wt_Try_SN_Big12_20160929.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Haloferax volcanii"
+    ],
+    "FactorValue[Treatment]": [
+      "H53"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[Specimen]": [
+      "supernatant"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive plus mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 27"
+    ]
+  },
+  "StS_FASP-WT_05052017.raw": {
+    "Source Name": [
+      "StS_FASP-WT_05052017"
+    ],
+    "Assay Name": [
+      "StS_FASP-WT_05052017_assay"
+    ],
+    "Raw Data File": [
+      "StS_FASP-WT_05052017.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Haloferax volcanii"
+    ],
+    "FactorValue[Treatment]": [
+      "H53"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive plus mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 27"
+    ]
+  },
+  "StS_artA-GluC-SN_22082017.raw": {
+    "Source Name": [
+      "StS_artA-GluC-SN_22082017"
+    ],
+    "Assay Name": [
+      "StS_artA-GluC-SN_22082017_assay"
+    ],
+    "Raw Data File": [
+      "StS_artA-GluC-SN_22082017.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Haloferax volcanii"
+    ],
+    "Characteristics[GeneticModification]": [
+      "artA"
+    ],
+    "FactorValue[Treatment]": [
+      "ΔartA"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "GluC"
+    ],
+    "Characteristics[Specimen]": [
+      "supernatant"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive plus mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 27"
+    ]
+  },
+  "StS_FASP-RR02_05052017.raw": {
+    "Source Name": [
+      "StS_FASP-RR02_05052017"
+    ],
+    "Assay Name": [
+      "StS_FASP-RR02_05052017_assay"
+    ],
+    "Raw Data File": [
+      "StS_FASP-RR02_05052017.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Haloferax volcanii"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "RR02"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive plus mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 27"
+    ]
+  },
+  "StS_WT-GluC-SN_22082017.raw": {
+    "Source Name": [
+      "StS_WT-GluC-SN_22082017"
+    ],
+    "Assay Name": [
+      "StS_WT-GluC-SN_22082017_assay"
+    ],
+    "Raw Data File": [
+      "StS_WT-GluC-SN_22082017.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Haloferax volcanii"
+    ],
+    "FactorValue[Treatment]": [
+      "H53"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "GluC"
+    ],
+    "Characteristics[Specimen]": [
+      "supernatant"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive plus mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 27"
+    ]
+  },
+  "StS_Hvo_1143_GluC_SN_Big12_20160929.raw": {
+    "Source Name": [
+      "StS_Hvo_1143_GluC_SN_Big12_20160929"
+    ],
+    "Assay Name": [
+      "StS_Hvo_1143_GluC_SN_Big12_20160929_assay"
+    ],
+    "Raw Data File": [
+      "StS_Hvo_1143_GluC_SN_Big12_20160929.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Haloferax volcanii"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Hvo_1143"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "GluC"
+    ],
+    "Characteristics[Specimen]": [
+      "supernatant"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive plus mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 27"
+    ]
+  },
+  "StS_pssA-GluC-membrane_22082017.raw": {
+    "Source Name": [
+      "StS_pssA-GluC-membrane_22082017"
+    ],
+    "Assay Name": [
+      "StS_pssA-GluC-membrane_22082017_assay"
+    ],
+    "Raw Data File": [
+      "StS_pssA-GluC-membrane_22082017.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Haloferax volcanii"
+    ],
+    "Characteristics[GeneticModification]": [
+      "ΔpssA"
+    ],
+    "FactorValue[Treatment]": [
+      "ΔpssA"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "GluC"
+    ],
+    "Characteristics[CellPart]": [
+      "membrane fraction"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive plus mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 27"
+    ]
+  },
+  "StS_Hvo_ArtA_Try_SN_Big12_20160929.raw": {
+    "Source Name": [
+      "StS_Hvo_ArtA_Try_SN_Big12_20160929"
+    ],
+    "Assay Name": [
+      "StS_Hvo_ArtA_Try_SN_Big12_20160929_assay"
+    ],
+    "Raw Data File": [
+      "StS_Hvo_ArtA_Try_SN_Big12_20160929.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Haloferax volcanii"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Hvo_ArtA"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[Specimen]": [
+      "supernatant"
+    ],
+    "FactorValue[Treatment]": [
+      "ΔartA"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive plus mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 27"
+    ]
+  },
+  "StS_FASP-RR03_05052017.raw": {
+    "Source Name": [
+      "StS_FASP-RR03_05052017"
+    ],
+    "Assay Name": [
+      "StS_FASP-RR03_05052017_assay"
+    ],
+    "Raw Data File": [
+      "StS_FASP-RR03_05052017.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Haloferax volcanii"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "RR03"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive plus mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 27"
+    ]
+  },
+  "StS_Hvo_ArtA_GluC_SN_Big12_20160929.raw": {
+    "Source Name": [
+      "StS_Hvo_ArtA_GluC_SN_Big12_20160929"
+    ],
+    "Assay Name": [
+      "StS_Hvo_ArtA_GluC_SN_Big12_20160929_assay"
+    ],
+    "Raw Data File": [
+      "StS_Hvo_ArtA_GluC_SN_Big12_20160929.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Haloferax volcanii"
+    ],
+    "Characteristics[GeneticModification]": [
+      "Hvo_ArtA"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "GluC"
+    ],
+    "Characteristics[Specimen]": [
+      "supernatant"
+    ],
+    "FactorValue[Treatment]": [
+      "ΔartA"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive plus mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 27"
+    ]
+  },
+  "StS_artA-GluC-membrane_22082017.raw": {
+    "Source Name": [
+      "StS_artA-GluC-membrane_22082017"
+    ],
+    "Assay Name": [
+      "StS_artA-GluC-membrane_22082017_assay"
+    ],
+    "Raw Data File": [
+      "StS_artA-GluC-membrane_22082017.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Haloferax volcanii"
+    ],
+    "Characteristics[GeneticModification]": [
+      "artA"
+    ],
+    "FactorValue[Treatment]": [
+      "ΔartA"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "GluC"
+    ],
+    "Characteristics[CellPart]": [
+      "membrane fraction"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive plus mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 27"
+    ]
+  },
+  "StS_FASP-RR01_05052017.raw": {
+    "Source Name": [
+      "StS_FASP-RR01_05052017"
+    ],
+    "Assay Name": [
+      "StS_FASP-RR01_05052017_assay"
+    ],
+    "Raw Data File": [
+      "StS_FASP-RR01_05052017.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Haloferax volcanii"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "RR01"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive plus mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 27"
+    ]
+  }
+}

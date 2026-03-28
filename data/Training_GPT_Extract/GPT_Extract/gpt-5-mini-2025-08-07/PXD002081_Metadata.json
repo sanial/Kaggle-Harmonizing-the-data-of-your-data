@@ -1,0 +1,3906 @@
+{
+  "TCGA-AA-3684-01A-31_W_VU_20121018_A0218_4H_R_FR06.raw": {
+    "Source Name": [
+      "TCGA-AA-3684-01A-31"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3684-01A-31_FR06"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3684-01A-31_W_VU_20121018_A0218_4H_R_FR06.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR06"
+    ]
+  },
+  "TCGA-AA-3672-01A-22_W_VU_20121218_A0218_7J_R_FR14.raw": {
+    "Source Name": [
+      "TCGA-AA-3672-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3672-01A-22_FR14"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3672-01A-22_W_VU_20121218_A0218_7J_R_FR14.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR14"
+    ]
+  },
+  "TCGA-AA-3715-01A-22_W_VU_20120822_A0218_2E_R_FR05.raw": {
+    "Source Name": [
+      "TCGA-AA-3715-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3715-01A-22_FR05"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3715-01A-22_W_VU_20120822_A0218_2E_R_FR05.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR05"
+    ]
+  },
+  "TCGA-AA-3710-01A-22_W_VU_20120827_A0218_2H_R_FR14.raw": {
+    "Source Name": [
+      "TCGA-AA-3710-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3710-01A-22_FR14"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3710-01A-22_W_VU_20120827_A0218_2H_R_FR14.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR14"
+    ]
+  },
+  "TCGA-AA-3684-01A-31_W_VU_20121018_A0218_4H_R_FR07.raw": {
+    "Source Name": [
+      "TCGA-AA-3684-01A-31"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3684-01A-31_FR07"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3684-01A-31_W_VU_20121018_A0218_4H_R_FR07.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR07"
+    ]
+  },
+  "TCGA-AA-3684-01A-31_W_VU_20121018_A0218_4H_R_FR08.raw": {
+    "Source Name": [
+      "TCGA-AA-3684-01A-31"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3684-01A-31_FR08"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3684-01A-31_W_VU_20121018_A0218_4H_R_FR08.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR08"
+    ]
+  },
+  "TCGA-AA-3554-01A-22_W_VU_20121122_A0218_6G_R_FR01.raw": {
+    "Source Name": [
+      "TCGA-AA-3554-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3554-01A-22_FR01"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3554-01A-22_W_VU_20121122_A0218_6G_R_FR01.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR01"
+    ]
+  },
+  "TCGA-AA-3664-01A-22_W_VU_20130124_A0218_9C_R_FR13.raw": {
+    "Source Name": [
+      "TCGA-AA-3664-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3664-01A-22_FR13"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3664-01A-22_W_VU_20130124_A0218_9C_R_FR13.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR13"
+    ]
+  },
+  "TCGA-AA-3672-01A-22_W_VU_20121217_A0218_7J_R_FR03.raw": {
+    "Source Name": [
+      "TCGA-AA-3672-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3672-01A-22_FR03"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3672-01A-22_W_VU_20121217_A0218_7J_R_FR03.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR03"
+    ]
+  },
+  "TCGA-AA-3684-01A-31_W_VU_20121018_A0218_4H_R_FR12.raw": {
+    "Source Name": [
+      "TCGA-AA-3684-01A-31"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3684-01A-31_FR12"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3684-01A-31_W_VU_20121018_A0218_4H_R_FR12.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR12"
+    ]
+  },
+  "TCGA-AA-3558-01A-22_W_VU_20121112_A0218_6A_R_FR02.raw": {
+    "Source Name": [
+      "TCGA-AA-3558-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3558-01A-22_FR02"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3558-01A-22_W_VU_20121112_A0218_6A_R_FR02.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR02"
+    ]
+  },
+  "TCGA-AA-3695-01A-22_W_VU_20130131_A0218_9I_R_FR13.raw": {
+    "Source Name": [
+      "TCGA-AA-3695-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3695-01A-22_FR13"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3695-01A-22_W_VU_20130131_A0218_9I_R_FR13.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR13"
+    ]
+  },
+  "TCGA-AA-3561-01A-22_W_VU_20120808_A0218_1I_R_FR08.raw": {
+    "Source Name": [
+      "TCGA-AA-3561-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3561-01A-22_FR08"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3561-01A-22_W_VU_20120808_A0218_1I_R_FR08.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR08"
+    ]
+  },
+  "TCGA-AA-3710-01A-22_W_VU_20120827_A0218_2H_R_FR10.raw": {
+    "Source Name": [
+      "TCGA-AA-3710-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3710-01A-22_FR10"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3710-01A-22_W_VU_20120827_A0218_2H_R_FR10.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR10"
+    ]
+  },
+  "TCGA-AA-3558-01A-22_W_VU_20121113_A0218_6A_R_FR15.raw": {
+    "Source Name": [
+      "TCGA-AA-3558-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3558-01A-22_FR15"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3558-01A-22_W_VU_20121113_A0218_6A_R_FR15.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR15"
+    ]
+  },
+  "TCGA-AA-3666-01A-31_W_VU_20121102_A0218_5F_R_FR08.raw": {
+    "Source Name": [
+      "TCGA-AA-3666-01A-31"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3666-01A-31_FR08"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3666-01A-31_W_VU_20121102_A0218_5F_R_FR08.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR08"
+    ]
+  },
+  "TCGA-AA-3684-01A-31_W_VU_20121018_A0218_4H_R_FR04.raw": {
+    "Source Name": [
+      "TCGA-AA-3684-01A-31"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3684-01A-31_FR04"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3684-01A-31_W_VU_20121018_A0218_4H_R_FR04.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR04"
+    ]
+  },
+  "TCGA-AA-3695-01A-22_W_VU_20130131_A0218_9I_R_FR07.raw": {
+    "Source Name": [
+      "TCGA-AA-3695-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3695-01A-22_FR07"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3695-01A-22_W_VU_20130131_A0218_9I_R_FR07.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR07"
+    ]
+  },
+  "TCGA-AA-3710-01A-22_W_VU_20120827_A0218_2H_R_FR15.raw": {
+    "Source Name": [
+      "TCGA-AA-3710-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3710-01A-22_FR15"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3710-01A-22_W_VU_20120827_A0218_2H_R_FR15.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR15"
+    ]
+  },
+  "TCGA-AA-3554-01A-22_W_VU_20121123_A0218_6G_R_FR05.raw": {
+    "Source Name": [
+      "TCGA-AA-3554-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3554-01A-22_FR05"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3554-01A-22_W_VU_20121123_A0218_6G_R_FR05.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR05"
+    ]
+  },
+  "TCGA-AA-3695-01A-22_W_VU_20130131_A0218_9I_R_FR05.raw": {
+    "Source Name": [
+      "TCGA-AA-3695-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3695-01A-22_FR05"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3695-01A-22_W_VU_20130131_A0218_9I_R_FR05.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR05"
+    ]
+  },
+  "TCGA-AA-3558-01A-22_W_VU_20121112_A0218_6A_R_FR01.raw": {
+    "Source Name": [
+      "TCGA-AA-3558-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3558-01A-22_FR01"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3558-01A-22_W_VU_20121112_A0218_6A_R_FR01.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR01"
+    ]
+  },
+  "TCGA-AA-3715-01A-22_W_VU_20120821_A0218_2E_R_FR01.raw": {
+    "Source Name": [
+      "TCGA-AA-3715-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3715-01A-22_FR01"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3715-01A-22_W_VU_20120821_A0218_2E_R_FR01.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR01"
+    ]
+  },
+  "TCGA-AA-3561-01A-22_W_VU_20120809_A0218_1I_R_FR11.raw": {
+    "Source Name": [
+      "TCGA-AA-3561-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3561-01A-22_FR11"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3561-01A-22_W_VU_20120809_A0218_1I_R_FR11.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR11"
+    ]
+  },
+  "TCGA-AA-3561-01A-22_W_VU_20120809_A0218_1I_R_FR14.raw": {
+    "Source Name": [
+      "TCGA-AA-3561-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3561-01A-22_FR14"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3561-01A-22_W_VU_20120809_A0218_1I_R_FR14.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR14"
+    ]
+  },
+  "TCGA-AA-3561-01A-22_W_VU_20120808_A0218_1I_R_FR01.raw": {
+    "Source Name": [
+      "TCGA-AA-3561-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3561-01A-22_FR01"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3561-01A-22_W_VU_20120808_A0218_1I_R_FR01.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR01"
+    ]
+  },
+  "TCGA-AA-3715-01A-22_W_VU_20120822_A0218_2E_R_FR11.raw": {
+    "Source Name": [
+      "TCGA-AA-3715-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3715-01A-22_FR11"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3715-01A-22_W_VU_20120822_A0218_2E_R_FR11.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR11"
+    ]
+  },
+  "TCGA-AA-3666-01A-31_W_VU_20121102_A0218_5F_R_FR12.raw": {
+    "Source Name": [
+      "TCGA-AA-3666-01A-31"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3666-01A-31_FR12"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3666-01A-31_W_VU_20121102_A0218_5F_R_FR12.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR12"
+    ]
+  },
+  "TCGA-AA-3695-01A-22_W_VU_20130131_A0218_9I_R_FR06.raw": {
+    "Source Name": [
+      "TCGA-AA-3695-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3695-01A-22_FR06"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3695-01A-22_W_VU_20130131_A0218_9I_R_FR06.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR06"
+    ]
+  },
+  "TCGA-AA-3666-01A-31_W_VU_20121102_A0218_5F_R_FR13.raw": {
+    "Source Name": [
+      "TCGA-AA-3666-01A-31"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3666-01A-31_FR13"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3666-01A-31_W_VU_20121102_A0218_5F_R_FR13.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR13"
+    ]
+  },
+  "TCGA-AA-3664-01A-22_W_VU_20130124_A0218_9C_R_FR11.raw": {
+    "Source Name": [
+      "TCGA-AA-3664-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3664-01A-22_FR11"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3664-01A-22_W_VU_20130124_A0218_9C_R_FR11.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR11"
+    ]
+  },
+  "TCGA-AA-3666-01A-31_W_VU_20121101_A0218_5F_R_FR04.raw": {
+    "Source Name": [
+      "TCGA-AA-3666-01A-31"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3666-01A-31_FR04"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3666-01A-31_W_VU_20121101_A0218_5F_R_FR04.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR04"
+    ]
+  },
+  "TCGA-AA-3558-01A-22_W_VU_20121113_A0218_6A_R_FR14.raw": {
+    "Source Name": [
+      "TCGA-AA-3558-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3558-01A-22_FR14"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3558-01A-22_W_VU_20121113_A0218_6A_R_FR14.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR14"
+    ]
+  },
+  "TCGA-AA-3554-01A-22_W_VU_20121123_A0218_6G_R_FR15.raw": {
+    "Source Name": [
+      "TCGA-AA-3554-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3554-01A-22_FR15"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3554-01A-22_W_VU_20121123_A0218_6G_R_FR15.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR15"
+    ]
+  },
+  "TCGA-AA-3695-01A-22_W_VU_20130131_A0218_9I_R_FR11.raw": {
+    "Source Name": [
+      "TCGA-AA-3695-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3695-01A-22_FR11"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3695-01A-22_W_VU_20130131_A0218_9I_R_FR11.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR11"
+    ]
+  },
+  "TCGA-AA-3672-01A-22_W_VU_20121217_A0218_7J_R_FR09.raw": {
+    "Source Name": [
+      "TCGA-AA-3672-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3672-01A-22_FR09"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3672-01A-22_W_VU_20121217_A0218_7J_R_FR09.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR09"
+    ]
+  },
+  "TCGA-AA-3672-01A-22_W_VU_20121218_A0218_7J_R_FR03.raw": {
+    "Source Name": [
+      "TCGA-AA-3672-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3672-01A-22_FR03"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3672-01A-22_W_VU_20121218_A0218_7J_R_FR03.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR03"
+    ]
+  },
+  "TCGA-AA-3715-01A-22_W_VU_20120821_A0218_2E_R_FR01.raw": {
+    "Source Name": [
+      "TCGA-AA-3715-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3715-01A-22_FR01"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3715-01A-22_W_VU_20120821_A0218_2E_R_FR01.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR01"
+    ]
+  },
+  "TCGA-AA-3561-01A-22_W_VU_20120808_A0218_1I_R_FR06.raw": {
+    "Source Name": [
+      "TCGA-AA-3561-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3561-01A-22_FR06"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3561-01A-22_W_VU_20120808_A0218_1I_R_FR06.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR06"
+    ]
+  },
+  "TCGA-AA-3715-01A-22_W_VU_20120822_A0218_2E_R_FR07.raw": {
+    "Source Name": [
+      "TCGA-AA-3715-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3715-01A-22_FR07"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3715-01A-22_W_VU_20120822_A0218_2E_R_FR07.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR07"
+    ]
+  },
+  "TCGA-AA-3695-01A-22_W_VU_20130131_A0218_9I_R_FR09.raw": {
+    "Source Name": [
+      "TCGA-AA-3695-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3695-01A-22_FR09"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3695-01A-22_W_VU_20130131_A0218_9I_R_FR09.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR09"
+    ]
+  },
+  "TCGA-AA-3666-01A-31_W_VU_20121102_A0218_5F_R_FR10.raw": {
+    "Source Name": [
+      "TCGA-AA-3666-01A-31"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3666-01A-31_FR10"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3666-01A-31_W_VU_20121102_A0218_5F_R_FR10.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR10"
+    ]
+  },
+  "TCGA-AA-3561-01A-22_W_VU_20120809_A0218_1I_R_FR13.raw": {
+    "Source Name": [
+      "TCGA-AA-3561-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3561-01A-22_FR13"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3561-01A-22_W_VU_20120809_A0218_1I_R_FR13.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR13"
+    ]
+  },
+  "TCGA-AA-3684-01A-31_W_VU_20121018_A0218_4H_R_FR03.raw": {
+    "Source Name": [
+      "TCGA-AA-3684-01A-31"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3684-01A-31_FR03"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3684-01A-31_W_VU_20121018_A0218_4H_R_FR03.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR03"
+    ]
+  },
+  "TCGA-AA-3672-01A-22_W_VU_20121217_A0218_7J_R_FR04.raw": {
+    "Source Name": [
+      "TCGA-AA-3672-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3672-01A-22_FR04"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3672-01A-22_W_VU_20121217_A0218_7J_R_FR04.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR04"
+    ]
+  },
+  "TCGA-AA-3664-01A-22_W_VU_20130124_A0218_9C_R_FR09.raw": {
+    "Source Name": [
+      "TCGA-AA-3664-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3664-01A-22_FR09"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3664-01A-22_W_VU_20130124_A0218_9C_R_FR09.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR09"
+    ]
+  },
+  "TCGA-AA-3715-01A-22_W_VU_20120822_A0218_2E_R_FR14.raw": {
+    "Source Name": [
+      "TCGA-AA-3715-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3715-01A-22_FR14"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3715-01A-22_W_VU_20120822_A0218_2E_R_FR14.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR14"
+    ]
+  },
+  "TCGA-AA-3664-01A-22_W_VU_20130123_A0218_9C_R_FR06.raw": {
+    "Source Name": [
+      "TCGA-AA-3664-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3664-01A-22_FR06"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3664-01A-22_W_VU_20130123_A0218_9C_R_FR06.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR06"
+    ]
+  },
+  "TCGA-AA-3666-01A-31_W_VU_20121101_A0218_5F_R_FR02.raw": {
+    "Source Name": [
+      "TCGA-AA-3666-01A-31"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3666-01A-31_FR02"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3666-01A-31_W_VU_20121101_A0218_5F_R_FR02.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR02"
+    ]
+  },
+  "TCGA-AA-3558-01A-22_W_VU_20121112_A0218_6A_R_FR03.raw": {
+    "Source Name": [
+      "TCGA-AA-3558-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3558-01A-22_FR03"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3558-01A-22_W_VU_20121112_A0218_6A_R_FR03.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR03"
+    ]
+  },
+  "TCGA-AA-3715-01A-22_W_VU_20120821_A0218_2E_R_FR02.raw": {
+    "Source Name": [
+      "TCGA-AA-3715-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3715-01A-22_FR02"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3715-01A-22_W_VU_20120821_A0218_2E_R_FR02.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR02"
+    ]
+  },
+  "TCGA-AA-3695-01A-22_W_VU_20130131_A0218_9I_R_FR01.raw": {
+    "Source Name": [
+      "TCGA-AA-3695-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3695-01A-22_FR01"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3695-01A-22_W_VU_20130131_A0218_9I_R_FR01.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR01"
+    ]
+  },
+  "TCGA-AA-3695-01A-22_W_VU_20130131_A0218_9I_R_FR04.raw": {
+    "Source Name": [
+      "TCGA-AA-3695-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3695-01A-22_FR04"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3695-01A-22_W_VU_20130131_A0218_9I_R_FR04.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR04"
+    ]
+  },
+  "TCGA-AA-3695-01A-22_W_VU_20130131_A0218_9I_R_FR14.raw": {
+    "Source Name": [
+      "TCGA-AA-3695-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3695-01A-22_FR14"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3695-01A-22_W_VU_20130131_A0218_9I_R_FR14.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR14"
+    ]
+  },
+  "TCGA-AA-3561-01A-22_W_VU_20120808_A0218_1I_R_FR06.raw": {
+    "Source Name": [
+      "TCGA-AA-3561-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3561-01A-22_FR06"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3561-01A-22_W_VU_20120808_A0218_1I_R_FR06.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR06"
+    ]
+  },
+  "TCGA-AA-3715-01A-22_W_VU_20120822_A0218_2E_R_FR11.raw": {
+    "Source Name": [
+      "TCGA-AA-3715-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3715-01A-22_FR11"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3715-01A-22_W_VU_20120822_A0218_2E_R_FR11.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR11"
+    ]
+  },
+  "TCGA-AA-3695-01A-22_W_VU_20130131_A0218_9I_R_FR03.raw": {
+    "Source Name": [
+      "TCGA-AA-3695-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3695-01A-22_FR03"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3695-01A-22_W_VU_20130131_A0218_9I_R_FR03.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR03"
+    ]
+  },
+  "TCGA-AA-3715-01A-22_W_VU_20120822_A0218_2E_R_FR06.raw": {
+    "Source Name": [
+      "TCGA-AA-3715-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3715-01A-22_FR06"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3715-01A-22_W_VU_20120822_A0218_2E_R_FR06.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR06"
+    ]
+  },
+  "TCGA-AA-3695-01A-22_W_VU_20130201_A0218_9I_R_FR10.raw": {
+    "Source Name": [
+      "TCGA-AA-3695-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3695-01A-22_FR10"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3695-01A-22_W_VU_20130201_A0218_9I_R_FR10.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR10"
+    ]
+  },
+  "TCGA-AA-3666-01A-31_W_VU_20121101_A0218_5F_R_FR05.raw": {
+    "Source Name": [
+      "TCGA-AA-3666-01A-31"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3666-01A-31_FR05"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3666-01A-31_W_VU_20121101_A0218_5F_R_FR05.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR05"
+    ]
+  },
+  "TCGA-AA-3558-01A-22_W_VU_20121113_A0218_6A_R_FR11.raw": {
+    "Source Name": [
+      "TCGA-AA-3558-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3558-01A-22_FR11"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3558-01A-22_W_VU_20121113_A0218_6A_R_FR11.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR11"
+    ]
+  },
+  "TCGA-AA-3684-01A-31_W_VU_20121018_A0218_4H_R_FR09.raw": {
+    "Source Name": [
+      "TCGA-AA-3684-01A-31"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3684-01A-31_FR09"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3684-01A-31_W_VU_20121018_A0218_4H_R_FR09.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR09"
+    ]
+  },
+  "TCGA-AA-3684-01A-31_W_VU_20121018_A0218_4H_R_FR05.raw": {
+    "Source Name": [
+      "TCGA-AA-3684-01A-31"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3684-01A-31_FR05"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3684-01A-31_W_VU_20121018_A0218_4H_R_FR05.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR05"
+    ]
+  },
+  "TCGA-AA-3684-01A-31_W_VU_20121018_A0218_4H_R_FR11.raw": {
+    "Source Name": [
+      "TCGA-AA-3684-01A-31"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3684-01A-31_FR11"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3684-01A-31_W_VU_20121018_A0218_4H_R_FR11.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR11"
+    ]
+  },
+  "TCGA-AA-3695-01A-22_W_VU_20130131_A0218_9I_R_FR15.raw": {
+    "Source Name": [
+      "TCGA-AA-3695-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3695-01A-22_FR15"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3695-01A-22_W_VU_20130131_A0218_9I_R_FR15.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR15"
+    ]
+  },
+  "TCGA-AA-3554-01A-22_W_VU_20121123_A0218_6G_R_FR11.raw": {
+    "Source Name": [
+      "TCGA-AA-3554-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3554-01A-22_FR11"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3554-01A-22_W_VU_20121123_A0218_6G_R_FR11.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR11"
+    ]
+  },
+  "TCGA-AA-3554-01A-22_W_VU_20121123_A0218_6G_R_FR12.raw": {
+    "Source Name": [
+      "TCGA-AA-3554-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3554-01A-22_FR12"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3554-01A-22_W_VU_20121123_A0218_6G_R_FR12.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR12"
+    ]
+  },
+  "TCGA-AA-3561-01A-22_W_VU_20120808_A0218_1I_R_FR09.raw": {
+    "Source Name": [
+      "TCGA-AA-3561-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3561-01A-22_FR09"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3561-01A-22_W_VU_20120808_A0218_1I_R_FR09.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR09"
+    ]
+  },
+  "TCGA-AA-3554-01A-22_W_VU_20121123_A0218_6G_R_FR13.raw": {
+    "Source Name": [
+      "TCGA-AA-3554-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3554-01A-22_FR13"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3554-01A-22_W_VU_20121123_A0218_6G_R_FR13.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR13"
+    ]
+  },
+  "TCGA-AA-3554-01A-22_W_VU_20121122_A0218_6G_R_FR02.raw": {
+    "Source Name": [
+      "TCGA-AA-3554-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3554-01A-22_FR02"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3554-01A-22_W_VU_20121122_A0218_6G_R_FR02.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR02"
+    ]
+  },
+  "TCGA-AA-3554-01A-22_W_VU_20121122_A0218_6G_R_FR03.raw": {
+    "Source Name": [
+      "TCGA-AA-3554-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3554-01A-22_FR03"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3554-01A-22_W_VU_20121122_A0218_6G_R_FR03.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR03"
+    ]
+  },
+  "TCGA-AA-3664-01A-22_W_VU_20130123_A0218_9C_R_FR05.raw": {
+    "Source Name": [
+      "TCGA-AA-3664-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3664-01A-22_FR05"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3664-01A-22_W_VU_20130123_A0218_9C_R_FR05.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR05"
+    ]
+  },
+  "TCGA-AA-3666-01A-31_W_VU_20121102_A0218_5F_R_FR14.raw": {
+    "Source Name": [
+      "TCGA-AA-3666-01A-31"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3666-01A-31_FR14"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3666-01A-31_W_VU_20121102_A0218_5F_R_FR14.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR14"
+    ]
+  },
+  "TCGA-AA-3554-01A-22_W_VU_20121123_A0218_6G_R_FR04.raw": {
+    "Source Name": [
+      "TCGA-AA-3554-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3554-01A-22_FR04"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3554-01A-22_W_VU_20121123_A0218_6G_R_FR04.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR04"
+    ]
+  },
+  "TCGA-AA-3672-01A-22_W_VU_20121218_A0218_7J_R_FR13.raw": {
+    "Source Name": [
+      "TCGA-AA-3672-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3672-01A-22_FR13"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3672-01A-22_W_VU_20121218_A0218_7J_R_FR13.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR13"
+    ]
+  },
+  "TCGA-AA-3554-01A-22_W_VU_20121123_A0218_6G_R_FR09.raw": {
+    "Source Name": [
+      "TCGA-AA-3554-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3554-01A-22_FR09"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3554-01A-22_W_VU_20121123_A0218_6G_R_FR09.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR09"
+    ]
+  },
+  "TCGA-AA-3558-01A-22_W_VU_20121112_A0218_6A_R_FR05.raw": {
+    "Source Name": [
+      "TCGA-AA-3558-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3558-01A-22_FR05"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3558-01A-22_W_VU_20121112_A0218_6A_R_FR05.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR05"
+    ]
+  },
+  "TCGA-AA-3554-01A-22_W_VU_20121123_A0218_6G_R_FR06.raw": {
+    "Source Name": [
+      "TCGA-AA-3554-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3554-01A-22_FR06"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3554-01A-22_W_VU_20121123_A0218_6G_R_FR06.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR06"
+    ]
+  },
+  "TCGA-AA-3710-01A-22_W_VU_20120827_A0218_2H_R_FR09.raw": {
+    "Source Name": [
+      "TCGA-AA-3710-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3710-01A-22_FR09"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3710-01A-22_W_VU_20120827_A0218_2H_R_FR09.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR09"
+    ]
+  },
+  "TCGA-AA-3666-01A-31_W_VU_20121101_A0218_5F_R_FR03.raw": {
+    "Source Name": [
+      "TCGA-AA-3666-01A-31"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3666-01A-31_FR03"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3666-01A-31_W_VU_20121101_A0218_5F_R_FR03.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR03"
+    ]
+  },
+  "TCGA-AA-3710-01A-22_W_VU_20120827_A0218_2H_R_FR12.raw": {
+    "Source Name": [
+      "TCGA-AA-3710-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3710-01A-22_FR12"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3710-01A-22_W_VU_20120827_A0218_2H_R_FR12.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR12"
+    ]
+  },
+  "TCGA-AA-3558-01A-22_W_VU_20121112_A0218_6A_R_FR04.raw": {
+    "Source Name": [
+      "TCGA-AA-3558-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3558-01A-22_FR04"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3558-01A-22_W_VU_20121112_A0218_6A_R_FR04.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR04"
+    ]
+  },
+  "TCGA-AA-3715-01A-22_W_VU_20120822_A0218_2E_R_FR10.raw": {
+    "Source Name": [
+      "TCGA-AA-3715-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3715-01A-22_FR10"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3715-01A-22_W_VU_20120822_A0218_2E_R_FR10.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR10"
+    ]
+  },
+  "TCGA-AA-3558-01A-22_W_VU_20121113_A0218_6A_R_FR13.raw": {
+    "Source Name": [
+      "TCGA-AA-3558-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3558-01A-22_FR13"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3558-01A-22_W_VU_20121113_A0218_6A_R_FR13.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR13"
+    ]
+  },
+  "TCGA-AA-3715-01A-22_W_VU_20120821_A0218_2E_R_FR04.raw": {
+    "Source Name": [
+      "TCGA-AA-3715-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3715-01A-22_FR04"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3715-01A-22_W_VU_20120821_A0218_2E_R_FR04.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR04"
+    ]
+  },
+  "TCGA-AA-3672-01A-22_W_VU_20121217_A0218_7J_R_FR07.raw": {
+    "Source Name": [
+      "TCGA-AA-3672-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3672-01A-22_FR07"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3672-01A-22_W_VU_20121217_A0218_7J_R_FR07.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR07"
+    ]
+  },
+  "TCGA-AA-3561-01A-22_W_VU_20120809_A0218_1I_R_FR15.raw": {
+    "Source Name": [
+      "TCGA-AA-3561-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3561-01A-22_FR15"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3561-01A-22_W_VU_20120809_A0218_1I_R_FR15.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR15"
+    ]
+  },
+  "TCGA-AA-3554-01A-22_W_VU_20121123_A0218_6G_R_FR10.raw": {
+    "Source Name": [
+      "TCGA-AA-3554-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3554-01A-22_FR10"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3554-01A-22_W_VU_20121123_A0218_6G_R_FR10.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR10"
+    ]
+  },
+  "TCGA-AA-3672-01A-22_W_VU_20121218_A0218_7J_R_FR11.raw": {
+    "Source Name": [
+      "TCGA-AA-3672-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3672-01A-22_FR11"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3672-01A-22_W_VU_20121218_A0218_7J_R_FR11.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR11"
+    ]
+  },
+  "TCGA-AA-3554-01A-22_W_VU_20121123_A0218_6G_R_FR07.raw": {
+    "Source Name": [
+      "TCGA-AA-3554-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3554-01A-22_FR07"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3554-01A-22_W_VU_20121123_A0218_6G_R_FR07.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR07"
+    ]
+  },
+  "TCGA-AA-3664-01A-22_W_VU_20130124_A0218_9C_R_FR14.raw": {
+    "Source Name": [
+      "TCGA-AA-3664-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3664-01A-22_FR14"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3664-01A-22_W_VU_20130124_A0218_9C_R_FR14.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR14"
+    ]
+  },
+  "TCGA-AA-3666-01A-31_W_VU_20121102_A0218_5F_R_FR15.raw": {
+    "Source Name": [
+      "TCGA-AA-3666-01A-31"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3666-01A-31_FR15"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3666-01A-31_W_VU_20121102_A0218_5F_R_FR15.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR15"
+    ]
+  },
+  "TCGA-AA-3710-01A-22_W_VU_20120827_A0218_2H_R_FR01.raw": {
+    "Source Name": [
+      "TCGA-AA-3710-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3710-01A-22_FR01"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3710-01A-22_W_VU_20120827_A0218_2H_R_FR01.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR01"
+    ]
+  },
+  "TCGA-AA-3715-01A-22_W_VU_20120822_A0218_2E_R_FR15.raw": {
+    "Source Name": [
+      "TCGA-AA-3715-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3715-01A-22_FR15"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3715-01A-22_W_VU_20120822_A0218_2E_R_FR15.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR15"
+    ]
+  },
+  "TCGA-AA-3684-01A-31_W_VU_20121018_A0218_4H_R_FR15.raw": {
+    "Source Name": [
+      "TCGA-AA-3684-01A-31"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3684-01A-31_FR15"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3684-01A-31_W_VU_20121018_A0218_4H_R_FR15.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR15"
+    ]
+  },
+  "TCGA-AA-3561-01A-22_W_VU_20120808_A0218_1I_R_FR07.raw": {
+    "Source Name": [
+      "TCGA-AA-3561-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3561-01A-22_FR07"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3561-01A-22_W_VU_20120808_A0218_1I_R_FR07.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR07"
+    ]
+  },
+  "TCGA-AA-3684-01A-31_W_VU_20121018_A0218_4H_R_FR01.raw": {
+    "Source Name": [
+      "TCGA-AA-3684-01A-31"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3684-01A-31_FR01"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3684-01A-31_W_VU_20121018_A0218_4H_R_FR01.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR01"
+    ]
+  },
+  "TCGA-AA-3672-01A-22_W_VU_20121217_A0218_7J_R_FR05.raw": {
+    "Source Name": [
+      "TCGA-AA-3672-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3672-01A-22_FR05"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3672-01A-22_W_VU_20121217_A0218_7J_R_FR05.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR05"
+    ]
+  },
+  "TCGA-AA-3695-01A-22_W_VU_20130131_A0218_9I_R_FR08.raw": {
+    "Source Name": [
+      "TCGA-AA-3695-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3695-01A-22_FR08"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3695-01A-22_W_VU_20130131_A0218_9I_R_FR08.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR08"
+    ]
+  },
+  "TCGA-AA-3664-01A-22_W_VU_20130124_A0218_9C_R_FR12.raw": {
+    "Source Name": [
+      "TCGA-AA-3664-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3664-01A-22_FR12"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3664-01A-22_W_VU_20130124_A0218_9C_R_FR12.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR12"
+    ]
+  },
+  "TCGA-AA-3684-01A-31_W_VU_20121018_A0218_4H_R_FR02.raw": {
+    "Source Name": [
+      "TCGA-AA-3684-01A-31"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3684-01A-31_FR02"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3684-01A-31_W_VU_20121018_A0218_4H_R_FR02.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR02"
+    ]
+  },
+  "TCGA-AA-3710-01A-22_W_VU_20120827_A0218_2H_R_FR05.raw": {
+    "Source Name": [
+      "TCGA-AA-3710-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3710-01A-22_FR05"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3710-01A-22_W_VU_20120827_A0218_2H_R_FR05.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR05"
+    ]
+  },
+  "TCGA-AA-3558-01A-22_W_VU_20121112_A0218_6A_R_FR08.raw": {
+    "Source Name": [
+      "TCGA-AA-3558-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3558-01A-22_FR08"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3558-01A-22_W_VU_20121112_A0218_6A_R_FR08.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR08"
+    ]
+  },
+  "TCGA-AA-3672-01A-22_W_VU_20121218_A0218_7J_R_FR15.raw": {
+    "Source Name": [
+      "TCGA-AA-3672-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3672-01A-22_FR15"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3672-01A-22_W_VU_20121218_A0218_7J_R_FR15.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR15"
+    ]
+  },
+  "TCGA-AA-3710-01A-22_W_VU_20120827_A0218_2H_R_FR11.raw": {
+    "Source Name": [
+      "TCGA-AA-3710-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3710-01A-22_FR11"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3710-01A-22_W_VU_20120827_A0218_2H_R_FR11.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR11"
+    ]
+  },
+  "TCGA-AA-3672-01A-22_W_VU_20121217_A0218_7J_R_FR02.raw": {
+    "Source Name": [
+      "TCGA-AA-3672-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3672-01A-22_FR02"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3672-01A-22_W_VU_20121217_A0218_7J_R_FR02.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR02"
+    ]
+  },
+  "TCGA-AA-3715-01A-22_W_VU_20120821_A0218_2E_R_FR03.raw": {
+    "Source Name": [
+      "TCGA-AA-3715-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3715-01A-22_FR03"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3715-01A-22_W_VU_20120821_A0218_2E_R_FR03.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR03"
+    ]
+  },
+  "TCGA-AA-3664-01A-22_W_VU_20130123_A0218_9C_R_FR08.raw": {
+    "Source Name": [
+      "TCGA-AA-3664-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3664-01A-22_FR08"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3664-01A-22_W_VU_20130123_A0218_9C_R_FR08.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR08"
+    ]
+  },
+  "TCGA-AA-3558-01A-22_W_VU_20121112_A0218_6A_R_FR06.raw": {
+    "Source Name": [
+      "TCGA-AA-3558-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3558-01A-22_FR06"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3558-01A-22_W_VU_20121112_A0218_6A_R_FR06.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR06"
+    ]
+  },
+  "TCGA-AA-3664-01A-22_W_VU_20130124_A0218_9C_R_FR15.raw": {
+    "Source Name": [
+      "TCGA-AA-3664-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3664-01A-22_FR15"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3664-01A-22_W_VU_20130124_A0218_9C_R_FR15.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR15"
+    ]
+  },
+  "TCGA-AA-3561-01A-22_W_VU_20120809_A0218_1I_R_FR12.raw": {
+    "Source Name": [
+      "TCGA-AA-3561-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3561-01A-22_FR12"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3561-01A-22_W_VU_20120809_A0218_1I_R_FR12.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR12"
+    ]
+  },
+  "TCGA-AA-3558-01A-22_W_VU_20121113_A0218_6A_R_FR12.raw": {
+    "Source Name": [
+      "TCGA-AA-3558-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3558-01A-22_FR12"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3558-01A-22_W_VU_20121113_A0218_6A_R_FR12.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR12"
+    ]
+  },
+  "TCGA-AA-3672-01A-22_W_VU_20121217_A0218_7J_R_FR01.raw": {
+    "Source Name": [
+      "TCGA-AA-3672-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3672-01A-22_FR01"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3672-01A-22_W_VU_20121217_A0218_7J_R_FR01.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR01"
+    ]
+  },
+  "TCGA-AA-3710-01A-22_W_VU_20120827_A0218_2H_R_FR03.raw": {
+    "Source Name": [
+      "TCGA-AA-3710-01A-22"
+    ], 
+    "Assay Name": [
+      "TCGA-AA-3710-01A-22_FR03"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3710-01A-22_W_VU_20120827_A0218_2H_R_FR03.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR03"
+    ]
+  },
+  "TCGA-AA-3664-01A-22_W_VU_20130123_A0218_9C_R_FR04.raw": {
+    "Source Name": [
+      "TCGA-AA-3664-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3664-01A-22_FR04"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3664-01A-22_W_VU_20130123_A0218_9C_R_FR04.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR04"
+    ]
+  },
+  "TCGA-AA-3561-01A-22_W_VU_20120808_A0218_1I_R_FR05.raw": {
+    "Source Name": [
+      "TCGA-AA-3561-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3561-01A-22_FR05"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3561-01A-22_W_VU_20120808_A0218_1I_R_FR05.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR05"
+    ]
+  },
+  "TCGA-AA-3684-01A-31_W_VU_20121018_A0218_4H_R_FR14.raw": {
+    "Source Name": [
+      "TCGA-AA-3684-01A-31"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3684-01A-31_FR14"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3684-01A-31_W_VU_20121018_A0218_4H_R_FR14.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR14"
+    ]
+  },
+  "TCGA-AA-3695-01A-22_W_VU_20130131_A0218_9I_R_FR12.raw": {
+    "Source Name": [
+      "TCGA-AA-3695-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3695-01A-22_FR12"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3695-01A-22_W_VU_20130131_A0218_9I_R_FR12.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR12"
+    ]
+  },
+  "TCGA-AA-3710-01A-22_W_VU_20120827_A0218_2H_R_FR04.raw": {
+    "Source Name": [
+      "TCGA-AA-3710-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3710-01A-22_FR04"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3710-01A-22_W_VU_20120827_A0218_2H_R_FR04.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR04"
+    ]
+  },
+  "TCGA-AA-3666-01A-31_W_VU_20121102_A0218_5F_R_FR07.raw": {
+    "Source Name": [
+      "TCGA-AA-3666-01A-31"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3666-01A-31_FR07"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3666-01A-31_W_VU_20121102_A0218_5F_R_FR07.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR07"
+    ]
+  },
+  "TCGA-AA-3710-01A-22_W_VU_20120827_A0218_2H_R_FR06.raw": {
+    "Source Name": [
+      "TCGA-AA-3710-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3710-01A-22_FR06"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3710-01A-22_W_VU_20120827_A0218_2H_R_FR06.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR06"
+    ]
+  },
+  "TCGA-AA-3561-01A-22_W_VU_20120809_A0218_1I_R_FR10.raw": {
+    "Source Name": [
+      "TCGA-AA-3561-01A-22"
+    ],
+    "Assay Name": [
+      "TCGA-AA-3561-01A-22_FR10"
+    ],
+    "Raw Data File": [
+      "TCGA-AA-3561-01A-22_W_VU_20120809_A0218_1I_R_FR10.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[Disease]": [
+      "colon and rectal cancer"
+    ],
+    "Characteristics[Specimen]": [
+      "tumor samples"
+    ],
+    "Characteristics[MaterialType]": [
+      "Tissue proteins were extracted"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic peptide digests"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multidimensional liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[FractionIdentifier]": [
+      "FR10"
+    ]
+  }
+}

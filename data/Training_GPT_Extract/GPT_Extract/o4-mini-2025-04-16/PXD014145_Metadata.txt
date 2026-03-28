@@ -1,0 +1,61 @@
+CellLine: A549  
+CellLine: PC-9  
+CellLine: NCI-H2087  
+CellLine: NCI-H82  
+CellLine: GLC-2  
+CellLine: IMR-90  
+CellLine: CRL-7000  
+ConcentrationOfCompound: 1 mM sodium pyruvate  
+ConcentrationOfCompound: 50 µM 2-mercaptoethanol  
+ConcentrationOfCompound: 10% foetal calf serum  
+ConcentrationOfCompound: 65 nM  
+ConcentrationOfCompound: 50 nM  
+Instrument: Minilys homogenizer  
+ConcentrationOfCompound: 1 mM EDTA  
+ConcentrationOfCompound: 50 mM Tris–HCL pH7.5  
+ConcentrationOfCompound: SDS 0.1%  
+ConcentrationOfCompound: NaCl 150 mM  
+ConcentrationOfCompound: NP-40 1%  
+ConcentrationOfCompound: Na deoxycholate 1%  
+ConcentrationOfCompound: 0.1% NP-40/PBS  
+ConcentrationOfCompound: 50 mM Tris–HCl (pH8)  
+ConcentrationOfCompound: 170 mM NaCl  
+ConcentrationOfCompound: 0.1% NP-40  
+ConcentrationOfCompound: 0.2 mM DTT  
+ConcentrationOfCompound: 20% glycerol  
+Separation: 15% acrylamide gel  
+ConcentrationOfCompound: 0.5% Triton-x-100  
+ConcentrationOfCompound: 0.02% NaN3  
+ConcentrationOfCompound: 0.2 N HCl  
+Separation: 18% acrylamide gel  
+Instrument: xCELLigence RTCA system  
+Staining: Trypan Blue staining  
+Instrument: LUNA™ Automated Cell Counter  
+ConcentrationOfCompound: 2% FCS  
+ConcentrationOfCompound: 2 mM EDTA  
+Instrument: BD LSR-Fortessa Cell Analyzer  
+Instrument: Nanodrop ND-1000  
+ConcentrationOfCompound: 0.1% RapiGest SF  
+ConcentrationOfCompound: 0.1 M HEPES pH 8.0  
+ConcentrationOfCompound: 10 µM trans-epoxysuccinyl-l-leucylamido (4-guanidino)butane  
+ConcentrationOfCompound: 10 µM E64d  
+ConcentrationOfCompound: 10 mM phenylmethanesulfonyl fluoride  
+ConcentrationOfCompound: 5 mM EDTA  
+ReductionReagent: dithiothreitol (DTT)  
+AlkylationReagent: 2-iodoacetamide (IAM)  
+CleavageAgent: trypsin  
+ConcentrationOfCompound: 2% TFA  
+SyntheticPeptide: 11 synthetic peptides  
+Label: TMT-10-plex  
+FractionationMethod: high pH reversed phase chromatography  
+GradientTime: 45 min  
+Temperature: − 80 °C  
+Instrument: EASY-nLC™ 1000 UHPLC system  
+Instrument: Q-Exactive Plus mass spectrometer  
+AcquisitionMethod: data dependent acquisition  
+CollisionEnergy: 32  
+PrecursorMassTolerance: 1.2 m/z  
+SupplementaryFile: PXD014145  
+Modification: Protein N-term acetylation  
+Modification: oxidation of methionine  
+Modification: carbamidomethylation of cysteine

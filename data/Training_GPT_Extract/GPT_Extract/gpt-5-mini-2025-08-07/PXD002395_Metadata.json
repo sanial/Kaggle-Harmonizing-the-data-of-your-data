@@ -1,0 +1,5234 @@
+{
+  "20100618_Velos1_TaGe_SA_U2OS_6.raw": {
+    "Source Name": [
+      "U2OS"
+    ],
+    "Assay Name": [
+      "U2OS_6"
+    ],
+    "Raw Data File": [
+      "20100618_Velos1_TaGe_SA_U2OS_6.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "U2OS"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "6"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100609_Velos1_TaGe_SA_293_1.raw": {
+    "Source Name": [
+      "293"
+    ],
+    "Assay Name": [
+      "293_1"
+    ],
+    "Raw Data File": [
+      "20100609_Velos1_TaGe_SA_293_1.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "293"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "1"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100730_Velos1_TaGe_SA_Jurkat_01.raw": {
+    "Source Name": [
+      "Jurkat"
+    ],
+    "Assay Name": [
+      "Jurkat_01"
+    ],
+    "Raw Data File": [
+      "20100730_Velos1_TaGe_SA_Jurkat_01.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Jurkat"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "01"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100609_Velos1_TaGe_SA_GAMG_5.raw": {
+    "Source Name": [
+      "GAMG"
+    ],
+    "Assay Name": [
+      "GAMG_5"
+    ],
+    "Raw Data File": [
+      "20100609_Velos1_TaGe_SA_GAMG_5.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "GAMG"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "5"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100730_Velos1_TaGe_SA_K565_5.raw": {
+    "Source Name": [
+      "K565"
+    ],
+    "Assay Name": [
+      "K565_5"
+    ],
+    "Raw Data File": [
+      "20100730_Velos1_TaGe_SA_K565_5.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "K565"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "5"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100730_Velos1_TaGe_SA_Jurkat_06_100731121305.raw": {
+    "Source Name": [
+      "Jurkat"
+    ],
+    "Assay Name": [
+      "Jurkat_06"
+    ],
+    "Raw Data File": [
+      "20100730_Velos1_TaGe_SA_Jurkat_06_100731121305.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Jurkat"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "06"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100721_Velos1_TaGe_SA_U2OS_4.raw": {
+    "Source Name": [
+      "U2OS"
+    ],
+    "Assay Name": [
+      "U2OS_4"
+    ],
+    "Raw Data File": [
+      "20100721_Velos1_TaGe_SA_U2OS_4.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "U2OS"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "4"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100616_Velos1_TaGe_SA_MCF7_6.raw": {
+    "Source Name": [
+      "MCF7"
+    ],
+    "Assay Name": [
+      "MCF7_6"
+    ],
+    "Raw Data File": [
+      "20100616_Velos1_TaGe_SA_MCF7_6.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF7"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "6"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20101227_Velos1_TaGe_SA_GAMG5.raw": {
+    "Source Name": [
+      "GAMG5"
+    ],
+    "Assay Name": [
+      "GAMG5_run"
+    ],
+    "Raw Data File": [
+      "20101227_Velos1_TaGe_SA_GAMG5.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "GAMG5"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100616_Velos1_TaGe_SA_RKO_3.raw": {
+    "Source Name": [
+      "RKO"
+    ],
+    "Assay Name": [
+      "RKO_3"
+    ],
+    "Raw Data File": [
+      "20100616_Velos1_TaGe_SA_RKO_3.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "RKO"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "3"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100611_Velos1_TaGe_SA_HepG2_5.raw": {
+    "Source Name": [
+      "HepG2"
+    ],
+    "Assay Name": [
+      "HepG2_5"
+    ],
+    "Raw Data File": [
+      "20100611_Velos1_TaGe_SA_HepG2_5.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HepG2"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "5"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100616_Velos1_TaGe_SA_RKO_1.raw": {
+    "Source Name": [
+      "RKO"
+    ],
+    "Assay Name": [
+      "RKO_1"
+    ],
+    "Raw Data File": [
+      "20100616_Velos1_TaGe_SA_RKO_1.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "RKO"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "1"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20101222_Velos1_TaGe_SA_K562_01.raw": {
+    "Source Name": [
+      "K562"
+    ],
+    "Assay Name": [
+      "K562_01"
+    ],
+    "Raw Data File": [
+      "20101222_Velos1_TaGe_SA_K562_01.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "K562"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "01"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20101227_Velos1_TaGe_SA_HEK293_03.raw": {
+    "Source Name": [
+      "HEK293"
+    ],
+    "Assay Name": [
+      "HEK293_03"
+    ],
+    "Raw Data File": [
+      "20101227_Velos1_TaGe_SA_HEK293_03.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "03"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20101224_Velos1_TaGe_SA_HepG2_5.raw": {
+    "Source Name": [
+      "HepG2"
+    ],
+    "Assay Name": [
+      "HepG2_5"
+    ],
+    "Raw Data File": [
+      "20101224_Velos1_TaGe_SA_HepG2_5.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HepG2"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "5"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100611_Velos1_TaGe_SA_Hela_2.raw": {
+    "Source Name": [
+      "Hela"
+    ],
+    "Assay Name": [
+      "Hela_2"
+    ],
+    "Raw Data File": [
+      "20100611_Velos1_TaGe_SA_Hela_2.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Hela"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "2"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100719_Velos1_TaGe_SA_MCF7_03.raw": {
+    "Source Name": [
+      "MCF7"
+    ],
+    "Assay Name": [
+      "MCF7_03"
+    ],
+    "Raw Data File": [
+      "20100719_Velos1_TaGe_SA_MCF7_03.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF7"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "03"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100611_Velos1_TaGe_SA_Hela_3.raw": {
+    "Source Name": [
+      "Hela"
+    ],
+    "Assay Name": [
+      "Hela_3"
+    ],
+    "Raw Data File": [
+      "20100611_Velos1_TaGe_SA_Hela_3.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Hela"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "3"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100723_Velos1_TaGe_SA_Gamg_6.raw": {
+    "Source Name": [
+      "Gamg"
+    ],
+    "Assay Name": [
+      "Gamg_6"
+    ],
+    "Raw Data File": [
+      "20100723_Velos1_TaGe_SA_Gamg_6.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Gamg"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "6"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100618_Velos1_TaGe_SA_LanCap_4.raw": {
+    "Source Name": [
+      "LanCap"
+    ],
+    "Assay Name": [
+      "LanCap_4"
+    ],
+    "Raw Data File": [
+      "20100618_Velos1_TaGe_SA_LanCap_4.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "LanCap"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "4"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100616_Velos1_TaGe_SA_RKO_6.raw": {
+    "Source Name": [
+      "RKO"
+    ],
+    "Assay Name": [
+      "RKO_6"
+    ],
+    "Raw Data File": [
+      "20100616_Velos1_TaGe_SA_RKO_6.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "RKO"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "6"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100616_Velos1_TaGe_SA_MCF7_5.raw": {
+    "Source Name": [
+      "MCF7"
+    ],
+    "Assay Name": [
+      "MCF7_5"
+    ],
+    "Raw Data File": [
+      "20100616_Velos1_TaGe_SA_MCF7_5.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF7"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "5"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100614_Velos1_TaGe_SA_K562_6.raw": {
+    "Source Name": [
+      "K562"
+    ],
+    "Assay Name": [
+      "K562_6"
+    ],
+    "Raw Data File": [
+      "20100614_Velos1_TaGe_SA_K562_6.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "K562"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "6"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100801_Velos1_TaGe_SA_RKO_03.raw": {
+    "Source Name": [
+      "RKO"
+    ],
+    "Assay Name": [
+      "RKO_03"
+    ],
+    "Raw Data File": [
+      "20100801_Velos1_TaGe_SA_RKO_03.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "RKO"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+       "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "03"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100805_Velos1_TaGe_SA_RKO_05.raw": {
+    "Source Name": [
+      "RKO"
+    ],
+    "Assay Name": [
+      "RKO_05"
+    ],
+    "Raw Data File": [
+      "20100805_Velos1_TaGe_SA_RKO_05.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "RKO"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "05"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100726_Velos1_TaGe_SA_HepG2_3.raw": {
+    "Source Name": [
+      "HepG2"
+    ],
+    "Assay Name": [
+      "HepG2_3"
+    ],
+    "Raw Data File": [
+      "20100726_Velos1_TaGe_SA_HepG2_3.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HepG2"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "3"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100723_Velos1_TaGe_SA_Hek293_02.raw": {
+    "Source Name": [
+      "Hek293"
+    ],
+    "Assay Name": [
+      "Hek293_02"
+    ],
+    "Raw Data File": [
+      "20100723_Velos1_TaGe_SA_Hek293_02.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Hek293"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "02"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20101227_Velos1_TaGe_SA_GAMG2_101229143203.raw": {
+    "Source Name": [
+      "GAMG2"
+    ],
+    "Assay Name": [
+      "GAMG2_101229143203"
+    ],
+    "Raw Data File": [
+      "20101227_Velos1_TaGe_SA_GAMG2_101229143203.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "GAMG2"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "101229143203"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20101210_Velos1_AnWe_SA_MCF7_6.raw": {
+    "Source Name": [
+      "MCF7"
+    ],
+    "Assay Name": [
+      "MCF7_6"
+    ],
+    "Raw Data File": [
+      "20101210_Velos1_AnWe_SA_MCF7_6.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF7"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "6"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100611_Velos1_TaGe_SA_HepG2_3.raw": {
+    "Source Name": [
+      "HepG2"
+    ],
+    "Assay Name": [
+      "HepG2_3"
+    ],
+    "Raw Data File": [
+      "20100611_Velos1_TaGe_SA_HepG2_3.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HepG2"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "3"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100721_Velos1_TaGe_SA_A549_02.raw": {
+    "Source Name": [
+      "A549"
+    ],
+    "Assay Name": [
+      "A549_02"
+    ],
+    "Raw Data File": [
+      "20100721_Velos1_TaGe_SA_A549_02.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "A549"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "02"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100726_Velos1_TaGe_SA_HepG2_2.raw": {
+    "Source Name": [
+      "HepG2"
+    ],
+    "Assay Name": [
+      "HepG2_2"
+    ],
+    "Raw Data File": [
+      "20100726_Velos1_TaGe_SA_HepG2_2.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HepG2"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "2"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20101210_Velos1_AnWe_SA_LnCap_6.raw": {
+    "Source Name": [
+      "LnCap"
+    ],
+    "Assay Name": [
+      "LnCap_6"
+    ],
+    "Raw Data File": [
+      "20101210_Velos1_AnWe_SA_LnCap_6.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "LnCap"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "6"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100611_Velos1_TaGe_SA_Hela_4.raw": {
+    "Source Name": [
+      "Hela"
+    ],
+    "Assay Name": [
+      "Hela_4"
+    ],
+    "Raw Data File": [
+      "20100611_Velos1_TaGe_SA_Hela_4.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Hela"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "4"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100614_Velos1_TaGe_SA_Jurkat_1.raw": {
+    "Source Name": [
+      "Jurkat"
+    ],
+    "Assay Name": [
+      "Jurkat_1"
+    ],
+    "Raw Data File": [
+      "20100614_Velos1_TaGe_SA_Jurkat_1.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Jurkat"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "1"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100719_Velos1_TaGe_SA_MCF7_05.raw": {
+    "Source Name": [
+      "MCF7"
+    ],
+    "Assay Name": [
+      "MCF7_05"
+    ],
+    "Raw Data File": [
+      "20100719_Velos1_TaGe_SA_MCF7_05.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF7"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "05"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100616_Velos1_TaGe_SA_MCF7_4.raw": {
+    "Source Name": [
+      "MCF7"
+    ],
+    "Assay Name": [
+      "MCF7_4"
+    ],
+    "Raw Data File": [
+      "20100616_Velos1_TaGe_SA_MCF7_4.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF7"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "4"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20101224_Velos1_TaGe_SA_HeLa_01.raw": {
+    "Source Name": [
+      "HeLa"
+    ],
+    "Assay Name": [
+      "HeLa_01"
+    ],
+    "Raw Data File": [
+      "20101224_Velos1_TaGe_SA_HeLa_01.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HeLa"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "01"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100604_Velos1_TaGe_SA_A549_4.raw": {
+    "Source Name": [
+      "A549"
+    ],
+    "Assay Name": [
+      "A549_4"
+    ],
+    "Raw Data File": [
+      "20100604_Velos1_TaGe_SA_A549_4.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "A549"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "4"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100805_Velos1_TaGe_SA_RKO_06.raw": {
+    "Source Name": [
+      "RKO"
+    ],
+    "Assay Name": [
+      "RKO_06"
+    ],
+    "Raw Data File": [
+      "20100805_Velos1_TaGe_SA_RKO_06.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "RKO"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "06"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100719_Velos1_TaGe_SA_LnCap_6.raw": {
+    "Source Name": [
+      "LnCap"
+    ],
+    "Assay Name": [
+      "LnCap_6"
+    ],
+    "Raw Data File": [
+      "20100719_Velos1_TaGe_SA_LnCap_6.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "LnCap"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "6"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100730_Velos1_TaGe_SA_Jurkat_03.raw": {
+    "Source Name": [
+      "Jurkat"
+    ],
+    "Assay Name": [
+      "Jurkat_03"
+    ],
+    "Raw Data File": [
+      "20100730_Velos1_TaGe_SA_Jurkat_03.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Jurkat"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "03"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20101210_Velos1_AnWe_SA_LnCap_3.raw": {
+    "Source Name": [
+      "LnCap"
+    ],
+    "Assay Name": [
+      "LnCap_3"
+    ],
+    "Raw Data File": [
+      "20101210_Velos1_AnWe_SA_LnCap_3.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "LnCap"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "3"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100723_Velos1_TaGe_SA_Hek293_06.raw": {
+    "Source Name": [
+      "Hek293"
+    ],
+    "Assay Name": [
+      "Hek293_06"
+    ],
+    "Raw Data File": [
+      "20100723_Velos1_TaGe_SA_Hek293_06.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Hek293"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "06"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20101210_Velos1_AnWe_SA_U2OS_2.raw": {
+    "Source Name": [
+      "U2OS"
+    ],
+    "Assay Name": [
+      "U2OS_2"
+    ],
+    "Raw Data File": [
+      "20101210_Velos1_AnWe_SA_U2OS_2.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "U2OS"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "2"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100723_Velos1_TaGe_SA_Gamg_3.raw": {
+    "Source Name": [
+      "Gamg"
+    ],
+    "Assay Name": [
+      "Gamg_3"
+    ],
+    "Raw Data File": [
+      "20100723_Velos1_TaGe_SA_Gamg_3.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Gamg"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "3"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100618_Velos1_TaGe_SA_U2OS_1.raw": {
+    "Source Name": [
+      "U2OS"
+    ],
+    "Assay Name": [
+      "U2OS_1"
+    ],
+    "Raw Data File": [
+      "20100618_Velos1_TaGe_SA_U2OS_1.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "U2OS"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "1"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100616_Velos1_TaGe_SA_MCF7_2.raw": {
+    "Source Name": [
+      "MCF7"
+    ],
+    "Assay Name": [
+      "MCF7_2"
+    ],
+    "Raw Data File": [
+      "20100616_Velos1_TaGe_SA_MCF7_2.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF7"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "2"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100611_Velos1_TaGe_SA_HepG2_4.raw": {
+    "Source Name": [
+      "HepG2"
+    ],
+    "Assay Name": [
+      "HepG2_4"
+    ],
+    "Raw Data File": [
+      "20100611_Velos1_TaGe_SA_HepG2_4.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HepG2"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "4"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20101215_Velos1_TaGe_SA_A549_06.raw": {
+    "Source Name": [
+      "A549"
+    ],
+    "Assay Name": [
+      "A549_06"
+    ],
+    "Raw Data File": [
+      "20101215_Velos1_TaGe_SA_A549_06.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "A549"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "06"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100618_Velos1_TaGe_SA_LanCap_2.raw": {
+    "Source Name": [
+      "LanCap"
+    ],
+    "Assay Name": [
+      "LanCap_2"
+    ],
+    "Raw Data File": [
+      "20100618_Velos1_TaGe_SA_LanCap_2.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "LanCap"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "2"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100801_Velos1_TaGe_SA_RKO_01.raw": {
+    "Source Name": [
+      "RKO"
+    ],
+    "Assay Name": [
+      "RKO_01"
+    ],
+    "Raw Data File": [
+      "20100801_Velos1_TaGe_SA_RKO_01.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "RKO"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "01"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20101224_Velos1_TaGe_SA_HepG2_2.raw": {
+    "Source Name": [
+      "HepG2"
+    ],
+    "Assay Name": [
+      "HepG2_2"
+    ],
+    "Raw Data File": [
+      "20101224_Velos1_TaGe_SA_HepG2_2.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HepG2"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "2"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100726_Velos1_TaGe_SA_HeLa_4.raw": {
+    "Source Name": [
+      "HeLa"
+    ],
+    "Assay Name": [
+      "HeLa_4"
+    ],
+    "Raw Data File": [
+      "20100726_Velos1_TaGe_SA_HeLa_4.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HeLa"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "4"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100726_Velos1_TaGe_SA_HeLa_1.raw": {
+    "Source Name": [
+      "HeLa"
+    ],
+    "Assay Name": [
+      "HeLa_1"
+    ],
+    "Raw Data File": [
+      "20100726_Velos1_TaGe_SA_HeLa_1.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HeLa"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "1"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100726_Velos1_TaGe_SA_HepG2_5.raw": {
+    "Source Name": [
+      "HepG2"
+    ],
+    "Assay Name": [
+      "HepG2_5"
+    ],
+    "Raw Data File": [
+      "20100726_Velos1_TaGe_SA_HepG2_5.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HepG2"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "5"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100618_Velos1_TaGe_SA_LanCap_3.raw": {
+    "Source Name": [
+      "LanCap"
+    ],
+    "Assay Name": [
+      "LanCap_3"
+    ],
+    "Raw Data File": [
+      "20100618_Velos1_TaGe_SA_LanCap_3.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "LanCap"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "3"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20101215_Velos1_TaGe_SA_A549_01.raw": {
+    "Source Name": [
+      "A549"
+    ],
+    "Assay Name": [
+      "A549_01"
+    ],
+    "Raw Data File": [
+      "20101215_Velos1_TaGe_SA_A549_01.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "A549"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "01"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20101210_Velos1_AnWe_SA_U2OS_5.raw": {
+    "Source Name": [
+      "U2OS"
+    ],
+    "Assay Name": [
+      "U2OS_5"
+    ],
+    "Raw Data File": [
+      "20101210_Velos1_AnWe_SA_U2OS_5.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "U2OS"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "5"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20101227_Velos1_TaGe_SA_HEK293_05.raw": {
+    "Source Name": [
+      "HEK293"
+    ],
+    "Assay Name": [
+      "HEK293_05"
+    ],
+    "Raw Data File": [
+      "20101227_Velos1_TaGe_SA_HEK293_05.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "05"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100723_Velos1_TaGe_SA_Hek293_05.raw": {
+    "Source Name": [
+      "Hek293"
+    ],
+    "Assay Name": [
+      "Hek293_05"
+    ],
+    "Raw Data File": [
+      "20100723_Velos1_TaGe_SA_Hek293_05.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Hek293"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "05"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20101227_Velos1_TaGe_SA_GAMG4.raw": {
+    "Source Name": [
+      "GAMG4"
+    ],
+    "Assay Name": [
+      "GAMG4_run"
+    ],
+    "Raw Data File": [
+      "20101227_Velos1_TaGe_SA_GAMG4.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "GAMG4"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100719_Velos1_TaGe_SA_LnCap_5.raw": {
+    "Source Name": [
+      "LnCap"
+    ],
+    "Assay Name": [
+      "LnCap_5"
+    ],
+    "Raw Data File": [
+      "20100719_Velos1_TaGe_SA_LnCap_5.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "LnCap"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "5"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100721_Velos1_TaGe_SA_A549_03.raw": {
+    "Source Name": [
+      "A549"
+    ],
+    "Assay Name": [
+      "A549_03"
+    ],
+    "Raw Data File": [
+      "20100721_Velos1_TaGe_SA_A549_03.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "A549"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "03"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100723_Velos1_TaGe_SA_Hek293_04.raw": {
+    "Source Name": [
+      "Hek293"
+    ],
+    "Assay Name": [
+      "Hek293_04"
+    ],
+    "Raw Data File": [
+      "20100723_Velos1_TaGe_SA_Hek293_04.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Hek293"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "04"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100611_Velos1_TaGe_SA_Hela_1.raw": {
+    "Source Name": [
+      "Hela"
+    ],
+    "Assay Name": [
+      "Hela_1"
+    ],
+    "Raw Data File": [
+      "20100611_Velos1_TaGe_SA_Hela_1.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Hela"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "1"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20101224_Velos1_TaGe_SA_HepG2_1.raw": {
+    "Source Name": [
+      "HepG2"
+    ],
+    "Assay Name": [
+      "HepG2_1"
+    ],
+    "Raw Data File": [
+      "20101224_Velos1_TaGe_SA_HepG2_1.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HepG2"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "1"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20101223_Velos1_TaGe_SA_RKO_04.raw": {
+    "Source Name": [
+      "RKO"
+    ],
+    "Assay Name": [
+      "RKO_04"
+    ],
+    "Raw Data File": [
+      "20101223_Velos1_TaGe_SA_RKO_04.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "RKO"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "04"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100618_Velos1_TaGe_SA_U2OS_3.raw": {
+    "Source Name": [
+      "U2OS"
+    ],
+    "Assay Name": [
+      "U2OS_3"
+    ],
+    "Raw Data File": [
+      "20100618_Velos1_TaGe_SA_U2OS_3.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "U2OS"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "3"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20101224_Velos1_TaGe_SA_HeLa_05.raw": {
+    "Source Name": [
+      "HeLa"
+    ],
+    "Assay Name": [
+      "HeLa_05"
+    ],
+    "Raw Data File": [
+      "20101224_Velos1_TaGe_SA_HeLa_05.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HeLa"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "05"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20101210_Velos1_AnWe_SA_LnCap_2.raw": {
+    "Source Name": [
+      "LnCap"
+    ],
+    "Assay Name": [
+      "LnCap_2"
+    ],
+    "Raw Data File": [
+      "20101210_Velos1_AnWe_SA_LnCap_2.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "LnCap"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "2"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20101227_Velos1_TaGe_SA_GAMG3.raw": {
+    "Source Name": [
+      "GAMG3"
+    ],
+    "Assay Name": [
+      "GAMG3_run"
+    ],
+    "Raw Data File": [
+      "20101227_Velos1_TaGe_SA_GAMG3.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "GAMG3"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20101227_Velos1_TaGe_SA_GAMG_101230100451.raw": {
+    "Source Name": [
+      "GAMG"
+    ],
+    "Assay Name": [
+      "GAMG_101230100451"
+    ],
+    "Raw Data File": [
+      "20101227_Velos1_TaGe_SA_GAMG_101230100451.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "GAMG"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "101230100451"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100611_Velos1_TaGe_SA_HepG2_1.raw": {
+    "Source Name": [
+      "HepG2"
+    ],
+    "Assay Name": [
+      "HepG2_1"
+    ],
+    "Raw Data File": [
+      "20100611_Velos1_TaGe_SA_HepG2_1.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HepG2"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "1"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20101215_Velos1_TaGe_SA_A549_02.raw": {
+    "Source Name": [
+      "A549"
+    ],
+    "Assay Name": [
+      "A549_02"
+    ],
+    "Raw Data File": [
+      "20101215_Velos1_TaGe_SA_A549_02.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "A549"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "02"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100618_Velos1_TaGe_SA_U2OS_5.raw": {
+    "Source Name": [
+      "U2OS"
+    ],
+    "Assay Name": [
+      "U2OS_5"
+    ],
+    "Raw Data File": [
+      "20100618_Velos1_TaGe_SA_U2OS_5.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "U2OS"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "5"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100618_Velos1_TaGe_SA_LanCap_6.raw": {
+    "Source Name": [
+      "LanCap"
+    ],
+    "Assay Name": [
+      "LanCap_6"
+    ],
+    "Raw Data File": [
+      "20100618_Velos1_TaGe_SA_LanCap_6.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "LanCap"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "6"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100721_Velos1_TaGe_SA_U2OS_5.raw": {
+    "Source Name": [
+      "U2OS"
+    ],
+    "Assay Name": [
+      "U2OS_5"
+    ],
+    "Raw Data File": [
+      "20100721_Velos1_TaGe_SA_U2OS_5.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "U2OS"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "5"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100719_Velos1_TaGe_SA_LnCap_4.raw": {
+    "Source Name": [
+      "LnCap"
+    ],
+    "Assay Name": [
+      "LnCap_4"
+    ],
+    "Raw Data File": [
+      "20100719_Velos1_TaGe_SA_LnCap_4.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "LnCap"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "4"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100618_Velos1_TaGe_SA_LanCap_1.raw": {
+    "Source Name": [
+      "LanCap"
+    ],
+    "Assay Name": [
+      "LanCap_1"
+    ],
+    "Raw Data File": [
+      "20100618_Velos1_TaGe_SA_LanCap_1.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "LanCap"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "1"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100609_Velos1_TaGe_SA_GAMG_1.raw": {
+    "Source Name": [
+      "GAMG"
+    ],
+    "Assay Name": [
+      "GAMG_1"
+    ],
+    "Raw Data File": [
+      "20100609_Velos1_TaGe_SA_GAMG_1.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "GAMG"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "1"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20101223_Velos1_TaGe_SA_RKO_02.raw": {
+    "Source Name": [
+      "RKO"
+    ],
+    "Assay Name": [
+      "RKO_02"
+    ],
+    "Raw Data File": [
+      "20101223_Velos1_TaGe_SA_RKO_02.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "RKO"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "02"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20101227_Velos1_TaGe_SA_HEK293_01.raw": {
+    "Source Name": [
+      "HEK293"
+    ],
+    "Assay Name": [
+      "HEK293_01"
+    ],
+    "Raw Data File": [
+      "20101227_Velos1_TaGe_SA_HEK293_01.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HEK293"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "01"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100616_Velos1_TaGe_SA_RKO_4.raw": {
+    "Source Name": [
+      "RKO"
+    ],
+    "Assay Name": [
+      "RKO_4"
+    ],
+    "Raw Data File": [
+      "20100616_Velos1_TaGe_SA_RKO_4.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "RKO"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "4"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20101210_Velos1_AnWe_SA_MCF7_4.raw": {
+    "Source Name": [
+      "MCF7"
+    ],
+    "Assay Name": [
+      "MCF7_4"
+    ],
+    "Raw Data File": [
+      "20101210_Velos1_AnWe_SA_MCF7_4.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF7"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "4"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20101210_Velos1_AnWe_SA_U2OS_3.raw": {
+    "Source Name": [
+      "U2OS"
+    ],
+    "Assay Name": [
+      "U2OS_3"
+    ],
+    "Raw Data File": [
+      "20101210_Velos1_AnWe_SA_U2OS_3.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "U2OS"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "3"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100719_Velos1_TaGe_SA_MCF7_04.raw": {
+    "Source Name": [
+      "MCF7"
+    ],
+    "Assay Name": [
+      "MCF7_04"
+    ],
+    "Raw Data File": [
+      "20100719_Velos1_TaGe_SA_MCF7_04.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF7"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "04"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100614_Velos1_TaGe_SA_Jurkat_4.raw": {
+    "Source Name": [
+      "Jurkat"
+    ],
+    "Assay Name": [
+      "Jurkat_4"
+    ],
+    "Raw Data File": [
+      "20100614_Velos1_TaGe_SA_Jurkat_4.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Jurkat"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "4"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100609_Velos1_TaGe_SA_293_3.raw": {
+    "Source Name": [
+      "293"
+    ],
+    "Assay Name": [
+      "293_3"
+    ],
+    "Raw Data File": [
+      "20100609_Velos1_TaGe_SA_293_3.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "293"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "3"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20101230_Velos1_TaGe_SA_Jurkat3.raw": {
+    "Source Name": [
+      "Jurkat3"
+    ],
+    "Assay Name": [
+      "Jurkat3_run"
+    ],
+    "Raw Data File": [
+      "20101230_Velos1_TaGe_SA_Jurkat3.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Jurkat3"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100719_Velos1_TaGe_SA_MCF7_01.raw": {
+    "Source Name": [
+      "MCF7"
+    ],
+    "Assay Name": [
+      "MCF7_01"
+    ],
+    "Raw Data File": [
+      "20100719_Velos1_TaGe_SA_MCF7_01.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "MCF7"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "01"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  },
+  "20100611_Velos1_TaGe_SA_Hela_5.raw": {
+    "Source Name": [
+      "Hela"
+    ],
+    "Assay Name": [
+      "Hela_5"
+    ],
+    "Raw Data File": [
+      "20100611_Velos1_TaGe_SA_Hela_5.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Hela"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "0.1 m dithiothreitol"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "triplicate analysis"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap Velos mass spectrometer (Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent manner",
+      "top 10 method"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD method"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were acquired in the Orbitrap analyzer"
+    ],
+    "Comment[FractionationMethod]": [
+      "strong anion exchange in a StageTip format"
+    ],
+    "Comment[NumberOfFractions]": [
+      "six fractions"
+    ],
+    "Comment[FractionIdentifier]": [
+      "5"
+    ],
+    "Comment[GradientTime]": [
+      "200 min linear gradient"
+    ],
+    "Comment[Separation]": [
+      "reverse-phase chromatography"
+    ]
+  }
+}

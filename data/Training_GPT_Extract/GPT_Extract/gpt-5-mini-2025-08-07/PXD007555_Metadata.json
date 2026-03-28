@@ -1,0 +1,2702 @@
+{
+  "K5.3QEXI16231.raw": {
+    "Source Name": [
+      "K5"
+    ],
+    "Assay Name": [
+      "K5.3QEXI16231"
+    ],
+    "Raw Data File": [
+      "K5.3QEXI16231.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Cerebrospinal fluid"
+    ],
+    "Characteristics[Specimen]": [
+      "CSF"
+    ],
+    "Characteristics[Organism]": [
+      "12 human subjects"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "12 human subjects"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Tryptic digestion",
+      "trypsin-to-protein ratio"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "FactorValue[Time]": [
+      "T0",
+      "T24",
+      "T48"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive, Thermo Fisher Scientific, Bremen, Germany"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent scan mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision-induced dissociation (HCD) fragmentation"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "an orbitrap analyzer"
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray ionization source (ESI)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "180 min"
+    ],
+    "Comment[Separation]": [
+      "analytical C18 column (PepMap C18, 75 μm x 50 cm, particle size 5 μm and pore size 100 Å; Thermo Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages were allowed."
+    ]
+  },
+  "K2.2QEXI16173.raw": {
+    "Source Name": [
+      "K2"
+    ],
+    "Assay Name": [
+      "K2.2QEXI16173"
+    ],
+    "Raw Data File": [
+      "K2.2QEXI16173.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Cerebrospinal fluid"
+    ],
+    "Characteristics[Specimen]": [
+      "CSF"
+    ],
+    "Characteristics[Organism]": [
+      "12 human subjects"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "12 human subjects"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Tryptic digestion",
+      "trypsin-to-protein ratio"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "FactorValue[Time]": [
+      "T0",
+      "T24",
+      "T48"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive, Thermo Fisher Scientific, Bremen, Germany"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent scan mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision-induced dissociation (HCD) fragmentation"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "an orbitrap analyzer"
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray ionization source (ESI)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "180 min"
+    ],
+    "Comment[Separation]": [
+      "analytical C18 column (PepMap C18, 75 μm x 50 cm, particle size 5 μm and pore size 100 Å; Thermo Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages were allowed."
+    ]
+  },
+  "K26.2QEXI16223.raw": {
+    "Source Name": [
+      "K26"
+    ],
+    "Assay Name": [
+      "K26.2QEXI16223"
+    ],
+    "Raw Data File": [
+      "K26.2QEXI16223.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Cerebrospinal fluid"
+    ],
+    "Characteristics[Specimen]": [
+      "CSF"
+    ],
+    "Characteristics[Organism]": [
+      "12 human subjects"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "12 human subjects"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Tryptic digestion",
+      "trypsin-to-protein ratio"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "FactorValue[Time]": [
+      "T0",
+      "T24",
+      "T48"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive, Thermo Fisher Scientific, Bremen, Germany"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent scan mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision-induced dissociation (HCD) fragmentation"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "an orbitrap analyzer"
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray ionization source (ESI)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "180 min"
+    ],
+    "Comment[Separation]": [
+      "analytical C18 column (PepMap C18, 75 μm x 50 cm, particle size 5 μm and pore size 100 Å; Thermo Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages were allowed."
+    ]
+  },
+  "K5.1QEXI16165.raw": {
+    "Source Name": [
+      "K5"
+    ],
+    "Assay Name": [
+      "K5.1QEXI16165"
+    ],
+    "Raw Data File": [
+      "K5.1QEXI16165.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Cerebrospinal fluid"
+    ],
+    "Characteristics[Specimen]": [
+      "CSF"
+    ],
+    "Characteristics[Organism]": [
+      "12 human subjects"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "12 human subjects"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Tryptic digestion",
+      "trypsin-to-protein ratio"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "FactorValue[Time]": [
+      "T0",
+      "T24",
+      "T48"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive, Thermo Fisher Scientific, Bremen, Germany"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent scan mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision-induced dissociation (HCD) fragmentation"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "an orbitrap analyzer"
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray ionization source (ESI)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "180 min"
+    ],
+    "Comment[Separation]": [
+      "analytical C18 column (PepMap C18, 75 μm x 50 cm, particle size 5 μm and pore size 100 Å; Thermo Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages were allowed."
+    ]
+  },
+  "K38.2QEXI16211.raw": {
+    "Source Name": [
+      "K38"
+    ],
+    "Assay Name": [
+      "K38.2QEXI16211"
+    ],
+    "Raw Data File": [
+      "K38.2QEXI16211.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Cerebrospinal fluid"
+    ],
+    "Characteristics[Specimen]": [
+      "CSF"
+    ],
+    "Characteristics[Organism]": [
+      "12 human subjects"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "12 human subjects"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Tryptic digestion",
+      "trypsin-to-protein ratio"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "FactorValue[Time]": [
+      "T0",
+      "T24",
+      "T48"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive, Thermo Fisher Scientific, Bremen, Germany"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent scan mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision-induced dissociation (HCD) fragmentation"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "an orbitrap analyzer"
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray ionization source (ESI)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "180 min"
+    ],
+    "Comment[Separation]": [
+      "analytical C18 column (PepMap C18, 75 μm x 50 cm, particle size 5 μm and pore size 100 Å; Thermo Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages were allowed."
+    ]
+  },
+  "K14.1QEXI16209.raw": {
+    "Source Name": [
+      "K14"
+    ],
+    "Assay Name": [
+      "K14.1QEXI16209"
+    ],
+    "Raw Data File": [
+      "K14.1QEXI16209.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Cerebrospinal fluid"
+    ],
+    "Characteristics[Specimen]": [
+      "CSF"
+    ],
+    "Characteristics[Organism]": [
+      "12 human subjects"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "12 human subjects"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Tryptic digestion",
+      "trypsin-to-protein ratio"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "FactorValue[Time]": [
+      "T0",
+      "T24",
+      "T48"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive, Thermo Fisher Scientific, Bremen, Germany"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent scan mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision-induced dissociation (HCD) fragmentation"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "an orbitrap analyzer"
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray ionization source (ESI)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "180 min"
+    ],
+    "Comment[Separation]": [
+      "analytical C18 column (PepMap C18, 75 μm x 50 cm, particle size 5 μm and pore size 100 Å; Thermo Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages were allowed."
+    ]
+  },
+  "K39.1QEXI16181.raw": {
+    "Source Name": [
+      "K39"
+    ],
+    "Assay Name": [
+      "K39.1QEXI16181"
+    ],
+    "Raw Data File": [
+      "K39.1QEXI16181.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Cerebrospinal fluid"
+    ],
+    "Characteristics[Specimen]": [
+      "CSF"
+    ],
+    "Characteristics[Organism]": [
+      "12 human subjects"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "12 human subjects"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Tryptic digestion",
+      "trypsin-to-protein ratio"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "FactorValue[Time]": [
+      "T0",
+      "T24",
+      "T48"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive, Thermo Fisher Scientific, Bremen, Germany"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent scan mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision-induced dissociation (HCD) fragmentation"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "an orbitrap analyzer"
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray ionization source (ESI)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "180 min"
+    ],
+    "Comment[Separation]": [
+      "analytical C18 column (PepMap C18, 75 μm x 50 cm, particle size 5 μm and pore size 100 Å; Thermo Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages were allowed."
+    ]
+  },
+  "K40.3QEXI16167.raw": {
+    "Source Name": [
+      "K40"
+    ],
+    "Assay Name": [
+      "K40.3QEXI16167"
+    ],
+    "Raw Data File": [
+      "K40.3QEXI16167.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Cerebrospinal fluid"
+    ],
+    "Characteristics[Specimen]": [
+      "CSF"
+    ],
+    "Characteristics[Organism]": [
+      "12 human subjects"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "12 human subjects"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Tryptic digestion",
+      "trypsin-to-protein ratio"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "FactorValue[Time]": [
+      "T0",
+      "T24",
+      "T48"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive, Thermo Fisher Scientific, Bremen, Germany"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent scan mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision-induced dissociation (HCD) fragmentation"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "an orbitrap analyzer"
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray ionization source (ESI)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "180 min"
+    ],
+    "Comment[Separation]": [
+      "analytical C18 column (PepMap C18, 75 μm x 50 cm, particle size 5 μm and pore size 100 Å; Thermo Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages were allowed."
+    ]
+  },
+  "K39.2QEXI16229.raw": {
+    "Source Name": [
+      "K39"
+    ],
+    "Assay Name": [
+      "K39.2QEXI16229"
+    ],
+    "Raw Data File": [
+      "K39.2QEXI16229.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Cerebrospinal fluid"
+    ],
+    "Characteristics[Specimen]": [
+      "CSF"
+    ],
+    "Characteristics[Organism]": [
+      "12 human subjects"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "12 human subjects"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Tryptic digestion",
+      "trypsin-to-protein ratio"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "FactorValue[Time]": [
+      "T0",
+      "T24",
+      "T48"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive, Thermo Fisher Scientific, Bremen, Germany"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent scan mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision-induced dissociation (HCD) fragmentation"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "an orbitrap analyzer"
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray ionization source (ESI)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "180 min"
+    ],
+    "Comment[Separation]": [
+      "analytical C18 column (PepMap C18, 75 μm x 50 cm, particle size 5 μm and pore size 100 Å; Thermo Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages were allowed."
+    ]
+  },
+  "K8.3QEXI16163.raw": {
+    "Source Name": [
+      "K8"
+    ],
+    "Assay Name": [
+      "K8.3QEXI16163"
+    ],
+    "Raw Data File": [
+      "K8.3QEXI16163.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Cerebrospinal fluid"
+    ],
+    "Characteristics[Specimen]": [
+      "CSF"
+    ],
+    "Characteristics[Organism]": [
+      "12 human subjects"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "12 human subjects"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Tryptic digestion",
+      "trypsin-to-protein ratio"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "FactorValue[Time]": [
+      "T0",
+      "T24",
+      "T48"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive, Thermo Fisher Scientific, Bremen, Germany"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent scan mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision-induced dissociation (HCD) fragmentation"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "an orbitrap analyzer"
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray ionization source (ESI)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "180 min"
+    ],
+    "Comment[Separation]": [
+      "analytical C18 column (PepMap C18, 75 μm x 50 cm, particle size 5 μm and pore size 100 Å; Thermo Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages were allowed."
+    ]
+  },
+  "K2.3QEXI16191.raw": {
+    "Source Name": [
+      "K2"
+    ],
+    "Assay Name": [
+      "K2.3QEXI16191"
+    ],
+    "Raw Data File": [
+      "K2.3QEXI16191.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Cerebrospinal fluid"
+    ],
+    "Characteristics[Specimen]": [
+      "CSF"
+    ],
+    "Characteristics[Organism]": [
+      "12 human subjects"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "12 human subjects"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Tryptic digestion",
+      "trypsin-to-protein ratio"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "FactorValue[Time]": [
+      "T0",
+      "T24",
+      "T48"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive, Thermo Fisher Scientific, Bremen, Germany"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent scan mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision-induced dissociation (HCD) fragmentation"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "an orbitrap analyzer"
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray ionization source (ESI)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "180 min"
+    ],
+    "Comment[Separation]": [
+      "analytical C18 column (PepMap C18, 75 μm x 50 cm, particle size 5 μm and pore size 100 Å; Thermo Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages were allowed."
+    ]
+  },
+  "K33.1QEXI16215.raw": {
+    "Source Name": [
+      "K33"
+    ],
+    "Assay Name": [
+      "K33.1QEXI16215"
+    ],
+    "Raw Data File": [
+      "K33.1QEXI16215.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Cerebrospinal fluid"
+    ],
+    "Characteristics[Specimen]": [
+      "CSF"
+    ],
+    "Characteristics[Organism]": [
+      "12 human subjects"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "12 human subjects"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Tryptic digestion",
+      "trypsin-to-protein ratio"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "FactorValue[Time]": [
+      "T0",
+      "T24",
+      "T48"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive, Thermo Fisher Scientific, Bremen, Germany"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent scan mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision-induced dissociation (HCD) fragmentation"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "an orbitrap analyzer"
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray ionization source (ESI)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "180 min"
+    ],
+    "Comment[Separation]": [
+      "analytical C18 column (PepMap C18, 75 μm x 50 cm, particle size 5 μm and pore size 100 Å; Thermo Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages were allowed."
+    ]
+  },
+  "K40.1QEXI16227.raw": {
+    "Source Name": [
+      "K40"
+    ],
+    "Assay Name": [
+      "K40.1QEXI16227"
+    ],
+    "Raw Data File": [
+      "K40.1QEXI16227.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Cerebrospinal fluid"
+    ],
+    "Characteristics[Specimen]": [
+      "CSF"
+    ],
+    "Characteristics[Organism]": [
+      "12 human subjects"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "12 human subjects"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Tryptic digestion",
+      "trypsin-to-protein ratio"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "FactorValue[Time]": [
+      "T0",
+      "T24",
+      "T48"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive, Thermo Fisher Scientific, Bremen, Germany"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent scan mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision-induced dissociation (HCD) fragmentation"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "an orbitrap analyzer"
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray ionization source (ESI)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "180 min"
+    ],
+    "Comment[Separation]": [
+      "analytical C18 column (PepMap C18, 75 μm x 50 cm, particle size 5 μm and pore size 100 Å; Thermo Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages were allowed."
+    ]
+  },
+  "K1.1QEXI16153.raw": {
+    "Source Name": [
+      "K1"
+    ],
+    "Assay Name": [
+      "K1.1QEXI16153"
+    ],
+    "Raw Data File": [
+      "K1.1QEXI16153.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Cerebrospinal fluid"
+    ],
+    "Characteristics[Specimen]": [
+      "CSF"
+    ],
+    "Characteristics[Organism]": [
+      "12 human subjects"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "12 human subjects"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Tryptic digestion",
+      "trypsin-to-protein ratio"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "FactorValue[Time]": [
+      "T0",
+      "T24",
+      "T48"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive, Thermo Fisher Scientific, Bremen, Germany"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent scan mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision-induced dissociation (HCD) fragmentation"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "an orbitrap analyzer"
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray ionization source (ESI)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "180 min"
+    ],
+    "Comment[Separation]": [
+      "analytical C18 column (PepMap C18, 75 μm x 50 cm, particle size 5 μm and pore size 100 Å; Thermo Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages were allowed."
+    ]
+  },
+  "K36.3QEXI16185.raw": {
+    "Source Name": [
+      "K36"
+    ],
+    "Assay Name": [
+      "K36.3QEXI16185"
+    ],
+    "Raw Data File": [
+      "K36.3QEXI16185.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Cerebrospinal fluid"
+    ],
+    "Characteristics[Specimen]": [
+      "CSF"
+    ],
+    "Characteristics[Organism]": [
+      "12 human subjects"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "12 human subjects"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Tryptic digestion",
+      "trypsin-to-protein ratio"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "FactorValue[Time]": [
+      "T0",
+      "T24",
+      "T48"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive, Thermo Fisher Scientific, Bremen, Germany"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent scan mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision-induced dissociation (HCD) fragmentation"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "an orbitrap analyzer"
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray ionization source (ESI)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "180 min"
+    ],
+    "Comment[Separation]": [
+      "analytical C18 column (PepMap C18, 75 μm x 50 cm, particle size 5 μm and pore size 100 Å; Thermo Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages were allowed."
+    ]
+  },
+  "K40.2QEXI16217.raw": {
+    "Source Name": [
+      "K40"
+    ],
+    "Assay Name": [
+      "K40.2QEXI16217"
+    ],
+    "Raw Data File": [
+      "K40.2QEXI16217.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Cerebrospinal fluid"
+    ],
+    "Characteristics[Specimen]": [
+      "CSF"
+    ],
+    "Characteristics[Organism]": [
+      "12 human subjects"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "12 human subjects"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Tryptic digestion",
+      "trypsin-to-protein ratio"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "FactorValue[Time]": [
+      "T0",
+      "T24",
+      "T48"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive, Thermo Fisher Scientific, Bremen, Germany"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent scan mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision-induced dissociation (HCD) fragmentation"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "an orbitrap analyzer"
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray ionization source (ESI)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "180 min"
+    ],
+    "Comment[Separation]": [
+      "analytical C18 column (PepMap C18, 75 μm x 50 cm, particle size 5 μm and pore size 100 Å; Thermo Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages were allowed."
+    ]
+  },
+  "K8.2QEXI16183.raw": {
+    "Source Name": [
+      "K8"
+    ],
+    "Assay Name": [
+      "K8.2QEXI16183"
+    ],
+    "Raw Data File": [
+      "K8.2QEXI16183.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Cerebrospinal fluid"
+    ],
+    "Characteristics[Specimen]": [
+      "CSF"
+    ],
+    "Characteristics[Organism]": [
+      "12 human subjects"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "12 human subjects"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Tryptic digestion",
+      "trypsin-to-protein ratio"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "FactorValue[Time]": [
+      "T0",
+      "T24",
+      "T48"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive, Thermo Fisher Scientific, Bremen, Germany"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent scan mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision-induced dissociation (HCD) fragmentation"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "an orbitrap analyzer"
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray ionization source (ESI)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "180 min"
+    ],
+    "Comment[Separation]": [
+      "analytical C18 column (PepMap C18, 75 μm x 50 cm, particle size 5 μm and pore size 100 Å; Thermo Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages were allowed."
+    ]
+  },
+  "K1.2QEXI16195.raw": {
+    "Source Name": [
+      "K1"
+    ],
+    "Assay Name": [
+      "K1.2QEXI16195"
+    ],
+    "Raw Data File": [
+      "K1.2QEXI16195.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Cerebrospinal fluid"
+    ],
+    "Characteristics[Specimen]": [
+      "CSF"
+    ],
+    "Characteristics[Organism]": [
+      "12 human subjects"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "12 human subjects"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Tryptic digestion",
+      "trypsin-to-protein ratio"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "FactorValue[Time]": [
+      "T0",
+      "T24",
+      "T48"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive, Thermo Fisher Scientific, Bremen, Germany"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent scan mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision-induced dissociation (HCD) fragmentation"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "an orbitrap analyzer"
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray ionization source (ESI)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "180 min"
+    ],
+    "Comment[Separation]": [
+      "analytical C18 column (PepMap C18, 75 μm x 50 cm, particle size 5 μm and pore size 100 Å; Thermo Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages were allowed."
+    ]
+  },
+  "K13.2QEXI16201.raw": {
+    "Source Name": [
+      "K13"
+    ],
+    "Assay Name": [
+      "K13.2QEXI16201"
+    ],
+    "Raw Data File": [
+      "K13.2QEXI16201.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Cerebrospinal fluid"
+    ],
+    "Characteristics[Specimen]": [
+      "CSF"
+    ],
+    "Characteristics[Organism]": [
+      "12 human subjects"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "12 human subjects"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Tryptic digestion",
+      "trypsin-to-protein ratio"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "FactorValue[Time]": [
+      "T0",
+      "T24",
+      "T48"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive, Thermo Fisher Scientific, Bremen, Germany"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent scan mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision-induced dissociation (HCD) fragmentation"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "an orbitrap analyzer"
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray ionization source (ESI)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "180 min"
+    ],
+    "Comment[Separation]": [
+      "analytical C18 column (PepMap C18, 75 μm x 50 cm, particle size 5 μm and pore size 100 Å; Thermo Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages were allowed."
+    ]
+  },
+  "K5.2QEXI16155.raw": {
+    "Source Name": [
+      "K5"
+    ],
+    "Assay Name": [
+      "K5.2QEXI16155"
+    ],
+    "Raw Data File": [
+      "K5.2QEXI16155.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Cerebrospinal fluid"
+    ],
+    "Characteristics[Specimen]": [
+      "CSF"
+    ],
+    "Characteristics[Organism]": [
+      "12 human subjects"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "12 human subjects"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Tryptic digestion",
+      "trypsin-to-protein ratio"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "FactorValue[Time]": [
+      "T0",
+      "T24",
+      "T48"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive, Thermo Fisher Scientific, Bremen, Germany"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent scan mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision-induced dissociation (HCD) fragmentation"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "an orbitrap analyzer"
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray ionization source (ESI)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "180 min"
+    ],
+    "Comment[Separation]": [
+      "analytical C18 column (PepMap C18, 75 μm x 50 cm, particle size 5 μm and pore size 100 Å; Thermo Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages were allowed."
+    ]
+  },
+  "K1.3QEXI16203.raw": {
+    "Source Name": [
+      "K1"
+    ],
+    "Assay Name": [
+      "K1.3QEXI16203"
+    ],
+    "Raw Data File": [
+      "K1.3QEXI16203.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Cerebrospinal fluid"
+    ],
+    "Characteristics[Specimen]": [
+      "CSF"
+    ],
+    "Characteristics[Organism]": [
+      "12 human subjects"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "12 human subjects"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Tryptic digestion",
+      "trypsin-to-protein ratio"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "FactorValue[Time]": [
+      "T0",
+      "T24",
+      "T48"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive, Thermo Fisher Scientific, Bremen, Germany"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent scan mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision-induced dissociation (HCD) fragmentation"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "an orbitrap analyzer"
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray ionization source (ESI)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "180 min"
+    ],
+    "Comment[Separation]": [
+      "analytical C18 column (PepMap C18, 75 μm x 50 cm, particle size 5 μm and pore size 100 Å; Thermo Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages were allowed."
+    ]
+  },
+  "K36.2QEXI16167.raw": {
+    "Source Name": [
+      "K36"
+    ],
+    "Assay Name": [
+      "K36.2QEXI16167"
+    ],
+    "Raw Data File": [
+      "K36.2QEXI16167.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Cerebrospinal fluid"
+    ],
+    "Characteristics[Specimen]": [
+      "CSF"
+    ],
+    "Characteristics[Organism]": [
+      "12 human subjects"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "12 human subjects"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Tryptic digestion",
+      "trypsin-to-protein ratio"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "FactorValue[Time]": [
+      "T0",
+      "T24",
+      "T48"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive, Thermo Fisher Scientific, Bremen, Germany"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent scan mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision-induced dissociation (HCD) fragmentation"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "an orbitrap analyzer"
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray ionization source (ESI)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "180 min"
+    ],
+    "Comment[Separation]": [
+      "analytical C18 column (PepMap C18, 75 μm x 50 cm, particle size 5 μm and pore size 100 Å; Thermo Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages were allowed."
+    ]
+  },
+  "K26.3QEXI16197.raw": {
+    "Source Name": [
+      "K26"
+    ],
+    "Assay Name": [
+      "K26.3QEXI16197"
+    ],
+    "Raw Data File": [
+      "K26.3QEXI16197.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Cerebrospinal fluid"
+    ],
+    "Characteristics[Specimen]": [
+      "CSF"
+    ],
+    "Characteristics[Organism]": [
+      "12 human subjects"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "12 human subjects"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Tryptic digestion",
+      "trypsin-to-protein ratio"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "FactorValue[Time]": [
+      "T0",
+      "T24",
+      "T48"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive, Thermo Fisher Scientific, Bremen, Germany"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent scan mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision-induced dissociation (HCD) fragmentation"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "an orbitrap analyzer"
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray ionization source (ESI)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "180 min"
+    ],
+    "Comment[Separation]": [
+      "analytical C18 column (PepMap C18, 75 μm x 50 cm, particle size 5 μm and pore size 100 Å; Thermo Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages were allowed."
+    ]
+  },
+  "K36.1QEXI16221.raw": {
+    "Source Name": [
+      "K36"
+    ],
+    "Assay Name": [
+      "K36.1QEXI16221"
+    ],
+    "Raw Data File": [
+      "K36.1QEXI16221.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Cerebrospinal fluid"
+    ],
+    "Characteristics[Specimen]": [
+      "CSF"
+    ],
+    "Characteristics[Organism]": [
+      "12 human subjects"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "12 human subjects"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Tryptic digestion",
+      "trypsin-to-protein ratio"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "FactorValue[Time]": [
+      "T0",
+      "T24",
+      "T48"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive, Thermo Fisher Scientific, Bremen, Germany"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent scan mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision-induced dissociation (HCD) fragmentation"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "an orbitrap analyzer"
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray ionization source (ESI)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "180 min"
+    ],
+    "Comment[Separation]": [
+      "analytical C18 column (PepMap C18, 75 μm x 50 cm, particle size 5 μm and pore size 100 Å; Thermo Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages were allowed."
+    ]
+  },
+  "K13.3QEXI16225.raw": {
+    "Source Name": [
+      "K13"
+    ],
+    "Assay Name": [
+      "K13.3QEXI16225"
+    ],
+    "Raw Data File": [
+      "K13.3QEXI16225.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Cerebrospinal fluid"
+    ],
+    "Characteristics[Specimen]": [
+      "CSF"
+    ],
+    "Characteristics[Organism]": [
+      "12 human subjects"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "12 human subjects"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Tryptic digestion",
+      "trypsin-to-protein ratio"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "FactorValue[Time]": [
+      "T0",
+      "T24",
+      "T48"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive, Thermo Fisher Scientific, Bremen, Germany"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent scan mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision-induced dissociation (HCD) fragmentation"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "an orbitrap analyzer"
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray ionization source (ESI)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "180 min"
+    ],
+    "Comment[Separation]": [
+      "analytical C18 column (PepMap C18, 75 μm x 50 cm, particle size 5 μm and pore size 100 Å; Thermo Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages were allowed."
+    ]
+  },
+  "K33.2QEXI16189.raw": {
+    "Source Name": [
+      "K33"
+    ],
+    "Assay Name": [
+      "K33.2QEXI16189"
+    ],
+    "Raw Data File": [
+      "K33.2QEXI16189.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Cerebrospinal fluid"
+    ],
+    "Characteristics[Specimen]": [
+      "CSF"
+    ],
+    "Characteristics[Organism]": [
+      "12 human subjects"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "12 human subjects"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Tryptic digestion",
+      "trypsin-to-protein ratio"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "FactorValue[Time]": [
+      "T0",
+      "T24",
+      "T48"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive, Thermo Fisher Scientific, Bremen, Germany"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent scan mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision-induced dissociation (HCD) fragmentation"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "an orbitrap analyzer"
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray ionization source (ESI)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "180 min"
+    ],
+    "Comment[Separation]": [
+      "analytical C18 column (PepMap C18, 75 μm x 50 cm, particle size 5 μm and pore size 100 Å; Thermo Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages were allowed."
+    ]
+  },
+  "K8.1QEXI16193.raw": {
+    "Source Name": [
+      "K8"
+    ],
+    "Assay Name": [
+      "K8.1QEXI16193"
+    ],
+    "Raw Data File": [
+      "K8.1QEXI16193.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Cerebrospinal fluid"
+    ],
+    "Characteristics[Specimen]": [
+      "CSF"
+    ],
+    "Characteristics[Organism]": [
+      "12 human subjects"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "12 human subjects"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Tryptic digestion",
+      "trypsin-to-protein ratio"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "FactorValue[Time]": [
+      "T0",
+      "T24",
+      "T48"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive, Thermo Fisher Scientific, Bremen, Germany"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent scan mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision-induced dissociation (HCD) fragmentation"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "an orbitrap analyzer"
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray ionization source (ESI)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "180 min"
+    ],
+    "Comment[Separation]": [
+      "analytical C18 column (PepMap C18, 75 μm x 50 cm, particle size 5 μm and pore size 100 Å; Thermo Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages were allowed."
+    ]
+  },
+  "K14.2QEXI16161.raw": {
+    "Source Name": [
+      "K14"
+    ],
+    "Assay Name": [
+      "K14.2QEXI16161"
+    ],
+    "Raw Data File": [
+      "K14.2QEXI16161.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Cerebrospinal fluid"
+    ],
+    "Characteristics[Specimen]": [
+      "CSF"
+    ],
+    "Characteristics[Organism]": [
+      "12 human subjects"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "12 human subjects"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Tryptic digestion",
+      "trypsin-to-protein ratio"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "FactorValue[Time]": [
+      "T0",
+      "T24",
+      "T48"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive, Thermo Fisher Scientific, Bremen, Germany"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent scan mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision-induced dissociation (HCD) fragmentation"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "an orbitrap analyzer"
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray ionization source (ESI)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "180 min"
+    ],
+    "Comment[Separation]": [
+      "analytical C18 column (PepMap C18, 75 μm x 50 cm, particle size 5 μm and pore size 100 Å; Thermo Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages were allowed."
+    ]
+  },
+  "K38.3QEXI16219.raw": {
+    "Source Name": [
+      "K38"
+    ],
+    "Assay Name": [
+      "K38.3QEXI16219"
+    ],
+    "Raw Data File": [
+      "K38.3QEXI16219.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Cerebrospinal fluid"
+    ],
+    "Characteristics[Specimen]": [
+      "CSF"
+    ],
+    "Characteristics[Organism]": [
+      "12 human subjects"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "12 human subjects"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Tryptic digestion",
+      "trypsin-to-protein ratio"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "FactorValue[Time]": [
+      "T0",
+      "T24",
+      "T48"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive, Thermo Fisher Scientific, Bremen, Germany"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent scan mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision-induced dissociation (HCD) fragmentation"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "an orbitrap analyzer"
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray ionization source (ESI)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "180 min"
+    ],
+    "Comment[Separation]": [
+      "analytical C18 column (PepMap C18, 75 μm x 50 cm, particle size 5 μm and pore size 100 Å; Thermo Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages were allowed."
+    ]
+  },
+  "K38.1QEXI16199.raw": {
+    "Source Name": [
+      "K38"
+    ],
+    "Assay Name": [
+      "K38.1QEXI16199"
+    ],
+    "Raw Data File": [
+      "K38.1QEXI16199.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Cerebrospinal fluid"
+    ],
+    "Characteristics[Specimen]": [
+      "CSF"
+    ],
+    "Characteristics[Organism]": [
+      "12 human subjects"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "12 human subjects"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Tryptic digestion",
+      "trypsin-to-protein ratio"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "FactorValue[Time]": [
+      "T0",
+      "T24",
+      "T48"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive, Thermo Fisher Scientific, Bremen, Germany"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent scan mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision-induced dissociation (HCD) fragmentation"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "an orbitrap analyzer"
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray ionization source (ESI)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "180 min"
+    ],
+    "Comment[Separation]": [
+      "analytical C18 column (PepMap C18, 75 μm x 50 cm, particle size 5 μm and pore size 100 Å; Thermo Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages were allowed."
+    ]
+  },
+  "K39.3QEXI16213.raw": {
+    "Source Name": [
+      "K39"
+    ],
+    "Assay Name": [
+      "K39.3QEXI16213"
+    ],
+    "Raw Data File": [
+      "K39.3QEXI16213.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Cerebrospinal fluid"
+    ],
+    "Characteristics[Specimen]": [
+      "CSF"
+    ],
+    "Characteristics[Organism]": [
+      "12 human subjects"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "12 human subjects"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Tryptic digestion",
+      "trypsin-to-protein ratio"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "FactorValue[Time]": [
+      "T0",
+      "T24",
+      "T48"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive, Thermo Fisher Scientific, Bremen, Germany"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent scan mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision-induced dissociation (HCD) fragmentation"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "an orbitrap analyzer"
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray ionization source (ESI)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "180 min"
+    ],
+    "Comment[Separation]": [
+      "analytical C18 column (PepMap C18, 75 μm x 50 cm, particle size 5 μm and pore size 100 Å; Thermo Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages were allowed."
+    ]
+  },
+  "K33.3QEXI16157.raw": {
+    "Source Name": [
+      "K33"
+    ],
+    "Assay Name": [
+      "K33.3QEXI16157"
+    ],
+    "Raw Data File": [
+      "K33.3QEXI16157.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Cerebrospinal fluid"
+    ],
+    "Characteristics[Specimen]": [
+      "CSF"
+    ],
+    "Characteristics[Organism]": [
+      "12 human subjects"
+    ],
+       "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "12 human subjects"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Tryptic digestion",
+      "trypsin-to-protein ratio"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "FactorValue[Time]": [
+      "T0",
+      "T24",
+      "T48"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive, Thermo Fisher Scientific, Bremen, Germany"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent scan mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision-induced dissociation (HCD) fragmentation"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "an orbitrap analyzer"
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray ionization source (ESI)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "180 min"
+    ],
+    "Comment[Separation]": [
+      "analytical C18 column (PepMap C18, 75 μm x 50 cm, particle size 5 μm and pore size 100 Å; Thermo Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages were allowed."
+    ]
+  },
+  "K14.3QEXI16175.raw": {
+    "Source Name": [
+      "K14"
+    ],
+    "Assay Name": [
+      "K14.3QEXI16175"
+    ],
+    "Raw Data File": [
+      "K14.3QEXI16175.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Cerebrospinal fluid"
+    ],
+    "Characteristics[Specimen]": [
+      "CSF"
+    ],
+    "Characteristics[Organism]": [
+      "12 human subjects"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "12 human subjects"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Tryptic digestion",
+      "trypsin-to-protein ratio"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "FactorValue[Time]": [
+      "T0",
+      "T24",
+      "T48"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive, Thermo Fisher Scientific, Bremen, Germany"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent scan mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision-induced dissociation (HCD) fragmentation"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "an orbitrap analyzer"
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray ionization source (ESI)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "180 min"
+    ],
+    "Comment[Separation]": [
+      "analytical C18 column (PepMap C18, 75 μm x 50 cm, particle size 5 μm and pore size 100 Å; Thermo Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages were allowed."
+    ]
+  },
+  "K13.1QEXI16187.raw": {
+    "Source Name": [
+      "K13"
+    ],
+    "Assay Name": [
+      "K13.1QEXI16187"
+    ],
+    "Raw Data File": [
+      "K13.1QEXI16187.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Cerebrospinal fluid"
+    ],
+    "Characteristics[Specimen]": [
+      "CSF"
+    ],
+    "Characteristics[Organism]": [
+      "12 human subjects"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "12 human subjects"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Tryptic digestion",
+      "trypsin-to-protein ratio"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "FactorValue[Time]": [
+      "T0",
+      "T24",
+      "T48"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive, Thermo Fisher Scientific, Bremen, Germany"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent scan mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision-induced dissociation (HCD) fragmentation"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "an orbitrap analyzer"
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray ionization source (ESI)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "180 min"
+    ],
+    "Comment[Separation]": [
+      "analytical C18 column (PepMap C18, 75 μm x 50 cm, particle size 5 μm and pore size 100 Å; Thermo Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages were allowed."
+    ]
+  },
+  "K2.1QEXI16159.raw": {
+    "Source Name": [
+      "K2"
+    ],
+    "Assay Name": [
+      "K2.1QEXI16159"
+    ],
+    "Raw Data File": [
+      "K2.1QEXI16159.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Cerebrospinal fluid"
+    ],
+    "Characteristics[Specimen]": [
+      "CSF"
+    ],
+    "Characteristics[Organism]": [
+      "12 human subjects"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "12 human subjects"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Tryptic digestion",
+      "trypsin-to-protein ratio"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "FactorValue[Time]": [
+      "T0",
+      "T24",
+      "T48"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive, Thermo Fisher Scientific, Bremen, Germany"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent scan mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision-induced dissociation (HCD) fragmentation"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "an orbitrap analyzer"
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray ionization source (ESI)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "180 min"
+    ],
+    "Comment[Separation]": [
+      "analytical C18 column (PepMap C18, 75 μm x 50 cm, particle size 5 μm and pore size 100 Å; Thermo Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages were allowed."
+    ]
+  },
+  "K26.1QEXI16171.raw": {
+    "Source Name": [
+      "K26"
+    ],
+    "Assay Name": [
+      "K26.1QEXI16171"
+    ],
+    "Raw Data File": [
+      "K26.1QEXI16171.raw"
+    ],
+    "Characteristics[MaterialType]": [
+      "Cerebrospinal fluid"
+    ],
+    "Characteristics[Specimen]": [
+      "CSF"
+    ],
+    "Characteristics[Organism]": [
+      "12 human subjects"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "36 samples"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "12 human subjects"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Tryptic digestion",
+      "trypsin-to-protein ratio"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "iodoacetamide"
+    ],
+    "FactorValue[Time]": [
+      "T0",
+      "T24",
+      "T48"
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive, Thermo Fisher Scientific, Bremen, Germany"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent scan mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher energy collision-induced dissociation (HCD) fragmentation"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "an orbitrap analyzer"
+    ],
+    "Comment[IonizationType]": [
+      "nano electrospray ionization source (ESI)"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "30 μL/min",
+      "400 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "180 min"
+    ],
+    "Comment[Separation]": [
+      "analytical C18 column (PepMap C18, 75 μm x 50 cm, particle size 5 μm and pore size 100 Å; Thermo Scientific, Rockford, IL, USA)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages were allowed."
+    ]
+  }
+}

@@ -1,0 +1,2702 @@
+{
+  "20180411_QX8_JRW_SA_T_GG218.raw": {
+    "Source Name": [
+      "Source_GG218"
+    ],
+    "Assay Name": [
+      "Source_GG218_T"
+    ],
+    "Raw Data File": [
+      "20180411_QX8_JRW_SA_T_GG218.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[MaterialType]": [
+      "serum EVs"
+    ],
+    "Characteristics[Specimen]": [
+      "pellet containing EVs"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens UniProtKB database (June 2016)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 18 samples were collected: Nine from patients diagnosed with polycythemia vera (diagnosed by WHO 2016 criteria) and nine control samples from healthy donors."
+    ],
+    "Comment[Instrument]": [
+      "QExactive HF-X mass spectrometer (ThermoFisher Scientific, Palo Alto, CA, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "operating in data-dependent acquisition mode"
+    ],
+    "Comment[Separation]": [
+      "nanoLC"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "95 min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented by HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energies of 25"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed"
+    ]
+  },
+  "20180411_QX8_JRW_SA_T_GG198.raw": {
+    "Source Name": [
+      "Source_GG198"
+    ],
+    "Assay Name": [
+      "Source_GG198_T"
+    ],
+    "Raw Data File": [
+      "20180411_QX8_JRW_SA_T_GG198.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[MaterialType]": [
+      "serum EVs"
+    ],
+    "Characteristics[Specimen]": [
+      "pellet containing EVs"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens UniProtKB database (June 2016)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 18 samples were collected: Nine from patients diagnosed with polycythemia vera (diagnosed by WHO 2016 criteria) and nine control samples from healthy donors."
+    ],
+    "Comment[Instrument]": [
+      "QExactive HF-X mass spectrometer (ThermoFisher Scientific, Palo Alto, CA, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "operating in data-dependent acquisition mode"
+    ],
+    "Comment[Separation]": [
+      "nanoLC"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "95 min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented by HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energies of 25"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed"
+    ]
+  },
+  "20180411_QX8_JRW_SA_T_GG207.raw": {
+    "Source Name": [
+      "Source_GG207"
+    ],
+    "Assay Name": [
+      "Source_GG207_T"
+    ],
+    "Raw Data File": [
+      "20180411_QX8_JRW_SA_T_GG207.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[MaterialType]": [
+      "serum EVs"
+    ],
+    "Characteristics[Specimen]": [
+      "pellet containing EVs"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens UniProtKB database (June 2016)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 18 samples were collected: Nine from patients diagnosed with polycythemia vera (diagnosed by WHO 2016 criteria) and nine control samples from healthy donors."
+    ],
+    "Comment[Instrument]": [
+      "QExactive HF-X mass spectrometer (ThermoFisher Scientific, Palo Alto, CA, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "operating in data-dependent acquisition mode"
+    ],
+    "Comment[Separation]": [
+      "nanoLC"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "95 min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented by HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energies of 25"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed"
+    ]
+  },
+  "20180411_QX8_JRW_SA_T_GG205.raw": {
+    "Source Name": [
+      "Source_GG205"
+    ],
+    "Assay Name": [
+      "Source_GG205_T"
+    ],
+    "Raw Data File": [
+      "20180411_QX8_JRW_SA_T_GG205.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[MaterialType]": [
+      "serum EVs"
+    ],
+    "Characteristics[Specimen]": [
+      "pellet containing EVs"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens UniProtKB database (June 2016)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 18 samples were collected: Nine from patients diagnosed with polycythemia vera (diagnosed by WHO 2016 criteria) and nine control samples from healthy donors."
+    ],
+    "Comment[Instrument]": [
+      "QExactive HF-X mass spectrometer (ThermoFisher Scientific, Palo Alto, CA, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "operating in data-dependent acquisition mode"
+    ],
+    "Comment[Separation]": [
+      "nanoLC"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "95 min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented by HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energies of 25"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed"
+    ]
+  },
+  "20180411_QX8_JRW_SA_L_GG195.raw": {
+    "Source Name": [
+      "Source_GG195"
+    ],
+    "Assay Name": [
+      "Source_GG195_L"
+    ],
+    "Raw Data File": [
+      "20180411_QX8_JRW_SA_L_GG195.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC"
+    ],
+    "Characteristics[MaterialType]": [
+      "serum EVs"
+    ],
+    "Characteristics[Specimen]": [
+      "pellet containing EVs"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens UniProtKB database (June 2016)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 18 samples were collected: Nine from patients diagnosed with polycythemia vera (diagnosed by WHO 2016 criteria) and nine control samples from healthy donors."
+    ],
+    "Comment[Instrument]": [
+      "QExactive HF-X mass spectrometer (ThermoFisher Scientific, Palo Alto, CA, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "operating in data-dependent acquisition mode"
+    ],
+    "Comment[Separation]": [
+      "nanoLC"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "95 min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented by HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energies of 25"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed"
+    ]
+  },
+  "20180411_QX8_JRW_SA_CT_GG193.raw": {
+    "Source Name": [
+      "Source_GG193"
+    ],
+    "Assay Name": [
+      "Source_GG193_CT"
+    ],
+    "Raw Data File": [
+      "20180411_QX8_JRW_SA_CT_GG193.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "chymotrypsin"
+    ],
+    "Characteristics[MaterialType]": [
+      "serum EVs"
+    ],
+    "Characteristics[Specimen]": [
+      "pellet containing EVs"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens UniProtKB database (June 2016)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 18 samples were collected: Nine from patients diagnosed with polycythemia vera (diagnosed by WHO 2016 criteria) and nine control samples from healthy donors."
+    ],
+    "Comment[Instrument]": [
+      "QExactive HF-X mass spectrometer (ThermoFisher Scientific, Palo Alto, CA, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "operating in data-dependent acquisition mode"
+    ],
+    "Comment[Separation]": [
+      "nanoLC"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "95 min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented by HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energies of 25"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed"
+    ]
+  },
+  "20180411_QX8_JRW_SA_T_GG194.raw": {
+    "Source Name": [
+      "Source_GG194"
+    ],
+    "Assay Name": [
+      "Source_GG194_T"
+    ],
+    "Raw Data File": [
+      "20180411_QX8_JRW_SA_T_GG194.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[MaterialType]": [
+      "serum EVs"
+    ],
+    "Characteristics[Specimen]": [
+      "pellet containing EVs"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens UniProtKB database (June 2016)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 18 samples were collected: Nine from patients diagnosed with polycythemia vera (diagnosed by WHO 2016 criteria) and nine control samples from healthy donors."
+    ],
+    "Comment[Instrument]": [
+      "QExactive HF-X mass spectrometer (ThermoFisher Scientific, Palo Alto, CA, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "operating in data-dependent acquisition mode"
+    ],
+    "Comment[Separation]": [
+      "nanoLC"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "95 min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented by HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energies of 25"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed"
+    ]
+  },
+  "20180411_QX8_JRW_SA_T_GG220.raw": {
+    "Source Name": [
+      "Source_GG220"
+    ],
+    "Assay Name": [
+      "Source_GG220_T"
+    ],
+    "Raw Data File": [
+      "20180411_QX8_JRW_SA_T_GG220.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[MaterialType]": [
+      "serum EVs"
+    ],
+    "Characteristics[Specimen]": [
+      "pellet containing EVs"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens UniProtKB database (June 2016)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 18 samples were collected: Nine from patients diagnosed with polycythemia vera (diagnosed by WHO 2016 criteria) and nine control samples from healthy donors."
+    ],
+    "Comment[Instrument]": [
+      "QExactive HF-X mass spectrometer (ThermoFisher Scientific, Palo Alto, CA, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "operating in data-dependent acquisition mode"
+    ],
+    "Comment[Separation]": [
+      "nanoLC"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "95 min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented by HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energies of 25"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed"
+    ]
+  },
+  "20180411_QX8_JRW_SA_T_GG221.raw": {
+    "Source Name": [
+      "Source_GG221"
+    ],
+    "Assay Name": [
+      "Source_GG221_T"
+    ],
+    "Raw Data File": [
+      "20180411_QX8_JRW_SA_T_GG221.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[MaterialType]": [
+      "serum EVs"
+    ],
+    "Characteristics[Specimen]": [
+      "pellet containing EVs"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens UniProtKB database (June 2016)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 18 samples were collected: Nine from patients diagnosed with polycythemia vera (diagnosed by WHO 2016 criteria) and nine control samples from healthy donors."
+    ],
+    "Comment[Instrument]": [
+      "QExactive HF-X mass spectrometer (ThermoFisher Scientific, Palo Alto, CA, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "operating in data-dependent acquisition mode"
+    ],
+    "Comment[Separation]": [
+      "nanoLC"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "95 min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented by HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energies of 25"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed"
+    ]
+  },
+  "20180411_QX8_JRW_SA_L_GG218.raw": {
+    "Source Name": [
+      "Source_GG218"
+    ],
+    "Assay Name": [
+      "Source_GG218_L"
+    ],
+    "Raw Data File": [
+      "20180411_QX8_JRW_SA_L_GG218.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC"
+    ],
+    "Characteristics[MaterialType]": [
+      "serum EVs"
+    ],
+    "Characteristics[Specimen]": [
+      "pellet containing EVs"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens UniProtKB database (June 2016)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 18 samples were collected: Nine from patients diagnosed with polycythemia vera (diagnosed by WHO 2016 criteria) and nine control samples from healthy donors."
+    ],
+    "Comment[Instrument]": [
+      "QExactive HF-X mass spectrometer (ThermoFisher Scientific, Palo Alto, CA, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "operating in data-dependent acquisition mode"
+    ],
+    "Comment[Separation]": [
+      "nanoLC"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "95 min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented by HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energies of 25"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed"
+    ]
+  },
+  "20180411_QX8_JRW_SA_L_GG193.raw": {
+    "Source Name": [
+      "Source_GG193"
+    ],
+    "Assay Name": [
+      "Source_GG193_L"
+    ],
+    "Raw Data File": [
+      "20180411_QX8_JRW_SA_L_GG193.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC"
+    ],
+    "Characteristics[MaterialType]": [
+      "serum EVs"
+    ],
+    "Characteristics[Specimen]": [
+      "pellet containing EVs"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens UniProtKB database (June 2016)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 18 samples were collected: Nine from patients diagnosed with polycythemia vera (diagnosed by WHO 2016 criteria) and nine control samples from healthy donors."
+    ],
+    "Comment[Instrument]": [
+      "QExactive HF-X mass spectrometer (ThermoFisher Scientific, Palo Alto, CA, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "operating in data-dependent acquisition mode"
+    ],
+    "Comment[Separation]": [
+      "nanoLC"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "95 min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented by HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energies of 25"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed"
+    ]
+  },
+  "20180411_QX8_JRW_SA_T_GG191.raw": {
+    "Source Name": [
+      "Source_GG191"
+    ],
+    "Assay Name": [
+      "Source_GG191_T"
+    ],
+    "Raw Data File": [
+      "20180411_QX8_JRW_SA_T_GG191.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[MaterialType]": [
+      "serum EVs"
+    ],
+    "Characteristics[Specimen]": [
+      "pellet containing EVs"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens UniProtKB database (June 2016)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 18 samples were collected: Nine from patients diagnosed with polycythemia vera (diagnosed by WHO 2016 criteria) and nine control samples from healthy donors."
+    ],
+    "Comment[Instrument]": [
+      "QExactive HF-X mass spectrometer (ThermoFisher Scientific, Palo Alto, CA, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "operating in data-dependent acquisition mode"
+    ],
+    "Comment[Separation]": [
+      "nanoLC"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "95 min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented by HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energies of 25"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed"
+    ]
+  },
+  "20180411_QX8_JRW_SA_L_GG205.raw": {
+    "Source Name": [
+      "Source_GG205"
+    ],
+    "Assay Name": [
+      "Source_GG205_L"
+    ],
+    "Raw Data File": [
+      "20180411_QX8_JRW_SA_L_GG205.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC"
+    ],
+    "Characteristics[MaterialType]": [
+      "serum EVs"
+    ],
+    "Characteristics[Specimen]": [
+      "pellet containing EVs"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens UniProtKB database (June 2016)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 18 samples were collected: Nine from patients diagnosed with polycythemia vera (diagnosed by WHO 2016 criteria) and nine control samples from healthy donors."
+    ],
+    "Comment[Instrument]": [
+      "QExactive HF-X mass spectrometer (ThermoFisher Scientific, Palo Alto, CA, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "operating in data-dependent acquisition mode"
+    ],
+    "Comment[Separation]": [
+      "nanoLC"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "95 min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented by HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energies of 25"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed"
+    ]
+  },
+  "20180411_QX8_JRW_SA_CT_GG207.raw": {
+    "Source Name": [
+      "Source_GG207"
+    ],
+    "Assay Name": [
+      "Source_GG207_CT"
+    ],
+    "Raw Data File": [
+      "20180411_QX8_JRW_SA_CT_GG207.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "chymotrypsin"
+    ],
+    "Characteristics[MaterialType]": [
+      "serum EVs"
+    ],
+    "Characteristics[Specimen]": [
+      "pellet containing EVs"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens UniProtKB database (June 2016)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 18 samples were collected: Nine from patients diagnosed with polycythemia vera (diagnosed by WHO 2016 criteria) and nine control samples from healthy donors."
+    ],
+    "Comment[Instrument]": [
+      "QExactive HF-X mass spectrometer (ThermoFisher Scientific, Palo Alto, CA, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "operating in data-dependent acquisition mode"
+    ],
+    "Comment[Separation]": [
+      "nanoLC"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "95 min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented by HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energies of 25"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed"
+    ]
+  },
+  "20180411_QX8_JRW_SA_L_GG207.raw": {
+    "Source Name": [
+      "Source_GG207"
+    ],
+    "Assay Name": [
+      "Source_GG207_L"
+    ],
+    "Raw Data File": [
+      "20180411_QX8_JRW_SA_L_GG207.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC"
+    ],
+    "Characteristics[MaterialType]": [
+      "serum EVs"
+    ],
+    "Characteristics[Specimen]": [
+      "pellet containing EVs"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens UniProtKB database (June 2016)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 18 samples were collected: Nine from patients diagnosed with polycythemia vera (diagnosed by WHO 2016 criteria) and nine control samples from healthy donors."
+    ],
+    "Comment[Instrument]": [
+      "QExactive HF-X mass spectrometer (ThermoFisher Scientific, Palo Alto, CA, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "operating in data-dependent acquisition mode"
+    ],
+    "Comment[Separation]": [
+      "nanoLC"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "95 min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented by HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energies of 25"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed"
+    ]
+  },
+  "20180411_QX8_JRW_SA_T_GG193.raw": {
+    "Source Name": [
+      "Source_GG193"
+    ],
+    "Assay Name": [
+      "Source_GG193_T"
+    ],
+    "Raw Data File": [
+      "20180411_QX8_JRW_SA_T_GG193.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[MaterialType]": [
+      "serum EVs"
+    ],
+    "Characteristics[Specimen]": [
+      "pellet containing EVs"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens UniProtKB database (June 2016)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 18 samples were collected: Nine from patients diagnosed with polycythemia vera (diagnosed by WHO 2016 criteria) and nine control samples from healthy donors."
+    ],
+    "Comment[Instrument]": [
+      "QExactive HF-X mass spectrometer (ThermoFisher Scientific, Palo Alto, CA, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "operating in data-dependent acquisition mode"
+    ],
+    "Comment[Separation]": [
+      "nanoLC"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "95 min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented by HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energies of 25"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed"
+    ]
+  },
+  "20180411_QX8_JRW_SA_CT_GG218.raw": {
+    "Source Name": [
+      "Source_GG218"
+    ],
+    "Assay Name": [
+      "Source_GG218_CT"
+    ],
+    "Raw Data File": [
+      "20180411_QX8_JRW_SA_CT_GG218.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "chymotrypsin"
+    ],
+    "Characteristics[MaterialType]": [
+      "serum EVs"
+    ],
+    "Characteristics[Specimen]": [
+      "pellet containing EVs"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens UniProtKB database (June 2016)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 18 samples were collected: Nine from patients diagnosed with polycythemia vera (diagnosed by WHO 2016 criteria) and nine control samples from healthy donors."
+    ],
+    "Comment[Instrument]": [
+      "QExactive HF-X mass spectrometer (ThermoFisher Scientific, Palo Alto, CA, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "operating in data-dependent acquisition mode"
+    ],
+    "Comment[Separation]": [
+      "nanoLC"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "95 min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented by HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energies of 25"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed"
+    ]
+  },
+  "20180411_QX8_JRW_SA_CT_GG194.raw": {
+    "Source Name": [
+      "Source_GG194"
+    ],
+    "Assay Name": [
+      "Source_GG194_CT"
+    ],
+    "Raw Data File": [
+      "20180411_QX8_JRW_SA_CT_GG194.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "chymotrypsin"
+    ],
+    "Characteristics[MaterialType]": [
+      "serum EVs"
+    ],
+    "Characteristics[Specimen]": [
+      "pellet containing EVs"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens UniProtKB database (June 2016)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 18 samples were collected: Nine from patients diagnosed with polycythemia vera (diagnosed by WHO 2016 criteria) and nine control samples from healthy donors."
+    ],
+    "Comment[Instrument]": [
+      "QExactive HF-X mass spectrometer (ThermoFisher Scientific, Palo Alto, CA, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "operating in data-dependent acquisition mode"
+    ],
+    "Comment[Separation]": [
+      "nanoLC"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "95 min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented by HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energies of 25"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed"
+    ]
+  },
+  "20180411_QX8_JRW_SA_CT_GG219.raw": {
+    "Source Name": [
+      "Source_GG219"
+    ],
+    "Assay Name": [
+      "Source_GG219_CT"
+    ],
+    "Raw Data File": [
+      "20180411_QX8_JRW_SA_CT_GG219.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "chymotrypsin"
+    ],
+    "Characteristics[MaterialType]": [
+      "serum EVs"
+    ],
+    "Characteristics[Specimen]": [
+      "pellet containing EVs"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens UniProtKB database (June 2016)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 18 samples were collected: Nine from patients diagnosed with polycythemia vera (diagnosed by WHO 2016 criteria) and nine control samples from healthy donors."
+    ],
+    "Comment[Instrument]": [
+      "QExactive HF-X mass spectrometer (ThermoFisher Scientific, Palo Alto, CA, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "operating in data-dependent acquisition mode"
+    ],
+    "Comment[Separation]": [
+      "nanoLC"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "95 min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented by HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energies of 25"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed"
+    ]
+  },
+  "20180411_QX8_JRW_SA_CT_GG222.raw": {
+    "Source Name": [
+      "Source_GG222"
+    ],
+    "Assay Name": [
+      "Source_GG222_CT"
+    ],
+    "Raw Data File": [
+      "20180411_QX8_JRW_SA_CT_GG222.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "chymotrypsin"
+    ],
+    "Characteristics[MaterialType]": [
+      "serum EVs"
+    ],
+    "Characteristics[Specimen]": [
+      "pellet containing EVs"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens UniProtKB database (June 2016)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 18 samples were collected: Nine from patients diagnosed with polycythemia vera (diagnosed by WHO 2016 criteria) and nine control samples from healthy donors."
+    ],
+    "Comment[Instrument]": [
+      "QExactive HF-X mass spectrometer (ThermoFisher Scientific, Palo Alto, CA, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "operating in data-dependent acquisition mode"
+    ],
+    "Comment[Separation]": [
+      "nanoLC"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "95 min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented by HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energies of 25"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed"
+    ]
+  },
+  "20180411_QX8_JRW_SA_T_GG209.raw": {
+    "Source Name": [
+      "Source_GG209"
+    ],
+    "Assay Name": [
+      "Source_GG209_T"
+    ],
+    "Raw Data File": [
+      "20180411_QX8_JRW_SA_T_GG209.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[MaterialType]": [
+      "serum EVs"
+    ],
+    "Characteristics[Specimen]": [
+      "pellet containing EVs"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens UniProtKB database (June 2016)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 18 samples were collected: Nine from patients diagnosed with polycythemia vera (diagnosed by WHO 2016 criteria) and nine control samples from healthy donors."
+    ],
+    "Comment[Instrument]": [
+      "QExactive HF-X mass spectrometer (ThermoFisher Scientific, Palo Alto, CA, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "operating in data-dependent acquisition mode"
+    ],
+    "Comment[Separation]": [
+      "nanoLC"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "95 min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented by HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energies of 25"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed"
+    ]
+  },
+  "20180411_QX8_JRW_SA_L_GG198.raw": {
+    "Source Name": [
+      "Source_GG198"
+    ],
+    "Assay Name": [
+      "Source_GG198_L"
+    ],
+    "Raw Data File": [
+      "20180411_QX8_JRW_SA_L_GG198.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC"
+    ],
+    "Characteristics[MaterialType]": [
+      "serum EVs"
+    ],
+    "Characteristics[Specimen]": [
+      "pellet containing EVs"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens UniProtKB database (June 2016)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 18 samples were collected: Nine from patients diagnosed with polycythemia vera (diagnosed by WHO 2016 criteria) and nine control samples from healthy donors."
+    ],
+    "Comment[Instrument]": [
+      "QExactive HF-X mass spectrometer (ThermoFisher Scientific, Palo Alto, CA, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "operating in data-dependent acquisition mode"
+    ],
+    "Comment[Separation]": [
+      "nanoLC"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "95 min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented by HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energies of 25"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed"
+    ]
+  },
+  "20180411_QX8_JRW_SA_T_GG215.raw": {
+    "Source Name": [
+      "Source_GG215"
+    ],
+    "Assay Name": [
+      "Source_GG215_T"
+    ],
+    "Raw Data File": [
+      "20180411_QX8_JRW_SA_T_GG215.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[MaterialType]": [
+      "serum EVs"
+    ],
+    "Characteristics[Specimen]": [
+      "pellet containing EVs"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens UniProtKB database (June 2016)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 18 samples were collected: Nine from patients diagnosed with polycythemia vera (diagnosed by WHO 2016 criteria) and nine control samples from healthy donors."
+    ],
+    "Comment[Instrument]": [
+      "QExactive HF-X mass spectrometer (ThermoFisher Scientific, Palo Alto, CA, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "operating in data-dependent acquisition mode"
+    ],
+    "Comment[Separation]": [
+      "nanoLC"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "95 min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented by HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energies of 25"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed"
+    ]
+  },
+  "20180411_QX8_JRW_SA_T_GG216.raw": {
+    "Source Name": [
+      "Source_GG216"
+    ],
+    "Assay Name": [
+      "Source_GG216_T"
+    ],
+    "Raw Data File": [
+      "20180411_QX8_JRW_SA_T_GG216.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[MaterialType]": [
+      "serum EVs"
+    ],
+    "Characteristics[Specimen]": [
+      "pellet containing EVs"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens UniProtKB database (June 2016)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 18 samples were collected: Nine from patients diagnosed with polycythemia vera (diagnosed by WHO 2016 criteria) and nine control samples from healthy donors."
+    ],
+    "Comment[Instrument]": [
+      "QExactive HF-X mass spectrometer (ThermoFisher Scientific, Palo Alto, CA, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "operating in data-dependent acquisition mode"
+    ],
+    "Comment[Separation]": [
+      "nanoLC"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "95 min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented by HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energies of 25"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed"
+    ]
+  },
+  "20180411_QX8_JRW_SA_CT_GG214.raw": {
+    "Source Name": [
+      "Source_GG214"
+    ],
+    "Assay Name": [
+      "Source_GG214_CT"
+    ],
+    "Raw Data File": [
+      "20180411_QX8_JRW_SA_CT_GG214.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "chymotrypsin"
+    ],
+    "Characteristics[MaterialType]": [
+      "serum EVs"
+    ],
+    "Characteristics[Specimen]": [
+      "pellet containing EVs"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens UniProtKB database (June 2016)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 18 samples were collected: Nine from patients diagnosed with polycythemia vera (diagnosed by WHO 2016 criteria) and nine control samples from healthy donors."
+    ],
+    "Comment[Instrument]": [
+      "QExactive HF-X mass spectrometer (ThermoFisher Scientific, Palo Alto, CA, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "operating in data-dependent acquisition mode"
+    ],
+    "Comment[Separation]": [
+      "nanoLC"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "95 min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented by HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energies of 25"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed"
+    ]
+  },
+  "20180411_QX8_JRW_SA_L_GG219.raw": {
+    "Source Name": [
+      "Source_GG219"
+    ],
+    "Assay Name": [
+      "Source_GG219_L"
+    ],
+    "Raw Data File": [
+      "20180411_QX8_JRW_SA_L_GG219.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC"
+    ],
+    "Characteristics[MaterialType]": [
+      "serum EVs"
+    ],
+    "Characteristics[Specimen]": [
+      "pellet containing EVs"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens UniProtKB database (June 2016)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 18 samples were collected: Nine from patients diagnosed with polycythemia vera (diagnosed by WHO 2016 criteria) and nine control samples from healthy donors."
+    ],
+    "Comment[Instrument]": [
+      "QExactive HF-X mass spectrometer (ThermoFisher Scientific, Palo Alto, CA, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "operating in data-dependent acquisition mode"
+    ],
+    "Comment[Separation]": [
+      "nanoLC"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "95 min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented by HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energies of 25"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed"
+    ]
+  },
+  "20180411_QX8_JRW_SA_CT_GG209.raw": {
+    "Source Name": [
+      "Source_GG209"
+    ],
+    "Assay Name": [
+      "Source_GG209_CT"
+    ],
+    "Raw Data File": [
+      "20180411_QX8_JRW_SA_CT_GG209.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "chymotrypsin"
+    ],
+    "Characteristics[MaterialType]": [
+      "serum EVs"
+    ],
+    "Characteristics[Specimen]": [
+      "pellet containing EVs"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens UniProtKB database (June 2016)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 18 samples were collected: Nine from patients diagnosed with polycythemia vera (diagnosed by WHO 2016 criteria) and nine control samples from healthy donors."
+    ],
+    "Comment[Instrument]": [
+      "QExactive HF-X mass spectrometer (ThermoFisher Scientific, Palo Alto, CA, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "operating in data-dependent acquisition mode"
+    ],
+    "Comment[Separation]": [
+      "nanoLC"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "95 min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented by HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energies of 25"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed"
+    ]
+  },
+  "20180411_QX8_JRW_SA_CT_GG198.raw": {
+    "Source Name": [
+      "Source_GG198"
+    ],
+    "Assay Name": [
+      "Source_GG198_CT"
+    ],
+    "Raw Data File": [
+      "20180411_QX8_JRW_SA_CT_GG198.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "chymotrypsin"
+    ],
+    "Characteristics[MaterialType]": [
+      "serum EVs"
+    ],
+    "Characteristics[Specimen]": [
+      "pellet containing EVs"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens UniProtKB database (June 2016)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 18 samples were collected: Nine from patients diagnosed with polycythemia vera (diagnosed by WHO 2016 criteria) and nine control samples from healthy donors."
+    ],
+    "Comment[Instrument]": [
+      "QExactive HF-X mass spectrometer (ThermoFisher Scientific, Palo Alto, CA, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "operating in data-dependent acquisition mode"
+    ],
+    "Comment[Separation]": [
+      "nanoLC"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "95 min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented by HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energies of 25"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed"
+    ]
+  },
+  "20180411_QX8_JRW_SA_CT_GG220.raw": {
+    "Source Name": [
+      "Source_GG220"
+    ],
+    "Assay Name": [
+      "Source_GG220_CT"
+    ],
+    "Raw Data File": [
+      "20180411_QX8_JRW_SA_CT_GG220.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "chymotrypsin"
+    ],
+    "Characteristics[MaterialType]": [
+      "serum EVs"
+    ],
+    "Characteristics[Specimen]": [
+      "pellet containing EVs"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens UniProtKB database (June 2016)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 18 samples were collected: Nine from patients diagnosed with polycythemia vera (diagnosed by WHO 2016 criteria) and nine control samples from healthy donors."
+    ],
+    "Comment[Instrument]": [
+      "QExactive HF-X mass spectrometer (ThermoFisher Scientific, Palo Alto, CA, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "operating in data-dependent acquisition mode"
+    ],
+    "Comment[Separation]": [
+      "nanoLC"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "95 min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented by HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energies of 25"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed"
+    ]
+  },
+  "20180411_QX8_JRW_SA_T_GG214.raw": {
+    "Source Name": [
+      "Source_GG214"
+    ],
+    "Assay Name": [
+      "Source_GG214_T"
+    ],
+    "Raw Data File": [
+      "20180411_QX8_JRW_SA_T_GG214.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[MaterialType]": [
+      "serum EVs"
+    ],
+    "Characteristics[Specimen]": [
+      "pellet containing EVs"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens UniProtKB database (June 2016)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 18 samples were collected: Nine from patients diagnosed with polycythemia vera (diagnosed by WHO 2016 criteria) and nine control samples from healthy donors."
+    ],
+    "Comment[Instrument]": [
+      "QExactive HF-X mass spectrometer (ThermoFisher Scientific, Palo Alto, CA, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "operating in data-dependent acquisition mode"
+    ],
+    "Comment[Separation]": [
+      "nanoLC"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "95 min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented by HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energies of 25"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed"
+    ]
+  },
+  "20180411_QX8_JRW_SA_L_GG221.raw": {
+    "Source Name": [
+      "Source_GG221"
+    ],
+    "Assay Name": [
+      "Source_GG221_L"
+    ],
+    "Raw Data File": [
+      "20180411_QX8_JRW_SA_L_GG221.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC"
+    ],
+    "Characteristics[MaterialType]": [
+      "serum EVs"
+    ],
+    "Characteristics[Specimen]": [
+      "pellet containing EVs"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens UniProtKB database (June 2016)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 18 samples were collected: Nine from patients diagnosed with polycythemia vera (diagnosed by WHO 2016 criteria) and nine control samples from healthy donors."
+    ],
+    "Comment[Instrument]": [
+      "QExactive HF-X mass spectrometer (ThermoFisher Scientific, Palo Alto, CA, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "operating in data-dependent acquisition mode"
+    ],
+    "Comment[Separation]": [
+      "nanoLC"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "95 min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented by HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energies of 25"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed"
+    ]
+  },
+  "20180411_QX8_JRW_SA_CT_GG191.raw": {
+    "Source Name": [
+      "Source_GG191"
+    ],
+    "Assay Name": [
+      "Source_GG191_CT"
+    ],
+    "Raw Data File": [
+      "20180411_QX8_JRW_SA_CT_GG191.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "chymotrypsin"
+    ],
+    "Characteristics[MaterialType]": [
+      "serum EVs"
+    ],
+    "Characteristics[Specimen]": [
+      "pellet containing EVs"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens UniProtKB database (June 2016)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 18 samples were collected: Nine from patients diagnosed with polycythemia vera (diagnosed by WHO 2016 criteria) and nine control samples from healthy donors."
+    ],
+    "Comment[Instrument]": [
+      "QExactive HF-X mass spectrometer (ThermoFisher Scientific, Palo Alto, CA, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "operating in data-dependent acquisition mode"
+    ],
+    "Comment[Separation]": [
+      "nanoLC"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "95 min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented by HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energies of 25"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed"
+    ]
+  },
+  "20180411_QX8_JRW_SA_L_GG209.raw": {
+    "Source Name": [
+      "Source_GG209"
+    ],
+    "Assay Name": [
+      "Source_GG209_L"
+    ],
+    "Raw Data File": [
+      "20180411_QX8_JRW_SA_L_GG209.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC"
+    ],
+    "Characteristics[MaterialType]": [
+      "serum EVs"
+    ],
+    "Characteristics[Specimen]": [
+      "pellet containing EVs"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens UniProtKB database (June 2016)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 18 samples were collected: Nine from patients diagnosed with polycythemia vera (diagnosed by WHO 2016 criteria) and nine control samples from healthy donors."
+    ],
+    "Comment[Instrument]": [
+      "QExactive HF-X mass spectrometer (ThermoFisher Scientific, Palo Alto, CA, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "operating in data-dependent acquisition mode"
+    ],
+    "Comment[Separation]": [
+      "nanoLC"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "95 min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented by HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energies of 25"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed"
+    ]
+  },
+  "20180411_QX8_JRW_SA_L_GG214.raw": {
+    "Source Name": [
+      "Source_GG214"
+    ],
+    "Assay Name": [
+      "Source_GG214_L"
+    ],
+    "Raw Data File": [
+      "20180411_QX8_JRW_SA_L_GG214.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC"
+    ],
+    "Characteristics[MaterialType]": [
+      "serum EVs"
+    ],
+    "Characteristics[Specimen]": [
+      "pellet containing EVs"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens UniProtKB database (June 2016)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 18 samples were collected: Nine from patients diagnosed with polycythemia vera (diagnosed by WHO 2016 criteria) and nine control samples from healthy donors."
+    ],
+    "Comment[Instrument]": [
+      "QExactive HF-X mass spectrometer (ThermoFisher Scientific, Palo Alto, CA, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "operating in data-dependent acquisition mode"
+    ],
+    "Comment[Separation]": [
+      "nanoLC"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "95 min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented by HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energies of 25"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed"
+    ]
+  },
+  "20180411_QX8_JRW_SA_L_GG216.raw": {
+    "Source Name": [
+      "Source_GG216"
+    ],
+    "Assay Name": [
+      "Source_GG216_L"
+    ],
+    "Raw Data File": [
+      "20180411_QX8_JRW_SA_L_GG216.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC"
+    ],
+    "Characteristics[MaterialType]": [
+      "serum EVs"
+    ],
+    "Characteristics[Specimen]": [
+      "pellet containing EVs"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens UniProtKB database (June 2016)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 18 samples were collected: Nine from patients diagnosed with polycythemia vera (diagnosed by WHO 2016 criteria) and nine control samples from healthy donors."
+    ],
+    "Comment[Instrument]": [
+      "QExactive HF-X mass spectrometer (ThermoFisher Scientific, Palo Alto, CA, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "operating in data-dependent acquisition mode"
+    ],
+    "Comment[Separation]": [
+      "nanoLC"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "95 min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented by HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energies of 25"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed"
+    ]
+  },
+  "20180411_QX8_JRW_SA_L_GG199.raw": {
+    "Source Name": [
+      "Source_GG199"
+    ],
+    "Assay Name": [
+      "Source_GG199_L"
+    ],
+    "Raw Data File": [
+      "20180411_QX8_JRW_SA_L_GG199.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC"
+    ],
+    "Characteristics[MaterialType]": [
+      "serum EVs"
+    ],
+    "Characteristics[Specimen]": [
+      "pellet containing EVs"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens UniProtKB database (June 2016)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 18 samples were collected: Nine from patients diagnosed with polycythemia vera (diagnosed by WHO 2016 criteria) and nine control samples from healthy donors."
+    ],
+    "Comment[Instrument]": [
+      "QExactive HF-X mass spectrometer (ThermoFisher Scientific, Palo Alto, CA, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "operating in data-dependent acquisition mode"
+    ],
+    "Comment[Separation]": [
+      "nanoLC"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "95 min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented by HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energies of 25"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed"
+    ]
+  },
+  "20180411_QX8_JRW_SA_T_GG195.raw": {
+    "Source Name": [
+      "Source_GG195"
+    ],
+    "Assay Name": [
+      "Source_GG195_T"
+    ],
+    "Raw Data File": [
+      "20180411_QX8_JRW_SA_T_GG195.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[MaterialType]": [
+      "serum EVs"
+    ],
+    "Characteristics[Specimen]": [
+      "pellet containing EVs"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens UniProtKB database (June 2016)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 18 samples were collected: Nine from patients diagnosed with polycythemia vera (diagnosed by WHO 2016 criteria) and nine control samples from healthy donors."
+    ],
+    "Comment[Instrument]": [
+      "QExactive HF-X mass spectrometer (ThermoFisher Scientific, Palo Alto, CA, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "operating in data-dependent acquisition mode"
+    ],
+    "Comment[Separation]": [
+      "nanoLC"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "95 min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented by HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energies of 25"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed"
+    ]
+  },
+  "20180411_QX8_JRW_SA_L_GG194.raw": {
+    "Source Name": [
+      "Source_GG194"
+    ],
+    "Assay Name": [
+      "Source_GG194_L"
+    ],
+    "Raw Data File": [
+      "20180411_QX8_JRW_SA_L_GG194.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC"
+    ],
+    "Characteristics[MaterialType]": [
+      "serum EVs"
+    ],
+    "Characteristics[Specimen]": [
+      "pellet containing EVs"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens UniProtKB database (June 2016)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 18 samples were collected: Nine from patients diagnosed with polycythemia vera (diagnosed by WHO 2016 criteria) and nine control samples from healthy donors."
+    ],
+    "Comment[Instrument]": [
+      "QExactive HF-X mass spectrometer (ThermoFisher Scientific, Palo Alto, CA, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "operating in data-dependent acquisition mode"
+    ],
+    "Comment[Separation]": [
+      "nanoLC"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "95 min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented by HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energies of 25"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed"
+    ]
+  },
+  "20180411_QX8_JRW_SA_CT_GG215.raw": {
+    "Source Name": [
+      "Source_GG215"
+    ],
+    "Assay Name": [
+      "Source_GG215_CT"
+    ],
+    "Raw Data File": [
+      "20180411_QX8_JRW_SA_CT_GG215.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "chymotrypsin"
+    ],
+    "Characteristics[MaterialType]": [
+      "serum EVs"
+    ],
+    "Characteristics[Specimen]": [
+      "pellet containing EVs"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens UniProtKB database (June 2016)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 18 samples were collected: Nine from patients diagnosed with polycythemia vera (diagnosed by WHO 2016 criteria) and nine control samples from healthy donors."
+    ],
+    "Comment[Instrument]": [
+      "QExactive HF-X mass spectrometer (ThermoFisher Scientific, Palo Alto, CA, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "operating in data-dependent acquisition mode"
+    ],
+    "Comment[Separation]": [
+      "nanoLC"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "95 min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented by HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energies of 25"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed"
+    ]
+  },
+  "20180411_QX8_JRW_SA_CT_GG199.raw": {
+    "Source Name": [
+      "Source_GG199"
+    ],
+    "Assay Name": [
+      "Source_GG199_CT"
+    ],
+    "Raw Data File": [
+      "20180411_QX8_JRW_SA_CT_GG199.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "chymotrypsin"
+    ],
+    "Characteristics[MaterialType]": [
+      "serum EVs"
+    ],
+    "Characteristics[Specimen]": [
+      "pellet containing EVs"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens UniProtKB database (June 2016)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 18 samples were collected: Nine from patients diagnosed with polycythemia vera (diagnosed by WHO 2016 criteria) and nine control samples from healthy donors."
+    ],
+    "Comment[Instrument]": [
+      "QExactive HF-X mass spectrometer (ThermoFisher Scientific, Palo Alto, CA, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "operating in data-dependent acquisition mode"
+    ],
+    "Comment[Separation]": [
+      "nanoLC"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "95 min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented by HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energies of 25"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed"
+    ]
+  },
+  "20180411_QX8_JRW_SA_CT_GG217.raw": {
+    "Source Name": [
+      "Source_GG217"
+    ],
+    "Assay Name": [
+      "Source_GG217_CT"
+    ],
+    "Raw Data File": [
+      "20180411_QX8_JRW_SA_CT_GG217.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "chymotrypsin"
+    ],
+    "Characteristics[MaterialType]": [
+      "serum EVs"
+    ],
+    "Characteristics[Specimen]": [
+      "pellet containing EVs"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens UniProtKB database (June 2016)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 18 samples were collected: Nine from patients diagnosed with polycythemia vera (diagnosed by WHO 2016 criteria) and nine control samples from healthy donors."
+    ],
+    "Comment[Instrument]": [
+      "QExactive HF-X mass spectrometer (ThermoFisher Scientific, Palo Alto, CA, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "operating in data-dependent acquisition mode"
+    ],
+    "Comment[Separation]": [
+      "nanoLC"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "95 min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented by HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energies of 25"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed"
+    ]
+  },
+  "20180411_QX8_JRW_SA_L_GG215.raw": {
+    "Source Name": [
+      "Source_GG215"
+    ],
+    "Assay Name": [
+      "Source_GG215_L"
+    ],
+    "Raw Data File": [
+      "20180411_QX8_JRW_SA_L_GG215.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC"
+    ],
+    "Characteristics[MaterialType]": [
+      "serum EVs"
+    ],
+    "Characteristics[Specimen]": [
+      "pellet containing EVs"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens UniProtKB database (June 2016)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 18 samples were collected: Nine from patients diagnosed with polycythemia vera (diagnosed by WHO 2016 criteria) and nine control samples from healthy donors."
+    ],
+    "Comment[Instrument]": [
+      "QExactive HF-X mass spectrometer (ThermoFisher Scientific, Palo Alto, CA, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "operating in data-dependent acquisition mode"
+    ],
+    "Comment[Separation]": [
+      "nanoLC"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "95 min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented by HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energies of 25"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed"
+    ]
+  },
+  "20180411_QX8_JRW_SA_L_GG217.raw": {
+    "Source Name": [
+      "Source_GG217"
+    ],
+    "Assay Name": [
+      "Source_GG217_L"
+    ],
+    "Raw Data File": [
+      "20180411_QX8_JRW_SA_L_GG217.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC"
+    ],
+    "Characteristics[MaterialType]": [
+      "serum EVs"
+    ],
+    "Characteristics[Specimen]": [
+      "pellet containing EVs"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens UniProtKB database (June 2016)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 18 samples were collected: Nine from patients diagnosed with polycythemia vera (diagnosed by WHO 2016 criteria) and nine control samples from healthy donors."
+    ],
+    "Comment[Instrument]": [
+      "QExactive HF-X mass spectrometer (ThermoFisher Scientific, Palo Alto, CA, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "operating in data-dependent acquisition mode"
+    ],
+    "Comment[Separation]": [
+      "nanoLC"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "95 min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented by HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energies of 25"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed"
+    ]
+  },
+  "20180411_QX8_JRW_SA_T_GG217.raw": {
+    "Source Name": [
+      "Source_GG217"
+    ],
+    "Assay Name": [
+      "Source_GG217_T"
+    ],
+    "Raw Data File": [
+      "20180411_QX8_JRW_SA_T_GG217.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[MaterialType]": [
+      "serum EVs"
+    ],
+    "Characteristics[Specimen]": [
+      "pellet containing EVs"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens UniProtKB database (June 2016)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 18 samples were collected: Nine from patients diagnosed with polycythemia vera (diagnosed by WHO 2016 criteria) and nine control samples from healthy donors."
+    ],
+    "Comment[Instrument]": [
+      "QExactive HF-X mass spectrometer (ThermoFisher Scientific, Palo Alto, CA, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "operating in data-dependent acquisition mode"
+    ],
+    "Comment[Separation]": [
+      "nanoLC"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "95 min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented by HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energies of 25"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed"
+    ]
+  },
+  "20180411_QX8_JRW_SA_CT_GG195.raw": {
+    "Source Name": [
+      "Source_GG195"
+    ],
+    "Assay Name": [
+      "Source_GG195_CT"
+    ],
+    "Raw Data File": [
+      "20180411_QX8_JRW_SA_CT_GG195.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "chymotrypsin"
+    ],
+    "Characteristics[MaterialType]": [
+      "serum EVs"
+    ],
+    "Characteristics[Specimen]": [
+      "pellet containing EVs"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens UniProtKB database (June 2016)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 18 samples were collected: Nine from patients diagnosed with polycythemia vera (diagnosed by WHO 2016 criteria) and nine control samples from healthy donors."
+    ],
+    "Comment[Instrument]": [
+      "QExactive HF-X mass spectrometer (ThermoFisher Scientific, Palo Alto, CA, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "operating in data-dependent acquisition mode"
+    ],
+    "Comment[Separation]": [
+      "nanoLC"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "95 min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented by HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energies of 25"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed"
+    ]
+  },
+  "20180411_QX8_JRW_SA_CT_GG205.raw": {
+    "Source Name": [
+      "Source_GG205"
+    ],
+    "Assay Name": [
+      "Source_GG205_CT"
+    ],
+    "Raw Data File": [
+      "20180411_QX8_JRW_SA_CT_GG205.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "chymotrypsin"
+    ],
+    "Characteristics[MaterialType]": [
+      "serum EVs"
+    ],
+    "Characteristics[Specimen]": [
+      "pellet containing EVs"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens UniProtKB database (June 2016)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 18 samples were collected: Nine from patients diagnosed with polycythemia vera (diagnosed by WHO 2016 criteria) and nine control samples from healthy donors."
+    ],
+    "Comment[Instrument]": [
+      "QExactive HF-X mass spectrometer (ThermoFisher Scientific, Palo Alto, CA, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "operating in data-dependent acquisition mode"
+    ],
+    "Comment[Separation]": [
+      "nanoLC"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "95 min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented by HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energies of 25"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed"
+    ]
+  },
+  "20180411_QX8_JRW_SA_L_GG220.raw": {
+    "Source Name": [
+      "Source_GG220"
+    ],
+    "Assay Name": [
+      "Source_GG220_L"
+    ],
+    "Raw Data File": [
+      "20180411_QX8_JRW_SA_L_GG220.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC"
+    ],
+    "Characteristics[MaterialType]": [
+      "serum EVs"
+    ],
+    "Characteristics[Specimen]": [
+      "pellet containing EVs"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens UniProtKB database (June 2016)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 18 samples were collected: Nine from patients diagnosed with polycythemia vera (diagnosed by WHO 2016 criteria) and nine control samples from healthy donors."
+    ],
+    "Comment[Instrument]": [
+      "QExactive HF-X mass spectrometer (ThermoFisher Scientific, Palo Alto, CA, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "operating in data-dependent acquisition mode"
+    ],
+    "Comment[Separation]": [
+      "nanoLC"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "95 min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented by HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energies of 25"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed"
+    ]
+  },
+  "20180411_QX8_JRW_SA_CT_GG221.raw": {
+    "Source Name": [
+      "Source_GG221"
+    ],
+    "Assay Name": [
+      "Source_GG221_CT"
+    ],
+    "Raw Data File": [
+      "20180411_QX8_JRW_SA_CT_GG221.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "chymotrypsin"
+    ],
+    "Characteristics[MaterialType]": [
+      "serum EVs"
+    ],
+    "Characteristics[Specimen]": [
+      "pellet containing EVs"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens UniProtKB database (June 2016)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 18 samples were collected: Nine from patients diagnosed with polycythemia vera (diagnosed by WHO 2016 criteria) and nine control samples from healthy donors."
+    ],
+    "Comment[Instrument]": [
+      "QExactive HF-X mass spectrometer (ThermoFisher Scientific, Palo Alto, CA, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "operating in data-dependent acquisition mode"
+    ],
+    "Comment[Separation]": [
+      "nanoLC"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "95 min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented by HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energies of 25"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed"
+    ]
+  },
+  "20180411_QX8_JRW_SA_T_GG222.raw": {
+    "Source Name": [
+      "Source_GG222"
+    ],
+    "Assay Name": [
+      "Source_GG222_T"
+    ],
+    "Raw Data File": [
+      "20180411_QX8_JRW_SA_T_GG222.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[MaterialType]": [
+      "serum EVs"
+    ],
+    "Characteristics[Specimen]": [
+      "pellet containing EVs"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens UniProtKB database (June 2016)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 18 samples were collected: Nine from patients diagnosed with polycythemia vera (diagnosed by WHO 2016 criteria) and nine control samples from healthy donors."
+    ],
+    "Comment[Instrument]": [
+      "QExactive HF-X mass spectrometer (ThermoFisher Scientific, Palo Alto, CA, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "operating in data-dependent acquisition mode"
+    ],
+    "Comment[Separation]": [
+      "nanoLC"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "95 min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented by HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energies of 25"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed"
+    ]
+  },
+  "20180411_QX8_JRW_SA_T_GG199.raw": {
+    "Source Name": [
+      "Source_GG199"
+    ],
+    "Assay Name": [
+      "Source_GG199_T"
+    ],
+    "Raw Data File": [
+      "20180411_QX8_JRW_SA_T_GG199.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[MaterialType]": [
+      "serum EVs"
+    ],
+    "Characteristics[Specimen]": [
+      "pellet containing EVs"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens UniProtKB database (June 2016)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 18 samples were collected: Nine from patients diagnosed with polycythemia vera (diagnosed by WHO 2016 criteria) and nine control samples from healthy donors."
+    ],
+    "Comment[Instrument]": [
+      "QExactive HF-X mass spectrometer (ThermoFisher Scientific, Palo Alto, CA, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "operating in data-dependent acquisition mode"
+    ],
+    "Comment[Separation]": [
+      "nanoLC"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "95 min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented by HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energies of 25"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed"
+    ]
+  },
+  "20180411_QX8_JRW_SA_T_GG219.raw": {
+    "Source Name": [
+      "Source_GG219"
+    ],
+    "Assay Name": [
+      "Source_GG219_T"
+    ],
+    "Raw Data File": [
+      "20180411_QX8_JRW_SA_T_GG219.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[MaterialType]": [
+      "serum EVs"
+    ],
+    "Characteristics[Specimen]": [
+      "pellet containing EVs"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens UniProtKB database (June 2016)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 18 samples were collected: Nine from patients diagnosed with polycythemia vera (diagnosed by WHO 2016 criteria) and nine control samples from healthy donors."
+    ],
+    "Comment[Instrument]": [
+      "QExactive HF-X mass spectrometer (ThermoFisher Scientific, Palo Alto, CA, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "operating in data-dependent acquisition mode"
+    ],
+    "Comment[Separation]": [
+      "nanoLC"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "95 min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented by HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energies of 25"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed"
+    ]
+  },
+  "20180411_QX8_JRW_SA_L_GG191.raw": {
+    "Source Name": [
+      "Source_GG191"
+    ],
+    "Assay Name": [
+      "Source_GG191_L"
+    ],
+    "Raw Data File": [
+      "20180411_QX8_JRW_SA_L_GG191.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC"
+    ],
+    "Characteristics[MaterialType]": [
+      "serum EVs"
+    ],
+    "Characteristics[Specimen]": [
+      "pellet containing EVs"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens UniProtKB database (June 2016)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 18 samples were collected: Nine from patients diagnosed with polycythemia vera (diagnosed by WHO 2016 criteria) and nine control samples from healthy donors."
+    ],
+    "Comment[Instrument]": [
+      "QExactive HF-X mass spectrometer (ThermoFisher Scientific, Palo Alto, CA, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "operating in data-dependent acquisition mode"
+    ],
+    "Comment[Separation]": [
+      "nanoLC"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "95 min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented by HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energies of 25"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed"
+    ]
+  },
+  "20180411_QX8_JRW_SA_CT_GG216.raw": {
+    "Source Name": [
+      "Source_GG216"
+    ],
+    "Assay Name": [
+      "Source_GG216_CT"
+    ],
+    "Raw Data File": [
+      "20180411_QX8_JRW_SA_CT_GG216.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "chymotrypsin"
+    ],
+    "Characteristics[MaterialType]": [
+      "serum EVs"
+    ],
+    "Characteristics[Specimen]": [
+      "pellet containing EVs"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens UniProtKB database (June 2016)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 18 samples were collected: Nine from patients diagnosed with polycythemia vera (diagnosed by WHO 2016 criteria) and nine control samples from healthy donors."
+    ],
+    "Comment[Instrument]": [
+      "QExactive HF-X mass spectrometer (ThermoFisher Scientific, Palo Alto, CA, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "operating in data-dependent acquisition mode"
+    ],
+    "Comment[Separation]": [
+      "nanoLC"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "95 min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented by HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energies of 25"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed"
+    ]
+  },
+  "20180411_QX8_JRW_SA_L_GG222.raw": {
+    "Source Name": [
+      "Source_GG222"
+    ],
+    "Assay Name": [
+      "Source_GG222_L"
+    ],
+    "Raw Data File": [
+      "20180411_QX8_JRW_SA_L_GG222.raw"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "LysC"
+    ],
+    "Characteristics[MaterialType]": [
+      "serum EVs"
+    ],
+    "Characteristics[Specimen]": [
+      "pellet containing EVs"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens UniProtKB database (June 2016)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "In total, 18 samples were collected: Nine from patients diagnosed with polycythemia vera (diagnosed by WHO 2016 criteria) and nine control samples from healthy donors."
+    ],
+    "Comment[Instrument]": [
+      "QExactive HF-X mass spectrometer (ThermoFisher Scientific, Palo Alto, CA, USA)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "operating in data-dependent acquisition mode"
+    ],
+    "Comment[Separation]": [
+      "nanoLC"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[GradientTime]": [
+      "95 min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "fragmented by HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energies of 25"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "a maximum of two missed cleavages were allowed"
+    ]
+  }
+}

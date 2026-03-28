@@ -1,0 +1,2672 @@
+{
+  "ScltlMsclSet6BRPhsFr8.raw": {
+    "Source Name": [
+      "ScltlMsclSet6BRPhs"
+    ],
+    "Assay Name": [
+      "ScltlMsclSet6BRPhs_Fr8"
+    ],
+    "Raw Data File": [
+      "ScltlMsclSet6BRPhsFr8.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human skeletal muscle biopsies"
+    ],
+    "Characteristics[OrganismPart]": [
+      "vastus lateralis muscle"
+    ],
+    "Characteristics[MaterialType]": [
+      "muscle biopsies"
+    ],
+    "Characteristics[Age]": [
+      "20–87 years"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "58 participants"
+    ],
+    "Characteristics[BMI]": [
+      "BMI less than 30 kg/m2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC mixture [Promega, 1:50 (w/w)]"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "50 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "100 mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "TMT6plex"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "200 fM of bacterial beta-galactosidase digest (SCIEX)"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate 3000 Nano LC Systems coupled to a Q Exactive HF mass spectrometer (Thermo Scientific, San Jose, CA, United States)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Dd-MS2 spectra were acquired using a dynamic m/z range with a fixed first mass of 100 m/z."
+    ],
+    "Comment[CollisionEnergy]": [
+      "The 12 most abundant ions were selected for fragmentation using 30% normalized high collision energy."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were resolved to 30,000 with 155-ms of maximum accumulation time and the automatic gain control target set to 2 × 105."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.08 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages"
+    ],
+    "Comment[FractionationMethod]": [
+      "High-pH RPLC fractionation was performed as described previously."
+    ],
+    "Comment[NumberOfFractions]": [
+      "33 master fractions"
+    ],
+    "Comment[Separation]": [
+      "reverse phase on a 35-cm capillary column (3-μm C18, Hamilton, HxSil cat 79139) with 150 μm ID"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "with 150 μm ID at 650 nL/min (5–30% B, 205 min)"
+    ],
+    "Comment[GradientTime]": [
+      "5–30% B, 205 min"
+    ],
+    "Comment[IonizationType]": [
+      "heated capillary temperature +280°C and spray voltage set to 2.5 kV."
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fr8"
+    ],
+    "FactorValue[Experimental]": [
+      "For analyses, the following categories were used: <30 min per week of high intensity physical activity was considered “not active” and coded as 0; high intensity physical activity ≥30 and <75 min was considered “moderately active” and coded as 1, high intensity physical activity ≥75 and <150 min was considered “active” and coded as 2, and high intensity physical activity ≥150 min was considered to “highly active” and coded as 3."
+    ]
+  },
+  "ScltlMsclSet11BRPhsFr22.raw": {
+    "Source Name": [
+      "ScltlMsclSet11BRPhs"
+    ],
+    "Assay Name": [
+      "ScltlMsclSet11BRPhs_Fr22"
+    ],
+    "Raw Data File": [
+      "ScltlMsclSet11BRPhsFr22.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human skeletal muscle biopsies"
+    ],
+    "Characteristics[OrganismPart]": [
+      "vastus lateralis muscle"
+    ],
+    "Characteristics[MaterialType]": [
+      "muscle biopsies"
+    ],
+    "Characteristics[Age]": [
+      "20–87 years"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "58 participants"
+    ],
+    "Characteristics[BMI]": [
+      "BMI less than 30 kg/m2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC mixture [Promega, 1:50 (w/w)]"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "50 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "100 mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "TMT6plex"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "200 fM of bacterial beta-galactosidase digest (SCIEX)"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate 3000 Nano LC Systems coupled to a Q Exactive HF mass spectrometer (Thermo Scientific, San Jose, CA, United States)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Dd-MS2 spectra were acquired using a dynamic m/z range with a fixed first mass of 100 m/z."
+    ],
+    "Comment[CollisionEnergy]": [
+      "The 12 most abundant ions were selected for fragmentation using 30% normalized high collision energy."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were resolved to 30,000 with 155-ms of maximum accumulation time and the automatic gain control target set to 2 × 105."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.08 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages"
+    ],
+    "Comment[FractionationMethod]": [
+      "High-pH RPLC fractionation was performed as described previously."
+    ],
+    "Comment[NumberOfFractions]": [
+      "33 master fractions"
+    ],
+    "Comment[Separation]": [
+      "reverse phase on a 35-cm capillary column (3-μm C18, Hamilton, HxSil cat 79139) with 150 μm ID"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "with 150 μm ID at 650 nL/min (5–30% B, 205 min)"
+    ],
+    "Comment[GradientTime]": [
+      "5–30% B, 205 min"
+    ],
+    "Comment[IonizationType]": [
+      "heated capillary temperature +280°C and spray voltage set to 2.5 kV."
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fr22"
+    ],
+    "FactorValue[Experimental]": [
+      "For analyses, the following categories were used: <30 min per week of high intensity physical activity was considered “not active” and coded as 0; high intensity physical activity ≥30 and <75 min was considered “moderately active” and coded as 1, high intensity physical activity ≥75 and <150 min was considered “active” and coded as 2, and high intensity physical activity ≥150 min was considered to “highly active” and coded as 3."
+    ]
+  },
+  "ScltlMsclSet8BRPhsFr19.raw": {
+    "Source Name": [
+      "ScltlMsclSet8BRPhs"
+    ],
+    "Assay Name": [
+      "ScltlMsclSet8BRPhs_Fr19"
+    ],
+    "Raw Data File": [
+      "ScltlMsclSet8BRPhsFr19.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human skeletal muscle biopsies"
+    ],
+    "Characteristics[OrganismPart]": [
+      "vastus lateralis muscle"
+    ],
+    "Characteristics[MaterialType]": [
+      "muscle biopsies"
+    ],
+    "Characteristics[Age]": [
+      "20–87 years"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "58 participants"
+    ],
+    "Characteristics[BMI]": [
+      "BMI less than 30 kg/m2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC mixture [Promega, 1:50 (w/w)]"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "50 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "100 mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "TMT6plex"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "200 fM of bacterial beta-galactosidase digest (SCIEX)"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate 3000 Nano LC Systems coupled to a Q Exactive HF mass spectrometer (Thermo Scientific, San Jose, CA, United States)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Dd-MS2 spectra were acquired using a dynamic m/z range with a fixed first mass of 100 m/z."
+    ],
+    "Comment[CollisionEnergy]": [
+      "The 12 most abundant ions were selected for fragmentation using 30% normalized high collision energy."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were resolved to 30,000 with 155-ms of maximum accumulation time and the automatic gain control target set to 2 × 105."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.08 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages"
+    ],
+    "Comment[FractionationMethod]": [
+      "High-pH RPLC fractionation was performed as described previously."
+    ],
+    "Comment[NumberOfFractions]": [
+      "33 master fractions"
+    ],
+    "Comment[Separation]": [
+      "reverse phase on a 35-cm capillary column (3-μm C18, Hamilton, HxSil cat 79139) with 150 μm ID"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "with 150 μm ID at 650 nL/min (5–30% B, 205 min)"
+    ],
+    "Comment[GradientTime]": [
+      "5–30% B, 205 min"
+    ],
+    "Comment[IonizationType]": [
+      "heated capillary temperature +280°C and spray voltage set to 2.5 kV."
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fr19"
+    ],
+    "FactorValue[Experimental]": [
+      "For analyses, the following categories were used: <30 min per week of high intensity physical activity was considered “not active” and coded as 0; high intensity physical activity ≥30 and <75 min was considered “moderately active” and coded as 1, high intensity physical activity ≥75 and <150 min was considered “active” and coded as 2, and high intensity physical activity ≥150 min was considered to “highly active” and coded as 3."
+    ]
+  },
+  "ScltlMsclSet9BRPhsFr33.raw": {
+    "Source Name": [
+      "ScltlMsclSet9BRPhs"
+    ],
+    "Assay Name": [
+      "ScltlMsclSet9BRPhs_Fr33"
+    ],
+    "Raw Data File": [
+      "ScltlMsclSet9BRPhsFr33.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human skeletal muscle biopsies"
+    ],
+    "Characteristics[OrganismPart]": [
+      "vastus lateralis muscle"
+    ],
+    "Characteristics[MaterialType]": [
+      "muscle biopsies"
+    ],
+    "Characteristics[Age]": [
+      "20–87 years"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "58 participants"
+    ],
+    "Characteristics[BMI]": [
+      "BMI less than 30 kg/m2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC mixture [Promega, 1:50 (w/w)]"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "50 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "100 mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "TMT6plex"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "200 fM of bacterial beta-galactosidase digest (SCIEX)"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate 3000 Nano LC Systems coupled to a Q Exactive HF mass spectrometer (Thermo Scientific, San Jose, CA, United States)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Dd-MS2 spectra were acquired using a dynamic m/z range with a fixed first mass of 100 m/z."
+    ],
+    "Comment[CollisionEnergy]": [
+      "The 12 most abundant ions were selected for fragmentation using 30% normalized high collision energy."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were resolved to 30,000 with 155-ms of maximum accumulation time and the automatic gain control target set to 2 × 105."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.08 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages"
+    ],
+    "Comment[FractionationMethod]": [
+      "High-pH RPLC fractionation was performed as described previously."
+    ],
+    "Comment[NumberOfFractions]": [
+      "33 master fractions"
+    ],
+    "Comment[Separation]": [
+      "reverse phase on a 35-cm capillary column (3-μm C18, Hamilton, HxSil cat 79139) with 150 μm ID"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "with 150 μm ID at 650 nL/min (5–30% B, 205 min)"
+    ],
+    "Comment[GradientTime]": [
+      "5–30% B, 205 min"
+    ],
+    "Comment[IonizationType]": [
+      "heated capillary temperature +280°C and spray voltage set to 2.5 kV."
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fr33"
+    ],
+    "FactorValue[Experimental]": [
+      "For analyses, the following categories were used: <30 min per week of high intensity physical activity was considered “not active” and coded as 0; high intensity physical activity ≥30 and <75 min was considered “moderately active” and coded as 1, high intensity physical activity ≥75 and <150 min was considered “active” and coded as 2, and high intensity physical activity ≥150 min was considered to “highly active” and coded as 3."
+    ]
+  },
+  "ScltlMsclSet5BRPhsFr31.raw": {
+    "Source Name": [
+      "ScltlMsclSet5BRPhs"
+    ],
+    "Assay Name": [
+      "ScltlMsclSet5BRPhs_Fr31"
+    ],
+    "Raw Data File": [
+      "ScltlMsclSet5BRPhsFr31.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human skeletal muscle biopsies"
+    ],
+    "Characteristics[OrganismPart]": [
+      "vastus lateralis muscle"
+    ],
+    "Characteristics[MaterialType]": [
+      "muscle biopsies"
+    ],
+    "Characteristics[Age]": [
+      "20–87 years"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "58 participants"
+    ],
+    "Characteristics[BMI]": [
+      "BMI less than 30 kg/m2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC mixture [Promega, 1:50 (w/w)]"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "50 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "100 mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "TMT6plex"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "200 fM of bacterial beta-galactosidase digest (SCIEX)"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate 3000 Nano LC Systems coupled to a Q Exactive HF mass spectrometer (Thermo Scientific, San Jose, CA, United States)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Dd-MS2 spectra were acquired using a dynamic m/z range with a fixed first mass of 100 m/z."
+    ],
+    "Comment[CollisionEnergy]": [
+      "The 12 most abundant ions were selected for fragmentation using 30% normalized high collision energy."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were resolved to 30,000 with 155-ms of maximum accumulation time and the automatic gain control target set to 2 × 105."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.08 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages"
+    ],
+    "Comment[FractionationMethod]": [
+      "High-pH RPLC fractionation was performed as described previously."
+    ],
+    "Comment[NumberOfFractions]": [
+      "33 master fractions"
+    ],
+    "Comment[Separation]": [
+      "reverse phase on a 35-cm capillary column (3-μm C18, Hamilton, HxSil cat 79139) with 150 μm ID"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "with 150 μm ID at 650 nL/min (5–30% B, 205 min)"
+    ],
+    "Comment[GradientTime]": [
+      "5–30% B, 205 min"
+    ],
+    "Comment[IonizationType]": [
+      "heated capillary temperature +280°C and spray voltage set to 2.5 kV."
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fr31"
+    ],
+    "FactorValue[Experimental]": [
+      "For analyses, the following categories were used: <30 min per week of high intensity physical activity was considered “not active” and coded as 0; high intensity physical activity ≥30 and <75 min was considered “moderately active” and coded as 1, high intensity physical activity ≥75 and <150 min was considered “active” and coded as 2, and high intensity physical activity ≥150 min was considered to “highly active” and coded as 3."
+    ]
+  },
+  "ScltlMsclSet11BRPhsFr25.raw": {
+    "Source Name": [
+      "ScltlMsclSet11BRPhs"
+    ],
+    "Assay Name": [
+      "ScltlMsclSet11BRPhs_Fr25"
+    ],
+    "Raw Data File": [
+      "ScltlMsclSet11BRPhsFr25.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human skeletal muscle biopsies"
+    ],
+    "Characteristics[OrganismPart]": [
+      "vastus lateralis muscle"
+    ],
+    "Characteristics[MaterialType]": [
+      "muscle biopsies"
+    ],
+    "Characteristics[Age]": [
+      "20–87 years"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "58 participants"
+    ],
+    "Characteristics[BMI]": [
+      "BMI less than 30 kg/m2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC mixture [Promega, 1:50 (w/w)]"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "50 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "100 mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "TMT6plex"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "200 fM of bacterial beta-galactosidase digest (SCIEX)"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate 3000 Nano LC Systems coupled to a Q Exactive HF mass spectrometer (Thermo Scientific, San Jose, CA, United States)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Dd-MS2 spectra were acquired using a dynamic m/z range with a fixed first mass of 100 m/z."
+    ],
+    "Comment[CollisionEnergy]": [
+      "The 12 most abundant ions were selected for fragmentation using 30% normalized high collision energy."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were resolved to 30,000 with 155-ms of maximum accumulation time and the automatic gain control target set to 2 × 105."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.08 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages"
+    ],
+    "Comment[FractionationMethod]": [
+      "High-pH RPLC fractionation was performed as described previously."
+    ],
+    "Comment[NumberOfFractions]": [
+      "33 master fractions"
+    ],
+    "Comment[Separation]": [
+      "reverse phase on a 35-cm capillary column (3-μm C18, Hamilton, HxSil cat 79139) with 150 μm ID"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "with 150 μm ID at 650 nL/min (5–30% B, 205 min)"
+    ],
+    "Comment[GradientTime]": [
+      "5–30% B, 205 min"
+    ],
+    "Comment[IonizationType]": [
+      "heated capillary temperature +280°C and spray voltage set to 2.5 kV."
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fr25"
+    ],
+    "FactorValue[Experimental]": [
+      "For analyses, the following categories were used: <30 min per week of high intensity physical activity was considered “not active” and coded as 0; high intensity physical activity ≥30 and <75 min was considered “moderately active” and coded as 1, high intensity physical activity ≥75 and <150 min was considered “active” and coded as 2, and high intensity physical activity ≥150 min was considered to “highly active” and coded as 3."
+    ]
+  },
+  "ScltlMsclSet1BRPhsFr1.raw": {
+    "Source Name": [
+      "ScltlMsclSet1BRPhs"
+    ],
+    "Assay Name": [
+      "ScltlMsclSet1BRPhs_Fr1"
+    ],
+    "Raw Data File": [
+      "ScltlMsclSet1BRPhsFr1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human skeletal muscle biopsies"
+    ],
+    "Characteristics[OrganismPart]": [
+      "vastus lateralis muscle"
+    ],
+    "Characteristics[MaterialType]": [
+      "muscle biopsies"
+    ],
+    "Characteristics[Age]": [
+      "20–87 years"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "58 participants"
+    ],
+    "Characteristics[BMI]": [
+      "BMI less than 30 kg/m2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC mixture [Promega, 1:50 (w/w)]"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "50 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "100 mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "TMT6plex"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "200 fM of bacterial beta-galactosidase digest (SCIEX)"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate 3000 Nano LC Systems coupled to a Q Exactive HF mass spectrometer (Thermo Scientific, San Jose, CA, United States)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Dd-MS2 spectra were acquired using a dynamic m/z range with a fixed first mass of 100 m/z."
+    ],
+    "Comment[CollisionEnergy]": [
+      "The 12 most abundant ions were selected for fragmentation using 30% normalized high collision energy."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were resolved to 30,000 with 155-ms of maximum accumulation time and the automatic gain control target set to 2 × 105."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.08 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages"
+    ],
+    "Comment[FractionationMethod]": [
+      "High-pH RPLC fractionation was performed as described previously."
+    ],
+    "Comment[NumberOfFractions]": [
+      "33 master fractions"
+    ],
+    "Comment[Separation]": [
+      "reverse phase on a 35-cm capillary column (3-μm C18, Hamilton, HxSil cat 79139) with 150 μm ID"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "with 150 μm ID at 650 nL/min (5–30% B, 205 min)"
+    ],
+    "Comment[GradientTime]": [
+      "5–30% B, 205 min"
+    ],
+    "Comment[IonizationType]": [
+      "heated capillary temperature +280°C and spray voltage set to 2.5 kV."
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fr1"
+    ],
+    "FactorValue[Experimental]": [
+      "For analyses, the following categories were used: <30 min per week of high intensity physical activity was considered “not active” and coded as 0; high intensity physical activity ≥30 and <75 min was considered “moderately active” and coded as 1, high intensity physical activity ≥75 and <150 min was considered “active” and coded as 2, and high intensity physical activity ≥150 min was considered to “highly active” and coded as 3."
+    ]
+  },
+  "ScltlMsclSet4BRPhsFr9.raw": {
+    "Source Name": [
+      "ScltlMsclSet4BRPhs"
+    ],
+    "Assay Name": [
+      "ScltlMsclSet4BRPhs_Fr9"
+    ],
+    "Raw Data File": [
+      "ScltlMsclSet4BRPhsFr9.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human skeletal muscle biopsies"
+    ],
+    "Characteristics[OrganismPart]": [
+      "vastus lateralis muscle"
+    ],
+    "Characteristics[MaterialType]": [
+      "muscle biopsies"
+    ],
+    "Characteristics[Age]": [
+      "20–87 years"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "58 participants"
+    ],
+    "Characteristics[BMI]": [
+      "BMI less than 30 kg/m2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC mixture [Promega, 1:50 (w/w)]"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "50 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "100 mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "TMT6plex"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "200 fM of bacterial beta-galactosidase digest (SCIEX)"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate 3000 Nano LC Systems coupled to a Q Exactive HF mass spectrometer (Thermo Scientific, San Jose, CA, United States)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Dd-MS2 spectra were acquired using a dynamic m/z range with a fixed first mass of 100 m/z."
+    ],
+    "Comment[CollisionEnergy]": [
+      "The 12 most abundant ions were selected for fragmentation using 30% normalized high collision energy."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were resolved to 30,000 with 155-ms of maximum accumulation time and the automatic gain control target set to 2 × 105."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.08 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages"
+    ],
+    "Comment[FractionationMethod]": [
+      "High-pH RPLC fractionation was performed as described previously."
+    ],
+    "Comment[NumberOfFractions]": [
+      "33 master fractions"
+    ],
+    "Comment[Separation]": [
+      "reverse phase on a 35-cm capillary column (3-μm C18, Hamilton, HxSil cat 79139) with 150 μm ID"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "with 150 μm ID at 650 nL/min (5–30% B, 205 min)"
+    ],
+    "Comment[GradientTime]": [
+      "5–30% B, 205 min"
+    ],
+    "Comment[IonizationType]": [
+      "heated capillary temperature +280°C and spray voltage set to 2.5 kV."
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fr9"
+    ],
+    "FactorValue[Experimental]": [
+      "For analyses, the following categories were used: <30 min per week of high intensity physical activity was considered “not active” and coded as 0; high intensity physical activity ≥30 and <75 min was considered “moderately active” and coded as 1, high intensity physical activity ≥75 and <150 min was considered “active” and coded as 2, and high intensity physical activity ≥150 min was considered to “highly active” and coded as 3."
+    ]
+  },
+  "ScltlMsclSet11BRPhsFr30.raw": {
+    "Source Name": [
+      "ScltlMsclSet11BRPhs"
+    ],
+    "Assay Name": [
+      "ScltlMsclSet11BRPhs_Fr30"
+    ],
+    "Raw Data File": [
+      "ScltlMsclSet11BRPhsFr30.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human skeletal muscle biopsies"
+    ],
+    "Characteristics[OrganismPart]": [
+      "vastus lateralis muscle"
+    ],
+    "Characteristics[MaterialType]": [
+      "muscle biopsies"
+    ],
+    "Characteristics[Age]": [
+      "20–87 years"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "58 participants"
+    ],
+    "Characteristics[BMI]": [
+      "BMI less than 30 kg/m2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC mixture [Promega, 1:50 (w/w)]"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "50 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "100 mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "TMT6plex"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "200 fM of bacterial beta-galactosidase digest (SCIEX)"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate 3000 Nano LC Systems coupled to a Q Exactive HF mass spectrometer (Thermo Scientific, San Jose, CA, United States)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Dd-MS2 spectra were acquired using a dynamic m/z range with a fixed first mass of 100 m/z."
+    ],
+    "Comment[CollisionEnergy]": [
+      "The 12 most abundant ions were selected for fragmentation using 30% normalized high collision energy."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were resolved to 30,000 with 155-ms of maximum accumulation time and the automatic gain control target set to 2 × 105."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.08 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages"
+    ],
+    "Comment[FractionationMethod]": [
+      "High-pH RPLC fractionation was performed as described previously."
+    ],
+    "Comment[NumberOfFractions]": [
+      "33 master fractions"
+    ],
+    "Comment[Separation]": [
+      "reverse phase on a 35-cm capillary column (3-μm C18, Hamilton, HxSil cat 79139) with 150 μm ID"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "with 150 μm ID at 650 nL/min (5–30% B, 205 min)"
+    ],
+    "Comment[GradientTime]": [
+      "5–30% B, 205 min"
+    ],
+    "Comment[IonizationType]": [
+      "heated capillary temperature +280°C and spray voltage set to 2.5 kV."
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fr30"
+    ],
+    "FactorValue[Experimental]": [
+      "For analyses, the following categories were used: <30 min per week of high intensity physical activity was considered “not active” and coded as 0; high intensity physical activity ≥30 and <75 min was considered “moderately active” and coded as 1, high intensity physical activity ≥75 and <150 min was considered “active” and coded as 2, and high intensity physical activity ≥150 min was considered to “highly active” and coded as 3."
+    ]
+  },
+  "ScltlMsclSet7rernBRPhsFr24.raw": {
+    "Source Name": [
+      "ScltlMsclSet7rernBRPhs"
+    ],
+    "Assay Name": [
+      "ScltlMsclSet7rernBRPhs_Fr24"
+    ],
+    "Raw Data File": [
+      "ScltlMsclSet7rernBRPhsFr24.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human skeletal muscle biopsies"
+    ],
+    "Characteristics[OrganismPart]": [
+      "vastus lateralis muscle"
+    ],
+    "Characteristics[MaterialType]": [
+      "muscle biopsies"
+    ],
+    "Characteristics[Age]": [
+      "20–87 years"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "58 participants"
+    ],
+    "Characteristics[BMI]": [
+      "BMI less than 30 kg/m2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC mixture [Promega, 1:50 (w/w)]"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "50 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "100 mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "TMT6plex"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "200 fM of bacterial beta-galactosidase digest (SCIEX)"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate 3000 Nano LC Systems coupled to a Q Exactive HF mass spectrometer (Thermo Scientific, San Jose, CA, United States)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Dd-MS2 spectra were acquired using a dynamic m/z range with a fixed first mass of 100 m/z."
+    ],
+    "Comment[CollisionEnergy]": [
+      "The 12 most abundant ions were selected for fragmentation using 30% normalized high collision energy."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were resolved to 30,000 with 155-ms of maximum accumulation time and the automatic gain control target set to 2 × 105."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.08 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages"
+    ],
+    "Comment[FractionationMethod]": [
+      "High-pH RPLC fractionation was performed as described previously."
+    ],
+    "Comment[NumberOfFractions]": [
+      "33 master fractions"
+    ],
+    "Comment[Separation]": [
+      "reverse phase on a 35-cm capillary column (3-μm C18, Hamilton, HxSil cat 79139) with 150 μm ID"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "with 150 μm ID at 650 nL/min (5–30% B, 205 min)"
+    ],
+    "Comment[GradientTime]": [
+      "5–30% B, 205 min"
+    ],
+    "Comment[IonizationType]": [
+      "heated capillary temperature +280°C and spray voltage set to 2.5 kV."
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fr24"
+    ],
+    "FactorValue[Experimental]": [
+      "For analyses, the following categories were used: <30 min per week of high intensity physical activity was considered “not active” and coded as 0; high intensity physical activity ≥30 and <75 min was considered “moderately active” and coded as 1, high intensity physical activity ≥75 and <150 min was considered “active” and coded as 2, and high intensity physical activity ≥150 min was considered to “highly active” and coded as 3."
+    ]
+  },
+  "ScltlMsclSet6BRPhsFr2.raw": {
+    "Source Name": [
+      "ScltlMsclSet6BRPhs"
+    ],
+    "Assay Name": [
+      "ScltlMsclSet6BRPhs_Fr2"
+    ],
+    "Raw Data File": [
+      "ScltlMsclSet6BRPhsFr2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human skeletal muscle biopsies"
+    ],
+    "Characteristics[OrganismPart]": [
+      "vastus lateralis muscle"
+    ],
+    "Characteristics[MaterialType]": [
+      "muscle biopsies"
+    ],
+    "Characteristics[Age]": [
+      "20–87 years"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "58 participants"
+    ],
+    "Characteristics[BMI]": [
+      "BMI less than 30 kg/m2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC mixture [Promega, 1:50 (w/w)]"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "50 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "100 mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "TMT6plex"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "200 fM of bacterial beta-galactosidase digest (SCIEX)"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate 3000 Nano LC Systems coupled to a Q Exactive HF mass spectrometer (Thermo Scientific, San Jose, CA, United States)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Dd-MS2 spectra were acquired using a dynamic m/z range with a fixed first mass of 100 m/z."
+    ],
+    "Comment[CollisionEnergy]": [
+      "The 12 most abundant ions were selected for fragmentation using 30% normalized high collision energy."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were resolved to 30,000 with 155-ms of maximum accumulation time and the automatic gain control target set to 2 × 105."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.08 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages"
+    ],
+    "Comment[FractionationMethod]": [
+      "High-pH RPLC fractionation was performed as described previously."
+    ],
+    "Comment[NumberOfFractions]": [
+      "33 master fractions"
+    ],
+    "Comment[Separation]": [
+      "reverse phase on a 35-cm capillary column (3-μm C18, Hamilton, HxSil cat 79139) with 150 μm ID"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "with 150 μm ID at 650 nL/min (5–30% B, 205 min)"
+    ],
+    "Comment[GradientTime]": [
+      "5–30% B, 205 min"
+    ],
+    "Comment[IonizationType]": [
+      "heated capillary temperature +280°C and spray voltage set to 2.5 kV."
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fr2"
+    ],
+    "FactorValue[Experimental]": [
+      "For analyses, the following categories were used: <30 min per week of high intensity physical activity was considered “not active” and coded as 0; high intensity physical activity ≥30 and <75 min was considered “moderately active” and coded as 1, high intensity physical activity ≥75 and <150 min was considered “active” and coded as 2, and high intensity physical activity ≥150 min was considered to “highly active” and coded as 3."
+    ]
+  },
+  "ScltlMsclSet1BRPhsFr12.raw": {
+    "Source Name": [
+      "ScltlMsclSet1BRPhs"
+    ],
+    "Assay Name": [
+      "ScltlMsclSet1BRPhs_Fr12"
+    ],
+    "Raw Data File": [
+      "ScltlMsclSet1BRPhsFr12.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human skeletal muscle biopsies"
+    ],
+    "Characteristics[OrganismPart]": [
+      "vastus lateralis muscle"
+    ],
+    "Characteristics[MaterialType]": [
+      "muscle biopsies"
+    ],
+    "Characteristics[Age]": [
+      "20–87 years"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "58 participants"
+    ],
+    "Characteristics[BMI]": [
+      "BMI less than 30 kg/m2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC mixture [Promega, 1:50 (w/w)]"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "50 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "100 mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "TMT6plex"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "200 fM of bacterial beta-galactosidase digest (SCIEX)"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate 3000 Nano LC Systems coupled to a Q Exactive HF mass spectrometer (Thermo Scientific, San Jose, CA, United States)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Dd-MS2 spectra were acquired using a dynamic m/z range with a fixed first mass of 100 m/z."
+    ],
+    "Comment[CollisionEnergy]": [
+      "The 12 most abundant ions were selected for fragmentation using 30% normalized high collision energy."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were resolved to 30,000 with 155-ms of maximum accumulation time and the automatic gain control target set to 2 × 105."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.08 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages"
+    ],
+    "Comment[FractionationMethod]": [
+      "High-pH RPLC fractionation was performed as described previously."
+    ],
+    "Comment[NumberOfFractions]": [
+      "33 master fractions"
+    ],
+    "Comment[Separation]": [
+      "reverse phase on a 35-cm capillary column (3-μm C18, Hamilton, HxSil cat 79139) with 150 μm ID"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "with 150 μm ID at 650 nL/min (5–30% B, 205 min)"
+    ],
+    "Comment[GradientTime]": [
+      "5–30% B, 205 min"
+    ],
+    "Comment[IonizationType]": [
+      "heated capillary temperature +280°C and spray voltage set to 2.5 kV."
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fr12"
+    ],
+    "FactorValue[Experimental]": [
+      "For analyses, the following categories were used: <30 min per week of high intensity physical activity was considered “not active” and coded as 0; high intensity physical activity ≥30 and <75 min was considered “moderately active” and coded as 1, high intensity physical activity ≥75 and <150 min was considered “active” and coded as 2, and high intensity physical activity ≥150 min was considered to “highly active” and coded as 3."
+    ]
+  },
+  "ScltlMsclSet7rernBRPhsFr22.raw": {
+    "Source Name": [
+      "ScltlMsclSet7rernBRPhs"
+    ],
+    "Assay Name": [
+      "ScltlMsclSet7rernBRPhs_Fr22"
+    ],
+    "Raw Data File": [
+      "ScltlMsclSet7rernBRPhsFr22.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human skeletal muscle biopsies"
+    ],
+    "Characteristics[OrganismPart]": [
+      "vastus lateralis muscle"
+    ],
+    "Characteristics[MaterialType]": [
+      "muscle biopsies"
+    ],
+    "Characteristics[Age]": [
+      "20–87 years"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "58 participants"
+    ],
+    "Characteristics[BMI]": [
+      "BMI less than 30 kg/m2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC mixture [Promega, 1:50 (w/w)]"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "50 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "100 mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "TMT6plex"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "200 fM of bacterial beta-galactosidase digest (SCIEX)"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate 3000 Nano LC Systems coupled to a Q Exactive HF mass spectrometer (Thermo Scientific, San Jose, CA, United States)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Dd-MS2 spectra were acquired using a dynamic m/z range with a fixed first mass of 100 m/z."
+    ],
+    "Comment[CollisionEnergy]": [
+      "The 12 most abundant ions were selected for fragmentation using 30% normalized high collision energy."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were resolved to 30,000 with 155-ms of maximum accumulation time and the automatic gain control target set to 2 × 105."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.08 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages"
+    ],
+    "Comment[FractionationMethod]": [
+      "High-pH RPLC fractionation was performed as described previously."
+    ],
+    "Comment[NumberOfFractions]": [
+      "33 master fractions"
+    ],
+    "Comment[Separation]": [
+      "reverse phase on a 35-cm capillary column (3-μm C18, Hamilton, HxSil cat 79139) with 150 μm ID"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "with 150 μm ID at 650 nL/min (5–30% B, 205 min)"
+    ],
+    "Comment[GradientTime]": [
+      "5–30% B, 205 min"
+    ],
+    "Comment[IonizationType]": [
+      "heated capillary temperature +280°C and spray voltage set to 2.5 kV."
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fr22"
+    ],
+    "FactorValue[Experimental]": [
+      "For analyses, the following categories were used: <30 min per week of high intensity physical activity was considered “not active” and coded as 0; high intensity physical activity ≥30 and <75 min was considered “moderately active” and coded as 1, high intensity physical activity ≥75 and <150 min was considered “active” and coded as 2, and high intensity physical activity ≥150 min was considered to “highly active” and coded as 3."
+    ]
+  },
+  "ScltlMsclSet4BRPhsFr17.raw": {
+    "Source Name": [
+      "ScltlMsclSet4BRPhs"
+    ],
+    "Assay Name": [
+      "ScltlMsclSet4BRPhs_Fr17"
+    ],
+    "Raw Data File": [
+      "ScltlMsclSet4BRPhsFr17.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human skeletal muscle biopsies"
+    ],
+    "Characteristics[OrganismPart]": [
+      "vastus lateralis muscle"
+    ],
+    "Characteristics[MaterialType]": [
+      "muscle biopsies"
+    ],
+    "Characteristics[Age]": [
+      "20–87 years"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "58 participants"
+    ],
+    "Characteristics[BMI]": [
+      "BMI less than 30 kg/m2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC mixture [Promega, 1:50 (w/w)]"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "50 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "100 mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "TMT6plex"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "200 fM of bacterial beta-galactosidase digest (SCIEX)"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate 3000 Nano LC Systems coupled to a Q Exactive HF mass spectrometer (Thermo Scientific, San Jose, CA, United States)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Dd-MS2 spectra were acquired using a dynamic m/z range with a fixed first mass of 100 m/z."
+    ],
+    "Comment[CollisionEnergy]": [
+      "The 12 most abundant ions were selected for fragmentation using 30% normalized high collision energy."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were resolved to 30,000 with 155-ms of maximum accumulation time and the automatic gain control target set to 2 × 105."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.08 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages"
+    ],
+    "Comment[FractionationMethod]": [
+      "High-pH RPLC fractionation was performed as described previously."
+    ],
+    "Comment[NumberOfFractions]": [
+      "33 master fractions"
+    ],
+    "Comment[Separation]": [
+      "reverse phase on a 35-cm capillary column (3-μm C18, Hamilton, HxSil cat 79139) with 150 μm ID"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "with 150 μm ID at 650 nL/min (5–30% B, 205 min)"
+    ],
+    "Comment[GradientTime]": [
+      "5–30% B, 205 min"
+    ],
+    "Comment[IonizationType]": [
+      "heated capillary temperature +280°C and spray voltage set to 2.5 kV."
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fr17"
+    ],
+    "FactorValue[Experimental]": [
+      "For analyses, the following categories were used: <30 min per week of high intensity physical activity was considered “not active” and coded as 0; high intensity physical activity ≥30 and <75 min was considered “moderately active” and coded as 1, high intensity physical activity ≥75 and <150 min was considered “active” and coded as 2, and high intensity physical activity ≥150 min was considered to “highly active” and coded as 3."
+    ]
+  },
+  "ScltlMsclSet5BRPhsFr14.raw": {
+    "Source Name": [
+      "ScltlMsclSet5BRPhs"
+    ],
+    "Assay Name": [
+      "ScltlMsclSet5BRPhs_Fr14"
+    ],
+    "Raw Data File": [
+      "ScltlMsclSet5BRPhsFr14.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human skeletal muscle biopsies"
+    ],
+    "Characteristics[OrganismPart]": [
+      "vastus lateralis muscle"
+    ],
+    "Characteristics[MaterialType]": [
+      "muscle biopsies"
+    ],
+    "Characteristics[Age]": [
+      "20–87 years"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "58 participants"
+    ],
+    "Characteristics[BMI]": [
+      "BMI less than 30 kg/m2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC mixture [Promega, 1:50 (w/w)]"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "50 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "100 mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "TMT6plex"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "200 fM of bacterial beta-galactosidase digest (SCIEX)"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate 3000 Nano LC Systems coupled to a Q Exactive HF mass spectrometer (Thermo Scientific, San Jose, CA, United States)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Dd-MS2 spectra were acquired using a dynamic m/z range with a fixed first mass of 100 m/z."
+    ],
+    "Comment[CollisionEnergy]": [
+      "The 12 most abundant ions were selected for fragmentation using 30% normalized high collision energy."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were resolved to 30,000 with 155-ms of maximum accumulation time and the automatic gain control target set to 2 × 105."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.08 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages"
+    ],
+    "Comment[FractionationMethod]": [
+      "High-pH RPLC fractionation was performed as described previously."
+    ],
+    "Comment[NumberOfFractions]": [
+      "33 master fractions"
+    ],
+    "Comment[Separation]": [
+      "reverse phase on a 35-cm capillary column (3-μm C18, Hamilton, HxSil cat 79139) with 150 μm ID"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "with 150 μm ID at 650 nL/min (5–30% B, 205 min)"
+    ],
+    "Comment[GradientTime]": [
+      "5–30% B, 205 min"
+    ],
+    "Comment[IonizationType]": [
+      "heated capillary temperature +280°C and spray voltage set to 2.5 kV."
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fr14"
+    ],
+    "FactorValue[Experimental]": [
+      "For analyses, the following categories were used: <30 min per week of high intensity physical activity was considered “not active” and coded as 0; high intensity physical activity ≥30 and <75 min was considered “moderately active” and coded as 1, high intensity physical activity ≥75 and <150 min was considered “active” and coded as 2, and high intensity physical activity ≥150 min was considered to “highly active” and coded as 3."
+    ]
+  },
+  "ScltlMsclSet9BRPhsFr1.raw": {
+    "Source Name": [
+      "ScltlMsclSet9BRPhs"
+    ],
+    "Assay Name": [
+      "ScltlMsclSet9BRPhs_Fr1"
+    ],
+    "Raw Data File": [
+      "ScltlMsclSet9BRPhsFr1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human skeletal muscle biopsies"
+    ],
+    "Characteristics[OrganismPart]": [
+      "vastus lateralis muscle"
+    ],
+    "Characteristics[MaterialType]": [
+      "muscle biopsies"
+    ],
+    "Characteristics[Age]": [
+      "20–87 years"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "58 participants"
+    ],
+    "Characteristics[BMI]": [
+      "BMI less than 30 kg/m2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC mixture [Promega, 1:50 (w/w)]"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "50 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "100 mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "TMT6plex"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "200 fM of bacterial beta-galactosidase digest (SCIEX)"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate 3000 Nano LC Systems coupled to a Q Exactive HF mass spectrometer (Thermo Scientific, San Jose, CA, United States)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Dd-MS2 spectra were acquired using a dynamic m/z range with a fixed first mass of 100 m/z."
+    ],
+    "Comment[CollisionEnergy]": [
+      "The 12 most abundant ions were selected for fragmentation using 30% normalized high collision energy."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were resolved to 30,000 with 155-ms of maximum accumulation time and the automatic gain control target set to 2 × 105."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.08 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages"
+    ],
+    "Comment[FractionationMethod]": [
+      "High-pH RPLC fractionation was performed as described previously."
+    ],
+    "Comment[NumberOfFractions]": [
+      "33 master fractions"
+    ],
+    "Comment[Separation]": [
+      "reverse phase on a 35-cm capillary column (3-μm C18, Hamilton, HxSil cat 79139) with 150 μm ID"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "with 150 μm ID at 650 nL/min (5–30% B, 205 min)"
+    ],
+    "Comment[GradientTime]": [
+      "5–30% B, 205 min"
+    ],
+    "Comment[IonizationType]": [
+      "heated capillary temperature +280°C and spray voltage set to 2.5 kV."
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fr1"
+    ],
+    "FactorValue[Experimental]": [
+      "For analyses, the following categories were used: <30 min per week of high intensity physical activity was considered “not active” and coded as 0; high intensity physical activity ≥30 and <75 min was considered “moderately active” and coded as 1, high intensity physical activity ≥75 and <150 min was considered “active” and coded as 2, and high intensity physical activity ≥150 min was considered to “highly active” and coded as 3."
+    ]
+  },
+  "ScltlMsclSet8BRPhsFr6.raw": {
+    "Source Name": [
+      "ScltlMsclSet8BRPhs"
+    ],
+    "Assay Name": [
+      "ScltlMsclSet8BRPhs_Fr6"
+    ],
+    "Raw Data File": [
+      "ScltlMsclSet8BRPhsFr6.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human skeletal muscle biopsies"
+    ],
+    "Characteristics[OrganismPart]": [
+      "vastus lateralis muscle"
+    ],
+    "Characteristics[MaterialType]": [
+      "muscle biopsies"
+    ],
+    "Characteristics[Age]": [
+      "20–87 years"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "58 participants"
+    ],
+    "Characteristics[BMI]": [
+      "BMI less than 30 kg/m2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC mixture [Promega, 1:50 (w/w)]"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "50 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "100 mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "TMT6plex"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "200 fM of bacterial beta-galactosidase digest (SCIEX)"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate 3000 Nano LC Systems coupled to a Q Exactive HF mass spectrometer (Thermo Scientific, San Jose, CA, United States)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Dd-MS2 spectra were acquired using a dynamic m/z range with a fixed first mass of 100 m/z."
+    ],
+    "Comment[CollisionEnergy]": [
+      "The 12 most abundant ions were selected for fragmentation using 30% normalized high collision energy."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were resolved to 30,000 with 155-ms of maximum accumulation time and the automatic gain control target set to 2 × 105."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.08 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages"
+    ],
+    "Comment[FractionationMethod]": [
+      "High-pH RPLC fractionation was performed as described previously."
+    ],
+    "Comment[NumberOfFractions]": [
+      "33 master fractions"
+    ],
+    "Comment[Separation]": [
+      "reverse phase on a 35-cm capillary column (3-μm C18, Hamilton, HxSil cat 79139) with 150 μm ID"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "with 150 μm ID at 650 nL/min (5–30% B, 205 min)"
+    ],
+    "Comment[GradientTime]": [
+      "5–30% B, 205 min"
+    ],
+    "Comment[IonizationType]": [
+      "heated capillary temperature +280°C and spray voltage set to 2.5 kV."
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fr6"
+    ],
+    "FactorValue[Experimental]": [
+      "For analyses, the following categories were used: <30 min per week of high intensity physical activity was considered “not active” and coded as 0; high intensity physical activity ≥30 and <75 min was considered “moderately active” and coded as 1, high intensity physical activity ≥75 and <150 min was considered “active” and coded as 2, and high intensity physical activity ≥150 min was considered to “highly active” and coded as 3."
+    ]
+  },
+  "ScltlMsclSet2BRPhsFr16.raw": {
+    "Source Name": [
+      "ScltlMsclSet2BRPhs"
+    ],
+    "Assay Name": [
+      "ScltlMsclSet2BRPhs_Fr16"
+    ],
+    "Raw Data File": [
+      "ScltlMsclSet2BRPhsFr16.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human skeletal muscle biopsies"
+    ],
+    "Characteristics[OrganismPart]": [
+      "vastus lateralis muscle"
+    ],
+    "Characteristics[MaterialType]": [
+      "muscle biopsies"
+    ],
+    "Characteristics[Age]": [
+      "20–87 years"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "58 participants"
+    ],
+    "Characteristics[BMI]": [
+      "BMI less than 30 kg/m2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC mixture [Promega, 1:50 (w/w)]"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "50 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "100 mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "TMT6plex"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "200 fM of bacterial beta-galactosidase digest (SCIEX)"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate 3000 Nano LC Systems coupled to a Q Exactive HF mass spectrometer (Thermo Scientific, San Jose, CA, United States)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Dd-MS2 spectra were acquired using a dynamic m/z range with a fixed first mass of 100 m/z."
+    ],
+    "Comment[CollisionEnergy]": [
+      "The 12 most abundant ions were selected for fragmentation using 30% normalized high collision energy."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were resolved to 30,000 with 155-ms of maximum accumulation time and the automatic gain control target set to 2 × 105."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.08 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages"
+    ],
+    "Comment[FractionationMethod]": [
+      "High-pH RPLC fractionation was performed as described previously."
+    ],
+    "Comment[NumberOfFractions]": [
+      "33 master fractions"
+    ],
+    "Comment[Separation]": [
+      "reverse phase on a 35-cm capillary column (3-μm C18, Hamilton, HxSil cat 79139) with 150 μm ID"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "with 150 μm ID at 650 nL/min (5–30% B, 205 min)"
+    ],
+    "Comment[GradientTime]": [
+      "5–30% B, 205 min"
+    ],
+    "Comment[IonizationType]": [
+      "heated capillary temperature +280°C and spray voltage set to 2.5 kV."
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fr16"
+    ],
+    "FactorValue[Experimental]": [
+      "For analyses, the following categories were used: <30 min per week of high intensity physical activity was considered “not active” and coded as 0; high intensity physical activity ≥30 and <75 min was considered “moderately active” and coded as 1, high intensity physical activity ≥75 and <150 min was considered “active” and coded as 2, and high intensity physical activity ≥150 min was considered to “highly active” and coded as 3."
+    ]
+  },
+  "ScltlMsclSet8BRPhsFr14.raw": {
+    "Source Name": [
+      "ScltlMsclSet8BRPhs"
+    ],
+    "Assay Name": [
+      "ScltlMsclSet8BRPhs_Fr14"
+    ],
+    "Raw Data File": [
+      "ScltlMsclSet8BRPhsFr14.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human skeletal muscle biopsies"
+    ],
+    "Characteristics[OrganismPart]": [
+      "vastus lateralis muscle"
+    ],
+    "Characteristics[MaterialType]": [
+      "muscle biopsies"
+    ],
+    "Characteristics[Age]": [
+      "20–87 years"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "58 participants"
+    ],
+    "Characteristics[BMI]": [
+      "BMI less than 30 kg/m2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC mixture [Promega, 1:50 (w/w)]"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "50 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "100 mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "TMT6plex"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "200 fM of bacterial beta-galactosidase digest (SCIEX)"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate 3000 Nano LC Systems coupled to a Q Exactive HF mass spectrometer (Thermo Scientific, San Jose, CA, United States)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Dd-MS2 spectra were acquired using a dynamic m/z range with a fixed first mass of 100 m/z."
+    ],
+    "Comment[CollisionEnergy]": [
+      "The 12 most abundant ions were selected for fragmentation using 30% normalized high collision energy."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were resolved to 30,000 with 155-ms of maximum accumulation time and the automatic gain control target set to 2 × 105."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.08 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages"
+    ],
+    "Comment[FractionationMethod]": [
+      "High-pH RPLC fractionation was performed as described previously."
+    ],
+    "Comment[NumberOfFractions]": [
+      "33 master fractions"
+    ],
+    "Comment[Separation]": [
+      "reverse phase on a 35-cm capillary column (3-μm C18, Hamilton, HxSil cat 79139) with 150 μm ID"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "with 150 μm ID at 650 nL/min (5–30% B, 205 min)"
+    ],
+    "Comment[GradientTime]": [
+      "5–30% B, 205 min"
+    ],
+    "Comment[IonizationType]": [
+      "heated capillary temperature +280°C and spray voltage set to 2.5 kV."
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fr14"
+    ],
+    "FactorValue[Experimental]": [
+      "For analyses, the following categories were used: <30 min per week of high intensity physical activity was considered “not active” and coded as 0; high intensity physical activity ≥30 and <75 min was considered “moderately active” and coded as 1, high intensity physical activity ≥75 and <150 min was considered “active” and coded as 2, and high intensity physical activity ≥150 min was considered to “highly active” and coded as 3."
+    ]
+  },
+  "ScltlMsclSet8BRPhsFr15.raw": {
+    "Source Name": [
+      "ScltlMsclSet8BRPhs"
+    ],
+    "Assay Name": [
+      "ScltlMsclSet8BRPhs_Fr15"
+    ],
+    "Raw Data File": [
+      "ScltlMsclSet8BRPhsFr15.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human skeletal muscle biopsies"
+    ],
+    "Characteristics[OrganismPart]": [
+      "vastus lateralis muscle"
+    ],
+    "Characteristics[MaterialType]": [
+      "muscle biopsies"
+    ],
+    "Characteristics[Age]": [
+      "20–87 years"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "58 participants"
+    ],
+    "Characteristics[BMI]": [
+      "BMI less than 30 kg/m2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC mixture [Promega, 1:50 (w/w)]"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "50 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "100 mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "TMT6plex"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "200 fM of bacterial beta-galactosidase digest (SCIEX)"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate 3000 Nano LC Systems coupled to a Q Exactive HF mass spectrometer (Thermo Scientific, San Jose, CA, United States)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Dd-MS2 spectra were acquired using a dynamic m/z range with a fixed first mass of 100 m/z."
+    ],
+    "Comment[CollisionEnergy]": [
+      "The 12 most abundant ions were selected for fragmentation using 30% normalized high collision energy."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were resolved to 30,000 with 155-ms of maximum accumulation time and the automatic gain control target set to 2 × 105."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.08 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages"
+    ],
+    "Comment[FractionationMethod]": [
+      "High-pH RPLC fractionation was performed as described previously."
+    ],
+    "Comment[NumberOfFractions]": [
+      "33 master fractions"
+    ],
+    "Comment[Separation]": [
+      "reverse phase on a 35-cm capillary column (3-μm C18, Hamilton, HxSil cat 79139) with 150 μm ID"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "with 150 μm ID at 650 nL/min (5–30% B, 205 min)"
+    ],
+    "Comment[GradientTime]": [
+      "5–30% B, 205 min"
+    ],
+    "Comment[IonizationType]": [
+      "heated capillary temperature +280°C and spray voltage set to 2.5 kV."
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fr15"
+    ],
+    "FactorValue[Experimental]": [
+      "For analyses, the following categories were used: <30 min per week of high intensity physical activity was considered “not active” and coded as 0; high intensity physical activity ≥30 and <75 min was considered “moderately active” and coded as 1, high intensity physical activity ≥75 and <150 min was considered “active” and coded as 2, and high intensity physical activity ≥150 min was considered to “highly active” and coded as 3."
+    ]
+  },
+  "ScltlMsclSet9BRPhsFr24.raw": {
+    "Source Name": [
+      "ScltlMsclSet9BRPhs"
+    ],
+    "Assay Name": [
+      "ScltlMsclSet9BRPhs_Fr24"
+    ],
+    "Raw Data File": [
+      "ScltlMsclSet9BRPhsFr24.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human skeletal muscle biopsies"
+    ],
+    "Characteristics[OrganismPart]": [
+      "vastus lateralis muscle"
+    ],
+       "Characteristics[MaterialType]": [
+      "muscle biopsies"
+    ],
+    "Characteristics[Age]": [
+      "20–87 years"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "58 participants"
+    ],
+    "Characteristics[BMI]": [
+      "BMI less than 30 kg/m2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC mixture [Promega, 1:50 (w/w)]"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "50 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "100 mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "TMT6plex"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "200 fM of bacterial beta-galactosidase digest (SCIEX)"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate 3000 Nano LC Systems coupled to a Q Exactive HF mass spectrometer (Thermo Scientific, San Jose, CA, United States)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Dd-MS2 spectra were acquired using a dynamic m/z range with a fixed first mass of 100 m/z."
+    ],
+    "Comment[CollisionEnergy]": [
+      "The 12 most abundant ions were selected for fragmentation using 30% normalized high collision energy."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were resolved to 30,000 with 155-ms of maximum accumulation time and the automatic gain control target set to 2 × 105."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.08 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages"
+    ],
+    "Comment[FractionationMethod]": [
+      "High-pH RPLC fractionation was performed as described previously."
+    ],
+    "Comment[NumberOfFractions]": [
+      "33 master fractions"
+    ],
+    "Comment[Separation]": [
+      "reverse phase on a 35-cm capillary column (3-μm C18, Hamilton, HxSil cat 79139) with 150 μm ID"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "with 150 μm ID at 650 nL/min (5–30% B, 205 min)"
+    ],
+    "Comment[GradientTime]": [
+      "5–30% B, 205 min"
+    ],
+    "Comment[IonizationType]": [
+      "heated capillary temperature +280°C and spray voltage set to 2.5 kV."
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fr24"
+    ],
+    "FactorValue[Experimental]": [
+      "For analyses, the following categories were used: <30 min per week of high intensity physical activity was considered “not active” and coded as 0; high intensity physical activity ≥30 and <75 min was considered “moderately active” and coded as 1, high intensity physical activity ≥75 and <150 min was considered “active” and coded as 2, and high intensity physical activity ≥150 min was considered to “highly active” and coded as 3."
+    ]
+  },
+  "ScltlMsclSet8BRPhsFr3.raw": {
+    "Source Name": [
+      "ScltlMsclSet8BRPhs"
+    ],
+    "Assay Name": [
+      "ScltlMsclSet8BRPhs_Fr3"
+    ],
+    "Raw Data File": [
+      "ScltlMsclSet8BRPhsFr3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human skeletal muscle biopsies"
+    ],
+    "Characteristics[OrganismPart]": [
+      "vastus lateralis muscle"
+    ],
+    "Characteristics[MaterialType]": [
+      "muscle biopsies"
+    ],
+    "Characteristics[Age]": [
+      "20–87 years"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "58 participants"
+    ],
+    "Characteristics[BMI]": [
+      "BMI less than 30 kg/m2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC mixture [Promega, 1:50 (w/w)]"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "50 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "100 mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "TMT6plex"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "200 fM of bacterial beta-galactosidase digest (SCIEX)"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate 3000 Nano LC Systems coupled to a Q Exactive HF mass spectrometer (Thermo Scientific, San Jose, CA, United States)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Dd-MS2 spectra were acquired using a dynamic m/z range with a fixed first mass of 100 m/z."
+    ],
+    "Comment[CollisionEnergy]": [
+      "The 12 most abundant ions were selected for fragmentation using 30% normalized high collision energy."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were resolved to 30,000 with 155-ms of maximum accumulation time and the automatic gain control target set to 2 × 105."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.08 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages"
+    ],
+    "Comment[FractionationMethod]": [
+      "High-pH RPLC fractionation was performed as described previously."
+    ],
+    "Comment[NumberOfFractions]": [
+      "33 master fractions"
+    ],
+    "Comment[Separation]": [
+      "reverse phase on a 35-cm capillary column (3-μm C18, Hamilton, HxSil cat 79139) with 150 μm ID"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "with 150 μm ID at 650 nL/min (5–30% B, 205 min)"
+    ],
+    "Comment[GradientTime]": [
+      "5–30% B, 205 min"
+    ],
+    "Comment[IonizationType]": [
+      "heated capillary temperature +280°C and spray voltage set to 2.5 kV."
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fr3"
+    ],
+    "FactorValue[Experimental]": [
+      "For analyses, the following categories were used: <30 min per week of high intensity physical activity was considered “not active” and coded as 0; high intensity physical activity ≥30 and <75 min was considered “moderately active” and coded as 1, high intensity physical activity ≥75 and <150 min was considered “active” and coded as 2, and high intensity physical activity ≥150 min was considered to “highly active” and coded as 3."
+    ]
+  },
+  "ScltlMsclSet10BRPhsFr18.raw": {
+    "Source Name": [
+      "ScltlMsclSet10BRPhs"
+    ],
+    "Assay Name": [
+      "ScltlMsclSet10BRPhs_Fr18"
+    ],
+    "Raw Data File": [
+      "ScltlMsclSet10BRPhsFr18.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human skeletal muscle biopsies"
+    ],
+    "Characteristics[OrganismPart]": [
+      "vastus lateralis muscle"
+    ],
+    "Characteristics[MaterialType]": [
+      "muscle biopsies"
+    ],
+    "Characteristics[Age]": [
+      "20–87 years"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "58 participants"
+    ],
+    "Characteristics[BMI]": [
+      "BMI less than 30 kg/m2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC mixture [Promega, 1:50 (w/w)]"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "50 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "100 mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "TMT6plex"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "200 fM of bacterial beta-galactosidase digest (SCIEX)"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate 3000 Nano LC Systems coupled to a Q Exactive HF mass spectrometer (Thermo Scientific, San Jose, CA, United States)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Dd-MS2 spectra were acquired using a dynamic m/z range with a fixed first mass of 100 m/z."
+    ],
+    "Comment[CollisionEnergy]": [
+      "The 12 most abundant ions were selected for fragmentation using 30% normalized high collision energy."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were resolved to 30,000 with 155-ms of maximum accumulation time and the automatic gain control target set to 2 × 105."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.08 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages"
+    ],
+    "Comment[FractionationMethod]": [
+      "High-pH RPLC fractionation was performed as described previously."
+    ],
+    "Comment[NumberOfFractions]": [
+      "33 master fractions"
+    ],
+    "Comment[Separation]": [
+      "reverse phase on a 35-cm capillary column (3-μm C18, Hamilton, HxSil cat 79139) with 150 μm ID"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "with 150 μm ID at 650 nL/min (5–30% B, 205 min)"
+    ],
+    "Comment[GradientTime]": [
+      "5–30% B, 205 min"
+    ],
+    "Comment[IonizationType]": [
+      "heated capillary temperature +280°C and spray voltage set to 2.5 kV."
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fr18"
+    ],
+    "FactorValue[Experimental]": [
+      "For analyses, the following categories were used: <30 min per week of high intensity physical activity was considered “not active” and coded as 0; high intensity physical activity ≥30 and <75 min was considered “moderately active” and coded as 1, high intensity physical activity ≥75 and <150 min was considered “active” and coded as 2, and high intensity physical activity ≥150 min was considered to “highly active” and coded as 3."
+    ]
+  },
+  "ScltlMsclSet7rernBRPhsFr31.raw": {
+    "Source Name": [
+      "ScltlMsclSet7rernBRPhs"
+    ],
+    "Assay Name": [
+      "ScltlMsclSet7rernBRPhs_Fr31"
+    ],
+    "Raw Data File": [
+      "ScltlMsclSet7rernBRPhsFr31.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human skeletal muscle biopsies"
+    ],
+    "Characteristics[OrganismPart]": [
+      "vastus lateralis muscle"
+    ],
+    "Characteristics[MaterialType]": [
+      "muscle biopsies"
+    ],
+    "Characteristics[Age]": [
+      "20–87 years"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "58 participants"
+    ],
+    "Characteristics[BMI]": [
+      "BMI less than 30 kg/m2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC mixture [Promega, 1:50 (w/w)]"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "50 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "100 mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "TMT6plex"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "200 fM of bacterial beta-galactosidase digest (SCIEX)"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate 3000 Nano LC Systems coupled to a Q Exactive HF mass spectrometer (Thermo Scientific, San Jose, CA, United States)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Dd-MS2 spectra were acquired using a dynamic m/z range with a fixed first mass of 100 m/z."
+    ],
+    "Comment[CollisionEnergy]": [
+      "The 12 most abundant ions were selected for fragmentation using 30% normalized high collision energy."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were resolved to 30,000 with 155-ms of maximum accumulation time and the automatic gain control target set to 2 × 105."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.08 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages"
+    ],
+    "Comment[FractionationMethod]": [
+      "High-pH RPLC fractionation was performed as described previously."
+    ],
+    "Comment[NumberOfFractions]": [
+      "33 master fractions"
+    ],
+    "Comment[Separation]": [
+      "reverse phase on a 35-cm capillary column (3-μm C18, Hamilton, HxSil cat 79139) with 150 μm ID"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "with 150 μm ID at 650 nL/min (5–30% B, 205 min)"
+    ],
+    "Comment[GradientTime]": [
+      "5–30% B, 205 min"
+    ],
+    "Comment[IonizationType]": [
+      "heated capillary temperature +280°C and spray voltage set to 2.5 kV."
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fr31"
+    ],
+    "FactorValue[Experimental]": [
+      "For analyses, the following categories were used: <30 min per week of high intensity physical activity was considered “not active” and coded as 0; high intensity physical activity ≥30 and <75 min was considered “moderately active” and coded as 1, high intensity physical activity ≥75 and <150 min was considered “active” and coded as 2, and high intensity physical activity ≥150 min was considered to “highly active” and coded as 3."
+    ]
+  },
+  "ScltlMsclSet12BRPhsFr12.raw": {
+    "Source Name": [
+      "ScltlMsclSet12BRPhs"
+    ],
+    "Assay Name": [
+      "ScltlMsclSet12BRPhs_Fr12"
+    ],
+    "Raw Data File": [
+      "ScltlMsclSet12BRPhsFr12.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human skeletal muscle biopsies"
+    ],
+    "Characteristics[OrganismPart]": [
+      "vastus lateralis muscle"
+    ],
+    "Characteristics[MaterialType]": [
+      "muscle biopsies"
+    ],
+    "Characteristics[Age]": [
+      "20–87 years"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "58 participants"
+    ],
+    "Characteristics[BMI]": [
+      "BMI less than 30 kg/m2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC mixture [Promega, 1:50 (w/w)]"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "50 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "100 mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "TMT6plex"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "200 fM of bacterial beta-galactosidase digest (SCIEX)"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate 3000 Nano LC Systems coupled to a Q Exactive HF mass spectrometer (Thermo Scientific, San Jose, CA, United States)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Dd-MS2 spectra were acquired using a dynamic m/z range with a fixed first mass of 100 m/z."
+    ],
+    "Comment[CollisionEnergy]": [
+      "The 12 most abundant ions were selected for fragmentation using 30% normalized high collision energy."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were resolved to 30,000 with 155-ms of maximum accumulation time and the automatic gain control target set to 2 × 105."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.08 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages"
+    ],
+    "Comment[FractionationMethod]": [
+      "High-pH RPLC fractionation was performed as described previously."
+    ],
+    "Comment[NumberOfFractions]": [
+      "33 master fractions"
+    ],
+    "Comment[Separation]": [
+      "reverse phase on a 35-cm capillary column (3-μm C18, Hamilton, HxSil cat 79139) with 150 μm ID"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "with 150 μm ID at 650 nL/min (5–30% B, 205 min)"
+    ],
+    "Comment[GradientTime]": [
+      "5–30% B, 205 min"
+    ],
+    "Comment[IonizationType]": [
+      "heated capillary temperature +280°C and spray voltage set to 2.5 kV."
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fr12"
+    ],
+    "FactorValue[Experimental]": [
+      "For analyses, the following categories were used: <30 min per week of high intensity physical activity was considered “not active” and coded as 0; high intensity physical activity ≥30 and <75 min was considered “moderately active” and coded as 1, high intensity physical activity ≥75 and <150 min was considered “active” and coded as 2, and high intensity physical activity ≥150 min was considered to “highly active” and coded as 3."
+    ]
+  },
+  "ScltlMsclSet12BRPhsFr19.raw": {
+    "Source Name": [
+      "ScltlMsclSet12BRPhs"
+    ],
+    "Assay Name": [
+      "ScltlMsclSet12BRPhs_Fr19"
+    ],
+    "Raw Data File": [
+      "ScltlMsclSet12BRPhsFr19.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human skeletal muscle biopsies"
+    ],
+    "Characteristics[OrganismPart]": [
+      "vastus lateralis muscle"
+    ],
+    "Characteristics[MaterialType]": [
+      "muscle biopsies"
+    ],
+    "Characteristics[Age]": [
+      "20–87 years"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "58 participants"
+    ],
+    "Characteristics[BMI]": [
+      "BMI less than 30 kg/m2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC mixture [Promega, 1:50 (w/w)]"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "50 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "100 mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "TMT6plex"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "200 fM of bacterial beta-galactosidase digest (SCIEX)"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate 3000 Nano LC Systems coupled to a Q Exactive HF mass spectrometer (Thermo Scientific, San Jose, CA, United States)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Dd-MS2 spectra were acquired using a dynamic m/z range with a fixed first mass of 100 m/z."
+    ],
+    "Comment[CollisionEnergy]": [
+      "The 12 most abundant ions were selected for fragmentation using 30% normalized high collision energy."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were resolved to 30,000 with 155-ms of maximum accumulation time and the automatic gain control target set to 2 × 105."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.08 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages"
+    ],
+    "Comment[FractionationMethod]": [
+      "High-pH RPLC fractionation was performed as described previously."
+    ],
+    "Comment[NumberOfFractions]": [
+      "33 master fractions"
+    ],
+    "Comment[Separation]": [
+      "reverse phase on a 35-cm capillary column (3-μm C18, Hamilton, HxSil cat 79139) with 150 μm ID"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "with 150 μm ID at 650 nL/min (5–30% B, 205 min)"
+    ],
+    "Comment[GradientTime]": [
+      "5–30% B, 205 min"
+    ],
+    "Comment[IonizationType]": [
+      "heated capillary temperature +280°C and spray voltage set to 2.5 kV."
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fr19"
+    ],
+    "FactorValue[Experimental]": [
+      "For analyses, the following categories were used: <30 min per week of high intensity physical activity was considered “not active” and coded as 0; high intensity physical activity ≥30 and <75 min was considered “moderately active” and coded as 1, high intensity physical activity ≥75 and <150 min was considered “active” and coded as 2, and high intensity physical activity ≥150 min was considered to “highly active” and coded as 3."
+    ]
+  },
+  "ScltlMsclSet6BRPhsFr33.raw": {
+    "Source Name": [
+      "ScltlMsclSet6BRPhs"
+    ],
+    "Assay Name": [
+      "ScltlMsclSet6BRPhs_Fr33"
+    ],
+    "Raw Data File": [
+      "ScltlMsclSet6BRPhsFr33.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human skeletal muscle biopsies"
+    ],
+    "Characteristics[OrganismPart]": [
+      "vastus lateralis muscle"
+    ],
+    "Characteristics[MaterialType]": [
+      "muscle biopsies"
+    ],
+    "Characteristics[Age]": [
+      "20–87 years"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "58 participants"
+    ],
+    "Characteristics[BMI]": [
+      "BMI less than 30 kg/m2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC mixture [Promega, 1:50 (w/w)]"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "50 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "100 mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "TMT6plex"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "200 fM of bacterial beta-galactosidase digest (SCIEX)"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate 3000 Nano LC Systems coupled to a Q Exactive HF mass spectrometer (Thermo Scientific, San Jose, CA, United States)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Dd-MS2 spectra were acquired using a dynamic m/z range with a fixed first mass of 100 m/z."
+    ],
+    "Comment[CollisionEnergy]": [
+      "The 12 most abundant ions were selected for fragmentation using 30% normalized high collision energy."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were resolved to 30,000 with 155-ms of maximum accumulation time and the automatic gain control target set to 2 × 105."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.08 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages"
+    ],
+    "Comment[FractionationMethod]": [
+      "High-pH RPLC fractionation was performed as described previously."
+    ],
+    "Comment[NumberOfFractions]": [
+      "33 master fractions"
+    ],
+    "Comment[Separation]": [
+      "reverse phase on a 35-cm capillary column (3-μm C18, Hamilton, HxSil cat 79139) with 150 μm ID"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "with 150 μm ID at 650 nL/min (5–30% B, 205 min)"
+    ],
+    "Comment[GradientTime]": [
+      "5–30% B, 205 min"
+    ],
+    "Comment[IonizationType]": [
+      "heated capillary temperature +280°C and spray voltage set to 2.5 kV."
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fr33"
+    ],
+    "FactorValue[Experimental]": [
+      "For analyses, the following categories were used: <30 min per week of high intensity physical activity was considered “not active” and coded as 0; high intensity physical activity ≥30 and <75 min was considered “moderately active” and coded as 1, high intensity physical activity ≥75 and <150 min was considered “active” and coded as 2, and high intensity physical activity ≥150 min was considered to “highly active” and coded as 3."
+    ]
+  },
+  "ScltlMsclSet12BRPhsFr22.raw": {
+    "Source Name": [
+      "ScltlMsclSet12BRPhs"
+    ],
+    "Assay Name": [
+      "ScltlMsclSet12BRPhs_Fr22"
+    ],
+    "Raw Data File": [
+      "ScltlMsclSet12BRPhsFr22.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human skeletal muscle biopsies"
+    ],
+    "Characteristics[OrganismPart]": [
+      "vastus lateralis muscle"
+    ],
+    "Characteristics[MaterialType]": [
+      "muscle biopsies"
+    ],
+    "Characteristics[Age]": [
+      "20–87 years"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "58 participants"
+    ],
+    "Characteristics[BMI]": [
+      "BMI less than 30 kg/m2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC mixture [Promega, 1:50 (w/w)]"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "50 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "100 mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "TMT6plex"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "200 fM of bacterial beta-galactosidase digest (SCIEX)"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate 3000 Nano LC Systems coupled to a Q Exactive HF mass spectrometer (Thermo Scientific, San Jose, CA, United States)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Dd-MS2 spectra were acquired using a dynamic m/z range with a fixed first mass of 100 m/z."
+    ],
+    "Comment[CollisionEnergy]": [
+      "The 12 most abundant ions were selected for fragmentation using 30% normalized high collision energy."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were resolved to 30,000 with 155-ms of maximum accumulation time and the automatic gain control target set to 2 × 105."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.08 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages"
+    ],
+    "Comment[FractionationMethod]": [
+      "High-pH RPLC fractionation was performed as described previously."
+    ],
+    "Comment[NumberOfFractions]": [
+      "33 master fractions"
+    ],
+    "Comment[Separation]": [
+      "reverse phase on a 35-cm capillary column (3-μm C18, Hamilton, HxSil cat 79139) with 150 μm ID"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "with 150 μm ID at 650 nL/min (5–30% B, 205 min)"
+    ],
+    "Comment[GradientTime]": [
+      "5–30% B, 205 min"
+    ],
+    "Comment[IonizationType]": [
+      "heated capillary temperature +280°C and spray voltage set to 2.5 kV."
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fr22"
+    ],
+    "FactorValue[Experimental]": [
+      "For analyses, the following categories were used: <30 min per week of high intensity physical activity was considered “not active” and coded as 0; high intensity physical activity ≥30 and <75 min was considered “moderately active” and coded as 1, high intensity physical activity ≥75 and <150 min was considered “active” and coded as 2, and high intensity physical activity ≥150 min was considered to “highly active” and coded as 3."
+    ]
+  },
+  "ScltlMsclSet9BRPhsFr13.raw": {
+    "Source Name": [
+      "ScltlMsclSet9BRPhs"
+    ],
+    "Assay Name": [
+      "ScltlMsclSet9BRPhs_Fr13"
+    ],
+    "Raw Data File": [
+      "ScltlMsclSet9BRPhsFr13.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human skeletal muscle biopsies"
+    ],
+    "Characteristics[OrganismPart]": [
+      "vastus lateralis muscle"
+    ],
+    "Characteristics[MaterialType]": [
+      "muscle biopsies"
+    ],
+    "Characteristics[Age]": [
+      "20–87 years"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "58 participants"
+    ],
+    "Characteristics[BMI]": [
+      "BMI less than 30 kg/m2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC mixture [Promega, 1:50 (w/w)]"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "50 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "100 mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "TMT6plex"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "200 fM of bacterial beta-galactosidase digest (SCIEX)"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate 3000 Nano LC Systems coupled to a Q Exactive HF mass spectrometer (Thermo Scientific, San Jose, CA, United States)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Dd-MS2 spectra were acquired using a dynamic m/z range with a fixed first mass of 100 m/z."
+    ],
+    "Comment[CollisionEnergy]": [
+      "The 12 most abundant ions were selected for fragmentation using 30% normalized high collision energy."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were resolved to 30,000 with 155-ms of maximum accumulation time and the automatic gain control target set to 2 × 105."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.08 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages"
+    ],
+    "Comment[FractionationMethod]": [
+      "High-pH RPLC fractionation was performed as described previously."
+    ],
+    "Comment[NumberOfFractions]": [
+      "33 master fractions"
+    ],
+    "Comment[Separation]": [
+      "reverse phase on a 35-cm capillary column (3-μm C18, Hamilton, HxSil cat 79139) with 150 μm ID"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "with 150 μm ID at 650 nL/min (5–30% B, 205 min)"
+    ],
+    "Comment[GradientTime]": [
+      "5–30% B, 205 min"
+    ],
+    "Comment[IonizationType]": [
+      "heated capillary temperature +280°C and spray voltage set to 2.5 kV."
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fr13"
+    ],
+    "FactorValue[Experimental]": [
+      "For analyses, the following categories were used: <30 min per week of high intensity physical activity was considered “not active” and coded as 0; high intensity physical activity ≥30 and <75 min was considered “moderately active” and coded as 1, high intensity physical activity ≥75 and <150 min was considered “active” and coded as 2, and high intensity physical activity ≥150 min was considered to “highly active” and coded as 3."
+    ]
+  },
+  "ScltlMsclSet6BRPhsFr1.raw": {
+    "Source Name": [
+      "ScltlMsclSet6BRPhs"
+    ],
+    "Assay Name": [
+      "ScltlMsclSet6BRPhs_Fr1"
+    ],
+    "Raw Data File": [
+      "ScltlMsclSet6BRPhsFr1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human skeletal muscle biopsies"
+    ],
+    "Characteristics[OrganismPart]": [
+      "vastus lateralis muscle"
+    ],
+    "Characteristics[MaterialType]": [
+      "muscle biopsies"
+    ],
+    "Characteristics[Age]": [
+      "20–87 years"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "58 participants"
+    ],
+    "Characteristics[BMI]": [
+      "BMI less than 30 kg/m2"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin/LysC mixture [Promega, 1:50 (w/w)]"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "50 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "100 mM iodoacetamide"
+    ],
+    "Characteristics[Label]": [
+      "TMT6plex"
+    ],
+    "Characteristics[SpikedCompound]": [
+      "200 fM of bacterial beta-galactosidase digest (SCIEX)"
+    ],
+    "Comment[Instrument]": [
+      "UltiMate 3000 Nano LC Systems coupled to a Q Exactive HF mass spectrometer (Thermo Scientific, San Jose, CA, United States)."
+    ],
+    "Comment[AcquisitionMethod]": [
+      "Dd-MS2 spectra were acquired using a dynamic m/z range with a fixed first mass of 100 m/z."
+    ],
+    "Comment[CollisionEnergy]": [
+      "The 12 most abundant ions were selected for fragmentation using 30% normalized high collision energy."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS/MS spectra were resolved to 30,000 with 155-ms of maximum accumulation time and the automatic gain control target set to 2 × 105."
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "20 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.08 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "two missed cleavages"
+    ],
+    "Comment[FractionationMethod]": [
+      "High-pH RPLC fractionation was performed as described previously."
+    ],
+    "Comment[NumberOfFractions]": [
+      "33 master fractions"
+    ],
+    "Comment[Separation]": [
+      "reverse phase on a 35-cm capillary column (3-μm C18, Hamilton, HxSil cat 79139) with 150 μm ID"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "with 150 μm ID at 650 nL/min (5–30% B, 205 min)"
+    ],
+    "Comment[GradientTime]": [
+      "5–30% B, 205 min"
+    ],
+    "Comment[IonizationType]": [
+      "heated capillary temperature +280°C and spray voltage set to 2.5 kV."
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fr1"
+    ],
+    "FactorValue[Experimental]": [
+      "For analyses, the following categories were used: <30 min per week of high intensity physical activity was considered “not active” and coded as 0; high intensity physical activity ≥30 and <75 min was considered “moderately active” and coded as 1, high intensity physical activity ≥75 and <150 min was considered “active” and coded as 2, and high intensity physical activity ≥150 min was considered to “highly active” and coded as 3."
+    ]
+  }
+}

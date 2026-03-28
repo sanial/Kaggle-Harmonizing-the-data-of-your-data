@@ -1,0 +1,61 @@
+CellLine: YDFR-C  
+CellLine: DP-C  
+CellLine: M12-C  
+CellLine: M16-C  
+CellLine: YDFR-CB  
+CellLine: DP-CB  
+CellLine: M12-CB  
+CellLine: M16-CB  
+Organism: Male athymic nude mice (BALB/c background)  
+OrganismPart: brain  
+AnatomicSiteTumor: cutaneous metastasis  
+AnatomicSiteTumor: cerebellar metastasis  
+CellType: human melanoma cells  
+Experiment: Patient Derived Mouse Xenografts  
+AssayName: proteome profiling  
+AssayName: Label free proteome profiling  
+AssayName: eicosanoid measurements  
+AssayName: glutathione measurements  
+AssayName: immunofluorescence  
+AssayName: HPLC-MS/MS  
+AssayName: UHPLC-MS/MS  
+SourceName: RPMI 1640 (1X with l-Glutamine; Gibco, Thermo Fischer Scientific, Austria)  
+Compound: fetal calf serum  
+ConcentrationOfCompound: 10% (v/v)  
+Compound: Penicillin and Streptomycin  
+ConcentrationOfCompound: 1% (v/v)  
+Temperature: 37 °C  
+FactorValue: 5% CO2  
+CleavageAgent: Trypsin-EDTA solution 0.25%  
+CleavageAgent: Trypsin/Lys-C  
+ReductionReagent: dithiothreitol  
+AlkylationReagent: iodacetamid  
+Instrument: CASY TT Cell Counter and Analyzer (OMNI Life Science GmbH & Co. KG, Bremen, Germany)  
+Instrument: MOXI Z Mini Automated Cell Counter (ORFLO Technologies)  
+Instrument: Olympus CKX53 Inverted Microscope (10× magnification)  
+Instrument: Dionex UltiMate 3000 RSLCnano LC system  
+Instrument: QExactive Orbitrap MS  
+Instrument: Q Exactive HF Quadrupole-Orbitrap mass spectrometer  
+Instrument: Thermo Scientific Vanquish (UHPLC) system  
+Instrument: QqQ 6490  
+Instrument: Kinetex® C18 - column  
+Instrument: Confocal LSM Zeiss 710 equipped with ELYRA PS. 1 system  
+IonizationType: negative ionization  
+IonizationType: positive ion mode  
+CollisionEnergy: 30% normalized collision energy  
+CollisionEnergy: HCD 24 normalized collision energy  
+FlowRateChromatogram: 300 nL/min  
+FlowRateChromatogram: 0.3 μl/min  
+FlowRateChromatogram: 200 μl/min  
+GradientTime: 43 min  
+GradientTime: 95 min  
+GradientTime: 20 min  
+NumberOfTechnicalReplicates: 2  
+NumberOfBiologicalReplicates: three independent cell culture experiments  
+CellPart: cytoplasm (CYT)  
+CellPart: nuclear extracts (NE)  
+CellPart: cell supernatants (SN)  
+PrecursorMassTolerance: 50 ppm  
+PrecursorMassTolerance: 25 ppm  
+MS2MassAnalyzer: Orbitrap  
+SampleTreatment: filter-assisted protein digest

@@ -1,0 +1,62 @@
+AssayName: single sample liquid chromatography-tandem mass spectrometry (LC-MS/MS)  
+AcquisitionMethod: data dependent acquisition (DDA)  
+AcquisitionMethod: data independent acquisition (DIA)  
+FractionationMethod: peptide fractionation  
+AssayName: label-free quantification (LF)  
+Label: TMT 6-plex  
+Specimen: frozen lung squamous cell carcinomas  
+Specimen: adjacent tissues  
+Instrument: BioPulverizer (Biospec)  
+ConcentrationOfCompound: 20 mM HEPES  
+ConcentrationOfCompound: 9 M urea  
+ConcentrationOfCompound: 1 mM sodium orthovanadate  
+ConcentrationOfCompound: 2.5 mM sodium pyrophosphate  
+ConcentrationOfCompound: 1 mM β-glycerophosphate  
+Temperature: 15 °C  
+Time: 30 minutes  
+ReductionReagent: 4.5 mM DTT  
+AlkylationReagent: 11 mM iodoacetamide  
+FactorValue: 4-fold  
+ConcentrationOfCompound: 2 M urea  
+ConcentrationOfCompound: 20 mM HEPES  
+CleavageAgent: trypsin  
+Temperature: 37 °C  
+Time: overnight  
+ConcentrationOfCompound: 20% TFA  
+ConcentrationOfCompound: 1% TFA  
+Time: 10 minutes  
+Time: 15 minutes  
+Time: 2 days  
+FractionationMethod: basic pH reversed phase HPLC  
+FlowRateChromatogram: 0.2 ml/min  
+Time: 9 minutes  
+Time: 4 minutes  
+Time: 50 minutes  
+Time: 5.5 minutes  
+Time: 13 min  
+Instrument: RSLC, Dionex, Sunnyvale, CA  
+Instrument: QExactive Plus, Thermo, San Jose, CA  
+ConcentrationOfCompound: 2% acetonitrile  
+ConcentrationOfCompound: 0.1% formic acid  
+Time: 8 minutes  
+Time: 60 minutes  
+Time: 7 minutes  
+Time: 5 minutes  
+Time: 1 minute  
+FlowRateChromatogram: 300 nl/min  
+AcquisitionMethod: data-dependent manner  
+FactorValue: 60 second exclusion  
+CollisionEnergy: normalized collision energy set to 28  
+SpikedCompound: standard peptide retention time calibrator mixture (PRTC, Pierce #88320)  
+ConcentrationOfCompound: 10 fmol of each peptide per injection  
+Time: 24 days  
+CollisionEnergy: normalized collision energy value was set to 30  
+SpikedCompound: PRTC peptide mix  
+ConcentrationOfCompound: 25 femtomoles of PRTC  
+Time: 6 days  
+AcquisitionMethod: looped 18 narrow window DIA scans covering m/z range from 450 to 1,080  
+PrecursorMassTolerance: 10 ppm  
+NumberOfMissedCleavages: two missed tryptic cleavages  
+FragmentMassTolerance: 0.05 Da  
+Modification: cysteine carbamidomethylation  
+Modification: methionine oxidation

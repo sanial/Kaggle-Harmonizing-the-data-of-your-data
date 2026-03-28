@@ -1,0 +1,48 @@
+AssayName: CHarge Ordered Parallel Ion aNalysis (CHOPIN)  
+Instrument: Orbitrap Fusion (Lumos) mass spectrometer  
+CleavageAgent: trypsin  
+CleavageAgent: elastase  
+FractionationMethod: concatenated high-pH prefractionation  
+CellLine: MCF-7 breast cancer cell line  
+ConcentrationOfCompound: 10% FCS  
+ConcentrationOfCompound: 1% penicillin  
+ConcentrationOfCompound: 1% streptomycin  
+ConcentrationOfCompound: 1% glutamine  
+Temperature: 37 °C  
+ConcentrationOfCompound: 5% CO2  
+Compound: trypsin solution (Sigma, no. T3924)  
+Compound: RIPA lysis buffer (Thermo Pierce, no. 89901)  
+ConcentrationOfCompound: 4% SDS  
+ConcentrationOfCompound: 6 M urea  
+ConcentrationOfCompound: 2 M thiourea  
+ConcentrationOfCompound: 100 mM DTT  
+Compound: benzonase (Sigma, no. E1014)  
+Time: 20 min  
+Temperature: 4 °C  
+Separation: SDS-PAGE  
+Staining: Coomassie staining  
+SampleTreatment: GASP method  
+ConcentrationOfCompound: 30% acrylamide  
+ConcentrationOfCompound: 100% acetonitrile  
+ConcentrationOfCompound: 50 mM ammonium bicarbonate  
+ConcentrationOfCompound: 50 μg of trypsin  
+ConcentrationOfCompound: 50 μg of elastase  
+Time: overnight  
+ConcentrationOfCompound: 2% acetonitrile  
+ConcentrationOfCompound: 0.1% formic acid  
+FractionationMethod: Off-line high-pH reverse-phase prefractionation  
+Instrument: Dionex Ultimate 3000 HPLC  
+FlowRateChromatogram: 200 μL/min  
+AssayName: LC–MS/MS  
+Instrument: Dionex Ultimate 3000 nano-UPLC  
+Time: 60 min  
+AcquisitionMethod: Universal Method  
+AcquisitionMethod: CHarge Ordered Parallel Ion aNalysis (CHOPIN)  
+AcquisitionMethod: Universal/FT  
+FragmentationMethod: CID  
+CollisionEnergy: 35%  
+CollisionEnergy: 32%  
+MS2MassAnalyzer: linear ion trap  
+PrecursorMassTolerance: 20 ppm  
+FragmentMassTolerance: 0.5 Da  
+FragmentMassTolerance: 0.05 Da

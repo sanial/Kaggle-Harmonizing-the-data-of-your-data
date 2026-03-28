@@ -1,0 +1,2774 @@
+{
+  "QE1_180417_OPL1022_TLL_PDAC_tumor_P3.raw": {
+    "Source Name": [
+      "PDAC_tumor_P3"
+    ],
+    "Assay Name": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_P3"
+    ],
+    "Raw Data File": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_P3.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "Snap-frozen tumor samples"
+    ],
+    "Characteristics[Disease]": [
+      "pancreatic ductal adenocarcinoma (PDAC)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "a cohort of 20 patients",
+      "20 samples were eligible for further analysis."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin solution (Promega, 6.25 ng/ml in 50 mM ABC)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT/50 mM ABC"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM iodoacetamide/50 mM ABC"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor"
+    ],
+    "Comment[FractionIdentifier]": [
+      "P3"
+    ],
+    "Comment[FractionationMethod]": [
+      "gel-fractionated proteins",
+      "Gel lanes were cut into five bands"
+    ],
+    "Comment[Instrument]": [
+      "Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)",
+      "Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free nanoLC-MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD (higher-energy collision)"
+    ],
+    "Comment[IonizationType]": [
+      "Eluting peptides were ionized at a potential of +2 kVa into a Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "in a 10–40% buffer B gradient for 75 min (100 min inject-to-inject)"
+    ],
+    "Comment[Separation]": [
+      "peptides were separated using an Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "maximum mass deviation of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ions with a maximum mass deviation of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "in the orbitrap"
+    ],
+    "Comment[NumberOfFractions]": [
+      "five bands"
+    ]
+  },
+  "QE1_180417_OPL1022_TLL_PDAC_tumor_H5.raw": {
+    "Source Name": [
+      "PDAC_tumor_H5"
+    ],
+    "Assay Name": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_H5"
+    ],
+    "Raw Data File": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_H5.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "Snap-frozen tumor samples"
+    ],
+    "Characteristics[Disease]": [
+      "pancreatic ductal adenocarcinoma (PDAC)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "a cohort of 20 patients",
+      "20 samples were eligible for further analysis."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin solution (Promega, 6.25 ng/ml in 50 mM ABC)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT/50 mM ABC"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM iodoacetamide/50 mM ABC"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor"
+    ],
+    "Comment[FractionIdentifier]": [
+      "H5"
+    ],
+    "Comment[FractionationMethod]": [
+      "gel-fractionated proteins",
+      "Gel lanes were cut into five bands"
+    ],
+    "Comment[Instrument]": [
+      "Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)",
+      "Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free nanoLC-MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD (higher-energy collision)"
+    ],
+    "Comment[IonizationType]": [
+      "Eluting peptides were ionized at a potential of +2 kVa into a Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "in a 10–40% buffer B gradient for 75 min (100 min inject-to-inject)"
+    ],
+    "Comment[Separation]": [
+      "peptides were separated using an Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "maximum mass deviation of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ions with a maximum mass deviation of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "in the orbitrap"
+    ],
+    "Comment[NumberOfFractions]": [
+      "five bands"
+    ]
+  },
+  "QE1_180417_OPL1022_TLL_PDAC_tumor_R3.raw": {
+    "Source Name": [
+      "PDAC_tumor_R3"
+    ],
+    "Assay Name": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_R3"
+    ],
+    "Raw Data File": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_R3.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "Snap-frozen tumor samples"
+    ],
+    "Characteristics[Disease]": [
+      "pancreatic ductal adenocarcinoma (PDAC)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "a cohort of 20 patients",
+      "20 samples were eligible for further analysis."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin solution (Promega, 6.25 ng/ml in 50 mM ABC)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT/50 mM ABC"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM iodoacetamide/50 mM ABC"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor"
+    ],
+    "Comment[FractionIdentifier]": [
+      "R3"
+    ],
+    "Comment[FractionationMethod]": [
+      "gel-fractionated proteins",
+      "Gel lanes were cut into five bands"
+    ],
+    "Comment[Instrument]": [
+      "Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)",
+      "Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free nanoLC-MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD (higher-energy collision)"
+    ],
+    "Comment[IonizationType]": [
+      "Eluting peptides were ionized at a potential of +2 kVa into a Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "in a 10–40% buffer B gradient for 75 min (100 min inject-to-inject)"
+    ],
+    "Comment[Separation]": [
+      "peptides were separated using an Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "maximum mass deviation of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ions with a maximum mass deviation of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "in the orbitrap"
+    ],
+    "Comment[NumberOfFractions]": [
+      "five bands"
+    ]
+  },
+  "QE1_180417_OPL1022_TLL_PDAC_tumor_N4.raw": {
+    "Source Name": [
+      "PDAC_tumor_N4"
+    ],
+    "Assay Name": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_N4"
+    ],
+    "Raw Data File": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_N4.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "Snap-frozen tumor samples"
+    ],
+    "Characteristics[Disease]": [
+      "pancreatic ductal adenocarcinoma (PDAC)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "a cohort of 20 patients",
+      "20 samples were eligible for further analysis."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin solution (Promega, 6.25 ng/ml in 50 mM ABC)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT/50 mM ABC"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM iodoacetamide/50 mM ABC"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor"
+    ],
+    "Comment[FractionIdentifier]": [
+      "N4"
+    ],
+    "Comment[FractionationMethod]": [
+      "gel-fractionated proteins",
+      "Gel lanes were cut into five bands"
+    ],
+    "Comment[Instrument]": [
+      "Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)",
+      "Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free nanoLC-MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD (higher-energy collision)"
+    ],
+    "Comment[IonizationType]": [
+      "Eluting peptides were ionized at a potential of +2 kVa into a Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "in a 10–40% buffer B gradient for 75 min (100 min inject-to-inject)"
+    ],
+    "Comment[Separation]": [
+      "peptides were separated using an Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "maximum mass deviation of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ions with a maximum mass deviation of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "in the orbitrap"
+    ],
+    "Comment[NumberOfFractions]": [
+      "five bands"
+    ]
+  },
+  "QE1_180417_OPL1022_TLL_PDAC_tumor_K4.raw": {
+    "Source Name": [
+      "PDAC_tumor_K4"
+    ],
+    "Assay Name": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_K4"
+    ],
+    "Raw Data File": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_K4.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "Snap-frozen tumor samples"
+    ],
+    "Characteristics[Disease]": [
+      "pancreatic ductal adenocarcinoma (PDAC)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "a cohort of 20 patients",
+      "20 samples were eligible for further analysis."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin solution (Promega, 6.25 ng/ml in 50 mM ABC)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT/50 mM ABC"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM iodoacetamide/50 mM ABC"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor"
+    ],
+    "Comment[FractionIdentifier]": [
+      "K4"
+    ],
+    "Comment[FractionationMethod]": [
+      "gel-fractionated proteins",
+      "Gel lanes were cut into five bands"
+    ],
+    "Comment[Instrument]": [
+      "Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)",
+      "Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free nanoLC-MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD (higher-energy collision)"
+    ],
+    "Comment[IonizationType]": [
+      "Eluting peptides were ionized at a potential of +2 kVa into a Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "in a 10–40% buffer B gradient for 75 min (100 min inject-to-inject)"
+    ],
+    "Comment[Separation]": [
+      "peptides were separated using an Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "maximum mass deviation of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ions with a maximum mass deviation of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "in the orbitrap"
+    ],
+    "Comment[NumberOfFractions]": [
+      "five bands"
+    ]
+  },
+  "QE1_180417_OPL1022_TLL_PDAC_tumor_A3.raw": {
+    "Source Name": [
+      "PDAC_tumor_A3"
+    ],
+    "Assay Name": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_A3"
+    ],
+    "Raw Data File": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_A3.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "Snap-frozen tumor samples"
+    ],
+    "Characteristics[Disease]": [
+      "pancreatic ductal adenocarcinoma (PDAC)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "a cohort of 20 patients",
+      "20 samples were eligible for further analysis."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin solution (Promega, 6.25 ng/ml in 50 mM ABC)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT/50 mM ABC"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM iodoacetamide/50 mM ABC"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor"
+    ],
+    "Comment[FractionIdentifier]": [
+      "A3"
+    ],
+    "Comment[FractionationMethod]": [
+      "gel-fractionated proteins",
+      "Gel lanes were cut into five bands"
+    ],
+    "Comment[Instrument]": [
+      "Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)",
+      "Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free nanoLC-MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD (higher-energy collision)"
+    ],
+    "Comment[IonizationType]": [
+      "Eluting peptides were ionized at a potential of +2 kVa into a Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "in a 10–40% buffer B gradient for 75 min (100 min inject-to-inject)"
+    ],
+    "Comment[Separation]": [
+      "peptides were separated using an Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "maximum mass deviation of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ions with a maximum mass deviation of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "in the orbitrap"
+    ],
+    "Comment[NumberOfFractions]": [
+      "five bands"
+    ]
+  },
+  "QE1_180417_OPL1022_TLL_PDAC_tumor_J3.raw": {
+    "Source Name": [
+      "PDAC_tumor_J3"
+    ],
+    "Assay Name": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_J3"
+    ],
+    "Raw Data File": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_J3.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "Snap-frozen tumor samples"
+    ],
+    "Characteristics[Disease]": [
+      "pancreatic ductal adenocarcinoma (PDAC)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "a cohort of 20 patients",
+      "20 samples were eligible for further analysis."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin solution (Promega, 6.25 ng/ml in 50 mM ABC)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT/50 mM ABC"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM iodoacetamide/50 mM ABC"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor"
+    ],
+    "Comment[FractionIdentifier]": [
+      "J3"
+    ],
+    "Comment[FractionationMethod]": [
+      "gel-fractionated proteins",
+      "Gel lanes were cut into five bands"
+    ],
+    "Comment[Instrument]": [
+      "Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)",
+      "Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free nanoLC-MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD (higher-energy collision)"
+    ],
+    "Comment[IonizationType]": [
+      "Eluting peptides were ionized at a potential of +2 kVa into a Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "in a 10–40% buffer B gradient for 75 min (100 min inject-to-inject)"
+    ],
+    "Comment[Separation]": [
+      "peptides were separated using an Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "maximum mass deviation of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ions with a maximum mass deviation of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "in the orbitrap"
+    ],
+    "Comment[NumberOfFractions]": [
+      "five bands"
+    ]
+  },
+  "QE1_180417_OPL1022_TLL_PDAC_tumor_R4.raw": {
+    "Source Name": [
+      "PDAC_tumor_R4"
+    ],
+    "Assay Name": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_R4"
+    ],
+    "Raw Data File": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_R4.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "Snap-frozen tumor samples"
+    ],
+    "Characteristics[Disease]": [
+      "pancreatic ductal adenocarcinoma (PDAC)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "a cohort of 20 patients",
+      "20 samples were eligible for further analysis."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin solution (Promega, 6.25 ng/ml in 50 mM ABC)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT/50 mM ABC"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM iodoacetamide/50 mM ABC"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor"
+    ],
+    "Comment[FractionIdentifier]": [
+      "R4"
+    ],
+    "Comment[FractionationMethod]": [
+      "gel-fractionated proteins",
+      "Gel lanes were cut into five bands"
+    ],
+    "Comment[Instrument]": [
+      "Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)",
+      "Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free nanoLC-MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD (higher-energy collision)"
+    ],
+    "Comment[IonizationType]": [
+      "Eluting peptides were ionized at a potential of +2 kVa into a Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "in a 10–40% buffer B gradient for 75 min (100 min inject-to-inject)"
+    ],
+    "Comment[Separation]": [
+      "peptides were separated using an Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "maximum mass deviation of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ions with a maximum mass deviation of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "in the orbitrap"
+    ],
+    "Comment[NumberOfFractions]": [
+      "five bands"
+    ]
+  },
+  "QE1_180417_OPL1022_TLL_PDAC_tumor_N5.raw": {
+    "Source Name": [
+      "PDAC_tumor_N5"
+    ],
+    "Assay Name": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_N5"
+    ],
+    "Raw Data File": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_N5.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "Snap-frozen tumor samples"
+    ],
+    "Characteristics[Disease]": [
+      "pancreatic ductal adenocarcinoma (PDAC)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "a cohort of 20 patients",
+      "20 samples were eligible for further analysis."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin solution (Promega, 6.25 ng/ml in 50 mM ABC)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT/50 mM ABC"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM iodoacetamide/50 mM ABC"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor"
+    ],
+    "Comment[FractionIdentifier]": [
+      "N5"
+    ],
+    "Comment[FractionationMethod]": [
+      "gel-fractionated proteins",
+      "Gel lanes were cut into five bands"
+    ],
+    "Comment[Instrument]": [
+      "Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)",
+      "Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free nanoLC-MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD (higher-energy collision)"
+    ],
+    "Comment[IonizationType]": [
+      "Eluting peptides were ionized at a potential of +2 kVa into a Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "in a 10–40% buffer B gradient for 75 min (100 min inject-to-inject)"
+    ],
+    "Comment[Separation]": [
+      "peptides were separated using an Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "maximum mass deviation of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ions with a maximum mass deviation of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "in the orbitrap"
+    ],
+    "Comment[NumberOfFractions]": [
+      "five bands"
+    ]
+  },
+  "QE1_180417_OPL1022_TLL_PDAC_tumor_C4.raw": {
+    "Source Name": [
+      "PDAC_tumor_C4"
+    ],
+    "Assay Name": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_C4"
+    ],
+    "Raw Data File": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_C4.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "Snap-frozen tumor samples"
+    ],
+    "Characteristics[Disease]": [
+      "pancreatic ductal adenocarcinoma (PDAC)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "a cohort of 20 patients",
+      "20 samples were eligible for further analysis."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin solution (Promega, 6.25 ng/ml in 50 mM ABC)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT/50 mM ABC"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM iodoacetamide/50 mM ABC"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor"
+    ],
+    "Comment[FractionIdentifier]": [
+      "C4"
+    ],
+    "Comment[FractionationMethod]": [
+      "gel-fractionated proteins",
+      "Gel lanes were cut into five bands"
+    ],
+    "Comment[Instrument]": [
+      "Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)",
+      "Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free nanoLC-MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD (higher-energy collision)"
+    ],
+    "Comment[IonizationType]": [
+      "Eluting peptides were ionized at a potential of +2 kVa into a Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "in a 10–40% buffer B gradient for 75 min (100 min inject-to-inject)"
+    ],
+    "Comment[Separation]": [
+      "peptides were separated using an Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "maximum mass deviation of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ions with a maximum mass deviation of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "in the orbitrap"
+    ],
+    "Comment[NumberOfFractions]": [
+      "five bands"
+    ]
+  },
+  "QE1_180417_OPL1022_TLL_PDAC_tumor_H4.raw": {
+    "Source Name": [
+      "PDAC_tumor_H4"
+    ],
+    "Assay Name": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_H4"
+    ],
+    "Raw Data File": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_H4.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "Snap-frozen tumor samples"
+    ],
+    "Characteristics[Disease]": [
+      "pancreatic ductal adenocarcinoma (PDAC)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "a cohort of 20 patients",
+      "20 samples were eligible for further analysis."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin solution (Promega, 6.25 ng/ml in 50 mM ABC)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT/50 mM ABC"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM iodoacetamide/50 mM ABC"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor"
+    ],
+    "Comment[FractionIdentifier]": [
+      "H4"
+    ],
+    "Comment[FractionationMethod]": [
+      "gel-fractionated proteins",
+      "Gel lanes were cut into five bands"
+    ],
+    "Comment[Instrument]": [
+      "Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)",
+      "Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free nanoLC-MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD (higher-energy collision)"
+    ],
+    "Comment[IonizationType]": [
+      "Eluting peptides were ionized at a potential of +2 kVa into a Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "in a 10–40% buffer B gradient for 75 min (100 min inject-to-inject)"
+    ],
+    "Comment[Separation]": [
+      "peptides were separated using an Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "maximum mass deviation of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ions with a maximum mass deviation of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "in the orbitrap"
+    ],
+    "Comment[NumberOfFractions]": [
+      "five bands"
+    ]
+  },
+  "QE1_180417_OPL1022_TLL_PDAC_tumor_C3.raw": {
+    "Source Name": [
+      "PDAC_tumor_C3"
+    ],
+    "Assay Name": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_C3"
+    ],
+    "Raw Data File": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_C3.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "Snap-frozen tumor samples"
+    ],
+    "Characteristics[Disease]": [
+      "pancreatic ductal adenocarcinoma (PDAC)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "a cohort of 20 patients",
+      "20 samples were eligible for further analysis."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin solution (Promega, 6.25 ng/ml in 50 mM ABC)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT/50 mM ABC"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM iodoacetamide/50 mM ABC"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor"
+    ],
+    "Comment[FractionIdentifier]": [
+      "C3"
+    ],
+    "Comment[FractionationMethod]": [
+      "gel-fractionated proteins",
+      "Gel lanes were cut into five bands"
+    ],
+    "Comment[Instrument]": [
+      "Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)",
+      "Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free nanoLC-MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD (higher-energy collision)"
+    ],
+    "Comment[IonizationType]": [
+      "Eluting peptides were ionized at a potential of +2 kVa into a Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "in a 10–40% buffer B gradient for 75 min (100 min inject-to-inject)"
+    ],
+    "Comment[Separation]": [
+      "peptides were separated using an Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "maximum mass deviation of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ions with a maximum mass deviation of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "in the orbitrap"
+    ],
+    "Comment[NumberOfFractions]": [
+      "five bands"
+    ]
+  },
+  "QE1_180417_OPL1022_TLL_PDAC_tumor_F3.raw": {
+    "Source Name": [
+      "PDAC_tumor_F3"
+    ],
+    "Assay Name": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_F3"
+    ],
+    "Raw Data File": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_F3.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "Snap-frozen tumor samples"
+    ],
+    "Characteristics[Disease]": [
+      "pancreatic ductal adenocarcinoma (PDAC)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "a cohort of 20 patients",
+      "20 samples were eligible for further analysis."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin solution (Promega, 6.25 ng/ml in 50 mM ABC)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT/50 mM ABC"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM iodoacetamide/50 mM ABC"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F3"
+    ],
+    "Comment[FractionationMethod]": [
+      "gel-fractionated proteins",
+      "Gel lanes were cut into five bands"
+    ],
+    "Comment[Instrument]": [
+      "Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)",
+      "Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free nanoLC-MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD (higher-energy collision)"
+    ],
+    "Comment[IonizationType]": [
+      "Eluting peptides were ionized at a potential of +2 kVa into a Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "in a 10–40% buffer B gradient for 75 min (100 min inject-to-inject)"
+    ],
+    "Comment[Separation]": [
+      "peptides were separated using an Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "maximum mass deviation of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ions with a maximum mass deviation of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "in the orbitrap"
+    ],
+    "Comment[NumberOfFractions]": [
+      "five bands"
+    ]
+  },
+  "QE1_180417_OPL1022_TLL_PDAC_tumor_F5.raw": {
+    "Source Name": [
+      "PDAC_tumor_F5"
+    ],
+    "Assay Name": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_F5"
+    ],
+    "Raw Data File": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_F5.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "Snap-frozen tumor samples"
+    ],
+    "Characteristics[Disease]": [
+      "pancreatic ductal adenocarcinoma (PDAC)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "a cohort of 20 patients",
+      "20 samples were eligible for further analysis."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin solution (Promega, 6.25 ng/ml in 50 mM ABC)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT/50 mM ABC"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM iodoacetamide/50 mM ABC"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F5"
+    ],
+    "Comment[FractionationMethod]": [
+      "gel-fractionated proteins",
+      "Gel lanes were cut into five bands"
+    ],
+    "Comment[Instrument]": [
+      "Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)",
+      "Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free nanoLC-MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD (higher-energy collision)"
+    ],
+    "Comment[IonizationType]": [
+      "Eluting peptides were ionized at a potential of +2 kVa into a Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "in a 10–40% buffer B gradient for 75 min (100 min inject-to-inject)"
+    ],
+    "Comment[Separation]": [
+      "peptides were separated using an Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "maximum mass deviation of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ions with a maximum mass deviation of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "in the orbitrap"
+    ],
+    "Comment[NumberOfFractions]": [
+      "five bands"
+    ]
+  },
+  "QE1_180417_OPL1022_TLL_PDAC_tumor_N1.raw": {
+    "Source Name": [
+      "PDAC_tumor_N1"
+    ],
+    "Assay Name": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_N1"
+    ],
+    "Raw Data File": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_N1.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "Snap-frozen tumor samples"
+    ],
+    "Characteristics[Disease]": [
+      "pancreatic ductal adenocarcinoma (PDAC)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "a cohort of 20 patients",
+      "20 samples were eligible for further analysis."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin solution (Promega, 6.25 ng/ml in 50 mM ABC)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT/50 mM ABC"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM iodoacetamide/50 mM ABC"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor"
+    ],
+    "Comment[FractionIdentifier]": [
+      "N1"
+    ],
+    "Comment[FractionationMethod]": [
+      "gel-fractionated proteins",
+      "Gel lanes were cut into five bands"
+    ],
+    "Comment[Instrument]": [
+      "Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)",
+      "Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free nanoLC-MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD (higher-energy collision)"
+    ],
+    "Comment[IonizationType]": [
+      "Eluting peptides were ionized at a potential of +2 kVa into a Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "in a 10–40% buffer B gradient for 75 min (100 min inject-to-inject)"
+    ],
+    "Comment[Separation]": [
+      "peptides were separated using an Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "maximum mass deviation of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ions with a maximum mass deviation of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "in the orbitrap"
+    ],
+    "Comment[NumberOfFractions]": [
+      "five bands"
+    ]
+  },
+  "QE1_180417_OPL1022_TLL_PDAC_tumor_M4.raw": {
+    "Source Name": [
+      "PDAC_tumor_M4"
+    ],
+    "Assay Name": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_M4"
+    ],
+    "Raw Data File": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_M4.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "Snap-frozen tumor samples"
+    ],
+    "Characteristics[Disease]": [
+      "pancreatic ductal adenocarcinoma (PDAC)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "a cohort of 20 patients",
+      "20 samples were eligible for further analysis."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin solution (Promega, 6.25 ng/ml in 50 mM ABC)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT/50 mM ABC"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM iodoacetamide/50 mM ABC"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor"
+    ],
+    "Comment[FractionIdentifier]": [
+      "M4"
+    ],
+    "Comment[FractionationMethod]": [
+      "gel-fractionated proteins",
+      "Gel lanes were cut into five bands"
+    ],
+    "Comment[Instrument]": [
+      "Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)",
+      "Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free nanoLC-MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD (higher-energy collision)"
+    ],
+    "Comment[IonizationType]": [
+      "Eluting peptides were ionized at a potential of +2 kVa into a Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "in a 10–40% buffer B gradient for 75 min (100 min inject-to-inject)"
+    ],
+    "Comment[Separation]": [
+      "peptides were separated using an Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "maximum mass deviation of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ions with a maximum mass deviation of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "in the orbitrap"
+    ],
+    "Comment[NumberOfFractions]": [
+      "five bands"
+    ]
+  },
+  "QE1_180417_OPL1022_TLL_PDAC_tumor_Q4.raw": {
+    "Source Name": [
+      "PDAC_tumor_Q4"
+    ],
+    "Assay Name": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_Q4"
+    ],
+    "Raw Data File": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_Q4.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "Snap-frozen tumor samples"
+    ],
+    "Characteristics[Disease]": [
+      "pancreatic ductal adenocarcinoma (PDAC)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "a cohort of 20 patients",
+      "20 samples were eligible for further analysis."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin solution (Promega, 6.25 ng/ml in 50 mM ABC)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT/50 mM ABC"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM iodoacetamide/50 mM ABC"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Q4"
+    ],
+    "Comment[FractionationMethod]": [
+      "gel-fractionated proteins",
+      "Gel lanes were cut into five bands"
+    ],
+    "Comment[Instrument]": [
+      "Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)",
+      "Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free nanoLC-MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD (higher-energy collision)"
+    ],
+    "Comment[IonizationType]": [
+      "Eluting peptides were ionized at a potential of +2 kVa into a Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "in a 10–40% buffer B gradient for 75 min (100 min inject-to-inject)"
+    ],
+    "Comment[Separation]": [
+      "peptides were separated using an Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "maximum mass deviation of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ions with a maximum mass deviation of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "in the orbitrap"
+    ],
+    "Comment[NumberOfFractions]": [
+      "five bands"
+    ]
+  },
+  "QE1_180417_OPL1022_TLL_PDAC_tumor_I1.raw": {
+    "Source Name": [
+      "PDAC_tumor_I1"
+    ],
+    "Assay Name": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_I1"
+    ],
+    "Raw Data File": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_I1.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "Snap-frozen tumor samples"
+    ],
+    "Characteristics[Disease]": [
+      "pancreatic ductal adenocarcinoma (PDAC)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "a cohort of 20 patients",
+      "20 samples were eligible for further analysis."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin solution (Promega, 6.25 ng/ml in 50 mM ABC)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT/50 mM ABC"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM iodoacetamide/50 mM ABC"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor"
+    ],
+    "Comment[FractionIdentifier]": [
+      "I1"
+    ],
+    "Comment[FractionationMethod]": [
+      "gel-fractionated proteins",
+      "Gel lanes were cut into five bands"
+    ],
+    "Comment[Instrument]": [
+      "Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)",
+      "Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free nanoLC-MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD (higher-energy collision)"
+    ],
+    "Comment[IonizationType]": [
+      "Eluting peptides were ionized at a potential of +2 kVa into a Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "in a 10–40% buffer B gradient for 75 min (100 min inject-to-inject)"
+    ],
+    "Comment[Separation]": [
+      "peptides were separated using an Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "maximum mass deviation of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ions with a maximum mass deviation of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "in the orbitrap"
+    ],
+    "Comment[NumberOfFractions]": [
+      "five bands"
+    ]
+  },
+  "QE1_180417_OPL1022_TLL_PDAC_tumor_S2.raw": {
+    "Source Name": [
+      "PDAC_tumor_S2"
+    ],
+    "Assay Name": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_S2"
+    ],
+    "Raw Data File": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_S2.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "Snap-frozen tumor samples"
+    ],
+    "Characteristics[Disease]": [
+      "pancreatic ductal adenocarcinoma (PDAC)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "a cohort of 20 patients",
+      "20 samples were eligible for further analysis."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin solution (Promega, 6.25 ng/ml in 50 mM ABC)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT/50 mM ABC"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM iodoacetamide/50 mM ABC"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor"
+    ],
+    "Comment[FractionIdentifier]": [
+      "S2"
+    ],
+    "Comment[FractionationMethod]": [
+      "gel-fractionated proteins",
+      "Gel lanes were cut into five bands"
+    ],
+    "Comment[Instrument]": [
+      "Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)",
+      "Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free nanoLC-MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD (higher-energy collision)"
+    ],
+    "Comment[IonizationType]": [
+      "Eluting peptides were ionized at a potential of +2 kVa into a Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "in a 10–40% buffer B gradient for 75 min (100 min inject-to-inject)"
+    ],
+    "Comment[Separation]": [
+      "peptides were separated using an Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "maximum mass deviation of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ions with a maximum mass deviation of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "in the orbitrap"
+    ],
+    "Comment[NumberOfFractions]": [
+      "five bands"
+    ]
+  },
+  "QE1_180417_OPL1022_TLL_PDAC_tumor_K2.raw": {
+    "Source Name": [
+      "PDAC_tumor_K2"
+    ],
+    "Assay Name": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_K2"
+    ],
+    "Raw Data File": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_K2.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "Snap-frozen tumor samples"
+    ],
+    "Characteristics[Disease]": [
+      "pancreatic ductal adenocarcinoma (PDAC)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "a cohort of 20 patients",
+      "20 samples were eligible for further analysis."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin solution (Promega, 6.25 ng/ml in 50 mM ABC)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT/50 mM ABC"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM iodoacetamide/50 mM ABC"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor"
+    ],
+    "Comment[FractionIdentifier]": [
+      "K2"
+    ],
+    "Comment[FractionationMethod]": [
+      "gel-fractionated proteins",
+      "Gel lanes were cut into five bands"
+    ],
+    "Comment[Instrument]": [
+      "Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)",
+      "Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free nanoLC-MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD (higher-energy collision)"
+    ],
+    "Comment[IonizationType]": [
+      "Eluting peptides were ionized at a potential of +2 kVa into a Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "in a 10–40% buffer B gradient for 75 min (100 min inject-to-inject)"
+    ],
+    "Comment[Separation]": [
+      "peptides were separated using an Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "maximum mass deviation of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ions with a maximum mass deviation of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "in the orbitrap"
+    ],
+    "Comment[NumberOfFractions]": [
+      "five bands"
+    ]
+  },
+  "QE1_180417_OPL1022_TLL_PDAC_tumor_M3.raw": {
+    "Source Name": [
+      "PDAC_tumor_M3"
+    ],
+    "Assay Name": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_M3"
+    ],
+    "Raw Data File": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_M3.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "Snap-frozen tumor samples"
+    ],
+    "Characteristics[Disease]": [
+      "pancreatic ductal adenocarcinoma (PDAC)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "a cohort of 20 patients",
+      "20 samples were eligible for further analysis."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin solution (Promega, 6.25 ng/ml in 50 mM ABC)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT/50 mM ABC"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM iodoacetamide/50 mM ABC"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor"
+    ],
+    "Comment[FractionIdentifier]": [
+      "M3"
+    ],
+    "Comment[FractionationMethod]": [
+      "gel-fractionated proteins",
+      "Gel lanes were cut into five bands"
+    ],
+    "Comment[Instrument]": [
+      "Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)",
+      "Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free nanoLC-MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD (higher-energy collision)"
+    ],
+    "Comment[IonizationType]": [
+      "Eluting peptides were ionized at a potential of +2 kVa into a Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "in a 10–40% buffer B gradient for 75 min (100 min inject-to-inject)"
+    ],
+    "Comment[Separation]": [
+      "peptides were separated using an Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "maximum mass deviation of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ions with a maximum mass deviation of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "in the orbitrap"
+    ],
+    "Comment[NumberOfFractions]": [
+      "five bands"
+    ]
+  },
+  "QE1_180417_OPL1022_TLL_PDAC_tumor_D3.raw": {
+    "Source Name": [
+      "PDAC_tumor_D3"
+    ],
+    "Assay Name": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_D3"
+    ],
+    "Raw Data File": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_D3.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "Snap-frozen tumor samples"
+    ],
+    "Characteristics[Disease]": [
+      "pancreatic ductal adenocarcinoma (PDAC)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "a cohort of 20 patients",
+      "20 samples were eligible for further analysis."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin solution (Promega, 6.25 ng/ml in 50 mM ABC)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT/50 mM ABC"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM iodoacetamide/50 mM ABC"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor"
+    ],
+    "Comment[FractionIdentifier]": [
+      "D3"
+    ],
+    "Comment[FractionationMethod]": [
+      "gel-fractionated proteins",
+      "Gel lanes were cut into five bands"
+    ],
+    "Comment[Instrument]": [
+      "Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)",
+      "Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free nanoLC-MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD (higher-energy collision)"
+    ],
+    "Comment[IonizationType]": [
+      "Eluting peptides were ionized at a potential of +2 kVa into a Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "in a 10–40% buffer B gradient for 75 min (100 min inject-to-inject)"
+    ],
+    "Comment[Separation]": [
+      "peptides were separated using an Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "maximum mass deviation of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ions with a maximum mass deviation of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "in the orbitrap"
+    ],
+    "Comment[NumberOfFractions]": [
+      "five bands"
+    ]
+  },
+  "QE1_180417_OPL1022_TLL_PDAC_tumor_L1.raw": {
+    "Source Name": [
+      "PDAC_tumor_L1"
+    ],
+    "Assay Name": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_L1"
+    ],
+    "Raw Data File": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_L1.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "Snap-frozen tumor samples"
+    ],
+    "Characteristics[Disease]": [
+      "pancreatic ductal adenocarcinoma (PDAC)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "a cohort of 20 patients",
+      "20 samples were eligible for further analysis."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin solution (Promega, 6.25 ng/ml in 50 mM ABC)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT/50 mM ABC"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM iodoacetamide/50 mM ABC"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor"
+    ],
+    "Comment[FractionIdentifier]": [
+      "L1"
+    ],
+    "Comment[FractionationMethod]": [
+      "gel-fractionated proteins",
+      "Gel lanes were cut into five bands"
+    ],
+    "Comment[Instrument]": [
+      "Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)",
+      "Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free nanoLC-MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD (higher-energy collision)"
+    ],
+    "Comment[IonizationType]": [
+      "Eluting peptides were ionized at a potential of +2 kVa into a Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "in a 10–40% buffer B gradient for 75 min (100 min inject-to-inject)"
+    ],
+    "Comment[Separation]": [
+      "peptides were separated using an Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "maximum mass deviation of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ions with a maximum mass deviation of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "in the orbitrap"
+    ],
+    "Comment[NumberOfFractions]": [
+      "five bands"
+    ]
+  },
+  "QE1_180417_OPL1022_TLL_PDAC_tumor_Q1.raw": {
+    "Source Name": [
+      "PDAC_tumor_Q1"
+    ],
+    "Assay Name": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_Q1"
+    ],
+    "Raw Data File": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_Q1.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "Snap-frozen tumor samples"
+    ],
+    "Characteristics[Disease]": [
+      "pancreatic ductal adenocarcinoma (PDAC)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "a cohort of 20 patients",
+      "20 samples were eligible for further analysis."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin solution (Promega, 6.25 ng/ml in 50 mM ABC)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT/50 mM ABC"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM iodoacetamide/50 mM ABC"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor"
+    ],
+    "Comment[FractionIdentifier]": [
+      "Q1"
+    ],
+    "Comment[FractionationMethod]": [
+      "gel-fractionated proteins",
+      "Gel lanes were cut into five bands"
+    ],
+    "Comment[Instrument]": [
+      "Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)",
+      "Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free nanoLC-MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD (higher-energy collision)"
+    ],
+    "Comment[IonizationType]": [
+      "Eluting peptides were ionized at a potential of +2 kVa into a Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "in a 10–40% buffer B gradient for 75 min (100 min inject-to-inject)"
+    ],
+    "Comment[Separation]": [
+      "peptides were separated using an Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "maximum mass deviation of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ions with a maximum mass deviation of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "in the orbitrap"
+    ],
+    "Comment[NumberOfFractions]": [
+      "five bands"
+    ]
+  },
+  "QE1_180417_OPL1022_TLL_PDAC_tumor_B2.raw": {
+    "Source Name": [
+      "PDAC_tumor_B2"
+    ],
+    "Assay Name": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_B2"
+    ],
+    "Raw Data File": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_B2.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "Snap-frozen tumor samples"
+    ],
+    "Characteristics[Disease]": [
+      "pancreatic ductal adenocarcinoma (PDAC)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "a cohort of 20 patients",
+      "20 samples were eligible for further analysis."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin solution (Promega, 6.25 ng/ml in 50 mM ABC)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT/50 mM ABC"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM iodoacetamide/50 mM ABC"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor"
+    ],
+    "Comment[FractionIdentifier]": [
+      "B2"
+    ],
+    "Comment[FractionationMethod]": [
+      "gel-fractionated proteins",
+      "Gel lanes were cut into five bands"
+    ],
+    "Comment[Instrument]": [
+      "Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)",
+      "Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free nanoLC-MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD (higher-energy collision)"
+    ],
+    "Comment[IonizationType]": [
+      "Eluting peptides were ionized at a potential of +2 kVa into a Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "in a 10–40% buffer B gradient for 75 min (100 min inject-to-inject)"
+    ],
+    "Comment[Separation]": [
+      "peptides were separated using an Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "maximum mass deviation of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ions with a maximum mass deviation of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "in the orbitrap"
+    ],
+    "Comment[NumberOfFractions]": [
+      "five bands"
+    ]
+  },
+  "QE1_180417_OPL1022_TLL_PDAC_tumor_R1.raw": {
+    "Source Name": [
+      "PDAC_tumor_R1"
+    ],
+    "Assay Name": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_R1"
+    ],
+    "Raw Data File": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_R1.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "Snap-frozen tumor samples"
+    ],
+    "Characteristics[Disease]": [
+      "pancreatic ductal adenocarcinoma (PDAC)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "a cohort of 20 patients",
+      "20 samples were eligible for further analysis."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin solution (Promega, 6.25 ng/ml in 50 mM ABC)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT/50 mM ABC"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM iodoacetamide/50 mM ABC"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor"
+    ],
+    "Comment[FractionIdentifier]": [
+      "R1"
+    ],
+    "Comment[FractionationMethod]": [
+      "gel-fractionated proteins",
+      "Gel lanes were cut into five bands"
+    ],
+    "Comment[Instrument]": [
+      "Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)",
+      "Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free nanoLC-MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD (higher-energy collision)"
+    ],
+    "Comment[IonizationType]": [
+      "Eluting peptides were ionized at a potential of +2 kVa into a Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "in a 10–40% buffer B gradient for 75 min (100 min inject-to-inject)"
+    ],
+    "Comment[Separation]": [
+      "peptides were separated using an Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "maximum mass deviation of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ions with a maximum mass deviation of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "in the orbitrap"
+    ],
+    "Comment[NumberOfFractions]": [
+      "five bands"
+    ]
+  },
+  "QE1_180417_OPL1022_TLL_PDAC_tumor_J5.raw": {
+    "Source Name": [
+      "PDAC_tumor_J5"
+    ],
+    "Assay Name": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_J5"
+    ],
+    "Raw Data File": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_J5.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "Snap-frozen tumor samples"
+    ],
+    "Characteristics[Disease]": [
+      "pancreatic ductal adenocarcinoma (PDAC)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "a cohort of 20 patients",
+      "20 samples were eligible for further analysis."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin solution (Promega, 6.25 ng/ml in 50 mM ABC)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT/50 mM ABC"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM iodoacetamide/50 mM ABC"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor"
+    ],
+    "Comment[FractionIdentifier]": [
+      "J5"
+    ],
+    "Comment[FractionationMethod]": [
+      "gel-fractionated proteins",
+      "Gel lanes were cut into five bands"
+    ],
+    "Comment[Instrument]": [
+      "Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)",
+      "Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free nanoLC-MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD (higher-energy collision)"
+    ],
+    "Comment[IonizationType]": [
+      "Eluting peptides were ionized at a potential of +2 kVa into a Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "in a 10–40% buffer B gradient for 75 min (100 min inject-to-inject)"
+    ],
+    "Comment[Separation]": [
+      "peptides were separated using an Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "maximum mass deviation of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ions with a maximum mass deviation of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "in the orbitrap"
+    ],
+    "Comment[NumberOfFractions]": [
+      "five bands"
+    ]
+  },
+  "QE1_180417_OPL1022_TLL_PDAC_tumor_G2.raw": {
+    "Source Name": [
+      "PDAC_tumor_G2"
+    ],
+    "Assay Name": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_G2"
+    ],
+    "Raw Data File": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_G2.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "Snap-frozen tumor samples"
+    ],
+    "Characteristics[Disease]": [
+      "pancreatic ductal adenocarcinoma (PDAC)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "a cohort of 20 patients",
+      "20 samples were eligible for further analysis."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin solution (Promega, 6.25 ng/ml in 50 mM ABC)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT/50 mM ABC"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM iodoacetamide/50 mM ABC"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor"
+    ],
+    "Comment[FractionIdentifier]": [
+      "G2"
+    ],
+    "Comment[FractionationMethod]": [
+      "gel-fractionated proteins",
+      "Gel lanes were cut into five bands"
+    ],
+    "Comment[Instrument]": [
+      "Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)",
+      "Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free nanoLC-MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD (higher-energy collision)"
+    ],
+    "Comment[IonizationType]": [
+      "Eluting peptides were ionized at a potential of +2 kVa into a Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "in a 10–40% buffer B gradient for 75 min (100 min inject-to-inject)"
+    ],
+    "Comment[Separation]": [
+      "peptides were separated using an Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "maximum mass deviation of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ions with a maximum mass deviation of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "in the orbitrap"
+    ],
+    "Comment[NumberOfFractions]": [
+      "five bands"
+    ]
+  },
+  "QE1_180417_OPL1022_TLL_PDAC_tumor_E4.raw": {
+    "Source Name": [
+      "PDAC_tumor_E4"
+    ],
+    "Assay Name": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_E4"
+    ],
+    "Raw Data File": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_E4.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "Snap-frozen tumor samples"
+    ],
+    "Characteristics[Disease]": [
+      "pancreatic ductal adenocarcinoma (PDAC)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "a cohort of 20 patients",
+      "20 samples were eligible for further analysis."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin solution (Promega, 6.25 ng/ml in 50 mM ABC)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT/50 mM ABC"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM iodoacetamide/50 mM ABC"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor"
+    ],
+    "Comment[FractionIdentifier]": [
+      "E4"
+    ],
+    "Comment[FractionationMethod]": [
+      "gel-fractionated proteins",
+      "Gel lanes were cut into five bands"
+    ],
+    "Comment[Instrument]": [
+      "Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)",
+      "Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free nanoLC-MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD (higher-energy collision)"
+    ],
+    "Comment[IonizationType]": [
+      "Eluting peptides were ionized at a potential of +2 kVa into a Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "in a 10–40% buffer B gradient for 75 min (100 min inject-to-inject)"
+    ],
+    "Comment[Separation]": [
+      "peptides were separated using an Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "maximum mass deviation of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ions with a maximum mass deviation of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "in the orbitrap"
+    ],
+    "Comment[NumberOfFractions]": [
+      "five bands"
+    ]
+  },
+  "QE1_180417_OPL1022_TLL_PDAC_tumor_H2.raw": {
+    "Source Name": [
+      "PDAC_tumor_H2"
+    ],
+    "Assay Name": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_H2"
+    ],
+    "Raw Data File": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_H2.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "Snap-frozen tumor samples"
+    ],
+    "Characteristics[Disease]": [
+      "pancreatic ductal adenocarcinoma (PDAC)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "a cohort of 20 patients",
+      "20 samples were eligible for further analysis."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin solution (Promega, 6.25 ng/ml in 50 mM ABC)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT/50 mM ABC"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM iodoacetamide/50 mM ABC"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor"
+    ],
+    "Comment[FractionIdentifier]": [
+      "H2"
+    ],
+    "Comment[FractionationMethod]": [
+      "gel-fractionated proteins",
+      "Gel lanes were cut into five bands"
+    ],
+    "Comment[Instrument]": [
+      "Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)",
+      "Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free nanoLC-MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD (higher-energy collision)"
+    ],
+    "Comment[IonizationType]": [
+      "Eluting peptides were ionized at a potential of +2 kVa into a Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "in a 10–40% buffer B gradient for 75 min (100 min inject-to-inject)"
+    ],
+    "Comment[Separation]": [
+      "peptides were separated using an Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "maximum mass deviation of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ions with a maximum mass deviation of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "in the orbitrap"
+    ],
+    "Comment[NumberOfFractions]": [
+      "five bands"
+    ]
+  },
+  "QE1_180417_OPL1022_TLL_PDAC_tumor_H3.raw": {
+    "Source Name": [
+      "PDAC_tumor_H3"
+    ],
+    "Assay Name": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_H3"
+    ],
+    "Raw Data File": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_H3.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "Snap-frozen tumor samples"
+    ],
+    "Characteristics[Disease]": [
+      "pancreatic ductal adenocarcinoma (PDAC)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "a cohort of 20 patients",
+      "20 samples were eligible for further analysis."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin solution (Promega, 6.25 ng/ml in 50 mM ABC)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT/50 mM ABC"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM iodoacetamide/50 mM ABC"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor"
+    ],
+    "Comment[FractionIdentifier]": [
+      "H3"
+    ],
+    "Comment[FractionationMethod]": [
+      "gel-fractionated proteins",
+      "Gel lanes were cut into five bands"
+    ],
+    "Comment[Instrument]": [
+      "Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)",
+      "Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free nanoLC-MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD (higher-energy collision)"
+    ],
+    "Comment[IonizationType]": [
+      "Eluting peptides were ionized at a potential of +2 kVa into a Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "in a 10–40% buffer B gradient for 75 min (100 min inject-to-inject)"
+    ],
+    "Comment[Separation]": [
+      "peptides were separated using an Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "maximum mass deviation of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ions with a maximum mass deviation of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "in the orbitrap"
+    ],
+    "Comment[NumberOfFractions]": [
+      "five bands"
+    ]
+  },
+  "QE1_180417_OPL1022_TLL_PDAC_tumor_C2.raw": {
+    "Source Name": [
+      "PDAC_tumor_C2"
+    ],
+    "Assay Name": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_C2"
+    ],
+    "Raw Data File": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_C2.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "Snap-frozen tumor samples"
+    ],
+    "Characteristics[Disease]": [
+      "pancreatic ductal adenocarcinoma (PDAC)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "a cohort of 20 patients",
+      "20 samples were eligible for further analysis."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin solution (Promega, 6.25 ng/ml in 50 mM ABC)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT/50 mM ABC"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM iodoacetamide/50 mM ABC"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor"
+    ],
+    "Comment[FractionIdentifier]": [
+      "C2"
+    ],
+    "Comment[FractionationMethod]": [
+      "gel-fractionated proteins",
+      "Gel lanes were cut into five bands"
+    ],
+    "Comment[Instrument]": [
+      "Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)",
+      "Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free nanoLC-MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD (higher-energy collision)"
+    ],
+    "Comment[IonizationType]": [
+      "Eluting peptides were ionized at a potential of +2 kVa into a Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "in a 10–40% buffer B gradient for 75 min (100 min inject-to-inject)"
+    ],
+    "Comment[Separation]": [
+      "peptides were separated using an Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "maximum mass deviation of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ions with a maximum mass deviation of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "in the orbitrap"
+    ],
+    "Comment[NumberOfFractions]": [
+      "five bands"
+    ]
+  },
+  "QE1_180417_OPL1022_TLL_PDAC_tumor_A1.raw": {
+    "Source Name": [
+      "PDAC_tumor_A1"
+    ],
+    "Assay Name": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_A1"
+    ],
+    "Raw Data File": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_A1.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "Snap-frozen tumor samples"
+    ],
+    "Characteristics[Disease]": [
+      "pancreatic ductal adenocarcinoma (PDAC)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "a cohort of 20 patients",
+      "20 samples were eligible for further analysis."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin solution (Promega, 6.25 ng/ml in 50 mM ABC)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT/50 mM ABC"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM iodoacetamide/50 mM ABC"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor"
+    ],
+    "Comment[FractionIdentifier]": [
+      "A1"
+    ],
+    "Comment[FractionationMethod]": [
+      "gel-fractionated proteins",
+      "Gel lanes were cut into five bands"
+    ],
+    "Comment[Instrument]": [
+      "Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)",
+      "Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free nanoLC-MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD (higher-energy collision)"
+    ],
+    "Comment[IonizationType]": [
+      "Eluting peptides were ionized at a potential of +2 kVa into a Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "in a 10–40% buffer B gradient for 75 min (100 min inject-to-inject)"
+    ],
+    "Comment[Separation]": [
+      "peptides were separated using an Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "maximum mass deviation of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ions with a maximum mass deviation of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "in the orbitrap"
+    ],
+    "Comment[NumberOfFractions]": [
+      "five bands"
+    ]
+  },
+  "QE1_180417_OPL1022_TLL_PDAC_tumor_J4.raw": {
+    "Source Name": [
+      "PDAC_tumor_J4"
+    ],
+    "Assay Name": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_J4"
+    ],
+    "Raw Data File": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_J4.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "Snap-frozen tumor samples"
+    ],
+    "Characteristics[Disease]": [
+      "pancreatic ductal adenocarcinoma (PDAC)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "a cohort of 20 patients",
+      "20 samples were eligible for further analysis."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin solution (Promega, 6.25 ng/ml in 50 mM ABC)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT/50 mM ABC"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM iodoacetamide/50 mM ABC"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor"
+    ],
+    "Comment[FractionIdentifier]": [
+      "J4"
+    ],
+    "Comment[FractionationMethod]": [
+      "gel-fractionated proteins",
+      "Gel lanes were cut into five bands"
+    ],
+    "Comment[Instrument]": [
+      "Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)",
+      "Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free nanoLC-MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD (higher-energy collision)"
+    ],
+    "Comment[IonizationType]": [
+      "Eluting peptides were ionized at a potential of +2 kVa into a Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "in a 10–40% buffer B gradient for 75 min (100 min inject-to-inject)"
+    ],
+    "Comment[Separation]": [
+      "peptides were separated using an Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "maximum mass deviation of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ions with a maximum mass deviation of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "in the orbitrap"
+    ],
+    "Comment[NumberOfFractions]": [
+      "five bands"
+    ]
+  },
+  "QE1_180417_OPL1022_TLL_PDAC_tumor_J1.raw": {
+    "Source Name": [
+      "PDAC_tumor_J1"
+    ],
+    "Assay Name": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_J1"
+    ],
+    "Raw Data File": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_J1.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "Snap-frozen tumor samples"
+    ],
+    "Characteristics[Disease]": [
+      "pancreatic ductal adenocarcinoma (PDAC)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "a cohort of 20 patients",
+      "20 samples were eligible for further analysis."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin solution (Promega, 6.25 ng/ml in 50 mM ABC)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT/50 mM ABC"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM iodoacetamide/50 mM ABC"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor"
+    ],
+    "Comment[FractionIdentifier]": [
+      "J1"
+    ],
+    "Comment[FractionationMethod]": [
+      "gel-fractionated proteins",
+      "Gel lanes were cut into five bands"
+    ],
+    "Comment[Instrument]": [
+      "Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)",
+      "Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free nanoLC-MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD (higher-energy collision)"
+    ],
+    "Comment[IonizationType]": [
+      "Eluting peptides were ionized at a potential of +2 kVa into a Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "in a 10–40% buffer B gradient for 75 min (100 min inject-to-inject)"
+    ],
+    "Comment[Separation]": [
+      "peptides were separated using an Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "maximum mass deviation of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ions with a maximum mass deviation of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "in the orbitrap"
+    ],
+    "Comment[NumberOfFractions]": [
+      "five bands"
+    ]
+  },
+  "QE1_180417_OPL1022_TLL_PDAC_tumor_F2.raw": {
+    "Source Name": [
+      "PDAC_tumor_F2"
+    ],
+    "Assay Name": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_F2"
+    ],
+    "Raw Data File": [
+      "QE1_180417_OPL1022_TLL_PDAC_tumor_F2.raw"
+    ],
+    "Characteristics[Specimen]": [
+      "Snap-frozen tumor samples"
+    ],
+    "Characteristics[Disease]": [
+      "pancreatic ductal adenocarcinoma (PDAC)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "a cohort of 20 patients",
+      "20 samples were eligible for further analysis."
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin solution (Promega, 6.25 ng/ml in 50 mM ABC)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT/50 mM ABC"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50 mM iodoacetamide/50 mM ABC"
+    ],
+    "Characteristics[MaterialType]": [
+      "tumor"
+    ],
+    "Comment[FractionIdentifier]": [
+      "F2"
+    ],
+    "Comment[FractionationMethod]": [
+      "gel-fractionated proteins",
+      "Gel lanes were cut into five bands"
+    ],
+    "Comment[Instrument]": [
+      "Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)",
+      "Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "label-free nanoLC-MS/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD (higher-energy collision)"
+    ],
+    "Comment[IonizationType]": [
+      "Eluting peptides were ionized at a potential of +2 kVa into a Q Exactive mass spectrometer (Thermo Fisher, Bremen, Germany)."
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "in a 10–40% buffer B gradient for 75 min (100 min inject-to-inject)"
+    ],
+    "Comment[Separation]": [
+      "peptides were separated using an Ultimate 3000 nanoLC system (Dionex LC-Packings, Amsterdam, The Netherlands)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "maximum mass deviation of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ions with a maximum mass deviation of 20 ppm"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to two missed cleavages were allowed."
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "in the orbitrap"
+    ],
+    "Comment[NumberOfFractions]": [
+      "five bands"
+    ]
+  }
+}

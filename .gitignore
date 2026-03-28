@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Notebooks
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Large model files (>50MB)
+*.bin
+*.pt
+*.pth
+outputs/models/*
+!outputs/models/.gitkeep
+
+# Logs and outputs
+outputs/logs/*
+outputs/metrics/*
+outputs/predictions/*
+outputs/train_preprocessed.csv
+outputs/test_preprocessed.csv
+!outputs/logs/.gitkeep
+!outputs/metrics/.gitkeep
+!outputs/predictions/.gitkeep
+
+# Local cache
+.cache/
+*.cache
+
+# OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# IDE
+*.swp
+*.swo
+*~

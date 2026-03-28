@@ -1,0 +1,25 @@
+AssayName: High-throughput mass spectrometry  
+AssayName: label-free mass spectrometry  
+AssayName: nano-liquid chromatography coupled to an electrospray ionization–mass spectrometry (nLC-ESI-MS/MS)  
+IonizationType: electrospray ionization  
+SourceName: Hospital Nossa Senhora das Graças at Curitiba, Parana, Brazil  
+SampleTreatment: stored in RNA later solution  
+SampleTreatment: filter-aided sample preparation (FASP) method  
+Separation: 1D-PAGE 10% (v/v) acrylamide gel  
+ReductionReagent: 10 mM DTT  
+AlkylationReagent: 50 mM iodacetamide  
+CleavageAgent: trypsin  
+ConcentrationOfCompound: 12.5 ng/μl trypsin  
+Temperature: 95 °C  
+Temperature: 37 °C  
+Time: 5 minutes  
+Time: 18 h  
+Instrument: TissueLyser II sample disruptor (Qiagen Corp. MD, USA)  
+Instrument: EASY-nLC 1000 chromatograph (Thermo Scientific)  
+Instrument: LTQ Orbitrap XL ETD (Thermo Scientific)  
+NumberOfTechnicalReplicates: triplicate  
+AcquisitionMethod: DDA mode  
+MS2MassAnalyzer: ion trap analyzer  
+FragmentationMethod: CID fragmentation  
+SupplementaryFile: PXD012431  
+SupplementaryFile: proteinGroups.txt

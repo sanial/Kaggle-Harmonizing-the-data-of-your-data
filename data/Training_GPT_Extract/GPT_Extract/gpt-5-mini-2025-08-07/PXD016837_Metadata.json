@@ -1,0 +1,458 @@
+{
+  "20180403_MP_02.raw": {
+    "Source Name": [
+      "source_20180403_MP_02"
+    ],
+    "Assay Name": [
+      "assay_20180403_MP_02"
+    ],
+    "Raw Data File": [
+      "20180403_MP_02.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Human melanoma cell line MDA-MB-435S (a spindle-shaped variant of the parental MDA-MB-435)"
+    ],
+    "Characteristics[Specimen]": [
+      "isolated IACs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1.25 ng/μL, Promega, United States)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol (DTT, 1 h at 56°C)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55 mM iodoacetamide (37°C, 45 min, dark)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "following 48 h of growth"
+    ],
+    "Characteristics[Label]": [
+      "Label-free quantification"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "IACs were then isolated from MDA-MB-435S and clones 2αV and 3αV and the isolation procedure performed in triplicate for MDA-MB-435S and 3αV and in duplicate for 2αV."
+    ],
+    "Comment[Instrument]": [
+      "UltiMate® 3000 Rapid Separation LC (RSLC, United States)",
+      "Orbitrap Elite mass detector (Thermo Fisher Scientific, United States)"
+    ],
+    "Comment[IonizationType]": [
+      "electrospray ionization"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-MS/MS"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL per minute"
+    ],
+    "Comment[GradientTime]": [
+      "44 min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 PPM"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.50 Da"
+    ]
+  },
+  "20170307_JH_04.raw": {
+    "Source Name": [
+      "source_20170307_JH_04"
+    ],
+    "Assay Name": [
+      "assay_20170307_JH_04"
+    ],
+    "Raw Data File": [
+      "20170307_JH_04.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Human melanoma cell line MDA-MB-435S (a spindle-shaped variant of the parental MDA-MB-435)"
+    ],
+    "Characteristics[Specimen]": [
+      "isolated IACs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1.25 ng/μL, Promega, United States)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol (DTT, 1 h at 56°C)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55 mM iodoacetamide (37°C, 45 min, dark)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "following 48 h of growth"
+    ],
+    "Characteristics[Label]": [
+      "Label-free quantification"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "IACs were then isolated from MDA-MB-435S and clones 2αV and 3αV and the isolation procedure performed in triplicate for MDA-MB-435S and 3αV and in duplicate for 2αV."
+    ],
+    "Comment[Instrument]": [
+      "UltiMate® 3000 Rapid Separation LC (RSLC, United States)",
+      "Orbitrap Elite mass detector (Thermo Fisher Scientific, United States)"
+    ],
+    "Comment[IonizationType]": [
+      "electrospray ionization"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-MS/MS"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL per minute"
+    ],
+    "Comment[GradientTime]": [
+      "44 min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 PPM"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.50 Da"
+    ]
+  },
+  "20170307_JH_07.raw": {
+    "Source Name": [
+      "source_20170307_JH_07"
+    ],
+    "Assay Name": [
+      "assay_20170307_JH_07"
+    ],
+    "Raw Data File": [
+      "20170307_JH_07.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Human melanoma cell line MDA-MB-435S (a spindle-shaped variant of the parental MDA-MB-435)"
+    ],
+    "Characteristics[Specimen]": [
+      "isolated IACs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1.25 ng/μL, Promega, United States)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol (DTT, 1 h at 56°C)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55 mM iodoacetamide (37°C, 45 min, dark)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "following 48 h of growth"
+    ],
+    "Characteristics[Label]": [
+      "Label-free quantification"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "IACs were then isolated from MDA-MB-435S and clones 2αV and 3αV and the isolation procedure performed in triplicate for MDA-MB-435S and 3αV and in duplicate for 2αV."
+    ],
+    "Comment[Instrument]": [
+      "UltiMate® 3000 Rapid Separation LC (RSLC, United States)",
+      "Orbitrap Elite mass detector (Thermo Fisher Scientific, United States)"
+    ],
+    "Comment[IonizationType]": [
+      "electrospray ionization"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-MS/MS"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL per minute"
+    ],
+    "Comment[GradientTime]": [
+      "44 min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 PPM"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.50 Da"
+    ]
+  },
+  "20170307_JH_05.raw": {
+    "Source Name": [
+      "source_20170307_JH_05"
+    ],
+    "Assay Name": [
+      "assay_20170307_JH_05"
+    ],
+    "Raw Data File": [
+      "20170307_JH_05.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Human melanoma cell line MDA-MB-435S (a spindle-shaped variant of the parental MDA-MB-435)"
+    ],
+    "Characteristics[Specimen]": [
+      "isolated IACs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1.25 ng/μL, Promega, United States)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol (DTT, 1 h at 56°C)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55 mM iodoacetamide (37°C, 45 min, dark)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "following 48 h of growth"
+    ],
+    "Characteristics[Label]": [
+      "Label-free quantification"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "IACs were then isolated from MDA-MB-435S and clones 2αV and 3αV and the isolation procedure performed in triplicate for MDA-MB-435S and 3αV and in duplicate for 2αV."
+    ],
+    "Comment[Instrument]": [
+      "UltiMate® 3000 Rapid Separation LC (RSLC, United States)",
+      "Orbitrap Elite mass detector (Thermo Fisher Scientific, United States)"
+    ],
+    "Comment[IonizationType]": [
+      "electrospray ionization"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-MS/MS"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL per minute"
+    ],
+    "Comment[GradientTime]": [
+      "44 min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 PPM"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.50 Da"
+    ]
+  },
+  "20170307_JH_06.raw": {
+    "Source Name": [
+      "source_20170307_JH_06"
+    ],
+    "Assay Name": [
+      "assay_20170307_JH_06"
+    ],
+    "Raw Data File": [
+      "20170307_JH_06.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Human melanoma cell line MDA-MB-435S (a spindle-shaped variant of the parental MDA-MB-435)"
+    ],
+    "Characteristics[Specimen]": [
+      "isolated IACs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1.25 ng/μL, Promega, United States)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol (DTT, 1 h at 56°C)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55 mM iodoacetamide (37°C, 45 min, dark)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "following 48 h of growth"
+    ],
+    "Characteristics[Label]": [
+      "Label-free quantification"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "IACs were then isolated from MDA-MB-435S and clones 2αV and 3αV and the isolation procedure performed in triplicate for MDA-MB-435S and 3αV and in duplicate for 2αV."
+    ],
+    "Comment[Instrument]": [
+      "UltiMate® 3000 Rapid Separation LC (RSLC, United States)",
+      "Orbitrap Elite mass detector (Thermo Fisher Scientific, United States)"
+    ],
+    "Comment[IonizationType]": [
+      "electrospray ionization"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-MS/MS"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL per minute"
+    ],
+    "Comment[GradientTime]": [
+      "44 min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 PPM"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.50 Da"
+    ]
+  },
+  "20170307_JH_09.raw": {
+    "Source Name": [
+      "source_20170307_JH_09"
+    ],
+    "Assay Name": [
+      "assay_20170307_JH_09"
+    ],
+    "Raw Data File": [
+      "20170307_JH_09.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Human melanoma cell line MDA-MB-435S (a spindle-shaped variant of the parental MDA-MB-435)"
+    ],
+    "Characteristics[Specimen]": [
+      "isolated IACs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1.25 ng/μL, Promega, United States)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol (DTT, 1 h at 56°C)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55 mM iodoacetamide (37°C, 45 min, dark)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "following 48 h of growth"
+    ],
+    "Characteristics[Label]": [
+      "Label-free quantification"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "IACs were then isolated from MDA-MB-435S and clones 2αV and 3αV and the isolation procedure performed in triplicate for MDA-MB-435S and 3αV and in duplicate for 2αV."
+    ],
+    "Comment[Instrument]": [
+      "UltiMate® 3000 Rapid Separation LC (RSLC, United States)",
+      "Orbitrap Elite mass detector (Thermo Fisher Scientific, United States)"
+    ],
+    "Comment[IonizationType]": [
+      "electrospray ionization"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-MS/MS"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL per minute"
+    ],
+    "Comment[GradientTime]": [
+      "44 min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 PPM"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.50 Da"
+    ]
+  },
+  "20170307_JH_08.raw": {
+    "Source Name": [
+      "source_20170307_JH_08"
+    ],
+    "Assay Name": [
+      "assay_20170307_JH_08"
+    ],
+    "Raw Data File": [
+      "20170307_JH_08.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Human melanoma cell line MDA-MB-435S (a spindle-shaped variant of the parental MDA-MB-435)"
+    ],
+    "Characteristics[Specimen]": [
+      "isolated IACs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1.25 ng/μL, Promega, United States)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol (DTT, 1 h at 56°C)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55 mM iodoacetamide (37°C, 45 min, dark)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "following 48 h of growth"
+    ],
+    "Characteristics[Label]": [
+      "Label-free quantification"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "IACs were then isolated from MDA-MB-435S and clones 2αV and 3αV and the isolation procedure performed in triplicate for MDA-MB-435S and 3αV and in duplicate for 2αV."
+    ],
+    "Comment[Instrument]": [
+      "UltiMate® 3000 Rapid Separation LC (RSLC, United States)",
+      "Orbitrap Elite mass detector (Thermo Fisher Scientific, United States)"
+    ],
+    "Comment[IonizationType]": [
+      "electrospray ionization"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-MS/MS"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL per minute"
+    ],
+    "Comment[GradientTime]": [
+      "44 min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 PPM"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.50 Da"
+    ]
+  },
+  "20180403_MP_01.raw": {
+    "Source Name": [
+      "source_20180403_MP_01"
+    ],
+    "Assay Name": [
+      "assay_20180403_MP_01"
+    ],
+    "Raw Data File": [
+      "20180403_MP_01.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "Human melanoma cell line MDA-MB-435S (a spindle-shaped variant of the parental MDA-MB-435)"
+    ],
+    "Characteristics[Specimen]": [
+      "isolated IACs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1.25 ng/μL, Promega, United States)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol (DTT, 1 h at 56°C)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55 mM iodoacetamide (37°C, 45 min, dark)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "following 48 h of growth"
+    ],
+    "Characteristics[Label]": [
+      "Label-free quantification"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "IACs were then isolated from MDA-MB-435S and clones 2αV and 3αV and the isolation procedure performed in triplicate for MDA-MB-435S and 3αV and in duplicate for 2αV."
+    ],
+    "Comment[Instrument]": [
+      "UltiMate® 3000 Rapid Separation LC (RSLC, United States)",
+      "Orbitrap Elite mass detector (Thermo Fisher Scientific, United States)"
+    ],
+    "Comment[IonizationType]": [
+      "electrospray ionization"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC-MS/MS"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL per minute"
+    ],
+    "Comment[GradientTime]": [
+      "44 min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 PPM"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.50 Da"
+    ]
+  }
+}

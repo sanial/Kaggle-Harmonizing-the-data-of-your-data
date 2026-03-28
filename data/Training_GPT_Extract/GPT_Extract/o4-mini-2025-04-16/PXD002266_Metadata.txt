@@ -1,0 +1,41 @@
+Instrument: RSLCnano HPLC system  
+Instrument: LTQ-Orbitrap-Velos mass spectrometer  
+FragmentationMethod: higher-energy collision dissociation  
+CollisionEnergy: normalized collision energy of 42.5  
+IonizationType: positive ion mode  
+Separation: reverse-phase trap column  
+Separation: reverse-phase PicoFrit capillary column  
+FlowRateChromatogram: 0.3 μl min−1  
+GradientTime: 4 h  
+CleavageAgent: trypsin  
+PrecursorMassTolerance: 10 p.p.m.  
+FragmentMassTolerance: 0.02 Da  
+EnrichmentMethod: IMAC  
+EnrichmentMethod: titanium dioxide  
+FractionationMethod: anion exchange  
+ReductionReagent: DTT  
+AlkylationReagent: iodoacetamide  
+Organism: Plasmodium falciparum  
+SourceName: O+ human RBC  
+CellLine: P. falciparum blood stage 3D7  
+CellLine: PKGT618Q  
+CellLine: CDPK1-HA parasites  
+GeneticModification: PfPKGT618Q mutant  
+GeneticModification: CDPK1-KD  
+Compound: Compound 2  
+ConcentrationOfCompound: 2 μM Compound 2  
+Compound: E-64  
+ConcentrationOfCompound: 10 μM E-64  
+Compound: WR99210  
+ConcentrationOfCompound: 10 nM WR99210  
+Time: 60 min  
+Temperature: 37 °C  
+NumberOfBiologicalReplicates: three independent experiments  
+AssayName: tandem mass tag labelling  
+AssayName: LC-MS/MS  
+AssayName: quantitative global phosphoproteomics  
+PooledSample: TMT-labelled samples were pooled  
+MaterialType: parasite lysates  
+SampleTreatment: saponin treatment  
+DevelopmentalStage: late schizont stage  
+Experiment: in vitro kinase assay

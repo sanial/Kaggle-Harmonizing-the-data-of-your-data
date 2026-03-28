@@ -1,0 +1,3522 @@
+{
+  "01258_G02_P013098_S00_N15_R1.raw": {
+    "Source Name": [
+      "P013098"
+    ],
+    "Assay Name": [
+      "01258_G02_P013098_S00_N15_R1.raw"
+    ],
+    "Raw Data File": [
+      "01258_G02_P013098_S00_N15_R1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human colorectal cancer cell lines"
+    ],
+    "Characteristics[MaterialType]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Roche)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55 mM chloroacetamide"
+    ],
+    "Characteristics[Label]": [
+      "label‐free quantification (LFQ)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicates"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data‐dependent acquisition"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Velos mass spectrometer",
+      "Orbitrap Elite mass spectrometer",
+      "Eksigent nanoLC‐Ultra 1D+",
+      "Dionex Ultimate 3000 HPLC system"
+    ],
+    "Comment[Separation]": [
+      "nanoflow LC‐MS/MS"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "from 4 to 32% in 96 min"
+    ],
+    "Comment[FractionationMethod]": [
+      "hydrophilic strong anion exchange (hSAX) chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS1 and MS2 spectra were acquired in the Orbitrap"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor ion tolerance of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion tolerance was set to 20 ppm for FTMS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ],
+    "Comment[FractionIdentifier]": [
+      "N15"
+    ]
+  },
+  "01267_F06_P013138_S00_N22_R1.raw": {
+    "Source Name": [
+      "P013138"
+    ],
+    "Assay Name": [
+      "01267_F06_P013138_S00_N22_R1.raw"
+    ],
+    "Raw Data File": [
+      "01267_F06_P013138_S00_N22_R1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human colorectal cancer cell lines"
+    ],
+    "Characteristics[MaterialType]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Roche)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55 mM chloroacetamide"
+    ],
+    "Characteristics[Label]": [
+      "label‐free quantification (LFQ)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicates"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data‐dependent acquisition"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Velos mass spectrometer",
+      "Orbitrap Elite mass spectrometer",
+      "Eksigent nanoLC‐Ultra 1D+",
+      "Dionex Ultimate 3000 HPLC system"
+    ],
+    "Comment[Separation]": [
+      "nanoflow LC‐MS/MS"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "from 4 to 32% in 96 min"
+    ],
+    "Comment[FractionationMethod]": [
+      "hydrophilic strong anion exchange (hSAX) chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS1 and MS2 spectra were acquired in the Orbitrap"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor ion tolerance of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion tolerance was set to 20 ppm for FTMS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ],
+    "Comment[FractionIdentifier]": [
+      "N22"
+    ]
+  },
+  "01253_G02_P013028_S00_N15_R1.raw": {
+    "Source Name": [
+      "P013028"
+    ],
+    "Assay Name": [
+      "01253_G02_P013028_S00_N15_R1.raw"
+    ],
+    "Raw Data File": [
+      "01253_G02_P013028_S00_N15_R1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human colorectal cancer cell lines"
+    ],
+    "Characteristics[MaterialType]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Roche)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55 mM chloroacetamide"
+    ],
+    "Characteristics[Label]": [
+      "label‐free quantification (LFQ)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicates"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data‐dependent acquisition"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Velos mass spectrometer",
+      "Orbitrap Elite mass spectrometer",
+      "Eksigent nanoLC‐Ultra 1D+",
+      "Dionex Ultimate 3000 HPLC system"
+    ],
+    "Comment[Separation]": [
+      "nanoflow LC‐MS/MS"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "from 4 to 32% in 96 min"
+    ],
+    "Comment[FractionationMethod]": [
+      "hydrophilic strong anion exchange (hSAX) chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS1 and MS2 spectra were acquired in the Orbitrap"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor ion tolerance of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion tolerance was set to 20 ppm for FTMS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ],
+    "Comment[FractionIdentifier]": [
+      "N15"
+    ]
+  },
+  "01262_C02_P013105_S00_N11_R1.raw": {
+    "Source Name": [
+      "P013105"
+    ],
+    "Assay Name": [
+      "01262_C02_P013105_S00_N11_R1.raw"
+    ],
+    "Raw Data File": [
+      "01262_C02_P013105_S00_N11_R1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human colorectal cancer cell lines"
+    ],
+    "Characteristics[MaterialType]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Roche)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55 mM chloroacetamide"
+    ],
+    "Characteristics[Label]": [
+      "label‐free quantification (LFQ)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicates"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data‐dependent acquisition"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Velos mass spectrometer",
+      "Orbitrap Elite mass spectrometer",
+      "Eksigent nanoLC‐Ultra 1D+",
+      "Dionex Ultimate 3000 HPLC system"
+    ],
+    "Comment[Separation]": [
+      "nanoflow LC‐MS/MS"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "from 4 to 32% in 96 min"
+    ],
+    "Comment[FractionationMethod]": [
+      "hydrophilic strong anion exchange (hSAX) chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS1 and MS2 spectra were acquired in the Orbitrap"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor ion tolerance of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion tolerance was set to 20 ppm for FTMS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ],
+    "Comment[FractionIdentifier]": [
+      "N11"
+    ]
+  },
+  "01266_D05_P013136_S00_N12_R1.raw": {
+    "Source Name": [
+      "P013136"
+    ],
+    "Assay Name": [
+      "01266_D05_P013136_S00_N12_R1.raw"
+    ],
+    "Raw Data File": [
+      "01266_D05_P013136_S00_N12_R1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human colorectal cancer cell lines"
+    ],
+    "Characteristics[MaterialType]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Roche)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55 mM chloroacetamide"
+    ],
+    "Characteristics[Label]": [
+      "label‐free quantification (LFQ)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicates"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data‐dependent acquisition"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Velos mass spectrometer",
+      "Orbitrap Elite mass spectrometer",
+      "Eksigent nanoLC‐Ultra 1D+",
+      "Dionex Ultimate 3000 HPLC system"
+    ],
+    "Comment[Separation]": [
+      "nanoflow LC‐MS/MS"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "from 4 to 32% in 96 min"
+    ],
+    "Comment[FractionationMethod]": [
+      "hydrophilic strong anion exchange (hSAX) chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS1 and MS2 spectra were acquired in the Orbitrap"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor ion tolerance of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion tolerance was set to 20 ppm for FTMS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ],
+    "Comment[FractionIdentifier]": [
+      "N12"
+    ]
+  },
+  "01245_A04_P012911_S00_N01_R1.raw": {
+    "Source Name": [
+      "P012911"
+    ],
+    "Assay Name": [
+      "01245_A04_P012911_S00_N01_R1.raw"
+    ],
+    "Raw Data File": [
+      "01245_A04_P012911_S00_N01_R1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human colorectal cancer cell lines"
+    ],
+    "Characteristics[MaterialType]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Roche)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55 mM chloroacetamide"
+    ],
+    "Characteristics[Label]": [
+      "label‐free quantification (LFQ)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicates"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data‐dependent acquisition"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Velos mass spectrometer",
+      "Orbitrap Elite mass spectrometer",
+      "Eksigent nanoLC‐Ultra 1D+",
+      "Dionex Ultimate 3000 HPLC system"
+    ],
+    "Comment[Separation]": [
+      "nanoflow LC‐MS/MS"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "from 4 to 32% in 96 min"
+    ],
+    "Comment[FractionationMethod]": [
+      "hydrophilic strong anion exchange (hSAX) chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS1 and MS2 spectra were acquired in the Orbitrap"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor ion tolerance of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion tolerance was set to 20 ppm for FTMS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ],
+    "Comment[FractionIdentifier]": [
+      "N01"
+    ]
+  },
+  "01337_A06_P013155_S00_N17_R1.raw": {
+    "Source Name": [
+      "P013155"
+    ],
+    "Assay Name": [
+      "01337_A06_P013155_S00_N17_R1.raw"
+    ],
+    "Raw Data File": [
+      "01337_A06_P013155_S00_N17_R1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human colorectal cancer cell lines"
+    ],
+    "Characteristics[MaterialType]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Roche)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55 mM chloroacetamide"
+    ],
+    "Characteristics[Label]": [
+      "label‐free quantification (LFQ)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicates"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data‐dependent acquisition"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Velos mass spectrometer",
+      "Orbitrap Elite mass spectrometer",
+      "Eksigent nanoLC‐Ultra 1D+",
+      "Dionex Ultimate 3000 HPLC system"
+    ],
+    "Comment[Separation]": [
+      "nanoflow LC‐MS/MS"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "from 4 to 32% in 96 min"
+    ],
+    "Comment[FractionationMethod]": [
+      "hydrophilic strong anion exchange (hSAX) chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS1 and MS2 spectra were acquired in the Orbitrap"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor ion tolerance of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion tolerance was set to 20 ppm for FTMS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ],
+    "Comment[FractionIdentifier]": [
+      "N17"
+    ]
+  },
+  "01334_A03_P013148_S00_N17_R1.raw": {
+    "Source Name": [
+      "P013148"
+    ],
+    "Assay Name": [
+      "01334_A03_P013148_S00_N17_R1.raw"
+    ],
+    "Raw Data File": [
+      "01334_A03_P013148_S00_N17_R1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human colorectal cancer cell lines"
+    ],
+    "Characteristics[MaterialType]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Roche)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55 mM chloroacetamide"
+    ],
+    "Characteristics[Label]": [
+      "label‐free quantification (LFQ)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicates"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data‐dependent acquisition"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Velos mass spectrometer",
+      "Orbitrap Elite mass spectrometer",
+      "Eksigent nanoLC‐Ultra 1D+",
+      "Dionex Ultimate 3000 HPLC system"
+    ],
+    "Comment[Separation]": [
+      "nanoflow LC‐MS/MS"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "from 4 to 32% in 96 min"
+    ],
+    "Comment[FractionationMethod]": [
+      "hydrophilic strong anion exchange (hSAX) chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS1 and MS2 spectra were acquired in the Orbitrap"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor ion tolerance of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion tolerance was set to 20 ppm for FTMS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ],
+    "Comment[FractionIdentifier]": [
+      "N17"
+    ]
+  },
+  "01338_E07_P013158_S00_N05_R1.raw": {
+    "Source Name": [
+      "P013158"
+    ],
+    "Assay Name": [
+      "01338_E07_P013158_S00_N05_R1.raw"
+    ],
+    "Raw Data File": [
+      "01338_E07_P013158_S00_N05_R1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human colorectal cancer cell lines"
+    ],
+    "Characteristics[MaterialType]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Roche)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55 mM chloroacetamide"
+    ],
+    "Characteristics[Label]": [
+      "label‐free quantification (LFQ)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicates"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data‐dependent acquisition"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Velos mass spectrometer",
+      "Orbitrap Elite mass spectrometer",
+      "Eksigent nanoLC‐Ultra 1D+",
+      "Dionex Ultimate 3000 HPLC system"
+    ],
+    "Comment[Separation]": [
+      "nanoflow LC‐MS/MS"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "from 4 to 32% in 96 min"
+    ],
+    "Comment[FractionationMethod]": [
+      "hydrophilic strong anion exchange (hSAX) chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS1 and MS2 spectra were acquired in the Orbitrap"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor ion tolerance of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion tolerance was set to 20 ppm for FTMS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ],
+    "Comment[FractionIdentifier]": [
+      "N05"
+    ]
+  },
+  "00108_H03_P012694_S00_N24_R1.raw": {
+    "Source Name": [
+      "P012694"
+    ],
+    "Assay Name": [
+      "00108_H03_P012694_S00_N24_R1.raw"
+    ],
+    "Raw Data File": [
+      "00108_H03_P012694_S00_N24_R1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human colorectal cancer cell lines"
+    ],
+    "Characteristics[MaterialType]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Roche)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55 mM chloroacetamide"
+    ],
+    "Characteristics[Label]": [
+      "label‐free quantification (LFQ)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicates"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data‐dependent acquisition"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Velos mass spectrometer",
+      "Orbitrap Elite mass spectrometer",
+      "Eksigent nanoLC‐Ultra 1D+",
+      "Dionex Ultimate 3000 HPLC system"
+    ],
+    "Comment[Separation]": [
+      "nanoflow LC‐MS/MS"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "from 4 to 32% in 96 min"
+    ],
+    "Comment[FractionationMethod]": [
+      "hydrophilic strong anion exchange (hSAX) chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS1 and MS2 spectra were acquired in the Orbitrap"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor ion tolerance of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion tolerance was set to 20 ppm for FTMS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ],
+    "Comment[FractionIdentifier]": [
+      "N24"
+    ]
+  },
+  "01331_D03_P013143_S00_N20_R1.raw": {
+    "Source Name": [
+      "P013143"
+    ],
+    "Assay Name": [
+      "01331_D03_P013143_S00_N20_R1.raw"
+    ],
+    "Raw Data File": [
+      "01331_D03_P013143_S00_N20_R1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human colorectal cancer cell lines"
+    ],
+    "Characteristics[MaterialType]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Roche)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55 mM chloroacetamide"
+    ],
+    "Characteristics[Label]": [
+      "label‐free quantification (LFQ)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicates"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data‐dependent acquisition"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Velos mass spectrometer",
+      "Orbitrap Elite mass spectrometer",
+      "Eksigent nanoLC‐Ultra 1D+",
+      "Dionex Ultimate 3000 HPLC system"
+    ],
+    "Comment[Separation]": [
+      "nanoflow LC‐MS/MS"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "from 4 to 32% in 96 min"
+    ],
+    "Comment[FractionationMethod]": [
+      "hydrophilic strong anion exchange (hSAX) chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS1 and MS2 spectra were acquired in the Orbitrap"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor ion tolerance of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion tolerance was set to 20 ppm for FTMS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ],
+    "Comment[FractionIdentifier]": [
+      "N20"
+    ]
+  },
+  "00108_G02_P012694_S00_N15_R1.raw": {
+    "Source Name": [
+      "P012694"
+    ],
+    "Assay Name": [
+      "00108_G02_P012694_S00_N15_R1.raw"
+    ],
+    "Raw Data File": [
+      "00108_G02_P012694_S00_N15_R1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human colorectal cancer cell lines"
+    ],
+    "Characteristics[MaterialType]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Roche)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55 mM chloroacetamide"
+    ],
+    "Characteristics[Label]": [
+      "label‐free quantification (LFQ)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicates"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data‐dependent acquisition"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Velos mass spectrometer",
+      "Orbitrap Elite mass spectrometer",
+      "Eksigent nanoLC‐Ultra 1D+",
+      "Dionex Ultimate 3000 HPLC system"
+    ],
+    "Comment[Separation]": [
+      "nanoflow LC‐MS/MS"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "from 4 to 32% in 96 min"
+    ],
+    "Comment[FractionationMethod]": [
+      "hydrophilic strong anion exchange (hSAX) chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS1 and MS2 spectra were acquired in the Orbitrap"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor ion tolerance of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion tolerance was set to 20 ppm for FTMS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ],
+    "Comment[FractionIdentifier]": [
+      "N15"
+    ]
+  },
+  "01253_D03_P013028_S00_N20_R1.raw": {
+    "Source Name": [
+      "P013028"
+    ],
+    "Assay Name": [
+      "01253_D03_P013028_S00_N20_R1.raw"
+    ],
+    "Raw Data File": [
+      "01253_D03_P013028_S00_N20_R1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human colorectal cancer cell lines"
+    ],
+    "Characteristics[MaterialType]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Roche)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55 mM chloroacetamide"
+    ],
+    "Characteristics[Label]": [
+      "label‐free quantification (LFQ)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicates"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data‐dependent acquisition"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Velos mass spectrometer",
+      "Orbitrap Elite mass spectrometer",
+      "Eksigent nanoLC‐Ultra 1D+",
+      "Dionex Ultimate 3000 HPLC system"
+    ],
+    "Comment[Separation]": [
+      "nanoflow LC‐MS/MS"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "from 4 to 32% in 96 min"
+    ],
+    "Comment[FractionationMethod]": [
+      "hydrophilic strong anion exchange (hSAX) chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS1 and MS2 spectra were acquired in the Orbitrap"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor ion tolerance of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion tolerance was set to 20 ppm for FTMS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ],
+    "Comment[FractionIdentifier]": [
+      "N20"
+    ]
+  },
+  "01236_A01_P012696_S00_N01_R1.raw": {
+    "Source Name": [
+      "P012696"
+    ],
+    "Assay Name": [
+      "01236_A01_P012696_S00_N01_R1.raw"
+    ],
+    "Raw Data File": [
+      "01236_A01_P012696_S00_N01_R1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human colorectal cancer cell lines"
+    ],
+    "Characteristics[MaterialType]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Roche)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55 mM chloroacetamide"
+    ],
+    "Characteristics[Label]": [
+      "label‐free quantification (LFQ)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicates"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data‐dependent acquisition"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Velos mass spectrometer",
+      "Orbitrap Elite mass spectrometer",
+      "Eksigent nanoLC‐Ultra 1D+",
+      "Dionex Ultimate 3000 HPLC system"
+    ],
+    "Comment[Separation]": [
+      "nanoflow LC‐MS/MS"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "from 4 to 32% in 96 min"
+    ],
+    "Comment[FractionationMethod]": [
+      "hydrophilic strong anion exchange (hSAX) chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS1 and MS2 spectra were acquired in the Orbitrap"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor ion tolerance of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion tolerance was set to 20 ppm for FTMS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ],
+    "Comment[FractionIdentifier]": [
+      "N01"
+    ]
+  },
+  "01338_C03_P013156_S00_N19_R1.raw": {
+    "Source Name": [
+      "P013156"
+    ],
+    "Assay Name": [
+      "01338_C03_P013156_S00_N19_R1.raw"
+    ],
+    "Raw Data File": [
+      "01338_C03_P013156_S00_N19_R1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human colorectal cancer cell lines"
+    ],
+    "Characteristics[MaterialType]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Roche)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55 mM chloroacetamide"
+    ],
+    "Characteristics[Label]": [
+      "label‐free quantification (LFQ)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicates"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data‐dependent acquisition"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Velos mass spectrometer",
+      "Orbitrap Elite mass spectrometer",
+      "Eksigent nanoLC‐Ultra 1D+",
+      "Dionex Ultimate 3000 HPLC system"
+    ],
+    "Comment[Separation]": [
+      "nanoflow LC‐MS/MS"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "from 4 to 32% in 96 min"
+    ],
+    "Comment[FractionationMethod]": [
+      "hydrophilic strong anion exchange (hSAX) chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS1 and MS2 spectra were acquired in the Orbitrap"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor ion tolerance of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion tolerance was set to 20 ppm for FTMS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ],
+    "Comment[FractionIdentifier]": [
+      "N19"
+    ]
+  },
+  "01253_B01_P013028_S00_N02_R1.raw": {
+    "Source Name": [
+      "P013028"
+    ],
+    "Assay Name": [
+      "01253_B01_P013028_S00_N02_R1.raw"
+    ],
+    "Raw Data File": [
+      "01253_B01_P013028_S00_N02_R1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human colorectal cancer cell lines"
+    ],
+    "Characteristics[MaterialType]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Roche)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55 mM chloroacetamide"
+    ],
+    "Characteristics[Label]": [
+      "label‐free quantification (LFQ)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicates"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data‐dependent acquisition"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Velos mass spectrometer",
+      "Orbitrap Elite mass spectrometer",
+      "Eksigent nanoLC‐Ultra 1D+",
+      "Dionex Ultimate 3000 HPLC system"
+    ],
+    "Comment[Separation]": [
+      "nanoflow LC‐MS/MS"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "from 4 to 32% in 96 min"
+    ],
+    "Comment[FractionationMethod]": [
+      "hydrophilic strong anion exchange (hSAX) chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS1 and MS2 spectra were acquired in the Orbitrap"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor ion tolerance of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion tolerance was set to 20 ppm for FTMS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ],
+    "Comment[FractionIdentifier]": [
+      "N02"
+    ]
+  },
+  "01260_D06_P013102_S00_N20_R1.raw": {
+    "Source Name": [
+      "P013102"
+    ],
+    "Assay Name": [
+      "01260_D06_P013102_S00_N20_R1.raw"
+    ],
+    "Raw Data File": [
+      "01260_D06_P013102_S00_N20_R1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human colorectal cancer cell lines"
+    ],
+    "Characteristics[MaterialType]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Roche)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55 mM chloroacetamide"
+    ],
+    "Characteristics[Label]": [
+      "label‐free quantification (LFQ)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicates"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data‐dependent acquisition"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Velos mass spectrometer",
+      "Orbitrap Elite mass spectrometer",
+      "Eksigent nanoLC‐Ultra 1D+",
+      "Dionex Ultimate 3000 HPLC system"
+    ],
+    "Comment[Separation]": [
+      "nanoflow LC‐MS/MS"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "from 4 to 32% in 96 min"
+    ],
+    "Comment[FractionationMethod]": [
+      "hydrophilic strong anion exchange (hSAX) chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS1 and MS2 spectra were acquired in the Orbitrap"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor ion tolerance of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion tolerance was set to 20 ppm for FTMS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ],
+    "Comment[FractionIdentifier]": [
+      "N20"
+    ]
+  },
+  "01236_B03_P012696_S00_N18_R1.raw": {
+    "Source Name": [
+      "P012696"
+    ],
+    "Assay Name": [
+      "01236_B03_P012696_S00_N18_R1.raw"
+    ],
+    "Raw Data File": [
+      "01236_B03_P012696_S00_N18_R1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human colorectal cancer cell lines"
+    ],
+    "Characteristics[MaterialType]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Roche)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55 mM chloroacetamide"
+    ],
+    "Characteristics[Label]": [
+      "label‐free quantification (LFQ)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicates"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data‐dependent acquisition"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Velos mass spectrometer",
+      "Orbitrap Elite mass spectrometer",
+      "Eksigent nanoLC‐Ultra 1D+",
+      "Dionex Ultimate 3000 HPLC system"
+    ],
+    "Comment[Separation]": [
+      "nanoflow LC‐MS/MS"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "from 4 to 32% in 96 min"
+    ],
+    "Comment[FractionationMethod]": [
+      "hydrophilic strong anion exchange (hSAX) chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS1 and MS2 spectra were acquired in the Orbitrap"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor ion tolerance of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion tolerance was set to 20 ppm for FTMS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ],
+    "Comment[FractionIdentifier]": [
+      "N18"
+    ]
+  },
+  "01337_B04_P013155_S00_N02_R1.raw": {
+    "Source Name": [
+      "P013155"
+    ],
+    "Assay Name": [
+      "01337_B04_P013155_S00_N02_R1.raw"
+    ],
+    "Raw Data File": [
+      "01337_B04_P013155_S00_N02_R1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human colorectal cancer cell lines"
+    ],
+    "Characteristics[MaterialType]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Roche)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55 mM chloroacetamide"
+    ],
+    "Characteristics[Label]": [
+      "label‐free quantification (LFQ)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicates"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data‐dependent acquisition"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Velos mass spectrometer",
+      "Orbitrap Elite mass spectrometer",
+      "Eksigent nanoLC‐Ultra 1D+",
+      "Dionex Ultimate 3000 HPLC system"
+    ],
+    "Comment[Separation]": [
+      "nanoflow LC‐MS/MS"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "from 4 to 32% in 96 min"
+    ],
+    "Comment[FractionationMethod]": [
+      "hydrophilic strong anion exchange (hSAX) chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS1 and MS2 spectra were acquired in the Orbitrap"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor ion tolerance of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion tolerance was set to 20 ppm for FTMS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ],
+    "Comment[FractionIdentifier]": [
+      "N02"
+    ]
+  },
+  "00107_H03_P012579_S00_N24_R2.raw": {
+    "Source Name": [
+      "P012579"
+    ],
+    "Assay Name": [
+      "00107_H03_P012579_S00_N24_R2.raw"
+    ],
+    "Raw Data File": [
+      "00107_H03_P012579_S00_N24_R2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human colorectal cancer cell lines"
+    ],
+    "Characteristics[MaterialType]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Roche)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55 mM chloroacetamide"
+    ],
+    "Characteristics[Label]": [
+      "label‐free quantification (LFQ)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicates"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R2"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data‐dependent acquisition"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Velos mass spectrometer",
+      "Orbitrap Elite mass spectrometer",
+      "Eksigent nanoLC‐Ultra 1D+",
+      "Dionex Ultimate 3000 HPLC system"
+    ],
+    "Comment[Separation]": [
+      "nanoflow LC‐MS/MS"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "from 4 to 32% in 96 min"
+    ],
+    "Comment[FractionationMethod]": [
+      "hydrophilic strong anion exchange (hSAX) chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS1 and MS2 spectra were acquired in the Orbitrap"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor ion tolerance of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion tolerance was set to 20 ppm for FTMS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ],
+    "Comment[FractionIdentifier]": [
+      "N24"
+    ]
+  },
+  "01245_C06_P012911_S00_N19_R1.raw": {
+    "Source Name": [
+      "P012911"
+    ],
+    "Assay Name": [
+      "01245_C06_P012911_S00_N19_R1.raw"
+    ],
+    "Raw Data File": [
+      "01245_C06_P012911_S00_N19_R1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human colorectal cancer cell lines"
+    ],
+    "Characteristics[MaterialType]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Roche)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55 mM chloroacetamide"
+    ],
+    "Characteristics[Label]": [
+      "label‐free quantification (LFQ)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicates"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data‐dependent acquisition"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Velos mass spectrometer",
+      "Orbitrap Elite mass spectrometer",
+      "Eksigent nanoLC‐Ultra 1D+",
+      "Dionex Ultimate 3000 HPLC system"
+    ],
+    "Comment[Separation]": [
+      "nanoflow LC‐MS/MS"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "from 4 to 32% in 96 min"
+    ],
+    "Comment[FractionationMethod]": [
+      "hydrophilic strong anion exchange (hSAX) chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS1 and MS2 spectra were acquired in the Orbitrap"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor ion tolerance of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion tolerance was set to 20 ppm for FTMS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ],
+    "Comment[FractionIdentifier]": [
+      "N19"
+    ]
+  },
+  "01336_C03_P013152_S00_N19_R2.raw": {
+    "Source Name": [
+      "P013152"
+    ],
+    "Assay Name": [
+      "01336_C03_P013152_S00_N19_R2.raw"
+    ],
+    "Raw Data File": [
+      "01336_C03_P013152_S00_N19_R2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human colorectal cancer cell lines"
+    ],
+    "Characteristics[MaterialType]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Roche)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55 mM chloroacetamide"
+    ],
+    "Characteristics[Label]": [
+      "label‐free quantification (LFQ)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicates"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R2"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data‐dependent acquisition"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Velos mass spectrometer",
+      "Orbitrap Elite mass spectrometer",
+      "Eksigent nanoLC‐Ultra 1D+",
+      "Dionex Ultimate 3000 HPLC system"
+    ],
+    "Comment[Separation]": [
+      "nanoflow LC‐MS/MS"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "from 4 to 32% in 96 min"
+    ],
+    "Comment[FractionationMethod]": [
+      "hydrophilic strong anion exchange (hSAX) chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS1 and MS2 spectra were acquired in the Orbitrap"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor ion tolerance of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion tolerance was set to 20 ppm for FTMS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ],
+    "Comment[FractionIdentifier]": [
+      "N19"
+    ]
+  },
+  "01250_D05_P012913_S00_N12_R1.raw": {
+    "Source Name": [
+      "P012913"
+    ],
+    "Assay Name": [
+      "01250_D05_P012913_S00_N12_R1.raw"
+    ],
+    "Raw Data File": [
+      "01250_D05_P012913_S00_N12_R1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human colorectal cancer cell lines"
+    ],
+    "Characteristics[MaterialType]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Roche)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55 mM chloroacetamide"
+    ],
+    "Characteristics[Label]": [
+      "label‐free quantification (LFQ)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicates"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data‐dependent acquisition"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Velos mass spectrometer",
+      "Orbitrap Elite mass spectrometer",
+      "Eksigent nanoLC‐Ultra 1D+",
+      "Dionex Ultimate 3000 HPLC system"
+    ],
+    "Comment[Separation]": [
+      "nanoflow LC‐MS/MS"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "from 4 to 32% in 96 min"
+    ],
+    "Comment[FractionationMethod]": [
+      "hydrophilic strong anion exchange (hSAX) chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS1 and MS2 spectra were acquired in the Orbitrap"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor ion tolerance of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion tolerance was set to 20 ppm for FTMS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ],
+    "Comment[FractionIdentifier]": [
+      "N12"
+    ]
+  },
+  "01264_G02_P013132_S00_N15_R1.raw": {
+    "Source Name": [
+      "P013132"
+    ],
+    "Assay Name": [
+      "01264_G02_P013132_S00_N15_R1.raw"
+    ],
+    "Raw Data File": [
+      "01264_G02_P013132_S00_N15_R1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human colorectal cancer cell lines"
+    ],
+    "Characteristics[MaterialType]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Roche)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55 mM chloroacetamide"
+    ],
+    "Characteristics[Label]": [
+      "label‐free quantification (LFQ)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicates"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data‐dependent acquisition"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Velos mass spectrometer",
+      "Orbitrap Elite mass spectrometer",
+      "Eksigent nanoLC‐Ultra 1D+",
+      "Dionex Ultimate 3000 HPLC system"
+    ],
+    "Comment[Separation]": [
+      "nanoflow LC‐MS/MS"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "from 4 to 32% in 96 min"
+    ],
+    "Comment[FractionationMethod]": [
+      "hydrophilic strong anion exchange (hSAX) chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS1 and MS2 spectra were acquired in the Orbitrap"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor ion tolerance of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion tolerance was set to 20 ppm for FTMS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ],
+    "Comment[FractionIdentifier]": [
+      "N15"
+    ]
+  },
+  "01261_H06_P013104_S00_N24_R1.raw": {
+    "Source Name": [
+      "P013104"
+    ],
+    "Assay Name": [
+      "01261_H06_P013104_S00_N24_R1.raw"
+    ],
+    "Raw Data File": [
+      "01261_H06_P013104_S00_N24_R1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human colorectal cancer cell lines"
+    ],
+    "Characteristics[MaterialType]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Roche)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55 mM chloroacetamide"
+    ],
+    "Characteristics[Label]": [
+      "label‐free quantification (LFQ)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicates"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data‐dependent acquisition"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Velos mass spectrometer",
+      "Orbitrap Elite mass spectrometer",
+      "Eksigent nanoLC‐Ultra 1D+",
+      "Dionex Ultimate 3000 HPLC system"
+    ],
+    "Comment[Separation]": [
+      "nanoflow LC‐MS/MS"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "from 4 to 32% in 96 min"
+    ],
+    "Comment[FractionationMethod]": [
+      "hydrophilic strong anion exchange (hSAX) chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS1 and MS2 spectra were acquired in the Orbitrap"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor ion tolerance of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion tolerance was set to 20 ppm for FTMS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ],
+    "Comment[FractionIdentifier]": [
+      "N24"
+    ]
+  },
+  "00108_B01_P012694_S00_N02_R1.raw": {
+    "Source Name": [
+      "P012694"
+    ],
+    "Assay Name": [
+      "00108_B01_P012694_S00_N02_R1.raw"
+    ],
+    "Raw Data File": [
+      "00108_B01_P012694_S00_N02_R1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human colorectal cancer cell lines"
+    ],
+    "Characteristics[MaterialType]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Roche)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55 mM chloroacetamide"
+    ],
+    "Characteristics[Label]": [
+      "label‐free quantification (LFQ)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicates"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data‐dependent acquisition"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Velos mass spectrometer",
+      "Orbitrap Elite mass spectrometer",
+      "Eksigent nanoLC‐Ultra 1D+",
+      "Dionex Ultimate 3000 HPLC system"
+    ],
+    "Comment[Separation]": [
+      "nanoflow LC‐MS/MS"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "from 4 to 32% in 96 min"
+    ],
+    "Comment[FractionationMethod]": [
+      "hydrophilic strong anion exchange (hSAX) chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS1 and MS2 spectra were acquired in the Orbitrap"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor ion tolerance of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion tolerance was set to 20 ppm for FTMS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ],
+    "Comment[FractionIdentifier]": [
+      "N02"
+    ]
+  },
+  "01268_F05_P013140_S00_N14_R1.raw": {
+    "Source Name": [
+      "P013140"
+    ],
+    "Assay Name": [
+      "01268_F05_P013140_S00_N14_R1.raw"
+    ],
+    "Raw Data File": [
+      "01268_F05_P013140_S00_N14_R1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human colorectal cancer cell lines"
+    ],
+    "Characteristics[MaterialType]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Roche)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55 mM chloroacetamide"
+    ],
+    "Characteristics[Label]": [
+      "label‐free quantification (LFQ)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicates"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data‐dependent acquisition"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Velos mass spectrometer",
+      "Orbitrap Elite mass spectrometer",
+      "Eksigent nanoLC‐Ultra 1D+",
+      "Dionex Ultimate 3000 HPLC system"
+    ],
+    "Comment[Separation]": [
+      "nanoflow LC‐MS/MS"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "from 4 to 32% in 96 min"
+    ],
+    "Comment[FractionationMethod]": [
+      "hydrophilic strong anion exchange (hSAX) chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS1 and MS2 spectra were acquired in the Orbitrap"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor ion tolerance of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion tolerance was set to 20 ppm for FTMS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ],
+    "Comment[FractionIdentifier]": [
+      "N14"
+    ]
+  },
+  "01330_B02_P013141_S00_N10_R1.raw": {
+    "Source Name": [
+      "P013141"
+    ],
+    "Assay Name": [
+      "01330_B02_P013141_S00_N10_R1.raw"
+    ],
+    "Raw Data File": [
+      "01330_B02_P013141_S00_N10_R1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human colorectal cancer cell lines"
+    ],
+    "Characteristics[MaterialType]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Roche)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55 mM chloroacetamide"
+    ],
+    "Characteristics[Label]": [
+      "label‐free quantification (LFQ)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicates"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data‐dependent acquisition"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Velos mass spectrometer",
+      "Orbitrap Elite mass spectrometer",
+      "Eksigent nanoLC‐Ultra 1D+",
+      "Dionex Ultimate 3000 HPLC system"
+    ],
+    "Comment[Separation]": [
+      "nanoflow LC‐MS/MS"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "from 4 to 32% in 96 min"
+    ],
+    "Comment[FractionationMethod]": [
+      "hydrophilic strong anion exchange (hSAX) chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS1 and MS2 spectra were acquired in the Orbitrap"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor ion tolerance of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion tolerance was set to 20 ppm for FTMS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ],
+    "Comment[FractionIdentifier]": [
+      "N10"
+    ]
+  },
+  "01332_H04_P013145_S00_N08_R1.raw": {
+    "Source Name": [
+      "P013145"
+    ],
+    "Assay Name": [
+      "01332_H04_P013145_S00_N08_R1.raw"
+    ],
+    "Raw Data File": [
+      "01332_H04_P013145_S00_N08_R1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human colorectal cancer cell lines"
+    ],
+    "Characteristics[MaterialType]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Roche)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55 mM chloroacetamide"
+    ],
+    "Characteristics[Label]": [
+      "label‐free quantification (LFQ)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicates"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data‐dependent acquisition"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Velos mass spectrometer",
+      "Orbitrap Elite mass spectrometer",
+      "Eksigent nanoLC‐Ultra 1D+",
+      "Dionex Ultimate 3000 HPLC system"
+    ],
+    "Comment[Separation]": [
+      "nanoflow LC‐MS/MS"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "from 4 to 32% in 96 min"
+    ],
+    "Comment[FractionationMethod]": [
+      "hydrophilic strong anion exchange (hSAX) chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS1 and MS2 spectra were acquired in the Orbitrap"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor ion tolerance of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion tolerance was set to 20 ppm for FTMS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ],
+    "Comment[FractionIdentifier]": [
+      "N08"
+    ]
+  },
+  "01333_B06_P013147_S00_N18_R1.raw": {
+    "Source Name": [
+      "P013147"
+    ],
+    "Assay Name": [
+      "01333_B06_P013147_S00_N18_R1.raw"
+    ],
+    "Raw Data File": [
+      "01333_B06_P013147_S00_N18_R1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human colorectal cancer cell lines"
+    ],
+    "Characteristics[MaterialType]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Roche)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55 mM chloroacetamide"
+    ],
+    "Characteristics[Label]": [
+      "label‐free quantification (LFQ)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicates"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data‐dependent acquisition"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Velos mass spectrometer",
+      "Orbitrap Elite mass spectrometer",
+      "Eksigent nanoLC‐Ultra 1D+",
+      "Dionex Ultimate 3000 HPLC system"
+    ],
+    "Comment[Separation]": [
+      "nanoflow LC‐MS/MS"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "from 4 to 32% in 96 min"
+    ],
+    "Comment[FractionationMethod]": [
+      "hydrophilic strong anion exchange (hSAX) chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS1 and MS2 spectra were acquired in the Orbitrap"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor ion tolerance of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion tolerance was set to 20 ppm for FTMS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ],
+    "Comment[FractionIdentifier]": [
+      "N18"
+    ]
+  },
+  "01335_C06_P013151_S00_N19_R1.raw": {
+    "Source Name": [
+      "P013151"
+    ],
+    "Assay Name": [
+      "01335_C06_P013151_S00_N19_R1.raw"
+    ],
+    "Raw Data File": [
+      "01335_C06_P013151_S00_N19_R1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human colorectal cancer cell lines"
+    ],
+    "Characteristics[MaterialType]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Roche)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55 mM chloroacetamide"
+    ],
+    "Characteristics[Label]": [
+      "label‐free quantification (LFQ)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicates"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data‐dependent acquisition"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Velos mass spectrometer",
+      "Orbitrap Elite mass spectrometer",
+      "Eksigent nanoLC‐Ultra 1D+",
+      "Dionex Ultimate 3000 HPLC system"
+    ],
+    "Comment[Separation]": [
+      "nanoflow LC‐MS/MS"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "from 4 to 32% in 96 min"
+    ],
+    "Comment[FractionationMethod]": [
+      "hydrophilic strong anion exchange (hSAX) chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS1 and MS2 spectra were acquired in the Orbitrap"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor ion tolerance of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion tolerance was set to 20 ppm for FTMS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ],
+    "Comment[FractionIdentifier]": [
+      "N19"
+    ]
+  },
+  "01236_C05_P012697_S00_N11_R2.raw": {
+    "Source Name": [
+      "P012697"
+    ],
+    "Assay Name": [
+      "01236_C05_P012697_S00_N11_R2.raw"
+    ],
+    "Raw Data File": [
+      "01236_C05_P012697_S00_N11_R2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human colorectal cancer cell lines"
+    ],
+    "Characteristics[MaterialType]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Roche)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55 mM chloroacetamide"
+    ],
+    "Characteristics[Label]": [
+      "label‐free quantification (LFQ)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicates"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R2"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data‐dependent acquisition"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Velos mass spectrometer",
+      "Orbitrap Elite mass spectrometer",
+      "Eksigent nanoLC‐Ultra 1D+",
+      "Dionex Ultimate 3000 HPLC system"
+    ],
+    "Comment[Separation]": [
+      "nanoflow LC‐MS/MS"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "from 4 to 32% in 96 min"
+    ],
+    "Comment[FractionationMethod]": [
+      "hydrophilic strong anion exchange (hSAX) chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS1 and MS2 spectra were acquired in the Orbitrap"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor ion tolerance of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion tolerance was set to 20 ppm for FTMS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ],
+    "Comment[FractionIdentifier]": [
+      "N11"
+    ]
+  },
+  "01267_E03_P013137_S00_N21_R1.raw": {
+    "Source Name": [
+      "P013137"
+    ],
+    "Assay Name": [
+      "01267_E03_P013137_S00_N21_R1.raw"
+    ],
+    "Raw Data File": [
+      "01267_E03_P013137_S00_N21_R1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human colorectal cancer cell lines"
+    ],
+    "Characteristics[MaterialType]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Roche)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55 mM chloroacetamide"
+    ],
+    "Characteristics[Label]": [
+      "label‐free quantification (LFQ)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicates"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data‐dependent acquisition"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Velos mass spectrometer",
+      "Orbitrap Elite mass spectrometer",
+      "Eksigent nanoLC‐Ultra 1D+",
+      "Dionex Ultimate 3000 HPLC system"
+    ],
+    "Comment[Separation]": [
+      "nanoflow LC‐MS/MS"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "from 4 to 32% in 96 min"
+    ],
+    "Comment[FractionationMethod]": [
+      "hydrophilic strong anion exchange (hSAX) chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS1 and MS2 spectra were acquired in the Orbitrap"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor ion tolerance of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion tolerance was set to 20 ppm for FTMS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ],
+    "Comment[FractionIdentifier]": [
+      "N21"
+    ]
+  },
+  "01214_G01_P012340_S00_N07_R1.raw": {
+    "Source Name": [
+      "P012340"
+    ],
+    "Assay Name": [
+      "01214_G01_P012340_S00_N07_R1.raw"
+    ],
+    "Raw Data File": [
+      "01214_G01_P012340_S00_N07_R1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human colorectal cancer cell lines"
+    ],
+    "Characteristics[MaterialType]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Roche)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55 mM chloroacetamide"
+    ],
+    "Characteristics[Label]": [
+      "label‐free quantification (LFQ)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicates"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data‐dependent acquisition"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Velos mass spectrometer",
+      "Orbitrap Elite mass spectrometer",
+      "Eksigent nanoLC‐Ultra 1D+",
+      "Dionex Ultimate 3000 HPLC system"
+    ],
+    "Comment[Separation]": [
+      "nanoflow LC‐MS/MS"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "from 4 to 32% in 96 min"
+    ],
+    "Comment[FractionationMethod]": [
+      "hydrophilic strong anion exchange (hSAX) chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS1 and MS2 spectra were acquired in the Orbitrap"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor ion tolerance of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion tolerance was set to 20 ppm for FTMS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ],
+    "Comment[FractionIdentifier]": [
+      "N07"
+    ]
+  },
+  "01244_B03_P012909_S00_N18_R2.raw": {
+    "Source Name": [
+      "P012909"
+    ],
+    "Assay Name": [
+      "01244_B03_P012909_S00_N18_R2.raw"
+    ],
+    "Raw Data File": [
+      "01244_B03_P012909_S00_N18_R2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human colorectal cancer cell lines"
+    ],
+    "Characteristics[MaterialType]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Roche)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55 mM chloroacetamide"
+    ],
+    "Characteristics[Label]": [
+      "label‐free quantification (LFQ)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicates"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R2"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data‐dependent acquisition"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Velos mass spectrometer",
+      "Orbitrap Elite mass spectrometer",
+      "Eksigent nanoLC‐Ultra 1D+",
+      "Dionex Ultimate 3000 HPLC system"
+    ],
+    "Comment[Separation]": [
+      "nanoflow LC‐MS/MS"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "from 4 to 32% in 96 min"
+    ],
+    "Comment[FractionationMethod]": [
+      "hydrophilic strong anion exchange (hSAX) chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS1 and MS2 spectra were acquired in the Orbitrap"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor ion tolerance of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion tolerance was set to 20 ppm for FTMS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ],
+    "Comment[FractionIdentifier]": [
+      "N18"
+    ]
+  },
+  "01259_D02_P013100_S00_N12_R1.raw": {
+    "Source Name": [
+      "P013100"
+    ],
+    "Assay Name": [
+      "01259_D02_P013100_S00_N12_R1.raw"
+    ],
+    "Raw Data File": [
+      "01259_D02_P013100_S00_N12_R1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human colorectal cancer cell lines"
+    ],
+    "Characteristics[MaterialType]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Roche)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55 mM chloroacetamide"
+    ],
+    "Characteristics[Label]": [
+      "label‐free quantification (LFQ)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicates"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data‐dependent acquisition"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Velos mass spectrometer",
+      "Orbitrap Elite mass spectrometer",
+      "Eksigent nanoLC‐Ultra 1D+",
+      "Dionex Ultimate 3000 HPLC system"
+    ],
+    "Comment[Separation]": [
+      "nanoflow LC‐MS/MS"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "from 4 to 32% in 96 min"
+    ],
+    "Comment[FractionationMethod]": [
+      "hydrophilic strong anion exchange (hSAX) chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS1 and MS2 spectra were acquired in the Orbitrap"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor ion tolerance of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion tolerance was set to 20 ppm for FTMS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ],
+    "Comment[FractionIdentifier]": [
+      "N12"
+    ]
+  },
+  "01481_B02_P015041_S00_N10_R1.raw": {
+    "Source Name": [
+      "P015041"
+    ],
+    "Assay Name": [
+      "01481_B02_P015041_S00_N10_R1.raw"
+    ],
+    "Raw Data File": [
+      "01481_B02_P015041_S00_N10_R1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human colorectal cancer cell lines"
+    ],
+    "Characteristics[MaterialType]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Roche)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55 mM chloroacetamide"
+    ],
+    "Characteristics[Label]": [
+      "label‐free quantification (LFQ)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicates"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data‐dependent acquisition"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Velos mass spectrometer",
+      "Orbitrap Elite mass spectrometer",
+      "Eksigent nanoLC‐Ultra 1D+",
+      "Dionex Ultimate 3000 HPLC system"
+    ],
+    "Comment[Separation]": [
+      "nanoflow LC‐MS/MS"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "from 4 to 32% in 96 min"
+    ],
+    "Comment[FractionationMethod]": [
+      "hydrophilic strong anion exchange (hSAX) chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS1 and MS2 spectra were acquired in the Orbitrap"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor ion tolerance of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion tolerance was set to 20 ppm for FTMS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ],
+    "Comment[FractionIdentifier]": [
+      "N10"
+    ]
+  },
+  "01251_A02_P013026_S00_N09_R1.raw": {
+    "Source Name": [
+      "P013026"
+    ],
+    "Assay Name": [
+      "01251_A02_P013026_S00_N09_R1.raw"
+    ],
+    "Raw Data File": [
+      "01251_A02_P013026_S00_N09_R1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human colorectal cancer cell lines"
+    ],
+    "Characteristics[MaterialType]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Roche)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55 mM chloroacetamide"
+    ],
+    "Characteristics[Label]": [
+      "label‐free quantification (LFQ)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicates"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data‐dependent acquisition"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Velos mass spectrometer",
+      "Orbitrap Elite mass spectrometer",
+      "Eksigent nanoLC‐Ultra 1D+",
+      "Dionex Ultimate 3000 HPLC system"
+    ],
+    "Comment[Separation]": [
+      "nanoflow LC‐MS/MS"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "from 4 to 32% in 96 min"
+    ],
+    "Comment[FractionationMethod]": [
+      "hydrophilic strong anion exchange (hSAX) chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS1 and MS2 spectra were acquired in the Orbitrap"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor ion tolerance of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion tolerance was set to 20 ppm for FTMS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ],
+    "Comment[FractionIdentifier]": [
+      "N09"
+    ]
+  },
+  "01262_A09_P013108_S00_N17_R1.raw": {
+    "Source Name": [
+      "P013108"
+    ],
+    "Assay Name": [
+      "01262_A09_P013108_S00_N17_R1.raw"
+    ],
+    "Raw Data File": [
+      "01262_A09_P013108_S00_N17_R1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human colorectal cancer cell lines"
+    ],
+    "Characteristics[MaterialType]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Roche)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55 mM chloroacetamide"
+    ],
+    "Characteristics[Label]": [
+      "label‐free quantification (LFQ)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicates"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data‐dependent acquisition"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Velos mass spectrometer",
+      "Orbitrap Elite mass spectrometer",
+      "Eksigent nanoLC‐Ultra 1D+",
+      "Dionex Ultimate 3000 HPLC system"
+    ],
+    "Comment[Separation]": [
+      "nanoflow LC‐MS/MS"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "from 4 to 32% in 96 min"
+    ],
+    "Comment[FractionationMethod]": [
+      "hydrophilic strong anion exchange (hSAX) chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS1 and MS2 spectra were acquired in the Orbitrap"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor ion tolerance of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion tolerance was set to 20 ppm for FTMS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ],
+    "Comment[FractionIdentifier]": [
+      "N17"
+    ]
+  },
+  "01231_C03_P012890_S00_N19_R2.raw": {
+    "Source Name": [
+      "P012890"
+    ],
+    "Assay Name": [
+      "01231_C03_P012890_S00_N19_R2.raw"
+    ],
+    "Raw Data File": [
+      "01231_C03_P012890_S00_N19_R2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human colorectal cancer cell lines"
+    ],
+    "Characteristics[MaterialType]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Roche)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55 mM chloroacetamide"
+    ],
+    "Characteristics[Label]": [
+      "label‐free quantification (LFQ)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicates"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R2"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data‐dependent acquisition"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Velos mass spectrometer",
+      "Orbitrap Elite mass spectrometer",
+      "Eksigent nanoLC‐Ultra 1D+",
+      "Dionex Ultimate 3000 HPLC system"
+    ],
+    "Comment[Separation]": [
+      "nanoflow LC‐MS/MS"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "from 4 to 32% in 96 min"
+    ],
+    "Comment[FractionationMethod]": [
+      "hydrophilic strong anion exchange (hSAX) chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS1 and MS2 spectra were acquired in the Orbitrap"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor ion tolerance of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion tolerance was set to 20 ppm for FTMS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ],
+    "Comment[FractionIdentifier]": [
+      "N19"
+    ]
+  },
+  "01262_G07_P013108_S00_N07_R1.raw": {
+    "Source Name": [
+      "P013108"
+    ],
+    "Assay Name": [
+      "01262_G07_P013108_S00_N07_R1.raw"
+    ],
+    "Raw Data File": [
+      "01262_G07_P013108_S00_N07_R1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human colorectal cancer cell lines"
+    ],
+    "Characteristics[MaterialType]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Roche)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55 mM chloroacetamide"
+    ],
+    "Characteristics[Label]": [
+      "label‐free quantification (LFQ)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicates"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data‐dependent acquisition"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Velos mass spectrometer",
+      "Orbitrap Elite mass spectrometer",
+      "Eksigent nanoLC‐Ultra 1D+",
+      "Dionex Ultimate 3000 HPLC system"
+    ],
+    "Comment[Separation]": [
+      "nanoflow LC‐MS/MS"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "from 4 to 32% in 96 min"
+    ],
+    "Comment[FractionationMethod]": [
+      "hydrophilic strong anion exchange (hSAX) chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS1 and MS2 spectra were acquired in the Orbitrap"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor ion tolerance of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion tolerance was set to 20 ppm for FTMS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ],
+    "Comment[FractionIdentifier]": [
+      "N07"
+    ]
+  },
+  "01336_D06_P013153_S00_N20_R1.raw": {
+    "Source Name": [
+      "P013153"
+    ],
+    "Assay Name": [
+      "01336_D06_P013153_S00_N20_R1.raw"
+    ],
+    "Raw Data File": [
+      "01336_D06_P013153_S00_N20_R1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human colorectal cancer cell lines"
+    ],
+    "Characteristics[MaterialType]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Roche)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55 mM chloroacetamide"
+    ],
+    "Characteristics[Label]": [
+      "label‐free quantification (LFQ)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicates"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data‐dependent acquisition"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Velos mass spectrometer",
+      "Orbitrap Elite mass spectrometer",
+      "Eksigent nanoLC‐Ultra 1D+",
+      "Dionex Ultimate 3000 HPLC system"
+    ],
+    "Comment[Separation]": [
+      "nanoflow LC‐MS/MS"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "from 4 to 32% in 96 min"
+    ],
+    "Comment[FractionationMethod]": [
+      "hydrophilic strong anion exchange (hSAX) chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS1 and MS2 spectra were acquired in the Orbitrap"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor ion tolerance of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion tolerance was set to 20 ppm for FTMS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ],
+    "Comment[FractionIdentifier]": [
+      "N20"
+    ]
+  },
+  "01252_H05_P013025_S00_N16_R1.raw": {
+    "Source Name": [
+      "P013025"
+    ],
+    "Assay Name": [
+      "01252_H05_P013025_S00_N16_R1.raw"
+    ],
+    "Raw Data File": [
+      "01252_H05_P013025_S00_N16_R1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human colorectal cancer cell lines"
+    ],
+    "Characteristics[MaterialType]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Roche)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55 mM chloroacetamide"
+    ],
+    "Characteristics[Label]": [
+      "label‐free quantification (LFQ)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicates"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data‐dependent acquisition"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Velos mass spectrometer",
+      "Orbitrap Elite mass spectrometer",
+      "Eksigent nanoLC‐Ultra 1D+",
+      "Dionex Ultimate 3000 HPLC system"
+    ],
+    "Comment[Separation]": [
+      "nanoflow LC‐MS/MS"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "from 4 to 32% in 96 min"
+    ],
+    "Comment[FractionationMethod]": [
+      "hydrophilic strong anion exchange (hSAX) chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS1 and MS2 spectra were acquired in the Orbitrap"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor ion tolerance of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion tolerance was set to 20 ppm for FTMS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ],
+    "Comment[FractionIdentifier]": [
+      "N16"
+    ]
+  },
+  "01254_F03_P013030_S00_N22_R1.raw": {
+    "Source Name": [
+      "P013030"
+    ],
+    "Assay Name": [
+      "01254_F03_P013030_S00_N22_R1.raw"
+    ],
+    "Raw Data File": [
+      "01254_F03_P013030_S00_N22_R1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human colorectal cancer cell lines"
+    ],
+    "Characteristics[MaterialType]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (Roche)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTT"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55 mM chloroacetamide"
+    ],
+    "Characteristics[Label]": [
+      "label‐free quantification (LFQ)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "65 colorectal cancer (CRC) cell lines"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "biological triplicates"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data‐dependent acquisition"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Velos mass spectrometer",
+      "Orbitrap Elite mass spectrometer",
+      "Eksigent nanoLC‐Ultra 1D+",
+      "Dionex Ultimate 3000 HPLC system"
+    ],
+    "Comment[Separation]": [
+      "nanoflow LC‐MS/MS"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 300 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "from 4 to 32% in 96 min"
+    ],
+    "Comment[FractionationMethod]": [
+      "hydrophilic strong anion exchange (hSAX) chromatography"
+    ],
+    "Comment[NumberOfFractions]": [
+      "24 fractions"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "MS1 and MS2 spectra were acquired in the Orbitrap"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher‐energy collisional dissociation (HCD)"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor ion tolerance of 4.5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment ion tolerance was set to 20 ppm for FTMS"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "maximum of two missed cleavages"
+    ],
+    "Comment[FractionIdentifier]": [
+      "N22"
+    ]
+  }
+}

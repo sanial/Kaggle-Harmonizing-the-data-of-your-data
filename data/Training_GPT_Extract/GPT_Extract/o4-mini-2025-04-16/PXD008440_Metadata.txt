@@ -1,0 +1,53 @@
+Compound: 5-fluorouracil  
+Disease: locally advanced rectal cancer patients  
+MaterialType: formalin-fixed paraffin-embedded (FFPE) biopsies  
+Instrument: Tissue Microarray (TMA) Master II (3DHISTECH)  
+Compound: xylene  
+ConcentrationOfCompound: 100%  
+Compound: ethanol  
+ConcentrationOfCompound: 50%  
+Compound: SDS  
+ConcentrationOfCompound: 2.5%  
+Compound: Tris  
+ConcentrationOfCompound: 50 mM  
+Compound: dithiothréitol  
+ConcentrationOfCompound: 10 mM  
+Compound: Laemmli  
+ConcentrationOfCompound: 1X  
+ConcentrationOfCompound: 2 mM  
+Compound: iodoacetamide  
+ConcentrationOfCompound: 50 mM  
+FractionationMethod: NuPAGE gel 4–12% bis–Tris 1.5 mm × 10 well (Invitrogen)  
+Staining: Coomassie Blue (SimplyBlue SafeStain)  
+Compound: acetonitrile  
+Compound: ammonium bicarbonate  
+ConcentrationOfCompound: 20 mM  
+ConcentrationOfCompound: 100%  
+Compound: Trypsin Gold (Promega)  
+ConcentrationOfCompound: 12.5 ng/ml  
+Compound: acetic acid  
+ConcentrationOfCompound: 50 mM  
+Temperature: 98 °C  
+Temperature: 37 °C  
+Temperature: 40 °C  
+Time: 1 h  
+Time: 5 min  
+Time: 30 min  
+Time: overnight  
+Compound: formic acid  
+ConcentrationOfCompound: 1%  
+Compound: trifluoroacetic acid  
+ConcentrationOfCompound: 0.1%  
+Instrument: Dionex Ultimate 3000 nanoHPLC system  
+FactorValue: 2 µg  
+FlowRateChromatogram: 4 µL/min  
+Separation: Acclaim PepMap100 C18 column (0.3 mm id × 5 mm)  
+Separation: PepMap C18 nanocolumn (75 µm × 50 cm)  
+GradientTime: 240 min  
+FlowRateChromatogram: 200 nL/min  
+Instrument: OrbiTrap QExactive mass spectrometer  
+IonizationType: EasySpray source  
+CollisionEnergy: 35%  
+PrecursorMassTolerance: 7 ppm  
+FragmentMassTolerance: 20 ppm  
+MS2MassAnalyzer: Orbitrap

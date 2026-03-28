@@ -1,0 +1,50 @@
+Organism: human subjects  
+NumberOfBiologicalReplicates: 12  
+NumberOfSamples: 36 individual samples  
+SamplingTime: T0  
+SamplingTime: T24  
+SamplingTime: T48  
+OrganismPart: cerebrospinal fluid  
+OrganismPart: subarachnoid space of the lumbar spinal cord  
+CleavageAgent: trypsin  
+ReductionReagent: dithiothreitol  
+AlkylationReagent: iodoacetamide  
+Temperature: 37 °C  
+Time: 16 hours  
+ConcentrationOfCompound: 0.2%  
+ConcentrationOfCompound: 50 mM  
+ConcentrationOfCompound: 5 mM  
+ConcentrationOfCompound: 15 mM  
+Compound: trifluoroacetic acid  
+ConcentrationOfCompound: 25%  
+ConcentrationOfCompound: 0.5%  
+ConcentrationOfCompound: 0.1%  
+Instrument: UltiMate 3000  
+Instrument: Q Exactive  
+FlowRateChromatogram: 30 μL/min  
+FlowRateChromatogram: 400 nL/min  
+GradientTime: 180 min  
+IonizationType: nano electrospray ionization  
+AcquisitionMethod: data-dependent scan mode  
+FragmentationMethod: higher energy collision-induced dissociation (HCD)  
+CollisionEnergy: 27%  
+MS2MassAnalyzer: orbitrap analyzer  
+PrecursorMassTolerance: 5 ppm  
+FragmentMassTolerance: 20 ppm  
+NumberOfMissedCleavages: 2  
+Modification: Cysteine carbamidomethylation  
+Modification: methionine oxidation  
+Modification: N-terminal acetylation  
+FactorValue: 1:50 (w/w) trypsin-to-protein ratio  
+FactorValue: 5 (max modifications per peptide)  
+FactorValue: 1% (false discovery rate)  
+FactorValue: 2 (LFQ minimum ratio count)  
+PooledSample: pooled samples  
+NumberOfTechnicalReplicates: seven  
+Temperature: 60 °C  
+Temperature: 250 °C  
+Temperature: 4 °C  
+Time: 40 min  
+Time: 10 min  
+AssayName: label-free quantification (LFQ)  
+AssayName: LC-MS/MS

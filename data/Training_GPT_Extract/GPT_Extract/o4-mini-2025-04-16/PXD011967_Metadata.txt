@@ -1,0 +1,37 @@
+AssayName: liquid-chromatography mass spectrometry  
+Organism: human  
+OrganismPart: skeletal muscle  
+NumberOfSamples: 60 well-characterized healthy individuals  
+Age: 20–87 years  
+NumberOfSamples: data from 58 participants  
+Age: 20–34 years  
+Age: 35–49 years  
+Age: 50–64 years  
+Age: 65–79 years  
+Age: 80+ years  
+MaterialType: muscle tissue  
+OrganismPart: vastus lateralis muscle  
+SourceName: muscle tissue samples  
+SampleTreatment: snap frozen in liquid nitrogen  
+Temperature: -80°C  
+ReductionReagent: 50 mM DTT  
+AlkylationReagent: 100 mM iodoacetamide  
+CleavageAgent: trypsin/LysC mixture [Promega, 1:50 (w/w)]  
+ConcentrationOfCompound: 200 fM  
+SpikedCompound: bacterial beta-galactosidase digest  
+Label: TMT6plex  
+PooledSample: reference sample  
+FractionationMethod: High-pH RPLC fractionation  
+FractionIdentifier: 99 fractions  
+FractionIdentifier: 33 master fractions  
+GradientTime: 100 min  
+Separation: reverse phase  
+FlowRateChromatogram: 650 nL/min  
+GradientTime: 205 min  
+Instrument: UltiMate 3000 Nano LC Systems coupled to a Q Exactive HF mass spectrometer  
+PrecursorMassTolerance: 20 ppm  
+FragmentMassTolerance: 0.08 Da  
+CollisionEnergy: 30% normalized high collision energy  
+AcquisitionMethod: Dd-MS2  
+Time: 18 h  
+Temperature: 36°C

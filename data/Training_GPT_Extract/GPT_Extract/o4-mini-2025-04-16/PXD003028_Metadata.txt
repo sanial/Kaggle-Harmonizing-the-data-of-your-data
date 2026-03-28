@@ -1,0 +1,40 @@
+OrganismPart: saliva  
+AssayName: mass spectrometry-based proteomics workflow  
+AssayName: MALDI-TOF mass spectrometry  
+AssayName: Andromeda search engine  
+NumberOfBiologicalReplicates: eight healthy individuals  
+SamplingTime: two different time points  
+GradientTime: 100-min gradients  
+FractionationMethod: simple fractionation  
+Sex: four female  
+Sex: four male  
+Age: aged 24 to 40 years  
+AncestryCategory: Caucasian backgrounds  
+SamplingTime: immediately after waking  
+SamplingTime: 10 a.m.  
+NumberOfTechnicalReplicates: three samples immediately after one another  
+ReductionReagent: 10 mM tris (2-carboxyethyl) phosphine  
+AlkylationReagent: 40 mM 2-chloroacetamide  
+MaterialType: SDB-RPS StageTip  
+CleavageAgent: trypsin  
+CleavageAgent: LysC  
+Time: 60 min  
+Temperature: 37 °C  
+Compound: trifluoroacetic acid (TFA)  
+ConcentrationOfCompound: 1 % trifluoroacetic acid  
+ConcentrationOfCompound: 80 % acetonitrile (ACN)  
+ConcentrationOfCompound: 1 % ammonium (v/v)  
+ConcentrationOfCompound: 2 % ACN (v/v)  
+ConcentrationOfCompound: 0.1 % TFA (v/v)  
+FractionationMethod: basic reversed-phase chromatography  
+GradientTime: 80-min gradient  
+Instrument: EASY-nLC 1000  
+Instrument: Q Exactive HF mass spectrometer  
+FragmentationMethod: higher-energy collisional dissociation (HCD)  
+NumberOfMissedCleavages: two missed cleavages  
+PrecursorMassTolerance: 4.5 ppm  
+FragmentMassTolerance: 0.5 Da  
+Modification: N-acetylation of proteins’ N-termini  
+Modification: oxidation of methionine  
+Modification: carbamidomethylation of cysteine  
+Experiment: split by taxonomy feature on the phylum level

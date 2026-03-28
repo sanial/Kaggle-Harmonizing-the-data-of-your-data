@@ -1,0 +1,2434 @@
+{
+  "QE_IA_QQTGG_Control_BR4_TR1.raw": {
+    "Source Name": [
+      "HeLa_BR4"
+    ],
+    "Assay Name": [
+      "HeLa_BR4_TR1"
+    ],
+    "Raw Data File": [
+      "QE_IA_QQTGG_Control_BR4_TR1.raw"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "BR4"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "TR1"
+    ],
+    "FactorValue[Treatment]": [
+      "control condition"
+    ],
+    "Characteristics[Organism]": [
+      "human cells",
+      "We enriched SUMOylated peptides from a HeLa cell line stably expressing His10-tagged SUMO-2."
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Sequencing Grade Endoproteinase Lys-C (Promega)",
+      "Sequencing Grade Modified Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol (DTT)",
+      "β-mercaptoethanol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "chloroacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Quantification was performed over 17 biological replicates, including 6 control, 3 heat shock, 3 MG-132 and 5 PR-619 replicates."
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon) connected to a Q-Exactive (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "Higher-Collisional Dissociation (HCD) fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "2-hour LC gradients",
+      "120 minute gradient from 5% to 75% acetonitrile in 0.1% formic acid"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 250 nL per minute"
+    ],
+    "Comment[Separation]": [
+      "nanoscale LC-MS/MS",
+      "online nanoflow liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "mass tolerance of 6 ppm for precursor masses"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "mass tolerance of 20 ppm was used for fragment ions"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to 3 missed tryptic cleavages were allowed."
+    ],
+    "Comment[FractionationMethod]": [
+      "without further fractionation"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "a first round of His10-SUMO-2 purification, a filter step to concentrate SUMO-2 conjugates while simultaneously separating SUMO-2 conjugates from free SUMO-2, digestion by Lys-C and a second round of purification followed by a trypsin digest"
+    ]
+  },
+  "QE_IA_QQTGG_Control_BR5_TR2.raw": {
+    "Source Name": [
+      "HeLa_BR5"
+    ],
+    "Assay Name": [
+      "HeLa_BR5_TR2"
+    ],
+    "Raw Data File": [
+      "QE_IA_QQTGG_Control_BR5_TR2.raw"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "BR5"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "TR2"
+    ],
+    "FactorValue[Treatment]": [
+      "control condition"
+    ],
+    "Characteristics[Organism]": [
+      "human cells",
+      "We enriched SUMOylated peptides from a HeLa cell line stably expressing His10-tagged SUMO-2."
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Sequencing Grade Endoproteinase Lys-C (Promega)",
+      "Sequencing Grade Modified Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol (DTT)",
+      "β-mercaptoethanol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "chloroacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Quantification was performed over 17 biological replicates, including 6 control, 3 heat shock, 3 MG-132 and 5 PR-619 replicates."
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon) connected to a Q-Exactive (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "Higher-Collisional Dissociation (HCD) fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "2-hour LC gradients",
+      "120 minute gradient from 5% to 75% acetonitrile in 0.1% formic acid"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 250 nL per minute"
+    ],
+    "Comment[Separation]": [
+      "nanoscale LC-MS/MS",
+      "online nanoflow liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "mass tolerance of 6 ppm for precursor masses"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "mass tolerance of 20 ppm was used for fragment ions"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to 3 missed tryptic cleavages were allowed."
+    ],
+    "Comment[FractionationMethod]": [
+      "without further fractionation"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "a first round of His10-SUMO-2 purification, a filter step to concentrate SUMO-2 conjugates while simultaneously separating SUMO-2 conjugates from free SUMO-2, digestion by Lys-C and a second round of purification followed by a trypsin digest"
+    ]
+  },
+  "QE_IA_QQTGG_Control_BR6_TR1.raw": {
+    "Source Name": [
+      "HeLa_BR6"
+    ],
+    "Assay Name": [
+      "HeLa_BR6_TR1"
+    ],
+    "Raw Data File": [
+      "QE_IA_QQTGG_Control_BR6_TR1.raw"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "BR6"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "TR1"
+    ],
+    "FactorValue[Treatment]": [
+      "control condition"
+    ],
+    "Characteristics[Organism]": [
+      "human cells",
+      "We enriched SUMOylated peptides from a HeLa cell line stably expressing His10-tagged SUMO-2."
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Sequencing Grade Endoproteinase Lys-C (Promega)",
+      "Sequencing Grade Modified Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol (DTT)",
+      "β-mercaptoethanol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "chloroacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Quantification was performed over 17 biological replicates, including 6 control, 3 heat shock, 3 MG-132 and 5 PR-619 replicates."
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon) connected to a Q-Exactive (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "Higher-Collisional Dissociation (HCD) fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "2-hour LC gradients",
+      "120 minute gradient from 5% to 75% acetonitrile in 0.1% formic acid"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 250 nL per minute"
+    ],
+    "Comment[Separation]": [
+      "nanoscale LC-MS/MS",
+      "online nanoflow liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "mass tolerance of 6 ppm for precursor masses"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "mass tolerance of 20 ppm was used for fragment ions"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to 3 missed tryptic cleavages were allowed."
+    ],
+    "Comment[FractionationMethod]": [
+      "without further fractionation"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "a first round of His10-SUMO-2 purification, a filter step to concentrate SUMO-2 conjugates while simultaneously separating SUMO-2 conjugates from free SUMO-2, digestion by Lys-C and a second round of purification followed by a trypsin digest"
+    ]
+  },
+  "QE_IA_QQTGG_HEAT_BR1_TR1.raw": {
+    "Source Name": [
+      "HeLa_BR1"
+    ],
+    "Assay Name": [
+      "HeLa_BR1_TR1"
+    ],
+    "Raw Data File": [
+      "QE_IA_QQTGG_HEAT_BR1_TR1.raw"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "BR1"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "TR1"
+    ],
+    "FactorValue[Treatment]": [
+      "incubated at 43°C for 1 hour (heat shock)"
+    ],
+    "Characteristics[Organism]": [
+      "human cells",
+      "We enriched SUMOylated peptides from a HeLa cell line stably expressing His10-tagged SUMO-2."
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Sequencing Grade Endoproteinase Lys-C (Promega)",
+      "Sequencing Grade Modified Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol (DTT)",
+      "β-mercaptoethanol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "chloroacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Quantification was performed over 17 biological replicates, including 6 control, 3 heat shock, 3 MG-132 and 5 PR-619 replicates."
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon) connected to a Q-Exactive (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "Higher-Collisional Dissociation (HCD) fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "2-hour LC gradients",
+      "120 minute gradient from 5% to 75% acetonitrile in 0.1% formic acid"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 250 nL per minute"
+    ],
+    "Comment[Separation]": [
+      "nanoscale LC-MS/MS",
+      "online nanoflow liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "mass tolerance of 6 ppm for precursor masses"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "mass tolerance of 20 ppm was used for fragment ions"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to 3 missed tryptic cleavages were allowed."
+    ],
+    "Comment[FractionationMethod]": [
+      "without further fractionation"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "a first round of His10-SUMO-2 purification, a filter step to concentrate SUMO-2 conjugates while simultaneously separating SUMO-2 conjugates from free SUMO-2, digestion by Lys-C and a second round of purification followed by a trypsin digest"
+    ]
+  },
+  "QE_IA_QQTGG_Control_BR4_TR2.raw": {
+    "Source Name": [
+      "HeLa_BR4"
+    ],
+    "Assay Name": [
+      "HeLa_BR4_TR2"
+    ],
+    "Raw Data File": [
+      "QE_IA_QQTGG_Control_BR4_TR2.raw"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "BR4"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "TR2"
+    ],
+    "FactorValue[Treatment]": [
+      "control condition"
+    ],
+    "Characteristics[Organism]": [
+      "human cells",
+      "We enriched SUMOylated peptides from a HeLa cell line stably expressing His10-tagged SUMO-2."
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Sequencing Grade Endoproteinase Lys-C (Promega)",
+      "Sequencing Grade Modified Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol (DTT)",
+      "β-mercaptoethanol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "chloroacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Quantification was performed over 17 biological replicates, including 6 control, 3 heat shock, 3 MG-132 and 5 PR-619 replicates."
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon) connected to a Q-Exactive (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "Higher-Collisional Dissociation (HCD) fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "2-hour LC gradients",
+      "120 minute gradient from 5% to 75% acetonitrile in 0.1% formic acid"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 250 nL per minute"
+    ],
+    "Comment[Separation]": [
+      "nanoscale LC-MS/MS",
+      "online nanoflow liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "mass tolerance of 6 ppm for precursor masses"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "mass tolerance of 20 ppm was used for fragment ions"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to 3 missed tryptic cleavages were allowed."
+    ],
+    "Comment[FractionationMethod]": [
+      "without further fractionation"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "a first round of His10-SUMO-2 purification, a filter step to concentrate SUMO-2 conjugates while simultaneously separating SUMO-2 conjugates from free SUMO-2, digestion by Lys-C and a second round of purification followed by a trypsin digest"
+    ]
+  },
+  "QE_IA_QQTGG_PR619_BR4_TR1.raw": {
+    "Source Name": [
+      "HeLa_BR4"
+    ],
+    "Assay Name": [
+      "HeLa_BR4_TR1_PR619"
+    ],
+    "Raw Data File": [
+      "QE_IA_QQTGG_PR619_BR4_TR1.raw"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "BR4"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "TR1"
+    ],
+    "FactorValue[Treatment]": [
+      "treated with 20 μM PR-619 (Millipore) dissolved in DMSO for 7 hours"
+    ],
+    "Characteristics[Organism]": [
+      "human cells",
+      "We enriched SUMOylated peptides from a HeLa cell line stably expressing His10-tagged SUMO-2."
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Sequencing Grade Endoproteinase Lys-C (Promega)",
+      "Sequencing Grade Modified Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol (DTT)",
+      "β-mercaptoethanol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "chloroacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Quantification was performed over 17 biological replicates, including 6 control, 3 heat shock, 3 MG-132 and 5 PR-619 replicates."
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon) connected to a Q-Exactive (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "Higher-Collisional Dissociation (HCD) fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "2-hour LC gradients",
+      "120 minute gradient from 5% to 75% acetonitrile in 0.1% formic acid"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 250 nL per minute"
+    ],
+    "Comment[Separation]": [
+      "nanoscale LC-MS/MS",
+      "online nanoflow liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "mass tolerance of 6 ppm for precursor masses"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "mass tolerance of 20 ppm was used for fragment ions"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to 3 missed tryptic cleavages were allowed."
+    ],
+    "Comment[FractionationMethod]": [
+      "without further fractionation"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "a first round of His10-SUMO-2 purification, a filter step to concentrate SUMO-2 conjugates while simultaneously separating SUMO-2 conjugates from free SUMO-2, digestion by Lys-C and a second round of purification followed by a trypsin digest"
+    ]
+  },
+  "QE_IA_QQTGG_Control_BR5_TR1.raw": {
+    "Source Name": [
+      "HeLa_BR5"
+    ],
+    "Assay Name": [
+      "HeLa_BR5_TR1"
+    ],
+    "Raw Data File": [
+      "QE_IA_QQTGG_Control_BR5_TR1.raw"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "BR5"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "TR1"
+    ],
+    "FactorValue[Treatment]": [
+      "control condition"
+    ],
+    "Characteristics[Organism]": [
+      "human cells",
+      "We enriched SUMOylated peptides from a HeLa cell line stably expressing His10-tagged SUMO-2."
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Sequencing Grade Endoproteinase Lys-C (Promega)",
+      "Sequencing Grade Modified Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol (DTT)",
+      "β-mercaptoethanol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "chloroacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Quantification was performed over 17 biological replicates, including 6 control, 3 heat shock, 3 MG-132 and 5 PR-619 replicates."
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon) connected to a Q-Exactive (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "Higher-Collisional Dissociation (HCD) fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "2-hour LC gradients",
+      "120 minute gradient from 5% to 75% acetonitrile in 0.1% formic acid"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 250 nL per minute"
+    ],
+    "Comment[Separation]": [
+      "nanoscale LC-MS/MS",
+      "online nanoflow liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "mass tolerance of 6 ppm for precursor masses"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "mass tolerance of 20 ppm was used for fragment ions"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to 3 missed tryptic cleavages were allowed."
+    ],
+    "Comment[FractionationMethod]": [
+      "without further fractionation"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "a first round of His10-SUMO-2 purification, a filter step to concentrate SUMO-2 conjugates while simultaneously separating SUMO-2 conjugates from free SUMO-2, digestion by Lys-C and a second round of purification followed by a trypsin digest"
+    ]
+  },
+  "QE_IA_QQTGG_PR619_BR2_TR2.raw": {
+    "Source Name": [
+      "HeLa_BR2"
+    ],
+    "Assay Name": [
+      "HeLa_BR2_TR2_PR619"
+    ],
+    "Raw Data File": [
+      "QE_IA_QQTGG_PR619_BR2_TR2.raw"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "BR2"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "TR2"
+    ],
+    "FactorValue[Treatment]": [
+      "treated with 20 μM PR-619 (Millipore) dissolved in DMSO for 7 hours"
+    ],
+    "Characteristics[Organism]": [
+      "human cells",
+      "We enriched SUMOylated peptides from a HeLa cell line stably expressing His10-tagged SUMO-2."
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Sequencing Grade Endoproteinase Lys-C (Promega)",
+      "Sequencing Grade Modified Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol (DTT)",
+      "β-mercaptoethanol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "chloroacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Quantification was performed over 17 biological replicates, including 6 control, 3 heat shock, 3 MG-132 and 5 PR-619 replicates."
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon) connected to a Q-Exactive (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "Higher-Collisional Dissociation (HCD) fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "2-hour LC gradients",
+      "120 minute gradient from 5% to 75% acetonitrile in 0.1% formic acid"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 250 nL per minute"
+    ],
+    "Comment[Separation]": [
+      "nanoscale LC-MS/MS",
+      "online nanoflow liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "mass tolerance of 6 ppm for precursor masses"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "mass tolerance of 20 ppm was used for fragment ions"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to 3 missed tryptic cleavages were allowed."
+    ],
+    "Comment[FractionationMethod]": [
+      "without further fractionation"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "a first round of His10-SUMO-2 purification, a filter step to concentrate SUMO-2 conjugates while simultaneously separating SUMO-2 conjugates from free SUMO-2, digestion by Lys-C and a second round of purification followed by a trypsin digest"
+    ]
+  },
+  "QE_IA_QQTGG_Control_BR2_TR2.raw": {
+    "Source Name": [
+      "HeLa_BR2"
+    ],
+    "Assay Name": [
+      "HeLa_BR2_TR2"
+    ],
+    "Raw Data File": [
+      "QE_IA_QQTGG_Control_BR2_TR2.raw"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "BR2"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "TR2"
+    ],
+    "FactorValue[Treatment]": [
+      "control condition"
+    ],
+    "Characteristics[Organism]": [
+      "human cells",
+      "We enriched SUMOylated peptides from a HeLa cell line stably expressing His10-tagged SUMO-2."
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Sequencing Grade Endoproteinase Lys-C (Promega)",
+      "Sequencing Grade Modified Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol (DTT)",
+      "β-mercaptoethanol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "chloroacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Quantification was performed over 17 biological replicates, including 6 control, 3 heat shock, 3 MG-132 and 5 PR-619 replicates."
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon) connected to a Q-Exactive (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "Higher-Collisional Dissociation (HCD) fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "2-hour LC gradients",
+      "120 minute gradient from 5% to 75% acetonitrile in 0.1% formic acid"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 250 nL per minute"
+    ],
+    "Comment[Separation]": [
+      "nanoscale LC-MS/MS",
+      "online nanoflow liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "mass tolerance of 6 ppm for precursor masses"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "mass tolerance of 20 ppm was used for fragment ions"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to 3 missed tryptic cleavages were allowed."
+    ],
+    "Comment[FractionationMethod]": [
+      "without further fractionation"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "a first round of His10-SUMO-2 purification, a filter step to concentrate SUMO-2 conjugates while simultaneously separating SUMO-2 conjugates from free SUMO-2, digestion by Lys-C and a second round of purification followed by a trypsin digest"
+    ]
+  },
+  "QE_IA_QQTGG_HEAT_BR2_TR2.raw": {
+    "Source Name": [
+      "HeLa_BR2"
+    ],
+    "Assay Name": [
+      "HeLa_BR2_TR2_HEAT"
+    ],
+    "Raw Data File": [
+      "QE_IA_QQTGG_HEAT_BR2_TR2.raw"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "BR2"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "TR2"
+    ],
+    "FactorValue[Treatment]": [
+      "incubated at 43°C for 1 hour (heat shock)"
+    ],
+    "Characteristics[Organism]": [
+      "human cells",
+      "We enriched SUMOylated peptides from a HeLa cell line stably expressing His10-tagged SUMO-2."
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Sequencing Grade Endoproteinase Lys-C (Promega)",
+      "Sequencing Grade Modified Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol (DTT)",
+      "β-mercaptoethanol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "chloroacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Quantification was performed over 17 biological replicates, including 6 control, 3 heat shock, 3 MG-132 and 5 PR-619 replicates."
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon) connected to a Q-Exactive (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "Higher-Collisional Dissociation (HCD) fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "2-hour LC gradients",
+      "120 minute gradient from 5% to 75% acetonitrile in 0.1% formic acid"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 250 nL per minute"
+    ],
+    "Comment[Separation]": [
+      "nanoscale LC-MS/MS",
+      "online nanoflow liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "mass tolerance of 6 ppm for precursor masses"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "mass tolerance of 20 ppm was used for fragment ions"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to 3 missed tryptic cleavages were allowed."
+    ],
+    "Comment[FractionationMethod]": [
+      "without further fractionation"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "a first round of His10-SUMO-2 purification, a filter step to concentrate SUMO-2 conjugates while simultaneously separating SUMO-2 conjugates from free SUMO-2, digestion by Lys-C and a second round of purification followed by a trypsin digest"
+    ]
+  },
+  "QE_IA_QQTGG_MG132_BR3_TR2.raw": {
+    "Source Name": [
+      "HeLa_BR3"
+    ],
+    "Assay Name": [
+      "HeLa_BR3_TR2_MG132"
+    ],
+    "Raw Data File": [
+      "QE_IA_QQTGG_MG132_BR3_TR2.raw"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "BR3"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "TR2"
+    ],
+    "FactorValue[Treatment]": [
+      "treated with 10 μM MG-132 (Sigma) dissolved in DMSO for 7 hours"
+    ],
+    "Characteristics[Organism]": [
+      "human cells",
+      "We enriched SUMOylated peptides from a HeLa cell line stably expressing His10-tagged SUMO-2."
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Sequencing Grade Endoproteinase Lys-C (Promega)",
+      "Sequencing Grade Modified Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol (DTT)",
+      "β-mercaptoethanol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "chloroacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Quantification was performed over 17 biological replicates, including 6 control, 3 heat shock, 3 MG-132 and 5 PR-619 replicates."
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon) connected to a Q-Exactive (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "Higher-Collisional Dissociation (HCD) fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "2-hour LC gradients",
+      "120 minute gradient from 5% to 75% acetonitrile in 0.1% formic acid"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 250 nL per minute"
+    ],
+    "Comment[Separation]": [
+      "nanoscale LC-MS/MS",
+      "online nanoflow liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "mass tolerance of 6 ppm for precursor masses"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "mass tolerance of 20 ppm was used for fragment ions"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to 3 missed tryptic cleavages were allowed."
+    ],
+    "Comment[FractionationMethod]": [
+      "without further fractionation"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "a first round of His10-SUMO-2 purification, a filter step to concentrate SUMO-2 conjugates while simultaneously separating SUMO-2 conjugates from free SUMO-2, digestion by Lys-C and a second round of purification followed by a trypsin digest"
+    ]
+  },
+  "QE_IA_QQTGG_PR619_BR5_TR1.raw": {
+    "Source Name": [
+      "HeLa_BR5"
+    ],
+    "Assay Name": [
+      "HeLa_BR5_TR1_PR619"
+    ],
+    "Raw Data File": [
+      "QE_IA_QQTGG_PR619_BR5_TR1.raw"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "BR5"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "TR1"
+    ],
+    "FactorValue[Treatment]": [
+      "treated with 20 μM PR-619 (Millipore) dissolved in DMSO for 7 hours"
+    ],
+    "Characteristics[Organism]": [
+      "human cells",
+      "We enriched SUMOylated peptides from a HeLa cell line stably expressing His10-tagged SUMO-2."
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Sequencing Grade Endoproteinase Lys-C (Promega)",
+      "Sequencing Grade Modified Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol (DTT)",
+      "β-mercaptoethanol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "chloroacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Quantification was performed over 17 biological replicates, including 6 control, 3 heat shock, 3 MG-132 and 5 PR-619 replicates."
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon) connected to a Q-Exactive (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "Higher-Collisional Dissociation (HCD) fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "2-hour LC gradients",
+      "120 minute gradient from 5% to 75% acetonitrile in 0.1% formic acid"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 250 nL per minute"
+    ],
+    "Comment[Separation]": [
+      "nanoscale LC-MS/MS",
+      "online nanoflow liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "mass tolerance of 6 ppm for precursor masses"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "mass tolerance of 20 ppm was used for fragment ions"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to 3 missed tryptic cleavages were allowed."
+    ],
+    "Comment[FractionationMethod]": [
+      "without further fractionation"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "a first round of His10-SUMO-2 purification, a filter step to concentrate SUMO-2 conjugates while simultaneously separating SUMO-2 conjugates from free SUMO-2, digestion by Lys-C and a second round of purification followed by a trypsin digest"
+    ]
+  },
+  "QE_IA_QQTGG_Control_BR3_TR1.raw": {
+    "Source Name": [
+      "HeLa_BR3"
+    ],
+    "Assay Name": [
+      "HeLa_BR3_TR1"
+    ],
+    "Raw Data File": [
+      "QE_IA_QQTGG_Control_BR3_TR1.raw"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "BR3"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "TR1"
+    ],
+    "FactorValue[Treatment]": [
+      "control condition"
+    ],
+    "Characteristics[Organism]": [
+      "human cells",
+      "We enriched SUMOylated peptides from a HeLa cell line stably expressing His10-tagged SUMO-2."
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Sequencing Grade Endoproteinase Lys-C (Promega)",
+      "Sequencing Grade Modified Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol (DTT)",
+      "β-mercaptoethanol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "chloroacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Quantification was performed over 17 biological replicates, including 6 control, 3 heat shock, 3 MG-132 and 5 PR-619 replicates."
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon) connected to a Q-Exactive (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "Higher-Collisional Dissociation (HCD) fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "2-hour LC gradients",
+      "120 minute gradient from 5% to 75% acetonitrile in 0.1% formic acid"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 250 nL per minute"
+    ],
+    "Comment[Separation]": [
+      "nanoscale LC-MS/MS",
+      "online nanoflow liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "mass tolerance of 6 ppm for precursor masses"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "mass tolerance of 20 ppm was used for fragment ions"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to 3 missed tryptic cleavages were allowed."
+    ],
+    "Comment[FractionationMethod]": [
+      "without further fractionation"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "a first round of His10-SUMO-2 purification, a filter step to concentrate SUMO-2 conjugates while simultaneously separating SUMO-2 conjugates from free SUMO-2, digestion by Lys-C and a second round of purification followed by a trypsin digest"
+    ]
+  },
+  "QE_IA_QQTGG_MG132_BR2_TR2.raw": {
+    "Source Name": [
+      "HeLa_BR2"
+    ],
+    "Assay Name": [
+      "HeLa_BR2_TR2_MG132"
+    ],
+    "Raw Data File": [
+      "QE_IA_QQTGG_MG132_BR2_TR2.raw"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "BR2"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "TR2"
+    ],
+    "FactorValue[Treatment]": [
+      "treated with 10 μM MG-132 (Sigma) dissolved in DMSO for 7 hours"
+    ],
+    "Characteristics[Organism]": [
+      "human cells",
+      "We enriched SUMOylated peptides from a HeLa cell line stably expressing His10-tagged SUMO-2."
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Sequencing Grade Endoproteinase Lys-C (Promega)",
+      "Sequencing Grade Modified Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol (DTT)",
+      "β-mercaptoethanol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "chloroacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Quantification was performed over 17 biological replicates, including 6 control, 3 heat shock, 3 MG-132 and 5 PR-619 replicates."
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon) connected to a Q-Exactive (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "Higher-Collisional Dissociation (HCD) fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "2-hour LC gradients",
+      "120 minute gradient from 5% to 75% acetonitrile in 0.1% formic acid"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 250 nL per minute"
+    ],
+    "Comment[Separation]": [
+      "nanoscale LC-MS/MS",
+      "online nanoflow liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "mass tolerance of 6 ppm for precursor masses"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "mass tolerance of 20 ppm was used for fragment ions"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to 3 missed tryptic cleavages were allowed."
+    ],
+    "Comment[FractionationMethod]": [
+      "without further fractionation"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "a first round of His10-SUMO-2 purification, a filter step to concentrate SUMO-2 conjugates while simultaneously separating SUMO-2 conjugates from free SUMO-2, digestion by Lys-C and a second round of purification followed by a trypsin digest"
+    ]
+  },
+  "QE_IA_QQTGG_Control_BR6_TR2.raw": {
+    "Source Name": [
+      "HeLa_BR6"
+    ],
+    "Assay Name": [
+      "HeLa_BR6_TR2"
+    ],
+    "Raw Data File": [
+      "QE_IA_QQTGG_Control_BR6_TR2.raw"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "BR6"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "TR2"
+    ],
+    "FactorValue[Treatment]": [
+      "control condition"
+    ],
+    "Characteristics[Organism]": [
+      "human cells",
+      "We enriched SUMOylated peptides from a HeLa cell line stably expressing His10-tagged SUMO-2."
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Sequencing Grade Endoproteinase Lys-C (Promega)",
+      "Sequencing Grade Modified Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol (DTT)",
+      "β-mercaptoethanol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "chloroacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Quantification was performed over 17 biological replicates, including 6 control, 3 heat shock, 3 MG-132 and 5 PR-619 replicates."
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon) connected to a Q-Exactive (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "Higher-Collisional Dissociation (HCD) fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "2-hour LC gradients",
+      "120 minute gradient from 5% to 75% acetonitrile in 0.1% formic acid"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 250 nL per minute"
+    ],
+    "Comment[Separation]": [
+      "nanoscale LC-MS/MS",
+      "online nanoflow liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "mass tolerance of 6 ppm for precursor masses"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "mass tolerance of 20 ppm was used for fragment ions"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to 3 missed tryptic cleavages were allowed."
+    ],
+    "Comment[FractionationMethod]": [
+      "without further fractionation"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "a first round of His10-SUMO-2 purification, a filter step to concentrate SUMO-2 conjugates while simultaneously separating SUMO-2 conjugates from free SUMO-2, digestion by Lys-C and a second round of purification followed by a trypsin digest"
+    ]
+  },
+  "QE_IA_QQTGG_Control_BR1_TR1.raw": {
+    "Source Name": [
+      "HeLa_BR1"
+    ],
+    "Assay Name": [
+      "HeLa_BR1_TR1"
+    ],
+    "Raw Data File": [
+      "QE_IA_QQTGG_Control_BR1_TR1.raw"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "BR1"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "TR1"
+    ],
+    "FactorValue[Treatment]": [
+      "control condition"
+    ],
+    "Characteristics[Organism]": [
+      "human cells",
+      "We enriched SUMOylated peptides from a HeLa cell line stably expressing His10-tagged SUMO-2."
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Sequencing Grade Endoproteinase Lys-C (Promega)",
+      "Sequencing Grade Modified Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol (DTT)",
+      "β-mercaptoethanol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "chloroacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Quantification was performed over 17 biological replicates, including 6 control, 3 heat shock, 3 MG-132 and 5 PR-619 replicates."
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon) connected to a Q-Exactive (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "Higher-Collisional Dissociation (HCD) fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "2-hour LC gradients",
+      "120 minute gradient from 5% to 75% acetonitrile in 0.1% formic acid"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 250 nL per minute"
+    ],
+    "Comment[Separation]": [
+      "nanoscale LC-MS/MS",
+      "online nanoflow liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "mass tolerance of 6 ppm for precursor masses"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "mass tolerance of 20 ppm was used for fragment ions"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to 3 missed tryptic cleavages were allowed."
+    ],
+    "Comment[FractionationMethod]": [
+      "without further fractionation"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "a first round of His10-SUMO-2 purification, a filter step to concentrate SUMO-2 conjugates while simultaneously separating SUMO-2 conjugates from free SUMO-2, digestion by Lys-C and a second round of purification followed by a trypsin digest"
+    ]
+  },
+  "QE_IA_QQTGG_HEAT_BR2_TR1.raw": {
+    "Source Name": [
+      "HeLa_BR2"
+    ],
+    "Assay Name": [
+      "HeLa_BR2_TR1_HEAT"
+    ],
+    "Raw Data File": [
+      "QE_IA_QQTGG_HEAT_BR2_TR1.raw"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "BR2"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "TR1"
+    ],
+    "FactorValue[Treatment]": [
+      "incubated at 43°C for 1 hour (heat shock)"
+    ],
+    "Characteristics[Organism]": [
+      "human cells",
+      "We enriched SUMOylated peptides from a HeLa cell line stably expressing His10-tagged SUMO-2."
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Sequencing Grade Endoproteinase Lys-C (Promega)",
+      "Sequencing Grade Modified Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol (DTT)",
+      "β-mercaptoethanol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "chloroacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Quantification was performed over 17 biological replicates, including 6 control, 3 heat shock, 3 MG-132 and 5 PR-619 replicates."
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon) connected to a Q-Exactive (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "Higher-Collisional Dissociation (HCD) fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "2-hour LC gradients",
+      "120 minute gradient from 5% to 75% acetonitrile in 0.1% formic acid"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 250 nL per minute"
+    ],
+    "Comment[Separation]": [
+      "nanoscale LC-MS/MS",
+      "online nanoflow liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "mass tolerance of 6 ppm for precursor masses"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "mass tolerance of 20 ppm was used for fragment ions"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to 3 missed tryptic cleavages were allowed."
+    ],
+    "Comment[FractionationMethod]": [
+      "without further fractionation"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "a first round of His10-SUMO-2 purification, a filter step to concentrate SUMO-2 conjugates while simultaneously separating SUMO-2 conjugates from free SUMO-2, digestion by Lys-C and a second round of purification followed by a trypsin digest"
+    ]
+  },
+  "QE_IA_QQTGG_PR619_BR3_TR2.raw": {
+    "Source Name": [
+      "HeLa_BR3"
+    ],
+    "Assay Name": [
+      "HeLa_BR3_TR2_PR619"
+    ],
+    "Raw Data File": [
+      "QE_IA_QQTGG_PR619_BR3_TR2.raw"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "BR3"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "TR2"
+    ],
+    "FactorValue[Treatment]": [
+      "treated with 20 μM PR-619 (Millipore) dissolved in DMSO for 7 hours"
+    ],
+    "Characteristics[Organism]": [
+      "human cells",
+      "We enriched SUMOylated peptides from a HeLa cell line stably expressing His10-tagged SUMO-2."
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Sequencing Grade Endoproteinase Lys-C (Promega)",
+      "Sequencing Grade Modified Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol (DTT)",
+      "β-mercaptoethanol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "chloroacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Quantification was performed over 17 biological replicates, including 6 control, 3 heat shock, 3 MG-132 and 5 PR-619 replicates."
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon) connected to a Q-Exactive (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "Higher-Collisional Dissociation (HCD) fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "2-hour LC gradients",
+      "120 minute gradient from 5% to 75% acetonitrile in 0.1% formic acid"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 250 nL per minute"
+    ],
+    "Comment[Separation]": [
+      "nanoscale LC-MS/MS",
+      "online nanoflow liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "mass tolerance of 6 ppm for precursor masses"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "mass tolerance of 20 ppm was used for fragment ions"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to 3 missed tryptic cleavages were allowed."
+    ],
+    "Comment[FractionationMethod]": [
+      "without further fractionation"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "a first round of His10-SUMO-2 purification, a filter step to concentrate SUMO-2 conjugates while simultaneously separating SUMO-2 conjugates from free SUMO-2, digestion by Lys-C and a second round of purification followed by a trypsin digest"
+    ]
+  },
+  "QE_IA_QQTGG_PR619_BR1_TR1.raw": {
+    "Source Name": [
+      "HeLa_BR1"
+    ],
+    "Assay Name": [
+      "HeLa_BR1_TR1_PR619"
+    ],
+    "Raw Data File": [
+      "QE_IA_QQTGG_PR619_BR1_TR1.raw"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "BR1"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "TR1"
+    ],
+    "FactorValue[Treatment]": [
+      "treated with 20 μM PR-619 (Millipore) dissolved in DMSO for 7 hours"
+    ],
+    "Characteristics[Organism]": [
+      "human cells",
+      "We enriched SUMOylated peptides from a HeLa cell line stably expressing His10-tagged SUMO-2."
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Sequencing Grade Endoproteinase Lys-C (Promega)",
+      "Sequencing Grade Modified Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol (DTT)",
+      "β-mercaptoethanol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "chloroacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Quantification was performed over 17 biological replicates, including 6 control, 3 heat shock, 3 MG-132 and 5 PR-619 replicates."
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon) connected to a Q-Exactive (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "Higher-Collisional Dissociation (HCD) fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "2-hour LC gradients",
+      "120 minute gradient from 5% to 75% acetonitrile in 0.1% formic acid"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 250 nL per minute"
+    ],
+    "Comment[Separation]": [
+      "nanoscale LC-MS/MS",
+      "online nanoflow liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "mass tolerance of 6 ppm for precursor masses"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "mass tolerance of 20 ppm was used for fragment ions"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to 3 missed tryptic cleavages were allowed."
+    ],
+    "Comment[FractionationMethod]": [
+      "without further fractionation"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "a first round of His10-SUMO-2 purification, a filter step to concentrate SUMO-2 conjugates while simultaneously separating SUMO-2 conjugates from free SUMO-2, digestion by Lys-C and a second round of purification followed by a trypsin digest"
+    ]
+  },
+  "QE_IA_QQTGG_PR619_BR5_TR2.raw": {
+    "Source Name": [
+      "HeLa_BR5"
+    ],
+    "Assay Name": [
+      "HeLa_BR5_TR2_PR619"
+    ],
+    "Raw Data File": [
+      "QE_IA_QQTGG_PR619_BR5_TR2.raw"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "BR5"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "TR2"
+    ],
+    "FactorValue[Treatment]": [
+      "treated with 20 μM PR-619 (Millipore) dissolved in DMSO for 7 hours"
+    ],
+    "Characteristics[Organism]": [
+      "human cells",
+      "We enriched SUMOylated peptides from a HeLa cell line stably expressing His10-tagged SUMO-2."
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Sequencing Grade Endoproteinase Lys-C (Promega)",
+      "Sequencing Grade Modified Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol (DTT)",
+      "β-mercaptoethanol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "chloroacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Quantification was performed over 17 biological replicates, including 6 control, 3 heat shock, 3 MG-132 and 5 PR-619 replicates."
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon) connected to a Q-Exactive (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "Higher-Collisional Dissociation (HCD) fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "2-hour LC gradients",
+      "120 minute gradient from 5% to 75% acetonitrile in 0.1% formic acid"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 250 nL per minute"
+    ],
+    "Comment[Separation]": [
+      "nanoscale LC-MS/MS",
+      "online nanoflow liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "mass tolerance of 6 ppm for precursor masses"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "mass tolerance of 20 ppm was used for fragment ions"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to 3 missed tryptic cleavages were allowed."
+    ],
+    "Comment[FractionationMethod]": [
+      "without further fractionation"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "a first round of His10-SUMO-2 purification, a filter step to concentrate SUMO-2 conjugates while simultaneously separating SUMO-2 conjugates from free SUMO-2, digestion by Lys-C and a second round of purification followed by a trypsin digest"
+    ]
+  },
+  "QE_IA_QQTGG_PR619_BR3_TR1.raw": {
+    "Source Name": [
+      "HeLa_BR3"
+    ],
+    "Assay Name": [
+      "HeLa_BR3_TR1_PR619"
+    ],
+    "Raw Data File": [
+      "QE_IA_QQTGG_PR619_BR3_TR1.raw"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "BR3"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "TR1"
+    ],
+    "FactorValue[Treatment]": [
+      "treated with 20 μM PR-619 (Millipore) dissolved in DMSO for 7 hours"
+    ],
+    "Characteristics[Organism]": [
+      "human cells",
+      "We enriched SUMOylated peptides from a HeLa cell line stably expressing His10-tagged SUMO-2."
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Sequencing Grade Endoproteinase Lys-C (Promega)",
+      "Sequencing Grade Modified Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol (DTT)",
+      "β-mercaptoethanol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "chloroacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Quantification was performed over 17 biological replicates, including 6 control, 3 heat shock, 3 MG-132 and 5 PR-619 replicates."
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon) connected to a Q-Exactive (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "Higher-Collisional Dissociation (HCD) fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "2-hour LC gradients",
+      "120 minute gradient from 5% to 75% acetonitrile in 0.1% formic acid"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 250 nL per minute"
+    ],
+    "Comment[Separation]": [
+      "nanoscale LC-MS/MS",
+      "online nanoflow liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "mass tolerance of 6 ppm for precursor masses"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "mass tolerance of 20 ppm was used for fragment ions"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to 3 missed tryptic cleavages were allowed."
+    ],
+    "Comment[FractionationMethod]": [
+      "without further fractionation"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "a first round of His10-SUMO-2 purification, a filter step to concentrate SUMO-2 conjugates while simultaneously separating SUMO-2 conjugates from free SUMO-2, digestion by Lys-C and a second round of purification followed by a trypsin digest"
+    ]
+  },
+  "QE_IA_QQTGG_PR619_BR1_TR2.raw": {
+    "Source Name": [
+      "HeLa_BR1"
+    ],
+    "Assay Name": [
+      "HeLa_BR1_TR2_PR619"
+    ],
+    "Raw Data File": [
+      "QE_IA_QQTGG_PR619_BR1_TR2.raw"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "BR1"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "TR2"
+    ],
+    "FactorValue[Treatment]": [
+      "treated with 20 μM PR-619 (Millipore) dissolved in DMSO for 7 hours"
+    ],
+    "Characteristics[Organism]": [
+      "human cells",
+      "We enriched SUMOylated peptides from a HeLa cell line stably expressing His10-tagged SUMO-2."
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Sequencing Grade Endoproteinase Lys-C (Promega)",
+      "Sequencing Grade Modified Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol (DTT)",
+      "β-mercaptoethanol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "chloroacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Quantification was performed over 17 biological replicates, including 6 control, 3 heat shock, 3 MG-132 and 5 PR-619 replicates."
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon) connected to a Q-Exactive (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "Higher-Collisional Dissociation (HCD) fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "2-hour LC gradients",
+      "120 minute gradient from 5% to 75% acetonitrile in 0.1% formic acid"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 250 nL per minute"
+    ],
+    "Comment[Separation]": [
+      "nanoscale LC-MS/MS",
+      "online nanoflow liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "mass tolerance of 6 ppm for precursor masses"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "mass tolerance of 20 ppm was used for fragment ions"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to 3 missed tryptic cleavages were allowed."
+    ],
+    "Comment[FractionationMethod]": [
+      "without further fractionation"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "a first round of His10-SUMO-2 purification, a filter step to concentrate SUMO-2 conjugates while simultaneously separating SUMO-2 conjugates from free SUMO-2, digestion by Lys-C and a second round of purification followed by a trypsin digest"
+    ]
+  },
+  "QE_IA_QQTGG_MG132_BR1_TR1.raw": {
+    "Source Name": [
+      "HeLa_BR1"
+    ],
+    "Assay Name": [
+      "HeLa_BR1_TR1_MG132"
+    ],
+    "Raw Data File": [
+      "QE_IA_QQTGG_MG132_BR1_TR1.raw"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "BR1"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "TR1"
+    ],
+    "FactorValue[Treatment]": [
+      "treated with 10 μM MG-132 (Sigma) dissolved in DMSO for 7 hours"
+    ],
+    "Characteristics[Organism]": [
+      "human cells",
+      "We enriched SUMOylated peptides from a HeLa cell line stably expressing His10-tagged SUMO-2."
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Sequencing Grade Endoproteinase Lys-C (Promega)",
+      "Sequencing Grade Modified Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol (DTT)",
+      "β-mercaptoethanol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "chloroacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Quantification was performed over 17 biological replicates, including 6 control, 3 heat shock, 3 MG-132 and 5 PR-619 replicates."
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon) connected to a Q-Exactive (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "Higher-Collisional Dissociation (HCD) fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "2-hour LC gradients",
+      "120 minute gradient from 5% to 75% acetonitrile in 0.1% formic acid"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 250 nL per minute"
+    ],
+    "Comment[Separation]": [
+      "nanoscale LC-MS/MS",
+      "online nanoflow liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "mass tolerance of 6 ppm for precursor masses"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "mass tolerance of 20 ppm was used for fragment ions"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to 3 missed tryptic cleavages were allowed."
+    ],
+    "Comment[FractionationMethod]": [
+      "without further fractionation"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "a first round of His10-SUMO-2 purification, a filter step to concentrate SUMO-2 conjugates while simultaneously separating SUMO-2 conjugates from free SUMO-2, digestion by Lys-C and a second round of purification followed by a trypsin digest"
+    ]
+  },
+  "QE_IA_QQTGG_HEAT_BR3_TR2.raw": {
+    "Source Name": [
+      "HeLa_BR3"
+    ],
+    "Assay Name": [
+      "HeLa_BR3_TR2_HEAT"
+    ],
+    "Raw Data File": [
+      "QE_IA_QQTGG_HEAT_BR3_TR2.raw"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "BR3"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "TR2"
+    ],
+    "FactorValue[Treatment]": [
+      "incubated at 43°C for 1 hour (heat shock)"
+    ],
+    "Characteristics[Organism]": [
+      "human cells",
+      "We enriched SUMOylated peptides from a HeLa cell line stably expressing His10-tagged SUMO-2."
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Sequencing Grade Endoproteinase Lys-C (Promega)",
+      "Sequencing Grade Modified Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol (DTT)",
+      "β-mercaptoethanol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "chloroacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Quantification was performed over 17 biological replicates, including 6 control, 3 heat shock, 3 MG-132 and 5 PR-619 replicates."
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon) connected to a Q-Exactive (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "Higher-Collisional Dissociation (HCD) fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "2-hour LC gradients",
+      "120 minute gradient from 5% to 75% acetonitrile in 0.1% formic acid"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 250 nL per minute"
+    ],
+    "Comment[Separation]": [
+      "nanoscale LC-MS/MS",
+      "online nanoflow liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "mass tolerance of 6 ppm for precursor masses"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "mass tolerance of 20 ppm was used for fragment ions"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to 3 missed tryptic cleavages were allowed."
+    ],
+    "Comment[FractionationMethod]": [
+      "without further fractionation"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "a first round of His10-SUMO-2 purification, a filter step to concentrate SUMO-2 conjugates while simultaneously separating SUMO-2 conjugates from free SUMO-2, digestion by Lys-C and a second round of purification followed by a trypsin digest"
+    ]
+  },
+  "QE_IA_QQTGG_HEAT_BR3_TR1.raw": {
+    "Source Name": [
+      "HeLa_BR3"
+    ],
+    "Assay Name": [
+      "HeLa_BR3_TR1_HEAT"
+    ],
+    "Raw Data File": [
+      "QE_IA_QQTGG_HEAT_BR3_TR1.raw"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "BR3"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "TR1"
+    ],
+    "FactorValue[Treatment]": [
+      "incubated at 43°C for 1 hour (heat shock)"
+    ],
+    "Characteristics[Organism]": [
+      "human cells",
+      "We enriched SUMOylated peptides from a HeLa cell line stably expressing His10-tagged SUMO-2."
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Sequencing Grade Endoproteinase Lys-C (Promega)",
+      "Sequencing Grade Modified Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol (DTT)",
+      "β-mercaptoethanol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "chloroacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Quantification was performed over 17 biological replicates, including 6 control, 3 heat shock, 3 MG-132 and 5 PR-619 replicates."
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon) connected to a Q-Exactive (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "Higher-Collisional Dissociation (HCD) fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "2-hour LC gradients",
+      "120 minute gradient from 5% to 75% acetonitrile in 0.1% formic acid"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 250 nL per minute"
+    ],
+    "Comment[Separation]": [
+      "nanoscale LC-MS/MS",
+      "online nanoflow liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "mass tolerance of 6 ppm for precursor masses"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "mass tolerance of 20 ppm was used for fragment ions"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to 3 missed tryptic cleavages were allowed."
+    ],
+    "Comment[FractionationMethod]": [
+      "without further fractionation"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "a first round of His10-SUMO-2 purification, a filter step to concentrate SUMO-2 conjugates while simultaneously separating SUMO-2 conjugates from free SUMO-2, digestion by Lys-C and a second round of purification followed by a trypsin digest"
+    ]
+  },
+  "QE_IA_QQTGG_PR619_BR2_TR1.raw": {
+    "Source Name": [
+      "HeLa_BR2"
+    ],
+    "Assay Name": [
+      "HeLa_BR2_TR1_PR619"
+    ],
+    "Raw Data File": [
+      "QE_IA_QQTGG_PR619_BR2_TR1.raw"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "BR2"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "TR1"
+    ],
+    "FactorValue[Treatment]": [
+      "treated with 20 μM PR-619 (Millipore) dissolved in DMSO for 7 hours"
+    ],
+    "Characteristics[Organism]": [
+      "human cells",
+      "We enriched SUMOylated peptides from a HeLa cell line stably expressing His10-tagged SUMO-2."
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Sequencing Grade Endoproteinase Lys-C (Promega)",
+      "Sequencing Grade Modified Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol (DTT)",
+      "β-mercaptoethanol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "chloroacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Quantification was performed over 17 biological replicates, including 6 control, 3 heat shock, 3 MG-132 and 5 PR-619 replicates."
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon) connected to a Q-Exactive (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "Higher-Collisional Dissociation (HCD) fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "2-hour LC gradients",
+      "120 minute gradient from 5% to 75% acetonitrile in 0.1% formic acid"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 250 nL per minute"
+    ],
+    "Comment[Separation]": [
+      "nanoscale LC-MS/MS",
+      "online nanoflow liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "mass tolerance of 6 ppm for precursor masses"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "mass tolerance of 20 ppm was used for fragment ions"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to 3 missed tryptic cleavages were allowed."
+    ],
+    "Comment[FractionationMethod]": [
+      "without further fractionation"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "a first round of His10-SUMO-2 purification, a filter step to concentrate SUMO-2 conjugates while simultaneously separating SUMO-2 conjugates from free SUMO-2, digestion by Lys-C and a second round of purification followed by a trypsin digest"
+    ]
+  },
+  "QE_IA_QQTGG_Control_BR2_TR1.raw": {
+    "Source Name": [
+      "HeLa_BR2"
+    ],
+    "Assay Name": [
+      "HeLa_BR2_TR1"
+    ],
+    "Raw Data File": [
+      "QE_IA_QQTGG_Control_BR2_TR1.raw"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "BR2"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "TR1"
+    ],
+    "FactorValue[Treatment]": [
+      "control condition"
+    ],
+    "Characteristics[Organism]": [
+      "human cells",
+      "We enriched SUMOylated peptides from a HeLa cell line stably expressing His10-tagged SUMO-2."
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Sequencing Grade Endoproteinase Lys-C (Promega)",
+      "Sequencing Grade Modified Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol (DTT)",
+      "β-mercaptoethanol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "chloroacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Quantification was performed over 17 biological replicates, including 6 control, 3 heat shock, 3 MG-132 and 5 PR-619 replicates."
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon) connected to a Q-Exactive (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "Higher-Collisional Dissociation (HCD) fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "2-hour LC gradients",
+      "120 minute gradient from 5% to 75% acetonitrile in 0.1% formic acid"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 250 nL per minute"
+    ],
+    "Comment[Separation]": [
+      "nanoscale LC-MS/MS",
+      "online nanoflow liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "mass tolerance of 6 ppm for precursor masses"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "mass tolerance of 20 ppm was used for fragment ions"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to 3 missed tryptic cleavages were allowed."
+    ],
+    "Comment[FractionationMethod]": [
+      "without further fractionation"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "a first round of His10-SUMO-2 purification, a filter step to concentrate SUMO-2 conjugates while simultaneously separating SUMO-2 conjugates from free SUMO-2, digestion by Lys-C and a second round of purification followed by a trypsin digest"
+    ]
+  },
+  "QE_IA_QQTGG_MG132_BR1_TR2.raw": {
+    "Source Name": [
+      "HeLa_BR1"
+    ],
+    "Assay Name": [
+      "HeLa_BR1_TR2_MG132"
+    ],
+    "Raw Data File": [
+      "QE_IA_QQTGG_MG132_BR1_TR2.raw"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "BR1"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "TR2"
+    ],
+    "FactorValue[Treatment]": [
+      "treated with 10 μM MG-132 (Sigma) dissolved in DMSO for 7 hours"
+    ],
+    "Characteristics[Organism]": [
+      "human cells",
+      "We enriched SUMOylated peptides from a HeLa cell line stably expressing His10-tagged SUMO-2."
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Sequencing Grade Endoproteinase Lys-C (Promega)",
+      "Sequencing Grade Modified Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol (DTT)",
+      "β-mercaptoethanol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "chloroacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Quantification was performed over 17 biological replicates, including 6 control, 3 heat shock, 3 MG-132 and 5 PR-619 replicates."
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon) connected to a Q-Exactive (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "Higher-Collisional Dissociation (HCD) fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "2-hour LC gradients",
+      "120 minute gradient from 5% to 75% acetonitrile in 0.1% formic acid"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 250 nL per minute"
+    ],
+    "Comment[Separation]": [
+      "nanoscale LC-MS/MS",
+      "online nanoflow liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "mass tolerance of 6 ppm for precursor masses"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "mass tolerance of 20 ppm was used for fragment ions"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to 3 missed tryptic cleavages were allowed."
+    ],
+    "Comment[FractionationMethod]": [
+      "without further fractionation"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "a first round of His10-SUMO-2 purification, a filter step to concentrate SUMO-2 conjugates while simultaneously separating SUMO-2 conjugates from free SUMO-2, digestion by Lys-C and a second round of purification followed by a trypsin digest"
+    ]
+  },
+  "QE_IA_QQTGG_MG132_BR3_TR1.raw": {
+    "Source Name": [
+      "HeLa_BR3"
+    ],
+    "Assay Name": [
+      "HeLa_BR3_TR1_MG132"
+    ],
+    "Raw Data File": [
+      "QE_IA_QQTGG_MG132_BR3_TR1.raw"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "BR3"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "TR1"
+    ],
+    "FactorValue[Treatment]": [
+      "treated with 10 μM MG-132 (Sigma) dissolved in DMSO for 7 hours"
+    ],
+    "Characteristics[Organism]": [
+      "human cells",
+      "We enriched SUMOylated peptides from a HeLa cell line stably expressing His10-tagged SUMO-2."
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Sequencing Grade Endoproteinase Lys-C (Promega)",
+      "Sequencing Grade Modified Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol (DTT)",
+      "β-mercaptoethanol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "chloroacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Quantification was performed over 17 biological replicates, including 6 control, 3 heat shock, 3 MG-132 and 5 PR-619 replicates."
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon) connected to a Q-Exactive (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "Higher-Collisional Dissociation (HCD) fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "2-hour LC gradients",
+      "120 minute gradient from 5% to 75% acetonitrile in 0.1% formic acid"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 250 nL per minute"
+    ],
+    "Comment[Separation]": [
+      "nanoscale LC-MS/MS",
+      "online nanoflow liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "mass tolerance of 6 ppm for precursor masses"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "mass tolerance of 20 ppm was used for fragment ions"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to 3 missed tryptic cleavages were allowed."
+    ],
+    "Comment[FractionationMethod]": [
+      "without further fractionation"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "a first round of His10-SUMO-2 purification, a filter step to concentrate SUMO-2 conjugates while simultaneously separating SUMO-2 conjugates from free SUMO-2, digestion by Lys-C and a second round of purification followed by a trypsin digest"
+    ]
+  },
+  "QE_IA_QQTGG_Control_BR3_TR2.raw": {
+    "Source Name": [
+      "HeLa_BR3"
+    ],
+    "Assay Name": [
+      "HeLa_BR3_TR2"
+    ],
+    "Raw Data File": [
+      "QE_IA_QQTGG_Control_BR3_TR2.raw"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "BR3"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "TR2"
+    ],
+    "FactorValue[Treatment]": [
+      "control condition"
+    ],
+    "Characteristics[Organism]": [
+      "human cells",
+      "We enriched SUMOylated peptides from a HeLa cell line stably expressing His10-tagged SUMO-2."
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Sequencing Grade Endoproteinase Lys-C (Promega)",
+      "Sequencing Grade Modified Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol (DTT)",
+      "β-mercaptoethanol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "chloroacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Quantification was performed over 17 biological replicates, including 6 control, 3 heat shock, 3 MG-132 and 5 PR-619 replicates."
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon) connected to a Q-Exactive (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "Higher-Collisional Dissociation (HCD) fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "2-hour LC gradients",
+      "120 minute gradient from 5% to 75% acetonitrile in 0.1% formic acid"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 250 nL per minute"
+    ],
+    "Comment[Separation]": [
+      "nanoscale LC-MS/MS",
+      "online nanoflow liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "mass tolerance of 6 ppm for precursor masses"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "mass tolerance of 20 ppm was used for fragment ions"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to 3 missed tryptic cleavages were allowed."
+    ],
+    "Comment[FractionationMethod]": [
+      "without further fractionation"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "a first round of His10-SUMO-2 purification, a filter step to concentrate SUMO-2 conjugates while simultaneously separating SUMO-2 conjugates from free SUMO-2, digestion by Lys-C and a second round of purification followed by a trypsin digest"
+    ]
+  },
+  "QE_IA_QQTGG_MG132_BR2_TR1.raw": {
+    "Source Name": [
+      "HeLa_BR2"
+    ],
+    "Assay Name": [
+      "HeLa_BR2_TR1_MG132"
+    ],
+    "Raw Data File": [
+      "QE_IA_QQTGG_MG132_BR2_TR1.raw"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "BR2"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "TR1"
+    ],
+    "FactorValue[Treatment]": [
+      "treated with 10 μM MG-132 (Sigma) dissolved in DMSO for 7 hours"
+    ],
+    "Characteristics[Organism]": [
+      "human cells",
+      "We enriched SUMOylated peptides from a HeLa cell line stably expressing His10-tagged SUMO-2."
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Sequencing Grade Endoproteinase Lys-C (Promega)",
+      "Sequencing Grade Modified Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol (DTT)",
+      "β-mercaptoethanol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "chloroacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Quantification was performed over 17 biological replicates, including 6 control, 3 heat shock, 3 MG-132 and 5 PR-619 replicates."
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon) connected to a Q-Exactive (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "Higher-Collisional Dissociation (HCD) fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "2-hour LC gradients",
+      "120 minute gradient from 5% to 75% acetonitrile in 0.1% formic acid"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 250 nL per minute"
+    ],
+    "Comment[Separation]": [
+      "nanoscale LC-MS/MS",
+      "online nanoflow liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "mass tolerance of 6 ppm for precursor masses"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "mass tolerance of 20 ppm was used for fragment ions"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to 3 missed tryptic cleavages were allowed."
+    ],
+    "Comment[FractionationMethod]": [
+      "without further fractionation"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "a first round of His10-SUMO-2 purification, a filter step to concentrate SUMO-2 conjugates while simultaneously separating SUMO-2 conjugates from free SUMO-2, digestion by Lys-C and a second round of purification followed by a trypsin digest"
+    ]
+  },
+  "QE_IA_QQTGG_HEAT_BR1_TR2.raw": {
+    "Source Name": [
+      "HeLa_BR1"
+    ],
+    "Assay Name": [
+      "HeLa_BR1_TR2_HEAT"
+    ],
+    "Raw Data File": [
+      "QE_IA_QQTGG_HEAT_BR1_TR2.raw"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "BR1"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "TR2"
+    ],
+    "FactorValue[Treatment]": [
+      "incubated at 43°C for 1 hour (heat shock)"
+    ],
+    "Characteristics[Organism]": [
+      "human cells",
+      "We enriched SUMOylated peptides from a HeLa cell line stably expressing His10-tagged SUMO-2."
+    ],
+    "Characteristics[MaterialType]": [
+      "cell line"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "Sequencing Grade Endoproteinase Lys-C (Promega)",
+      "Sequencing Grade Modified Trypsin (Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "dithiothreitol (DTT)",
+      "β-mercaptoethanol"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "chloroacetamide"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "Quantification was performed over 17 biological replicates, including 6 control, 3 heat shock, 3 MG-132 and 5 PR-619 replicates."
+    ],
+    "Comment[Instrument]": [
+      "EASY-nLC system (Proxeon) connected to a Q-Exactive (Thermo)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "Higher-Collisional Dissociation (HCD) fragmentation"
+    ],
+    "Comment[GradientTime]": [
+      "2-hour LC gradients",
+      "120 minute gradient from 5% to 75% acetonitrile in 0.1% formic acid"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "flow rate of 250 nL per minute"
+    ],
+    "Comment[Separation]": [
+      "nanoscale LC-MS/MS",
+      "online nanoflow liquid chromatography-tandem mass spectrometry"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "mass tolerance of 6 ppm for precursor masses"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "mass tolerance of 20 ppm was used for fragment ions"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Up to 3 missed tryptic cleavages were allowed."
+    ],
+    "Comment[FractionationMethod]": [
+      "without further fractionation"
+    ],
+    "Comment[EnrichmentMethod]": [
+      "a first round of His10-SUMO-2 purification, a filter step to concentrate SUMO-2 conjugates while simultaneously separating SUMO-2 conjugates from free SUMO-2, digestion by Lys-C and a second round of purification followed by a trypsin digest"
+    ]
+  }
+}

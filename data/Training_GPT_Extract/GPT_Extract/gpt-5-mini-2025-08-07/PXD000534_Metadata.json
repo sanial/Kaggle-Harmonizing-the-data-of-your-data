@@ -1,0 +1,994 @@
+{
+  "OEI00094.raw": {
+    "Source Name": [
+      "OEI00094"
+    ],
+    "Assay Name": [
+      "OEI00094_assay"
+    ],
+    "Raw Data File": [
+      "OEI00094.raw"
+    ],
+    "Characteristics[Disease]": [
+      "cholangiocellular carcinoma (CCC)"
+    ],
+    "Characteristics[Specimen]": [
+      "non-tumorous liver tissue and CCC tumor tissue"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Sample set 1, which was used for 2D-DIGE and label-free LC-MS experiments, contained non-tumorous liver tissue and CCC tissue samples from eight patients aged between 42 and 78."
+    ],
+    "Characteristics[Temperature]": [
+      "−80 °C"
+    ],
+    "Comment[Instrument]": [
+      "Ultimate 3000 RSLCnano system (Dionex, Idstein, Germany) online coupled to an LTQ Orbitrap Elite (Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "400 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "98 min"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.4 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to one missed cleavage"
+    ],
+    "Comment[Separation]": [
+      "analytical column (Acclaim® PepMap RSLC, 75 μm × 50 cm, nano Viper, C18, 2 μm, 100 Å)"
+    ],
+    "Comment[FractionationMethod]": [
+      "Samples were loaded onto a 4–20% SDS-PAGE gel (TGXTM precast gels, Bio-Rad) and run for 1 min at 300 V."
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue"
+    ]
+  },
+  "OEI00078.raw": {
+    "Source Name": [
+      "OEI00078"
+    ],
+    "Assay Name": [
+      "OEI00078_assay"
+    ],
+    "Raw Data File": [
+      "OEI00078.raw"
+    ],
+    "Characteristics[Disease]": [
+      "cholangiocellular carcinoma (CCC)"
+    ],
+    "Characteristics[Specimen]": [
+      "non-tumorous liver tissue and CCC tumor tissue"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Sample set 1, which was used for 2D-DIGE and label-free LC-MS experiments, contained non-tumorous liver tissue and CCC tissue samples from eight patients aged between 42 and 78."
+    ],
+    "Characteristics[Temperature]": [
+      "−80 °C"
+    ],
+    "Comment[Instrument]": [
+      "Ultimate 3000 RSLCnano system (Dionex, Idstein, Germany) online coupled to an LTQ Orbitrap Elite (Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "400 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "98 min"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.4 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to one missed cleavage"
+    ],
+    "Comment[Separation]": [
+      "analytical column (Acclaim® PepMap RSLC, 75 μm × 50 cm, nano Viper, C18, 2 μm, 100 Å)"
+    ],
+    "Comment[FractionationMethod]": [
+      "Samples were loaded onto a 4–20% SDS-PAGE gel (TGXTM precast gels, Bio-Rad) and run for 1 min at 300 V."
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue"
+    ]
+  },
+  "OEI00068.raw": {
+    "Source Name": [
+      "OEI00068"
+    ],
+    "Assay Name": [
+      "OEI00068_assay"
+    ],
+    "Raw Data File": [
+      "OEI00068.raw"
+    ],
+    "Characteristics[Disease]": [
+      "cholangiocellular carcinoma (CCC)"
+    ],
+    "Characteristics[Specimen]": [
+      "non-tumorous liver tissue and CCC tumor tissue"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Sample set 1, which was used for 2D-DIGE and label-free LC-MS experiments, contained non-tumorous liver tissue and CCC tissue samples from eight patients aged between 42 and 78."
+    ],
+    "Characteristics[Temperature]": [
+      "−80 °C"
+    ],
+    "Comment[Instrument]": [
+      "Ultimate 3000 RSLCnano system (Dionex, Idstein, Germany) online coupled to an LTQ Orbitrap Elite (Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "400 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "98 min"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.4 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to one missed cleavage"
+    ],
+    "Comment[Separation]": [
+      "analytical column (Acclaim® PepMap RSLC, 75 μm × 50 cm, nano Viper, C18, 2 μm, 100 Å)"
+    ],
+    "Comment[FractionationMethod]": [
+      "Samples were loaded onto a 4–20% SDS-PAGE gel (TGXTM precast gels, Bio-Rad) and run for 1 min at 300 V."
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue"
+    ]
+  },
+  "OEI00088.raw": {
+    "Source Name": [
+      "OEI00088"
+    ],
+    "Assay Name": [
+      "OEI00088_assay"
+    ],
+    "Raw Data File": [
+      "OEI00088.raw"
+    ],
+    "Characteristics[Disease]": [
+      "cholangiocellular carcinoma (CCC)"
+    ],
+    "Characteristics[Specimen]": [
+      "non-tumorous liver tissue and CCC tumor tissue"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Sample set 1, which was used for 2D-DIGE and label-free LC-MS experiments, contained non-tumorous liver tissue and CCC tissue samples from eight patients aged between 42 and 78."
+    ],
+    "Characteristics[Temperature]": [
+      "−80 °C"
+    ],
+    "Comment[Instrument]": [
+      "Ultimate 3000 RSLCnano system (Dionex, Idstein, Germany) online coupled to an LTQ Orbitrap Elite (Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "400 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "98 min"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.4 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to one missed cleavage"
+    ],
+    "Comment[Separation]": [
+      "analytical column (Acclaim® PepMap RSLC, 75 μm × 50 cm, nano Viper, C18, 2 μm, 100 Å)"
+    ],
+    "Comment[FractionationMethod]": [
+      "Samples were loaded onto a 4–20% SDS-PAGE gel (TGXTM precast gels, Bio-Rad) and run for 1 min at 300 V."
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue"
+    ]
+  },
+  "OEI00090.raw": {
+    "Source Name": [
+      "OEI00090"
+    ],
+    "Assay Name": [
+      "OEI00090_assay"
+    ],
+    "Raw Data File": [
+      "OEI00090.raw"
+    ],
+    "Characteristics[Disease]": [
+      "cholangiocellular carcinoma (CCC)"
+    ],
+    "Characteristics[Specimen]": [
+      "non-tumorous liver tissue and CCC tumor tissue"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Sample set 1, which was used for 2D-DIGE and label-free LC-MS experiments, contained non-tumorous liver tissue and CCC tissue samples from eight patients aged between 42 and 78."
+    ],
+    "Characteristics[Temperature]": [
+      "−80 °C"
+    ],
+    "Comment[Instrument]": [
+      "Ultimate 3000 RSLCnano system (Dionex, Idstein, Germany) online coupled to an LTQ Orbitrap Elite (Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "400 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "98 min"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.4 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to one missed cleavage"
+    ],
+    "Comment[Separation]": [
+      "analytical column (Acclaim® PepMap RSLC, 75 μm × 50 cm, nano Viper, C18, 2 μm, 100 Å)"
+    ],
+    "Comment[FractionationMethod]": [
+      "Samples were loaded onto a 4–20% SDS-PAGE gel (TGXTM precast gels, Bio-Rad) and run for 1 min at 300 V."
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue"
+    ]
+  },
+  "OEI00082.raw": {
+    "Source Name": [
+      "OEI00082"
+    ],
+    "Assay Name": [
+      "OEI00082_assay"
+    ],
+    "Raw Data File": [
+      "OEI00082.raw"
+    ],
+    "Characteristics[Disease]": [
+      "cholangiocellular carcinoma (CCC)"
+    ],
+    "Characteristics[Specimen]": [
+      "non-tumorous liver tissue and CCC tumor tissue"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Sample set 1, which was used for 2D-DIGE and label-free LC-MS experiments, contained non-tumorous liver tissue and CCC tissue samples from eight patients aged between 42 and 78."
+    ],
+    "Characteristics[Temperature]": [
+      "−80 °C"
+    ],
+    "Comment[Instrument]": [
+      "Ultimate 3000 RSLCnano system (Dionex, Idstein, Germany) online coupled to an LTQ Orbitrap Elite (Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "400 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "98 min"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.4 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to one missed cleavage"
+    ],
+    "Comment[Separation]": [
+      "analytical column (Acclaim® PepMap RSLC, 75 μm × 50 cm, nano Viper, C18, 2 μm, 100 Å)"
+    ],
+    "Comment[FractionationMethod]": [
+      "Samples were loaded onto a 4–20% SDS-PAGE gel (TGXTM precast gels, Bio-Rad) and run for 1 min at 300 V."
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue"
+    ]
+  },
+  "OEI00076.raw": {
+    "Source Name": [
+      "OEI00076"
+    ],
+    "Assay Name": [
+      "OEI00076_assay"
+    ],
+    "Raw Data File": [
+      "OEI00076.raw"
+    ],
+    "Characteristics[Disease]": [
+      "cholangiocellular carcinoma (CCC)"
+    ],
+    "Characteristics[Specimen]": [
+      "non-tumorous liver tissue and CCC tumor tissue"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Sample set 1, which was used for 2D-DIGE and label-free LC-MS experiments, contained non-tumorous liver tissue and CCC tissue samples from eight patients aged between 42 and 78."
+    ],
+    "Characteristics[Temperature]": [
+      "−80 °C"
+    ],
+    "Comment[Instrument]": [
+      "Ultimate 3000 RSLCnano system (Dionex, Idstein, Germany) online coupled to an LTQ Orbitrap Elite (Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "400 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "98 min"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.4 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to one missed cleavage"
+    ],
+    "Comment[Separation]": [
+      "analytical column (Acclaim® PepMap RSLC, 75 μm × 50 cm, nano Viper, C18, 2 μm, 100 Å)"
+    ],
+    "Comment[FractionationMethod]": [
+      "Samples were loaded onto a 4–20% SDS-PAGE gel (TGXTM precast gels, Bio-Rad) and run for 1 min at 300 V."
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue"
+    ]
+  },
+  "OEI00074.raw": {
+    "Source Name": [
+      "OEI00074"
+    ],
+    "Assay Name": [
+      "OEI00074_assay"
+    ],
+    "Raw Data File": [
+      "OEI00074.raw"
+    ],
+    "Characteristics[Disease]": [
+      "cholangiocellular carcinoma (CCC)"
+    ],
+    "Characteristics[Specimen]": [
+      "non-tumorous liver tissue and CCC tumor tissue"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Sample set 1, which was used for 2D-DIGE and label-free LC-MS experiments, contained non-tumorous liver tissue and CCC tissue samples from eight patients aged between 42 and 78."
+    ],
+    "Characteristics[Temperature]": [
+      "−80 °C"
+    ],
+    "Comment[Instrument]": [
+      "Ultimate 3000 RSLCnano system (Dionex, Idstein, Germany) online coupled to an LTQ Orbitrap Elite (Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "400 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "98 min"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.4 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to one missed cleavage"
+    ],
+    "Comment[Separation]": [
+      "analytical column (Acclaim® PepMap RSLC, 75 μm × 50 cm, nano Viper, C18, 2 μm, 100 Å)"
+    ],
+    "Comment[FractionationMethod]": [
+      "Samples were loaded onto a 4–20% SDS-PAGE gel (TGXTM precast gels, Bio-Rad) and run for 1 min at 300 V."
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue"
+    ]
+  },
+  "OEI00096.raw": {
+    "Source Name": [
+      "OEI00096"
+    ],
+    "Assay Name": [
+      "OEI00096_assay"
+    ],
+    "Raw Data File": [
+      "OEI00096.raw"
+    ],
+    "Characteristics[Disease]": [
+      "cholangiocellular carcinoma (CCC)"
+    ],
+    "Characteristics[Specimen]": [
+      "non-tumorous liver tissue and CCC tumor tissue"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Sample set 1, which was used for 2D-DIGE and label-free LC-MS experiments, contained non-tumorous liver tissue and CCC tissue samples from eight patients aged between 42 and 78."
+    ],
+    "Characteristics[Temperature]": [
+      "−80 °C"
+    ],
+    "Comment[Instrument]": [
+      "Ultimate 3000 RSLCnano system (Dionex, Idstein, Germany) online coupled to an LTQ Orbitrap Elite (Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "400 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "98 min"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.4 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to one missed cleavage"
+    ],
+    "Comment[Separation]": [
+      "analytical column (Acclaim® PepMap RSLC, 75 μm × 50 cm, nano Viper, C18, 2 μm, 100 Å)"
+    ],
+    "Comment[FractionationMethod]": [
+      "Samples were loaded onto a 4–20% SDS-PAGE gel (TGXTM precast gels, Bio-Rad) and run for 1 min at 300 V."
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue"
+    ]
+  },
+  "OEI00070.raw": {
+    "Source Name": [
+      "OEI00070"
+    ],
+    "Assay Name": [
+      "OEI00070_assay"
+    ],
+    "Raw Data File": [
+      "OEI00070.raw"
+    ],
+    "Characteristics[Disease]": [
+      "cholangiocellular carcinoma (CCC)"
+    ],
+    "Characteristics[Specimen]": [
+      "non-tumorous liver tissue and CCC tumor tissue"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Sample set 1, which was used for 2D-DIGE and label-free LC-MS experiments, contained non-tumorous liver tissue and CCC tissue samples from eight patients aged between 42 and 78."
+    ],
+    "Characteristics[Temperature]": [
+      "−80 °C"
+    ],
+    "Comment[Instrument]": [
+      "Ultimate 3000 RSLCnano system (Dionex, Idstein, Germany) online coupled to an LTQ Orbitrap Elite (Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "400 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "98 min"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.4 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to one missed cleavage"
+    ],
+    "Comment[Separation]": [
+      "analytical column (Acclaim® PepMap RSLC, 75 μm × 50 cm, nano Viper, C18, 2 μm, 100 Å)"
+    ],
+    "Comment[FractionationMethod]": [
+      "Samples were loaded onto a 4–20% SDS-PAGE gel (TGXTM precast gels, Bio-Rad) and run for 1 min at 300 V."
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue"
+    ]
+  },
+  "OEI00086.raw": {
+    "Source Name": [
+      "OEI00086"
+    ],
+    "Assay Name": [
+      "OEI00086_assay"
+    ],
+    "Raw Data File": [
+      "OEI00086.raw"
+    ],
+    "Characteristics[Disease]": [
+      "cholangiocellular carcinoma (CCC)"
+    ],
+    "Characteristics[Specimen]": [
+      "non-tumorous liver tissue and CCC tumor tissue"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Sample set 1, which was used for 2D-DIGE and label-free LC-MS experiments, contained non-tumorous liver tissue and CCC tissue samples from eight patients aged between 42 and 78."
+    ],
+    "Characteristics[Temperature]": [
+      "−80 °C"
+    ],
+    "Comment[Instrument]": [
+      "Ultimate 3000 RSLCnano system (Dionex, Idstein, Germany) online coupled to an LTQ Orbitrap Elite (Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "400 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "98 min"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.4 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to one missed cleavage"
+    ],
+    "Comment[Separation]": [
+      "analytical column (Acclaim® PepMap RSLC, 75 μm × 50 cm, nano Viper, C18, 2 μm, 100 Å)"
+    ],
+    "Comment[FractionationMethod]": [
+      "Samples were loaded onto a 4–20% SDS-PAGE gel (TGXTM precast gels, Bio-Rad) and run for 1 min at 300 V."
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue"
+    ]
+  },
+  "OEI00072.raw": {
+    "Source Name": [
+      "OEI00072"
+    ],
+    "Assay Name": [
+      "OEI00072_assay"
+    ],
+    "Raw Data File": [
+      "OEI00072.raw"
+    ],
+    "Characteristics[Disease]": [
+      "cholangiocellular carcinoma (CCC)"
+    ],
+    "Characteristics[Specimen]": [
+      "non-tumorous liver tissue and CCC tumor tissue"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Sample set 1, which was used for 2D-DIGE and label-free LC-MS experiments, contained non-tumorous liver tissue and CCC tissue samples from eight patients aged between 42 and 78."
+    ],
+    "Characteristics[Temperature]": [
+      "−80 °C"
+    ],
+    "Comment[Instrument]": [
+      "Ultimate 3000 RSLCnano system (Dionex, Idstein, Germany) online coupled to an LTQ Orbitrap Elite (Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "400 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "98 min"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.4 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to one missed cleavage"
+    ],
+    "Comment[Separation]": [
+      "analytical column (Acclaim® PepMap RSLC, 75 μm × 50 cm, nano Viper, C18, 2 μm, 100 Å)"
+    ],
+    "Comment[FractionationMethod]": [
+      "Samples were loaded onto a 4–20% SDS-PAGE gel (TGXTM precast gels, Bio-Rad) and run for 1 min at 300 V."
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue"
+    ]
+  },
+  "OEI00084.raw": {
+    "Source Name": [
+      "OEI00084"
+    ],
+    "Assay Name": [
+      "OEI00084_assay"
+    ],
+    "Raw Data File": [
+      "OEI00084.raw"
+    ],
+    "Characteristics[Disease]": [
+      "cholangiocellular carcinoma (CCC)"
+    ],
+    "Characteristics[Specimen]": [
+      "non-tumorous liver tissue and CCC tumor tissue"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Sample set 1, which was used for 2D-DIGE and label-free LC-MS experiments, contained non-tumorous liver tissue and CCC tissue samples from eight patients aged between 42 and 78."
+    ],
+    "Characteristics[Temperature]": [
+      "−80 °C"
+    ],
+    "Comment[Instrument]": [
+      "Ultimate 3000 RSLCnano system (Dionex, Idstein, Germany) online coupled to an LTQ Orbitrap Elite (Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "400 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "98 min"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.4 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to one missed cleavage"
+    ],
+    "Comment[Separation]": [
+      "analytical column (Acclaim® PepMap RSLC, 75 μm × 50 cm, nano Viper, C18, 2 μm, 100 Å)"
+    ],
+    "Comment[FractionationMethod]": [
+      "Samples were loaded onto a 4–20% SDS-PAGE gel (TGXTM precast gels, Bio-Rad) and run for 1 min at 300 V."
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue"
+    ]
+  },
+  "OEI00080.raw": {
+    "Source Name": [
+      "OEI00080"
+    ],
+    "Assay Name": [
+      "OEI00080_assay"
+    ],
+    "Raw Data File": [
+      "OEI00080.raw"
+    ],
+    "Characteristics[Disease]": [
+      "cholangiocellular carcinoma (CCC)"
+    ],
+    "Characteristics[Specimen]": [
+      "non-tumorous liver tissue and CCC tumor tissue"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Sample set 1, which was used for 2D-DIGE and label-free LC-MS experiments, contained non-tumorous liver tissue and CCC tissue samples from eight patients aged between 42 and 78."
+    ],
+    "Characteristics[Temperature]": [
+      "−80 °C"
+    ],
+    "Comment[Instrument]": [
+      "Ultimate 3000 RSLCnano system (Dionex, Idstein, Germany) online coupled to an LTQ Orbitrap Elite (Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "400 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "98 min"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.4 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to one missed cleavage"
+    ],
+    "Comment[Separation]": [
+      "analytical column (Acclaim® PepMap RSLC, 75 μm × 50 cm, nano Viper, C18, 2 μm, 100 Å)"
+    ],
+    "Comment[FractionationMethod]": [
+      "Samples were loaded onto a 4–20% SDS-PAGE gel (TGXTM precast gels, Bio-Rad) and run for 1 min at 300 V."
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue"
+    ]
+  },
+  "OEI00092.raw": {
+    "Source Name": [
+      "OEI00092"
+    ],
+    "Assay Name": [
+      "OEI00092_assay"
+    ],
+    "Raw Data File": [
+      "OEI00092.raw"
+    ],
+    "Characteristics[Disease]": [
+      "cholangiocellular carcinoma (CCC)"
+    ],
+    "Characteristics[Specimen]": [
+      "non-tumorous liver tissue and CCC tumor tissue"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Sample set 1, which was used for 2D-DIGE and label-free LC-MS experiments, contained non-tumorous liver tissue and CCC tissue samples from eight patients aged between 42 and 78."
+    ],
+    "Characteristics[Temperature]": [
+      "−80 °C"
+    ],
+    "Comment[Instrument]": [
+      "Ultimate 3000 RSLCnano system (Dionex, Idstein, Germany) online coupled to an LTQ Orbitrap Elite (Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "400 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "98 min"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.4 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to one missed cleavage"
+    ],
+    "Comment[Separation]": [
+      "analytical column (Acclaim® PepMap RSLC, 75 μm × 50 cm, nano Viper, C18, 2 μm, 100 Å)"
+    ],
+    "Comment[FractionationMethod]": [
+      "Samples were loaded onto a 4–20% SDS-PAGE gel (TGXTM precast gels, Bio-Rad) and run for 1 min at 300 V."
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue"
+    ]
+  },
+  "OEI00066.raw": {
+    "Source Name": [
+      "OEI00066"
+    ],
+    "Assay Name": [
+      "OEI00066_assay"
+    ],
+    "Raw Data File": [
+      "OEI00066.raw"
+    ],
+    "Characteristics[Disease]": [
+      "cholangiocellular carcinoma (CCC)"
+    ],
+    "Characteristics[Specimen]": [
+      "non-tumorous liver tissue and CCC tumor tissue"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Sample set 1, which was used for 2D-DIGE and label-free LC-MS experiments, contained non-tumorous liver tissue and CCC tissue samples from eight patients aged between 42 and 78."
+    ],
+    "Characteristics[Temperature]": [
+      "−80 °C"
+    ],
+    "Comment[Instrument]": [
+      "Ultimate 3000 RSLCnano system (Dionex, Idstein, Germany) online coupled to an LTQ Orbitrap Elite (Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent mode"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "400 nl/min"
+    ],
+    "Comment[GradientTime]": [
+      "98 min"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "linear ion trap"
+    ],
+    "Comment[FragmentationMethod]": [
+      "collision-induced dissociation"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "5 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.4 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "up to one missed cleavage"
+    ],
+    "Comment[Separation]": [
+      "analytical column (Acclaim® PepMap RSLC, 75 μm × 50 cm, nano Viper, C18, 2 μm, 100 Å)"
+    ],
+    "Comment[FractionationMethod]": [
+      "Samples were loaded onto a 4–20% SDS-PAGE gel (TGXTM precast gels, Bio-Rad) and run for 1 min at 300 V."
+    ],
+    "Characteristics[MaterialType]": [
+      "tissue"
+    ]
+  }
+}

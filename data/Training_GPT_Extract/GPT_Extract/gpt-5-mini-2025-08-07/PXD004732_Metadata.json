@@ -1,0 +1,1409 @@
+{
+  "01625b_GF4-TUM_first_pool_30_01_01-3xHCD-1h-R1.raw": {
+    "Source Name": [
+      "01625b_GF4-TUM_first_pool_30_01_01"
+    ],
+    "Assay Name": [
+      "01625b_GF4-TUM_first_pool_30_01_01_R1"
+    ],
+    "Raw Data File": [
+      "01625b_GF4-TUM_first_pool_30_01_01-3xHCD-1h-R1.raw"
+    ],
+    "Characteristics[SyntheticPeptide]": [
+      "synthetic tryptic peptides"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      ">330,000"
+    ],
+    "Characteristics[Organism]": [
+      "human proteome"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[FragmentationMethod]": [
+      "3xHCD"
+    ],
+    "Comment[GradientTime]": [
+      "1h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multimodal LC-MS/MS analysis"
+    ]
+  },
+  "01625b_GE2-TUM_first_pool_13_01_01-2xIT_2xHCD-1h-R1.raw": {
+    "Source Name": [
+      "01625b_GE2-TUM_first_pool_13_01_01"
+    ],
+    "Assay Name": [
+      "01625b_GE2-TUM_first_pool_13_01_01_R1"
+    ],
+    "Raw Data File": [
+      "01625b_GE2-TUM_first_pool_13_01_01-2xIT_2xHCD-1h-R1.raw"
+    ],
+    "Characteristics[SyntheticPeptide]": [
+      "synthetic tryptic peptides"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      ">330,000"
+    ],
+    "Characteristics[Organism]": [
+      "human proteome"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[FragmentationMethod]": [
+      "2xIT_2xHCD"
+    ],
+    "Comment[GradientTime]": [
+      "1h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multimodal LC-MS/MS analysis"
+    ]
+  },
+  "01650b_BF7-TUM_first_pool_96_01_01-3xHCD-1h-R2.raw": {
+    "Source Name": [
+      "01650b_BF7-TUM_first_pool_96_01_01"
+    ],
+    "Assay Name": [
+      "01650b_BF7-TUM_first_pool_96_01_01_R2"
+    ],
+    "Raw Data File": [
+      "01650b_BF7-TUM_first_pool_96_01_01-3xHCD-1h-R2.raw"
+    ],
+    "Characteristics[SyntheticPeptide]": [
+      "synthetic tryptic peptides"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      ">330,000"
+    ],
+    "Characteristics[Organism]": [
+      "human proteome"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R2"
+    ],
+    "Comment[FragmentationMethod]": [
+      "3xHCD"
+    ],
+    "Comment[GradientTime]": [
+      "1h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multimodal LC-MS/MS analysis"
+    ]
+  },
+  "01748a_GD1-TUM_second_pool_10_02_01-ETD-1h-R1.raw": {
+    "Source Name": [
+      "01748a_GD1-TUM_second_pool_10_02_01"
+    ],
+    "Assay Name": [
+      "01748a_GD1-TUM_second_pool_10_02_01_R1"
+    ],
+    "Raw Data File": [
+      "01748a_GD1-TUM_second_pool_10_02_01-ETD-1h-R1.raw"
+    ],
+    "Characteristics[SyntheticPeptide]": [
+      "synthetic tryptic peptides"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      ">330,000"
+    ],
+    "Characteristics[Organism]": [
+      "human proteome"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[FragmentationMethod]": [
+      "ETD"
+    ],
+    "Comment[GradientTime]": [
+      "1h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multimodal LC-MS/MS analysis"
+    ]
+  },
+  "01640c_BA4-Thermo_SRM_Pool_25_01_01-2xIT_2xHCD-1h-R2.raw": {
+    "Source Name": [
+      "01640c_BA4-Thermo_SRM_Pool_25_01_01"
+    ],
+    "Assay Name": [
+      "01640c_BA4-Thermo_SRM_Pool_25_01_01_R2"
+    ],
+    "Raw Data File": [
+      "01640c_BA4-Thermo_SRM_Pool_25_01_01-2xIT_2xHCD-1h-R2.raw"
+    ],
+    "Characteristics[SyntheticPeptide]": [
+      "synthetic tryptic peptides"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      ">330,000"
+    ],
+    "Characteristics[Organism]": [
+      "human proteome"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R2"
+    ],
+    "Comment[Instrument]": [
+      "Thermo_SRM_Pool"
+    ],
+    "Comment[FragmentationMethod]": [
+      "2xIT_2xHCD"
+    ],
+    "Comment[GradientTime]": [
+      "1h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multimodal LC-MS/MS analysis"
+    ]
+  },
+  "01709a_GB4-TUM_first_pool_125_01_01-3xHCD-1h-R1.raw": {
+    "Source Name": [
+      "01709a_GB4-TUM_first_pool_125_01_01"
+    ],
+    "Assay Name": [
+      "01709a_GB4-TUM_first_pool_125_01_01_R1"
+    ],
+    "Raw Data File": [
+      "01709a_GB4-TUM_first_pool_125_01_01-3xHCD-1h-R1.raw"
+    ],
+    "Characteristics[SyntheticPeptide]": [
+      "synthetic tryptic peptides"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      ">330,000"
+    ],
+    "Characteristics[Organism]": [
+      "human proteome"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[FragmentationMethod]": [
+      "3xHCD"
+    ],
+    "Comment[GradientTime]": [
+      "1h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multimodal LC-MS/MS analysis"
+    ]
+  },
+  "01812a_GA1-TUM_second_pool_85_01_01-2xIT_2xHCD-1h-R1.raw": {
+    "Source Name": [
+      "01812a_GA1-TUM_second_pool_85_01_01"
+    ],
+    "Assay Name": [
+      "01812a_GA1-TUM_second_pool_85_01_01_R1"
+    ],
+    "Raw Data File": [
+      "01812a_GA1-TUM_second_pool_85_01_01-2xIT_2xHCD-1h-R1.raw"
+    ],
+    "Characteristics[SyntheticPeptide]": [
+      "synthetic tryptic peptides"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      ">330,000"
+    ],
+    "Characteristics[Organism]": [
+      "human proteome"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[FragmentationMethod]": [
+      "2xIT_2xHCD"
+    ],
+    "Comment[GradientTime]": [
+      "1h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multimodal LC-MS/MS analysis"
+    ]
+  },
+  "01650b_BH3-TUM_first_pool_66_01_01-DDA-1h-R2.raw": {
+    "Source Name": [
+      "01650b_BH3-TUM_first_pool_66_01_01"
+    ],
+    "Assay Name": [
+      "01650b_BH3-TUM_first_pool_66_01_01_R2"
+    ],
+    "Raw Data File": [
+      "01650b_BH3-TUM_first_pool_66_01_01-DDA-1h-R2.raw"
+    ],
+    "Characteristics[SyntheticPeptide]": [
+      "synthetic tryptic peptides"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      ">330,000"
+    ],
+    "Characteristics[Organism]": [
+      "human proteome"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R2"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "DDA",
+      "multimodal LC-MS/MS analysis"
+    ],
+    "Comment[GradientTime]": [
+      "1h"
+    ]
+  },
+  "01625b_GC2-TUM_first_pool_11_01_01-DDA-1h-R2.raw": {
+    "Source Name": [
+      "01625b_GC2-TUM_first_pool_11_01_01"
+    ],
+    "Assay Name": [
+      "01625b_GC2-TUM_first_pool_11_01_01_R2"
+    ],
+    "Raw Data File": [
+      "01625b_GC2-TUM_first_pool_11_01_01-DDA-1h-R2.raw"
+    ],
+    "Characteristics[SyntheticPeptide]": [
+      "synthetic tryptic peptides"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      ">330,000"
+    ],
+    "Characteristics[Organism]": [
+      "human proteome"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R2"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "DDA",
+      "multimodal LC-MS/MS analysis"
+    ],
+    "Comment[GradientTime]": [
+      "1h"
+    ]
+  },
+  "01812a_GG1-TUM_second_pool_91_01_01-ETD-1h-R1.raw": {
+    "Source Name": [
+      "01812a_GG1-TUM_second_pool_91_01_01"
+    ],
+    "Assay Name": [
+      "01812a_GG1-TUM_second_pool_91_01_01_R1"
+    ],
+    "Raw Data File": [
+      "01812a_GG1-TUM_second_pool_91_01_01-ETD-1h-R1.raw"
+    ],
+    "Characteristics[SyntheticPeptide]": [
+      "synthetic tryptic peptides"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      ">330,000"
+    ],
+    "Characteristics[Organism]": [
+      "human proteome"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[FragmentationMethod]": [
+      "ETD"
+    ],
+    "Comment[GradientTime]": [
+      "1h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multimodal LC-MS/MS analysis"
+    ]
+  },
+  "01717a_BF3-TUM_second_pool_34_01_01-DDA-1h-R1.raw": {
+    "Source Name": [
+      "01717a_BF3-TUM_second_pool_34_01_01"
+    ],
+    "Assay Name": [
+      "01717a_BF3-TUM_second_pool_34_01_01_R1"
+    ],
+    "Raw Data File": [
+      "01717a_BF3-TUM_second_pool_34_01_01-DDA-1h-R1.raw"
+    ],
+    "Characteristics[SyntheticPeptide]": [
+      "synthetic tryptic peptides"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      ">330,000"
+    ],
+    "Characteristics[Organism]": [
+      "human proteome"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "DDA",
+      "multimodal LC-MS/MS analysis"
+    ],
+    "Comment[GradientTime]": [
+      "1h"
+    ]
+  },
+  "01640c_BD7-Thermo_SRM_Pool_52_01_01-2xIT_2xHCD-1h-R2.raw": {
+    "Source Name": [
+      "01640c_BD7-Thermo_SRM_Pool_52_01_01"
+    ],
+    "Assay Name": [
+      "01640c_BD7-Thermo_SRM_Pool_52_01_01_R2"
+    ],
+    "Raw Data File": [
+      "01640c_BD7-Thermo_SRM_Pool_52_01_01-2xIT_2xHCD-1h-R2.raw"
+    ],
+    "Characteristics[SyntheticPeptide]": [
+      "synthetic tryptic peptides"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      ">330,000"
+    ],
+    "Characteristics[Organism]": [
+      "human proteome"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R2"
+    ],
+    "Comment[Instrument]": [
+      "Thermo_SRM_Pool"
+    ],
+    "Comment[FragmentationMethod]": [
+      "2xIT_2xHCD"
+    ],
+    "Comment[GradientTime]": [
+      "1h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multimodal LC-MS/MS analysis"
+    ]
+  },
+  "01717a_BA3-TUM_second_pool_29_01_01-3xHCD-1h-R1.raw": {
+    "Source Name": [
+      "01717a_BA3-TUM_second_pool_29_01_01"
+    ],
+    "Assay Name": [
+      "01717a_BA3-TUM_second_pool_29_01_01_R1"
+    ],
+    "Raw Data File": [
+      "01717a_BA3-TUM_second_pool_29_01_01-3xHCD-1h-R1.raw"
+    ],
+    "Characteristics[SyntheticPeptide]": [
+      "synthetic tryptic peptides"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      ">330,000"
+    ],
+    "Characteristics[Organism]": [
+      "human proteome"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[FragmentationMethod]": [
+      "3xHCD"
+    ],
+    "Comment[GradientTime]": [
+      "1h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multimodal LC-MS/MS analysis"
+    ]
+  },
+  "01866a_GD3-TUM_second_pool_108_02_01-2xIT_2xHCD-1h-R1.raw": {
+    "Source Name": [
+      "01866a_GD3-TUM_second_pool_108_02_01"
+    ],
+    "Assay Name": [
+      "01866a_GD3-TUM_second_pool_108_02_01_R1"
+    ],
+    "Raw Data File": [
+      "01866a_GD3-TUM_second_pool_108_02_01-2xIT_2xHCD-1h-R1.raw"
+    ],
+    "Characteristics[SyntheticPeptide]": [
+      "synthetic tryptic peptides"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      ">330,000"
+    ],
+    "Characteristics[Organism]": [
+      "human proteome"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[FragmentationMethod]": [
+      "2xIT_2xHCD"
+    ],
+    "Comment[GradientTime]": [
+      "1h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multimodal LC-MS/MS analysis"
+    ]
+  },
+  "01812a_GC1-TUM_second_pool_87_01_01-2xIT_2xHCD-1h-R1.raw": {
+    "Source Name": [
+      "01812a_GC1-TUM_second_pool_87_01_01"
+    ],
+    "Assay Name": [
+      "01812a_GC1-TUM_second_pool_87_01_01_R1"
+    ],
+    "Raw Data File": [
+      "01812a_GC1-TUM_second_pool_87_01_01-2xIT_2xHCD-1h-R1.raw"
+    ],
+    "Characteristics[SyntheticPeptide]": [
+      "synthetic tryptic peptides"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      ">330,000"
+    ],
+    "Characteristics[Organism]": [
+      "human proteome"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[FragmentationMethod]": [
+      "2xIT_2xHCD"
+    ],
+    "Comment[GradientTime]": [
+      "1h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multimodal LC-MS/MS analysis"
+    ]
+  },
+  "01748a_GH2-TUM_second_pool_50_01_01-ETD-1h-R1.raw": {
+    "Source Name": [
+      "01748a_GH2-TUM_second_pool_50_01_01"
+    ],
+    "Assay Name": [
+      "01748a_GH2-TUM_second_pool_50_01_01_R1"
+    ],
+    "Raw Data File": [
+      "01748a_GH2-TUM_second_pool_50_01_01-ETD-1h-R1.raw"
+    ],
+    "Characteristics[SyntheticPeptide]": [
+      "synthetic tryptic peptides"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      ">330,000"
+    ],
+    "Characteristics[Organism]": [
+      "human proteome"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[FragmentationMethod]": [
+      "ETD"
+    ],
+    "Comment[GradientTime]": [
+      "1h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multimodal LC-MS/MS analysis"
+    ]
+  },
+  "01717a_BF3-TUM_second_pool_34_01_01-3xHCD-1h-R1.raw": {
+    "Source Name": [
+      "01717a_BF3-TUM_second_pool_34_01_01"
+    ],
+    "Assay Name": [
+      "01717a_BF3-TUM_second_pool_34_01_01_R1_3xHCD"
+    ],
+    "Raw Data File": [
+      "01717a_BF3-TUM_second_pool_34_01_01-3xHCD-1h-R1.raw"
+    ],
+    "Characteristics[SyntheticPeptide]": [
+      "synthetic tryptic peptides"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      ">330,000"
+    ],
+    "Characteristics[Organism]": [
+      "human proteome"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[FragmentationMethod]": [
+      "3xHCD"
+    ],
+    "Comment[GradientTime]": [
+      "1h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multimodal LC-MS/MS analysis"
+    ]
+  },
+  "01640c_BC12-Thermo_SRM_Pool_91_01_01-DDA-1h-R2.raw": {
+    "Source Name": [
+      "01640c_BC12-Thermo_SRM_Pool_91_01_01"
+    ],
+    "Assay Name": [
+      "01640c_BC12-Thermo_SRM_Pool_91_01_01_R2"
+    ],
+    "Raw Data File": [
+      "01640c_BC12-Thermo_SRM_Pool_91_01_01-DDA-1h-R2.raw"
+    ],
+    "Characteristics[SyntheticPeptide]": [
+      "synthetic tryptic peptides"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      ">330,000"
+    ],
+    "Characteristics[Organism]": [
+      "human proteome"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R2"
+    ],
+    "Comment[Instrument]": [
+      "Thermo_SRM_Pool"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "DDA",
+      "multimodal LC-MS/MS analysis"
+    ],
+    "Comment[GradientTime]": [
+      "1h"
+    ]
+  },
+  "01709a_GE3-TUM_first_pool_119_01_01-2xIT_2xHCD-1h-R1.raw": {
+    "Source Name": [
+      "01709a_GE3-TUM_first_pool_119_01_01"
+    ],
+    "Assay Name": [
+      "01709a_GE3-TUM_first_pool_119_01_01_R1"
+    ],
+    "Raw Data File": [
+      "01709a_GE3-TUM_first_pool_119_01_01-2xIT_2xHCD-1h-R1.raw"
+    ],
+    "Characteristics[SyntheticPeptide]": [
+      "synthetic tryptic peptides"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      ">330,000"
+    ],
+    "Characteristics[Organism]": [
+      "human proteome"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[FragmentationMethod]": [
+      "2xIT_2xHCD"
+    ],
+    "Comment[GradientTime]": [
+      "1h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multimodal LC-MS/MS analysis"
+    ]
+  },
+  "01709a_GF1-TUM_first_pool_104_01_01-DDA-1h-R1.raw": {
+    "Source Name": [
+      "01709a_GF1-TUM_first_pool_104_01_01"
+    ],
+    "Assay Name": [
+      "01709a_GF1-TUM_first_pool_104_01_01_R1"
+    ],
+    "Raw Data File": [
+      "01709a_GF1-TUM_first_pool_104_01_01-DDA-1h-R1.raw"
+    ],
+    "Characteristics[SyntheticPeptide]": [
+      "synthetic tryptic peptides"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      ">330,000"
+    ],
+    "Characteristics[Organism]": [
+      "human proteome"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "DDA",
+      "multimodal LC-MS/MS analysis"
+    ],
+    "Comment[GradientTime]": [
+      "1h"
+    ]
+  },
+  "01650b_BA3-TUM_first_pool_59_01_01-2xIT_2xHCD-1h-R2.raw": {
+    "Source Name": [
+      "01650b_BA3-TUM_first_pool_59_01_01"
+    ],
+    "Assay Name": [
+      "01650b_BA3-TUM_first_pool_59_01_01_R2"
+    ],
+    "Raw Data File": [
+      "01650b_BA3-TUM_first_pool_59_01_01-2xIT_2xHCD-1h-R2.raw"
+    ],
+    "Characteristics[SyntheticPeptide]": [
+      "synthetic tryptic peptides"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      ">330,000"
+    ],
+    "Characteristics[Organism]": [
+      "human proteome"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R2"
+    ],
+    "Comment[FragmentationMethod]": [
+      "2xIT_2xHCD"
+    ],
+    "Comment[GradientTime]": [
+      "1h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multimodal LC-MS/MS analysis"
+    ]
+  },
+  "01650b_BF2-TUM_first_pool_56_01_01-2xIT_2xHCD-1h-R2.raw": {
+    "Source Name": [
+      "01650b_BF2-TUM_first_pool_56_01_01"
+    ],
+    "Assay Name": [
+      "01650b_BF2-TUM_first_pool_56_01_01_R2"
+    ],
+    "Raw Data File": [
+      "01650b_BF2-TUM_first_pool_56_01_01-2xIT_2xHCD-1h-R2.raw"
+    ],
+    "Characteristics[SyntheticPeptide]": [
+      "synthetic tryptic peptides"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      ">330,000"
+    ],
+    "Characteristics[Organism]": [
+      "human proteome"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R2"
+    ],
+    "Comment[FragmentationMethod]": [
+      "2xIT_2xHCD"
+    ],
+    "Comment[GradientTime]": [
+      "1h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multimodal LC-MS/MS analysis"
+    ]
+  },
+  "01625b_GH5-TUM_first_pool_40_01_01-2xIT_2xHCD-1h-R1.raw": {
+    "Source Name": [
+      "01625b_GH5-TUM_first_pool_40_01_01"
+    ],
+    "Assay Name": [
+      "01625b_GH5-TUM_first_pool_40_01_01_R1"
+    ],
+    "Raw Data File": [
+      "01625b_GH5-TUM_first_pool_40_01_01-2xIT_2xHCD-1h-R1.raw"
+    ],
+    "Characteristics[SyntheticPeptide]": [
+      "synthetic tryptic peptides"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      ">330,000"
+    ],
+    "Characteristics[Organism]": [
+      "human proteome"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[FragmentationMethod]": [
+      "2xIT_2xHCD"
+    ],
+    "Comment[GradientTime]": [
+      "1h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multimodal LC-MS/MS analysis"
+    ]
+  },
+  "01952a_BD1-TUM_second_pool_126_01_01-3xHCD-1h-R1.raw": {
+    "Source Name": [
+      "01952a_BD1-TUM_second_pool_126_01_01"
+    ],
+    "Assay Name": [
+      "01952a_BD1-TUM_second_pool_126_01_01_R1"
+    ],
+    "Raw Data File": [
+      "01952a_BD1-TUM_second_pool_126_01_01-3xHCD-1h-R1.raw"
+    ],
+    "Characteristics[SyntheticPeptide]": [
+      "synthetic tryptic peptides"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      ">330,000"
+    ],
+    "Characteristics[Organism]": [
+      "human proteome"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[FragmentationMethod]": [
+      "3xHCD"
+    ],
+    "Comment[GradientTime]": [
+      "1h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multimodal LC-MS/MS analysis"
+    ]
+  },
+  "01650b_BC6-TUM_first_pool_85_01_01-ETD-1h-R2.raw": {
+    "Source Name": [
+      "01650b_BC6-TUM_first_pool_85_01_01"
+    ],
+    "Assay Name": [
+      "01650b_BC6-TUM_first_pool_85_01_01_R2"
+    ],
+    "Raw Data File": [
+      "01650b_BC6-TUM_first_pool_85_01_01-ETD-1h-R2.raw"
+    ],
+    "Characteristics[SyntheticPeptide]": [
+      "synthetic tryptic peptides"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      ">330,000"
+    ],
+    "Characteristics[Organism]": [
+      "human proteome"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R2"
+    ],
+    "Comment[FragmentationMethod]": [
+      "ETD"
+    ],
+    "Comment[GradientTime]": [
+      "1h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multimodal LC-MS/MS analysis"
+    ]
+  },
+  "01748a_BD3-TUM_second_pool_54_01_01-2xIT_2xHCD-1h-R1.raw": {
+    "Source Name": [
+      "01748a_BD3-TUM_second_pool_54_01_01"
+    ],
+    "Assay Name": [
+      "01748a_BD3-TUM_second_pool_54_01_01_R1"
+    ],
+    "Raw Data File": [
+      "01748a_BD3-TUM_second_pool_54_01_01-2xIT_2xHCD-1h-R1.raw"
+    ],
+    "Characteristics[SyntheticPeptide]": [
+      "synthetic tryptic peptides"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      ">330,000"
+    ],
+    "Characteristics[Organism]": [
+      "human proteome"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[FragmentationMethod]": [
+      "2xIT_2xHCD"
+    ],
+    "Comment[GradientTime]": [
+      "1h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multimodal LC-MS/MS analysis"
+    ]
+  },
+  "01829a_GB1-TUM_second_pool_102_01_01-DDA-1h-R1.raw": {
+    "Source Name": [
+      "01829a_GB1-TUM_second_pool_102_01_01"
+    ],
+    "Assay Name": [
+      "01829a_GB1-TUM_second_pool_102_01_01_R1"
+    ],
+    "Raw Data File": [
+      "01829a_GB1-TUM_second_pool_102_01_01-DDA-1h-R1.raw"
+    ],
+    "Characteristics[SyntheticPeptide]": [
+      "synthetic tryptic peptides"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      ">330,000"
+    ],
+    "Characteristics[Organism]": [
+      "human proteome"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "DDA",
+      "multimodal LC-MS/MS analysis"
+    ],
+    "Comment[GradientTime]": [
+      "1h"
+    ]
+  },
+  "01709a_GA2-TUM_first_pool_107_01_01-3xHCD-1h-R1.raw": {
+    "Source Name": [
+      "01709a_GA2-TUM_first_pool_107_01_01"
+    ],
+    "Assay Name": [
+      "01709a_GA2-TUM_first_pool_107_01_01_R1"
+    ],
+    "Raw Data File": [
+      "01709a_GA2-TUM_first_pool_107_01_01-3xHCD-1h-R1.raw"
+    ],
+    "Characteristics[SyntheticPeptide]": [
+      "synthetic tryptic peptides"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      ">330,000"
+    ],
+    "Characteristics[Organism]": [
+      "human proteome"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[FragmentationMethod]": [
+      "3xHCD"
+    ],
+    "Comment[GradientTime]": [
+      "1h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multimodal LC-MS/MS analysis"
+    ]
+  },
+  "01625b_GB5-TUM_first_pool_34_01_01-ETD-1h-R2.raw": {
+    "Source Name": [
+      "01625b_GB5-TUM_first_pool_34_01_01"
+    ],
+    "Assay Name": [
+      "01625b_GB5-TUM_first_pool_34_01_01_R2"
+    ],
+    "Raw Data File": [
+      "01625b_GB5-TUM_first_pool_34_01_01-ETD-1h-R2.raw"
+    ],
+    "Characteristics[SyntheticPeptide]": [
+      "synthetic tryptic peptides"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      ">330,000"
+    ],
+    "Characteristics[Organism]": [
+      "human proteome"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R2"
+    ],
+    "Comment[FragmentationMethod]": [
+      "ETD"
+    ],
+    "Comment[GradientTime]": [
+      "1h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multimodal LC-MS/MS analysis"
+    ]
+  },
+  "01790a_BE2-TUM_second_pool_79_01_01-DDA-1h-R1.raw": {
+    "Source Name": [
+      "01790a_BE2-TUM_second_pool_79_01_01"
+    ],
+    "Assay Name": [
+      "01790a_BE2-TUM_second_pool_79_01_01_R1"
+    ],
+    "Raw Data File": [
+      "01790a_BE2-TUM_second_pool_79_01_01-DDA-1h-R1.raw"
+    ],
+    "Characteristics[SyntheticPeptide]": [
+      "synthetic tryptic peptides"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      ">330,000"
+    ],
+    "Characteristics[Organism]": [
+      "human proteome"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "DDA",
+      "multimodal LC-MS/MS analysis"
+    ],
+    "Comment[GradientTime]": [
+      "1h"
+    ]
+  },
+  "01640c_BD12-Thermo_SRM_Pool_92_01_01-DDA-1h-R2.raw": {
+    "Source Name": [
+      "01640c_BD12-Thermo_SRM_Pool_92_01_01"
+    ],
+    "Assay Name": [
+      "01640c_BD12-Thermo_SRM_Pool_92_01_01_R2"
+    ],
+    "Raw Data File": [
+      "01640c_BD12-Thermo_SRM_Pool_92_01_01-DDA-1h-R2.raw"
+    ],
+    "Characteristics[SyntheticPeptide]": [
+      "synthetic tryptic peptides"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      ">330,000"
+    ],
+    "Characteristics[Organism]": [
+      "human proteome"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R2"
+    ],
+    "Comment[Instrument]": [
+      "Thermo_SRM_Pool"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "DDA",
+      "multimodal LC-MS/MS analysis"
+    ],
+    "Comment[GradientTime]": [
+      "1h"
+    ]
+  },
+  "01650b_BE3-TUM_first_pool_63_01_01-ETD-1h-R2.raw": {
+    "Source Name": [
+      "01650b_BE3-TUM_first_pool_63_01_01"
+    ],
+    "Assay Name": [
+      "01650b_BE3-TUM_first_pool_63_01_01_R2"
+    ],
+    "Raw Data File": [
+      "01650b_BE3-TUM_first_pool_63_01_01-ETD-1h-R2.raw"
+    ],
+    "Characteristics[SyntheticPeptide]": [
+      "synthetic tryptic peptides"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      ">330,000"
+    ],
+    "Characteristics[Organism]": [
+      "human proteome"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R2"
+    ],
+    "Comment[FragmentationMethod]": [
+      "ETD"
+    ],
+    "Comment[GradientTime]": [
+      "1h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multimodal LC-MS/MS analysis"
+    ]
+  },
+  "01640c_BE6-Thermo_SRM_Pool_45_01_01-3xHCD-1h-R2.raw": {
+    "Source Name": [
+      "01640c_BE6-Thermo_SRM_Pool_45_01_01"
+    ],
+    "Assay Name": [
+      "01640c_BE6-Thermo_SRM_Pool_45_01_01_R2"
+    ],
+    "Raw Data File": [
+      "01640c_BE6-Thermo_SRM_Pool_45_01_01-3xHCD-1h-R2.raw"
+    ],
+    "Characteristics[SyntheticPeptide]": [
+      "synthetic tryptic peptides"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      ">330,000"
+    ],
+    "Characteristics[Organism]": [
+      "human proteome"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R2"
+    ],
+    "Comment[Instrument]": [
+      "Thermo_SRM_Pool"
+    ],
+    "Comment[FragmentationMethod]": [
+      "3xHCD"
+    ],
+    "Comment[GradientTime]": [
+      "1h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multimodal LC-MS/MS analysis"
+    ]
+  },
+  "01640a_BH5-Thermo_SRM_Pool_40_01_01-ETD-1h-R4.raw": {
+    "Source Name": [
+      "01640a_BH5-Thermo_SRM_Pool_40_01_01"
+    ],
+    "Assay Name": [
+      "01640a_BH5-Thermo_SRM_Pool_40_01_01_R4"
+    ],
+    "Raw Data File": [
+      "01640a_BH5-Thermo_SRM_Pool_40_01_01-ETD-1h-R4.raw"
+    ],
+    "Characteristics[SyntheticPeptide]": [
+      "synthetic tryptic peptides"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      ">330,000"
+    ],
+    "Characteristics[Organism]": [
+      "human proteome"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R4"
+    ],
+    "Comment[Instrument]": [
+      "Thermo_SRM_Pool"
+    ],
+    "Comment[FragmentationMethod]": [
+      "ETD"
+    ],
+    "Comment[GradientTime]": [
+      "1h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multimodal LC-MS/MS analysis"
+    ]
+  },
+  "01640c_BF1-Thermo_SRM_Pool_6_01_01-ETD-1h-R2.raw": {
+    "Source Name": [
+      "01640c_BF1-Thermo_SRM_Pool_6_01_01"
+    ],
+    "Assay Name": [
+      "01640c_BF1-Thermo_SRM_Pool_6_01_01_R2"
+    ],
+    "Raw Data File": [
+      "01640c_BF1-Thermo_SRM_Pool_6_01_01-ETD-1h-R2.raw"
+    ],
+    "Characteristics[SyntheticPeptide]": [
+      "synthetic tryptic peptides"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      ">330,000"
+    ],
+    "Characteristics[Organism]": [
+      "human proteome"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R2"
+    ],
+    "Comment[Instrument]": [
+      "Thermo_SRM_Pool"
+    ],
+    "Comment[FragmentationMethod]": [
+      "ETD"
+    ],
+    "Comment[GradientTime]": [
+      "1h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multimodal LC-MS/MS analysis"
+    ]
+  },
+  "01640a_BD5-Thermo_SRM_Pool_36_01_01-DDA-1h-R4.raw": {
+    "Source Name": [
+      "01640a_BD5-Thermo_SRM_Pool_36_01_01"
+    ],
+    "Assay Name": [
+      "01640a_BD5-Thermo_SRM_Pool_36_01_01_R4"
+    ],
+    "Raw Data File": [
+      "01640a_BD5-Thermo_SRM_Pool_36_01_01-DDA-1h-R4.raw"
+    ],
+    "Characteristics[SyntheticPeptide]": [
+      "synthetic tryptic peptides"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      ">330,000"
+    ],
+    "Characteristics[Organism]": [
+      "human proteome"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R4"
+    ],
+    "Comment[Instrument]": [
+      "Thermo_SRM_Pool"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "DDA",
+      "multimodal LC-MS/MS analysis"
+    ],
+    "Comment[GradientTime]": [
+      "1h"
+    ]
+  },
+  "01812a_GB1-TUM_second_pool_86_01_01-2xIT_2xHCD-1h-R1.raw": {
+    "Source Name": [
+      "01812a_GB1-TUM_second_pool_86_01_01"
+    ],
+    "Assay Name": [
+      "01812a_GB1-TUM_second_pool_86_01_01_R1"
+    ],
+    "Raw Data File": [
+      "01812a_GB1-TUM_second_pool_86_01_01-2xIT_2xHCD-1h-R1.raw"
+    ],
+    "Characteristics[SyntheticPeptide]": [
+      "synthetic tryptic peptides"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      ">330,000"
+    ],
+    "Characteristics[Organism]": [
+      "human proteome"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[FragmentationMethod]": [
+      "2xIT_2xHCD"
+    ],
+    "Comment[GradientTime]": [
+      "1h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multimodal LC-MS/MS analysis"
+    ]
+  },
+  "01717a_BB3-TUM_second_pool_30_01_01-ETD-1h-R1.raw": {
+    "Source Name": [
+      "01717a_BB3-TUM_second_pool_30_01_01"
+    ],
+    "Assay Name": [
+      "01717a_BB3-TUM_second_pool_30_01_01_R1"
+    ],
+    "Raw Data File": [
+      "01717a_BB3-TUM_second_pool_30_01_01-ETD-1h-R1.raw"
+    ],
+    "Characteristics[SyntheticPeptide]": [
+      "synthetic tryptic peptides"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      ">330,000"
+    ],
+    "Characteristics[Organism]": [
+      "human proteome"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[FragmentationMethod]": [
+      "ETD"
+    ],
+    "Comment[GradientTime]": [
+      "1h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multimodal LC-MS/MS analysis"
+    ]
+  },
+  "01717a_BE4-TUM_second_pool_41_01_01-DDA-1h-R1.raw": {
+    "Source Name": [
+      "01717a_BE4-TUM_second_pool_41_01_01"
+    ],
+    "Assay Name": [
+      "01717a_BE4-TUM_second_pool_41_01_01_R1"
+    ],
+    "Raw Data File": [
+      "01717a_BE4-TUM_second_pool_41_01_01-DDA-1h-R1.raw"
+    ],
+    "Characteristics[SyntheticPeptide]": [
+      "synthetic tryptic peptides"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      ">330,000"
+    ],
+    "Characteristics[Organism]": [
+      "human proteome"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R1"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "DDA",
+      "multimodal LC-MS/MS analysis"
+    ],
+    "Comment[GradientTime]": [
+      "1h"
+    ]
+  },
+  "01640c_BH4-Thermo_SRM_Pool_32_01_01-ETD-1h-R2.raw": {
+    "Source Name": [
+      "01640c_BH4-Thermo_SRM_Pool_32_01_01"
+    ],
+    "Assay Name": [
+      "01640c_BH4-Thermo_SRM_Pool_32_01_01_R2"
+    ],
+    "Raw Data File": [
+      "01640c_BH4-Thermo_SRM_Pool_32_01_01-ETD-1h-R2.raw"
+    ],
+    "Characteristics[SyntheticPeptide]": [
+      "synthetic tryptic peptides"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      ">330,000"
+    ],
+    "Characteristics[Organism]": [
+      "human proteome"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "tryptic"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "R2"
+    ],
+    "Comment[Instrument]": [
+      "Thermo_SRM_Pool"
+    ],
+    "Comment[FragmentationMethod]": [
+      "ETD"
+    ],
+    "Comment[GradientTime]": [
+      "1h"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "multimodal LC-MS/MS analysis"
+    ]
+  }
+}

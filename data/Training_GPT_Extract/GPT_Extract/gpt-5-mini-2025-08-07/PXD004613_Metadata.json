@@ -1,0 +1,388 @@
+{
+  "E150416_08_Quty1_CS_CO_220_Ines_GSTalone_3.raw": {
+    "Source Name": [
+      "HeLa nucleosomes"
+    ],
+    "Assay Name": [
+      "E150416_08_Quty1_CS_CO_220_Ines_GSTalone_3.raw"
+    ],
+    "Raw Data File": [
+      "E150416_08_Quty1_CS_CO_220_Ines_GSTalone_3.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HeLa cells"
+    ],
+    "Characteristics[MaterialType]": [
+      "HeLa nucleosomes"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested overnight at 37\u2009\u00b0C with 12.5\u2009ng\u2009\u00b5l-1 trypsin (Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM dithiothreitol (Sigma)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55\u2009mM iodoacetamide (Sigma)"
+    ],
+    "Characteristics[Bait]": [
+      "GST-tagged C terminus Repo-Man or GST alone were used as baits to isolate HeLa nucleosomes"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "GSTalone_3"
+    ],
+    "FactorValue[Experimental]": [
+      "GST alone"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap mass spectrometer (Thermo Scientific)",
+      "Q Exactive mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "Ultimate 3000 RSLCnano Systems (Dionex, Thermo Scientific)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "allowing maximum of two missed cleavages"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "first search peptide tolerance was set to 20 p.p.m.",
+      "main search peptide tolerance was set to 4.5 pm."
+    ]
+  },
+  "E150416_06_Quty1_CS_CO_220_Ines_GSTalone_1.raw": {
+    "Source Name": [
+      "HeLa nucleosomes"
+    ],
+    "Assay Name": [
+      "E150416_06_Quty1_CS_CO_220_Ines_GSTalone_1.raw"
+    ],
+    "Raw Data File": [
+      "E150416_06_Quty1_CS_CO_220_Ines_GSTalone_1.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HeLa cells"
+    ],
+    "Characteristics[MaterialType]": [
+      "HeLa nucleosomes"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested overnight at 37\u2009\u00b0C with 12.5\u2009ng\u2009\u00b5l-1 trypsin (Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM dithiothreitol (Sigma)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55\u2009mM iodoacetamide (Sigma)"
+    ],
+    "Characteristics[Bait]": [
+      "GST-tagged C terminus Repo-Man or GST alone were used as baits to isolate HeLa nucleosomes"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "GSTalone_1"
+    ],
+    "FactorValue[Experimental]": [
+      "GST alone"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap mass spectrometer (Thermo Scientific)",
+      "Q Exactive mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "Ultimate 3000 RSLCnano Systems (Dionex, Thermo Scientific)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "allowing maximum of two missed cleavages"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "first search peptide tolerance was set to 20 p.p.m.",
+      "main search peptide tolerance was set to 4.5 pm."
+    ]
+  },
+  "E160618_07_Quty1_CS_CO_220_PV_Ines_PV1B.raw": {
+    "Source Name": [
+      "HeLa nucleosomes"
+    ],
+    "Assay Name": [
+      "E160618_07_Quty1_CS_CO_220_PV_Ines_PV1B.raw"
+    ],
+    "Raw Data File": [
+      "E160618_07_Quty1_CS_CO_220_PV_Ines_PV1B.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HeLa cells"
+    ],
+    "Characteristics[MaterialType]": [
+      "HeLa nucleosomes"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested overnight at 37\u2009\u00b0C with 12.5\u2009ng\u2009\u00b5l-1 trypsin (Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM dithiothreitol (Sigma)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55\u2009mM iodoacetamide (Sigma)"
+    ],
+    "Characteristics[Bait]": [
+      "GST-tagged C terminus Repo-Man or GST alone were used as baits to isolate HeLa nucleosomes"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "PV1B"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap mass spectrometer (Thermo Scientific)",
+      "Q Exactive mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "Ultimate 3000 RSLCnano Systems (Dionex, Thermo Scientific)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "allowing maximum of two missed cleavages"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "first search peptide tolerance was set to 20 p.p.m.",
+      "main search peptide tolerance was set to 4.5 pm."
+    ]
+  },
+  "E150416_02_Quty1_CS_CO_220_Ines_CtermGST_1.raw": {
+    "Source Name": [
+      "HeLa nucleosomes"
+    ],
+    "Assay Name": [
+      "E150416_02_Quty1_CS_CO_220_Ines_CtermGST_1.raw"
+    ],
+    "Raw Data File": [
+      "E150416_02_Quty1_CS_CO_220_Ines_CtermGST_1.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HeLa cells"
+    ],
+    "Characteristics[MaterialType]": [
+      "HeLa nucleosomes"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested overnight at 37\u2009\u00b0C with 12.5\u2009ng\u2009\u00b5l-1 trypsin (Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM dithiothreitol (Sigma)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55\u2009mM iodoacetamide (Sigma)"
+    ],
+    "Characteristics[Bait]": [
+      "GST-tagged C terminus Repo-Man or GST alone were used as baits to isolate HeLa nucleosomes"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "CtermGST_1"
+    ],
+    "FactorValue[Experimental]": [
+      "GST-tagged C terminus Repo-Man"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap mass spectrometer (Thermo Scientific)",
+      "Q Exactive mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "Ultimate 3000 RSLCnano Systems (Dionex, Thermo Scientific)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "allowing maximum of two missed cleavages"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "first search peptide tolerance was set to 20 p.p.m.",
+      "main search peptide tolerance was set to 4.5 pm."
+    ]
+  },
+  "E150416_07_Quty1_CS_CO_220_Ines_GSTalone_2.raw": {
+    "Source Name": [
+      "HeLa nucleosomes"
+    ],
+    "Assay Name": [
+      "E150416_07_Quty1_CS_CO_220_Ines_GSTalone_2.raw"
+    ],
+    "Raw Data File": [
+      "E150416_07_Quty1_CS_CO_220_Ines_GSTalone_2.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HeLa cells"
+    ],
+    "Characteristics[MaterialType]": [
+      "HeLa nucleosomes"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested overnight at 37\u2009\u00b0C with 12.5\u2009ng\u2009\u00b5l-1 trypsin (Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM dithiothreitol (Sigma)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55\u2009mM iodoacetamide (Sigma)"
+    ],
+    "Characteristics[Bait]": [
+      "GST-tagged C terminus Repo-Man or GST alone were used as baits to isolate HeLa nucleosomes"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "GSTalone_2"
+    ],
+    "FactorValue[Experimental]": [
+      "GST alone"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap mass spectrometer (Thermo Scientific)",
+      "Q Exactive mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "Ultimate 3000 RSLCnano Systems (Dionex, Thermo Scientific)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "allowing maximum of two missed cleavages"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "first search peptide tolerance was set to 20 p.p.m.",
+      "main search peptide tolerance was set to 4.5 pm."
+    ]
+  },
+  "E150416_03_Quty1_CS_CO_220_Ines_CtermGST_2.raw": {
+    "Source Name": [
+      "HeLa nucleosomes"
+    ],
+    "Assay Name": [
+      "E150416_03_Quty1_CS_CO_220_Ines_CtermGST_2.raw"
+    ],
+    "Raw Data File": [
+      "E150416_03_Quty1_CS_CO_220_Ines_CtermGST_2.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HeLa cells"
+    ],
+    "Characteristics[MaterialType]": [
+      "HeLa nucleosomes"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested overnight at 37\u2009\u00b0C with 12.5\u2009ng\u2009\u00b5l-1 trypsin (Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM dithiothreitol (Sigma)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55\u2009mM iodoacetamide (Sigma)"
+    ],
+    "Characteristics[Bait]": [
+      "GST-tagged C terminus Repo-Man or GST alone were used as baits to isolate HeLa nucleosomes"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "CtermGST_2"
+    ],
+    "FactorValue[Experimental]": [
+      "GST-tagged C terminus Repo-Man"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap mass spectrometer (Thermo Scientific)",
+      "Q Exactive mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "Ultimate 3000 RSLCnano Systems (Dionex, Thermo Scientific)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "allowing maximum of two missed cleavages"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "first search peptide tolerance was set to 20 p.p.m.",
+      "main search peptide tolerance was set to 4.5 pm."
+    ]
+  },
+  "E150416_04_Quty1_CS_CO_220_Ines_CtermGST_3.raw": {
+    "Source Name": [
+      "HeLa nucleosomes"
+    ],
+    "Assay Name": [
+      "E150416_04_Quty1_CS_CO_220_Ines_CtermGST_3.raw"
+    ],
+    "Raw Data File": [
+      "E150416_04_Quty1_CS_CO_220_Ines_CtermGST_3.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HeLa cells"
+    ],
+    "Characteristics[MaterialType]": [
+      "HeLa nucleosomes"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested overnight at 37\u2009\u00b0C with 12.5\u2009ng\u2009\u00b5l-1 trypsin (Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM dithiothreitol (Sigma)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55\u2009mM iodoacetamide (Sigma)"
+    ],
+    "Characteristics[Bait]": [
+      "GST-tagged C terminus Repo-Man or GST alone were used as baits to isolate HeLa nucleosomes"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "CtermGST_3"
+    ],
+    "FactorValue[Experimental]": [
+      "GST-tagged C terminus Repo-Man"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap mass spectrometer (Thermo Scientific)",
+      "Q Exactive mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "Ultimate 3000 RSLCnano Systems (Dionex, Thermo Scientific)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "allowing maximum of two missed cleavages"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "first search peptide tolerance was set to 20 p.p.m.",
+      "main search peptide tolerance was set to 4.5 pm."
+    ]
+  },
+  "E160618_05_Quty1_CS_CO_220_PV_Ines_PV1A.raw": {
+    "Source Name": [
+      "HeLa nucleosomes"
+    ],
+    "Assay Name": [
+      "E160618_05_Quty1_CS_CO_220_PV_Ines_PV1A.raw"
+    ],
+    "Raw Data File": [
+      "E160618_05_Quty1_CS_CO_220_PV_Ines_PV1A.raw"
+    ],
+    "Characteristics[CellLine]": [
+      "HeLa cells"
+    ],
+    "Characteristics[MaterialType]": [
+      "HeLa nucleosomes"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "digested overnight at 37\u2009\u00b0C with 12.5\u2009ng\u2009\u00b5l-1 trypsin (Pierce)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10\u2009mM dithiothreitol (Sigma)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "55\u2009mM iodoacetamide (Sigma)"
+    ],
+    "Characteristics[Bait]": [
+      "GST-tagged C terminus Repo-Man or GST alone were used as baits to isolate HeLa nucleosomes"
+    ],
+    "Characteristics[TechnicalReplicate]": [
+      "PV1A"
+    ],
+    "Comment[Instrument]": [
+      "LTQ-Orbitrap mass spectrometer (Thermo Scientific)",
+      "Q Exactive mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[Separation]": [
+      "Ultimate 3000 RSLCnano Systems (Dionex, Thermo Scientific)"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "allowing maximum of two missed cleavages"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "first search peptide tolerance was set to 20 p.p.m.",
+      "main search peptide tolerance was set to 4.5 pm."
+    ]
+  }
+}

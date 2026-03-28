@@ -1,0 +1,39 @@
+Organism: Plasmodium falciparum  
+DevelopmentalStage: erythrocytic stages  
+AssayName: comparative phosphoproteomics  
+ReductionReagent: DTT  
+AlkylationReagent: iodoacetamide  
+Compound: Shld-1  
+Compound: WR99210  
+Compound: IBMX  
+Compound: BAPTA-AM  
+Compound: 8Br-cAMP  
+Compound: PKI  
+Compound: Neuraminidase  
+Compound: chymotrypsin  
+ConcentrationOfCompound: 0.25 μM Shld-1  
+ConcentrationOfCompound: 2.5 nM WR99210  
+ConcentrationOfCompound: 10 nM WR99210  
+ConcentrationOfCompound: 250 μM IBMX  
+ConcentrationOfCompound: 40 μM BAPTA-AM  
+ConcentrationOfCompound: 100 µM 8Br-cAMP  
+ConcentrationOfCompound: 20 μM PKI  
+ConcentrationOfCompound: 66 mU ml−1 Neuraminidase  
+ConcentrationOfCompound: 1 mg ml−1 chymotrypsin  
+SourceName: O+ erythrocytes  
+Strain: D10  
+Strain: 3D7 (MR4)  
+Temperature: 37 °C  
+Instrument: Orbitrap Fusion Tribrid mass spectrometer  
+Instrument: Proxeon Easy-nLC 1000 system  
+Separation: reverse-phase liquid chromatography  
+GradientTime: 60 min  
+GradientTime: 120 min  
+FractionationMethod: bRPLC  
+EnrichmentMethod: TiO2 based enrichment  
+CleavageAgent: Trypsin  
+Label: iTRAQ  
+AssayName: LC-MS/MS  
+PrecursorMassTolerance: 20 ppm  
+FragmentMassTolerance: 0.1 Da  
+CollisionEnergy: 35% normalized collision energy

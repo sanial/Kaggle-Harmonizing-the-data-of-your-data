@@ -1,0 +1,17 @@
+AssayName: data dependent acquisition (DDA) label-free quantification  
+AssayName: spectral counting  
+AssayName: MS1 peak ion intensity  
+AssayName: nanoLC–MS/MS  
+MaterialType: mzDB format  
+MaterialType: Thermo Raw files  
+MaterialType: AB Sciex Wiff files  
+MaterialType: Bruker Baf files  
+MaterialType: mzML files  
+CleavageAgent: Trypsin  
+SpikedCompound: UPS1 equimolar mix  
+ConcentrationOfCompound: 0.01–0.05–0.1–0.250–0.5–1–5–10–25–50 fmol  
+OrganismPart: yeast lysate  
+Instrument: Q-Exactive Plus mass spectrometer  
+Separation: nanoRS UHPLC system  
+NumberOfTechnicalReplicates: quadruplicate  
+NumberOfSamples: 40 raw MS files

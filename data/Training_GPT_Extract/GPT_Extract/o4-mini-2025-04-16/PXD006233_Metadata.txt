@@ -1,0 +1,50 @@
+AssayName: ultracentrifugation-electrostatic repulsion hydrophilic interaction chromatography (UC-ERLIC)-coupled mass spectrometry technology  
+EnrichmentMethod: ultracentrifugation-electrostatic repulsion hydrophilic interaction chromatography (UC-ERLIC)  
+FractionIdentifier: soluble and particulate postmortem brain fractions  
+Organism: human  
+OrganismPart: middle temporal lobe, BA21 region  
+SourceName: AD + CVD and healthy age-matched control (Ctrl) autopsied human brain tissues (middle temporal lobe, BA21 region)  
+NumberOfBiologicalReplicates: Three  
+ReductionReagent: dithiothreitol (DTT)  
+AlkylationReagent: iodoacetamide  
+CleavageAgent: sequencing-grade-modified trypsin  
+Instrument: bullet blender homogenizer (Next Advance, NY, USA)  
+Temperature: −150 °C  
+Temperature: 4 °C  
+Temperature: 60 °C  
+Temperature: 30 °C  
+Temperature: 35 °C  
+Time: 60 min  
+Time: 30 min  
+Time: 45 min  
+Time: overnight  
+Compound: sodium deoxycholate (SDC)  
+ConcentrationOfCompound: 0.5% (w/v)  
+Compound: ammonium acetate (AA)  
+ConcentrationOfCompound: 100 mM  
+Compound: N-lauroylsarcosine  
+ConcentrationOfCompound: 1% (w/v)  
+Compound: Tris-HCl  
+ConcentrationOfCompound: 30 mM  
+Compound: NaCl  
+ConcentrationOfCompound: 150 mM  
+Compound: protease inhibitor cocktail  
+AssayName: In-solution tryptic digestion of human brain proteins  
+AssayName: In-gel digestion of human brain proteins  
+MaterialType: C-18 Sep-pack 1 g cartridge (Waters, Milford, MA, USA)  
+Instrument: Shimadzu Prominence UFLC system (Kyoto, Japan)  
+MaterialType: PolyWAX column (4.6 × 200 mm, 3 μm, PolyLC, Columbia, MD, USA)  
+FlowRateChromatogram: 1 mL/min  
+GradientTime: 72 min  
+AssayName: Liquid chromatography mass spectrometry analysis  
+Instrument: Orbitrap Elite mass spectrometer  
+Instrument: Dionex UltiMate 3000 UHPLC system  
+MaterialType: reverse phase Acclaim PepMap RSL column (75 μm ID × 15 cm, 2-μm particle size, Thermo Fisher Scientific Inc.)  
+FlowRateChromatogram: 0.3 μL/min  
+GradientTime: 60 min  
+CollisionEnergy: 32% normalized collision energy  
+FragmentationMethod: high-energy collisional dissociation (HCD)  
+PrecursorMassTolerance: 10 ppm  
+FragmentMassTolerance: 0.05 Da  
+Modification: carbamidomethylation of cysteine residues  
+Staining: coomassie brilliant blue  

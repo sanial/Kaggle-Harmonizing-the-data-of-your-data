@@ -1,0 +1,37 @@
+AssayName: automated phosphopeptide enrichment protocol  
+EnrichmentMethod: Fe(III)-NTA-IMAC-based enrichment workflow  
+Instrument: Bioruptor plus, model UCD-300  
+MaterialType: sectioned, fresh-frozen tissues from human MM lymph node metastases tissues  
+Compound: 4 M urea  
+Compound: 100 mM ammonium bicarbonate  
+ReductionReagent: 10 mM DTT  
+AlkylationReagent: 20 mM iodoacetamide  
+CleavageAgent: Lys-C  
+CleavageAgent: trypsin  
+MaterialType: C18 cartridges  
+EnrichmentMethod: Automated Fe(III)-IMAC-based workflow  
+MaterialType: Fe(III)-NTA cartridges  
+FractionationMethod: Reversed-phase high pH (HpH) fractionation  
+MaterialType: RPS cartridges  
+Instrument: Q Exactive mass spectrometer  
+Instrument: Q Exactive HF-X mass spectrometer  
+AcquisitionMethod: data-dependent analysis (DDA) selection of the 10 most intense ions for fragmentation  
+AcquisitionMethod: DDA selection of the 15 most intense ions for fragmentation  
+FragmentationMethod: HCD  
+MS2MassAnalyzer: Orbitrap analyzer  
+PrecursorMassTolerance: 10 ppm  
+FragmentMassTolerance: 0.02 Da  
+CollisionEnergy: NCE of 25  
+FlowRateChromatogram: 10 μL/min  
+FlowRateChromatogram: 5 μL/min  
+FlowRateChromatogram: 300 μL/min  
+FlowRateChromatogram: 3.5 μL/min  
+Temperature: 4°C  
+Temperature: room temperature (RT)  
+Time: 40 cycles  
+Time: 15 s  
+Time: 10 min  
+Time: 1 h  
+Time: 30 min  
+Time: overnight  
+NumberOfMissedCleavages: two missed cleavage sites

@@ -1,0 +1,2762 @@
+{
+  "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_Global_TMT_fr2_MS2.raw": {
+    "Source Name": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL"
+    ],
+    "Assay Name": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_fr2"
+    ],
+    "Raw Data File": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_Global_TMT_fr2_MS2.raw"
+    ],
+    "Characteristics[Label]": [
+      "Isobaric labeling was performed using 10plex tandem mass tag (TMT) reagents (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50; Trypsin Gold, Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CellType]": [
+      "immortalized B cells"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer equipped with EASY-Spray\u2122 source (all Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collision dissociation (HCD)"
+    ],
+    "Comment[GradientTime]": [
+      "a linear gradient over for 2\u2009h from 2 to 35% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "230\u2009nl/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01\u2009Da"
+    ],
+    "Comment[NumberOfFractions]": [
+      "pooled to a total number of 12 fractions using a concatenation strategy covering the whole gradient."
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr2"
+    ]
+  },
+  "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_Global_TMT_fr6_MS2.raw": {
+    "Source Name": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL"
+    ],
+    "Assay Name": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_fr6"
+    ],
+    "Raw Data File": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_Global_TMT_fr6_MS2.raw"
+    ],
+    "Characteristics[Label]": [
+      "Isobaric labeling was performed using 10plex tandem mass tag (TMT) reagents (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50; Trypsin Gold, Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CellType]": [
+      "immortalized B cells"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer equipped with EASY-Spray\u2122 source (all Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collision dissociation (HCD)"
+    ],
+    "Comment[GradientTime]": [
+      "a linear gradient over for 2\u2009h from 2 to 35% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "230\u2009nl/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01\u2009Da"
+    ],
+    "Comment[NumberOfFractions]": [
+      "pooled to a total number of 12 fractions using a concatenation strategy covering the whole gradient."
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr6"
+    ]
+  },
+  "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_TiO2_TMT_fr8.raw": {
+    "Source Name": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL"
+    ],
+    "Assay Name": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_fr8"
+    ],
+    "Raw Data File": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_TiO2_TMT_fr8.raw"
+    ],
+    "Characteristics[Label]": [
+      "Isobaric labeling was performed using 10plex tandem mass tag (TMT) reagents (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50; Trypsin Gold, Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CellType]": [
+      "immortalized B cells"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer equipped with EASY-Spray\u2122 source (all Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collision dissociation (HCD)"
+    ],
+    "Comment[GradientTime]": [
+      "a linear gradient over for 2\u2009h from 2 to 35% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "230\u2009nl/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01\u2009Da"
+    ],
+    "Comment[NumberOfFractions]": [
+      "pooled to a total number of 12 fractions using a concatenation strategy covering the whole gradient."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Phosphopeptide enrichment was performed using a modified TiO2 batch protocol."
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr8"
+    ]
+  },
+  "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_shotgun_TMT1_global_Fr10.raw": {
+    "Source Name": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL"
+    ],
+    "Assay Name": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_Fr10"
+    ],
+    "Raw Data File": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_shotgun_TMT1_global_Fr10.raw"
+    ],
+    "Characteristics[Label]": [
+      "Isobaric labeling was performed using 10plex tandem mass tag (TMT) reagents (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50; Trypsin Gold, Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CellType]": [
+      "immortalized B cells"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer equipped with EASY-Spray\u2122 source (all Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collision dissociation (HCD)"
+    ],
+    "Comment[GradientTime]": [
+      "a linear gradient over for 2\u2009h from 2 to 35% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "230\u2009nl/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01\u2009Da"
+    ],
+    "Comment[NumberOfFractions]": [
+      "pooled to a total number of 12 fractions using a concatenation strategy covering the whole gradient."
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fr10"
+    ]
+  },
+  "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_TiO2_TMT_fr11.raw": {
+    "Source Name": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL"
+    ],
+    "Assay Name": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_fr11"
+    ],
+    "Raw Data File": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_TiO2_TMT_fr11.raw"
+    ],
+    "Characteristics[Label]": [
+      "Isobaric labeling was performed using 10plex tandem mass tag (TMT) reagents (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50; Trypsin Gold, Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CellType]": [
+      "immortalized B cells"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer equipped with EASY-Spray\u2122 source (all Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collision dissociation (HCD)"
+    ],
+    "Comment[GradientTime]": [
+      "a linear gradient over for 2\u2009h from 2 to 35% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "230\u2009nl/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01\u2009Da"
+    ],
+    "Comment[NumberOfFractions]": [
+      "pooled to a total number of 12 fractions using a concatenation strategy covering the whole gradient."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Phosphopeptide enrichment was performed using a modified TiO2 batch protocol."
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr11"
+    ]
+  },
+  "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_Global_TMT_fr9_MS2.raw": {
+    "Source Name": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL"
+    ],
+    "Assay Name": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_fr9"
+    ],
+    "Raw Data File": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_Global_TMT_fr9_MS2.raw"
+    ],
+    "Characteristics[Label]": [
+      "Isobaric labeling was performed using 10plex tandem mass tag (TMT) reagents (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50; Trypsin Gold, Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CellType]": [
+      "immortalized B cells"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer equipped with EASY-Spray\u2122 source (all Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collision dissociation (HCD)"
+    ],
+    "Comment[GradientTime]": [
+      "a linear gradient over for 2\u2009h from 2 to 35% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "230\u2009nl/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01\u2009Da"
+    ],
+    "Comment[NumberOfFractions]": [
+      "pooled to a total number of 12 fractions using a concatenation strategy covering the whole gradient."
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr9"
+    ]
+  },
+  "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_shotgun_TMT1_TiO2_Fr9.raw": {
+    "Source Name": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL"
+    ],
+    "Assay Name": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_Fr9"
+    ],
+    "Raw Data File": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_shotgun_TMT1_TiO2_Fr9.raw"
+    ],
+    "Characteristics[Label]": [
+      "Isobaric labeling was performed using 10plex tandem mass tag (TMT) reagents (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50; Trypsin Gold, Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CellType]": [
+      "immortalized B cells"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer equipped with EASY-Spray\u2122 source (all Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collision dissociation (HCD)"
+    ],
+    "Comment[GradientTime]": [
+      "a linear gradient over for 2\u2009h from 2 to 35% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "230\u2009nl/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01\u2009Da"
+    ],
+    "Comment[NumberOfFractions]": [
+      "pooled to a total number of 12 fractions using a concatenation strategy covering the whole gradient."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Phosphopeptide enrichment was performed using a modified TiO2 batch protocol."
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fr9"
+    ]
+  },
+  "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_Global_TMT_fr1_MS2.raw": {
+    "Source Name": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL"
+    ],
+    "Assay Name": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_fr1"
+    ],
+    "Raw Data File": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_Global_TMT_fr1_MS2.raw"
+    ],
+    "Characteristics[Label]": [
+      "Isobaric labeling was performed using 10plex tandem mass tag (TMT) reagents (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50; Trypsin Gold, Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CellType]": [
+      "immortalized B cells"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer equipped with EASY-Spray\u2122 source (all Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collision dissociation (HCD)"
+    ],
+    "Comment[GradientTime]": [
+      "a linear gradient over for 2\u2009h from 2 to 35% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "230\u2009nl/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01\u2009Da"
+    ],
+    "Comment[NumberOfFractions]": [
+      "pooled to a total number of 12 fractions using a concatenation strategy covering the whole gradient."
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr1"
+    ]
+  },
+  "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_shotgun_TMT1_global_Fr2.raw": {
+    "Source Name": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL"
+    ],
+    "Assay Name": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_Fr2"
+    ],
+    "Raw Data File": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_shotgun_TMT1_global_Fr2.raw"
+    ],
+    "Characteristics[Label]": [
+      "Isobaric labeling was performed using 10plex tandem mass tag (TMT) reagents (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50; Trypsin Gold, Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CellType]": [
+      "immortalized B cells"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer equipped with EASY-Spray\u2122 source (all Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collision dissociation (HCD)"
+    ],
+    "Comment[GradientTime]": [
+      "a linear gradient over for 2\u2009h from 2 to 35% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "230\u2009nl/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01\u2009Da"
+    ],
+    "Comment[NumberOfFractions]": [
+      "pooled to a total number of 12 fractions using a concatenation strategy covering the whole gradient."
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fr2"
+    ]
+  },
+  "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_Global_TMT_fr10_MS2.raw": {
+    "Source Name": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL"
+    ],
+    "Assay Name": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_fr10"
+    ],
+    "Raw Data File": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_Global_TMT_fr10_MS2.raw"
+    ],
+    "Characteristics[Label]": [
+      "Isobaric labeling was performed using 10plex tandem mass tag (TMT) reagents (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50; Trypsin Gold, Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CellType]": [
+      "immortalized B cells"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer equipped with EASY-Spray\u2122 source (all Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collision dissociation (HCD)"
+    ],
+    "Comment[GradientTime]": [
+      "a linear gradient over for 2\u2009h from 2 to 35% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "230\u2009nl/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01\u2009Da"
+    ],
+    "Comment[NumberOfFractions]": [
+      "pooled to a total number of 12 fractions using a concatenation strategy covering the whole gradient."
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr10"
+    ]
+  },
+  "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_Global_TMT_fr11_MS2.raw": {
+    "Source Name": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL"
+    ],
+    "Assay Name": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_fr11"
+    ],
+    "Raw Data File": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_Global_TMT_fr11_MS2.raw"
+    ],
+    "Characteristics[Label]": [
+      "Isobaric labeling was performed using 10plex tandem mass tag (TMT) reagents (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50; Trypsin Gold, Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CellType]": [
+      "immortalized B cells"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer equipped with EASY-Spray\u2122 source (all Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collision dissociation (HCD)"
+    ],
+    "Comment[GradientTime]": [
+      "a linear gradient over for 2\u2009h from 2 to 35% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "230\u2009nl/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01\u2009Da"
+    ],
+    "Comment[NumberOfFractions]": [
+      "pooled to a total number of 12 fractions using a concatenation strategy covering the whole gradient."
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr11"
+    ]
+  },
+  "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_shotgun_TMT1_TiO2_Fr7.raw": {
+    "Source Name": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL"
+    ],
+    "Assay Name": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_Fr7"
+    ],
+    "Raw Data File": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_shotgun_TMT1_TiO2_Fr7.raw"
+    ],
+    "Characteristics[Label]": [
+      "Isobaric labeling was performed using 10plex tandem mass tag (TMT) reagents (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50; Trypsin Gold, Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CellType]": [
+      "immortalized B cells"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer equipped with EASY-Spray\u2122 source (all Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collision dissociation (HCD)"
+    ],
+    "Comment[GradientTime]": [
+      "a linear gradient over for 2\u2009h from 2 to 35% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "230\u2009nl/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01\u2009Da"
+    ],
+    "Comment[NumberOfFractions]": [
+      "pooled to a total number of 12 fractions using a concatenation strategy covering the whole gradient."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Phosphopeptide enrichment was performed using a modified TiO2 batch protocol."
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fr7"
+    ]
+  },
+  "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_shotgun_TMT1_TiO2_Fr12.raw": {
+    "Source Name": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL"
+    ],
+    "Assay Name": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_Fr12"
+    ],
+    "Raw Data File": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_shotgun_TMT1_TiO2_Fr12.raw"
+    ],
+    "Characteristics[Label]": [
+      "Isobaric labeling was performed using 10plex tandem mass tag (TMT) reagents (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50; Trypsin Gold, Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CellType]": [
+      "immortalized B cells"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer equipped with EASY-Spray\u2122 source (all Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collision dissociation (HCD)"
+    ],
+    "Comment[GradientTime]": [
+      "a linear gradient over for 2\u2009h from 2 to 35% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "230\u2009nl/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01\u2009Da"
+    ],
+    "Comment[NumberOfFractions]": [
+      "pooled to a total number of 12 fractions using a concatenation strategy covering the whole gradient."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Phosphopeptide enrichment was performed using a modified TiO2 batch protocol."
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fr12"
+    ]
+  },
+  "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_shotgun_TMT1_global_Fr8.raw": {
+    "Source Name": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL"
+    ],
+    "Assay Name": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_Fr8"
+    ],
+    "Raw Data File": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_shotgun_TMT1_global_Fr8.raw"
+    ],
+    "Characteristics[Label]": [
+      "Isobaric labeling was performed using 10plex tandem mass tag (TMT) reagents (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50; Trypsin Gold, Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CellType]": [
+      "immortalized B cells"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer equipped with EASY-Spray\u2122 source (all Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collision dissociation (HCD)"
+    ],
+    "Comment[GradientTime]": [
+      "a linear gradient over for 2\u2009h from 2 to 35% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "230\u2009nl/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01\u2009Da"
+    ],
+    "Comment[NumberOfFractions]": [
+      "pooled to a total number of 12 fractions using a concatenation strategy covering the whole gradient."
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fr8"
+    ]
+  },
+  "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_TiO2_TMT_fr9.raw": {
+    "Source Name": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL"
+    ],
+    "Assay Name": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_fr9"
+    ],
+    "Raw Data File": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_TiO2_TMT_fr9.raw"
+    ],
+    "Characteristics[Label]": [
+      "Isobaric labeling was performed using 10plex tandem mass tag (TMT) reagents (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50; Trypsin Gold, Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CellType]": [
+      "immortalized B cells"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer equipped with EASY-Spray\u2122 source (all Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collision dissociation (HCD)"
+    ],
+    "Comment[GradientTime]": [
+      "a linear gradient over for 2\u2009h from 2 to 35% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "230\u2009nl/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01\u2009Da"
+    ],
+    "Comment[NumberOfFractions]": [
+      "pooled to a total number of 12 fractions using a concatenation strategy covering the whole gradient."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Phosphopeptide enrichment was performed using a modified TiO2 batch protocol."
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr9"
+    ]
+  },
+  "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_shotgun_TMT1_global_Fr1.raw": {
+    "Source Name": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL"
+    ],
+    "Assay Name": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_Fr1"
+    ],
+    "Raw Data File": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_shotgun_TMT1_global_Fr1.raw"
+    ],
+    "Characteristics[Label]": [
+      "Isobaric labeling was performed using 10plex tandem mass tag (TMT) reagents (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50; Trypsin Gold, Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CellType]": [
+      "immortalized B cells"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer equipped with EASY-Spray\u2122 source (all Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collision dissociation (HCD)"
+    ],
+    "Comment[GradientTime]": [
+      "a linear gradient over for 2\u2009h from 2 to 35% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "230\u2009nl/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01\u2009Da"
+    ],
+    "Comment[NumberOfFractions]": [
+      "pooled to a total number of 12 fractions using a concatenation strategy covering the whole gradient."
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fr1"
+    ]
+  },
+  "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_shotgun_TMT1_TiO2_Fr2.raw": {
+    "Source Name": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL"
+    ],
+    "Assay Name": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_Fr2"
+    ],
+    "Raw Data File": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_shotgun_TMT1_TiO2_Fr2.raw"
+    ],
+    "Characteristics[Label]": [
+      "Isobaric labeling was performed using 10plex tandem mass tag (TMT) reagents (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50; Trypsin Gold, Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CellType]": [
+      "immortalized B cells"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer equipped with EASY-Spray\u2122 source (all Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collision dissociation (HCD)"
+    ],
+    "Comment[GradientTime]": [
+      "a linear gradient over for 2\u2009h from 2 to 35% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "230\u2009nl/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01\u2009Da"
+    ],
+    "Comment[NumberOfFractions]": [
+      "pooled to a total number of 12 fractions using a concatenation strategy covering the whole gradient."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Phosphopeptide enrichment was performed using a modified TiO2 batch protocol."
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fr2"
+    ]
+  },
+  "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_shotgun_TMT1_global_Fr7.raw": {
+    "Source Name": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL"
+    ],
+    "Assay Name": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_Fr7"
+    ],
+    "Raw Data File": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_shotgun_TMT1_global_Fr7.raw"
+    ],
+    "Characteristics[Label]": [
+      "Isobaric labeling was performed using 10plex tandem mass tag (TMT) reagents (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50; Trypsin Gold, Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CellType]": [
+      "immortalized B cells"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer equipped with EASY-Spray\u2122 source (all Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collision dissociation (HCD)"
+    ],
+    "Comment[GradientTime]": [
+      "a linear gradient over for 2\u2009h from 2 to 35% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "230\u2009nl/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01\u2009Da"
+    ],
+    "Comment[NumberOfFractions]": [
+      "pooled to a total number of 12 fractions using a concatenation strategy covering the whole gradient."
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fr7"
+    ]
+  },
+  "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_shotgun_TMT1_global_Fr9.raw": {
+    "Source Name": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL"
+    ],
+    "Assay Name": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_Fr9"
+    ],
+    "Raw Data File": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_shotgun_TMT1_global_Fr9.raw"
+    ],
+    "Characteristics[Label]": [
+      "Isobaric labeling was performed using 10plex tandem mass tag (TMT) reagents (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50; Trypsin Gold, Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CellType]": [
+      "immortalized B cells"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer equipped with EASY-Spray\u2122 source (all Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collision dissociation (HCD)"
+    ],
+    "Comment[GradientTime]": [
+      "a linear gradient over for 2\u2009h from 2 to 35% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "230\u2009nl/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01\u2009Da"
+    ],
+    "Comment[NumberOfFractions]": [
+      "pooled to a total number of 12 fractions using a concatenation strategy covering the whole gradient."
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fr9"
+    ]
+  },
+  "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_Global_TMT_fr5_MS2.raw": {
+    "Source Name": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL"
+    ],
+    "Assay Name": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_fr5"
+    ],
+    "Raw Data File": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_Global_TMT_fr5_MS2.raw"
+    ],
+    "Characteristics[Label]": [
+      "Isobaric labeling was performed using 10plex tandem mass tag (TMT) reagents (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50; Trypsin Gold, Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CellType]": [
+      "immortalized B cells"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer equipped with EASY-Spray\u2122 source (all Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collision dissociation (HCD)"
+    ],
+    "Comment[GradientTime]": [
+      "a linear gradient over for 2\u2009h from 2 to 35% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "230\u2009nl/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01\u2009Da"
+    ],
+    "Comment[NumberOfFractions]": [
+      "pooled to a total number of 12 fractions using a concatenation strategy covering the whole gradient."
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr5"
+    ]
+  },
+  "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_Global_TMT_fr4_Ms2.raw": {
+    "Source Name": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL"
+    ],
+    "Assay Name": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_fr4"
+    ],
+    "Raw Data File": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_Global_TMT_fr4_Ms2.raw"
+    ],
+    "Characteristics[Label]": [
+      "Isobaric labeling was performed using 10plex tandem mass tag (TMT) reagents (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50; Trypsin Gold, Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CellType]": [
+      "immortalized B cells"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer equipped with EASY-Spray\u2122 source (all Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collision dissociation (HCD)"
+    ],
+    "Comment[GradientTime]": [
+      "a linear gradient over for 2\u2009h from 2 to 35% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "230\u2009nl/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01\u2009Da"
+    ],
+    "Comment[NumberOfFractions]": [
+      "pooled to a total number of 12 fractions using a concatenation strategy covering the whole gradient."
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr4"
+    ]
+  },
+  "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_Global_TMT_fr7_MS2.raw": {
+    "Source Name": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL"
+    ],
+    "Assay Name": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_fr7"
+    ],
+    "Raw Data File": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_Global_TMT_fr7_MS2.raw"
+    ],
+    "Characteristics[Label]": [
+      "Isobaric labeling was performed using 10plex tandem mass tag (TMT) reagents (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50; Trypsin Gold, Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CellType]": [
+      "immortalized B cells"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer equipped with EASY-Spray\u2122 source (all Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collision dissociation (HCD)"
+    ],
+    "Comment[GradientTime]": [
+      "a linear gradient over for 2\u2009h from 2 to 35% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "230\u2009nl/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01\u2009Da"
+    ],
+    "Comment[NumberOfFractions]": [
+      "pooled to a total number of 12 fractions using a concatenation strategy covering the whole gradient."
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr7"
+    ]
+  },
+  "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_Global_TMT_fr3_MS2.raw": {
+    "Source Name": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL"
+    ],
+    "Assay Name": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_fr3"
+    ],
+    "Raw Data File": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_Global_TMT_fr3_MS2.raw"
+    ],
+    "Characteristics[Label]": [
+      "Isobaric labeling was performed using 10plex tandem mass tag (TMT) reagents (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50; Trypsin Gold, Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CellType]": [
+      "immortalized B cells"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer equipped with EASY-Spray\u2122 source (all Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collision dissociation (HCD)"
+    ],
+    "Comment[GradientTime]": [
+      "a linear gradient over for 2\u2009h from 2 to 35% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "230\u2009nl/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01\u2009Da"
+    ],
+    "Comment[NumberOfFractions]": [
+      "pooled to a total number of 12 fractions using a concatenation strategy covering the whole gradient."
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr3"
+    ]
+  },
+  "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_TiO2_TMT_fr1.raw": {
+    "Source Name": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL"
+    ],
+    "Assay Name": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_fr1"
+    ],
+    "Raw Data File": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_TiO2_TMT_fr1.raw"
+    ],
+    "Characteristics[Label]": [
+      "Isobaric labeling was performed using 10plex tandem mass tag (TMT) reagents (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50; Trypsin Gold, Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CellType]": [
+      "immortalized B cells"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer equipped with EASY-Spray\u2122 source (all Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collision dissociation (HCD)"
+    ],
+    "Comment[GradientTime]": [
+      "a linear gradient over for 2\u2009h from 2 to 35% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "230\u2009nl/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01\u2009Da"
+    ],
+    "Comment[NumberOfFractions]": [
+      "pooled to a total number of 12 fractions using a concatenation strategy covering the whole gradient."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Phosphopeptide enrichment was performed using a modified TiO2 batch protocol."
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr1"
+    ]
+  },
+  "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_TiO2_TMT_fr12.raw": {
+    "Source Name": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL"
+    ],
+    "Assay Name": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_fr12"
+    ],
+    "Raw Data File": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_TiO2_TMT_fr12.raw"
+    ],
+    "Characteristics[Label]": [
+      "Isobaric labeling was performed using 10plex tandem mass tag (TMT) reagents (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50; Trypsin Gold, Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CellType]": [
+      "immortalized B cells"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer equipped with EASY-Spray\u2122 source (all Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collision dissociation (HCD)"
+    ],
+    "Comment[GradientTime]": [
+      "a linear gradient over for 2\u2009h from 2 to 35% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "230\u2009nl/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01\u2009Da"
+    ],
+    "Comment[NumberOfFractions]": [
+      "pooled to a total number of 12 fractions using a concatenation strategy covering the whole gradient."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Phosphopeptide enrichment was performed using a modified TiO2 batch protocol."
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr12"
+    ]
+  },
+  "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_shotgun_TMT1_TiO2_Fr1.raw": {
+    "Source Name": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL"
+    ],
+    "Assay Name": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_Fr1"
+    ],
+    "Raw Data File": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_shotgun_TMT1_TiO2_Fr1.raw"
+    ],
+    "Characteristics[Label]": [
+      "Isobaric labeling was performed using 10plex tandem mass tag (TMT) reagents (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50; Trypsin Gold, Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CellType]": [
+      "immortalized B cells"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer equipped with EASY-Spray\u2122 source (all Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collision dissociation (HCD)"
+    ],
+    "Comment[GradientTime]": [
+      "a linear gradient over for 2\u2009h from 2 to 35% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "230\u2009nl/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01\u2009Da"
+    ],
+    "Comment[NumberOfFractions]": [
+      "pooled to a total number of 12 fractions using a concatenation strategy covering the whole gradient."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Phosphopeptide enrichment was performed using a modified TiO2 batch protocol."
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fr1"
+    ]
+  },
+  "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_shotgun_TMT1_global_Fr6.raw": {
+    "Source Name": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL"
+    ],
+    "Assay Name": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_Fr6"
+    ],
+    "Raw Data File": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_shotgun_TMT1_global_Fr6.raw"
+    ],
+    "Characteristics[Label]": [
+      "Isobaric labeling was performed using 10plex tandem mass tag (TMT) reagents (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50; Trypsin Gold, Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CellType]": [
+      "immortalized B cells"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer equipped with EASY-Spray\u2122 source (all Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collision dissociation (HCD)"
+    ],
+    "Comment[GradientTime]": [
+      "a linear gradient over for 2\u2009h from 2 to 35% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "230\u2009nl/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01\u2009Da"
+    ],
+    "Comment[NumberOfFractions]": [
+      "pooled to a total number of 12 fractions using a concatenation strategy covering the whole gradient."
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fr6"
+    ]
+  },
+  "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_shotgun_TMT1_TiO2_Fr3.raw": {
+    "Source Name": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL"
+    ],
+    "Assay Name": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_Fr3"
+    ],
+    "Raw Data File": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_shotgun_TMT1_TiO2_Fr3.raw"
+    ],
+    "Characteristics[Label]": [
+      "Isobaric labeling was performed using 10plex tandem mass tag (TMT) reagents (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50; Trypsin Gold, Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CellType]": [
+      "immortalized B cells"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer equipped with EASY-Spray\u2122 source (all Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collision dissociation (HCD)"
+    ],
+    "Comment[GradientTime]": [
+      "a linear gradient over for 2\u2009h from 2 to 35% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "230\u2009nl/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01\u2009Da"
+    ],
+    "Comment[NumberOfFractions]": [
+      "pooled to a total number of 12 fractions using a concatenation strategy covering the whole gradient."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Phosphopeptide enrichment was performed using a modified TiO2 batch protocol."
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fr3"
+    ]
+  },
+  "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_shotgun_TMT1_TiO2_Fr11.raw": {
+    "Source Name": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL"
+    ],
+    "Assay Name": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_Fr11"
+    ],
+    "Raw Data File": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_shotgun_TMT1_TiO2_Fr11.raw"
+    ],
+    "Characteristics[Label]": [
+      "Isobaric labeling was performed using 10plex tandem mass tag (TMT) reagents (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50; Trypsin Gold, Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CellType]": [
+      "immortalized B cells"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer equipped with EASY-Spray\u2122 source (all Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collision dissociation (HCD)"
+    ],
+    "Comment[GradientTime]": [
+      "a linear gradient over for 2\u2009h from 2 to 35% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "230\u2009nl/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01\u2009Da"
+    ],
+    "Comment[NumberOfFractions]": [
+      "pooled to a total number of 12 fractions using a concatenation strategy covering the whole gradient."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Phosphopeptide enrichment was performed using a modified TiO2 batch protocol."
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fr11"
+    ]
+  },
+  "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_TiO2_TMT_fr10.raw": {
+    "Source Name": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL"
+    ],
+    "Assay Name": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_fr10"
+    ],
+    "Raw Data File": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_TiO2_TMT_fr10.raw"
+    ],
+    "Characteristics[Label]": [
+      "Isobaric labeling was performed using 10plex tandem mass tag (TMT) reagents (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50; Trypsin Gold, Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CellType]": [
+      "immortalized B cells"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer equipped with EASY-Spray\u2122 source (all Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collision dissociation (HCD)"
+    ],
+    "Comment[GradientTime]": [
+      "a linear gradient over for 2\u2009h from 2 to 35% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "230\u2009nl/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01\u2009Da"
+    ],
+    "Comment[NumberOfFractions]": [
+      "pooled to a total number of 12 fractions using a concatenation strategy covering the whole gradient."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Phosphopeptide enrichment was performed using a modified TiO2 batch protocol."
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr10"
+    ]
+  },
+  "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_TiO2_TMT_fr2.raw": {
+    "Source Name": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL"
+    ],
+    "Assay Name": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_fr2"
+    ],
+    "Raw Data File": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_TiO2_TMT_fr2.raw"
+    ],
+    "Characteristics[Label]": [
+      "Isobaric labeling was performed using 10plex tandem mass tag (TMT) reagents (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50; Trypsin Gold, Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CellType]": [
+      "immortalized B cells"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer equipped with EASY-Spray\u2122 source (all Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collision dissociation (HCD)"
+    ],
+    "Comment[GradientTime]": [
+      "a linear gradient over for 2\u2009h from 2 to 35% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "230\u2009nl/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01\u2009Da"
+    ],
+    "Comment[NumberOfFractions]": [
+      "pooled to a total number of 12 fractions using a concatenation strategy covering the whole gradient."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Phosphopeptide enrichment was performed using a modified TiO2 batch protocol."
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr2"
+    ]
+  },
+  "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_shotgun_TMT1_TiO2_Fr5.raw": {
+    "Source Name": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL"
+    ],
+    "Assay Name": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_Fr5"
+    ],
+    "Raw Data File": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_shotgun_TMT1_TiO2_Fr5.raw"
+    ],
+    "Characteristics[Label]": [
+      "Isobaric labeling was performed using 10plex tandem mass tag (TMT) reagents (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50; Trypsin Gold, Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CellType]": [
+      "immortalized B cells"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer equipped with EASY-Spray\u2122 source (all Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collision dissociation (HCD)"
+    ],
+    "Comment[GradientTime]": [
+      "a linear gradient over for 2\u2009h from 2 to 35% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "230\u2009nl/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01\u2009Da"
+    ],
+    "Comment[NumberOfFractions]": [
+      "pooled to a total number of 12 fractions using a concatenation strategy covering the whole gradient."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Phosphopeptide enrichment was performed using a modified TiO2 batch protocol."
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fr5"
+    ]
+  },
+  "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_shotgun_TMT1_TiO2_Fr6.raw": {
+    "Source Name": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL"
+    ],
+    "Assay Name": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_Fr6"
+    ],
+    "Raw Data File": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_shotgun_TMT1_TiO2_Fr6.raw"
+    ],
+    "Characteristics[Label]": [
+      "Isobaric labeling was performed using 10plex tandem mass tag (TMT) reagents (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50; Trypsin Gold, Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CellType]": [
+      "immortalized B cells"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer equipped with EASY-Spray\u2122 source (all Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collision dissociation (HCD)"
+    ],
+    "Comment[GradientTime]": [
+      "a linear gradient over for 2\u2009h from 2 to 35% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "230\u2009nl/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01\u2009Da"
+    ],
+    "Comment[NumberOfFractions]": [
+      "pooled to a total number of 12 fractions using a concatenation strategy covering the whole gradient."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Phosphopeptide enrichment was performed using a modified TiO2 batch protocol."
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fr6"
+    ]
+  },
+  "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_TiO2_TMT_fr5.raw": {
+    "Source Name": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL"
+    ],
+    "Assay Name": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_fr5"
+    ],
+    "Raw Data File": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_TiO2_TMT_fr5.raw"
+    ],
+    "Characteristics[Label]": [
+      "Isobaric labeling was performed using 10plex tandem mass tag (TMT) reagents (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50; Trypsin Gold, Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CellType]": [
+      "immortalized B cells"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer equipped with EASY-Spray\u2122 source (all Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collision dissociation (HCD)"
+    ],
+    "Comment[GradientTime]": [
+      "a linear gradient over for 2\u2009h from 2 to 35% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "230\u2009nl/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01\u2009Da"
+    ],
+    "Comment[NumberOfFractions]": [
+      "pooled to a total number of 12 fractions using a concatenation strategy covering the whole gradient."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Phosphopeptide enrichment was performed using a modified TiO2 batch protocol."
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr5"
+    ]
+  },
+  "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_shotgun_TMT1_global_Fr12.raw": {
+    "Source Name": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL"
+    ],
+    "Assay Name": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_Fr12"
+    ],
+    "Raw Data File": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_shotgun_TMT1_global_Fr12.raw"
+    ],
+    "Characteristics[Label]": [
+      "Isobaric labeling was performed using 10plex tandem mass tag (TMT) reagents (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50; Trypsin Gold, Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CellType]": [
+      "immortalized B cells"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer equipped with EASY-Spray\u2122 source (all Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collision dissociation (HCD)"
+    ],
+    "Comment[GradientTime]": [
+      "a linear gradient over for 2\u2009h from 2 to 35% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "230\u2009nl/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01\u2009Da"
+    ],
+    "Comment[NumberOfFractions]": [
+      "pooled to a total number of 12 fractions using a concatenation strategy covering the whole gradient."
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fr12"
+    ]
+  },
+  "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_TiO2_TMT_fr7.raw": {
+    "Source Name": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL"
+    ],
+    "Assay Name": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_fr7"
+    ],
+    "Raw Data File": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_TiO2_TMT_fr7.raw"
+    ],
+    "Characteristics[Label]": [
+      "Isobaric labeling was performed using 10plex tandem mass tag (TMT) reagents (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50; Trypsin Gold, Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CellType]": [
+      "immortalized B cells"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer equipped with EASY-Spray\u2122 source (all Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collision dissociation (HCD)"
+    ],
+    "Comment[GradientTime]": [
+      "a linear gradient over for 2\u2009h from 2 to 35% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "230\u2009nl/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01\u2009Da"
+    ],
+    "Comment[NumberOfFractions]": [
+      "pooled to a total number of 12 fractions using a concatenation strategy covering the whole gradient."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Phosphopeptide enrichment was performed using a modified TiO2 batch protocol."
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr7"
+    ]
+  },
+  "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_shotgun_TMT1_TiO2_Fr4.raw": {
+    "Source Name": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL"
+    ],
+    "Assay Name": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_Fr4"
+    ],
+    "Raw Data File": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_shotgun_TMT1_TiO2_Fr4.raw"
+    ],
+    "Characteristics[Label]": [
+      "Isobaric labeling was performed using 10plex tandem mass tag (TMT) reagents (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50; Trypsin Gold, Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CellType]": [
+      "immortalized B cells"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer equipped with EASY-Spray\u2122 source (all Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collision dissociation (HCD)"
+    ],
+    "Comment[GradientTime]": [
+      "a linear gradient over for 2\u2009h from 2 to 35% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "230\u2009nl/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01\u2009Da"
+    ],
+    "Comment[NumberOfFractions]": [
+      "pooled to a total number of 12 fractions using a concatenation strategy covering the whole gradient."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Phosphopeptide enrichment was performed using a modified TiO2 batch protocol."
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fr4"
+    ]
+  },
+  "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_TiO2_TMT_fr6.raw": {
+    "Source Name": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL"
+    ],
+    "Assay Name": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_fr6"
+    ],
+    "Raw Data File": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_TiO2_TMT_fr6.raw"
+    ],
+    "Characteristics[Label]": [
+      "Isobaric labeling was performed using 10plex tandem mass tag (TMT) reagents (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50; Trypsin Gold, Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CellType]": [
+      "immortalized B cells"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer equipped with EASY-Spray\u2122 source (all Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collision dissociation (HCD)"
+    ],
+    "Comment[GradientTime]": [
+      "a linear gradient over for 2\u2009h from 2 to 35% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "230\u2009nl/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01\u2009Da"
+    ],
+    "Comment[NumberOfFractions]": [
+      "pooled to a total number of 12 fractions using a concatenation strategy covering the whole gradient."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Phosphopeptide enrichment was performed using a modified TiO2 batch protocol."
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr6"
+    ]
+  },
+  "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_Global_TMT_fr12_MS2.raw": {
+    "Source Name": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL"
+    ],
+    "Assay Name": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_fr12"
+    ],
+    "Raw Data File": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_Global_TMT_fr12_MS2.raw"
+    ],
+    "Characteristics[Label]": [
+      "Isobaric labeling was performed using 10plex tandem mass tag (TMT) reagents (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50; Trypsin Gold, Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CellType]": [
+      "immortalized B cells"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer equipped with EASY-Spray\u2122 source (all Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collision dissociation (HCD)"
+    ],
+    "Comment[GradientTime]": [
+      "a linear gradient over for 2\u2009h from 2 to 35% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "230\u2009nl/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01\u2009Da"
+    ],
+    "Comment[NumberOfFractions]": [
+      "pooled to a total number of 12 fractions using a concatenation strategy covering the whole gradient."
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr12"
+    ]
+  },
+  "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_shotgun_TMT1_global_Fr3.raw": {
+    "Source Name": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL"
+    ],
+    "Assay Name": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_Fr3"
+    ],
+    "Raw Data File": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_shotgun_TMT1_global_Fr3.raw"
+    ],
+    "Characteristics[Label]": [
+      "Isobaric labeling was performed using 10plex tandem mass tag (TMT) reagents (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50; Trypsin Gold, Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CellType]": [
+      "immortalized B cells"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer equipped with EASY-Spray\u2122 source (all Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collision dissociation (HCD)"
+    ],
+    "Comment[GradientTime]": [
+      "a linear gradient over for 2\u2009h from 2 to 35% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "230\u2009nl/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01\u2009Da"
+    ],
+    "Comment[NumberOfFractions]": [
+      "pooled to a total number of 12 fractions using a concatenation strategy covering the whole gradient."
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fr3"
+    ]
+  },
+  "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_Global_TMT_fr8_MS2.raw": {
+    "Source Name": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL"
+    ],
+    "Assay Name": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_fr8"
+    ],
+    "Raw Data File": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_Global_TMT_fr8_MS2.raw"
+    ],
+    "Characteristics[Label]": [
+      "Isobaric labeling was performed using 10plex tandem mass tag (TMT) reagents (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50; Trypsin Gold, Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CellType]": [
+      "immortalized B cells"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer equipped with EASY-Spray\u2122 source (all Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collision dissociation (HCD)"
+    ],
+    "Comment[GradientTime]": [
+      "a linear gradient over for 2\u2009h from 2 to 35% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "230\u2009nl/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01\u2009Da"
+    ],
+    "Comment[NumberOfFractions]": [
+      "pooled to a total number of 12 fractions using a concatenation strategy covering the whole gradient."
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr8"
+    ]
+  },
+  "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_TiO2_TMT_fr4.raw": {
+    "Source Name": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL"
+    ],
+    "Assay Name": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_fr4"
+    ],
+    "Raw Data File": [
+      "20170131_Lumos_RSLC4_Maurer_Hartl_UW_MFPL_TiO2_TMT_fr4.raw"
+    ],
+    "Characteristics[Label]": [
+      "Isobaric labeling was performed using 10plex tandem mass tag (TMT) reagents (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50; Trypsin Gold, Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CellType]": [
+      "immortalized B cells"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer equipped with EASY-Spray\u2122 source (all Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collision dissociation (HCD)"
+    ],
+    "Comment[GradientTime]": [
+      "a linear gradient over for 2\u2009h from 2 to 35% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "230\u2009nl/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01\u2009Da"
+    ],
+    "Comment[NumberOfFractions]": [
+      "pooled to a total number of 12 fractions using a concatenation strategy covering the whole gradient."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Phosphopeptide enrichment was performed using a modified TiO2 batch protocol."
+    ],
+    "Comment[FractionIdentifier]": [
+      "fr4"
+    ]
+  },
+  "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_shotgun_TMT1_global_Fr4.raw": {
+    "Source Name": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL"
+    ],
+    "Assay Name": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_Fr4"
+    ],
+    "Raw Data File": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_shotgun_TMT1_global_Fr4.raw"
+    ],
+    "Characteristics[Label]": [
+      "Isobaric labeling was performed using 10plex tandem mass tag (TMT) reagents (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50; Trypsin Gold, Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CellType]": [
+      "immortalized B cells"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer equipped with EASY-Spray\u2122 source (all Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collision dissociation (HCD)"
+    ],
+    "Comment[GradientTime]": [
+      "a linear gradient over for 2\u2009h from 2 to 35% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "230\u2009nl/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01\u2009Da"
+    ],
+    "Comment[NumberOfFractions]": [
+      "pooled to a total number of 12 fractions using a concatenation strategy covering the whole gradient."
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fr4"
+    ]
+  },
+  "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_shotgun_TMT1_global_Fr5.raw": {
+    "Source Name": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL"
+    ],
+    "Assay Name": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_Fr5"
+    ],
+    "Raw Data File": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_shotgun_TMT1_global_Fr5.raw"
+    ],
+    "Characteristics[Label]": [
+      "Isobaric labeling was performed using 10plex tandem mass tag (TMT) reagents (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50; Trypsin Gold, Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CellType]": [
+      "immortalized B cells"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer equipped with EASY-Spray\u2122 source (all Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collision dissociation (HCD)"
+    ],
+    "Comment[GradientTime]": [
+      "a linear gradient over for 2\u2009h from 2 to 35% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "230\u2009nl/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01\u2009Da"
+    ],
+    "Comment[NumberOfFractions]": [
+      "pooled to a total number of 12 fractions using a concatenation strategy covering the whole gradient."
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fr5"
+    ]
+  },
+  "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_shotgun_TMT1_global_Fr11.raw": {
+    "Source Name": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL"
+    ],
+    "Assay Name": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_Fr11"
+    ],
+    "Raw Data File": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_shotgun_TMT1_global_Fr11.raw"
+    ],
+    "Characteristics[Label]": [
+      "Isobaric labeling was performed using 10plex tandem mass tag (TMT) reagents (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50; Trypsin Gold, Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CellType]": [
+      "immortalized B cells"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer equipped with EASY-Spray\u2122 source (all Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collision dissociation (HCD)"
+    ],
+    "Comment[GradientTime]": [
+      "a linear gradient over for 2\u2009h from 2 to 35% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "230\u2009nl/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01\u2009Da"
+    ],
+    "Comment[NumberOfFractions]": [
+      "pooled to a total number of 12 fractions using a concatenation strategy covering the whole gradient."
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fr11"
+    ]
+  },
+  "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_shotgun_TMT1_TiO2_Fr10.raw": {
+    "Source Name": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL"
+    ],
+    "Assay Name": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_Fr10"
+    ],
+    "Raw Data File": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_shotgun_TMT1_TiO2_Fr10.raw"
+    ],
+    "Characteristics[Label]": [
+      "Isobaric labeling was performed using 10plex tandem mass tag (TMT) reagents (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50; Trypsin Gold, Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CellType]": [
+      "immortalized B cells"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer equipped with EASY-Spray\u2122 source (all Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collision dissociation (HCD)"
+    ],
+    "Comment[GradientTime]": [
+      "a linear gradient over for 2\u2009h from 2 to 35% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "230\u2009nl/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01\u2009Da"
+    ],
+    "Comment[NumberOfFractions]": [
+      "pooled to a total number of 12 fractions using a concatenation strategy covering the whole gradient."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Phosphopeptide enrichment was performed using a modified TiO2 batch protocol."
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fr10"
+    ]
+  },
+  "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_shotgun_TMT1_TiO2_Fr8.raw": {
+    "Source Name": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL"
+    ],
+    "Assay Name": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_Fr8"
+    ],
+    "Raw Data File": [
+      "20170424_Lumos_RSLC3_Maurer_Hartl_UW_MFPL_shotgun_TMT1_TiO2_Fr8.raw"
+    ],
+    "Characteristics[Label]": [
+      "Isobaric labeling was performed using 10plex tandem mass tag (TMT) reagents (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50; Trypsin Gold, Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CellType]": [
+      "immortalized B cells"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer equipped with EASY-Spray\u2122 source (all Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collision dissociation (HCD)"
+    ],
+    "Comment[GradientTime]": [
+      "a linear gradient over for 2\u2009h from 2 to 35% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "230\u2009nl/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01\u2009Da"
+    ],
+    "Comment[NumberOfFractions]": [
+      "pooled to a total number of 12 fractions using a concatenation strategy covering the whole gradient."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Phosphopeptide enrichment was performed using a modified TiO2 batch protocol."
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fr8"
+    ]
+  },
+  "20170126_Lumos_RSLC2_Maurer_Hartl_UW_MFPL_shotgun_MMa_TMT2_TiO2_Fr3_MS2.raw": {
+    "Source Name": [
+      "20170126_Lumos_RSLC2_Maurer_Hartl_UW_MFPL"
+    ],
+    "Assay Name": [
+      "20170126_Lumos_RSLC2_Maurer_Hartl_UW_MFPL_Fr3"
+    ],
+    "Raw Data File": [
+      "20170126_Lumos_RSLC2_Maurer_Hartl_UW_MFPL_shotgun_MMa_TMT2_TiO2_Fr3_MS2.raw"
+    ],
+    "Characteristics[Label]": [
+      "Isobaric labeling was performed using 10plex tandem mass tag (TMT) reagents (Thermo Fisher Scientific)"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin (1:50; Trypsin Gold, Promega)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "Dithiothreitol (DTT)"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "50\u2009mM iodoacetamide"
+    ],
+    "Characteristics[CellType]": [
+      "immortalized B cells"
+    ],
+    "Characteristics[Organism]": [
+      "human melanoma"
+    ],
+    "Comment[Instrument]": [
+      "Orbitrap Fusion Lumos mass spectrometer equipped with EASY-Spray\u2122 source (all Thermo Fisher Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "data-dependent acquisition mode"
+    ],
+    "Comment[FragmentationMethod]": [
+      "high-energy collision dissociation (HCD)"
+    ],
+    "Comment[GradientTime]": [
+      "a linear gradient over for 2\u2009h from 2 to 35% solvent B"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "230\u2009nl/min"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "10\u2009ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "0.01\u2009Da"
+    ],
+    "Comment[NumberOfFractions]": [
+      "pooled to a total number of 12 fractions using a concatenation strategy covering the whole gradient."
+    ],
+    "Comment[EnrichmentMethod]": [
+      "Phosphopeptide enrichment was performed using a modified TiO2 batch protocol."
+    ],
+    "Comment[FractionIdentifier]": [
+      "Fr3"
+    ]
+  }
+}

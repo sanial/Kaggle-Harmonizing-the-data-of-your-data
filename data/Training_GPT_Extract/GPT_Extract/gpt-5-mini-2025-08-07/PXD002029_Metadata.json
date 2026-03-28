@@ -1,0 +1,1754 @@
+{
+  "Colon_ParticipantA_iFFPE_2.raw": {
+    "Source Name": [
+      "Colon_ParticipantA_iFFPE_2"
+    ],
+    "Assay Name": [
+      "Colon_ParticipantA_iFFPE_2_assay"
+    ],
+    "Raw Data File": [
+      "Colon_ParticipantA_iFFPE_2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "human soft tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Colon mucosal biopsies"
+    ],
+    "Characteristics[OrganismPart]": [
+      "sigmoideum"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "24 colon mucosa biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two gastroenterologically healthy participants"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "chloroacetamide"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "ParticipantA"
+    ],
+    "FactorValue[Treatment]": [
+      "immediately (iFFPE) stabilized in 4% formalin"
+    ],
+    "Characteristics[SamplingTime]": [
+      "Paraffin embedding was performed after one week at the Department of Pathology, Aalborg University Hospital, Denmark, according to current standards.",
+      "The FFPE prepared samples were subsequently stored for three weeks at room temperature prior to sample processing and proteome analysis."
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer"
+    ],
+    "Comment[IonizationType]": [
+      "UPLC-nanoESI MS/MS setup",
+      "nanospray ionization (New objective picotip 360-20-10)"
+    ],
+    "Comment[Separation]": [
+      "separated using an analytical 50 cm reversed phase Acclaim PepMap RSLC C18 column (Dionex)"
+    ],
+    "Comment[GradientTime]": [
+      "180 min ramp gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 27"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "selecting up to 12 precursor ions with a mass window of m/z 1.6 based on highest intensity for HCD fragmenting"
+    ]
+  },
+  "Colon_ParticipantA_RNAlater_3.raw": {
+    "Source Name": [
+      "Colon_ParticipantA_RNAlater_3"
+    ],
+    "Assay Name": [
+      "Colon_ParticipantA_RNAlater_3_assay"
+    ],
+    "Raw Data File": [
+      "Colon_ParticipantA_RNAlater_3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "human soft tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Colon mucosal biopsies"
+    ],
+    "Characteristics[OrganismPart]": [
+      "sigmoideum"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "24 colon mucosa biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two gastroenterologically healthy participants"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "chloroacetamide"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "ParticipantA"
+    ],
+    "FactorValue[Treatment]": [
+      "RNAlater biopsies"
+    ],
+    "Characteristics[SamplingTime]": [
+      "stored at room temperature for 24 h followed by storage at −80 °C for one month prior to sample processing and proteome analysis."
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer"
+    ],
+    "Comment[IonizationType]": [
+      "UPLC-nanoESI MS/MS setup",
+      "nanospray ionization (New objective picotip 360-20-10)"
+    ],
+    "Comment[Separation]": [
+      "separated using an analytical 50 cm reversed phase Acclaim PepMap RSLC C18 column (Dionex)"
+    ],
+    "Comment[GradientTime]": [
+      "180 min ramp gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 27"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "selecting up to 12 precursor ions with a mass window of m/z 1.6 based on highest intensity for HCD fragmenting"
+    ]
+  },
+  "Colon_ParticipantA_RNAlater_1.raw": {
+    "Source Name": [
+      "Colon_ParticipantA_RNAlater_1"
+    ],
+    "Assay Name": [
+      "Colon_ParticipantA_RNAlater_1_assay"
+    ],
+    "Raw Data File": [
+      "Colon_ParticipantA_RNAlater_1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "human soft tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Colon mucosal biopsies"
+    ],
+    "Characteristics[OrganismPart]": [
+      "sigmoideum"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "24 colon mucosa biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two gastroenterologically healthy participants"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "chloroacetamide"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "ParticipantA"
+    ],
+    "FactorValue[Treatment]": [
+      "RNAlater biopsies"
+    ],
+    "Characteristics[SamplingTime]": [
+      "stored at room temperature for 24 h followed by storage at −80 °C for one month prior to sample processing and proteome analysis."
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer"
+    ],
+    "Comment[IonizationType]": [
+      "UPLC-nanoESI MS/MS setup",
+      "nanospray ionization (New objective picotip 360-20-10)"
+    ],
+    "Comment[Separation]": [
+      "separated using an analytical 50 cm reversed phase Acclaim PepMap RSLC C18 column (Dionex)"
+    ],
+    "Comment[GradientTime]": [
+      "180 min ramp gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 27"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "selecting up to 12 precursor ions with a mass window of m/z 1.6 based on highest intensity for HCD fragmenting"
+    ]
+  },
+  "Colon_ParticipantA_sFFPE_2.raw": {
+    "Source Name": [
+      "Colon_ParticipantA_sFFPE_2"
+    ],
+    "Assay Name": [
+      "Colon_ParticipantA_sFFPE_2_assay"
+    ],
+    "Raw Data File": [
+      "Colon_ParticipantA_sFFPE_2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "human soft tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Colon mucosal biopsies"
+    ],
+    "Characteristics[OrganismPart]": [
+      "sigmoideum"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "24 colon mucosa biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two gastroenterologically healthy participants"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "chloroacetamide"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "ParticipantA"
+    ],
+    "FactorValue[Treatment]": [
+      "stored for 30 min (sFFPE) at ambient temperature before stabilization with 4% formalin"
+    ],
+    "Characteristics[SamplingTime]": [
+      "stored for 30 min at ambient temperature prior to formalin-fixation.",
+      "Paraffin embedding was performed after one week at the Department of Pathology, Aalborg University Hospital, Denmark, according to current standards.",
+      "The FFPE prepared samples were subsequently stored for three weeks at room temperature prior to sample processing and proteome analysis."
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer"
+    ],
+    "Comment[IonizationType]": [
+      "UPLC-nanoESI MS/MS setup",
+      "nanospray ionization (New objective picotip 360-20-10)"
+    ],
+    "Comment[Separation]": [
+      "separated using an analytical 50 cm reversed phase Acclaim PepMap RSLC C18 column (Dionex)"
+    ],
+    "Comment[GradientTime]": [
+      "180 min ramp gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 27"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "selecting up to 12 precursor ions with a mass window of m/z 1.6 based on highest intensity for HCD fragmenting"
+    ]
+  },
+  "Colon_ParticipantA_sFFPE_1.raw": {
+    "Source Name": [
+      "Colon_ParticipantA_sFFPE_1"
+    ],
+    "Assay Name": [
+      "Colon_ParticipantA_sFFPE_1_assay"
+    ],
+    "Raw Data File": [
+      "Colon_ParticipantA_sFFPE_1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "human soft tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Colon mucosal biopsies"
+    ],
+    "Characteristics[OrganismPart]": [
+      "sigmoideum"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "24 colon mucosa biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two gastroenterologically healthy participants"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "chloroacetamide"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "ParticipantA"
+    ],
+    "FactorValue[Treatment]": [
+      "stored for 30 min (sFFPE) at ambient temperature before stabilization with 4% formalin"
+    ],
+    "Characteristics[SamplingTime]": [
+      "stored for 30 min at ambient temperature prior to formalin-fixation.",
+      "Paraffin embedding was performed after one week at the Department of Pathology, Aalborg University Hospital, Denmark, according to current standards.",
+      "The FFPE prepared samples were subsequently stored for three weeks at room temperature prior to sample processing and proteome analysis."
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer"
+    ],
+    "Comment[IonizationType]": [
+      "UPLC-nanoESI MS/MS setup",
+      "nanospray ionization (New objective picotip 360-20-10)"
+    ],
+    "Comment[Separation]": [
+      "separated using an analytical 50 cm reversed phase Acclaim PepMap RSLC C18 column (Dionex)"
+    ],
+    "Comment[GradientTime]": [
+      "180 min ramp gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 27"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "selecting up to 12 precursor ions with a mass window of m/z 1.6 based on highest intensity for HCD fragmenting"
+    ]
+  },
+  "Colon_ParticipantB_iFFPE_1.raw": {
+    "Source Name": [
+      "Colon_ParticipantB_iFFPE_1"
+    ],
+    "Assay Name": [
+      "Colon_ParticipantB_iFFPE_1_assay"
+    ],
+    "Raw Data File": [
+      "Colon_ParticipantB_iFFPE_1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "human soft tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Colon mucosal biopsies"
+    ],
+    "Characteristics[OrganismPart]": [
+      "sigmoideum"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "24 colon mucosa biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two gastroenterologically healthy participants"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "chloroacetamide"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "ParticipantB"
+    ],
+    "FactorValue[Treatment]": [
+      "immediately (iFFPE) stabilized in 4% formalin"
+    ],
+    "Characteristics[SamplingTime]": [
+      "Paraffin embedding was performed after one week at the Department of Pathology, Aalborg University Hospital, Denmark, according to current standards.",
+      "The FFPE prepared samples were subsequently stored for three weeks at room temperature prior to sample processing and proteome analysis."
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer"
+    ],
+    "Comment[IonizationType]": [
+      "UPLC-nanoESI MS/MS setup",
+      "nanospray ionization (New objective picotip 360-20-10)"
+    ],
+    "Comment[Separation]": [
+      "separated using an analytical 50 cm reversed phase Acclaim PepMap RSLC C18 column (Dionex)"
+    ],
+    "Comment[GradientTime]": [
+      "180 min ramp gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 27"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "selecting up to 12 precursor ions with a mass window of m/z 1.6 based on highest intensity for HCD fragmenting"
+    ]
+  },
+  "Colon_ParticipantB_DF_3.raw": {
+    "Source Name": [
+      "Colon_ParticipantB_DF_3"
+    ],
+    "Assay Name": [
+      "Colon_ParticipantB_DF_3_assay"
+    ],
+    "Raw Data File": [
+      "Colon_ParticipantB_DF_3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "human soft tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Colon mucosal biopsies"
+    ],
+    "Characteristics[OrganismPart]": [
+      "sigmoideum"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "24 colon mucosa biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two gastroenterologically healthy participants"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "chloroacetamide"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "ParticipantB"
+    ],
+    "FactorValue[Treatment]": [
+      "directly frozen biopsies (DF)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "snap-frozen with liquid nitrogen",
+      "storage at −80 °C for one month prior to sample processing and proteome analysis."
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer"
+    ],
+    "Comment[IonizationType]": [
+      "UPLC-nanoESI MS/MS setup",
+      "nanospray ionization (New objective picotip 360-20-10)"
+    ],
+    "Comment[Separation]": [
+      "separated using an analytical 50 cm reversed phase Acclaim PepMap RSLC C18 column (Dionex)"
+    ],
+    "Comment[GradientTime]": [
+      "180 min ramp gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 27"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "selecting up to 12 precursor ions with a mass window of m/z 1.6 based on highest intensity for HCD fragmenting"
+    ]
+  },
+  "Colon_ParticipantA_DF_1.raw": {
+    "Source Name": [
+      "Colon_ParticipantA_DF_1"
+    ],
+    "Assay Name": [
+      "Colon_ParticipantA_DF_1_assay"
+    ],
+    "Raw Data File": [
+      "Colon_ParticipantA_DF_1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "human soft tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Colon mucosal biopsies"
+    ],
+    "Characteristics[OrganismPart]": [
+      "sigmoideum"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "24 colon mucosa biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two gastroenterologically healthy participants"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "chloroacetamide"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "ParticipantA"
+    ],
+    "FactorValue[Treatment]": [
+      "directly frozen biopsies (DF)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "snap-frozen with liquid nitrogen",
+      "storage at −80 °C for one month prior to sample processing and proteome analysis."
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer"
+    ],
+    "Comment[IonizationType]": [
+      "UPLC-nanoESI MS/MS setup",
+      "nanospray ionization (New objective picotip 360-20-10)"
+    ],
+    "Comment[Separation]": [
+      "separated using an analytical 50 cm reversed phase Acclaim PepMap RSLC C18 column (Dionex)"
+    ],
+    "Comment[GradientTime]": [
+      "180 min ramp gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 27"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "selecting up to 12 precursor ions with a mass window of m/z 1.6 based on highest intensity for HCD fragmenting"
+    ]
+  },
+  "Colon_ParticipantB_iFFPE_3.raw": {
+    "Source Name": [
+      "Colon_ParticipantB_iFFPE_3"
+    ],
+    "Assay Name": [
+      "Colon_ParticipantB_iFFPE_3_assay"
+    ],
+    "Raw Data File": [
+      "Colon_ParticipantB_iFFPE_3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "human soft tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Colon mucosal biopsies"
+    ],
+    "Characteristics[OrganismPart]": [
+      "sigmoideum"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "24 colon mucosa biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two gastroenterologically healthy participants"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "chloroacetamide"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "ParticipantB"
+    ],
+    "FactorValue[Treatment]": [
+      "immediately (iFFPE) stabilized in 4% formalin"
+    ],
+    "Characteristics[SamplingTime]": [
+      "Paraffin embedding was performed after one week at the Department of Pathology, Aalborg University Hospital, Denmark, according to current standards.",
+      "The FFPE prepared samples were subsequently stored for three weeks at room temperature prior to sample processing and proteome analysis."
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer"
+    ],
+    "Comment[IonizationType]": [
+      "UPLC-nanoESI MS/MS setup",
+      "nanospray ionization (New objective picotip 360-20-10)"
+    ],
+    "Comment[Separation]": [
+      "separated using an analytical 50 cm reversed phase Acclaim PepMap RSLC C18 column (Dionex)"
+    ],
+    "Comment[GradientTime]": [
+      "180 min ramp gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 27"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "selecting up to 12 precursor ions with a mass window of m/z 1.6 based on highest intensity for HCD fragmenting"
+    ]
+  },
+  "Colon_ParticipantA_RNAlater_2.raw": {
+    "Source Name": [
+      "Colon_ParticipantA_RNAlater_2"
+    ],
+    "Assay Name": [
+      "Colon_ParticipantA_RNAlater_2_assay"
+    ],
+    "Raw Data File": [
+      "Colon_ParticipantA_RNAlater_2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "human soft tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Colon mucosal biopsies"
+    ],
+    "Characteristics[OrganismPart]": [
+      "sigmoideum"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "24 colon mucosa biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two gastroenterologically healthy participants"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "chloroacetamide"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "ParticipantA"
+    ],
+    "FactorValue[Treatment]": [
+      "RNAlater biopsies"
+    ],
+    "Characteristics[SamplingTime]": [
+      "stored at room temperature for 24 h followed by storage at −80 °C for one month prior to sample processing and proteome analysis."
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer"
+    ],
+    "Comment[IonizationType]": [
+      "UPLC-nanoESI MS/MS setup",
+      "nanospray ionization (New objective picotip 360-20-10)"
+    ],
+    "Comment[Separation]": [
+      "separated using an analytical 50 cm reversed phase Acclaim PepMap RSLC C18 column (Dionex)"
+    ],
+    "Comment[GradientTime]": [
+      "180 min ramp gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 27"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "selecting up to 12 precursor ions with a mass window of m/z 1.6 based on highest intensity for HCD fragmenting"
+    ]
+  },
+  "Colon_ParticipantB_RNAlater_1.raw": {
+    "Source Name": [
+      "Colon_ParticipantB_RNAlater_1"
+    ],
+    "Assay Name": [
+      "Colon_ParticipantB_RNAlater_1_assay"
+    ],
+    "Raw Data File": [
+      "Colon_ParticipantB_RNAlater_1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "human soft tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Colon mucosal biopsies"
+    ],
+    "Characteristics[OrganismPart]": [
+      "sigmoideum"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "24 colon mucosa biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two gastroenterologically healthy participants"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "chloroacetamide"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "ParticipantB"
+    ],
+    "FactorValue[Treatment]": [
+      "RNAlater biopsies"
+    ],
+    "Characteristics[SamplingTime]": [
+      "stored at room temperature for 24 h followed by storage at −80 °C for one month prior to sample processing and proteome analysis."
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer"
+    ],
+    "Comment[IonizationType]": [
+      "UPLC-nanoESI MS/MS setup",
+      "nanospray ionization (New objective picotip 360-20-10)"
+    ],
+    "Comment[Separation]": [
+      "separated using an analytical 50 cm reversed phase Acclaim PepMap RSLC C18 column (Dionex)"
+    ],
+    "Comment[GradientTime]": [
+      "180 min ramp gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 27"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "selecting up to 12 precursor ions with a mass window of m/z 1.6 based on highest intensity for HCD fragmenting"
+    ]
+  },
+  "Colon_ParticipantA_DF_3.raw": {
+    "Source Name": [
+      "Colon_ParticipantA_DF_3"
+    ],
+    "Assay Name": [
+      "Colon_ParticipantA_DF_3_assay"
+    ],
+    "Raw Data File": [
+      "Colon_ParticipantA_DF_3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "human soft tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Colon mucosal biopsies"
+    ],
+    "Characteristics[OrganismPart]": [
+      "sigmoideum"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "24 colon mucosa biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two gastroenterologically healthy participants"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "chloroacetamide"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "ParticipantA"
+    ],
+    "FactorValue[Treatment]": [
+      "directly frozen biopsies (DF)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "snap-frozen with liquid nitrogen",
+      "storage at −80 °C for one month prior to sample processing and proteome analysis."
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer"
+    ],
+    "Comment[IonizationType]": [
+      "UPLC-nanoESI MS/MS setup",
+      "nanospray ionization (New objective picotip 360-20-10)"
+    ],
+    "Comment[Separation]": [
+      "separated using an analytical 50 cm reversed phase Acclaim PepMap RSLC C18 column (Dionex)"
+    ],
+    "Comment[GradientTime]": [
+      "180 min ramp gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 27"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "selecting up to 12 precursor ions with a mass window of m/z 1.6 based on highest intensity for HCD fragmenting"
+    ]
+  },
+  "Colon_ParticipantA_DF_2.raw": {
+    "Source Name": [
+      "Colon_ParticipantA_DF_2"
+    ],
+    "Assay Name": [
+      "Colon_ParticipantA_DF_2_assay"
+    ],
+    "Raw Data File": [
+      "Colon_ParticipantA_DF_2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "human soft tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Colon mucosal biopsies"
+    ],
+    "Characteristics[OrganismPart]": [
+      "sigmoideum"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "24 colon mucosa biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two gastroenterologically healthy participants"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "chloroacetamide"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "ParticipantA"
+    ],
+    "FactorValue[Treatment]": [
+      "directly frozen biopsies (DF)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "snap-frozen with liquid nitrogen",
+      "storage at −80 °C for one month prior to sample processing and proteome analysis."
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer"
+    ],
+    "Comment[IonizationType]": [
+      "UPLC-nanoESI MS/MS setup",
+      "nanospray ionization (New objective picotip 360-20-10)"
+    ],
+    "Comment[Separation]": [
+      "separated using an analytical 50 cm reversed phase Acclaim PepMap RSLC C18 column (Dionex)"
+    ],
+    "Comment[GradientTime]": [
+      "180 min ramp gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 27"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "selecting up to 12 precursor ions with a mass window of m/z 1.6 based on highest intensity for HCD fragmenting"
+    ]
+  },
+  "Colon_ParticipantA_sFFPE_3.raw": {
+    "Source Name": [
+      "Colon_ParticipantA_sFFPE_3"
+    ],
+    "Assay Name": [
+      "Colon_ParticipantA_sFFPE_3_assay"
+    ],
+    "Raw Data File": [
+      "Colon_ParticipantA_sFFPE_3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "human soft tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Colon mucosal biopsies"
+    ],
+    "Characteristics[OrganismPart]": [
+      "sigmoideum"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "24 colon mucosa biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two gastroenterologically healthy participants"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "chloroacetamide"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "ParticipantA"
+    ],
+    "FactorValue[Treatment]": [
+      "stored for 30 min (sFFPE) at ambient temperature before stabilization with 4% formalin"
+    ],
+    "Characteristics[SamplingTime]": [
+      "stored for 30 min at ambient temperature prior to formalin-fixation.",
+      "Paraffin embedding was performed after one week at the Department of Pathology, Aalborg University Hospital, Denmark, according to current standards.",
+      "The FFPE prepared samples were subsequently stored for three weeks at room temperature prior to sample processing and proteome analysis."
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer"
+    ],
+    "Comment[IonizationType]": [
+      "UPLC-nanoESI MS/MS setup",
+      "nanospray ionization (New objective picotip 360-20-10)"
+    ],
+    "Comment[Separation]": [
+      "separated using an analytical 50 cm reversed phase Acclaim PepMap RSLC C18 column (Dionex)"
+    ],
+    "Comment[GradientTime]": [
+      "180 min ramp gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 27"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "selecting up to 12 precursor ions with a mass window of m/z 1.6 based on highest intensity for HCD fragmenting"
+    ]
+  },
+  "Colon_ParticipantB_DF_1.raw": {
+    "Source Name": [
+      "Colon_ParticipantB_DF_1"
+    ],
+    "Assay Name": [
+      "Colon_ParticipantB_DF_1_assay"
+    ],
+    "Raw Data File": [
+      "Colon_ParticipantB_DF_1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "human soft tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Colon mucosal biopsies"
+    ],
+    "Characteristics[OrganismPart]": [
+      "sigmoideum"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "24 colon mucosa biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two gastroenterologically healthy participants"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "chloroacetamide"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "ParticipantB"
+    ],
+    "FactorValue[Treatment]": [
+      "directly frozen biopsies (DF)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "snap-frozen with liquid nitrogen",
+      "storage at −80 °C for one month prior to sample processing and proteome analysis."
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer"
+    ],
+    "Comment[IonizationType]": [
+      "UPLC-nanoESI MS/MS setup",
+      "nanospray ionization (New objective picotip 360-20-10)"
+    ],
+    "Comment[Separation]": [
+      "separated using an analytical 50 cm reversed phase Acclaim PepMap RSLC C18 column (Dionex)"
+    ],
+    "Comment[GradientTime]": [
+      "180 min ramp gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 27"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "selecting up to 12 precursor ions with a mass window of m/z 1.6 based on highest intensity for HCD fragmenting"
+    ]
+  },
+  "Colon_ParticipantB_DF_2.raw": {
+    "Source Name": [
+      "Colon_ParticipantB_DF_2"
+    ],
+    "Assay Name": [
+      "Colon_ParticipantB_DF_2_assay"
+    ],
+    "Raw Data File": [
+      "Colon_ParticipantB_DF_2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "human soft tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Colon mucosal biopsies"
+    ],
+    "Characteristics[OrganismPart]": [
+      "sigmoideum"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "24 colon mucosa biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two gastroenterologically healthy participants"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "chloroacetamide"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "ParticipantB"
+    ],
+    "FactorValue[Treatment]": [
+      "directly frozen biopsies (DF)"
+    ],
+    "Characteristics[SamplingTime]": [
+      "snap-frozen with liquid nitrogen",
+      "storage at −80 °C for one month prior to sample processing and proteome analysis."
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer"
+    ],
+    "Comment[IonizationType]": [
+      "UPLC-nanoESI MS/MS setup",
+      "nanospray ionization (New objective picotip 360-20-10)"
+    ],
+    "Comment[Separation]": [
+      "separated using an analytical 50 cm reversed phase Acclaim PepMap RSLC C18 column (Dionex)"
+    ],
+    "Comment[GradientTime]": [
+      "180 min ramp gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 27"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "selecting up to 12 precursor ions with a mass window of m/z 1.6 based on highest intensity for HCD fragmenting"
+    ]
+  },
+  "Colon_ParticipantB_sFFPE_3.raw": {
+    "Source Name": [
+      "Colon_ParticipantB_sFFPE_3"
+    ],
+    "Assay Name": [
+      "Colon_ParticipantB_sFFPE_3_assay"
+    ],
+    "Raw Data File": [
+      "Colon_ParticipantB_sFFPE_3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "human soft tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Colon mucosal biopsies"
+    ],
+    "Characteristics[OrganismPart]": [
+      "sigmoideum"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "24 colon mucosa biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two gastroenterologically healthy participants"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "chloroacetamide"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "ParticipantB"
+    ],
+    "FactorValue[Treatment]": [
+      "stored for 30 min (sFFPE) at ambient temperature before stabilization with 4% formalin"
+    ],
+    "Characteristics[SamplingTime]": [
+      "stored for 30 min at ambient temperature prior to formalin-fixation.",
+      "Paraffin embedding was performed after one week at the Department of Pathology, Aalborg University Hospital, Denmark, according to current standards.",
+      "The FFPE prepared samples were subsequently stored for three weeks at room temperature prior to sample processing and proteome analysis."
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer"
+    ],
+    "Comment[IonizationType]": [
+      "UPLC-nanoESI MS/MS setup",
+      "nanospray ionization (New objective picotip 360-20-10)"
+    ],
+    "Comment[Separation]": [
+      "separated using an analytical 50 cm reversed phase Acclaim PepMap RSLC C18 column (Dionex)"
+    ],
+    "Comment[GradientTime]": [
+      "180 min ramp gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 27"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "selecting up to 12 precursor ions with a mass window of m/z 1.6 based on highest intensity for HCD fragmenting"
+    ]
+  },
+  "Colon_ParticipantA_iFFPE_3.raw": {
+    "Source Name": [
+      "Colon_ParticipantA_iFFPE_3"
+    ],
+    "Assay Name": [
+      "Colon_ParticipantA_iFFPE_3_assay"
+    ],
+    "Raw Data File": [
+      "Colon_ParticipantA_iFFPE_3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "human soft tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Colon mucosal biopsies"
+    ],
+    "Characteristics[OrganismPart]": [
+      "sigmoideum"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "24 colon mucosa biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two gastroenterologically healthy participants"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "chloroacetamide"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "ParticipantA"
+    ],
+    "FactorValue[Treatment]": [
+      "immediately (iFFPE) stabilized in 4% formalin"
+    ],
+    "Characteristics[SamplingTime]": [
+      "Paraffin embedding was performed after one week at the Department of Pathology, Aalborg University Hospital, Denmark, according to current standards.",
+      "The FFPE prepared samples were subsequently stored for three weeks at room temperature prior to sample processing and proteome analysis."
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer"
+    ],
+    "Comment[IonizationType]": [
+      "UPLC-nanoESI MS/MS setup",
+      "nanospray ionization (New objective picotip 360-20-10)"
+    ],
+    "Comment[Separation]": [
+      "separated using an analytical 50 cm reversed phase Acclaim PepMap RSLC C18 column (Dionex)"
+    ],
+    "Comment[GradientTime]": [
+      "180 min ramp gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 27"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "selecting up to 12 precursor ions with a mass window of m/z 1.6 based on highest intensity for HCD fragmenting"
+    ]
+  },
+  "Colon_ParticipantB_RNAlater_3.raw": {
+    "Source Name": [
+      "Colon_ParticipantB_RNAlater_3"
+    ],
+    "Assay Name": [
+      "Colon_ParticipantB_RNAlater_3_assay"
+    ],
+    "Raw Data File": [
+      "Colon_ParticipantB_RNAlater_3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "human soft tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Colon mucosal biopsies"
+    ],
+    "Characteristics[OrganismPart]": [
+      "sigmoideum"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "24 colon mucosa biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two gastroenterologically healthy participants"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "chloroacetamide"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "ParticipantB"
+    ],
+    "FactorValue[Treatment]": [
+      "RNAlater biopsies"
+    ],
+    "Characteristics[SamplingTime]": [
+      "stored at room temperature for 24 h followed by storage at −80 °C for one month prior to sample processing and proteome analysis."
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer"
+    ],
+    "Comment[IonizationType]": [
+      "UPLC-nanoESI MS/MS setup",
+      "nanospray ionization (New objective picotip 360-20-10)"
+    ],
+    "Comment[Separation]": [
+      "separated using an analytical 50 cm reversed phase Acclaim PepMap RSLC C18 column (Dionex)"
+    ],
+    "Comment[GradientTime]": [
+      "180 min ramp gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 27"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "selecting up to 12 precursor ions with a mass window of m/z 1.6 based on highest intensity for HCD fragmenting"
+    ]
+  },
+  "Colon_ParticipantB_iFFPE_2.raw": {
+    "Source Name": [
+      "Colon_ParticipantB_iFFPE_2"
+    ],
+    "Assay Name": [
+      "Colon_ParticipantB_iFFPE_2_assay"
+    ],
+    "Raw Data File": [
+      "Colon_ParticipantB_iFFPE_2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "human soft tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Colon mucosal biopsies"
+    ],
+    "Characteristics[OrganismPart]": [
+      "sigmoideum"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "24 colon mucosa biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two gastroenterologically healthy participants"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "chloroacetamide"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "ParticipantB"
+    ],
+    "FactorValue[Treatment]": [
+      "immediately (iFFPE) stabilized in 4% formalin"
+    ],
+    "Characteristics[SamplingTime]": [
+      "Paraffin embedding was performed after one week at the Department of Pathology, Aalborg University Hospital, Denmark, according to current standards.",
+      "The FFPE prepared samples were subsequently stored for three weeks at room temperature prior to sample processing and proteome analysis."
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer"
+    ],
+    "Comment[IonizationType]": [
+      "UPLC-nanoESI MS/MS setup",
+      "nanospray ionization (New objective picotip 360-20-10)"
+    ],
+    "Comment[Separation]": [
+      "separated using an analytical 50 cm reversed phase Acclaim PepMap RSLC C18 column (Dionex)"
+    ],
+    "Comment[GradientTime]": [
+      "180 min ramp gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 27"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "selecting up to 12 precursor ions with a mass window of m/z 1.6 based on highest intensity for HCD fragmenting"
+    ]
+  },
+  "Colon_ParticipantB_sFFPE_1.raw": {
+    "Source Name": [
+      "Colon_ParticipantB_sFFPE_1"
+    ],
+    "Assay Name": [
+      "Colon_ParticipantB_sFFPE_1_assay"
+    ],
+    "Raw Data File": [
+      "Colon_ParticipantB_sFFPE_1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "human soft tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Colon mucosal biopsies"
+    ],
+    "Characteristics[OrganismPart]": [
+      "sigmoideum"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "24 colon mucosa biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two gastroenterologically healthy participants"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "chloroacetamide"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "ParticipantB"
+    ],
+    "FactorValue[Treatment]": [
+      "stored for 30 min (sFFPE) at ambient temperature before stabilization with 4% formalin"
+    ],
+    "Characteristics[SamplingTime]": [
+      "stored for 30 min at ambient temperature prior to formalin-fixation.",
+      "Paraffin embedding was performed after one week at the Department of Pathology, Aalborg University Hospital, Denmark, according to current standards.",
+      "The FFPE prepared samples were subsequently stored for three weeks at room temperature prior to sample processing and proteome analysis."
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer"
+    ],
+    "Comment[IonizationType]": [
+      "UPLC-nanoESI MS/MS setup",
+      "nanospray ionization (New objective picotip 360-20-10)"
+    ],
+    "Comment[Separation]": [
+      "separated using an analytical 50 cm reversed phase Acclaim PepMap RSLC C18 column (Dionex)"
+    ],
+    "Comment[GradientTime]": [
+      "180 min ramp gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 27"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "selecting up to 12 precursor ions with a mass window of m/z 1.6 based on highest intensity for HCD fragmenting"
+    ]
+  },
+  "Colon_ParticipantB_sFFPE_2.raw": {
+    "Source Name": [
+      "Colon_ParticipantB_sFFPE_2"
+    ],
+    "Assay Name": [
+      "Colon_ParticipantB_sFFPE_2_assay"
+    ],
+    "Raw Data File": [
+      "Colon_ParticipantB_sFFPE_2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "human soft tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Colon mucosal biopsies"
+    ],
+    "Characteristics[OrganismPart]": [
+      "sigmoideum"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "24 colon mucosa biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two gastroenterologically healthy participants"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "chloroacetamide"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "ParticipantB"
+    ],
+    "FactorValue[Treatment]": [
+      "stored for 30 min (sFFPE) at ambient temperature before stabilization with 4% formalin"
+    ],
+    "Characteristics[SamplingTime]": [
+      "stored for 30 min at ambient temperature prior to formalin-fixation.",
+      "Paraffin embedding was performed after one week at the Department of Pathology, Aalborg University Hospital, Denmark, according to current standards.",
+      "The FFPE prepared samples were subsequently stored for three weeks at room temperature prior to sample processing and proteome analysis."
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer"
+    ],
+    "Comment[IonizationType]": [
+      "UPLC-nanoESI MS/MS setup",
+      "nanospray ionization (New objective picotip 360-20-10)"
+    ],
+    "Comment[Separation]": [
+      "separated using an analytical 50 cm reversed phase Acclaim PepMap RSLC C18 column (Dionex)"
+    ],
+    "Comment[GradientTime]": [
+      "180 min ramp gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 27"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "selecting up to 12 precursor ions with a mass window of m/z 1.6 based on highest intensity for HCD fragmenting"
+    ]
+  },
+  "Colon_ParticipantA_iFFPE_1.raw": {
+    "Source Name": [
+      "Colon_ParticipantA_iFFPE_1"
+    ],
+    "Assay Name": [
+      "Colon_ParticipantA_iFFPE_1_assay"
+    ],
+    "Raw Data File": [
+      "Colon_ParticipantA_iFFPE_1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "human soft tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Colon mucosal biopsies"
+    ],
+    "Characteristics[OrganismPart]": [
+      "sigmoideum"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "24 colon mucosa biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two gastroenterologically healthy participants"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "chloroacetamide"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "ParticipantA"
+    ],
+    "FactorValue[Treatment]": [
+      "immediately (iFFPE) stabilized in 4% formalin"
+    ],
+    "Characteristics[SamplingTime]": [
+      "Paraffin embedding was performed after one week at the Department of Pathology, Aalborg University Hospital, Denmark, according to current standards.",
+      "The FFPE prepared samples were subsequently stored for three weeks at room temperature prior to sample processing and proteome analysis."
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer"
+    ],
+    "Comment[IonizationType]": [
+      "UPLC-nanoESI MS/MS setup",
+      "nanospray ionization (New objective picotip 360-20-10)"
+    ],
+    "Comment[Separation]": [
+      "separated using an analytical 50 cm reversed phase Acclaim PepMap RSLC C18 column (Dionex)"
+    ],
+    "Comment[GradientTime]": [
+      "180 min ramp gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 27"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "selecting up to 12 precursor ions with a mass window of m/z 1.6 based on highest intensity for HCD fragmenting"
+    ]
+  },
+  "Colon_ParticipantB_RNAlater_2.raw": {
+    "Source Name": [
+      "Colon_ParticipantB_RNAlater_2"
+    ],
+    "Assay Name": [
+      "Colon_ParticipantB_RNAlater_2_assay"
+    ],
+    "Raw Data File": [
+      "Colon_ParticipantB_RNAlater_2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "human"
+    ],
+    "Characteristics[MaterialType]": [
+      "human soft tissue"
+    ],
+    "Characteristics[Specimen]": [
+      "Colon mucosal biopsies"
+    ],
+    "Characteristics[OrganismPart]": [
+      "sigmoideum"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "24 colon mucosa biopsies"
+    ],
+    "Characteristics[NumberOfBiologicalReplicates]": [
+      "two gastroenterologically healthy participants"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsin"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "tris(2-carboxyethyl)phosphine"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "chloroacetamide"
+    ],
+    "Characteristics[BiologicalReplicate]": [
+      "ParticipantB"
+    ],
+    "FactorValue[Treatment]": [
+      "RNAlater biopsies"
+    ],
+    "Characteristics[SamplingTime]": [
+      "stored at room temperature for 24 h followed by storage at −80 °C for one month prior to sample processing and proteome analysis."
+    ],
+    "Comment[Instrument]": [
+      "Q Exactive Plus mass spectrometer"
+    ],
+    "Comment[IonizationType]": [
+      "UPLC-nanoESI MS/MS setup",
+      "nanospray ionization (New objective picotip 360-20-10)"
+    ],
+    "Comment[Separation]": [
+      "separated using an analytical 50 cm reversed phase Acclaim PepMap RSLC C18 column (Dionex)"
+    ],
+    "Comment[GradientTime]": [
+      "180 min ramp gradient"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nL/min"
+    ],
+    "Comment[FragmentationMethod]": [
+      "HCD"
+    ],
+    "Comment[CollisionEnergy]": [
+      "normalized collision energy of 27"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "selecting up to 12 precursor ions with a mass window of m/z 1.6 based on highest intensity for HCD fragmenting"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+Disease: malignant melanoma
+TumorStage: node-positive
+AssayName: shotgun proteomics
+Disease: Metastatic melanoma
+AnatomicSiteTumor: melanoma lymph node metastases
+AssayName: high resolution mass spectrometry
+NumberOfSamples: 111
+TumorStage: Stage 3 and 4
+Temperature: −80 °C
+Staining: HE
+CellLine: SK-MEL-2
+CellLine: SK-MEL-28
+ConcentrationOfCompound: 6 M urea
+ConcentrationOfCompound: 50 mM ammonium bicarbonate buffer
+Temperature: ice bath
+Time: 30 min
+Time: 10 min
+Time: 5 min
+Temperature: room temperature
+AssayName: bicinchoninic acid protein assay
+SpikedCompound: chicken lysozyme
+ConcentrationOfCompound: 0.1 mg
+ReductionReagent: DTT
+ConcentrationOfCompound: 10 mM DTT
+Time: 1 h
+Temperature: 37 °C
+AlkylationReagent: iodoacetamide
+ConcentrationOfCompound: 50 mM iodoacetamide
+CleavageAgent: sequencing grade trypsin
+ConcentrationOfCompound: 1:100 w/w (trypsin:protein)
+Time: overnight
+Compound: formic acid
+ConcentrationOfCompound: 1%
+ConcentrationOfCompound: 0.1% formic acid
+SpikedCompound: peptide retention time calibration mixture
+ConcentrationOfCompound: 20 fmoL/mL
+Instrument: Thermo Easy nLC 1000 system
+Instrument: Q-Exactive Plus mass spectrometer
+Separation: trap column (Acclaim1 PepMap 100 pre-column, 75 µm, 2 cm, C18, 3 mm, 100 Å, Thermo Scientific, San José, CA)
+Separation: analytical column (EASY-Spray column, 25 cm, 75 µm ID, PepMap RSLC C18, 2 mm, 100 Å, Thermo Scientific, San José, CA)
+FlowRateChromatogram: 300 nL/min
+Temperature: 35 °C
+GradientTime: first 120 min
+GradientTime: in the next 5 min
+GradientTime: for 10 min
+AcquisitionMethod: data-dependent top-15 method
+CollisionEnergy: 30%
+MS2MassAnalyzer: Orbitrap mass analyzer
+Modification: carbamidomethylation
+Modification: oxidation of methionine
+PrecursorMassTolerance: 20 ppm
+FragmentMassTolerance: 0.02 Da
+NumberOfMissedCleavages: two
+AssayName: consensus clustering
+AssayName: PLS-Cox regression
+AssayName: Kruskal-Wallis test
+AssayName: chi-squared test
+AssayName: Ingenuity Pathway Analysis
+AssayName: Panther server

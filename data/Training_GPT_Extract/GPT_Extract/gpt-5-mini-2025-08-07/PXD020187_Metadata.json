@@ -1,0 +1,692 @@
+{
+  "D2_Nat_2.raw": {
+    "Source Name": [
+      "D2_Nat_2"
+    ],
+    "Assay Name": [
+      "D2_Nat_2_assay"
+    ],
+    "Raw Data File": [
+      "D2_Nat_2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "Characteristics[Specimen]": [
+      "human umbilical arteries (hUAs)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Native (n = 5) and decellularized (n = 5) hUAs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsinization of proteins (trypsin ratio 1:100, Sigma-Aldrich, Darmstadt, Germany)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTE"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "0.05 M iodoacetamide"
+    ],
+    "FactorValue[Treatment]": [
+      "Native (n = 5)"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UHPLC system coupled with the high resolution nano-ESI Orbitrap-Elite mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "Normalized collision energy was set to 33"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 0.05 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavage sites"
+    ],
+    "Comment[GradientTime]": [
+      "elution of peptides for 240 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[IonizationType]": [
+      "Positive ion electrospray ionization"
+    ],
+    "Comment[Separation]": [
+      "Acclaim PepMap 100, 100 μm × 2 cm C18, 5 μm, 100 Ȧ trapping column",
+      "Acclaim PepMap RSLC, 75 μm × 50 cm, nanoViper, C18, 2 μm, 100 Ȧ column retrofitted to a PicoTip emitter"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap-Elite mass spectrometer (Thermo Scientific)"
+    ]
+  },
+  "E3_Dec_3.raw": {
+    "Source Name": [
+      "E3_Dec_3"
+    ],
+    "Assay Name": [
+      "E3_Dec_3_assay"
+    ],
+    "Raw Data File": [
+      "E3_Dec_3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "Characteristics[Specimen]": [
+      "human umbilical arteries (hUAs)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Native (n = 5) and decellularized (n = 5) hUAs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsinization of proteins (trypsin ratio 1:100, Sigma-Aldrich, Darmstadt, Germany)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTE"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "0.05 M iodoacetamide"
+    ],
+    "FactorValue[Treatment]": [
+      "decellularized (n = 5) hUAs"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UHPLC system coupled with the high resolution nano-ESI Orbitrap-Elite mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "Normalized collision energy was set to 33"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 0.05 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavage sites"
+    ],
+    "Comment[GradientTime]": [
+      "elution of peptides for 240 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[IonizationType]": [
+      "Positive ion electrospray ionization"
+    ],
+    "Comment[Separation]": [
+      "Acclaim PepMap 100, 100 μm × 2 cm C18, 5 μm, 100 Ȧ trapping column",
+      "Acclaim PepMap RSLC, 75 μm × 50 cm, nanoViper, C18, 2 μm, 100 Ȧ column retrofitted to a PicoTip emitter"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap-Elite mass spectrometer (Thermo Scientific)"
+    ]
+  },
+  "E1_Dec_1.raw": {
+    "Source Name": [
+      "E1_Dec_1"
+    ],
+    "Assay Name": [
+      "E1_Dec_1_assay"
+    ],
+    "Raw Data File": [
+      "E1_Dec_1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "Characteristics[Specimen]": [
+      "human umbilical arteries (hUAs)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Native (n = 5) and decellularized (n = 5) hUAs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsinization of proteins (trypsin ratio 1:100, Sigma-Aldrich, Darmstadt, Germany)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTE"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "0.05 M iodoacetamide"
+    ],
+    "FactorValue[Treatment]": [
+      "decellularized (n = 5) hUAs"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UHPLC system coupled with the high resolution nano-ESI Orbitrap-Elite mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "Normalized collision energy was set to 33"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 0.05 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavage sites"
+    ],
+    "Comment[GradientTime]": [
+      "elution of peptides for 240 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[IonizationType]": [
+      "Positive ion electrospray ionization"
+    ],
+    "Comment[Separation]": [
+      "Acclaim PepMap 100, 100 μm × 2 cm C18, 5 μm, 100 Ȧ trapping column",
+      "Acclaim PepMap RSLC, 75 μm × 50 cm, nanoViper, C18, 2 μm, 100 Ȧ column retrofitted to a PicoTip emitter"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap-Elite mass spectrometer (Thermo Scientific)"
+    ]
+  },
+  "E4_Dec_4.raw": {
+    "Source Name": [
+      "E4_Dec_4"
+    ],
+    "Assay Name": [
+      "E4_Dec_4_assay"
+    ],
+    "Raw Data File": [
+      "E4_Dec_4.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "Characteristics[Specimen]": [
+      "human umbilical arteries (hUAs)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Native (n = 5) and decellularized (n = 5) hUAs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsinization of proteins (trypsin ratio 1:100, Sigma-Aldrich, Darmstadt, Germany)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTE"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "0.05 M iodoacetamide"
+    ],
+    "FactorValue[Treatment]": [
+      "decellularized (n = 5) hUAs"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UHPLC system coupled with the high resolution nano-ESI Orbitrap-Elite mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "Normalized collision energy was set to 33"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 0.05 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavage sites"
+    ],
+    "Comment[GradientTime]": [
+      "elution of peptides for 240 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[IonizationType]": [
+      "Positive ion electrospray ionization"
+    ],
+    "Comment[Separation]": [
+      "Acclaim PepMap 100, 100 μm × 2 cm C18, 5 μm, 100 Ȧ trapping column",
+      "Acclaim PepMap RSLC, 75 μm × 50 cm, nanoViper, C18, 2 μm, 100 Ȧ column retrofitted to a PicoTip emitter"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap-Elite mass spectrometer (Thermo Scientific)"
+    ]
+  },
+  "D1_Nat_1.raw": {
+    "Source Name": [
+      "D1_Nat_1"
+    ],
+    "Assay Name": [
+      "D1_Nat_1_assay"
+    ],
+    "Raw Data File": [
+      "D1_Nat_1.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "Characteristics[Specimen]": [
+      "human umbilical arteries (hUAs)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Native (n = 5) and decellularized (n = 5) hUAs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsinization of proteins (trypsin ratio 1:100, Sigma-Aldrich, Darmstadt, Germany)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTE"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "0.05 M iodoacetamide"
+    ],
+    "FactorValue[Treatment]": [
+      "Native (n = 5)"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UHPLC system coupled with the high resolution nano-ESI Orbitrap-Elite mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "Normalized collision energy was set to 33"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 0.05 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavage sites"
+    ],
+    "Comment[GradientTime]": [
+      "elution of peptides for 240 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[IonizationType]": [
+      "Positive ion electrospray ionization"
+    ],
+    "Comment[Separation]": [
+      "Acclaim PepMap 100, 100 μm × 2 cm C18, 5 μm, 100 Ȧ trapping column",
+      "Acclaim PepMap RSLC, 75 μm × 50 cm, nanoViper, C18, 2 μm, 100 Ȧ column retrofitted to a PicoTip emitter"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap-Elite mass spectrometer (Thermo Scientific)"
+    ]
+  },
+  "D4_Nat_4.raw": {
+    "Source Name": [
+      "D4_Nat_4"
+    ],
+    "Assay Name": [
+      "D4_Nat_4_assay"
+    ],
+    "Raw Data File": [
+      "D4_Nat_4.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "Characteristics[Specimen]": [
+      "human umbilical arteries (hUAs)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Native (n = 5) and decellularized (n = 5) hUAs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsinization of proteins (trypsin ratio 1:100, Sigma-Aldrich, Darmstadt, Germany)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTE"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "0.05 M iodoacetamide"
+    ],
+    "FactorValue[Treatment]": [
+      "Native (n = 5)"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UHPLC system coupled with the high resolution nano-ESI Orbitrap-Elite mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "Normalized collision energy was set to 33"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 0.05 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavage sites"
+    ],
+    "Comment[GradientTime]": [
+      "elution of peptides for 240 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[IonizationType]": [
+      "Positive ion electrospray ionization"
+    ],
+    "Comment[Separation]": [
+      "Acclaim PepMap 100, 100 μm × 2 cm C18, 5 μm, 100 Ȧ trapping column",
+      "Acclaim PepMap RSLC, 75 μm × 50 cm, nanoViper, C18, 2 μm, 100 Ȧ column retrofitted to a PicoTip emitter"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap-Elite mass spectrometer (Thermo Scientific)"
+    ]
+  },
+  "D5_Nat_5.raw": {
+    "Source Name": [
+      "D5_Nat_5"
+    ],
+    "Assay Name": [
+      "D5_Nat_5_assay"
+    ],
+    "Raw Data File": [
+      "D5_Nat_5.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "Characteristics[Specimen]": [
+      "human umbilical arteries (hUAs)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Native (n = 5) and decellularized (n = 5) hUAs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsinization of proteins (trypsin ratio 1:100, Sigma-Aldrich, Darmstadt, Germany)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTE"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "0.05 M iodoacetamide"
+    ],
+    "FactorValue[Treatment]": [
+      "Native (n = 5)"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UHPLC system coupled with the high resolution nano-ESI Orbitrap-Elite mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "Normalized collision energy was set to 33"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 0.05 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavage sites"
+    ],
+    "Comment[GradientTime]": [
+      "elution of peptides for 240 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[IonizationType]": [
+      "Positive ion electrospray ionization"
+    ],
+    "Comment[Separation]": [
+      "Acclaim PepMap 100, 100 μm × 2 cm C18, 5 μm, 100 Ȧ trapping column",
+      "Acclaim PepMap RSLC, 75 μm × 50 cm, nanoViper, C18, 2 μm, 100 Ȧ column retrofitted to a PicoTip emitter"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap-Elite mass spectrometer (Thermo Scientific)"
+    ]
+  },
+  "D3_Nat_3.raw": {
+    "Source Name": [
+      "D3_Nat_3"
+    ],
+    "Assay Name": [
+      "D3_Nat_3_assay"
+    ],
+    "Raw Data File": [
+      "D3_Nat_3.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "Characteristics[Specimen]": [
+      "human umbilical arteries (hUAs)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Native (n = 5) and decellularized (n = 5) hUAs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsinization of proteins (trypsin ratio 1:100, Sigma-Aldrich, Darmstadt, Germany)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTE"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "0.05 M iodoacetamide"
+    ],
+    "FactorValue[Treatment]": [
+      "Native (n = 5)"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UHPLC system coupled with the high resolution nano-ESI Orbitrap-Elite mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "Normalized collision energy was set to 33"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 0.05 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavage sites"
+    ],
+    "Comment[GradientTime]": [
+      "elution of peptides for 240 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[IonizationType]": [
+      "Positive ion electrospray ionization"
+    ],
+    "Comment[Separation]": [
+      "Acclaim PepMap 100, 100 μm × 2 cm C18, 5 μm, 100 Ȧ trapping column",
+      "Acclaim PepMap RSLC, 75 μm × 50 cm, nanoViper, C18, 2 μm, 100 Ȧ column retrofitted to a PicoTip emitter"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap-Elite mass spectrometer (Thermo Scientific)"
+    ]
+  },
+  "E2_Dec_2.raw": {
+    "Source Name": [
+      "E2_Dec_2"
+    ],
+    "Assay Name": [
+      "E2_Dec_2_assay"
+    ],
+    "Raw Data File": [
+      "E2_Dec_2.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "Characteristics[Specimen]": [
+      "human umbilical arteries (hUAs)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Native (n = 5) and decellularized (n = 5) hUAs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsinization of proteins (trypsin ratio 1:100, Sigma-Aldrich, Darmstadt, Germany)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTE"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "0.05 M iodoacetamide"
+    ],
+    "FactorValue[Treatment]": [
+      "decellularized (n = 5) hUAs"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UHPLC system coupled with the high resolution nano-ESI Orbitrap-Elite mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "Normalized collision energy was set to 33"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 0.05 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavage sites"
+    ],
+    "Comment[GradientTime]": [
+      "elution of peptides for 240 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[IonizationType]": [
+      "Positive ion electrospray ionization"
+    ],
+    "Comment[Separation]": [
+      "Acclaim PepMap 100, 100 μm × 2 cm C18, 5 μm, 100 Ȧ trapping column",
+      "Acclaim PepMap RSLC, 75 μm × 50 cm, nanoViper, C18, 2 μm, 100 Ȧ column retrofitted to a PicoTip emitter"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap-Elite mass spectrometer (Thermo Scientific)"
+    ]
+  },
+  "E5_Dec_5.raw": {
+    "Source Name": [
+      "E5_Dec_5"
+    ],
+    "Assay Name": [
+      "E5_Dec_5_assay"
+    ],
+    "Raw Data File": [
+      "E5_Dec_5.raw"
+    ],
+    "Characteristics[Organism]": [
+      "Homo sapiens"
+    ],
+    "Characteristics[Specimen]": [
+      "human umbilical arteries (hUAs)"
+    ],
+    "Characteristics[NumberOfSamples]": [
+      "Native (n = 5) and decellularized (n = 5) hUAs"
+    ],
+    "Characteristics[CleavageAgent]": [
+      "trypsinization of proteins (trypsin ratio 1:100, Sigma-Aldrich, Darmstadt, Germany)"
+    ],
+    "Characteristics[ReductionReagent]": [
+      "10 mM DTE"
+    ],
+    "Characteristics[AlkylationReagent]": [
+      "0.05 M iodoacetamide"
+    ],
+    "FactorValue[Treatment]": [
+      "decellularized (n = 5) hUAs"
+    ],
+    "Comment[Instrument]": [
+      "Dionex Ultimate 3000 UHPLC system coupled with the high resolution nano-ESI Orbitrap-Elite mass spectrometer (Thermo Scientific)"
+    ],
+    "Comment[AcquisitionMethod]": [
+      "LC/MS"
+    ],
+    "Comment[FragmentationMethod]": [
+      "higher-energy collisional dissociation (HCD)"
+    ],
+    "Comment[CollisionEnergy]": [
+      "Normalized collision energy was set to 33"
+    ],
+    "Comment[PrecursorMassTolerance]": [
+      "precursor mass tolerance of 10 ppm"
+    ],
+    "Comment[FragmentMassTolerance]": [
+      "fragment mass tolerance of 0.05 Da"
+    ],
+    "Comment[NumberOfMissedCleavages]": [
+      "Two missed cleavage sites"
+    ],
+    "Comment[GradientTime]": [
+      "elution of peptides for 240 min"
+    ],
+    "Comment[FlowRateChromatogram]": [
+      "300 nl/min"
+    ],
+    "Comment[IonizationType]": [
+      "Positive ion electrospray ionization"
+    ],
+    "Comment[Separation]": [
+      "Acclaim PepMap 100, 100 μm × 2 cm C18, 5 μm, 100 Ȧ trapping column",
+      "Acclaim PepMap RSLC, 75 μm × 50 cm, nanoViper, C18, 2 μm, 100 Ȧ column retrofitted to a PicoTip emitter"
+    ],
+    "Comment[MS2MassAnalyzer]": [
+      "Orbitrap-Elite mass spectrometer (Thermo Scientific)"
+    ]
+  }
+}

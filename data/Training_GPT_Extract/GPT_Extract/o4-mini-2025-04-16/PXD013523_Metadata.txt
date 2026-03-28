@@ -1,0 +1,47 @@
+Disease: Papillary Renal Cell Carcinomas  
+Disease: papillary renal cell carcinoma (pRCC)  
+Specimen: malignant tissues  
+Specimen: non-malignant tissues  
+MaterialType: frozen tissue  
+MaterialType: genomic DNA  
+Temperature: −80 °C  
+CleavageAgent: trypsin  
+ReductionReagent: 0.1 M dithiothreitol (DTT)  
+AlkylationReagent: 40 mM chloroacetamide  
+FractionationMethod: strong cation exchange (SCX) chromatography  
+Instrument: Q-Exactive HF Orbitrap mass spectrometer  
+Instrument: Covaris™ S2  
+Instrument: Illumina NextSeq4000  
+Instrument: Illumina Genome Analyzer IIx  
+Separation: nanoflow reverse phase liquid chromatography  
+FlowRateChromatogram: 266 nL per minute flow rate  
+GradientTime: 120 min  
+IonizationType: Nanoelectrospray  
+CollisionEnergy: normalized collision energy of 27 eV  
+PrecursorMassTolerance: 4.5 ppm  
+FragmentMassTolerance: 20 ppm  
+NumberOfMissedCleavages: two missed cleavages  
+BiologicalReplicate: 19  
+CellLine: Caki-2  
+CellLine: ACHN  
+CellLine: HK-2  
+CellType: cortex/proximal tubule  
+Compound: Dulbecco’s modified Eagle medium (DMEM)  
+Compound: fetal bovine serum (FBS)  
+Compound: penicillin–streptomycin–neomycin  
+ConcentrationOfCompound: 4.5 g/L glucose  
+ConcentrationOfCompound: 10% fetal bovine serum  
+ConcentrationOfCompound: 1% penicillin–streptomycin–neomycin  
+ConcentrationOfCompound: 5 mM 13C6 labeled glucose  
+ConcentrationOfCompound: 2 mM 13C515N glutamic acid  
+Temperature: 37 °C  
+FactorValue: 5% CO2  
+SamplingTime: 0 h  
+SamplingTime: 12 h  
+SamplingTime: 24 h  
+SpikedCompound: 13C6 labeled glucose  
+SpikedCompound: 13C515N glutamic acid  
+AssayName: Whole Exome Sequencing (WES)  
+AssayName: shotgun proteome profiling  
+Experiment: isotope tracing experiment  
+SourceName: human proteome database UniProtKB

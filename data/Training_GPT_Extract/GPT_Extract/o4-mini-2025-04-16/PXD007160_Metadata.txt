@@ -1,0 +1,35 @@
+NumberOfSamples: n=80  
+Disease: Alzheimer’s disease  
+Disease: Parkinson’s disease  
+AssayName: Tandem Mass Tag (TMT) isobaric labeling  
+AssayName: synchronous precursor selection-based MS3 (SPS-MS3) mass spectrometry  
+AssayName: TMT 10-plex assay  
+PooledSample: global internal standard (GIS)  
+CleavageAgent: Lysyl endopeptidase (Wako)  
+CleavageAgent: Trypsin (Promega)  
+ReductionReagent: 1 mM dithiothreitol (DTT)  
+AlkylationReagent: 5 mM iodoacetamide (IAA)  
+Compound: 8 M urea  
+Compound: HALT protease and phosphatase inhibitor cocktail (ThermoFisher)  
+Instrument: Bullet Blender (NextAdvance)  
+Instrument: Agilent 1100 HPLC system  
+Instrument: Orbitrap Fusion mass spectrometer  
+Instrument: Dionex RSLCnano UPLC  
+FractionationMethod: Electrostatic repulsion-hydrophilic interaction chromatography (ERLIC) fractionation  
+Separation: C18 Sep-Pak column (Waters)  
+PrecursorMassTolerance: 20 ppm  
+FragmentMassTolerance: 0.6 daltons  
+NumberOfMissedCleavages: two  
+Modification: TMT tags on lysine residues and peptide N-termini (+ 229.162932 Da)  
+Modification: carbamidomethylation of cysteine residues (+ 57.02146 Da)  
+Modification: oxidation of methionine residues (+ 15.99492 Da)  
+Modification: deamidation of asparagine and glutamine (+0.984 Da)  
+GradientTime: 45 min  
+GradientTime: 105 min  
+FlowRateChromatogram: 300 nl  
+FragmentationMethod: collision-induced dissociation (CID)-MS2 fragmentation  
+FragmentationMethod: higher-energy collision dissociation (HCD) fragmentation  
+CollisionEnergy: 35%  
+CollisionEnergy: 65%  
+MS2MassAnalyzer: linear ion trap  
+TechnicalReplicate: fraction 19

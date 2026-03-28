@@ -1,0 +1,24 @@
+Organism: Rice (Oryza sativa L.)  
+AssayName: label-free, MS (Mass Spectrometry)-based phosphoproteomic approach  
+Organism: Nipponbare (Oryza sativa L. ssp japonica)  
+DevelopmentalStage: Two-week old young seedlings with hydroponics  
+Treatment: BR treatment  
+Compound: epibrassinolide  
+ConcentrationOfCompound: 10 μM epibrassinolide  
+SamplingTime: 0 h  
+SamplingTime: 3 h  
+SamplingTime: 6 h  
+SamplingTime: 12 h  
+SamplingTime: 24 h  
+NumberOfBiologicalReplicates: Three biological replicates  
+Temperature: 30/28°C  
+CleavageAgent: trypsin  
+EnrichmentMethod: TiO2 beads  
+AssayName: LC-MS/MS assay  
+Instrument: Q-Exactive Plus  
+FlowRateChromatogram: 500 nl/min  
+CollisionEnergy: normalized collision energy of 27%  
+FragmentationMethod: HCD  
+MS2MassAnalyzer: Orbitrap  
+PrecursorMassTolerance: 20 ppm  
+FragmentMassTolerance: 50 mmu

@@ -1,0 +1,31 @@
+Organism: Human  
+NumberOfSamples: 30 histologically normal tissues and cells  
+AssayName: high-resolution mass spectrometry  
+Specimen: Histologically normal human organs  
+Specimen: fetal tissues  
+Specimen: hematopoietic cells  
+ReductionReagent: 100 mM DTT  
+AlkylationReagent: IAA  
+FractionationMethod: SDS-PAGE  
+FractionationMethod: bRPLC  
+NumberOfFractions: 96  
+NumberOfFractions: 24  
+GradientTime: 50 min  
+FlowRateChromatogram: 5 μL/min  
+FlowRateChromatogram: 350 nL/min  
+Instrument: LTQ-Orbitrap Velos mass spectrometer  
+Instrument: LTQ-Orbitrap Elite mass spectrometer  
+AcquisitionMethod: Data-dependent acquisition  
+FragmentationMethod: higher-energy collision dissociation (HCD)  
+CollisionEnergy: 35% normalized collision energy  
+PrecursorMassTolerance: 10 ppm  
+FragmentMassTolerance: 0.05 Da  
+CleavageAgent: trypsin  
+NumberOfMissedCleavages: two  
+SamplingTime: 10–15 min  
+Time: 30 s  
+Temperature: 75 °C  
+Modification: carbamidomethylation of cysteine  
+Modification: oxidation of methionine  
+Modification: acetylation of protein N-termini  
+Modification: cyclization of N-terminal glutamine
