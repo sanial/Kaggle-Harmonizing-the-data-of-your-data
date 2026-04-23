@@ -474,26 +474,75 @@ git push origin feat/your-pipeline-name
 .
 ├── README.md                          # This file
 ├── LICENSE                            # Repository license
+├── requirements.txt                   # Python dependencies
+├── SETUP.md                           # Setup and environment guide
+├── configs/
+│   └── training.yaml                  # Model training configuration
 ├── src/
-│   └── Scoring.py                     # Competition scoring function
+│   ├── Scoring.py                     # Competition scoring function
+│   └── harmonizer/                    # Core harmonizer library modules
 ├── data/
 │   ├── SampleSubmission.csv           # Template for submission format
+│   ├── BaselinePrompt.txt             # Prompt used for the baseline LLM approach
 │   ├── TrainingPubText/               # Training set publication texts (JSON)
 │   ├── TrainingSDRFs/                 # Gold-standard SDRF annotations (CSV)
 │   ├── TestPubText/                   # Test set publication texts (JSON)
 │   └── detailed_evaluation_metrics.csv # Example evaluation output
-├── detailed_evaluation_metrics.csv    # Example evaluation output
+├── notebooks/                         # Exploratory and pipeline notebooks (see notebooks/README.md)
+│   ├── 01_eda.ipynb                   # Exploratory data analysis
+│   ├── ...
+│   └── 16_ols_entity_linking_pipeline.ipynb  # ⭐ SUBMITTED notebook
+├── outputs/                           # Generated outputs, submissions, and cached data
+│   ├── submission*.csv                # Submission files from various pipeline runs
+│   ├── checkpoint_*.json              # Training checkpoint logs
+│   ├── kaggle_dataset/                # Cached OLS/PRIDE lookups
+│   └── pubmedbert_models/             # Fine-tuned PubMedBERT checkpoints (git-ignored)
+├── scripts/
+│   ├── quickstart.py                  # End-to-end train → infer → score runner
+│   ├── train.py                       # Model training script
+│   ├── infer.py                       # Inference script
+│   ├── build_test_preprocessed.py     # Build preprocessed test set
+│   ├── fill_summary.py                # Fill in summary fields
+│   ├── check_pubtext.py               # Validate publication text files
+│   └── upgrade_nb18_ols.py            # Upgrade helper for OLS pipeline
 └── Submissions/                       # Community contributions
     ├── example-submission-1/
     │   ├── pipeline.py
     │   ├── submission.csv
     │   ├── requirements.txt
     │   └── README.md
-    ├── example-submission-2/
-    │   └── ...
     └── your-submission/
         └── ...
 ```
+
+### Notebooks
+
+See [notebooks/README.md](notebooks/README.md) for full descriptions of each notebook.
+
+| # | Notebook | Description |
+|---|----------|-------------|
+| 01 | `01_eda.ipynb` | Exploratory data analysis of publications and SDRF structure |
+| 02 | `02_preprocessing.ipynb` | Text cleaning, tokenisation, and feature preparation |
+| 03 | `03_baseline.ipynb` | Simple rule/heuristic baseline |
+| 04 | `04_model_development.ipynb` | Initial model experiments and architecture selection |
+| 05 | `05_tier1_submission.ipynb` | Tier-1 competition submission pipeline |
+| 06 | `06_majority_fallback.ipynb` | Majority-vote fallback strategy |
+| 07 | `07_llm_extraction.ipynb` | LLM-based metadata extraction |
+| 08 | `08_final_submission (2).ipynb` | Revised final submission (iteration 2) |
+| 10 | `10_pride_regex_biobert.ipynb` | PRIDE regex combined with BioBERT NER |
+| 11 | `11_per_file_ontology_pipeline.ipynb` | Per-file ontology lookup pipeline |
+| 11v2 | `11_per_file_ontology_pipeline_v2.ipynb` | Improved per-file ontology pipeline |
+| 13 | `13_combined_regex_llm_pipeline.ipynb` | Combined regex + LLM hybrid pipeline |
+| 14 | `14_scispacy_v17_pipeline.ipynb` | SciSpaCy NER pipeline (v17) |
+| 15 | `15_pubmedbert_finetune_pipeline.ipynb` | Fine-tuned PubMedBERT extraction pipeline |
+| **16** | **`16_ols_entity_linking_pipeline.ipynb`** | **⭐ SUBMITTED — OLS entity linking pipeline (final submission)** |
+| 16v2 | `16_v2_ols_entity_linking_pipeline.ipynb` | Extended OLS entity linking pipeline (v2 variant) |
+| 17 | `17_graph_pipeline.ipynb` | Graph-based entity resolution pipeline |
+| 17mdc | `17_mdc_hybrid_pipeline.ipynb` | MDC hybrid NER pipeline |
+| 18 | `18_semantic_similarity_pipeline.ipynb` | Semantic similarity matching pipeline |
+| 20 | `20_biobert_ols_pipeline.ipynb` | BioBERT + OLS entity linking pipeline |
+| 21 | `21.ipynb` / `21_modified (1).ipynb` | Iteration 21 (and modified variant) |
+| 22 | `22_pubmedbert_ols_pipeline.ipynb` | PubMedBERT + OLS combined pipeline |
 
 ### Data Directory
 
