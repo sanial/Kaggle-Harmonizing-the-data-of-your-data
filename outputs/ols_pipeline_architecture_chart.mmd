@@ -1,0 +1,13 @@
+flowchart TD
+    A[Inputs: SampleSubmission, TrainingSDRFs, Test PubText JSON] --> B[Per-PXD processing loop]
+    C[PRIDE API project metadata] --> B
+    D[ProteomeXchange XML backup metadata] --> B
+    E[v17 regex extraction from paper text] --> B
+
+    B --> F[OLS normalization: uberon, ms, unimod, pride plus local fast maps]
+    F --> G[Layered merge priority: Training overlap, PRIDE, PX XML, Regex]
+    G --> H[Conservative majority fallback if coverage > 80 percent and not in NO_FALLBACK]
+    H --> I[Per-file parsing from Raw Data File: fraction, biological replicate, label]
+    I --> J[Cleanup and canonicalization: NA cleanup, modification slot handling, AC NT formatting]
+    J --> K[Output submission_ols.csv]
+    K --> L[Diagnostics: fill rate report and spot checks]

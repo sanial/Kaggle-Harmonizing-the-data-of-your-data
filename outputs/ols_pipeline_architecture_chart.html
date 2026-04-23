@@ -1,0 +1,255 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>OLS Pipeline Architecture Chart</title>
+  <style>
+    :root {
+      --bg: #f3f7fb;
+      --card: #ffffff;
+      --ink: #0f172a;
+      --muted: #475569;
+      --accent: #0b7285;
+      --accent-2: #f08c00;
+      --border: #dbe4ee;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      padding: 24px;
+      font-family: Segoe UI, Tahoma, Geneva, Verdana, sans-serif;
+      color: var(--ink);
+      background:
+        radial-gradient(circle at 20% 0%, #e7f5ff 0%, transparent 40%),
+        radial-gradient(circle at 80% 10%, #fff3bf 0%, transparent 35%),
+        var(--bg);
+    }
+
+    .wrap {
+      max-width: 1300px;
+      margin: 0 auto;
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 18px;
+      box-shadow: 0 10px 30px rgba(2, 6, 23, 0.08);
+    }
+
+    .head {
+      display: flex;
+      gap: 12px;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 12px;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: 22px;
+      letter-spacing: 0.2px;
+    }
+
+    p {
+      margin: 4px 0 0;
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    .actions {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+
+    button {
+      border: 1px solid var(--border);
+      background: #fff;
+      color: var(--ink);
+      font-weight: 600;
+      border-radius: 10px;
+      padding: 8px 12px;
+      cursor: pointer;
+      transition: transform 120ms ease, background 120ms ease;
+    }
+
+    button:hover {
+      background: #f8fafc;
+      transform: translateY(-1px);
+    }
+
+    button.primary {
+      border-color: var(--accent);
+      color: white;
+      background: linear-gradient(135deg, var(--accent), #1098ad);
+    }
+
+    button.secondary {
+      border-color: var(--accent-2);
+      color: white;
+      background: linear-gradient(135deg, var(--accent-2), #fab005);
+    }
+
+    #chart {
+      overflow: auto;
+      border: 1px dashed var(--border);
+      border-radius: 12px;
+      padding: 14px;
+      background: #fcfeff;
+      min-height: 500px;
+    }
+
+    .legend {
+      margin-top: 10px;
+      font-size: 13px;
+      color: var(--muted);
+      line-height: 1.5;
+    }
+
+    code {
+      background: #f1f5f9;
+      border: 1px solid #e2e8f0;
+      border-radius: 6px;
+      padding: 1px 6px;
+    }
+
+    @media (max-width: 700px) {
+      body { padding: 12px; }
+      h1 { font-size: 18px; }
+      #chart { min-height: 420px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="head">
+      <div>
+        <h1>Data Pipeline Software Architecture</h1>
+        <p>Notebook 16: OLS Entity Linking + PRIDE API + Regex Extraction</p>
+      </div>
+      <div class="actions">
+        <button class="primary" id="download-svg">Download SVG</button>
+        <button class="secondary" id="download-png">Download PNG</button>
+        <button id="copy-mermaid">Copy Mermaid</button>
+      </div>
+    </div>
+
+    <div id="chart">
+      <pre class="mermaid" id="mermaid-source">flowchart TD
+    A[Inputs: SampleSubmission, TrainingSDRFs, Test PubText JSON] --> B[Per-PXD processing loop]
+    C[PRIDE API project metadata] --> B
+    D[ProteomeXchange XML backup metadata] --> B
+    E[v17 regex extraction from paper text] --> B
+
+    B --> F[OLS normalization: uberon, ms, unimod, pride plus local fast maps]
+    F --> G[Layered merge priority: Training overlap, PRIDE, PX XML, Regex]
+    G --> H[Conservative majority fallback if coverage greater than 80 percent and not in NO_FALLBACK]
+    H --> I[Per-file parsing from Raw Data File: fraction, biological replicate, label]
+    I --> J[Cleanup and canonicalization: NA cleanup, modification slot handling, AC NT formatting]
+    J --> K[Output submission_ols.csv]
+    K --> L[Diagnostics: fill rate report and spot checks]</pre>
+    </div>
+
+    <div class="legend">
+      Merge precedence: <code>Training overlap</code> -> <code>PRIDE API</code> -> <code>PX XML</code> -> <code>Regex</code> -> <code>majority fallback</code>.
+    </div>
+  </div>
+
+  <script type="module">
+    import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
+
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: 'base',
+      flowchart: { curve: 'basis' },
+      themeVariables: {
+        primaryColor: '#e7f5ff',
+        primaryBorderColor: '#0b7285',
+        primaryTextColor: '#0f172a',
+        lineColor: '#334155',
+        secondaryColor: '#fff3bf',
+        tertiaryColor: '#f8fafc',
+        fontFamily: 'Segoe UI, Tahoma, Geneva, Verdana, sans-serif'
+      }
+    });
+
+    function downloadText(filename, text) {
+      const blob = new Blob([text], { type: 'text/plain;charset=utf-8' });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = filename;
+      a.click();
+      URL.revokeObjectURL(url);
+    }
+
+    function getSvgElement() {
+      return document.querySelector('#chart svg');
+    }
+
+    function downloadSvg() {
+      const svg = getSvgElement();
+      if (!svg) return;
+      const serializer = new XMLSerializer();
+      const svgText = serializer.serializeToString(svg);
+      const blob = new Blob([svgText], { type: 'image/svg+xml;charset=utf-8' });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = 'ols_pipeline_architecture_chart.svg';
+      a.click();
+      URL.revokeObjectURL(url);
+    }
+
+    function downloadPng() {
+      const svg = getSvgElement();
+      if (!svg) return;
+      const serializer = new XMLSerializer();
+      const svgText = serializer.serializeToString(svg);
+      const svgBlob = new Blob([svgText], { type: 'image/svg+xml;charset=utf-8' });
+      const url = URL.createObjectURL(svgBlob);
+
+      const img = new Image();
+      img.onload = () => {
+        const scale = 2;
+        const canvas = document.createElement('canvas');
+        canvas.width = img.width * scale;
+        canvas.height = img.height * scale;
+        const ctx = canvas.getContext('2d');
+        ctx.fillStyle = '#ffffff';
+        ctx.fillRect(0, 0, canvas.width, canvas.height);
+        ctx.scale(scale, scale);
+        ctx.drawImage(img, 0, 0);
+
+        canvas.toBlob((blob) => {
+          if (!blob) return;
+          const pngUrl = URL.createObjectURL(blob);
+          const a = document.createElement('a');
+          a.href = pngUrl;
+          a.download = 'ols_pipeline_architecture_chart.png';
+          a.click();
+          URL.revokeObjectURL(pngUrl);
+        }, 'image/png');
+
+        URL.revokeObjectURL(url);
+      };
+
+      img.src = url;
+    }
+
+    document.getElementById('download-svg').addEventListener('click', downloadSvg);
+    document.getElementById('download-png').addEventListener('click', downloadPng);
+    document.getElementById('copy-mermaid').addEventListener('click', async () => {
+      const source = document.getElementById('mermaid-source').textContent;
+      try {
+        await navigator.clipboard.writeText(source);
+      } catch (e) {
+        downloadText('ols_pipeline_architecture_chart.mmd', source);
+      }
+    });
+  </script>
+</body>
+</html>

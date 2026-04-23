@@ -20,8 +20,10 @@ ENV/
 *.bin
 *.pt
 *.pth
+*.safetensors
 outputs/models/*
 !outputs/models/.gitkeep
+outputs/pubmedbert_models/
 
 # Logs and outputs
 outputs/logs/*
