@@ -2,6 +2,12 @@
 
 This folder contains all exploratory, prototyping, and pipeline notebooks developed during the competition.
 
+## The Journey
+This competition required extracting 77 SDRF metadata columns from proteomics research papers, scored via entity overlap F1 against ground truth ontology strings. The pipeline evolved across 22 notebooks over several weeks.
+Early phases established a baseline with heuristic rules and majority fallback strategies. Then introduced BioBERT and PubMedBERT for named entity recognition, which initially seemed promising. In practice, both models consistently overwrote authoritative values from the PRIDE API with confident wrong predictions, a failure mode that hurt more than it helped in a schema-strict scoring environment where format precision matters as much as extraction recall.
+The key insight came late: the competition scoring was built on the same ontologies served by EBI's Ontology Lookup Service. Instead of training models to guess canonical strings, notebook 16 queries OLS directly at runtime, resolving extracted terms against the authoritative source. This alignment between the pipeline's normalization source and the scoring function's ground truth produced the highest leaderboard score.
+A secondary insight was finding the Coleridge Initiative competition too late — a prior Kaggle competition tackling similar scientific entity extraction problems whose winning solutions would have pointed toward authoritative source alignment from week one.
+Best public score: 0.27273 (notebook 16)
 ## ⭐ Submitted Notebook
 
 **`16_ols_entity_linking_pipeline.ipynb`** — This is the final notebook submitted to the Kaggle competition. It implements an OLS (Ontology Lookup Service) entity linking pipeline that combines ontology-based entity resolution with structured extraction to generate SDRF metadata from proteomics publications.
