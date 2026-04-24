@@ -6,6 +6,19 @@
 
 ---
 
+## Problem Statement
+
+Proteomics research papers describe experimental metadata in natural language, sample 
+types, conditions, organisms, instruments, and analytical methods buried in dense 
+scientific prose. The Sample and Data Relationship Format (SDRF) is the standardized 
+machine-readable format that captures this information, but most published studies lack 
+complete or consistent SDRF annotations. This prevents large-scale data integration and 
+AI-driven discovery across proteomics datasets.
+
+The competition task was to build a pipeline that reads scientific papers and automatically 
+extracts and structures experimental information into valid SDRF metadata across 77 columns, 
+scored via macro-averaged F1 against ground truth ontology strings.
+
 ## What I Built
 
 A pipeline for extracting 77 SDRF metadata columns from proteomics research papers, scored via entity overlap F1 against ground truth ontology strings. The task requires not just extracting the right value from paper text, but producing it in the exact canonical format the scoring function expects — meaning normalization discipline matters as much as extraction recall.
