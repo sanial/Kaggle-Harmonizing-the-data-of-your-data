@@ -1,7 +1,7 @@
 # Kaggle — Harmonizing the Data of Your Data
 
 **Competition:** EBI Proteomics SDRF Metadata Extraction  
-**Best Public Score:** 0.27273 (Notebook 16, OLS Entity Linking Pipeline)  
+**Best Public Score:** 0.27551 (Notebook 16, OLS Entity Linking Pipeline)  
 **Leaderboard Position:** 89/250  
 
 ---
