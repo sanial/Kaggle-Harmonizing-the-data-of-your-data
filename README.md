@@ -21,7 +21,7 @@ scored via macro-averaged F1 against ground truth ontology strings.
 
 ## What I Built
 
-A pipeline for extracting 77 SDRF metadata columns from proteomics research papers, scored via entity overlap F1 against ground truth ontology strings. The task requires not just extracting the right value from paper text, but producing it in the exact canonical format the scoring function expects — meaning normalization discipline matters as much as extraction recall.
+A pipeline for extracting 77 SDRF metadata columns from proteomics research papers, scored via entity overlap F1 against ground truth ontology strings. The task requires not just extracting the right value from paper text, but producing it in the exact canonical format the scoring function expects which means normalization discipline matters as much as extraction recall.
 
 ---
 
@@ -51,11 +51,11 @@ Only triggered when a value appears in more than 80% of files for a given experi
 
 ## What Didn't Work
 
-Early iterations used PubMedBERT for entity extraction. In practice it consistently overwrote authoritative PRIDE API values with confident wrong predictions — a failure mode that hurt more than it helped in a schema-strict scoring environment. The clearest lesson: when domain APIs provide ground truth, the pipeline should defer to them rather than let a model override them.
+Early iterations used PubMedBERT for entity extraction. In practice it consistently overwrote authoritative PRIDE API values with confident wrong predictions, a failure mode that hurt more than it helped in a schema-strict scoring environment. The clearest lesson: when domain APIs provide ground truth, the pipeline should defer to them rather than let a model override them.
 
 Notebook 11 used hand-coded ontology dictionaries with 65 tissue entries, 30 instrument entries, and 26 cleavage agent synonyms. It scored reasonably well but missed format variants automatically. "Blood Serum", "blood serum", and "EDTA plasma" all needed to resolve to the same UBERON node (`NT=blood serum;AC=UBERON:0001977`). Notebook 16 replaced these static dictionaries with live OLS4 API queries, resolving terms against the same ontologies the competition scoring was built on.
 
-One thing I would do differently: study prior winning solutions earlier. The Coleridge Initiative competition tackled similar scientific entity extraction problems — those pipelines would have pointed toward authoritative source alignment weeks before I found it through trial and error.
+One thing I would do differently: study prior winning solutions earlier. The Coleridge Initiative competition tackled similar scientific entity extraction problems, those pipelines would have pointed toward authoritative source alignment weeks before I found it through trial and error.
 
 ---
 
